@@ -1,0 +1,32 @@
+name: Refresh News
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [refresh-news]
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run update_news.py (skips local git push; CI handles commit)
+        run: python3 outputs/update_news.py
+        env:
+          NEWSDESK_NO_PUSH: "1"
+      - name: Commit and push
+        run: |
+          git config user.email "newsbot@users.noreply.github.com"
+          git config user.name "newsbot"
+          git add outputs/news.json outputs/financial-news-desk.html
+          git diff --cached --quiet || git commit -m "auto: refresh news $(date +'%Y-%m-%d %H:%M %Z')"
+          git pull --rebase --autostash origin main || true
+          git push

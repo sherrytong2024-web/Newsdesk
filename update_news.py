@@ -45,18 +45,18 @@ CTX.check_hostname = False
 CTX.verify_mode = ssl.CERT_NONE
 
 # 源配置：name 展示名, url RSS地址, t 信源等级(sec/agg), per 每源取条数
-# 国内：新华社/人民日报财经(官媒) + 财新(Google聚合)  国际：CNBC/Bloomberg三频道/Investing/WSJ(容错)
+# 外国：彭博三频道(主) + S&P(Google聚合,主) + CNBC/Investing(次)
+# 国内：财联社电报(Google聚合,主) + 财新(Google聚合,次)
 SOURCES = [
-    {"name": "新华社财经", "url": "http://www.xinhuanet.com/fortune/news_fortune.xml", "t": "sec", "per": 0},
-    {"name": "人民日报财经", "url": "http://www.people.com.cn/rss/finance.xml", "t": "sec", "per": 0},
-    {"name": "财新(Google聚合)", "url": "https://news.google.com/rss/search?q=when:24h%20site:caixinglobal.com&hl=en-US&gl=US&ceid=US:en", "t": "sec", "per": 10},
+    {"name": "Bloomberg Markets", "url": "https://feeds.bloomberg.com/markets/news.rss", "t": "sec", "per": 7},
+    {"name": "Bloomberg Business", "url": "https://feeds.bloomberg.com/business/news.rss", "t": "sec", "per": 7},
+    {"name": "Bloomberg Tech", "url": "https://feeds.bloomberg.com/technology/news.rss", "t": "sec", "per": 6},
+    {"name": "S&P Global(Google聚合)", "url": "https://news.google.com/rss/search?q=when:24h%20S%26P%20500%20market%20OR%20S%26P%20Global%20economy&hl=en-US&gl=US&ceid=US:en", "t": "sec", "per": 12},
+    {"name": "财联社电报(Google聚合)", "url": "https://news.google.com/rss/search?q=when:24h%20site:cls.cn&hl=zh-CN&gl=CN&ceid=CN:zh", "t": "sec", "per": 18},
+    {"name": "财新(Google聚合)", "url": "https://news.google.com/rss/search?q=when:24h%20site:caixinglobal.com&hl=en-US&gl=US&ceid=US:en", "t": "sec", "per": 8},
     {"name": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "t": "sec", "per": 8},
-    {"name": "Bloomberg Markets", "url": "https://feeds.bloomberg.com/markets/news.rss", "t": "sec", "per": 10},
-    {"name": "Bloomberg Business", "url": "https://feeds.bloomberg.com/business/news.rss", "t": "sec", "per": 10},
-    {"name": "Bloomberg Tech", "url": "https://feeds.bloomberg.com/technology/news.rss", "t": "sec", "per": 10},
     {"name": "Investing.com(综合)", "url": "https://www.investing.com/rss/news.rss", "t": "agg", "per": 8},
     {"name": "Investing.com(商品)", "url": "https://www.investing.com/rss/commodities.rss", "t": "agg", "per": 6},
-    {"name": "WSJ", "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "t": "sec", "per": 10},
 ]
 
 # 黑名单：命中任一词 → 直接丢弃（非金融噪音）
@@ -152,7 +152,7 @@ def fetch_feed(src):
             if not title:
                 continue
             # 清理 Google News 聚合标题后缀（如 " - Caixin Global" / " - bloomberg.com"）
-            for suf in ("Caixin Global", "bloomberg.com", "Bloomberg", "Reuters", "Investing.com", "CNBC", "WSJ", "The Wall Street Journal"):
+            for suf in ("Caixin Global", "财联社", "cls.cn", "S&P Global", "bloomberg.com", "Bloomberg", "Reuters", "Investing.com", "CNBC", "WSJ", "The Wall Street Journal"):
                 if title.endswith(" - " + suf):
                     title = title[: -(len(suf) + 3)].strip()
                     break
@@ -220,6 +220,9 @@ def replace_time(html, ts):
 
 def git_commit_push(workdir, msg):
     """若当前目录是 git 仓库且已配置 remote，则自动提交并推送。失败不影响本地文件。"""
+    if os.environ.get("NEWSDESK_NO_PUSH"):
+        sys.stderr.write("[INFO] 跳过本地 git 推送（由 CI/工作流负责）\n")
+        return
     try:
         subprocess.run(["git", "-C", workdir, "add", "news.json", "financial-news-desk.html"],
                        check=True, capture_output=True, timeout=30)
@@ -244,12 +247,17 @@ def main():
 
     all_items = []
     seen = set()
+    src_counts = {}
+    MAX_PER = 10  # 单源上限，防止某一源霸屏，保证多源分散
     for src in SOURCES:
         for it in fetch_feed(src):
             key = it["title"].strip().lower()
             if key in seen or not it["srcs"][0]["u"]:
                 continue
+            if src_counts.get(src["name"], 0) >= MAX_PER:
+                continue
             seen.add(key)
+            src_counts[src["name"]] = src_counts.get(src["name"], 0) + 1
             all_items.append(it)
             if len(all_items) >= args.limit * 2:
                 break
@@ -257,6 +265,30 @@ def main():
             break
 
     all_items.sort(key=lambda x: x["time"], reverse=True)
+    pool = all_items[args.limit:]  # 截断前的候选池，用于核心源保底交换
+    all_items = all_items[: args.limit]
+
+    # 保证可信源最低代表数（用最旧的非保底源条交换），用户要求全部保留公信力源
+    MIN = {
+        "S&P Global(Google聚合)": 5,
+        "财联社电报(Google聚合)": 5,
+        "财新(Google聚合)": 4,
+        "CNBC": 4,
+        "Investing.com(综合)": 3,
+        "Investing.com(商品)": 3,
+    }
+    for src, mn in MIN.items():
+        have = sum(1 for it in all_items if it["srcs"][0]["n"] == src)
+        if have >= mn:
+            continue
+        for it in pool:
+            if it["srcs"][0]["n"] == src:
+                cand = max((x for x in all_items if x["srcs"][0]["n"] not in MIN),
+                          key=lambda x: x["time"])
+                all_items.remove(cand)
+                all_items.insert(0, it)
+                if sum(1 for x in all_items if x["srcs"][0]["n"] == src) >= mn:
+                    break
     all_items = all_items[: args.limit]
 
     # 生成 JS 对象字面量（json.dumps 输出与 JS 兼容）
@@ -277,8 +309,9 @@ def main():
     # 生成 news.json（供前端 fetch 动态加载，使"立即刷新"真正拉取新数据）
     out_dir = os.path.dirname(os.path.abspath(args.out))
     news_json = os.path.join(out_dir, "news.json")
+    payload = {"updated": ts, "items": all_items}
     with open(news_json, "w", encoding="utf-8") as f:
-        json.dump(all_items, f, ensure_ascii=False, indent=1)
+        json.dump(payload, f, ensure_ascii=False, indent=1)
 
     # 推送到 GitHub（若已配置仓库）；失败不影响本地文件
     git_commit_push(out_dir, f"update news {ts}")
