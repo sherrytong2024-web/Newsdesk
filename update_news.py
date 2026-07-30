@@ -48,16 +48,25 @@ CTX.verify_mode = ssl.CERT_NONE
 # 外国：彭博三频道(主) + S&P(Google聚合,主) + CNBC/Investing(次)
 # 国内：财联社电报(Google聚合,主) + 财新(Google聚合,次)
 SOURCES = [
-    {"name": "Bloomberg Markets", "url": "https://feeds.bloomberg.com/markets/news.rss", "t": "sec", "per": 7},
-    {"name": "Bloomberg Business", "url": "https://feeds.bloomberg.com/business/news.rss", "t": "sec", "per": 7},
-    {"name": "Bloomberg Tech", "url": "https://feeds.bloomberg.com/technology/news.rss", "t": "sec", "per": 6},
-    {"name": "S&P Global(Google聚合)", "url": "https://news.google.com/rss/search?q=when:24h%20S%26P%20500%20market%20OR%20S%26P%20Global%20economy&hl=en-US&gl=US&ceid=US:en", "t": "sec", "per": 12},
-    {"name": "财联社电报(Google聚合)", "url": "https://news.google.com/rss/search?q=when:24h%20site:cls.cn&hl=zh-CN&gl=CN&ceid=CN:zh", "t": "sec", "per": 18},
-    {"name": "财新(Google聚合)", "url": "https://news.google.com/rss/search?q=when:24h%20site:caixinglobal.com&hl=en-US&gl=US&ceid=US:en", "t": "sec", "per": 8},
-    {"name": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "t": "sec", "per": 8},
-    {"name": "Investing.com(综合)", "url": "https://www.investing.com/rss/news.rss", "t": "agg", "per": 8},
-    {"name": "Investing.com(商品)", "url": "https://www.investing.com/rss/commodities.rss", "t": "agg", "per": 6},
+    {"name": "Bloomberg Markets", "url": "https://feeds.bloomberg.com/markets/news.rss", "t": "sec", "per": 8},
+    {"name": "Bloomberg Business", "url": "https://feeds.bloomberg.com/business/news.rss", "t": "sec", "per": 8},
+    {"name": "Bloomberg Tech", "url": "https://feeds.bloomberg.com/technology/news.rss", "t": "sec", "per": 7},
+    {"name": "S&P Global(Google聚合)", "url": "https://news.google.com/rss/search?q=when:7d%20S%26P%20500%20market%20OR%20S%26P%20Global%20economy&hl=en-US&gl=US&ceid=US:en", "t": "sec", "per": 16},
+    {"name": "财联社电报(Google聚合)", "url": "https://news.google.com/rss/search?q=when:7d%20site:cls.cn&hl=zh-CN&gl=CN&ceid=CN:zh", "t": "sec", "per": 24},
+    {"name": "财新(Google聚合)", "url": "https://news.google.com/rss/search?q=when:7d%20site:caixinglobal.com&hl=en-US&gl=US&ceid=US:en", "t": "sec", "per": 12},
+    {"name": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "t": "sec", "per": 12},
+    {"name": "Investing.com(综合)", "url": "https://www.investing.com/rss/news.rss", "t": "agg", "per": 14},
+    {"name": "Investing.com(商品)", "url": "https://www.investing.com/rss/commodities.rss", "t": "agg", "per": 14},
+    {"name": "Investing.com(外汇)", "url": "https://www.investing.com/rss/forex.rss", "t": "agg", "per": 14},
 ]
+
+# 每类目标条数（4类 × 15 = 60）
+CATS_PER = 15
+GENERIC = {"股","涨","跌","指数","板块","公司","经济","科技","能源","市场","政策","行业","报告","数据","增长","下跌","上涨"}  # 热值计算中剔除的泛化词
+MIN = {  # 可信源最低保底（多样性保障）
+    "S&P Global(Google聚合)": 3, "财联社电报(Google聚合)": 3, "财新(Google聚合)": 2,
+    "CNBC": 2, "Investing.com(综合)": 2, "Investing.com(商品)": 2,
+}
 
 # 黑名单：命中任一词 → 直接丢弃（非金融噪音）
 BLACKLIST = [
@@ -131,11 +140,50 @@ def is_finance_related(title, summary):
 
 
 def classify(title, summary):
+    """按命中关键词数量最多的类别归类（避免 global 被前面的类别饿死）"""
     t = (title + " " + summary).lower()
+    best, best_n = None, 0
     for cat in ("macro", "stock", "sector", "global"):
-        if any(k.lower() in t for k in KW[cat]):
-            return cat
-    return None  # 未命中任何金融分类 → 丢弃
+        n = sum(1 for k in KW[cat] if k.lower() in t)
+        if n > best_n:
+            best, best_n = cat, n
+    return best  # None 表示未命中任何金融分类 → 丢弃
+
+
+def topic_sig(title, summary, cat):
+    """提取话题签名：类别关键词中"非泛化"的命中词，用于跨源交叉印证"""
+    t = (title + " " + summary).lower()
+    return {k.lower() for k in KW[cat] if k.lower() in t and k not in GENERIC}
+
+
+def compute_heat(items):
+    """热度指数计算标准（系统内部保留，前端 HEAT_STANDARD 与注释同步）
+
+    热度 = 跨源印证分 + 信源等级分 + 时效分
+      · 跨源印证分 = 与本条共享「非泛化金融关键词」的其他新闻条数 × 4
+          同一事件被越多独立信源报道越热（模拟微博跨源热议）
+      · 信源等级分 = 一手/媒体(sec) = 2；聚合平台(agg) = 1
+      · 时效分     = max(0, (48 − t)) / 48 × 8，其中 t 为发布距现在的小时数
+          刚发布 8 分，24h 后 4 分，48h 及以上 0 分（线性衰减）
+    结果四舍五入保留 1 位小数。该标准同时写进前端 HEAT_STANDARD 常量，便于核验。
+    """
+    now = datetime.now(timezone(timedelta(hours=8)))
+    for it in items:
+        it["_sig"] = topic_sig(it["title"], it["summary"], it["cat"])
+    for it in items:
+        try:
+            if len(it["time"]) > 10:
+                dt = datetime.strptime(it["time"], "%Y-%m-%d %H:%M")
+            else:
+                dt = datetime.strptime(it["time"], "%Y-%m-%d")
+            dt = dt.replace(tzinfo=timezone(timedelta(hours=8)))
+        except Exception:
+            dt = now
+        hours = (now - dt).total_seconds() / 3600
+        recency = max(0.0, (48 - hours)) / 48 * 8.0  # 0~8
+        cross = sum(1 for o in items if o is not it and (it["_sig"] & o["_sig"]))
+        tier = 2 if it["srcs"][0]["t"] == "sec" else 1
+        it["heat"] = round(cross * 4 + tier * 2 + recency, 1)
 
 
 def fetch_feed(src):
@@ -224,7 +272,7 @@ def git_commit_push(workdir, msg):
         sys.stderr.write("[INFO] 跳过本地 git 推送（由 CI/工作流负责）\n")
         return
     try:
-        subprocess.run(["git", "-C", workdir, "add", "news.json", "financial-news-desk.html"],
+        subprocess.run(["git", "-C", workdir, "add", "news.json", "hot.json", "financial-news-desk.html", "archive", "index.html", "update_news.py", ".github/workflows/refresh.yml"],
                        check=True, capture_output=True, timeout=30)
         subprocess.run(["git", "-C", workdir, "commit", "-m", msg],
                        check=True, capture_output=True, timeout=30)
@@ -242,13 +290,14 @@ def main():
     ap = argparse.ArgumentParser()
     here = os.path.dirname(os.path.abspath(__file__))
     ap.add_argument("--out", default=os.path.join(here, "financial-news-desk.html"))
-    ap.add_argument("--limit", type=int, default=40)
+    ap.add_argument("--limit", type=int, default=60)
     args = ap.parse_args()
 
+    # 1) 全量拉取（单源上限防霸屏，黑名单+分类已在前置过滤）
     all_items = []
     seen = set()
     src_counts = {}
-    MAX_PER = 10  # 单源上限，防止某一源霸屏，保证多源分散
+    MAX_PER = 24
     for src in SOURCES:
         for it in fetch_feed(src):
             key = it["title"].strip().lower()
@@ -259,40 +308,46 @@ def main():
             seen.add(key)
             src_counts[src["name"]] = src_counts.get(src["name"], 0) + 1
             all_items.append(it)
-            if len(all_items) >= args.limit * 2:
-                break
-        if len(all_items) >= args.limit * 2:
-            break
 
-    all_items.sort(key=lambda x: x["time"], reverse=True)
-    pool = all_items[args.limit:]  # 截断前的候选池，用于核心源保底交换
-    all_items = all_items[: args.limit]
+    if not all_items:
+        sys.stderr.write("[WARN] 所有源均无返回，保留上次数据\n")
+        return
 
-    # 保证可信源最低代表数（用最旧的非保底源条交换），用户要求全部保留公信力源
-    MIN = {
-        "S&P Global(Google聚合)": 5,
-        "财联社电报(Google聚合)": 5,
-        "财新(Google聚合)": 4,
-        "CNBC": 4,
-        "Investing.com(综合)": 3,
-        "Investing.com(商品)": 3,
-    }
+    # 2) 计算热值
+    compute_heat(all_items)
+
+    # 3) 每类取热值最高的 15 条（用户要求每类15条，共60）
+    cats = {c: [] for c in ("macro", "sector", "stock", "global")}
+    for it in all_items:
+        cats[it["cat"]].append(it)
+    final = []
+    for c in ("macro", "sector", "stock", "global"):
+        lst = sorted(cats[c], key=lambda x: x["heat"], reverse=True)
+        final.extend(lst[:CATS_PER])
+
+    # 4) 多样性保底：确保每个可信源至少出现
+    pool = [it for it in all_items if it not in final]
     for src, mn in MIN.items():
-        have = sum(1 for it in all_items if it["srcs"][0]["n"] == src)
+        have = sum(1 for it in final if it["srcs"][0]["n"] == src)
         if have >= mn:
             continue
-        for it in pool:
+        for it in sorted(pool, key=lambda x: x["heat"], reverse=True):
             if it["srcs"][0]["n"] == src:
-                cand = max((x for x in all_items if x["srcs"][0]["n"] not in MIN),
-                          key=lambda x: x["time"])
-                all_items.remove(cand)
-                all_items.insert(0, it)
-                if sum(1 for x in all_items if x["srcs"][0]["n"] == src) >= mn:
+                # 用最弱的非保底 final 项交换
+                victim = min((x for x in final if x["srcs"][0]["n"] not in MIN),
+                             key=lambda x: x["heat"])
+                final.remove(victim)
+                final.append(it)
+                pool.remove(it)
+                if sum(1 for x in final if x["srcs"][0]["n"] == src) >= mn:
                     break
-    all_items = all_items[: args.limit]
 
-    # 生成 JS 对象字面量（json.dumps 输出与 JS 兼容）
-    news_js = ",\n".join(json.dumps(it, ensure_ascii=False) for it in all_items)
+    # 清理内部字段
+    for it in final:
+        it.pop("_sig", None)
+
+    # 5) 注入 HTML（按类内热值降序）
+    news_js = ",\n".join(json.dumps(it, ensure_ascii=False) for it in final)
 
     if not os.path.exists(args.out):
         sys.stderr.write(f"[ERROR] 目标 HTML 不存在: {args.out}\n请先部署 financial-news-desk.html\n")
@@ -306,22 +361,39 @@ def main():
     with open(args.out, "w", encoding="utf-8") as f:
         f.write(html)
 
-    # 生成 news.json（供前端 fetch 动态加载，使"立即刷新"真正拉取新数据）
+    # 6) 生成 news.json（前端动态加载）
     out_dir = os.path.dirname(os.path.abspath(args.out))
-    news_json = os.path.join(out_dir, "news.json")
-    payload = {"updated": ts, "items": all_items}
-    with open(news_json, "w", encoding="utf-8") as f:
+    payload = {"updated": ts, "items": final}
+    with open(os.path.join(out_dir, "news.json"), "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=1)
 
-    # 推送到 GitHub（若已配置仓库）；失败不影响本地文件
+    # 7) 生成 hot.json（微博式热点榜：全量热值 Top10）
+    hot = sorted(final, key=lambda x: x["heat"], reverse=True)[:10]
+    with open(os.path.join(out_dir, "hot.json"), "w", encoding="utf-8") as f:
+        json.dump({"updated": ts, "items": hot}, f, ensure_ascii=False, indent=1)
+
+    # 8) 按天归档（保留最近 7 天，支撑"每日热点"对比）
+    adir = os.path.join(out_dir, "archive")
+    os.makedirs(adir, exist_ok=True)
+    aday = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d")
+    with open(os.path.join(adir, f"{aday}.json"), "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=1)
+    for fn in sorted(os.listdir(adir))[:-7]:
+        try:
+            os.remove(os.path.join(adir, fn))
+        except OSError:
+            pass
+
+    # 9) 推送
     git_commit_push(out_dir, f"update news {ts}")
 
     # 统计
     by_cat = {}
-    for it in all_items:
+    for it in final:
         by_cat[it["cat"]] = by_cat.get(it["cat"], 0) + 1
-    print(f"[OK] 已生成 {len(all_items)} 条新闻 -> {args.out}")
+    print(f"[OK] 已生成 {len(final)} 条新闻 -> {args.out}")
     print(f"     分类: {by_cat}")
+    print(f"     热值区间: {min(it['heat'] for it in final):.1f} ~ {max(it['heat'] for it in final):.1f}")
     print(f"     更新时间: {ts}")
 
 

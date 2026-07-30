@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>全球金融新闻台 | 可信源核验版</title>
+<title>全球金融新闻台</title>
 <style>
   :root{
     --bg:#f5f6f8; --panel:#ffffff; --ink:#1a1d24; --sub:#6b7280; --line:#e5e7eb;
@@ -86,15 +86,13 @@
 <div class="wrap">
   <header>
     <div>
-      <h1>全球金融新闻台 <span style="font-size:13px;color:var(--sub);font-weight:400">可信源核验版</span></h1>
+      <h1>全球金融新闻台</h1>
       <div class="sub">每条新闻附真实可点击来源 · 标注信源等级 · 数据快照 <span id="snapTs">2026-07-30 20:25</span> (GMT+8)</div>
     </div>
     <div class="controls">
-      <input class="search" id="search" placeholder="搜索标题/摘要 (Ctrl+K)" oninput="filterNews()">
-      <button class="btn" onclick="toggleAuto()" id="autoBtn">自动刷新: 关</button>
       <button class="vbtn on" data-v="grid" onclick="setView('grid')">资讯</button>
       <button class="vbtn" data-v="hot" onclick="setView('hot')">热点榜</button>
-      <button class="btn" id="refreshBtn" onclick="triggerRefresh()">立即抓取刷新</button>
+      <button class="btn" id="refreshBtn" onclick="triggerRefresh()">刷新</button>
     </div>
   </header>
 
@@ -121,6 +119,17 @@
     <b style="color:var(--badge-agg)">聚合</b>=腾讯财经等聚合平台（转引，需点开核对原文）。
     请点击来源自行核验，决策自负。
   </div>
+
+  <details class="prov" style="cursor:pointer">
+    <summary style="font-weight:700">热度指数计算标准（点击展开）</summary>
+    <div style="margin-top:8px">
+      <b>热度 = 跨源印证分 + 信源等级分 + 时效分</b><br>
+      · 跨源印证分：与本条第共享「非泛化金融关键词」的其他新闻条数 × 4（同一事件被越多独立信源报道越热）<br>
+      · 信源等级分：一手/媒体(sec) = 2；聚合平台(agg) = 1<br>
+      · 时效分：max(0, (48 − 发布小时数)) / 48 × 8（刚发布 8 分，24h 后 4 分，48h 及以上 0 分，线性衰减）<br>
+      结果四舍五入保留 1 位小数。该标准由 update_news.py 的 compute_heat 计算并写回本页。
+    </div>
+  </details>
 
   <div class="filters" id="filters"></div>
 
@@ -194,18 +203,33 @@ let NEWS = [
 
 const CATS=[{k:"all",n:"全部"},{k:"macro",n:"宏观政策"},{k:"sector",n:"行业赛道"},{k:"stock",n:"选股线索"},{k:"global",n:"全球市场"}];
 
+/* ===== 热度指数计算标准（与 update_news.py compute_heat 同步，系统内部保留） =====
+   热度 = 跨源印证分 + 信源等级分 + 时效分
+   跨源印证分：与本条第共享「非泛化金融关键词」的其他新闻条数 × 4
+   信源等级分：一手/媒体(sec) = 2；聚合平台(agg) = 1
+   时效分：max(0, (48 − 发布小时数)) / 48 × 8（刚发布 8 分，24h 后 4 分，48h 及以上 0 分）
+   结果四舍五入保留 1 位小数。
+*/
+
 /* 动态加载：优先 fetch news.json（raw.githubusercontent 实时，绕过 Pages CDN 缓存），失败用内置兜底 */
 const RAW_URL='https://raw.githubusercontent.com/sherrytong2024-web/Newsdesk/main/news.json';
 const REPO='sherrytong2024-web/Newsdesk';
 const WF='refresh.yml';
 let LAST_UPDATED=null;
-async function loadNews(){
+let _newsSig="";
+async function loadNews(force){
   try{
     const r = await fetch(RAW_URL+'?_='+Date.now(), {cache:'no-store'});
     if(r.ok){
       const d = await r.json();
       const items = Array.isArray(d)? d : (d.items||[]);
-      if(items.length){ NEWS=items; LAST_UPDATED=d.updated||null; renderFilters(); filterNews(); updateMeta(); return true; }
+      if(items.length){
+        const sig = items.map(x=>x.title).join('\u0001');
+        const changed = force || sig!==_newsSig;
+        NEWS=items; LAST_UPDATED=d.updated||LAST_UPDATED; updateMeta();
+        if(changed){ _newsSig=sig; renderFilters(); filterNews(); }
+        return true;
+      }
     }
   }catch(e){ console.warn('news.json 加载失败，使用内置兜底数据', e); }
   return false;
@@ -269,7 +293,7 @@ async function pollUpdated(before){
   }catch(e){}
   return false;
 }
-let curCat="all", curQ="", curView="grid", HOT=null;
+let curCat="all", curView="grid", HOT=null;
 
 /* 指数滚动条（数值来自腾讯财经聚合/公开行情，已与多源交叉核对美指） */
 const INDEX=[
@@ -308,7 +332,7 @@ async function loadHot(){
 }
 function renderHot(){
   const grid=document.getElementById('news');
-  const list=HOT||[];
+  const list=(HOT||[]).slice(0,10);
   if(!list.length){grid.innerHTML='<div class="empty">暂无热点数据，稍后重试</div>';return;}
   const catName={macro:'宏观',sector:'赛道',stock:'选股',global:'全球'};
   const maxH=Math.max.apply(null,list.map(x=>x.heat||1));
@@ -329,12 +353,7 @@ function renderHot(){
 }
 function filterNews(){
   if(curView==='hot'){ renderHot(); return; }
-  curQ=document.getElementById('search').value.trim().toLowerCase();
-  const list=NEWS.filter(n=>{
-    if(curCat!=='all'&&n.cat!==curCat)return false;
-    if(curQ){const hay=(n.title+n.summary+n.srcs.map(s=>s.n).join('')).toLowerCase();if(!hay.includes(curQ))return false}
-    return true;
-  });
+  const list=NEWS.filter(n=> curCat==='all'||n.cat===curCat );
   const grid=document.getElementById('news');
   if(!list.length){grid.innerHTML='<div class="empty">无匹配新闻</div>';return}
   grid.innerHTML=list.map(n=>{
@@ -348,10 +367,14 @@ function filterNews(){
     </div>`;
   }).join('');
 }
-let autoTimer=null;
-function toggleAuto(){const b=document.getElementById('autoBtn');if(autoTimer){clearInterval(autoTimer);autoTimer=null;b.textContent='自动刷新: 关'}else{autoTimer=setInterval(()=>{renderClocks();renderTicker()},30000);b.textContent='自动刷新: 30s'}}
+/* 自动刷新：默认开启，每 30s 静默重拉 news.json / hot.json（仅数据变化时重渲染，避免闪烁） */
+async function autoRefresh(){
+  renderClocks(); renderTicker();
+  await loadNews(false);
+  if(curView==='hot'){ await loadHot(); renderHot(); }
+}
+let autoTimer=setInterval(autoRefresh,30000);
 
-document.addEventListener('keydown',e=>{if((e.ctrlKey||e.metaKey)&&e.key==='k'){e.preventDefault();document.getElementById('search').focus()}});
 renderClocks();renderTicker();
 filterNews();   // 先用内置兜底渲染
 loadNews();     // 异步拉取 news.json 最新数据，成功则刷新
