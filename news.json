@@ -1,6 +1,20 @@
 {
- "updated": "2026-07-30 20:59",
+ "updated": "2026-07-30 21:00",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-07-30 06:31",
+   "title": "Bond Yields at 19-Year High Send Warsh Credibility Warning",
+   "summary": "The message from the bond market was clear: For all of Federal Reserve Chairman Kevin Warsh’s tough talk about taming inflation, he’s not rushing fast enough to deliver.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-29/bond-rout-sends-warning-to-warsh-that-tough-talk-is-not-enough",
+     "t": "sec"
+    }
+   ],
+   "heat": 45.6
+  },
   {
    "cat": "macro",
    "time": "2026-07-30 06:54",
@@ -13,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.7
+   "heat": 45.6
   },
   {
    "cat": "macro",
@@ -31,20 +45,6 @@
   },
   {
    "cat": "macro",
-   "time": "2026-07-30 06:31",
-   "title": "Bond Yields at 19-Year High Send Warsh Credibility Warning",
-   "summary": "The message from the bond market was clear: For all of Federal Reserve Chairman Kevin Warsh’s tough talk about taming inflation, he’s not rushing fast enough to deliver.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-29/bond-rout-sends-warning-to-warsh-that-tough-talk-is-not-enough",
-     "t": "sec"
-    }
-   ],
-   "heat": 41.6
-  },
-  {
-   "cat": "macro",
    "time": "2026-07-30 20:47",
    "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
    "summary": "",
@@ -55,7 +55,21 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 44.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 14:31",
+   "title": "Gold: Fed Hold Shifts Focus to PCE Inflation Data",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-fed-hold-shifts-focus-to-pce-inflation-data-200684854",
+     "t": "agg"
+    }
+   ],
+   "heat": 36.9
   },
   {
    "cat": "macro",
@@ -87,17 +101,17 @@
   },
   {
    "cat": "macro",
-   "time": "2026-07-30 14:31",
-   "title": "Gold: Fed Hold Shifts Focus to PCE Inflation Data",
-   "summary": "",
+   "time": "2026-07-30 20:57",
+   "title": "US GDP Grows Less-Than-Expected 1.5% in Second Quarter",
+   "summary": "The US economy grew at a weaker-than-expected pace in the second quarter as inflation-adjusted gross domestic product increased an annualized 1.5% in the period, despite a pickup i…",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-fed-hold-shifts-focus-to-pce-inflation-data-200684854",
-     "t": "agg"
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-30/us-gdp-grows-less-than-expected-1-5-in-second-quarter-video",
+     "t": "sec"
     }
    ],
-   "heat": 32.9
+   "heat": 32.0
   },
   {
    "cat": "macro",
@@ -143,6 +157,20 @@
   },
   {
    "cat": "macro",
+   "time": "2026-07-30 20:53",
+   "title": "Iran Strikes Iran Again, GDP Grows Less-Than-Expected, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-07-30/iran-strikes-iran-again-gdp-grows-less-than-expected-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 20.0
+  },
+  {
+   "cat": "macro",
    "time": "2026-07-30 19:29",
    "title": "US, Iran Conflict Widens, BOE Holds, Futures Gain, More",
    "summary": "Source: Bloomberg, 0:00",
@@ -171,34 +199,6 @@
   },
   {
    "cat": "macro",
-   "time": "2026-07-30 01:08",
-   "title": "CoreWeave Slaps 9%-Plus Yield on $2.6 Billion Leveraged Loan",
-   "summary": "CoreWeave Inc. has sweetened terms on a $2.6 billion leveraged loan to fund additional computing capacity for firms including Anthropic PBC, in an effort to win over investors grow…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-29/coreweave-boosts-yield-on-2-6-billion-loan-tied-to-anthropic",
-     "t": "sec"
-    }
-   ],
-   "heat": 16.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 20:53",
-   "title": "Iran Strikes Iran Again, GDP Grows Less-Than-Expected, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-07-30/iran-strikes-iran-again-gdp-grows-less-than-expected-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 16.0
-  },
-  {
-   "cat": "macro",
    "time": "2026-07-30 18:38",
    "title": "Gold Holds Near Key Support as Markets Shift From the FOMC to GDP and Core PCE",
    "summary": "",
@@ -209,7 +209,7 @@
      "t": "agg"
     }
    ],
-   "heat": 13.6
+   "heat": 17.6
   },
   {
    "cat": "sector",
@@ -349,7 +349,7 @@
      "t": "agg"
     }
    ],
-   "heat": 88.7
+   "heat": 88.6
   },
   {
    "cat": "sector",
@@ -433,7 +433,7 @@
      "t": "agg"
     }
    ],
-   "heat": 84.7
+   "heat": 84.6
   },
   {
    "cat": "stock",
@@ -545,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.3
+   "heat": 63.2
   },
   {
    "cat": "stock",
@@ -633,20 +633,6 @@
   },
   {
    "cat": "global",
-   "time": "2026-07-30 20:11",
-   "title": "Big Oil Is Making Big Money During Iran War Market Turmoil",
-   "summary": "Dislocations have created lucrative opportunities for companies able to source, transport and process energy across markets.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-07-30/big-oil-is-making-big-money-during-iran-war-market-turmoil",
-     "t": "sec"
-    }
-   ],
-   "heat": 31.9
-  },
-  {
-   "cat": "global",
    "time": "2026-07-30 18:32",
    "title": "Oil Has Stopped Trading the War - It’s Trading the Barrels Now",
    "summary": "",
@@ -657,7 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 29.6
+   "heat": 25.6
   },
   {
    "cat": "global",
@@ -671,7 +657,7 @@
      "t": "agg"
     }
    ],
-   "heat": 29.5
+   "heat": 25.4
   },
   {
    "cat": "global",
@@ -685,7 +671,7 @@
      "t": "agg"
     }
    ],
-   "heat": 29.0
+   "heat": 25.0
   },
   {
    "cat": "global",
@@ -699,7 +685,7 @@
      "t": "agg"
     }
    ],
-   "heat": 28.8
+   "heat": 24.8
   },
   {
    "cat": "global",
@@ -713,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 24.0
+   "heat": 20.0
   },
   {
    "cat": "global",
