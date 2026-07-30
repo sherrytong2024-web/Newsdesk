@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-30 23:41",
+ "updated": "2026-07-31 00:02",
  "items": [
   {
    "cat": "sector",
    "time": "2026-07-30 06:11",
-   "title": "Nasdaq 100 Gains 3% as Buyers Emerge After AI Rout: Markets Wrap",
-   "summary": "Wall Street staged a comeback as dip buyers emerged, lifting stocks as chipmakers rebounded while data signaled the economy remains in good shape, but isn’t overheating.",
+   "title": "Nasdaq 100 Gains 3% in AI Trade Revival After Rout: Markets Wrap",
+   "summary": "A rebound in giant chipmakers lifted stocks as dip buyers emerged on speculation that the artificial-intelligence trade that has powered the bull market has more room to run.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -13,7 +13,21 @@
      "t": "sec"
     }
    ],
-   "heat": 241.1
+   "heat": 249.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-30 23:49",
+   "title": "'This is a clearing event' — Cramer says forced selling may signal a bottom for AI trade",
+   "summary": "Situational Awareness — a buzzy hedge fund founded by a former OpenAI researcher — is not the only in one in hot water, Jim Cramer said Thursday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/this-is-a-clearing-event-cramer-says-forced-selling-may-signal-a-bottom-for-ai-trade.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 248.0
   },
   {
    "cat": "sector",
@@ -27,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 240.0
+   "heat": 247.9
   },
   {
    "cat": "sector",
@@ -41,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 240.0
+   "heat": 247.9
   },
   {
    "cat": "sector",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.9
+   "heat": 247.9
   },
   {
    "cat": "sector",
@@ -69,21 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-30 23:02",
-   "title": "Wealth managers face a new challenger: Their clients’ AI chatbots",
-   "summary": "Large language models may give financial advisors a run for their money, but wealth management leaders say the human touch can't be replaced.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/wealth-managers-ai-chatbots.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.9
+   "heat": 247.9
   },
   {
    "cat": "sector",
@@ -97,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.9
+   "heat": 247.8
   },
   {
    "cat": "sector",
@@ -111,21 +111,21 @@
      "t": "sec"
     }
    ],
-   "heat": 239.9
+   "heat": 247.8
   },
   {
    "cat": "sector",
-   "time": "2026-07-30 22:46",
-   "title": "'This is a clearing event' — Cramer says forced selling may signal a bottom for AI trade",
-   "summary": "Situational Awareness — a buzzy hedge fund founded by a former OpenAI researcher — is not the only in one in hot water, Jim Cramer said Thursday.",
+   "time": "2026-07-30 22:23",
+   "title": "Oil Holds Gain With Fresh US-Iran Attacks, Kazakh Exports Risk",
+   "summary": "Energy markets have been rocked by a fresh round of volatility this month, as investors navigated a short-lived pause in hostilities between Iran and the US, followed by renewed fi…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/this-is-a-clearing-event-cramer-says-forced-selling-may-signal-a-bottom-for-ai-trade.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-30/oil-holds-gain-with-fresh-us-iran-attacks-video",
      "t": "sec"
     }
    ],
-   "heat": 239.8
+   "heat": 247.7
   },
   {
    "cat": "sector",
@@ -139,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.7
+   "heat": 247.7
   }
  ]
 }
