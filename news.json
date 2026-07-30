@@ -3,20 +3,6 @@
  "items": [
   {
    "cat": "macro",
-   "time": "2026-07-30 06:31",
-   "title": "Bond Yields at 19-Year High Send Warsh Credibility Warning",
-   "summary": "The message from the bond market was clear: For all of Federal Reserve Chairman Kevin Warsh’s tough talk about taming inflation, he’s not rushing fast enough to deliver.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-29/bond-rout-sends-warning-to-warsh-that-tough-talk-is-not-enough",
-     "t": "sec"
-    }
-   ],
-   "heat": 45.6
-  },
-  {
-   "cat": "macro",
    "time": "2026-07-30 06:54",
    "title": "Here are the five big takeaways from this week's Fed meeting",
    "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
@@ -27,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.6
+   "heat": 61.6
   },
   {
    "cat": "macro",
@@ -41,21 +27,21 @@
      "t": "agg"
     }
    ],
-   "heat": 44.9
+   "heat": 60.9
   },
   {
    "cat": "macro",
-   "time": "2026-07-30 20:47",
-   "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-   "summary": "",
+   "time": "2026-07-30 06:31",
+   "title": "Bond Yields at 19-Year High Send Warsh Credibility Warning",
+   "summary": "The message from the bond market was clear: For all of Federal Reserve Chairman Kevin Warsh’s tough talk about taming inflation, he’s not rushing fast enough to deliver.",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-29/bond-rout-sends-warning-to-warsh-that-tough-talk-is-not-enough",
      "t": "sec"
     }
    ],
-   "heat": 44.0
+   "heat": 57.6
   },
   {
    "cat": "macro",
@@ -69,7 +55,91 @@
      "t": "agg"
     }
    ],
-   "heat": 36.9
+   "heat": 48.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 14:35",
+   "title": "FOMC Recap: Fed Holds, but Not Quite the ’Hawkish Hold’ Traders Expected",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/fomc-recap-fed-holds-but-not-quite-the-hawkish-hold-traders-expected-200684842",
+     "t": "agg"
+    }
+   ],
+   "heat": 48.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 20:47",
+   "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 48.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 10:52",
+   "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
+   "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 42.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 20:41",
+   "title": "Fed Holds, but US Dollar May Have Heard Something Else",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/fed-holds-but-us-dollar-may-have-heard-something-else-200684889",
+     "t": "agg"
+    }
+   ],
+   "heat": 41.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 19:08",
+   "title": "Federal Reserve’s Thunder and No Rain Weighs on US Dollar",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/federal-reserves-thunder-and-no-rain-weighs-on-us-dollar-200684884",
+     "t": "agg"
+    }
+   ],
+   "heat": 41.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 14:04",
+   "title": "LNG Tracks Global Cargo Competition as Europe Builds Winter Storage After the Fed",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/lng-tracks-global-cargo-competition-as-europe-builds-winter-storage-after-the-fed-200684852",
+     "t": "agg"
+    }
+   ],
+   "heat": 40.8
   },
   {
    "cat": "macro",
@@ -83,7 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 40.0
   },
   {
    "cat": "macro",
@@ -94,6 +164,34 @@
     {
      "n": "Bloomberg Markets",
      "u": "https://www.bloomberg.com/news/videos/2026-07-30/bailey-says-boe-decided-to-keep-rates-at-3-75-in-july-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 04:02",
+   "title": "FOMC Holds Rates Steady: Gold and US Dollar at Key Technical Levels",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/fomc-holds-rates-steady-gold-and-us-dollar-at-key-technical-levels-200684829",
+     "t": "agg"
+    }
+   ],
+   "heat": 39.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 20:20",
+   "title": "Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound",
+   "summary": "After a five-week pause on Bitcoin purchases, Strategy Inc. investors are left wondering what’s next for the largest buyer of the cryptocurrency following a tumultuous period.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound",
      "t": "sec"
     }
    ],
@@ -114,104 +212,6 @@
    "heat": 32.0
   },
   {
-   "cat": "macro",
-   "time": "2026-07-30 20:20",
-   "title": "Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound",
-   "summary": "After a five-week pause on Bitcoin purchases, Strategy Inc. investors are left wondering what’s next for the largest buyer of the cryptocurrency following a tumultuous period.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound",
-     "t": "sec"
-    }
-   ],
-   "heat": 31.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 10:52",
-   "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
-   "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 30.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 14:04",
-   "title": "LNG Tracks Global Cargo Competition as Europe Builds Winter Storage After the Fed",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/lng-tracks-global-cargo-competition-as-europe-builds-winter-storage-after-the-fed-200684852",
-     "t": "agg"
-    }
-   ],
-   "heat": 28.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 20:53",
-   "title": "Iran Strikes Iran Again, GDP Grows Less-Than-Expected, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-07-30/iran-strikes-iran-again-gdp-grows-less-than-expected-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 19:29",
-   "title": "US, Iran Conflict Widens, BOE Holds, Futures Gain, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-07-30/us-iran-conflict-widens-boe-holds-futures-gain-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 19.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 18:42",
-   "title": "Conflict Widens Across Middle East, Bond Yields Higher, More",
-   "summary": "Source: Bloomberg, 6:24",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-07-30/conflict-widens-across-middle-east-bond-yields-higher-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 19.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 18:38",
-   "title": "Gold Holds Near Key Support as Markets Shift From the FOMC to GDP and Core PCE",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-holds-near-key-support-as-markets-shift-from-the-fomc-to-gdp-and-core-pce-200684872",
-     "t": "agg"
-    }
-   ],
-   "heat": 17.6
-  },
-  {
    "cat": "sector",
    "time": "2026-07-30 20:45",
    "title": "Egypt says drone hit two ships at Mediterranean port as attacks on energy infrastructure widen",
@@ -223,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 96.0
   },
   {
    "cat": "sector",
@@ -237,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.9
+   "heat": 95.9
   },
   {
    "cat": "sector",
@@ -251,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.8
+   "heat": 95.8
   },
   {
    "cat": "sector",
@@ -265,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.8
+   "heat": 95.8
   },
   {
    "cat": "sector",
@@ -279,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.8
+   "heat": 95.8
   },
   {
    "cat": "sector",
@@ -293,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.7
+   "heat": 95.7
   },
   {
    "cat": "sector",
@@ -307,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.6
+   "heat": 95.6
   },
   {
    "cat": "sector",
@@ -321,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.4
+   "heat": 95.4
   },
   {
    "cat": "sector",
@@ -335,7 +335,21 @@
      "t": "sec"
     }
    ],
-   "heat": 89.5
+   "heat": 93.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-30 13:55",
+   "title": "Why Is the Japanese Yen Weakening? Could Japan Intervene Again?",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/why-is-the-japanese-yen-weakening-could-japan-intervene-again-200684851",
+     "t": "agg"
+    }
+   ],
+   "heat": 92.8
   },
   {
    "cat": "sector",
@@ -349,7 +363,7 @@
      "t": "agg"
     }
    ],
-   "heat": 88.6
+   "heat": 92.6
   },
   {
    "cat": "sector",
@@ -363,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 88.0
+   "heat": 92.0
   },
   {
    "cat": "sector",
@@ -377,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 88.0
   },
   {
    "cat": "sector",
@@ -391,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 88.0
   },
   {
    "cat": "sector",
@@ -405,21 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-27 18:57",
-   "title": "In Profile: Wall Street’s Go-To Regulator in China Swept Up in Anti-Graft Dragnet",
-   "summary": "In Profile: Wall Street’s Go-To Regulator in China Swept Up in Anti-Graft Dragnet &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb01SQmJZTUluLTJFTUctNkM4bDV2eXUydmZOYWJySTYyN3Nib1doRmJOR3JtR3U3LTF2MWQ5aHNnb3RRTDRwVk9DczA5ODlzY1QxdHU3NnJwYjJNVkw2UkE3WW9PSXlFQlBBa1Q4d2g1VlZsS1FWcnVxdXlBRFB4aGdNclFobGhQVTk1NUdCT244b09LRG5kZkZtWlF6Unpud09SZm5fUkRDN1dCeFpKZEtQanNNTDREX0hISF9nM2FOR01LUk9rRVlKQjNEWkk?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 84.0
+   "heat": 88.0
   },
   {
    "cat": "stock",
@@ -742,6 +742,20 @@
     }
    ],
    "heat": 4.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-27 18:57",
+   "title": "In Profile: Wall Street’s Go-To Regulator in China Swept Up in Anti-Graft Dragnet",
+   "summary": "In Profile: Wall Street’s Go-To Regulator in China Swept Up in Anti-Graft Dragnet &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb01SQmJZTUluLTJFTUctNkM4bDV2eXUydmZOYWJySTYyN3Nib1doRmJOR3JtR3U3LTF2MWQ5aHNnb3RRTDRwVk9DczA5ODlzY1QxdHU3NnJwYjJNVkw2UkE3WW9PSXlFQlBBa1Q4d2g1VlZsS1FWcnVxdXlBRFB4aGdNclFobGhQVTk1NUdCT244b09LRG5kZkZtWlF6Unpud09SZm5fUkRDN1dCeFpKZEtQanNNTDREX0hISF9nM2FOR01LUk9rRVlKQjNEWkk?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 88.0
   }
  ]
 }
