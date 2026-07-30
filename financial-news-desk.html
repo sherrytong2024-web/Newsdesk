@@ -217,7 +217,7 @@ const CATS=[{k:"all",n:"全部"},{k:"macro",n:"宏观政策"},{k:"sector",n:"行
 const RAW_URL='https://raw.githubusercontent.com/sherrytong2024-web/Newsdesk/main/news.json';
 /* 刷新代理：Cloudflare Worker 托管在远程，服务端保管 GitHub PAT，
    所以任何人（含朋友）点"刷新"都无需 token。部署后把 YOUR-SUBDOMAIN 换成你的 workers.dev 子域 */
-const WORKER_URL='https://newsdesk-refresh-proxy.YOUR-SUBDOMAIN.workers.dev/refresh';
+const WORKER_URL='https://newsdesk-refresh-proxy.sherrynews.workers.dev/refresh';
 const WORKER_KEY=''; // 可选：与 Worker 的 REFRESH_KEY 一致；留空则不校验
 let LAST_UPDATED=null;
 let _newsSig="";
