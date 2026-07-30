@@ -333,6 +333,7 @@ function badge(t){return t==='pri'?'<span class="badge b-pri">一手</span>':t==
 async function setView(v){
   curView=v;
   document.querySelectorAll('.vbtn').forEach(b=>b.classList.toggle('on', b.dataset.v===v));
+  document.getElementById('filters').style.display = (v==='hot') ? 'none' : '';
   if(v==='hot'){ await loadHot(); renderHot(); }
   else { filterNews(); }
 }
