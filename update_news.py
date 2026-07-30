@@ -40,6 +40,7 @@ import sys
 import os
 import argparse
 import subprocess
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone, timedelta
 
 UA = "Mozilla/5.0 (compatible; NewsDeskBot/1.0)"
@@ -306,13 +307,15 @@ def main():
     ap.add_argument("--limit", type=int, default=60)
     args = ap.parse_args()
 
-    # 1) 全量拉取（单源上限防霸屏，黑名单+分类已在前置过滤）
+    # 1) 全量拉取（并发抓取所有源，显著降低总耗时；单源上限防霸屏，黑名单+分类已在前置过滤）
     all_items = []
     seen = set()
     src_counts = {}
     MAX_PER = 50
-    for src in SOURCES:
-        for it in fetch_feed(src):
+    with ThreadPoolExecutor(max_workers=min(10, len(SOURCES))) as ex:
+        results = list(ex.map(fetch_feed, SOURCES))
+    for src, items in zip(SOURCES, results):
+        for it in items:
             key = it["title"].strip().lower()
             if key in seen or not it["srcs"][0]["u"]:
                 continue
