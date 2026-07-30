@@ -1,5 +1,44 @@
 [
  {
+  "cat": "sector",
+  "time": "2026-07-30 18:28",
+  "title": "Huel Investor Highland Europe Raises €1.1 Billion Startup Fund",
+  "summary": "Venture capital firm Highland Europe has raised a €1.1 billion ($1.2 billion) new fund, cementing it as one of the continent’s largest startup investors during an industry liquidit…",
+  "srcs": [
+   {
+    "n": "Bloomberg Business",
+    "u": "https://www.bloomberg.com/news/articles/2026-07-30/huel-investor-highland-europe-raises-1-1-billion-startup-fund",
+    "t": "sec"
+   }
+  ]
+ },
+ {
+  "cat": "stock",
+  "time": "2026-07-30 18:27",
+  "title": "Meta tanks nearly 9%, Microsoft jumps 9% as the AI trade splits Big Tech",
+  "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
+  "srcs": [
+   {
+    "n": "CNBC",
+    "u": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+    "t": "sec"
+   }
+  ]
+ },
+ {
+  "cat": "stock",
+  "time": "2026-07-30 18:25",
+  "title": "Starbucks stock jumps as coffee giant raises full-year outlook",
+  "summary": "Starbucks posted its fourth straight quarter of same-store sales growth, as it continues a turnaround under CEO Brian Niccol.",
+  "srcs": [
+   {
+    "n": "CNBC",
+    "u": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
+    "t": "sec"
+   }
+  ]
+ },
+ {
   "cat": "stock",
   "time": "2026-07-30 18:19",
   "title": "What’s Behind South Korea’s Stock Market Whiplash",
@@ -182,32 +221,6 @@
   ]
  },
  {
-  "cat": "sector",
-  "time": "2026-07-30 17:10",
-  "title": "Samsung says chip crunch will last until 2028 as quarterly profit soars",
-  "summary": "Samsung Electronics extended its record run with second-quarter operating profit topping analysts' estimates.",
-  "srcs": [
-   {
-    "n": "CNBC",
-    "u": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
-    "t": "sec"
-   }
-  ]
- },
- {
-  "cat": "stock",
-  "time": "2026-07-30 17:01",
-  "title": "Meta tanks nearly 9%, Microsoft jumps 8% as the AI trade splits Big Tech",
-  "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
-  "srcs": [
-   {
-    "n": "CNBC",
-    "u": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-    "t": "sec"
-   }
-  ]
- },
- {
   "cat": "stock",
   "time": "2026-07-30 16:50",
   "title": "Apple’s Earnings Will Test Stock’s Status as the AI Safety Play",
@@ -281,19 +294,6 @@
    {
     "n": "Bloomberg Business",
     "u": "https://www.bloomberg.com/news/audio/2026-07-30/shell-beats-estimates-global-bond-rout-gathers-more",
-    "t": "sec"
-   }
-  ]
- },
- {
-  "cat": "global",
-  "time": "2026-07-30 15:18",
-  "title": "Profits Surge at Shell as Middle East War Disrupts Oil Markets",
-  "summary": "Shell’s profits surge; defence spending boosts BAE",
-  "srcs": [
-   {
-    "n": "Bloomberg Business",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-07-30/profits-surge-at-shell-as-middle-east-war-disrupts-oil-markets",
     "t": "sec"
    }
   ]
@@ -455,67 +455,67 @@
   ]
  },
  {
-  "cat": "stock",
-  "time": "2026-07-30 10:17",
-  "title": "ASE Industrial ADR earnings beat by $0.05, revenue fell short of estimates",
-  "summary": "",
-  "srcs": [
-   {
-    "n": "Investing.com(综合)",
-    "u": "https://www.investing.com/news/earnings/ase-industrial-adr-earnings-beat-by-005-revenue-fell-short-of-estimates-4823208",
-    "t": "agg"
-   }
-  ]
- },
- {
   "cat": "sector",
-  "time": "2026-07-30 10:16",
-  "title": "Unibail-Rodamco-Westfield H1 2026 slides: vacancy hits multi-year low",
+  "time": "2026-07-30 10:25",
+  "title": "Kyocera raises profit guidance on AI demand strength",
   "summary": "",
   "srcs": [
    {
     "n": "Investing.com(综合)",
-    "u": "https://www.investing.com/news/company-news/unibailrodamcowestfield-h1-2026-slides-vacancy-hits-multiyear-low-93CH-4823206",
+    "u": "https://www.investing.com/news/earnings/kyocera-raises-profit-guidance-on-ai-demand-strength-93CH-4823243",
     "t": "agg"
    }
   ]
  },
  {
   "cat": "stock",
-  "time": "2026-07-30 10:16",
-  "title": "Conagra Brands president and CEO John Brase buys $510,632 in stock",
+  "time": "2026-07-30 10:25",
+  "title": "Brunswick earnings beat by $0.46, revenue topped estimates",
   "summary": "",
   "srcs": [
    {
     "n": "Investing.com(综合)",
-    "u": "https://www.investing.com/news/insider-trading-news/conagra-brands-president-and-ceo-john-brase-buys-510632-in-stock-93CH-4823205",
+    "u": "https://www.investing.com/news/earnings/brunswick-earnings-beat-by-046-revenue-topped-estimates-4823242",
     "t": "agg"
    }
   ]
  },
  {
-  "cat": "global",
-  "time": "2026-07-30 10:14",
-  "title": "Keppel’s Profit Plunges 59% on Losses of Rigs in Apollo Deal",
-  "summary": "Singapore asset manager Keppel Ltd. saw its first-half profits plunge by 59% amid deepening losses from a legacy portfolio including oil rigs and real estate.",
+  "cat": "sector",
+  "time": "2026-07-30 10:25",
+  "title": "Analysis-Meta’s AI splurge lays bare its compute conundrum",
+  "summary": "",
   "srcs": [
    {
-    "n": "Bloomberg Business",
-    "u": "https://www.bloomberg.com/news/articles/2026-07-30/keppel-sees-59-profit-plunge-on-losses-of-rigs-in-apollo-deal",
-    "t": "sec"
+    "n": "Investing.com(综合)",
+    "u": "https://www.investing.com/news/stock-market-news/analysismetas-ai-splurge-lays-bare-its-compute-conundrum-4823241",
+    "t": "agg"
+   }
+  ]
+ },
+ {
+  "cat": "stock",
+  "time": "2026-07-30 10:25",
+  "title": "Lincoln Financial stock rises nearly 4% on earnings beat despite revenue miss",
+  "summary": "",
+  "srcs": [
+   {
+    "n": "Investing.com(综合)",
+    "u": "https://www.investing.com/news/earnings/lincoln-financial-stock-rises-nearly-4-on-earnings-beat-despite-revenue-miss-93CH-4823240",
+    "t": "agg"
    }
   ]
  },
  {
   "cat": "sector",
-  "time": "2026-07-30 09:00",
-  "title": "CX Daily: For Wildlife That Survives the Heat, the Cost Often Comes Later",
-  "summary": "CX Daily: For Wildlife That Survives the Heat, the Cost Often Comes Later &nbsp;&nbsp; Caixin Global",
+  "time": "2026-07-30 10:24",
+  "title": "Unibail-Rodamco-Westfield reports strong rent growth",
+  "summary": "",
   "srcs": [
    {
-    "n": "财新(Google聚合)",
-    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX01RQ1ZiVmFaM24waUdFSFlFWXVTczRBcnFxa3pDRGEtZFBqTEwyR1N6dzY5NkxWby0wTzk0d0dhWko3ZWx5cXNNNUFhY0JOWGM3YU5ueksxQ0o4TTkyZnhBTkdCcHZzX2VTaGJrNUxXdnVabnRBTXotNjVxSWVNRTJrT2E1TmdJWmRfa2lYVjF2ZDdqNHdyNmszeWNPaUM3OTRXUGxqTk94NDNLVEQ4ck0xNTVJMXVuSXh1SE4teTRVc0J5?oc=5",
-    "t": "sec"
+    "n": "Investing.com(综合)",
+    "u": "https://www.investing.com/news/earnings/unibailrodamcowestfield-reports-strong-rent-growth-93CH-4823238",
+    "t": "agg"
    }
   ]
  }
