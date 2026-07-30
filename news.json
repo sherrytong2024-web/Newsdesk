@@ -1,34 +1,6 @@
 {
- "updated": "2026-07-30 20:58",
+ "updated": "2026-07-30 20:59",
  "items": [
-  {
-   "cat": "macro",
-   "time": "2026-07-30 20:47",
-   "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 44.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 17:15",
-   "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Federal Reserve Holds Interest Rates—Meta, Microsoft, Apple in F",
-   "summary": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Federal Reserve Holds Interest Rates—Meta, Microsoft, Apple in Focus &nbsp;&nbsp; TradingView",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUURzQk5ZY2JhUzE2MUxuM2xBVkxid25xQm5uUDdMTWwzeTQ1WUJGWFhLY040VzRFYnZsWFhJOEl4bFlzQnp3dFB4QmpiZGgweXViSXdrVzJfQVUtTXl0bUlYMXM1dXV6cDl2WWxuc3h0NXZYRGIzRVNkLWlmcjg3YWVrSkFJU0VVNVdBZl8xamxLYkVRaEYxb1FKMnhodFhFSkhSdHJ2dWY3SC1LM25ERGllTFVnSkcxb2JFSnBUZS1HSllaRDE2MmFzOU1vT1AyUGdMcVQ4NnVaV1pPWWpEUVR2WFFJU1dwMHJCY2cxbnFxSG4xb2hSRjhIcDBvTTB1VDV6U2pGUHVXVVU?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.4
-  },
   {
    "cat": "macro",
    "time": "2026-07-30 06:54",
@@ -41,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.7
+   "heat": 45.7
   },
   {
    "cat": "macro",
@@ -55,35 +27,7 @@
      "t": "agg"
     }
    ],
-   "heat": 40.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 20:46",
-   "title": "BOE's Lombardelli Says Holding Rates Was Right Thing to Do",
-   "summary": "Bank of England Deputy Governor Clare Lombardelli says her vote to hold interest rates steady at 3.75% on Thursday was not a close judgment. \"I was pretty clear that holding rates …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-30/boe-s-lombardelli-holding-rates-was-right-thing-to-do-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 20:22",
-   "title": "Bailey Says BOE Decided to Keep Rates at 3.75% in July",
-   "summary": "Bank of England Governor Andrew Bailey speaks at a news conference in London following the central bank's decision to keep interest rates unchanged in July as UK officials sought t…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-30/bailey-says-boe-decided-to-keep-rates-at-3-75-in-july-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.9
+   "heat": 44.9
   },
   {
    "cat": "macro",
@@ -97,17 +41,45 @@
      "t": "sec"
     }
    ],
-   "heat": 37.6
+   "heat": 41.6
   },
   {
    "cat": "macro",
-   "time": "2026-07-30 20:20",
-   "title": "Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound",
-   "summary": "After a five-week pause on Bitcoin purchases, Strategy Inc. investors are left wondering what’s next for the largest buyer of the cryptocurrency following a tumultuous period.",
+   "time": "2026-07-30 20:47",
+   "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 20:46",
+   "title": "BOE's Lombardelli Says Holding Rates Was Right Thing to Do",
+   "summary": "Bank of England Deputy Governor Clare Lombardelli says her vote to hold interest rates steady at 3.75% on Thursday was not a close judgment. \"I was pretty clear that holding rates …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-30/boe-s-lombardelli-holding-rates-was-right-thing-to-do-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 36.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 20:22",
+   "title": "Bailey Says BOE Decided to Keep Rates at 3.75% in July",
+   "summary": "Bank of England Governor Andrew Bailey speaks at a news conference in London following the central bank's decision to keep interest rates unchanged in July as UK officials sought t…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-30/bailey-says-boe-decided-to-keep-rates-at-3-75-in-july-video",
      "t": "sec"
     }
    ],
@@ -125,7 +97,49 @@
      "t": "agg"
     }
    ],
-   "heat": 28.9
+   "heat": 32.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 20:20",
+   "title": "Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound",
+   "summary": "After a five-week pause on Bitcoin purchases, Strategy Inc. investors are left wondering what’s next for the largest buyer of the cryptocurrency following a tumultuous period.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 10:52",
+   "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
+   "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 30.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 14:04",
+   "title": "LNG Tracks Global Cargo Competition as Europe Builds Winter Storage After the Fed",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/lng-tracks-global-cargo-competition-as-europe-builds-winter-storage-after-the-fed-200684852",
+     "t": "agg"
+    }
+   ],
+   "heat": 28.8
   },
   {
    "cat": "macro",
@@ -139,7 +153,49 @@
      "t": "sec"
     }
    ],
-   "heat": 19.8
+   "heat": 19.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 18:42",
+   "title": "Conflict Widens Across Middle East, Bond Yields Higher, More",
+   "summary": "Source: Bloomberg, 6:24",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-07-30/conflict-widens-across-middle-east-bond-yields-higher-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 19.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 01:08",
+   "title": "CoreWeave Slaps 9%-Plus Yield on $2.6 Billion Leveraged Loan",
+   "summary": "CoreWeave Inc. has sweetened terms on a $2.6 billion leveraged loan to fund additional computing capacity for firms including Anthropic PBC, in an effort to win over investors grow…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-29/coreweave-boosts-yield-on-2-6-billion-loan-tied-to-anthropic",
+     "t": "sec"
+    }
+   ],
+   "heat": 16.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 20:53",
+   "title": "Iran Strikes Iran Again, GDP Grows Less-Than-Expected, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-07-30/iran-strikes-iran-again-gdp-grows-less-than-expected-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 16.0
   },
   {
    "cat": "macro",
@@ -154,20 +210,6 @@
     }
    ],
    "heat": 13.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 18:13",
-   "title": "Business Brief (July 30): WTO Backs China in Turkey EV Tariff Dispute",
-   "summary": "Business Brief (July 30): WTO Backs China in Turkey EV Tariff Dispute &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV3M4N3ZEa1BseG1LMXlqeFBfZmxzVlpmNUZhMV85djhBLUpOdFFTdEFwMG8wb2FlYm51QTEyMnFIX1JNM0JfTlVqczJ0eDJud2RDUGZSN0puNzA5VGF1Y2R6VlA4bDh3QW0wUXJlZ29IVlpzd0pwLThBNGM0NUhUZTdMdTdQRzdiNmJjcnc1MVp5RnFDbHBjTG5nQWhkd192M3MyLU1Qd0ZCX25vVFB5UVB5MzNVbldrREpNYTFR?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 11.5
   },
   {
    "cat": "sector",
@@ -199,20 +241,6 @@
   },
   {
    "cat": "sector",
-   "time": "2026-07-30 20:05",
-   "title": "Meta Reports $279 Billion in Future Data Center Leases for AI",
-   "summary": "Meta Platforms Inc. said it has $279 billion in future lease agreements mostly related to artificial intelligence data centers that are not yet reflected on its balance sheet.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/meta-reports-279-billion-in-future-data-center-leases-for-ai",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.9
-  },
-  {
-   "cat": "sector",
    "time": "2026-07-30 20:00",
    "title": "Tech Disruptors: HubSpot CTO on AI, Application Software Shifts",
    "summary": "The application software industry is facing a mega restructuring with the arrival of AI agents in enterprise workflows. On this episode of the Tech Disruptors podcast, HubSpot Chie…",
@@ -220,6 +248,20 @@
     {
      "n": "Bloomberg Business",
      "u": "https://www.bloomberg.com/news/audio/2026-07-30/tech-disruptors-hubspot-cto-on-ai-application-software-shifts",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-30 20:05",
+   "title": "Meta Reports $279 Billion in Future Data Center Leases for AI",
+   "summary": "Meta Platforms Inc. said it has $279 billion in future lease agreements mostly related to artificial intelligence data centers that are not yet reflected on its balance sheet.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/meta-reports-279-billion-in-future-data-center-leases-for-ai",
      "t": "sec"
     }
    ],
@@ -283,73 +325,17 @@
   },
   {
    "cat": "sector",
-   "time": "2026-07-30 17:15",
-   "title": "Tech Brief (Jul. 30): U.S. Takes Aim at Chinese Robot-Makers With Sweeping Import Ban",
-   "summary": "Tech Brief (Jul. 30): U.S. Takes Aim at Chinese Robot-Makers With Sweeping Import Ban &nbsp;&nbsp; Caixin Global",
+   "time": "2026-07-30 06:11",
+   "title": "Stocks Get Tech Lift as Buyers Emerge After Rout: Markets Wrap",
+   "summary": "Wall Street staged a comeback as dip buyers emerged, lifting stocks as chipmakers rebounded while data signaled the economy remains in good shape, but isn’t overheating.",
    "srcs": [
     {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeTUzRURROW1RWmNETUlpYjlBOFlkajRLb09TMk5GTHphNjJxRjRkRzFXb3V2eThQZ28zV2JQSURXNWJ4VGdlOXJPVDFqbFdwdmhvVjBjYlhJcmNzMUxsN1pZLTg3U0dIM3ZxM1h3Ml9YbGJFdGFaaFR4VnByaFVXRHljRjdYS3BZNlFVNmVrUU83Y05Nc3Ffb29iekV5b2l4ZEEwSWxyOGYteURmdGZkVm9RekNiRHhEWGFzMFdLTG1LUkRwR3dyYmdYOWFMNG8?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-29/stock-market-today-dow-s-p-live-updates",
      "t": "sec"
     }
    ],
-   "heat": 91.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-30 16:09",
-   "title": "China Probes Former Securities Regulator",
-   "summary": "China Probes Former Securities Regulator &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVEZCc1ZCdXVEVEFkQUVCLXNHaUo0c3RSRV84c3otam9UaGtqa1R2cWtzdFU0bTZQUnQ1dXlsMHZ6UTJQel9JQkV6R01OdjlZWm1zd240RDY1eEh1NXNLbG1ENzR2blEyT1ZabWZfMmNhZXZGRkpNRC1MazNMdzc3SmZQN1E4NDNlbkRrcTRLTGR5WG9GUGFtUG1FVQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-30 15:21",
-   "title": "Global economy at risk if AI investment falters, says MAS - hcamag.com",
-   "summary": "Global economy at risk if AI investment falters, says MAS &nbsp;&nbsp; hcamag.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNVeTZLSGhDT0RaVmI2TnlyZzF3cGpleW94MlREaW5UYUFmbFJwZU5iSG1IV1Naem9QYTZNN2VvODk2d1Zxa1FLMW1YTnh1RmlKa0I0cUgwMEtoT2xXTm5TajF3aGR3YXJOTnV0RkVXLUNJN2V2YWRFWUxWTjdWUTZ5N25yX2k4SXh6Rnk0YThBemlFN3A0eFlyYXlyMlgxNjh5U2gxOG9HbFFWSUZrOGhoakZKWG15eldmZWxPM3RGQUE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-30 12:16",
-   "title": "In Depth: Thai Buddhist Amulets Draw China’s Anxious Young — and Laundering Networks",
-   "summary": "In Depth: Thai Buddhist Amulets Draw China’s Anxious Young — and Laundering Networks &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcElqRWU3dERyMENLNEZpVjJWSzc2YlhhQUhzYlZ6ZnpKcEtZTmp1MjRPNUFxUk5vS1NoODBNTjlKX1lmVjdqWnB3OUF4OS1YM2V6VWU1T0lVMXNSYktuRlhxNEg2TWJCWTZacG9ZaUpaeVVPNWh1M0lNYmxncUpDU0pXeldnOFR1c0pLb0hKbHQtems3RkV5NHJtWG5WYWtPYTV6YnRmZ09XWWVWV1UyeXBhbUNGTF9IVTVlRFVxdzNhZlVPaHBRRThMUXF5QktT?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 90.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-30 03:24",
-   "title": "China Trust Sector Profit Rises as Regulatory Overhaul Begins to Pay Off",
-   "summary": "China Trust Sector Profit Rises as Regulatory Overhaul Begins to Pay Off &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMEpPTUFWMUhCLXJqOGRTMGl5R0ZfWEZSbzRSdld6OWh5dF8wWGx6ZGRGS0xFRGQwZ2pxYVJGSmJQMUo3c0Z1ZF9URlRrSzJRSm85VjZ3NFdBbjRrbHdrNVdtYXFqcjI2WU1WZ3VsRjd2c1BEX1lvSER2Z1FyTzRxU3F4R09DaXpOU3lzRUpBU29MWVFoLWFtYU1VS3VibGY4ZElOQlEyenozOVREOXlGeWk2UF9ybDRDX2lzSXlHMkdNeEs2enc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 89.1
+   "heat": 89.5
   },
   {
    "cat": "sector",
@@ -380,6 +366,62 @@
    "heat": 88.0
   },
   {
+   "cat": "sector",
+   "time": "2026-07-24 22:43",
+   "title": "Is It All One Big AI Trade? - J.P. Morgan",
+   "summary": "Is It All One Big AI Trade? &nbsp;&nbsp; J.P. Morgan",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUpKOHNNUV8xQWk5UHZVeGFXY05pVW1XOEE1N3dNWkM1bWNFWGhfYWwtdURPcEhOT29yNF9fVWhVY09VcWJ5N24tSWZpeWNzek83NDVuNkhOcHFPNVNvclMtNzJvbWpvVXJKWWNxSUJTV3BDd1dfNUhxb3BKMGFVVlhPUldFalctdnFfcDdXazZrdTlFb2hWVEphai1tQ2o0TVJNaWY1VVk?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-24 13:18",
+   "title": "超七成消费电子企业上半年预盈，AI硬件催化行业景气，关注消费电子ETF易方达（562950）后续走势",
+   "summary": "超七成消费电子企业上半年预盈，AI硬件催化行业景气，关注消费电子ETF易方达（562950）后续走势 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNcVdhekN1cDItRGNtSHBVZlJPYVBSdVJCdExmVDk4QWQ5UDhtY2xLNEEwVmNYc1E3alBPWG01eFFPd0J5NmRzVw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-27 22:33",
+   "title": "18:24:03【汇丰控股将在新加坡设全球人工智能卓越中心 并招聘超100名AI专家】",
+   "summary": "18:24:03【汇丰控股将在新加坡设全球人工智能卓越中心 并招聘超100名AI专家】 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03LWhLejMwSFMxU1FpYTZUemtQS1pZVHZOZlBFMURvWEIwSW83S0xmcVh2QktHcFRuUDRRMnZMeml6TDN2TU9nRg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-27 18:57",
+   "title": "In Profile: Wall Street’s Go-To Regulator in China Swept Up in Anti-Graft Dragnet",
+   "summary": "In Profile: Wall Street’s Go-To Regulator in China Swept Up in Anti-Graft Dragnet &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb01SQmJZTUluLTJFTUctNkM4bDV2eXUydmZOYWJySTYyN3Nib1doRmJOR3JtR3U3LTF2MWQ5aHNnb3RRTDRwVk9DczA5ODlzY1QxdHU3NnJwYjJNVkw2UkE3WW9PSXlFQlBBa1Q4d2g1VlZsS1FWcnVxdXlBRFB4aGdNclFobGhQVTk1NUdCT244b09LRG5kZkZtWlF6Unpud09SZm5fUkRDN1dCeFpKZEtQanNNTDREX0hISF9nM2FOR01LUk9rRVlKQjNEWkk?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
+  },
+  {
    "cat": "stock",
    "time": "2026-07-30 12:54",
    "title": "Six key risks facing NVIDIA stock ahead of August earnings",
@@ -391,35 +433,7 @@
      "t": "agg"
     }
    ],
-   "heat": 80.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-30 20:12",
-   "title": "LSEG CEO Wants UK Stamp Duty on Shares to 'Go Away'",
-   "summary": "London Stock Exchange Group raised its full-year guidance after reporting its strongest first half since acquiring Refinitiv. The company said demand for its AI-powered data produc…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-30/lseg-ceo-wants-uk-stamp-duty-on-shares-to-go-away-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 75.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-30 20:12",
-   "title": "Goldman Traders Say Stocks Lack ‘Juice’ for Meaningful Breakout",
-   "summary": "For almost two months, investors have tried — and largely failed — to deduce a signal that would break US equities’ newfangled habit of lurching around and going nowhere.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/goldman-traders-say-stocks-have-more-froth-to-unwind-before-run",
-     "t": "sec"
-    }
-   ],
-   "heat": 71.9
+   "heat": 84.7
   },
   {
    "cat": "stock",
@@ -433,7 +447,35 @@
      "t": "sec"
     }
    ],
-   "heat": 71.8
+   "heat": 79.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-30 20:12",
+   "title": "LSEG CEO Wants UK Stamp Duty on Shares to 'Go Away'",
+   "summary": "London Stock Exchange Group raised its full-year guidance after reporting its strongest first half since acquiring Refinitiv. The company said demand for its AI-powered data produc…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-30/lseg-ceo-wants-uk-stamp-duty-on-shares-to-go-away-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-30 20:12",
+   "title": "Goldman Traders Say Stocks Lack ‘Juice’ for Meaningful Breakout",
+   "summary": "For almost two months, investors have tried — and largely failed — to deduce a signal that would break US equities’ newfangled habit of lurching around and going nowhere.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/goldman-traders-say-stocks-have-more-froth-to-unwind-before-run",
+     "t": "sec"
+    }
+   ],
+   "heat": 67.9
   },
   {
    "cat": "stock",
@@ -447,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.8
+   "heat": 67.8
   },
   {
    "cat": "stock",
@@ -461,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.7
+   "heat": 67.7
   },
   {
    "cat": "stock",
@@ -475,63 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-30 16:19",
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today? - inkl",
-   "summary": "Stock Market: Will S&P 500 Open Up or Down Today? &nbsp;&nbsp; inkl",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXMtREJfdWpjV0tIcGxBNWxmUWN6TW1qSzZTcURNNzh1WERYaXRCdVdXZXQybi1XT0N3a0QwUUhCMl9HOXNiX2xxUmVDM1IzNEYwaWx3X0RTTC1JT05wa3ZtOFFjV3FNdmVaZERQa0F1R1QwQ3hkQmdMRnlZRE9iQlRjY0E1cktVOVE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 71.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-30 06:11",
-   "title": "Stocks Get Tech Lift as Buyers Emerge After Rout: Markets Wrap",
-   "summary": "Wall Street staged a comeback as dip buyers emerged, lifting stocks as chipmakers rebounded while data signaled the economy remains in good shape, but isn’t overheating.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-29/stock-market-today-dow-s-p-live-updates",
-     "t": "sec"
-    }
-   ],
-   "heat": 69.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 23:55",
-   "title": "HSBC Goes Max Overweight on US Stocks: Five Reasons to Bet on S&P 500 Rally, 40% Oil Surge This Year Won't Shake the Bul",
-   "summary": "HSBC Goes Max Overweight on US Stocks: Five Reasons to Bet on S&P 500 Rally, 40% Oil Surge This Year Won't Shake the Bull Camp &nbsp;&nbsp; finance.biggo.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15WmJTMmszcnlyYVNRa1BJUjZBdGpFRnJyeGZTRzJfQXdfZkRad3VvS1ZDSmt1Vm1RdmZxQnlqX0V4NkR0TnY3WUx2bzNLaVljTzZRYU5PUF9BSkJRVGt4YU5aZURaTFBldGZTd1lNMmVFVUt2R2c?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 68.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 19:44",
-   "title": "Stocks drift on Wall Street and crude oil prices drop as Mideast tensions cool - ABC News - Breaking News, Latest News a",
-   "summary": "Stocks drift on Wall Street and crude oil prices drop as Mideast tensions cool &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMjdsa1BtNEV2ZG5NMEdGbkxmX2ZtM0VUTVAxX3ZqWEp4SkpVVmpRd3FaTjlnTE1BNHBIdWtMeEl6NHR1ZEJ5Rnl4TlAxZ2tDOGdDXzRuNXVrUzQwdEJ4cDhSdThhTkYwNUdMTDZqNjJCVlR6bGVSelZERTBFZlRlQTdZR3VUNlUwd2xRaTRoOXJYTFR2LTJr0gGcAUFVX3lxTE4xV04tTEluZlFkeHpXbGYyTEh1ZWtLY0haUmJmZnlWOFJJZjlpNnpMRTFiUVdxSXc0WGoyWWN6cFhkRHFTYi1qVHFLZUpMekFKSEYteEU4ck9nWDE0N09xZWR0bl9xUXd6M0p0elNrS0p5ZVU1bDVfdnVLeVpyOFJwa0xoUmtBS3dDdGlnMXRIcnBDWWlwaU14dHFWdA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 67.8
+   "heat": 67.6
   },
   {
    "cat": "stock",
@@ -545,21 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 17:11",
-   "title": "Shanghai Stock Exchange Chief Reassigned in Broad China Regulatory Shakeup",
-   "summary": "Shanghai Stock Exchange Chief Reassigned in Broad China Regulatory Shakeup &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYWlPSmNuOXJVVUZXb3dIZ1lfVlYxS3dQUDZoNEhGSjN1ZW40M1B2RWVyVkcyMm1vNzZqN1ZCelpvX1JXbDVoQ2Fzb2lfNW16MnE2aVlWTlJZc3BYWUJ5Mk9ITFhGU2ZRRFFKZ09lZkFLbDZrLXlRR3NzWUZQckgwT0w5Skpmb3djSHd6ZS1vc0RYSTdIeTRuaVRCNXhRT1dBX09NakpUWjExcm1BWHNOU2V4OVhYdTY3cjVVYzljazdWOGpGV0U2Sg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 67.4
+   "heat": 63.5
   },
   {
    "cat": "stock",
@@ -573,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.3
+   "heat": 63.3
   },
   {
    "cat": "stock",
@@ -587,7 +559,77 @@
      "t": "sec"
     }
    ],
-   "heat": 66.4
+   "heat": 62.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-27 15:00",
+   "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
+   "summary": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? &nbsp;&nbsp; U.S. Bank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-26 22:12",
+   "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks",
+   "summary": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks &nbsp;&nbsp; CNBC",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vbDc1ZDAxWnpwdEpFZkNuUU10TlV1bWY1RGtoM2tsQVBwd2pIRjg1T3hiZnNRRklTUEQ4bXdfV2hvZ0F3M2t3d3VJR0h4cXRKOHhhRmVDSmZEalFyY3RPMHhyUTd4NjBCWjR5dkhWX3dkd9IBd0FVX3lxTFBrZWdtSEgwVWcwekZOdUlxYVhnV3BoQVBwdklPckJ3dk85eHFUN0lPWkswbnBXdEU4QmxPcU1kNWN5dnVSeXdQM244MUdXUlE5TVBKNDBvSG9EdjVRdEtUWXF0TVl2MjhBNjQxekh6LWtCWEE5S3pv?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-25 11:37",
+   "title": "How major US stock indexes fared Friday 7/24/2026 - The Washington Post",
+   "summary": "How major US stock indexes fared Friday 7/24/2026 &nbsp;&nbsp; The Washington Post",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaDYyQWtuTGN4ZGpYVlJxU2xqNEpKaDZrclNYVklMRnJLaWxlLVJ1dlh3cVdFR0VZeFZ3cEpFbkxWS1pEVGE0U0VxTlJ1eWRUVUQ0RzRzMXRFWkpGU2NjVG9SbkVZbkotZWFOa2VKM1FHOGpsSW5kTVY0YjdsQzdGX0xITEtlb2g4clRRLUNZVWtjbU5yVnFSSFRTUzJsdHBmWGJ2dm9VbmpudGZmRG5ZS3dEVTZYaVBhRm84aFFHZTJWaVk?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-24 11:16",
+   "title": "How major US stock indexes fared Thursday 7/23/2026 - The Washington Post",
+   "summary": "How major US stock indexes fared Thursday 7/23/2026 &nbsp;&nbsp; The Washington Post",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbEc2VXQ0NDJSZmdoVHB0cjNnNmVfcU1KaHVfam1HbE8tQWp6WDhMbUVrU05rTWNKVUJ0dzRJZnJUZzNMYXByR1FUby1DOVZuUHZ5M0QwdFM4cHlQMkxJUjdTWDVjUDk1UkxJc1ZySjRCSXF3cXc2QU52anBUU2FYNkFITUNmXzRqUkJKQmdKMGhHNnNMWEdmY0RFS3g3Z1c2dnZKSk0wem84UHB2WkJTWkw1NFh4VnVqRUZlbjlqYXZ0Qm1wWVBV?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-27 20:57",
+   "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Rise as US-Iran Halt Retaliatory Strikes—Micro - Benzinga",
+   "summary": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Rise as US-Iran Halt Retaliatory Strikes—Micro &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRXZqSjMwaEdaM0YxRWtDRHc2djhkbzlGWGhEOWxCRFZSNVl1SmJtaVlGbEZTdkF3S0RINlJHN3dGMGc2M3p1YVFVMUNRTEtmT2dOUTVsQkdZSFdZYUpETS1Gc1ZMN3kwUVJNRXkzbzRrREtVaEd2Z2VoS1ZKUHRVV3R6blVzMEFyclR0bG05REpLYjFOWXMwRzNKcjZiRGRwcVhCVUVjTkhuTkJkRUZTRjNTTF94UnVsZjJZdWlPQ2Q4T3Yya3pwSTJ4VnJFZGxjdy1yRk1HZm0xMHpSU1hUM1dhNWFCTnd6a0l4S096aV9wWmduaFM0djJnRC15VWxIRUswU193b1dFQzktblE?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
   },
   {
    "cat": "global",
@@ -601,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.9
+   "heat": 31.9
   },
   {
    "cat": "global",
@@ -615,7 +657,7 @@
      "t": "agg"
     }
    ],
-   "heat": 21.6
+   "heat": 29.6
   },
   {
    "cat": "global",
@@ -629,7 +671,7 @@
      "t": "agg"
     }
    ],
-   "heat": 21.5
+   "heat": 29.5
   },
   {
    "cat": "global",
@@ -643,7 +685,35 @@
      "t": "agg"
     }
    ],
-   "heat": 21.0
+   "heat": 29.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 13:33",
+   "title": "Oil Prices Slip Despite New Attacks Across the Middle East",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-prices-slip-despite-new-attacks-across-the-middle-east-200684847",
+     "t": "agg"
+    }
+   ],
+   "heat": 28.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-24 18:02",
+   "title": "Analysis: China’s Weakening Crude Demand Is Stabilizing Oil Markets",
+   "summary": "Analysis: China’s Weakening Crude Demand Is Stabilizing Oil Markets &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2hQV3EtamdTVnh6OHhLMWJTZC00XzdjR0pySFhOekdsMW5yVDFPcDhCQXlCRFBHdDFoM0hRdDQ1SEt1VkltVkZPUFJyeEVIY1EtaHFMZE84akRlSUJXR3BmTkFnemZHZVlQYTU2QlN0S2FlS1JvcXJ4NW9ndkRvdU10VWN5Q1ppZ1BXTk1MMDA3RDFBaGVmSXlacVhTSkFjZW50TDg2WWJrdUh1d3VHX05sdVkxeXJoS1lQOA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 24.0
   },
   {
    "cat": "global",
@@ -674,46 +744,18 @@
    "heat": 12.9
   },
   {
-   "cat": "sector",
-   "time": "2026-07-29 14:59",
-   "title": "亚马逊开始控制AI成本：减少调用外部模型 资源转向前沿研究",
-   "summary": "亚马逊开始控制AI成本：减少调用外部模型 资源转向前沿研究 &nbsp;&nbsp; 财联社",
+   "cat": "global",
+   "time": "2026-07-24 12:13",
+   "title": "12:13:44 财联社7月24日电，派杰投资将特斯拉目标价从500美元下调至450美元。",
+   "summary": "12:13:44 财联社7月24日电，派杰投资将特斯拉目标价从500美元下调至450美元。 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9USHRWbGtla0VaOFNUMGVGOURRay0taS05UlZ2c1ZkMlpQSU9PV193SERBSXpNQWUyWHVTMmZzOGdERWNyMldjYw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JMG52R1UtVXExUzVmYlhRS1cxeWwxZk1VYmRGa1ZyZ2t4aHdXVE9oeTBzZ1VEVmNaUXFmdWpEYTVqT1p6MFBwSw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 87.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 19:50",
-   "title": "我国汽车出口连续三年全球第一，南方基金旗下汽车ETF南方(516840)标的指数走强向上涨近3%",
-   "summary": "我国汽车出口连续三年全球第一，南方基金旗下汽车ETF南方(516840)标的指数走强向上涨近3% &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VcDNuNDk3T3VmcndSelRycThkdzI1cXN5NnpKaGVpWFNrS1ptQ1drZWFNQW4zT1NwY2JGemlFNWJSSFI5aHZBdw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 19.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 14:03",
-   "title": "14:03:04 财联社7月29日电，韩国金融服务委员会主席表示，对未能满足公众对杠杆ETF的期望表示歉意。",
-   "summary": "14:03:04 财联社7月29日电，韩国金融服务委员会主席表示，对未能满足公众对杠杆ETF的期望表示歉意。 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wQ2x3MjF2SktPYXk1dXpLU2lQS05HREUtQU1vNzFRd1dKUllfYVpSMW4zcjdmcDFZUXVIM0M1MjZoRHdLT3V2Vg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 14.8
+   "heat": 4.0
   }
  ]
 }
