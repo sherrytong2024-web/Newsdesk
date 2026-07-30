@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30 21:33",
+ "updated": "2026-07-30 21:37",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 119.5
+   "heat": 111.5
   },
   {
    "cat": "macro",
@@ -27,21 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 06:31",
-   "title": "Bond Yields at 19-Year High Send Warsh Credibility Warning",
-   "summary": "The message from the bond market was clear: For all of Federal Reserve Chairman Kevin Warsh’s tough talk about taming inflation, he’s not rushing fast enough to deliver.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-29/bond-rout-sends-warning-to-warsh-that-tough-talk-is-not-enough",
-     "t": "sec"
-    }
-   ],
-   "heat": 97.5
+   "heat": 103.9
   },
   {
    "cat": "macro",
@@ -55,35 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 06:54",
-   "title": "Here are the five big takeaways from this week's Fed meeting",
-   "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 93.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 14:10",
-   "title": "Gold Price Rises After Fed Holds Interest Rates Steady",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-price-rises-after-fed-holds-interest-rates-steady-200684853",
-     "t": "agg"
-    }
-   ],
-   "heat": 92.8
+   "heat": 88.0
   },
   {
    "cat": "macro",
@@ -97,7 +55,35 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 88.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 06:54",
+   "title": "Here are the five big takeaways from this week's Fed meeting",
+   "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 85.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 14:10",
+   "title": "Gold Price Rises After Fed Holds Interest Rates Steady",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-price-rises-after-fed-holds-interest-rates-steady-200684853",
+     "t": "agg"
+    }
+   ],
+   "heat": 84.8
   },
   {
    "cat": "macro",
@@ -111,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.3
+   "heat": 83.3
   },
   {
    "cat": "macro",
@@ -125,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 88.0
+   "heat": 80.0
   },
   {
    "cat": "macro",
@@ -136,20 +122,6 @@
     {
      "n": "Investing.com(商品)",
      "u": "https://www.investing.com/analysis/gold-fed-hold-shifts-focus-to-pce-inflation-data-200684854",
-     "t": "agg"
-    }
-   ],
-   "heat": 80.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 14:35",
-   "title": "FOMC Recap: Fed Holds, but Not Quite the ’Hawkish Hold’ Traders Expected",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/fomc-recap-fed-holds-but-not-quite-the-hawkish-hold-traders-expected-200684842",
      "t": "agg"
     }
    ],
@@ -167,21 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 21:06",
-   "title": "Warsh Presser ‘A Little Bit Rocky,’ Says James Bullard",
-   "summary": "Former St. Louis Fed President James Bullard calls the reaction in the 30-Year US Treasury to Federal Reserve Chairman Kevin Warsh’s press conference on Wednesday “nerve wracking” …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-30/warsh-presser-a-little-bit-rocky-says-james-bullard-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 75.9
+   "heat": 72.0
   },
   {
    "cat": "macro",
@@ -195,21 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 20:41",
-   "title": "Fed Holds, but US Dollar May Have Heard Something Else",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/fed-holds-but-us-dollar-may-have-heard-something-else-200684889",
-     "t": "agg"
-    }
-   ],
-   "heat": 73.9
+   "heat": 70.2
   },
   {
    "cat": "sector",
@@ -223,12 +167,12 @@
      "t": "sec"
     }
    ],
-   "heat": 265.8
+   "heat": 269.8
   },
   {
    "cat": "sector",
    "time": "2026-07-30 06:11",
-   "title": "Stocks Get Tech Lift as Buyers Emerge After Rout: Markets Wrap",
+   "title": "Stocks Get Tech Boost as Buyers Emerge After Rout: Markets Wrap",
    "summary": "Wall Street staged a comeback as dip buyers emerged, lifting stocks as chipmakers rebounded while data signaled the economy remains in good shape, but isn’t overheating.",
    "srcs": [
     {
@@ -237,7 +181,7 @@
      "t": "sec"
     }
    ],
-   "heat": 261.4
+   "heat": 265.4
   },
   {
    "cat": "sector",
@@ -251,7 +195,7 @@
      "t": "sec"
     }
    ],
-   "heat": 256.0
+   "heat": 260.0
   },
   {
    "cat": "sector",
@@ -265,7 +209,7 @@
      "t": "sec"
     }
    ],
-   "heat": 256.0
+   "heat": 260.0
   },
   {
    "cat": "sector",
@@ -279,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 256.0
+   "heat": 259.9
   },
   {
    "cat": "sector",
@@ -293,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.9
+   "heat": 259.9
   },
   {
    "cat": "sector",
@@ -307,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.9
+   "heat": 259.9
   },
   {
    "cat": "sector",
@@ -321,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.9
+   "heat": 259.9
   },
   {
    "cat": "sector",
@@ -335,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.9
+   "heat": 259.9
   },
   {
    "cat": "sector",
@@ -349,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.8
+   "heat": 259.8
   },
   {
    "cat": "sector",
@@ -363,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.8
+   "heat": 259.8
   },
   {
    "cat": "sector",
@@ -377,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.8
+   "heat": 259.7
   },
   {
    "cat": "sector",
@@ -391,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.7
+   "heat": 259.7
   },
   {
    "cat": "sector",
@@ -405,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.7
+   "heat": 259.7
   },
   {
    "cat": "sector",
@@ -419,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.7
+   "heat": 259.6
   },
   {
    "cat": "stock",
@@ -433,13 +377,13 @@
      "t": "sec"
     }
    ],
-   "heat": 131.8
+   "heat": 135.8
   },
   {
    "cat": "stock",
    "time": "2026-07-27 15:00",
-   "title": "US stocks: S&P 500 ends higher as investors await tech earnings - The Economic Times",
-   "summary": "US stocks: S&P 500 ends higher as investors await tech earnings &nbsp;&nbsp; The Economic Times",
+   "title": "US stocks: S&P 500 ends higher as investors await tech earnings - economictimes.com",
+   "summary": "US stocks: S&P 500 ends higher as investors await tech earnings &nbsp;&nbsp; economictimes.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -447,13 +391,13 @@
      "t": "sec"
     }
    ],
-   "heat": 116.0
+   "heat": 124.0
   },
   {
    "cat": "stock",
    "time": "2026-07-24 21:37",
-   "title": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs - The Economic Times",
-   "summary": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs &nbsp;&nbsp; The Economic Times",
+   "title": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs - economictimes.com",
+   "summary": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs &nbsp;&nbsp; economictimes.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -461,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 116.0
+   "heat": 124.0
   },
   {
    "cat": "stock",
@@ -475,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.7
+   "heat": 111.7
   },
   {
    "cat": "stock",
@@ -493,6 +437,20 @@
   },
   {
    "cat": "stock",
+   "time": "2026-07-30 21:36",
+   "title": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 14% as AI trade splits",
+   "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 96.0
+  },
+  {
+   "cat": "stock",
    "time": "2026-07-30 20:12",
    "title": "Goldman Traders Say Stocks Lack ‘Juice’ for Meaningful Breakout",
    "summary": "For almost two months, investors have tried — and largely failed — to deduce a signal that would break US equities’ newfangled habit of lurching around and going nowhere.",
@@ -503,35 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-30 19:03",
-   "title": "Stock Movers: MSFT, META, ARM (Podcast)",
-   "summary": "Source: Bloomberg, 4:33",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-07-30/stock-movers-msft-meta-arm-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-30 18:27",
-   "title": "Meta tanks nearly 9%, Microsoft jumps 9% as the AI trade splits Big Tech",
-   "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.5
+   "heat": 95.8
   },
   {
    "cat": "stock",
@@ -545,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 88.4
+   "heat": 92.4
   },
   {
    "cat": "stock",
@@ -559,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.4
+   "heat": 91.4
   },
   {
    "cat": "stock",
@@ -573,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.3
+   "heat": 91.3
   },
   {
    "cat": "stock",
@@ -587,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.2
+   "heat": 91.1
   },
   {
    "cat": "stock",
@@ -601,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 86.3
+   "heat": 90.3
   },
   {
    "cat": "stock",
@@ -615,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 85.3
+   "heat": 89.3
   },
   {
    "cat": "stock",
@@ -629,189 +559,217 @@
      "t": "sec"
     }
    ],
-   "heat": 84.1
+   "heat": 88.1
   },
   {
    "cat": "global",
-   "time": "2026-07-30 20:09",
-   "title": "Oil Analyst Sankey Warns of Rising Risks in Refining",
-   "summary": "Paul Sankey, president of Sankey Research, explains the level of tightness in the crude oil refining system, the “massive” margins between the price of barrels of oil and refined p…",
+   "time": "2026-07-30 18:56",
+   "title": "Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise",
+   "summary": "Bitcoin held near $64,000 despite the Fed's hawkish split, Iranian ballistic missiles and an 8% surge in oil overnight that sent the Dow down 2.2% and the Nasdaq to a three-month l…",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-30/oil-analyst-sankey-warns-of-rising-risks-in-refining-video",
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/07/30/crypto-s-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-could-still-rise",
      "t": "sec"
     }
    ],
-   "heat": 43.8
+   "heat": 155.6
   },
   {
    "cat": "global",
-   "time": "2026-07-30 09:20",
-   "title": "ASX falls as oil surges on rising Middle East tensions; NAB warns on home loans - SMH.com.au",
-   "summary": "ASX falls as oil surges on rising Middle East tensions; NAB warns on home loans &nbsp;&nbsp; SMH.com.au",
+   "time": "2026-07-30 20:20",
+   "title": "Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound",
+   "summary": "After a five-week pause on Bitcoin purchases, Strategy Inc. investors are left wondering what’s next for the largest buyer of the cryptocurrency following a tumultuous period.",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUW45dnNSU2M0Zkhkc0RrQmpxbFBzUEdTN3lSTFVyb1ZHaXh5TjRsRjRxajgtSmw3czlZRzJMSlIwXzdvOERNWEhLY0RiWkxiNXdvTS1xSmpoc25kRGUwRmhDR2VmUTBNcDJDVUZQTUlPMW01SS1abjhMYWw0RWdrRlRMSHJSWUllRGhVN2xHbGR6ZUpHeC1WZzk2U002SjFZSk1mTi1mOFhGUzlwRjF3c09ZTndBcUtZLUJXLWplUnFnV0dpYVdEWkZWazJQT21teUpRN2NVNmtlLTBNdl9YdDF0a3ViWG90UGY2cjhPNDlEM0ta?oc=5",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound",
      "t": "sec"
     }
    ],
-   "heat": 42.0
+   "heat": 123.8
   },
   {
    "cat": "global",
-   "time": "2026-07-30 18:32",
-   "title": "Oil Has Stopped Trading the War - It’s Trading the Barrels Now",
-   "summary": "",
+   "time": "2026-07-30 11:19",
+   "title": "Japanese game developer launches Bitcoin, altcoin fund with SBI",
+   "summary": "The Bitcoin and altcoin fund builds on Gumi’s growing crypto business centered around XRP, with the company nearly doubling its crypto holdings over the past year.",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-has-stopped-trading-the-war--its-trading-the-barrels-now-200684877",
-     "t": "agg"
-    }
-   ],
-   "heat": 41.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-30 17:42",
-   "title": "Oil Futures Hold While Anticipating Next Escalatory Moves",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-futures-hold-while-anticipating-next-escalatory-moves-200684871",
-     "t": "agg"
-    }
-   ],
-   "heat": 41.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-30 14:44",
-   "title": "US Oil Inventories Sag as Hormuz Turmoil Rages On",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/us-oil-inventories-sag-as-hormuz-turmoil-rages-on-200684848",
-     "t": "agg"
-    }
-   ],
-   "heat": 40.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-28 04:55",
-   "title": "Stocks drift on Wall Street and crude oil prices drop as Mideast tensions cool - BNN Bloomberg",
-   "summary": "Stocks drift on Wall Street and crude oil prices drop as Mideast tensions cool &nbsp;&nbsp; BNN Bloomberg",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNblhlN0lfM29zMmQxWHVTUDNNZUhyN29hZWhEaGpyRXdNMzhvSmpPM1ZYUTBFQk8xSU1Cb1l0UzhPRVIwRFppbG1lcVp3MkpySWFUeGoyT0k1aXlfdmxEdUlsQ2pTVkQ4cklfZ2taa1VXMDlQUXR2SE1pamFLVV8xdTVza0gyQkNGY2JFUFpac1JXR1dia1RMRzhXcmlnM01saDdnclc4ZGhaVF9ZUEc2QXdMQWdhQWc0RHY4eHZRLWNVVTlKMW5jXzZWY3lFTjlkSmI5UHRXZDRqTEJ6?oc=5",
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/japanese-game-developer-bitcoin-altcoin-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 122.3
   },
   {
    "cat": "global",
-   "time": "2026-07-25 03:11",
-   "title": "S&P 500 Futures Edge Higher as Oil Pulls Back and Intel Jumps 4% - finance.biggo.com",
-   "summary": "S&P 500 Futures Edge Higher as Oil Pulls Back and Intel Jumps 4% &nbsp;&nbsp; finance.biggo.com",
+   "time": "2026-07-30 05:04",
+   "title": "Republican Senator Cynthia Lummis Slams Democrat Lawmakers For Dragging Their Feet Over Clarity Act",
+   "summary": "Bitcoin Magazine Republican Senator Cynthia Lummis Slams Democrat Lawmakers For Dragging Their Feet Over Clarity Act The pro-crypto senator is the latest to come out and try to get…",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCYjZPY21qQkVwNm5DaGpVYzg1NUJRX3ZMamhoN1dtcm9yM25idTJVQmlkaHdOMUNVdi1pZXhOQlVadHJXQ0tqX0RJODZFbDZJMXlyYjI4Y1lWRmJ6c3BrQWloNjMzY25kblhJZVlhYXcxU3ZWdFE?oc=5",
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/news/senator-cynthia-lummis-slams-democrats",
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 121.2
   },
   {
    "cat": "global",
-   "time": "2026-07-24 18:02",
-   "title": "Analysis: China’s Weakening Crude Demand Is Stabilizing Oil Markets",
-   "summary": "Analysis: China’s Weakening Crude Demand Is Stabilizing Oil Markets &nbsp;&nbsp; Caixin Global",
+   "time": "2026-07-30 03:34",
+   "title": "Bitcoin Barely Budges as Fed Keeps Interest Rates Unchanged",
+   "summary": "Bitcoin Magazine Bitcoin Barely Budges as Fed Keeps Interest Rates Unchanged The leading cryptocurrency didn't move much — and it wasn't clear what the Fed will do next. This post …",
    "srcs": [
     {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2hQV3EtamdTVnh6OHhLMWJTZC00XzdjR0pySFhOekdsMW5yVDFPcDhCQXlCRFBHdDFoM0hRdDQ1SEt1VkltVkZPUFJyeEVIY1EtaHFMZE84akRlSUJXR3BmTkFnemZHZVlQYTU2QlN0S2FlS1JvcXJ4NW9ndkRvdU10VWN5Q1ppZ1BXTk1MMDA3RDFBaGVmSXlacVhTSkFjZW50TDg2WWJrdUh1d3VHX05sdVkxeXJoS1lQOA?oc=5",
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/markets/bitcoin-stays-still-on-fed-decision",
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 121.0
   },
   {
    "cat": "global",
-   "time": "2026-07-30 19:22",
-   "title": "Why War Hurt Gold at First — and Why the Safe-Haven Trade Is Back",
-   "summary": "",
+   "time": "2026-07-29 23:41",
+   "title": "Banking Lobby CEO Talks Crypto Clarity Act as Senators Race To Pass Bill",
+   "summary": "Bitcoin Magazine Banking Lobby CEO Talks Crypto Clarity Act as Senators Race To Pass Bill The Clarity Act has stalled so far this year partly because of the banking lobby. This pos…",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/why-war-hurt-gold-at-first--and-why-the-safehaven-trade-is-back-200684885",
-     "t": "agg"
-    }
-   ],
-   "heat": 13.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-30 14:38",
-   "title": "Gold Futures Break Above VC PMI Mean as Cycle Analysis Targets $4,260 Resistance",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-futures-break-above-vc-pmi-mean-as-cycle-analysis-targets-4260-resistance-200684845",
-     "t": "agg"
-    }
-   ],
-   "heat": 12.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-29 19:35",
-   "title": "19:35:48 财联社7月29日电，摩根士丹利将可口可乐目标价从89美元上调至100美元。",
-   "summary": "19:35:48 财联社7月29日电，摩根士丹利将可口可乐目标价从89美元上调至100美元。 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85OHN5eFNFU2FrYXVxLWhGajhmNWJYSmREcThZMjVjYjBoX2FoZmROLVVOQzQ4b3NPLW9vRGhTTFQ0YXBVd1k0WQ?oc=5",
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/news/banking-lobby-ceo-talks-crypto-clarity-act",
      "t": "sec"
     }
    ],
-   "heat": 11.7
+   "heat": 120.3
   },
   {
    "cat": "global",
-   "time": "2026-07-30 18:48",
-   "title": "18:48:22 财联社7月30日电，伯恩斯坦将保时捷目标价从45欧元上调至47欧元。",
-   "summary": "18:48:22 财联社7月30日电，伯恩斯坦将保时捷目标价从45欧元上调至47欧元。 &nbsp;&nbsp; 财联社",
+   "time": "2026-07-29 22:12",
+   "title": "Crypto Giant DCG Warns Senate: Pass Clarity Act or Lose Ground to Singapore, UAE",
+   "summary": "Bitcoin Magazine Crypto Giant DCG Warns Senate: Pass Clarity Act or Lose Ground to Singapore, UAE The crypto conglomerate is the latest to show support for the bill in its current …",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SanoyeW43YlpKVE1qNkhQQ2R6US13b25VTTRWUVVuRGJwd3dPUjAybVZWcDc1Q1JMSHZGaHVEYWZZM2hSWDlUeQ?oc=5",
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/news/crypto-giant-dcg-supports-clarity-act",
      "t": "sec"
     }
    ],
-   "heat": 11.5
+   "heat": 120.1
   },
   {
    "cat": "global",
-   "time": "2026-07-24 12:13",
-   "title": "12:13:44 财联社7月24日电，派杰投资将特斯拉目标价从500美元下调至450美元。",
-   "summary": "12:13:44 财联社7月24日电，派杰投资将特斯拉目标价从500美元下调至450美元。 &nbsp;&nbsp; 财联社",
+   "time": "2026-07-29 05:53",
+   "title": "SEC Chairman Says He’s ‘Committed’ to Helping Advance Crypto Clarity Act",
+   "summary": "Bitcoin Magazine SEC Chairman Says He&#8217;s &#8216;Committed&#8217; to Helping Advance Crypto Clarity Act SEC Chairman Paul Atkins is the latest to throw support behind the crypt…",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JMG52R1UtVXExUzVmYlhRS1cxeWwxZk1VYmRGa1ZyZ2t4aHdXVE9oeTBzZ1VEVmNaUXFmdWpEYTVqT1p6MFBwSw?oc=5",
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/news/sec-chair-paul-atkins-supports-clarity-act",
      "t": "sec"
     }
    ],
-   "heat": 8.0
+   "heat": 117.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-29 04:08",
+   "title": "Dubai-Based Emirates Airline Adds Bitcoin and Crypto Payments",
+   "summary": "Bitcoin Magazine Dubai-Based Emirates Airline Adds Bitcoin and Crypto Payments The airline first teased Bitcoin payments back in 2022. This post Dubai-Based Emirates Airline Adds B…",
+   "srcs": [
+    {
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/news/dubai-based-emirates-adds-bitcoin-payments",
+     "t": "sec"
+    }
+   ],
+   "heat": 117.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-29 02:48",
+   "title": "Bitcoin Dips As Crypto Clarity Act Hopes Fade",
+   "summary": "Bitcoin Magazine Bitcoin Dips As Crypto Clarity Act Hopes Fade Some lawmakers are hoping the long-awaited Clarity Act gets a vote by next week. This post Bitcoin Dips As Crypto Cla…",
+   "srcs": [
+    {
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-price-dips-clarity-act",
+     "t": "sec"
+    }
+   ],
+   "heat": 116.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 17:00",
+   "title": "Bitcoin and ether markets are ruled by perps. SpaceX showed how far their influence can go",
+   "summary": "Perpetual futures drive much of the price discovery for bitcoin and ether. When traders pointed the same machinery at a private company, they priced the biggest IPO in history more…",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/07/30/bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influence-can-go",
+     "t": "sec"
+    }
+   ],
+   "heat": 107.2
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 15:05",
+   "title": "Bitcoin ETF inflows return as Ether funds slip into outflows",
+   "summary": "US spot Bitcoin ETFs recorded $32.1 million in inflows on Wednesday despite Bitcoin dipping below $64,000, ending a four-session outflow streak.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/bitcoin-etf-inflows-return-ether-funds-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 106.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 14:59",
+   "title": "Bitcoin, ether whipsaw wipes out $286 million in leveraged bets",
+   "summary": "Price volatility around the Federal Reserve's rate decision cleared positions for roughly 90,000 traders, with unusually equal losses for bulls and bears.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/07/30/bitcoin-ether-whipsaw-wipes-out-usd280-million-even-as-prices-remain-flat-over-24-hours",
+     "t": "sec"
+    }
+   ],
+   "heat": 106.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 14:28",
+   "title": "Bitcoin analysts agree the Fed's hold was hawkish. They are split on what happens next.",
+   "summary": "Four analysts agree the Fed's hawkish hold changes the calculus for risk assets, but they split on whether bitcoin's real test is already here or still six weeks away.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/07/30/bitcoin-analysts-agree-the-fed-s-hold-was-hawkish-they-don-t-agree-on-what-happens-next",
+     "t": "sec"
+    }
+   ],
+   "heat": 106.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 13:19",
+   "title": "Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge",
+   "summary": "Crypto's majors barely moved as Asia's semiconductor selloff eased. Most are still lower over the week, with HYPE down 8%.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/07/30/ether-xrp-flat-as-chip-stocks-steady-on-samsung-s-250-fold-profit-surge",
+     "t": "sec"
+    }
+   ],
+   "heat": 102.6
   }
  ]
 }

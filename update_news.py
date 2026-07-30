@@ -21,10 +21,13 @@
   0 */3 * * * /usr/bin/python3 /你的路径/update_news.py >> /tmp/newsdesk.log 2>&1
 
 数据源（已探测可达，2026-07-30）：
-  新华社 / 人民日报财经（国内官媒）
-  CNBC / WSJ（国际媒体）
-  Investing.com 综合 & 商品（聚合平台）
-单源失败不影响其余源。
+  外国主源：彭博三频道(Bloomberg Markets/Business/Tech) + S&P 500/经济(Google聚合)
+  国内主源：财联社电报(Google聚合) + 财新(Google聚合)
+  公信力次���：CNBC、Investing.com(综合/商品/外汇)
+  全球向专用源（本轮新增，已验证可达可解析）：
+    CoinDesk / Cointelegraph / BitcoinMagazine（加密货币，强制归 global）
+    FXStreet（外汇，强制归 global）
+  单源失败不影响其余源；强制分类仅用于上述专用源，普通源仍按关键词自适应归类。
 """
 
 import urllib.request
@@ -58,6 +61,11 @@ SOURCES = [
     {"name": "Investing.com(综合)", "url": "https://www.investing.com/rss/news.rss", "t": "agg", "per": 30},
     {"name": "Investing.com(商品)", "url": "https://www.investing.com/rss/commodities.rss", "t": "agg", "per": 30},
     {"name": "Investing.com(外汇)", "url": "https://www.investing.com/rss/forex.rss", "t": "agg", "per": 30},
+    # 全球向专用源（加密货币 / 外汇，强制归 global；已在沙箱验证可达可解析）
+    {"name": "CoinDesk(加密货币)", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "t": "sec", "per": 12, "cat": "global"},
+    {"name": "Cointelegraph(加密货币)", "url": "https://cointelegraph.com/rss", "t": "sec", "per": 12, "cat": "global"},
+    {"name": "BitcoinMagazine(加密货币)", "url": "https://bitcoinmagazine.com/.rss/full/", "t": "sec", "per": 8, "cat": "global"},
+    {"name": "FXStreet(外汇)", "url": "https://www.fxstreet.com/rss/news", "t": "sec", "per": 15, "cat": "global"},
 ]
 
 # 每类目标条数（4类 × 15 = 60）
@@ -89,7 +97,7 @@ KW = {
     "macro": ["美联储","央行","联储","利率","降息","加息","通胀","货币","财政","政治局会议","gdp","tariff","关税","逆周期调节","fomc","联邦基金","公开市场","存款准备金","mlf","lpr","国债","赤字","财政政策","货币政策","量化宽松","qe","缩表","rate","rates","fed","inflation","yields","yield","treasury","ecb","boe","boj","pboc","stimulus","budget","deficit","监管","证监会","纾困","复工复产","稳增长","普惠金融"],
     "stock": ["股","涨","跌","指数","板块","营收","净利","ipo","回购","涨停","跌停","stock","shares","earnings","财报","市值","估值","市盈率","成交量","融资余额","北向资金","南向资金","港股通","沪深","上证","深证","创业板","科创板","ETF","基金","分红","除权","除息","举牌","增持","减持","并购","重组","借壳","退市","st股","龙头","主力资金","散户","机构","游资"],
     "sector": ["ai","人工智能","芯片","半导体","新能源","电池","光伏","汽车","机器人","算力","医药","消费","银行","房地产","科技","能源","nvidia","tesla","apple","chip","大模型","锂电","储能","风电","核电","白酒","家电","军工","航空","航运","港口","铁路","基建","5g","6g","云计算","数据中心","互联网","电商","快递","物流","农业","粮食","猪肉","生猪","铜","铝","稀土","矿产"],
-    "global": ["原油","黄金","美债","美元","地缘","欧洲","日本","韩国","港股","美股","oil","gold","bond","dollar","crude","brent","比特币","btc","加密货币","以太坊","汇率","人民币","日元","欧元","英镑","日经","道琼斯","标普","纳斯达克","恒生","富时","欧股","亚太","美联储","欧央行","日央行","英央行"],
+    "global": ["原油","黄金","美债","美元","地缘","欧洲","日本","韩国","港股","美股","oil","gold","bond","dollar","crude","brent","比特币","btc","加密货币","以太坊","汇率","人民币","日元","欧元","英镑","日经","道琼斯","标普","纳斯达克","恒生","富时","欧股","亚太","美联储","欧央行","日央行","英央行","bitcoin","crypto","ethereum","eth","stablecoin","blockchain","forex","fx","yen","euro","pound","yuan","ruble"],
 }
 
 
@@ -228,6 +236,9 @@ def fetch_feed(src):
             if not is_finance_related(title, summary):
                 continue
             cat = classify(title, summary)
+            # 专用源强制分类（如加密货币/外汇 RSS 必然属 global；英文标题无法命中中文关键词，必须显式路由）
+            if src.get("cat"):
+                cat = src["cat"]
             if cat is None:
                 continue  # 未命中任何金融分类，丢弃
             out.append({
