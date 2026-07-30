@@ -75,12 +75,12 @@
   <header>
     <div>
       <h1>全球金融新闻台 <span style="font-size:13px;color:var(--sub);font-weight:400">可信源核验版</span></h1>
-      <div class="sub">每条新闻附真实可点击来源 · 标注信源等级 · 数据快照 2026-07-30 20:25 (GMT+8)</div>
+      <div class="sub">每条新闻附真实可点击来源 · 标注信源等级 · 数据快照 <span id="snapTs">2026-07-30 20:25</span> (GMT+8)</div>
     </div>
     <div class="controls">
       <input class="search" id="search" placeholder="搜索标题/摘要 (Ctrl+K)" oninput="filterNews()">
       <button class="btn" onclick="toggleAuto()" id="autoBtn">自动刷新: 关</button>
-      <button class="btn" id="refreshBtn" onclick="refreshNews()">立即刷新</button>
+      <button class="btn" id="refreshBtn" onclick="triggerRefresh()">立即抓取刷新</button>
     </div>
   </header>
 
@@ -116,10 +116,10 @@ let NEWS = [
 {"cat": "stock", "time": "2026-07-30 10:51", "title": "10:51:08【银行板块逆势走强 工商银行、建设银行双双创历史新高】", "summary": "10:51:08【银行板块逆势走强 工商银行、建设银行双双创历史新高】 &nbsp;&nbsp; 财联社", "srcs": [{"n": "财联社电报(Google聚合)", "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PQXE2bExhMFRQVWZvcjFCV2FjN2lvM2N3ekZUXzJNZUlacVFzZmtJNnRjWUpEaFd3cVdXY0dWYm1PQnBpd2QzdQ?oc=5", "t": "sec"}]},
 {"cat": "sector", "time": "2026-07-30 12:13", "title": "12:13:20【市场主线：算力硬件再遭重挫 大消费持续走强】", "summary": "12:13:20【市场主线：算力硬件再遭重挫 大消费持续走强】 &nbsp;&nbsp; 财联社", "srcs": [{"n": "财联社电报(Google聚合)", "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tc0NtX0F1eDlRelljamtBVEpxVzFhaU1RaFJ2blRvR3JrOTFxanZmR0dMUWdFbWV0MFhqeDVGWDdQUW5ZOU5XUA?oc=5", "t": "sec"}]},
 {"cat": "global", "time": "2026-07-30 06:43", "title": "Oil Shock Is Adding Stress to the Global Economy - Energy News, Top Headlines, Commentaries, Features & Events - EnergyN", "summary": "Oil Shock Is Adding Stress to the Global Economy - Energy News, Top Headlines, Commentaries, Features & Events &nbsp;&nbsp; EnergyNow.com", "srcs": [{"n": "S&P Global(Google聚合)", "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0dHbXRoRmUxQ0d2U19SODVtLURyQU5tMWhQSjh6cl9SaDRybGVJQ0Y1aXNuUkl3WlpPb2FLY1JGYlFIZS1xNmFCbEk4QUFyZXFYdll2akFOdU9pcEtoLWgza1E4TmdXZlBXNnYtNklYNGlEaDF3bHY5TXZOSVp1UkdoY1RxZw?oc=5", "t": "sec"}]},
+{"cat": "macro", "time": "2026-07-30 20:28", "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged", "summary": "The Fed held interest rates steady, but long-term Treasury yields jumped. Investors are questioning whether he will act forcefully enough on inflation.", "srcs": [{"n": "CNBC", "u": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html", "t": "sec"}]},
 {"cat": "stock", "time": "2026-07-30 20:21", "title": "Ferrari raises 2026 guidance after Q2 earnings beat", "summary": "Ferrari is bumping up its 2026 guidance after beating Wall Street's second quarter expectations amid \"healthy\" demand for its products.", "srcs": [{"n": "CNBC", "u": "https://www.cnbc.com/2026/07/30/ferrari-race-earnings-q2-2026.html", "t": "sec"}]},
 {"cat": "stock", "time": "2026-07-30 20:19", "title": "The ceiling for shares of Meta is lower after its earnings report, analysts say", "summary": "Wall Street analysts broadly lowered price targets on the stock, while keeping ratings unchanged.", "srcs": [{"n": "CNBC", "u": "https://www.cnbc.com/2026/07/30/the-ceiling-for-shares-of-meta-is-lower-after-its-earnings-report-analysts-say.html", "t": "sec"}]},
 {"cat": "sector", "time": "2026-07-30 20:16", "title": "Egypt says drone hit two ships at Mediterranean port as attacks on energy infrastructure widen", "summary": "The unclaimed attack comes as Iran, its Houthi alllies in Yemen and Iraqi militias have widen strikes on energy infrastructure across the region.", "srcs": [{"n": "CNBC", "u": "https://www.cnbc.com/2026/07/30/egypt-drone-gas-ship-damietta-port-iran-war.html", "t": "sec"}]},
-{"cat": "macro", "time": "2026-07-30 20:14", "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged", "summary": "The Fed held interest rates steady, but long-term Treasury yields jumped. Investors are questioning whether he will act forcefully enough on inflation.", "srcs": [{"n": "CNBC", "u": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html", "t": "sec"}]},
 {"cat": "macro", "time": "2026-07-30 20:07", "title": "Stock futures rebound from Fed day sell-off, led by Microsoft and chip stocks: Live updates", "summary": "Investors were digesting megacap tech earnings and the Federal Reserve's decision to hold rates steady.", "srcs": [{"n": "CNBC", "u": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html", "t": "sec"}]},
 {"cat": "sector", "time": "2026-07-30 20:00", "title": "Tech Disruptors: HubSpot CTO on AI, Application Software Shifts", "summary": "The application software industry is facing a mega restructuring with the arrival of AI agents in enterprise workflows. On this episode of the Tech Disruptors podcast, HubSpot Chie…", "srcs": [{"n": "Bloomberg Business", "u": "https://www.bloomberg.com/news/audio/2026-07-30/tech-disruptors-hubspot-cto-on-ai-application-software-shifts", "t": "sec"}]},
 {"cat": "stock", "time": "2026-07-30 19:55", "title": "US Stock Futures Today: Chipotle, Crocs, Meta, Microsoft, Starbucks", "summary": "S&amp;P 500 Index futures rise 0.7% as of 7:50 a.m. in New York as results from Microsoft boost sentiment for the tech sector.", "srcs": [{"n": "Bloomberg Tech", "u": "https://www.bloomberg.com/news/articles/2026-07-30/us-stock-futures-today-chipotle-crocs-meta-microsoft-starbucks", "t": "sec"}]},
@@ -154,22 +154,60 @@ let NEWS = [
 
 const CATS=[{k:"all",n:"全部"},{k:"macro",n:"宏观政策"},{k:"sector",n:"行业赛道"},{k:"stock",n:"选股线索"},{k:"global",n:"全球市场"}];
 
-/* 动态加载：优先 fetch news.json（GitHub Pages 公网），失败则用内置兜底 */
+/* 动态加载：优先 fetch news.json（raw.githubusercontent 实时，绕过 Pages CDN 缓存），失败用内置兜底 */
+const RAW_URL='https://raw.githubusercontent.com/sherrytong2024-web/Newsdesk/main/news.json';
+const REPO='sherrytong2024-web/Newsdesk';
+const WF='refresh.yml';
+let LAST_UPDATED=null;
 async function loadNews(){
   try{
-    const r = await fetch('news.json?_=' + Date.now());
+    const r = await fetch(RAW_URL+'?_='+Date.now(), {cache:'no-store'});
     if(r.ok){
       const d = await r.json();
-      if(Array.isArray(d) && d.length){ NEWS = d; renderFilters(); filterNews(); return true; }
+      const items = Array.isArray(d)? d : (d.items||[]);
+      if(items.length){ NEWS=items; LAST_UPDATED=d.updated||null; renderFilters(); filterNews(); updateMeta(); return true; }
     }
   }catch(e){ console.warn('news.json 加载失败，使用内置兜底数据', e); }
   return false;
 }
-async function refreshNews(){
-  const ok = await loadNews();
-  renderClocks();
-  const b = document.getElementById('refreshBtn');
-  if(b){ b.textContent = ok ? '已刷新 ✓' : '内置数据'; setTimeout(()=>{ b.textContent='立即刷新'; }, 1500); }
+function updateMeta(){ const el=document.getElementById('snapTs'); if(el&&LAST_UPDATED) el.textContent=LAST_UPDATED; }
+/* 前端点击 → 触发 GitHub Actions 工作流(后端)跑 update_news.py → 轮询 news.json 更新 */
+async function triggerRefresh(){
+  let token=localStorage.getItem('gh_token');
+  if(!token){
+    token=prompt('首次使用需 GitHub Fine-grained PAT（只需 Actions:write 权限，仅存于本机浏览器，不会上传）');
+    if(!token){ return; }
+    localStorage.setItem('gh_token', token.trim());
+  }
+  const b=document.getElementById('refreshBtn');
+  b.disabled=true; const old=b.textContent; b.textContent='抓取中…';
+  try{
+    const resp=await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/${WF}/dispatches`,{
+      method:'POST',
+      headers:{'Authorization':'Bearer '+token,'Accept':'application/vnd.github+json','Content-Type':'application/json','X-GitHub-Api-Version':'2022-11-28'},
+      body:JSON.stringify({ref:'main'})
+    });
+    if(resp.status===204){
+      const before=LAST_UPDATED; let ok=false;
+      for(let i=0;i<24;i++){
+        await new Promise(r=>setTimeout(r,5000));
+        if(await pollUpdated(before)){ ok=true; break; }
+      }
+      b.textContent= ok?'已更新 ✓':'已触发·稍候刷新';
+    }else{
+      const t=await resp.text();
+      b.textContent='触发失败';
+      alert('触发失败 ('+resp.status+')：'+t.slice(0,200)+'\n请确认 PAT 有 Actions:write 权限且工作流已推送。');
+    }
+  }catch(e){ b.textContent='网络错误'; console.warn(e); }
+  setTimeout(()=>{ b.disabled=false; b.textContent=old; }, 2500);
+}
+async function pollUpdated(before){
+  try{
+    const r=await fetch(RAW_URL+'?_='+Date.now(),{cache:'no-store'});
+    if(r.ok){ const d=await r.json(); const u=d.updated||null; if(u&&u!==before){ NEWS=d.items||NEWS; LAST_UPDATED=u; renderFilters(); filterNews(); updateMeta(); return true; } }
+  }catch(e){}
+  return false;
 }
 let curCat="all", curQ="";
 
