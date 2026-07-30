@@ -1,0 +1,12 @@
+name = "newsdesk-refresh-proxy"
+main = "worker.js"
+compatibility_date = "2024-09-23"
+
+# 明文变量（不含密钥）
+[vars]
+REPO_OWNER = "sherrytong2024-web"
+REPO_NAME = "Newsdesk"
+
+# 密钥通过命令设置（切勿写入本文件，也不要提交到 git）：
+#   npx wrangler secret put GITHUB_PAT      # 你的 GitHub Fine-grained PAT，只需 Actions: write（本仓库）
+#   npx wrangler secret put REFRESH_KEY     # 可选：启用后，前端 WORKER_KEY 必须一致

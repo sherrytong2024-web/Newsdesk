@@ -97,15 +97,6 @@
     </div>
   </header>
 
-  <!-- token 输入浮层（替代 prompt，兼容微信/移动端） -->
-  <div id="tokenBox" style="display:none;position:fixed;right:12px;top:60px;background:#fff;border:1px solid #ddd;border-radius:12px;padding:14px;box-shadow:0 10px 40px rgba(0,0,0,.18);width:300px;max-width:88vw;z-index:90;color:#222">
-    <div style="font-size:13px;line-height:1.5;margin-bottom:8px">首次使用需 GitHub <b>Fine-grained PAT</b><br>（只需 <b>Actions: write</b> 权限）<br>仅存于本机浏览器，不上传、不进代码</div>
-    <input id="tokenInput" style="width:100%;box-sizing:border-box;padding:8px;border:1px solid #ccc;border-radius:7px;font-size:13px" placeholder="粘贴 github_pat_...">
-    <div style="margin-top:10px;display:flex;gap:8px">
-      <button class="btn" onclick="saveToken()">保存并刷新</button>
-      <button class="btn" style="background:#eee;color:#333" onclick="document.getElementById('tokenBox').style.display='none'">取消</button>
-    </div>
-  </div>
   <!-- 轻提示 -->
   <div id="toast" style="display:none;position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:#222;color:#fff;padding:10px 16px;border-radius:9px;font-size:13px;z-index:95;max-width:86vw;text-align:center"></div>
 
@@ -224,8 +215,10 @@ const CATS=[{k:"all",n:"全部"},{k:"macro",n:"宏观政策"},{k:"sector",n:"行
 
 /* 动态加载：优先 fetch news.json（raw.githubusercontent 实时，绕过 Pages CDN 缓存），失败用内置兜底 */
 const RAW_URL='https://raw.githubusercontent.com/sherrytong2024-web/Newsdesk/main/news.json';
-const REPO='sherrytong2024-web/Newsdesk';
-const WF='refresh.yml';
+/* 刷新代理：Cloudflare Worker 托管在远程，服务端保管 GitHub PAT，
+   所以任何人（含朋友）点"刷新"都无需 token。部署后把 YOUR-SUBDOMAIN 换成你的 workers.dev 子域 */
+const WORKER_URL='https://newsdesk-refresh-proxy.YOUR-SUBDOMAIN.workers.dev/refresh';
+const WORKER_KEY=''; // 可选：与 Worker 的 REFRESH_KEY 一致；留空则不校验
 let LAST_UPDATED=null;
 let _newsSig="";
 async function loadNews(force){
@@ -248,35 +241,15 @@ async function loadNews(force){
 function updateMeta(){ const el=document.getElementById('snapTs'); if(el&&LAST_UPDATED) el.textContent=LAST_UPDATED; }
 /* 前端点击 → 触发 GitHub Actions 工作流(后端)跑 update_news.py → 轮询 news.json 更新 */
 function showToast(msg){ const t=document.getElementById('toast'); t.textContent=msg; t.style.display='block'; clearTimeout(t._t); t._t=setTimeout(()=>t.style.display='none',3800); }
-async function saveToken(){
-  const v=document.getElementById('tokenInput').value.trim();
-  if(!v){ showToast('请输入 token'); return; }
-  localStorage.setItem('gh_token', v);
-  document.getElementById('tokenBox').style.display='none';
-  showToast('已保存，开始抓取…');
-  doTrigger();
-}
-async function triggerRefresh(){
-  const token=localStorage.getItem('gh_token');
-  if(!token){
-    const box=document.getElementById('tokenBox');
-    box.style.display='block';
-    setTimeout(()=>document.getElementById('tokenInput').focus(),50);
-    return;
-  }
-  doTrigger();
-}
+async function triggerRefresh(){ doTrigger(); }
 async function doTrigger(){
-  const token=localStorage.getItem('gh_token');
   const b=document.getElementById('refreshBtn');
   b.disabled=true; const old=b.textContent; b.textContent='抓取中…';
   try{
-    const resp=await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/${WF}/dispatches`,{
-      method:'POST',
-      headers:{'Authorization':'Bearer '+token,'Accept':'application/vnd.github+json','Content-Type':'application/json','X-GitHub-Api-Version':'2022-11-28'},
-      body:JSON.stringify({ref:'main'})
-    });
-    if(resp.status===204){
+    const u=WORKER_URL + (WORKER_KEY? ('?key='+encodeURIComponent(WORKER_KEY)) : '');
+    const resp=await fetch(u,{method:'POST',headers:{'Content-Type':'application/json'}});
+    let data={}; try{ data=await resp.json(); }catch(e){}
+    if(resp.ok && data.ok){
       const before=LAST_UPDATED; let ok=false;
       for(let i=0;i<24;i++){
         await new Promise(r=>setTimeout(r,5000));
@@ -285,10 +258,9 @@ async function doTrigger(){
       b.textContent= ok?'已更新 ✓':'已触发·约1分钟后点此再刷';
       if(!ok) showToast('工作流已触发，云端生成需约1分钟，稍后点按钮刷新');
     }else{
-      const t=await resp.text();
       b.textContent='触发失败';
-      showToast('触发失败 ('+resp.status+')：请确认 PAT 有 Actions:write 且工作流已推送');
-      console.warn('dispatch fail', resp.status, t.slice(0,300));
+      showToast('触发失败 ('+(data.status||resp.status)+')：请确认 Worker 已部署并填写 WORKER_URL');
+      console.warn('dispatch fail', resp.status, data);
     }
   }catch(e){
     b.textContent='网络错误';
