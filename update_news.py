@@ -62,18 +62,19 @@ SOURCES = [
     {"name": "Investing.com(商品)", "url": "https://www.investing.com/rss/commodities.rss", "t": "agg", "per": 30},
     {"name": "Investing.com(外汇)", "url": "https://www.investing.com/rss/forex.rss", "t": "agg", "per": 30},
     # 全球向专用源（加密货币 / 外汇，强制归 global；已在沙箱验证可达可解析）
-    {"name": "CoinDesk(加密货币)", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "t": "sec", "per": 12, "cat": "global"},
-    {"name": "Cointelegraph(加密货币)", "url": "https://cointelegraph.com/rss", "t": "sec", "per": 12, "cat": "global"},
-    {"name": "BitcoinMagazine(加密货币)", "url": "https://bitcoinmagazine.com/.rss/full/", "t": "sec", "per": 8, "cat": "global"},
+    {"name": "CoinDesk(加密货币)", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "t": "sec", "per": 12, "cat": "crypto"},
+    {"name": "Cointelegraph(加密货币)", "url": "https://cointelegraph.com/rss", "t": "sec", "per": 12, "cat": "crypto"},
+    {"name": "BitcoinMagazine(加密货币)", "url": "https://bitcoinmagazine.com/.rss/full/", "t": "sec", "per": 8, "cat": "crypto"},
     {"name": "FXStreet(外汇)", "url": "https://www.fxstreet.com/rss/news", "t": "sec", "per": 15, "cat": "global"},
 ]
 
 # 每类目标条数（4类 × 15 = 60）
 CATS_PER = 15
 GENERIC = {"股","涨","跌","指数","板块","公司","经济","科技","能源","市场","政策","行业","报告","数据","增长","下跌","上涨"}  # 热值计算中剔除的泛化词
-MIN = {  # 可信源最低保底（多样性保障）
+MIN = {  # 可信源最低保底（多样性保障；仅在同一类内交换，绝不跨类偷换）
     "S&P Global(Google聚合)": 3, "财联社电报(Google聚合)": 3, "财新(Google聚合)": 2,
     "CNBC": 2, "Investing.com(综合)": 2, "Investing.com(商品)": 2,
+    "CoinDesk(加密货币)": 2,
 }
 
 # 黑名单：命中任一词 → 直接丢弃（非金融噪音）
@@ -97,7 +98,8 @@ KW = {
     "macro": ["美联储","央行","联储","利率","降息","加息","通胀","货币","财政","政治局会议","gdp","tariff","关税","逆周期调节","fomc","联邦基金","公开市场","存款准备金","mlf","lpr","国债","赤字","财政政策","货币政策","量化宽松","qe","缩表","rate","rates","fed","inflation","yields","yield","treasury","ecb","boe","boj","pboc","stimulus","budget","deficit","监管","证监会","纾困","复工复产","稳增长","普惠金融"],
     "stock": ["股","涨","跌","指数","板块","营收","净利","ipo","回购","涨停","跌停","stock","shares","earnings","财报","市值","估值","市盈率","成交量","融资余额","北向资金","南向资金","港股通","沪深","上证","深证","创业板","科创板","ETF","基金","分红","除权","除息","举牌","增持","减持","并购","重组","借壳","退市","st股","龙头","主力资金","散户","机构","游资"],
     "sector": ["ai","人工智能","芯片","半导体","新能源","电池","光伏","汽车","机器人","算力","医药","消费","银行","房地产","科技","能源","nvidia","tesla","apple","chip","大模型","锂电","储能","风电","核电","白酒","家电","军工","航空","航运","港口","铁路","基建","5g","6g","云计算","数据中心","互联网","电商","快递","物流","农业","粮食","猪肉","生猪","铜","铝","稀土","矿产"],
-    "global": ["原油","黄金","美债","美元","地缘","欧洲","日本","韩国","港股","美股","oil","gold","bond","dollar","crude","brent","比特币","btc","加密货币","以太坊","汇率","人民币","日元","欧元","英镑","日经","道琼斯","标普","纳斯达克","恒生","富时","欧股","亚太","美联储","欧央行","日央行","英央行","bitcoin","crypto","ethereum","eth","stablecoin","blockchain","forex","fx","yen","euro","pound","yuan","ruble"],
+    "crypto": ["比特币","btc","加密货币","以太坊","bitcoin","crypto","ethereum","eth","stablecoin","blockchain","defi","web3","数字资产","币安","coinbase","挖矿","矿机","nft"],
+    "global": ["原油","黄金","美债","美元","地缘","欧洲","日本","韩国","港股","美股","oil","gold","bond","dollar","crude","brent","汇率","人民币","日元","欧元","英镑","日经","道琼斯","标普","纳斯达克","恒生","富时","欧股","亚太","美联储","欧央行","日央行","英央行","forex","fx","yen","euro","pound","yuan","ruble"],
 }
 
 
@@ -151,7 +153,7 @@ def classify(title, summary):
     """按命中关键词数量最多的类别归类（避免 global 被前面的类别饿死）"""
     t = (title + " " + summary).lower()
     best, best_n = None, 0
-    for cat in ("macro", "stock", "sector", "global"):
+    for cat in ("macro", "stock", "sector", "global", "crypto"):
         n = sum(1 for k in KW[cat] if k.lower() in t)
         if n > best_n:
             best, best_n = cat, n
@@ -328,15 +330,15 @@ def main():
     compute_heat(all_items)
 
     # 3) 每类强制取「热度最高且最新」的 15 条：热度含时效分(高热即最新高热)，同热度按时间倒序兜底；不足15条受内容可得性限制
-    cats = {c: [] for c in ("macro", "sector", "stock", "global")}
+    cats = {c: [] for c in ("macro", "sector", "stock", "global", "crypto")}
     for it in all_items:
         cats[it["cat"]].append(it)
     final = []
-    for c in ("macro", "sector", "stock", "global"):
+    for c in ("macro", "sector", "stock", "global", "crypto"):
         lst = sorted(cats[c], key=lambda x: (x["heat"], x["time"]), reverse=True)
         final.extend(lst[:CATS_PER])
 
-    # 4) 多样性保底：确保每个可信源至少出现
+    # 4) 多样性保底：确保每个可信源至少出现（仅在同一类内交换，绝不跨类偷换导致某类低于15）
     pool = [it for it in all_items if it not in final]
     for src, mn in MIN.items():
         have = sum(1 for it in final if it["srcs"][0]["n"] == src)
@@ -344,17 +346,19 @@ def main():
             continue
         for it in sorted(pool, key=lambda x: x["heat"], reverse=True):
             if it["srcs"][0]["n"] == src:
-                # 用最弱的非保底 final 项交换
-                victim = min((x for x in final if x["srcs"][0]["n"] not in MIN),
-                             key=lambda x: x["heat"])
+                # 仅踢出「同类、非保底源、热值最低」的项，保证其他类计数不被破坏
+                victim = min((x for x in final if x["cat"] == it["cat"] and x["srcs"][0]["n"] not in MIN),
+                             key=lambda x: x["heat"], default=None)
+                if victim is None:
+                    break
                 final.remove(victim)
                 final.append(it)
                 pool.remove(it)
-                if sum(1 for x in final if x["srcs"][0]["n"] == src) >= mn:
+                if sum(1 for x in final if it["srcs"][0]["n"] == src) >= mn:
                     break
 
     # 4b) 强制每类恰好 15 条：超出则剔除该类中热值最低者（受内容可得性限制，不足15则保留实际条数）
-    for c in ("macro", "sector", "stock", "global"):
+    for c in ("macro", "sector", "stock", "global", "crypto"):
         clst = [it for it in final if it["cat"] == c]
         if len(clst) > CATS_PER:
             for it in sorted(clst, key=lambda x: (x["heat"], x["time"]))[: len(clst) - CATS_PER]:

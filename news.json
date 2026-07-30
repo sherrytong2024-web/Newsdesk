@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30 21:38",
+ "updated": "2026-07-30 21:44",
  "items": [
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 103.9
+   "heat": 107.9
   },
   {
    "cat": "macro",
@@ -41,21 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 88.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 21:26",
-   "title": "Fed Chairman Kevin Warsh fails first test as ‘Bond Vigilantes’ drive yields higher, says Ed Yardeni",
-   "summary": "\"Arguably, Warsh failed his first credibility test,” wrote Yardeni.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/feds-warsh-fails-first-test-as-bond-vigilantes-drive-yields-higher-says-ed-yardeni.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 88.0
+   "heat": 96.0
   },
   {
    "cat": "macro",
@@ -69,7 +55,21 @@
      "t": "sec"
     }
    ],
-   "heat": 85.5
+   "heat": 93.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 06:31",
+   "title": "Bond Yields at 19-Year High Send Warsh Credibility Warning",
+   "summary": "The message from the bond market was clear: For all of Federal Reserve Chairman Kevin Warsh’s tough talk about taming inflation, he’s not rushing fast enough to deliver.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-29/bond-rout-sends-warning-to-warsh-that-tough-talk-is-not-enough",
+     "t": "sec"
+    }
+   ],
+   "heat": 93.5
   },
   {
    "cat": "macro",
@@ -83,7 +83,21 @@
      "t": "agg"
     }
    ],
-   "heat": 84.8
+   "heat": 92.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 21:26",
+   "title": "Fed Chairman Kevin Warsh fails first test as ‘Bond Vigilantes’ drive yields higher, says Ed Yardeni",
+   "summary": "\"Arguably, Warsh failed his first credibility test,” wrote Yardeni.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/feds-warsh-fails-first-test-as-bond-vigilantes-drive-yields-higher-says-ed-yardeni.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.9
   },
   {
    "cat": "macro",
@@ -97,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.3
+   "heat": 91.3
   },
   {
    "cat": "macro",
@@ -111,7 +125,21 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 88.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 14:35",
+   "title": "FOMC Recap: Fed Holds, but Not Quite the ’Hawkish Hold’ Traders Expected",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/fomc-recap-fed-holds-but-not-quite-the-hawkish-hold-traders-expected-200684842",
+     "t": "agg"
+    }
+   ],
+   "heat": 80.8
   },
   {
    "cat": "macro",
@@ -125,21 +153,21 @@
      "t": "agg"
     }
    ],
-   "heat": 76.8
+   "heat": 80.8
   },
   {
    "cat": "macro",
-   "time": "2026-07-27 16:10",
-   "title": "Stock market today: S&P 500 futures, Nikkei and DAX rise as oil plunge eases inflation fears ahead of Fed decision - Eco",
-   "summary": "Stock market today: S&P 500 futures, Nikkei and DAX rise as oil plunge eases inflation fears ahead of Fed decision &nbsp;&nbsp; Economy Middle East",
+   "time": "2026-07-30 21:06",
+   "title": "Warsh Presser ‘A Little Bit Rocky,’ Says James Bullard",
+   "summary": "Former St. Louis Fed President James Bullard calls the reaction in the 30-Year US Treasury to Federal Reserve Chairman Kevin Warsh’s press conference on Wednesday “nerve wracking” …",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVzZjN285WnhqLWItRms5b1BLWTQyaFZjU043ZFZLT1I1MzQzeGpyR0tsbVdIVTBZRlphNElOdkhxa2dOT1ZrUTZPUDZ4QVhSaWFQVzdMUDVhbXhsV1hPWURKclZGUlJYcUhBMXFDOEZORlJxZk5ibDlITWYtLTFNRS1IWW9VZEFSN043Nm9hNzVHUmFjVFUtSThRRXJHQ3NuZ016M0NPMUsyWmMwMGNjclduczI3N3BXTEt3Tl81dHZCeDFKVlhreXNrRHRlUkFyUFgtWGgtbGsxZUhPcDJCSQ?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-30/warsh-presser-a-little-bit-rocky-says-james-bullard-video",
      "t": "sec"
     }
    ],
-   "heat": 72.0
+   "heat": 79.9
   },
   {
    "cat": "macro",
@@ -153,7 +181,35 @@
      "t": "sec"
     }
    ],
-   "heat": 70.2
+   "heat": 78.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 20:41",
+   "title": "Fed Holds, but US Dollar May Have Heard Something Else",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/fed-holds-but-us-dollar-may-have-heard-something-else-200684889",
+     "t": "agg"
+    }
+   ],
+   "heat": 77.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 19:08",
+   "title": "Federal Reserve’s Thunder and No Rain Weighs on US Dollar",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/federal-reserves-thunder-and-no-rain-weighs-on-us-dollar-200684884",
+     "t": "agg"
+    }
+   ],
+   "heat": 77.6
   },
   {
    "cat": "sector",
@@ -167,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 261.8
+   "heat": 257.8
   },
   {
    "cat": "sector",
@@ -181,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 257.4
+   "heat": 253.4
   },
   {
    "cat": "sector",
@@ -195,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 252.0
+   "heat": 248.0
   },
   {
    "cat": "sector",
@@ -209,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 252.0
+   "heat": 248.0
   },
   {
    "cat": "sector",
@@ -223,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 252.0
+   "heat": 247.9
   },
   {
    "cat": "sector",
@@ -237,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.9
+   "heat": 247.9
   },
   {
    "cat": "sector",
@@ -251,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.9
+   "heat": 247.9
   },
   {
    "cat": "sector",
@@ -265,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.9
+   "heat": 247.9
   },
   {
    "cat": "sector",
@@ -279,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.9
+   "heat": 247.8
   },
   {
    "cat": "sector",
@@ -293,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.8
+   "heat": 247.8
   },
   {
    "cat": "sector",
@@ -307,35 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-30 20:05",
-   "title": "Meta Reports $279 Billion in Future Data Center Leases for AI",
-   "summary": "Meta Platforms Inc. said it has $279 billion in future lease agreements mostly related to artificial intelligence data centers that are not yet reflected on its balance sheet.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/meta-reports-279-billion-in-future-data-center-leases-for-ai",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-30 20:00",
-   "title": "Tech Disruptors: HubSpot CTO on AI, Application Software Shifts",
-   "summary": "The application software industry is facing a mega restructuring with the arrival of AI agents in enterprise workflows. On this episode of the Tech Disruptors podcast, HubSpot Chie…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-07-30/tech-disruptors-hubspot-cto-on-ai-application-software-shifts",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.7
+   "heat": 247.8
   },
   {
    "cat": "sector",
@@ -349,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.7
+   "heat": 247.7
   },
   {
    "cat": "sector",
@@ -363,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.6
+   "heat": 247.6
   },
   {
    "cat": "stock",
@@ -377,7 +405,49 @@
      "t": "sec"
     }
    ],
-   "heat": 139.8
+   "heat": 143.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-30 19:55",
+   "title": "US Stock Futures Today: Chipotle, Crocs, Meta, Microsoft, Starbucks",
+   "summary": "S&amp;P 500 Index futures rise 0.7% as of 7:50 a.m. in New York as results from Microsoft boost sentiment for the tech sector.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/us-stock-futures-today-chipotle-crocs-meta-microsoft-starbucks",
+     "t": "sec"
+    }
+   ],
+   "heat": 131.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-30 16:50",
+   "title": "Apple’s Earnings Will Test Stock’s Status as the AI Safety Play",
+   "summary": "Wall Street’s sudden aversion to AI spending has made Apple Inc. this year’s Big Tech stock market star. But the iPhone maker’s earnings after the close Thursday could remind inves…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-earnings-will-test-stock-s-status-as-the-ai-safety-play",
+     "t": "sec"
+    }
+   ],
+   "heat": 131.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-30 20:12",
+   "title": "LSEG CEO Wants UK Stamp Duty on Shares to 'Go Away'",
+   "summary": "London Stock Exchange Group raised its full-year guidance after reporting its strongest first half since acquiring Refinitiv. The company said demand for its AI-powered data produc…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-30/lseg-ceo-wants-uk-stamp-duty-on-shares-to-go-away-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 127.7
   },
   {
    "cat": "stock",
@@ -409,35 +479,7 @@
   },
   {
    "cat": "stock",
-   "time": "2026-07-30 19:55",
-   "title": "US Stock Futures Today: Chipotle, Crocs, Meta, Microsoft, Starbucks",
-   "summary": "S&amp;P 500 Index futures rise 0.7% as of 7:50 a.m. in New York as results from Microsoft boost sentiment for the tech sector.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/us-stock-futures-today-chipotle-crocs-meta-microsoft-starbucks",
-     "t": "sec"
-    }
-   ],
-   "heat": 111.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-30 20:12",
-   "title": "LSEG CEO Wants UK Stamp Duty on Shares to 'Go Away'",
-   "summary": "London Stock Exchange Group raised its full-year guidance after reporting its strongest first half since acquiring Refinitiv. The company said demand for its AI-powered data produc…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-30/lseg-ceo-wants-uk-stamp-duty-on-shares-to-go-away-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 107.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-30 21:36",
+   "time": "2026-07-30 21:40",
    "title": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 14% as AI trade splits",
    "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
    "srcs": [
@@ -447,7 +489,21 @@
      "t": "sec"
     }
    ],
-   "heat": 96.0
+   "heat": 116.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-30 21:38",
+   "title": "Stock Movers: CVNA, CMG, CROX (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-07-30/stock-movers-cvna-cmg-crox-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 116.0
   },
   {
    "cat": "stock",
@@ -461,7 +517,77 @@
      "t": "sec"
     }
    ],
-   "heat": 95.8
+   "heat": 115.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-30 19:03",
+   "title": "Stock Movers: MSFT, META, ARM (Podcast)",
+   "summary": "Source: Bloomberg, 4:33",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-07-30/stock-movers-msft-meta-arm-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 115.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-30 13:38",
+   "title": "Brightstar Lottery stock hits 52-week low at 10.19 USD",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/company-news/brightstar-lottery-stock-hits-52week-low-at-1019-usd-93CH-4824791",
+     "t": "agg"
+    }
+   ],
+   "heat": 112.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-30 13:37",
+   "title": "Houlihan Lokey stock hits 52-week low at 119.2 USD",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/company-news/houlihan-lokey-stock-hits-52week-low-at-1192-usd-93CH-4824788",
+     "t": "agg"
+    }
+   ],
+   "heat": 112.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-30 13:37",
+   "title": "Perella Weinberg Partners stock hits 52-week low at 14.51 USD",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/company-news/perella-weinberg-partners-stock-hits-52week-low-at-1451-usd-93CH-4824787",
+     "t": "agg"
+    }
+   ],
+   "heat": 112.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-30 13:37",
+   "title": "Adaptive Biotechnologies stock hits 52-week high at 23.25 USD",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/company-news/adaptive-biotechnologies-stock-hits-52week-high-at-2325-usd-93CH-4824786",
+     "t": "agg"
+    }
+   ],
+   "heat": 112.6
   },
   {
    "cat": "stock",
@@ -475,108 +601,220 @@
      "t": "sec"
     }
    ],
-   "heat": 92.4
+   "heat": 112.4
   },
   {
-   "cat": "stock",
-   "time": "2026-07-29 17:48",
-   "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasd",
-   "summary": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. &nbsp;&nbsp; fool.com",
+   "cat": "global",
+   "time": "2026-07-30 20:11",
+   "title": "Big Oil Is Making Big Money During Iran War Market Turmoil",
+   "summary": "Dislocations have created lucrative opportunities for companies able to source, transport and process energy across markets.",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-07-30/big-oil-is-making-big-money-during-iran-war-market-turmoil",
      "t": "sec"
     }
    ],
-   "heat": 91.4
+   "heat": 43.7
   },
   {
-   "cat": "stock",
-   "time": "2026-07-29 17:11",
-   "title": "Shanghai Stock Exchange Chief Reassigned in Broad China Regulatory Shakeup",
-   "summary": "Shanghai Stock Exchange Chief Reassigned in Broad China Regulatory Shakeup &nbsp;&nbsp; Caixin Global",
+   "cat": "global",
+   "time": "2026-07-30 09:20",
+   "title": "ASX falls as oil surges on rising Middle East tensions; NAB warns on home loans - SMH.com.au",
+   "summary": "ASX falls as oil surges on rising Middle East tensions; NAB warns on home loans &nbsp;&nbsp; SMH.com.au",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUW45dnNSU2M0Zkhkc0RrQmpxbFBzUEdTN3lSTFVyb1ZHaXh5TjRsRjRxajgtSmw3czlZRzJMSlIwXzdvOERNWEhLY0RiWkxiNXdvTS1xSmpoc25kRGUwRmhDR2VmUTBNcDJDVUZQTUlPMW01SS1abjhMYWw0RWdrRlRMSHJSWUllRGhVN2xHbGR6ZUpHeC1WZzk2U002SjFZSk1mTi1mOFhGUzlwRjF3c09ZTndBcUtZLUJXLWplUnFnV0dpYVdEWkZWazJQT21teUpRN2NVNmtlLTBNdl9YdDF0a3ViWG90UGY2cjhPNDlEM0ta?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 41.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 18:32",
+   "title": "Oil Has Stopped Trading the War - It’s Trading the Barrels Now",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-has-stopped-trading-the-war--its-trading-the-barrels-now-200684877",
+     "t": "agg"
+    }
+   ],
+   "heat": 41.5
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 17:42",
+   "title": "Oil Futures Hold While Anticipating Next Escalatory Moves",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-futures-hold-while-anticipating-next-escalatory-moves-200684871",
+     "t": "agg"
+    }
+   ],
+   "heat": 41.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 14:44",
+   "title": "US Oil Inventories Sag as Hormuz Turmoil Rages On",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/us-oil-inventories-sag-as-hormuz-turmoil-rages-on-200684848",
+     "t": "agg"
+    }
+   ],
+   "heat": 40.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 13:37",
+   "title": "Oil falls on Hormuz talks",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/oil-prices-slip-as-tankers-continue-to-ply-middle-east-conflict-zones-4822181",
+     "t": "agg"
+    }
+   ],
+   "heat": 40.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 21:39",
+   "title": "Canadian Dollar: BoC minutes flags two-sided economic risks – TD Securities",
+   "summary": "TD Securities strategists note the Bank of Canada’s (BoC) July Summary of Deliberations was balanced, with the Bank seeing the economy adjusting to recent shocks and expecting grow…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/canadian-dollar-boc-minutes-flags-two-sided-economic-risks-td-securities-202607301339",
+     "t": "sec"
+    }
+   ],
+   "heat": 36.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 21:29",
+   "title": "Japanese Yen gains the upper hand after US GDP miss, BoJ eyed",
+   "summary": "USD/JPY trades around 162.90 at the time of writing on Thursday, down 0.31% on the day, as the US Dollar (USD) comes under pressure following the Federal Reserve (Fed) meeting on W…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/japanese-yen-gains-the-upper-hand-after-us-gdp-miss-boj-eyed-202607301329",
+     "t": "sec"
+    }
+   ],
+   "heat": 36.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 21:29",
+   "title": "US Dollar: Warsh rhetoric weakens policy credibility – BBH",
+   "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is struggling to recover after the Federal Reserve’s (Fed) hawkish hold, as Chair Kevin Warsh’s tough inflati…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/us-dollar-warsh-rhetoric-weakens-policy-credibility-bbh-202607301329",
+     "t": "sec"
+    }
+   ],
+   "heat": 36.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-28 04:55",
+   "title": "Stocks drift on Wall Street and crude oil prices drop as Mideast tensions cool - BNN Bloomberg",
+   "summary": "Stocks drift on Wall Street and crude oil prices drop as Mideast tensions cool &nbsp;&nbsp; BNN Bloomberg",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNblhlN0lfM29zMmQxWHVTUDNNZUhyN29hZWhEaGpyRXdNMzhvSmpPM1ZYUTBFQk8xSU1Cb1l0UzhPRVIwRFppbG1lcVp3MkpySWFUeGoyT0k1aXlfdmxEdUlsQ2pTVkQ4cklfZ2taa1VXMDlQUXR2SE1pamFLVV8xdTVza0gyQkNGY2JFUFpac1JXR1dia1RMRzhXcmlnM01saDdnclc4ZGhaVF9ZUEc2QXdMQWdhQWc0RHY4eHZRLWNVVTlKMW5jXzZWY3lFTjlkSmI5UHRXZDRqTEJ6?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 36.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-25 03:11",
+   "title": "S&P 500 Futures Edge Higher as Oil Pulls Back and Intel Jumps 4% - finance.biggo.com",
+   "summary": "S&P 500 Futures Edge Higher as Oil Pulls Back and Intel Jumps 4% &nbsp;&nbsp; finance.biggo.com",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCYjZPY21qQkVwNm5DaGpVYzg1NUJRX3ZMamhoN1dtcm9yM25idTJVQmlkaHdOMUNVdi1pZXhOQlVadHJXQ0tqX0RJODZFbDZJMXlyYjI4Y1lWRmJ6c3BrQWloNjMzY25kblhJZVlhYXcxU3ZWdFE?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 36.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-24 18:02",
+   "title": "Analysis: China’s Weakening Crude Demand Is Stabilizing Oil Markets",
+   "summary": "Analysis: China’s Weakening Crude Demand Is Stabilizing Oil Markets &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYWlPSmNuOXJVVUZXb3dIZ1lfVlYxS3dQUDZoNEhGSjN1ZW40M1B2RWVyVkcyMm1vNzZqN1ZCelpvX1JXbDVoQ2Fzb2lfNW16MnE2aVlWTlJZc3BYWUJ5Mk9ITFhGU2ZRRFFKZ09lZkFLbDZrLXlRR3NzWUZQckgwT0w5Skpmb3djSHd6ZS1vc0RYSTdIeTRuaVRCNXhRT1dBX09NakpUWjExcm1BWHNOU2V4OVhYdTY3cjVVYzljazdWOGpGV0U2Sg?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2hQV3EtamdTVnh6OHhLMWJTZC00XzdjR0pySFhOekdsMW5yVDFPcDhCQXlCRFBHdDFoM0hRdDQ1SEt1VkltVkZPUFJyeEVIY1EtaHFMZE84akRlSUJXR3BmTkFnemZHZVlQYTU2QlN0S2FlS1JvcXJ4NW9ndkRvdU10VWN5Q1ppZ1BXTk1MMDA3RDFBaGVmSXlacVhTSkFjZW50TDg2WWJrdUh1d3VHX05sdVkxeXJoS1lQOA?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 91.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 16:30",
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-   "summary": "Stock Market: Will S&P 500 Open Up or Down Today? &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYjRKVWlSTkg2WExLa2VpY1hOU1dKUzJOYXhlNWJuVXhXcjF0ckUxQl82WkNjdXhYNS1lV2lFX3E5S19fZFVEM1YydEVOWTJSall2b01mbTN5TnRsRjkwcWJTczNmSnI4ZmVYYTJ5TFlWT2lSYWFpcllzVmQ1b2ptd1VtaFktUEJDRFlGNlBsajlsajhiUWY1OEJsNmQ2bWttNTJlS1RVZnZYeV9tcVZFUmpnYjBGeUdIc3ZQTlZCVXQ4SnF1MGdiS3htYzBtSUN5NHV6d1dPOVN5Ry1CeVJJTHN6OG4?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.1
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 11:16",
-   "title": "How major US stock indexes fared Tuesday 7/28/2026 - The Washington Post",
-   "summary": "How major US stock indexes fared Tuesday 7/28/2026 &nbsp;&nbsp; The Washington Post",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTzVtY1JVOFpjdENZRHNUYmwwMHJydTkwaU5XN1pId1lTemRaNDAtbkkzNXc2bmlSTTZLMmpLWkQyRzJYZFhIczB4d1Y4NHZnTEJIMlNXSk5nYXNrN1c0TXVlY0k1c2ItbFdXcDdqOTBJbXU5Tng2dFBuUDZRMWszOHlVRE1Qem5BbUJNNUJtVnBKVDAtQzg3X0cydlFZZnNuTENFVlZsdXhqazRsMWRIYTgta1JzZUNkZHV3WHBkQkJIQ0NBRWdJ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 90.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 05:16",
-   "title": "Dow Surges 537 Points After Close as Gains Spread Across Sectors Beyond Tech - TechStock²",
-   "summary": "Dow Surges 537 Points After Close as Gains Spread Across Sectors Beyond Tech &nbsp;&nbsp; TechStock²",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWkZYbWw4ZGNlTTRTcFhRd2dCRXhnQjZwV3FEYlh6SnZEQXB5ZWhwTU1qbkRGUDJoQVVGeHcwcnMwS3Vmd0VWTXZOOTd4bTJaa2htd01zc3RCVnRMV0w5TkRfUkZSRVJMZmpCRWF1SmgwVWlzY3R6R0R0Q3B0MklQNXZnNnZzcXI5MXBxTXFwV2R5WGhXZWF3Q0dKem1mQQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 89.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-28 22:06",
-   "title": "US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India",
-   "summary": "US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop &nbsp;&nbsp; The Times of India",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNcGtldktQTk1HNnlEMkNJU0NzcGtWbnhzdmtQRXZTcFNsMUtucUJfdXItSGdTaTBPcDh1bzNwV0dQVW8wdDV4N2RkSDBlRjNCai0tMXpicnNVNjZheG9tdUJqOHBJSkVQX3dpdVE5TnZfNWIyaHBYcG5nT1pRRTE2MEtxdzZQTGpOV0xheDBKQUpsYnNNdTZTRWxFTzliendYSUtIeVRZX1FzM3YwMGMtWmhMa2twSlNDZjdQTENFU3ptTjZoSWhTSlk2eHNaQ2UwN3BOWkgydEhJb0RDT0pPbEk2blBaczVGb25RSkpJT1k2eG0tel94VFZEMGlNaTJVWXg3aWJCS0xRZERPSmd5M09XQmxJbzMtc0lKdk9hRmlRVVnSAagCQVVfeXFMTS1rdFpjUjRPQXI3QmxtRmhqN3ZobDFzVTlkZzlaU2pqUmcwamszQ3pVVDRXYW4zMm5qY3ZOSDBCQjZ4eFZFWEZpb0gzZ2p0LTJEakZENVU2c2hZYjFsdUJQVlNDcDkyRFNJc0NNT28wMW9hUkpsdHpTTndaX2JNX1ZuTjB0ampXX3dXMjdIT3k2emJMOWlBN2lPZl9jeW9wdU1VdzBjNlRtMVMtZkJWcExpd3lMcTBZc2lyUHVGTVdpNHB4c1VXSDFJUjZySXF2Um5nRmlTWUEwM1g1S0cza3BFOVZjMzZ4cmdRR2ZFZ3gzb09ld3pVdFhueUVqbGRKaDZlMWh0eFd6VjNFT3NOUV8xZmxYU2xjU3ZYejVHaTdqVnUyRklkZ1I?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 88.1
+   "heat": 36.0
   },
   {
    "cat": "global",
-   "time": "2026-07-30 18:56",
-   "title": "Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise",
-   "summary": "Bitcoin held near $64,000 despite the Fed's hawkish split, Iranian ballistic missiles and an 8% surge in oil overnight that sent the Dow down 2.2% and the Nasdaq to a three-month l…",
+   "time": "2026-07-30 21:18",
+   "title": "Federal Reserve: Fed holds rates and supports Dollar – HSBC",
+   "summary": "HSBC’s Jose Rasco and Michael Zervos note that the US Federal Reserve (Fed) kept rates unchanged for a fifth straight meeting, with a 9-3 split highlighting internal debate.",
    "srcs": [
     {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/07/30/crypto-s-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-could-still-rise",
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/federal-reserve-fed-holds-rates-and-supports-dollar-hsbc-202607301318",
      "t": "sec"
     }
    ],
-   "heat": 155.5
+   "heat": 35.9
   },
   {
    "cat": "global",
+   "time": "2026-07-30 20:43",
+   "title": "Australian Dollar: RBA sees inflation still above target – BNY",
+   "summary": "BNY’s Geoff Yu reports that Reserve Bank of Australia (RBA) Assistant Governor Sarah Hunter described Australia’s Consumer Price Index (CPI) as slightly softer than expected, mainl…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/australian-dollar-rba-sees-inflation-still-above-target-bny-202607301243",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 20:35",
+   "title": "New Zealand Dollar: Business survey supports RBNZ hikes – BBH",
+   "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the New Zealand Dollar (NZD) is stronger against major currencies, with local bonds underperforming as domestic data improve.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/new-zealand-dollar-business-survey-supports-rbnz-hikes-bbh-202607301235",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.8
+  },
+  {
+   "cat": "crypto",
    "time": "2026-07-30 20:20",
    "title": "Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound",
    "summary": "After a five-week pause on Bitcoin purchases, Strategy Inc. investors are left wondering what’s next for the largest buyer of the cryptocurrency following a tumultuous period.",
@@ -587,10 +825,24 @@
      "t": "sec"
     }
    ],
-   "heat": 123.8
+   "heat": 127.8
   },
   {
-   "cat": "global",
+   "cat": "crypto",
+   "time": "2026-07-30 18:56",
+   "title": "Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise",
+   "summary": "Bitcoin held near $64,000 despite the Fed's hawkish split, Iranian ballistic missiles and an 8% surge in oil overnight that sent the Dow down 2.2% and the Nasdaq to a three-month l…",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/07/30/crypto-s-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-could-still-rise",
+     "t": "sec"
+    }
+   ],
+   "heat": 127.5
+  },
+  {
+   "cat": "crypto",
    "time": "2026-07-30 11:19",
    "title": "Japanese game developer launches Bitcoin, altcoin fund with SBI",
    "summary": "The Bitcoin and altcoin fund builds on Gumi’s growing crypto business centered around XRP, with the company nearly doubling its crypto holdings over the past year.",
@@ -601,10 +853,10 @@
      "t": "sec"
     }
    ],
-   "heat": 122.3
+   "heat": 126.3
   },
   {
-   "cat": "global",
+   "cat": "crypto",
    "time": "2026-07-30 05:04",
    "title": "Republican Senator Cynthia Lummis Slams Democrat Lawmakers For Dragging Their Feet Over Clarity Act",
    "summary": "Bitcoin Magazine Republican Senator Cynthia Lummis Slams Democrat Lawmakers For Dragging Their Feet Over Clarity Act The pro-crypto senator is the latest to come out and try to get…",
@@ -615,10 +867,10 @@
      "t": "sec"
     }
    ],
-   "heat": 121.2
+   "heat": 125.2
   },
   {
-   "cat": "global",
+   "cat": "crypto",
    "time": "2026-07-30 03:34",
    "title": "Bitcoin Barely Budges as Fed Keeps Interest Rates Unchanged",
    "summary": "Bitcoin Magazine Bitcoin Barely Budges as Fed Keeps Interest Rates Unchanged The leading cryptocurrency didn't move much — and it wasn't clear what the Fed will do next. This post …",
@@ -629,10 +881,10 @@
      "t": "sec"
     }
    ],
-   "heat": 121.0
+   "heat": 125.0
   },
   {
-   "cat": "global",
+   "cat": "crypto",
    "time": "2026-07-29 23:41",
    "title": "Banking Lobby CEO Talks Crypto Clarity Act as Senators Race To Pass Bill",
    "summary": "Bitcoin Magazine Banking Lobby CEO Talks Crypto Clarity Act as Senators Race To Pass Bill The Clarity Act has stalled so far this year partly because of the banking lobby. This pos…",
@@ -643,10 +895,10 @@
      "t": "sec"
     }
    ],
-   "heat": 120.3
+   "heat": 124.3
   },
   {
-   "cat": "global",
+   "cat": "crypto",
    "time": "2026-07-29 22:12",
    "title": "Crypto Giant DCG Warns Senate: Pass Clarity Act or Lose Ground to Singapore, UAE",
    "summary": "Bitcoin Magazine Crypto Giant DCG Warns Senate: Pass Clarity Act or Lose Ground to Singapore, UAE The crypto conglomerate is the latest to show support for the bill in its current …",
@@ -657,10 +909,10 @@
      "t": "sec"
     }
    ],
-   "heat": 120.1
+   "heat": 124.1
   },
   {
-   "cat": "global",
+   "cat": "crypto",
    "time": "2026-07-29 05:53",
    "title": "SEC Chairman Says He’s ‘Committed’ to Helping Advance Crypto Clarity Act",
    "summary": "Bitcoin Magazine SEC Chairman Says He&#8217;s &#8216;Committed&#8217; to Helping Advance Crypto Clarity Act SEC Chairman Paul Atkins is the latest to throw support behind the crypt…",
@@ -671,10 +923,10 @@
      "t": "sec"
     }
    ],
-   "heat": 117.4
+   "heat": 121.4
   },
   {
-   "cat": "global",
+   "cat": "crypto",
    "time": "2026-07-29 04:08",
    "title": "Dubai-Based Emirates Airline Adds Bitcoin and Crypto Payments",
    "summary": "Bitcoin Magazine Dubai-Based Emirates Airline Adds Bitcoin and Crypto Payments The airline first teased Bitcoin payments back in 2022. This post Dubai-Based Emirates Airline Adds B…",
@@ -685,10 +937,10 @@
      "t": "sec"
     }
    ],
-   "heat": 117.1
+   "heat": 121.1
   },
   {
-   "cat": "global",
+   "cat": "crypto",
    "time": "2026-07-29 02:48",
    "title": "Bitcoin Dips As Crypto Clarity Act Hopes Fade",
    "summary": "Bitcoin Magazine Bitcoin Dips As Crypto Clarity Act Hopes Fade Some lawmakers are hoping the long-awaited Clarity Act gets a vote by next week. This post Bitcoin Dips As Crypto Cla…",
@@ -699,10 +951,10 @@
      "t": "sec"
     }
    ],
-   "heat": 116.9
+   "heat": 120.8
   },
   {
-   "cat": "global",
+   "cat": "crypto",
    "time": "2026-07-30 17:00",
    "title": "Bitcoin and ether markets are ruled by perps. SpaceX showed how far their influence can go",
    "summary": "Perpetual futures drive much of the price discovery for bitcoin and ether. When traders pointed the same machinery at a private company, they priced the biggest IPO in history more…",
@@ -713,10 +965,10 @@
      "t": "sec"
     }
    ],
-   "heat": 107.2
+   "heat": 103.2
   },
   {
-   "cat": "global",
+   "cat": "crypto",
    "time": "2026-07-30 15:05",
    "title": "Bitcoin ETF inflows return as Ether funds slip into outflows",
    "summary": "US spot Bitcoin ETFs recorded $32.1 million in inflows on Wednesday despite Bitcoin dipping below $64,000, ending a four-session outflow streak.",
@@ -727,10 +979,10 @@
      "t": "sec"
     }
    ],
-   "heat": 106.9
+   "heat": 102.9
   },
   {
-   "cat": "global",
+   "cat": "crypto",
    "time": "2026-07-30 14:59",
    "title": "Bitcoin, ether whipsaw wipes out $286 million in leveraged bets",
    "summary": "Price volatility around the Federal Reserve's rate decision cleared positions for roughly 90,000 traders, with unusually equal losses for bulls and bears.",
@@ -741,10 +993,10 @@
      "t": "sec"
     }
    ],
-   "heat": 106.9
+   "heat": 102.9
   },
   {
-   "cat": "global",
+   "cat": "crypto",
    "time": "2026-07-30 14:28",
    "title": "Bitcoin analysts agree the Fed's hold was hawkish. They are split on what happens next.",
    "summary": "Four analysts agree the Fed's hawkish hold changes the calculus for risk assets, but they split on whether bitcoin's real test is already here or still six weeks away.",
@@ -755,10 +1007,10 @@
      "t": "sec"
     }
    ],
-   "heat": 106.8
+   "heat": 102.8
   },
   {
-   "cat": "global",
+   "cat": "crypto",
    "time": "2026-07-30 13:19",
    "title": "Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge",
    "summary": "Crypto's majors barely moved as Asia's semiconductor selloff eased. Most are still lower over the week, with HYPE down 8%.",
@@ -770,6 +1022,34 @@
     }
    ],
    "heat": 102.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-29 19:57",
+   "title": "19:57:57【联电业绩亮眼且上调资本开支 AI订单从GPU外溢至成熟制程】",
+   "summary": "19:57:57【联电业绩亮眼且上调资本开支 AI订单从GPU外溢至成熟制程】 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PRk14SWU0WXdMTEdFTW5zclg2Tm1wMzZULUFPb1BaRFI3MlRwbkdwOWp5SC1sTnA5bWtTbFA0eWRYbGs2Z1FZeg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-30 17:15",
+   "title": "Tech Brief (Jul. 30): U.S. Takes Aim at Chinese Robot-Makers With Sweeping Import Ban",
+   "summary": "Tech Brief (Jul. 30): U.S. Takes Aim at Chinese Robot-Makers With Sweeping Import Ban &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeTUzRURROW1RWmNETUlpYjlBOFlkajRLb09TMk5GTHphNjJxRjRkRzFXb3V2eThQZ28zV2JQSURXNWJ4VGdlOXJPVDFqbFdwdmhvVjBjYlhJcmNzMUxsN1pZLTg3U0dIM3ZxM1h3Ml9YbGJFdGFaaFR4VnByaFVXRHljRjdYS3BZNlFVNmVrUU83Y05Nc3Ffb29iekV5b2l4ZEEwSWxyOGYteURmdGZkVm9RekNiRHhEWGFzMFdLTG1LUkRwR3dyYmdYOWFMNG8?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.3
   }
  ]
 }
