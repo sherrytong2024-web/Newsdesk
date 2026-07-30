@@ -1,41 +1,28 @@
 {
- "updated": "2026-07-30 20:32",
+ "updated": "2026-07-30 20:44",
  "items": [
   {
-   "cat": "stock",
-   "time": "2026-07-30 12:24",
-   "title": "Needham raises Tenable stock price target on revenue beat",
+   "cat": "macro",
+   "time": "2026-07-30 12:35",
+   "title": "Go Fashion Q1 FY27 slides: flat growth masks strategic shift",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/needham-raises-tenable-stock-price-target-on-revenue-beat-93CH-4824102",
+     "u": "https://www.investing.com/news/company-news/go-fashion-q1-fy27-slides-flat-growth-masks-strategic-shift-93CH-4824182",
      "t": "agg"
     }
    ]
   },
   {
-   "cat": "stock",
-   "time": "2026-07-30 12:24",
-   "title": "Needham cuts Robinhood stock price target to $120 on fine-tuned estimates",
+   "cat": "sector",
+   "time": "2026-07-30 12:36",
+   "title": "U.S. Initial Jobless Claims Rise, But Remain Below Forecast",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/needham-cuts-robinhood-stock-price-target-to-120-on-finetuned-estimates-93CH-4824103",
-     "t": "agg"
-    }
-   ]
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-30 12:24",
-   "title": "Guggenheim cuts Meta stock price target to $700 on capex concerns",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/guggenheim-cuts-meta-stock-price-target-to-700-on-capex-concerns-93CH-4824104",
+     "u": "https://www.investing.com/news/economic-indicators/us-initial-jobless-claims-rise-but-remain-below-forecast-93CH-4824198",
      "t": "agg"
     }
    ]
@@ -67,6 +54,19 @@
    ]
   },
   {
+   "cat": "stock",
+   "time": "2026-07-30 12:24",
+   "title": "高通9月1日起上调芯片价格 涨幅达到两位数",
+   "summary": "高通9月1日起上调芯片价格 涨幅达到两位数 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBxbjBSTEtIcWdZREk0NzhlTDdOZjVLbnFNb2M3OU5mcnRxWXdPcGJSUHhOM2poUnBXSVJ0ZDhXX0ZVWXEwd1E?oc=5",
+     "t": "sec"
+    }
+   ]
+  },
+  {
    "cat": "global",
    "time": "2026-07-30 06:43",
    "title": "Oil Shock Is Adding Stress to the Global Economy - Energy News, Top Headlines, Commentaries, Features & Events - EnergyN",
@@ -75,6 +75,58 @@
     {
      "n": "S&P Global(Google聚合)",
      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0dHbXRoRmUxQ0d2U19SODVtLURyQU5tMWhQSjh6cl9SaDRybGVJQ0Y1aXNuUkl3WlpPb2FLY1JGYlFIZS1xNmFCbEk4QUFyZXFYdll2akFOdU9pcEtoLWgza1E4TmdXZlBXNnYtNklYNGlEaDF3bHY5TXZOSVp1UkdoY1RxZw?oc=5",
+     "t": "sec"
+    }
+   ]
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-30 20:40",
+   "title": "Egypt says drone hit two ships at Mediterranean port as attacks on energy infrastructure widen",
+   "summary": "The unclaimed attack comes as Iran, its Houthi alllies in Yemen and Iraqi militias have widened strikes on energy infrastructure across the region.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/egypt-drone-gas-ship-damietta-port-iran-war.html",
+     "t": "sec"
+    }
+   ]
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 20:40",
+   "title": "Stock futures rebound from Fed day sell-off, led by Microsoft and chip stocks: Live updates",
+   "summary": "Investors were digesting megacap tech earnings and the Federal Reserve's decision to hold rates steady.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html",
+     "t": "sec"
+    }
+   ]
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 20:38",
+   "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+     "t": "sec"
+    }
+   ]
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-30 20:32",
+   "title": "Here are Thursday's biggest analyst calls: Nvidia, Jersey Mike's, AMD, Meta, Microsoft, Arm, Target, Starbucks & more",
+   "summary": "Here are the biggest calls on Wall Street on Thursday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/biggest-analyst-calls-thursday-include-nvidia.html",
      "t": "sec"
     }
    ]
@@ -106,40 +158,27 @@
    ]
   },
   {
-   "cat": "stock",
-   "time": "2026-07-30 20:19",
-   "title": "The ceiling for shares of Meta is lower after its earnings report, analysts say",
-   "summary": "Wall Street analysts broadly lowered price targets on the stock, while keeping ratings unchanged.",
+   "cat": "sector",
+   "time": "2026-07-30 20:09",
+   "title": "Oil Analyst Sankey Warns of Rising Risks in Refining",
+   "summary": "Paul Sankey, president of Sankey Research, explains the level of tightness in the crude oil refining system, the “massive” margins between the price of barrels of oil and refined p…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/the-ceiling-for-shares-of-meta-is-lower-after-its-earnings-report-analysts-say.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-30/oil-analyst-sankey-warns-of-rising-risks-in-refining-video",
      "t": "sec"
     }
    ]
   },
   {
    "cat": "sector",
-   "time": "2026-07-30 20:16",
-   "title": "Egypt says drone hit two ships at Mediterranean port as attacks on energy infrastructure widen",
-   "summary": "The unclaimed attack comes as Iran, its Houthi alllies in Yemen and Iraqi militias have widen strikes on energy infrastructure across the region.",
+   "time": "2026-07-30 20:05",
+   "title": "Meta Reports $279 Billion in Future Data Center Leases for AI",
+   "summary": "Meta Platforms Inc. said it has $279 billion in future lease agreements mostly related to artificial intelligence data centers that are not yet reflected on its balance sheet.",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/egypt-drone-gas-ship-damietta-port-iran-war.html",
-     "t": "sec"
-    }
-   ]
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 20:07",
-   "title": "Stock futures rebound from Fed day sell-off, led by Microsoft and chip stocks: Live updates",
-   "summary": "Investors were digesting megacap tech earnings and the Federal Reserve's decision to hold rates steady.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/meta-reports-279-billion-in-future-data-center-leases-for-ai",
      "t": "sec"
     }
    ]
@@ -223,19 +262,6 @@
    ]
   },
   {
-   "cat": "sector",
-   "time": "2026-07-30 19:02",
-   "title": "Meta CEO Mark Zuckerberg Fails to Fill In The Details on an AI Cloud Business",
-   "summary": "Investors and analysts are still waiting for the Meta CEO to give details of a new AI business",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-07-30/meta-ceo-mark-zuckerberg-fails-to-fill-in-the-details-on-an-ai-cloud-business",
-     "t": "sec"
-    }
-   ]
-  },
-  {
    "cat": "macro",
    "time": "2026-07-30 18:42",
    "title": "Conflict Widens Across Middle East, Bond Yields Higher, More",
@@ -314,19 +340,6 @@
    ]
   },
   {
-   "cat": "sector",
-   "time": "2026-07-30 17:53",
-   "title": "South Africa Appoints New Chairman at $220 Billion Fund Manager",
-   "summary": "South Africa’s government appointed a new chairman at the state-owned fund manager that oversees $220 billion, seeking to restore confidence in an institution buffeted by years of …",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/south-africa-appoints-new-chairman-at-220-billion-fund-manager",
-     "t": "sec"
-    }
-   ]
-  },
-  {
    "cat": "global",
    "time": "2026-07-30 17:42",
    "title": "Oil Futures Hold While Anticipating Next Escalatory Moves",
@@ -342,25 +355,12 @@
   {
    "cat": "sector",
    "time": "2026-07-30 17:40",
-   "title": "Fiber Challenger CityFibre Set to Raise £900 Million",
+   "title": "CityFibre Said to Raise £900 Million to Challenge Openreach",
    "summary": "CityFibre Ltd., the UK’s largest independent fiber challenger to incumbent BT Group Plc’s Openreach, is set to raise £900 million ($1.2 billion) from its shareholders, according to…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
      "u": "https://www.bloomberg.com/news/articles/2026-07-30/cityfibre-said-to-raise-900-million-to-challenge-bt-s-openreach",
-     "t": "sec"
-    }
-   ]
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 17:22",
-   "title": "Investors Look to Dodge Rate Risks With Short-Dated Credit",
-   "summary": "Investors are embracing shorter-term corporate debt, locking in elevated yields while limiting their exposure to interest-rate volatility and market swings.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/credit-buyers-seek-refuge-in-short-dated-debt-to-dodge-rate-risk",
      "t": "sec"
     }
    ]
@@ -510,14 +510,14 @@
   },
   {
    "cat": "stock",
-   "time": "2026-07-30 12:24",
-   "title": "高通9月1日起上调芯片价格 涨幅达到两位数",
-   "summary": "高通9月1日起上调芯片价格 涨幅达到两位数 &nbsp;&nbsp; 财联社",
+   "time": "2026-07-30 12:36",
+   "title": "TSX futures point higher amid earnings deluge, Mideast tensions",
+   "summary": "",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBxbjBSTEtIcWdZREk0NzhlTDdOZjVLbnFNb2M3OU5mcnRxWXdPcGJSUHhOM2poUnBXSVJ0ZDhXX0ZVWXEwd1E?oc=5",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/tsx-futures-point-higher-amid-earnings-deluge-mideast-tensions-4824199",
+     "t": "agg"
     }
    ]
   }
