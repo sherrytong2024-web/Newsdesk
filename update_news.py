@@ -48,16 +48,16 @@ CTX.verify_mode = ssl.CERT_NONE
 # 外国：彭博三频道(主) + S&P(Google聚合,主) + CNBC/Investing(次)
 # 国内：财联社电报(Google聚合,主) + 财新(Google聚合,次)
 SOURCES = [
-    {"name": "Bloomberg Markets", "url": "https://feeds.bloomberg.com/markets/news.rss", "t": "sec", "per": 8},
-    {"name": "Bloomberg Business", "url": "https://feeds.bloomberg.com/business/news.rss", "t": "sec", "per": 8},
-    {"name": "Bloomberg Tech", "url": "https://feeds.bloomberg.com/technology/news.rss", "t": "sec", "per": 7},
-    {"name": "S&P Global(Google聚合)", "url": "https://news.google.com/rss/search?q=when:7d%20S%26P%20500%20market%20OR%20S%26P%20Global%20economy&hl=en-US&gl=US&ceid=US:en", "t": "sec", "per": 16},
-    {"name": "财联社电报(Google聚合)", "url": "https://news.google.com/rss/search?q=when:7d%20site:cls.cn&hl=zh-CN&gl=CN&ceid=CN:zh", "t": "sec", "per": 24},
-    {"name": "财新(Google聚合)", "url": "https://news.google.com/rss/search?q=when:7d%20site:caixinglobal.com&hl=en-US&gl=US&ceid=US:en", "t": "sec", "per": 12},
-    {"name": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "t": "sec", "per": 12},
-    {"name": "Investing.com(综合)", "url": "https://www.investing.com/rss/news.rss", "t": "agg", "per": 14},
-    {"name": "Investing.com(商品)", "url": "https://www.investing.com/rss/commodities.rss", "t": "agg", "per": 14},
-    {"name": "Investing.com(外汇)", "url": "https://www.investing.com/rss/forex.rss", "t": "agg", "per": 14},
+    {"name": "Bloomberg Markets", "url": "https://feeds.bloomberg.com/markets/news.rss", "t": "sec", "per": 15},
+    {"name": "Bloomberg Business", "url": "https://feeds.bloomberg.com/business/news.rss", "t": "sec", "per": 15},
+    {"name": "Bloomberg Tech", "url": "https://feeds.bloomberg.com/technology/news.rss", "t": "sec", "per": 12},
+    {"name": "S&P Global(Google聚合)", "url": "https://news.google.com/rss/search?q=when:7d%20S%26P%20500%20market%20OR%20S%26P%20Global%20economy&hl=en-US&gl=US&ceid=US:en", "t": "sec", "per": 40},
+    {"name": "财联社电报(Google聚合)", "url": "https://news.google.com/rss/search?q=when:7d%20site:cls.cn&hl=zh-CN&gl=CN&ceid=CN:zh", "t": "sec", "per": 50},
+    {"name": "财新(Google聚合)", "url": "https://news.google.com/rss/search?q=when:7d%20site:caixinglobal.com&hl=en-US&gl=US&ceid=US:en", "t": "sec", "per": 30},
+    {"name": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "t": "sec", "per": 25},
+    {"name": "Investing.com(综合)", "url": "https://www.investing.com/rss/news.rss", "t": "agg", "per": 30},
+    {"name": "Investing.com(商品)", "url": "https://www.investing.com/rss/commodities.rss", "t": "agg", "per": 30},
+    {"name": "Investing.com(外汇)", "url": "https://www.investing.com/rss/forex.rss", "t": "agg", "per": 30},
 ]
 
 # 每类目标条数（4类 × 15 = 60）
@@ -297,7 +297,7 @@ def main():
     all_items = []
     seen = set()
     src_counts = {}
-    MAX_PER = 24
+    MAX_PER = 50
     for src in SOURCES:
         for it in fetch_feed(src):
             key = it["title"].strip().lower()
@@ -316,13 +316,13 @@ def main():
     # 2) 计算热值
     compute_heat(all_items)
 
-    # 3) 每类取热值最高的 15 条（用户要求每类15条，共60）
+    # 3) 每类强制取「热度最高且最新」的 15 条：热度含时效分(高热即最新高热)，同热度按时间倒序兜底；不足15条受内容可得性限制
     cats = {c: [] for c in ("macro", "sector", "stock", "global")}
     for it in all_items:
         cats[it["cat"]].append(it)
     final = []
     for c in ("macro", "sector", "stock", "global"):
-        lst = sorted(cats[c], key=lambda x: x["heat"], reverse=True)
+        lst = sorted(cats[c], key=lambda x: (x["heat"], x["time"]), reverse=True)
         final.extend(lst[:CATS_PER])
 
     # 4) 多样性保底：确保每个可信源至少出现
