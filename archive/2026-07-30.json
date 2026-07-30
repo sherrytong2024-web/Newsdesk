@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30 21:31",
+ "updated": "2026-07-30 21:33",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 123.5
+   "heat": 119.5
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 115.9
+   "heat": 111.9
   },
   {
    "cat": "macro",
@@ -41,11 +41,11 @@
      "t": "sec"
     }
    ],
-   "heat": 101.5
+   "heat": 97.5
   },
   {
    "cat": "macro",
-   "time": "2026-07-30 21:31",
+   "time": "2026-07-30 21:32",
    "title": "Stocks rebound from Fed day sell-off, led by Microsoft and chipmakers: Live updates",
    "summary": "Investors were digesting megacap tech earnings and the Federal Reserve's decision to hold rates steady.",
    "srcs": [
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 100.0
+   "heat": 96.0
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 97.6
+   "heat": 93.6
   },
   {
    "cat": "macro",
@@ -83,7 +83,7 @@
      "t": "agg"
     }
    ],
-   "heat": 96.8
+   "heat": 92.8
   },
   {
    "cat": "macro",
@@ -97,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.0
+   "heat": 92.0
   },
   {
    "cat": "macro",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.3
+   "heat": 91.3
   },
   {
    "cat": "macro",
@@ -125,21 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 17:22",
-   "title": "Investors Look to Dodge Rate Risks With Short-Dated Credit",
-   "summary": "Investors are embracing shorter-term corporate debt, locking in elevated yields while limiting their exposure to interest-rate volatility and market swings.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/credit-buyers-seek-refuge-in-short-dated-debt-to-dodge-rate-risk",
-     "t": "sec"
-    }
-   ],
-   "heat": 83.3
+   "heat": 88.0
   },
   {
    "cat": "macro",
@@ -210,6 +196,20 @@
     }
    ],
    "heat": 74.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 20:41",
+   "title": "Fed Holds, but US Dollar May Have Heard Something Else",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/fed-holds-but-us-dollar-may-have-heard-something-else-200684889",
+     "t": "agg"
+    }
+   ],
+   "heat": 73.9
   },
   {
    "cat": "sector",
@@ -769,7 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 12.9
+   "heat": 12.8
   },
   {
    "cat": "global",
@@ -812,34 +812,6 @@
     }
    ],
    "heat": 8.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-30 13:24",
-   "title": "L.B. Foster promotes Bowlin to lead rail division",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/company-news/lb-foster-promotes-bowlin-to-lead-rail-division-93CH-4824694",
-     "t": "agg"
-    }
-   ],
-   "heat": 252.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-30 13:24",
-   "title": "BP to cut 700 jobs as it simplifies company, internal email shows",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/bp-to-cut-700-jobs-as-it-simplifies-company-internal-email-shows-4824693",
-     "t": "agg"
-    }
-   ],
-   "heat": 252.6
   }
  ]
 }

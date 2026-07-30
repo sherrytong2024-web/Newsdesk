@@ -342,6 +342,13 @@ def main():
                 if sum(1 for x in final if x["srcs"][0]["n"] == src) >= mn:
                     break
 
+    # 4b) 强制每类恰好 15 条：超出则剔除该类中热值最低者（受内容可得性限制，不足15则保留实际条数）
+    for c in ("macro", "sector", "stock", "global"):
+        clst = [it for it in final if it["cat"] == c]
+        if len(clst) > CATS_PER:
+            for it in sorted(clst, key=lambda x: (x["heat"], x["time"]))[: len(clst) - CATS_PER]:
+                final.remove(it)
+
     # 清理内部字段
     for it in final:
         it.pop("_sig", None)
