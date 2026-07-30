@@ -47,9 +47,11 @@ export default {
       return json({ ok: false, error: 'worker not configured (missing secrets)' }, 500);
     }
 
-    // 5) 触发 GitHub repository_dispatch（= 跑 refresh.yml 工作流）
+    // 5) 触发 GitHub workflow_dispatch（= 跑 refresh.yml 工作流）
+    //    注意：Fine-grained PAT 不支持 repository_dispatch，改用 workflow_dispatch
+    const WORKFLOW_ID = env.WORKFLOW_ID || '323723786';
     try {
-      const gh = await fetch(`https://api.github.com/repos/${owner}/${repo}/dispatches`, {
+      const gh = await fetch(`https://api.github.com/repos/${owner}/${repo}/actions/workflows/${WORKFLOW_ID}/dispatches`, {
         method: 'POST',
         headers: {
           'Authorization': `Bearer ${pat}`,
@@ -58,7 +60,7 @@ export default {
           'X-GitHub-Api-Version': '2022-11-28',
           'User-Agent': 'newsdesk-worker',
         },
-        body: JSON.stringify({ event_type: 'refresh-news' }),
+        body: JSON.stringify({ ref: 'main' }),
       });
 
       if (gh.status === 204) {
