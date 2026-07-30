@@ -1,6 +1,8 @@
 name: Refresh News
 
 on:
+  schedule:
+    - cron: "0 */3 * * *"   # 每 3 小时由 GitHub 服务器自动跑（UTC，即 GMT+8 的 08/11/14/17/20/23/02/05 点）
   workflow_dispatch:
   repository_dispatch:
     types: [refresh-news]
@@ -26,7 +28,7 @@ jobs:
         run: |
           git config user.email "newsbot@users.noreply.github.com"
           git config user.name "newsbot"
-          git add outputs/news.json outputs/financial-news-desk.html
+          git add outputs/news.json outputs/hot.json outputs/financial-news-desk.html outputs/archive
           git diff --cached --quiet || git commit -m "auto: refresh news $(date +'%Y-%m-%d %H:%M %Z')"
           git pull --rebase --autostash origin main || true
           git push
