@@ -7,13 +7,16 @@ on:
   repository_dispatch:
     types: [refresh-news]
 
+permissions:
+  contents: write
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 outputs/update_news.py
-        shell: bash
+      - name: Run script
+        run: python3 outputs/update_news.py
         env:
           NEWSDESK_NO_PUSH: "1"
       - name: Commit and push
