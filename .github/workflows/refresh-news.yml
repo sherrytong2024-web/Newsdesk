@@ -4,14 +4,26 @@ on:
   schedule:
     - cron: "0 */3 * * *"
   workflow_dispatch:
+  repository_dispatch:
+    types: [refresh-news]
+
+permissions:
+  contents: write
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: echo "hello from refresh-news"
-      - run: python3 --version
-      - run: python3 outputs/update_news.py
+      - name: Run script
+        run: python3 -u -c "exec(open('outputs/update_news.py').read())"
         env:
           NEWSDESK_NO_PUSH: "1"
+      - name: Commit and push
+        run: |
+          git config user.email "newsbot@users.noreply.github.com"
+          git config user.name "newsbot"
+          git add outputs/news.json outputs/hot.json outputs/financial-news-desk.html outputs/archive
+          git diff --cached --quiet || git commit -m "auto: refresh news $(date +'%Y-%m-%d %H:%M %Z')"
+          git pull --rebase --autostash origin main || true
+          git push
