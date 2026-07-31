@@ -2,7 +2,7 @@ name: Refresh News
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   # 每 3 小时由 GitHub 服务器自动跑（UTC，即 GMT+8 的 08/11/14/17/20/23/02/05 点）
+    - cron: "0 */3 * * *"
   workflow_dispatch:
   repository_dispatch:
     types: [refresh-news]
@@ -17,24 +17,37 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Run update_news.py (skips local git push; CI handles commit)
+
+      - name: Debug info
         run: |
-          echo "=== Python 版本 ==="
+          echo "=== Python ==="
+          which python3
           python3 --version
-          echo "=== 工作目录 ==="
+          echo "=== CWD ==="
           pwd
-          echo "=== outputs 目录内容 ==="
-          ls outputs/
-          echo "=== HTML 标记检查 ==="
-          grep -n "let NEWS" outputs/financial-news-desk.html || echo "标记缺失!"
-          echo "=== 开始运行脚本 ==="
-          python3 -u outputs/update_news.py 2>&1 | tee /tmp/newsdesk_output.txt
-          echo "=== 脚本退出码: $? ==="
+          echo "=== outputs/ ==="
+          ls -la outputs/ 2>&1 || echo "outputs/ missing!"
+          echo "=== HTML exists? ==="
+          test -f outputs/financial-news-desk.html && echo "YES" || echo "NO"
+          echo "=== Script exists? ==="
+          test -f outputs/update_news.py && echo "YES" || echo "NO"
+          echo "=== HTML marker ==="
+          grep -n "let NEWS" outputs/financial-news-desk.html 2>&1 || echo "NOT FOUND"
+
+      - name: Run update_news.py
+        run: |
+          set +e
+          python3 -u outputs/update_news.py 2>&1
+          EXIT_CODE=$?
+          echo "=== SCRIPT EXIT CODE: $EXIT_CODE ==="
+          exit $EXIT_CODE
         env:
           NEWSDESK_NO_PUSH: "1"
+
       - name: Commit and push
         run: |
           git config user.email "newsbot@users.noreply.github.com"

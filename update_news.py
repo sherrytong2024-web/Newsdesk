@@ -423,4 +423,13 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    import traceback
+    try:
+        main()
+    except SystemExit as e:
+        print(f"[DEBUG] SystemExit: code={e.code}", file=sys.stderr)
+        raise
+    except Exception as e:
+        print(f"[DEBUG] 未捕获异常: {e}", file=sys.stderr)
+        traceback.print_exc(file=sys.stderr)
+        sys.exit(1)
