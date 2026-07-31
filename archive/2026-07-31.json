@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31 10:44",
+ "updated": "2026-07-31 11:22",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.7
+   "heat": 46.6
   },
   {
    "cat": "macro",
@@ -27,21 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 61.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-31 10:31",
-   "title": "Rising US Yields May Complicate RBI’s Strategy on Rates and the Rupee",
-   "summary": "If US yields keep rising, the RBI could face growing pressure to keep policy tighter.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-07-31/rising-us-yields-may-complicate-rbi-s-strategy-on-rates-and-the-rupee",
-     "t": "sec"
-    }
-   ],
-   "heat": 60.0
+   "heat": 45.0
   },
   {
    "cat": "macro",
@@ -55,13 +41,13 @@
      "t": "sec"
     }
    ],
-   "heat": 57.1
+   "heat": 41.0
   },
   {
    "cat": "macro",
    "time": "2026-07-28 07:54",
-   "title": "S&P 500 Sees Modest Gain Despite Oil’s 7.5% Drop Amid Ongoing Fed Rate Concerns - TechStock²",
-   "summary": "S&P 500 Sees Modest Gain Despite Oil’s 7.5% Drop Amid Ongoing Fed Rate Concerns &nbsp;&nbsp; TechStock²",
+   "title": "S&P 500 Sees Modest Gain Despite Oil’s 7.5% Drop Amid Ongoing Fed Rate Concerns - ts2.tech",
+   "summary": "S&P 500 Sees Modest Gain Despite Oil’s 7.5% Drop Amid Ongoing Fed Rate Concerns &nbsp;&nbsp; ts2.tech",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -69,49 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-31 10:15",
-   "title": "JPY/USD: BOJ Rate Decision Awaited After Yen Intervention",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/live-blog/2026-07-31/bank-of-japan-monetary-policy-decision",
-     "t": "sec"
-    }
-   ],
-   "heat": 55.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-31 07:30",
-   "title": "Korea Plans $14 Billion for Wealth Fund’s AI Bets After Rout",
-   "summary": "South Korea plans to inject 20 trillion won ($13.9 billion) into its sovereign wealth fund for strategic investments in AI, data centers and infrastructure, expanding its mandate t…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/korea-plans-14-billion-for-wealth-fund-s-ai-bets-after-rout",
-     "t": "sec"
-    }
-   ],
-   "heat": 55.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-31 06:52",
-   "title": "Japan Preempts Market With Yen Intervention Before BOJ Decision",
-   "summary": "Japan waded back into the currency market just before its central bank decides on interest rates in an intervention that showed signs of support from the US.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/yen-surges-after-japan-intervened-in-market-again-ahead-of-boj",
-     "t": "sec"
-    }
-   ],
-   "heat": 55.4
+   "heat": 40.0
   },
   {
    "cat": "macro",
@@ -125,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.2
+   "heat": 39.1
   },
   {
    "cat": "macro",
@@ -139,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.2
+   "heat": 38.1
   },
   {
    "cat": "macro",
@@ -153,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.0
+   "heat": 32.0
   },
   {
    "cat": "macro",
@@ -167,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.0
+   "heat": 32.0
   },
   {
    "cat": "macro",
@@ -181,7 +125,7 @@
      "t": "agg"
     }
    ],
-   "heat": 27.7
+   "heat": 27.6
   },
   {
    "cat": "macro",
@@ -195,7 +139,35 @@
      "t": "agg"
     }
    ],
-   "heat": 27.4
+   "heat": 27.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-31 07:55",
+   "title": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market (copy) - Santa Maria ",
+   "summary": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market (copy) &nbsp;&nbsp; Santa Maria Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMDFxWnRxb0JzX2lHb3I1ejRSWFlHRlotWHZYZ01jVjdWUFRmVjNMbnZHSTl3YzlCVEoyeTZ2d0xCNXF2ZjlGaHQwbnNhQ0dWMkhZeEFIZXBTSkV1VTVRVTV5bVo3N0dyeVhNUDk5X1ZWTi0tVm81anJRUmxRa0J6dDQ5a1c3QUgyTDJ4UmMyVGtmRlpYS0NHRVFsRXVSTkQ5ZTZGdzFRWXVhZVl4THdHbVFBajRJd3RQNzI3MV81ajJIckF6MkJGSVdub1NMTHI5Q2xuSndjNGdzV0dPWXFRbFlaMk5Tbkw5Qkw0N3FHWlRIZUZBS2hNMVU0RVBGTnFIVzhpZE1EQUhwbTA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 15.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-31 00:43",
+   "title": "Yen Spikes on Intervention Rumours After Weak US GDP",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/yen-spikes-on-intervention-rumours-after-weak-us-gdp-200684912",
+     "t": "agg"
+    }
+   ],
+   "heat": 12.2
   },
   {
    "cat": "macro",
@@ -209,91 +181,49 @@
      "t": "agg"
     }
    ],
-   "heat": 15.9
+   "heat": 11.8
   },
   {
-   "cat": "sector",
-   "time": "2026-07-31 09:53",
-   "title": "Apple Weak Forecast, Anthropic AI Models Hacked Systems, More",
-   "summary": "Source: Bloomberg, 0:00",
+   "cat": "macro",
+   "time": "2026-07-30 18:38",
+   "title": "Gold Holds Near Key Support as Markets Shift From the FOMC to GDP and Core PCE",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-07-31/apple-weak-forecast-anthropic-ai-models-hacked-systems-more",
-     "t": "sec"
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-holds-near-key-support-as-markets-shift-from-the-fomc-to-gdp-and-core-pce-200684872",
+     "t": "agg"
     }
    ],
-   "heat": 211.9
+   "heat": 11.2
   },
   {
-   "cat": "sector",
-   "time": "2026-07-31 08:23",
-   "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
-   "summary": "Ahead of the launch of Siri AI, Apple's outgoing CEO Tim Cook said the company will charge for artificial intelligence through iCloud.",
+   "cat": "macro",
+   "time": "2026-07-30 18:45",
+   "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
+   "summary": "President Donald Trump has promised a \"golden age\" for agriculture, but farmers in Iowa and elsewhere are struggling with tariffs and the Iran war.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
+     "u": "https://www.cnbc.com/2026/07/30/trump-iowa-farmers-agriculture.html",
      "t": "sec"
     }
    ],
-   "heat": 211.6
+   "heat": 9.2
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 08:17",
-   "title": "Apple Mixed Earnings, Anthropic: AI Models Hacked Systems, More",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-07-31 11:04",
+   "title": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-07-31/apple-mixed-earnings-anthropic-ai-models-hacked-systems-more",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html",
      "t": "sec"
     }
    ],
-   "heat": 211.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-30 17:14",
-   "title": "Danantara Dollar Debt Plan Grapples With Global Volatility",
-   "summary": "Indonesian sovereign wealth fund Danantara’s planned dollar notes are unlikely to price quickly as a global bond rout clouds debt issuance, people familiar with the matter said.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/danantara-dollar-debt-plan-grapples-with-global-bond-volatility",
-     "t": "sec"
-    }
-   ],
-   "heat": 209.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 10:29",
-   "title": "What We Know So Far About Hacking by Anthropic AI Models",
-   "summary": "Here's what we know so far about Anthropic's AI models breaching three organizations during cybersecurity tests which went awry. (Source: Bloomberg)",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-31/what-we-know-so-far-about-hacking-by-anthropic-ai-models-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 208.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 09:30",
-   "title": "India Billionaire Family Offices Offer Profit-Sharing to Attract Top Talent",
-   "summary": "A race for top investment talent is pushing India’s billionaire-owned family offices to increasingly offer profit-sharing arrangements, highlighting the fierce competition for mone…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-31/india-billionaire-family-offices-offer-profit-sharing-to-attract-top-talent",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.8
+   "heat": 159.9
   },
   {
    "cat": "sector",
@@ -307,77 +237,21 @@
      "t": "sec"
     }
    ],
-   "heat": 207.7
+   "heat": 159.6
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 09:00",
-   "title": "Top India Fund Manager Favors Banks, Power as Oil Risks Loom",
-   "summary": "India’s second-largest money manager is bullish on banks, oil refiners, power utilities and drugmakers, betting they are best placed to benefit from demand tailwinds despite a vola…",
+   "time": "2026-07-31 08:23",
+   "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
+   "summary": "Ahead of the launch of Siri AI, Apple's outgoing CEO Tim Cook said the company will charge for artificial intelligence through iCloud.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-31/top-india-fund-manager-favors-banks-power-as-oil-risks-loom",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
      "t": "sec"
     }
    ],
-   "heat": 207.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 08:51",
-   "title": "Japan Declines to Confirm Yen Intervention, Hints at US Support",
-   "summary": "Japan’s authorities refrained from confirming that they intervened in the foreign-exchange market during overnight trading after the yen’s sharp rally, while also hinting at some s…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-31/japan-declines-to-confirm-yen-intervention-hints-at-us-support",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 08:29",
-   "title": "Amazon, Microsoft Results Show AI Spending Spree Remains Solid",
-   "summary": "Aggressive AI spending plans by Amazon.com Inc., Microsoft Corp. and Alphabet Inc. provided fresh evidence that demand for chips and related equipment will remain strong, offering …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-31/amazon-microsoft-results-show-ai-spending-spree-remains-solid",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 07:00",
-   "title": "Singapore's Sentosa Cove Island Slides From Monte Carlo Dream to Decaying Homes",
-   "summary": "Sentosa Cove was once hailed&nbsp;as the city-state's answer to Monte Carlo, but many villas have sat empty for years.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/features/2026-07-30/singapore-s-sentosa-cove-island-slides-from-monte-carlo-dream-to-decaying-homes",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 07:00",
-   "title": "Anthropic AI Models Hacked Three Organizations During Tests",
-   "summary": "Anthropic PBC said its artificial intelligence models breached three organizations during cybersecurity tests that went awry, a little more than a week after its chief rival, OpenA…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/anthropic-s-ai-models-hacked-three-organizations-during-tests",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.4
+   "heat": 159.5
   },
   {
    "cat": "sector",
@@ -391,35 +265,147 @@
      "t": "sec"
     }
    ],
-   "heat": 207.3
+   "heat": 159.2
   },
   {
-   "cat": "stock",
-   "time": "2026-07-27 15:00",
-   "title": "US stocks: S&P 500 ends higher as investors await tech earnings - The Economic Times",
-   "summary": "US stocks: S&P 500 ends higher as investors await tech earnings &nbsp;&nbsp; The Economic Times",
+   "cat": "sector",
+   "time": "2026-07-31 06:37",
+   "title": "Jim Cramer says this hedge fund's blowup reveals the hidden risks of leverage",
+   "summary": "CNBC's Jim Cramer said the forced unwind of Situational Awareness shows how borrowing money can quickly magnify losses and trigger forced selling.",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObDkzVmFWLXhFVlFTV0RXdks1MEZUd3VZNEgzVXpFMm1SbHI2ZVo3QjBIaWFrOTNTcjJIdzg0Q3dUdGEzVWU0MkRrZUpkWGlwU2JyYXdKMmVSc2dXb0NmcGJ4bHZ6Nzg3b0R4ZWlFZlRWMVNaa1hGY1c5Vm82dWFwb2Rzd0phUTdaZlo4V1prSnQyaTNNWjljVjh0UU9aWE9xZUcxSkNtQld6STFmNXI1Z3RoNmQxYjhybUtfT3RaOE44YnZBalR3SDlER1BFTUtWdThLQdIB2gFBVV95cUxPaUNZRG81MFFIcTlzLThQRGt6elU4cE9DVVJ2TkN1eTdPeUJpSzlKVnVwRFZMeTFQYldCTFd5X0VBNURBeG1Ob3B0RHBjeXoxV0tuRzl1V3ptbXktU2JBUmpLbW5BU1MxV04yWUk1eXQ1UFd3RXRvUnVIcTFqZ1ZhWXlHU2ZvclNJdlh6ZV9tVnFTN1QySU5ESk5MOEF3WDBRQTl5YVdrM0NCOEQwUzhvN0JYdWcyZVFoeDhyMG92THdnXzg3RUktaktMMlpSRlhzTVA2QjRKV2dTUQ?oc=5",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/jim-cramer-situational-awareness-blowup-reveals-hidden-risks-of-leverage.html",
      "t": "sec"
     }
    ],
-   "heat": 144.0
+   "heat": 159.2
   },
   {
-   "cat": "stock",
-   "time": "2026-07-24 21:37",
-   "title": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs - The Economic Times",
-   "summary": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs &nbsp;&nbsp; The Economic Times",
+   "cat": "sector",
+   "time": "2026-07-31 04:29",
+   "title": "China’s Politburo Pledges Incremental Policy Support to Bolster Economy",
+   "summary": "China’s Politburo Pledges Incremental Policy Support to Bolster Economy &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbGVWSEZIWWsyT05ZNWM1MFdZUl9ndUJHMzd1OWxjdE1vZF9DTEhUZ185Rnkzb1ZrRzdQU19aazZkcFg1aGYtNHd6V0JsNFFaR1R4U2o2WTFJcWR0dTNVeXU3WHlxOWlQVl8xaVJtTGNMYVZfLWFIY044cDVoa2lDTXZtd2hNT05NWVFqd0dxRlVEdFcwaGdkNXhTOV9VSzhNM01QTDdMNDdjSGphd1hwREI3WC1lWXJlUHJMZHFuSFR5SFpRYnZnOC1VTl9XRTNvZXE0dXVQR29BUDRaYnFOOFlQNk0ySmd0V25oaw?oc=5",
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUWN2WktKWXBQX3ZWWTVKSm8wVFBpQ3M5Ql84TkZaSm1lZjJOckw4eVFWbUwzdWhDRmhBU1hNUFNHSWZKYlBZQWJxaktiVDhoejVKRkVjeU13NGFFZjZRemdSZVNuRXhjZFlSRGM2WnBJSDdxZHhfUG4zdFNNdUZaaTJfQUNBclFTMlEtSmc2WFU1ZGttUEY2eUE1YzR6R2VucXNqejVLYU1lcGItaEx4ZFBOSTE5UURIdU9TX21iNnV3Qk0?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 144.0
+   "heat": 158.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 02:51",
+   "title": "China’s open-weight model lead exposes America’s AI blind spot",
+   "summary": "The future of AI may be dictated not by who builds the smartest model, but who builds the models everyone runs on. Right now, that's China.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 158.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-30 17:15",
+   "title": "Tech Brief (Jul. 30): U.S. Takes Aim at Chinese Robot-Makers With Sweeping Import Ban",
+   "summary": "Tech Brief (Jul. 30): U.S. Takes Aim at Chinese Robot-Makers With Sweeping Import Ban &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeTUzRURROW1RWmNETUlpYjlBOFlkajRLb09TMk5GTHphNjJxRjRkRzFXb3V2eThQZ28zV2JQSURXNWJ4VGdlOXJPVDFqbFdwdmhvVjBjYlhJcmNzMUxsN1pZLTg3U0dIM3ZxM1h3Ml9YbGJFdGFaaFR4VnByaFVXRHljRjdYS3BZNlFVNmVrUU83Y05Nc3Ffb29iekV5b2l4ZEEwSWxyOGYteURmdGZkVm9RekNiRHhEWGFzMFdLTG1LUkRwR3dyYmdYOWFMNG8?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 157.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-30 15:21",
+   "title": "Global economy at risk if AI investment falters, says MAS - hcamag.com",
+   "summary": "Global economy at risk if AI investment falters, says MAS &nbsp;&nbsp; hcamag.com",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNVeTZLSGhDT0RaVmI2TnlyZzF3cGpleW94MlREaW5UYUFmbFJwZU5iSG1IV1Naem9QYTZNN2VvODk2d1Zxa1FLMW1YTnh1RmlKa0I0cUgwMEtoT2xXTm5TajF3aGR3YXJOTnV0RkVXLUNJN2V2YWRFWUxWTjdWUTZ5N25yX2k4SXh6Rnk0YThBemlFN3A0eFlyYXlyMlgxNjh5U2gxOG9HbFFWSUZrOGhoakZKWG15eldmZWxPM3RGQUE?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 156.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-30 03:24",
+   "title": "China Trust Sector Profit Rises as Regulatory Overhaul Begins to Pay Off",
+   "summary": "China Trust Sector Profit Rises as Regulatory Overhaul Begins to Pay Off &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMEpPTUFWMUhCLXJqOGRTMGl5R0ZfWEZSbzRSdld6OWh5dF8wWGx6ZGRGS0xFRGQwZ2pxYVJGSmJQMUo3c0Z1ZF9URlRrSzJRSm85VjZ3NFdBbjRrbHdrNVdtYXFqcjI2WU1WZ3VsRjd2c1BEX1lvSER2Z1FyTzRxU3F4R09DaXpOU3lzRUpBU29MWVFoLWFtYU1VS3VibGY4ZElOQlEyenozOVREOXlGeWk2UF9ybDRDX2lzSXlHMkdNeEs2enc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 154.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-29 21:00",
+   "title": "Could an AI market crash rival 2000 or 2008? Unlikely",
+   "summary": "Could an AI market crash rival 2000 or 2008? Unlikely &nbsp;&nbsp; Reuters",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbW9QNjlzdS1hcnZKOTNoNnZjTXRzbXk4dTFwb3p0Smh0U1Y0RzhDME83c0hyalpNblZBTzZPV2wxcEJrc1RUbU5EVnJPZkFZeDVVUDFHcTRmTEZZLS1xQXZoSkpOd1J2MzBOZTNNdTNQQ1VBS0FVN1JIbFJNS0tmbGZvYk9PRXYtWmtlQW5lOGhhVTlCai0wd0lWLTA2c1JHNFZxSXVJeHd4RXdQMV91S3dRV2pfUE5oR0hVRFhR?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 153.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-29 19:57",
+   "title": "19:57:57【联电业绩亮眼且上调资本开支 AI订单从GPU外溢至成熟制程】",
+   "summary": "19:57:57【联电业绩亮眼且上调资本开支 AI订单从GPU外溢至成熟制程】 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PRk14SWU0WXdMTEdFTW5zclg2Tm1wMzZULUFPb1BaRFI3MlRwbkdwOWp5SC1sTnA5bWtTbFA0eWRYbGs2Z1FZeg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 153.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-29 05:16",
+   "title": "Dow Surges 537 Points After Close as Gains Spread Across Sectors Beyond Tech - ts2.tech",
+   "summary": "Dow Surges 537 Points After Close as Gains Spread Across Sectors Beyond Tech &nbsp;&nbsp; ts2.tech",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWkZYbWw4ZGNlTTRTcFhRd2dCRXhnQjZwV3FEYlh6SnZEQXB5ZWhwTU1qbkRGUDJoQVVGeHcwcnMwS3Vmd0VWTXZOOTd4bTJaa2htd01zc3RCVnRMV0w5TkRfUkZSRVJMZmpCRWF1SmgwVWlzY3R6R0R0Q3B0MklQNXZnNnZzcXI5MXBxTXFwV2R5WGhXZWF3Q0dKem1mQQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 152.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-29 04:00",
+   "title": "Big Banks Quietly Beat S&P 500 as AI Spending Surges - Briefs Finance",
+   "summary": "Big Banks Quietly Beat S&P 500 as AI Spending Surges &nbsp;&nbsp; Briefs Finance",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVRWR3l1SUpHRjdBTVFIbEdFWmY2ZVNxQUdGX3JGUENjYXlSOGwwRkJwWjZSQ0p3UG9ySzNpMkZnRk95YW1reWRWWWxRTmtiMkhWWURfU2ttNnpQZktDVWJQZWRwYTNwZFVUYV9PX1FrZHM3WUNZWHFxR1ZCbFZWRHMzc2J6ck1qcWFrZUZCU0I?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 152.0
   },
   {
    "cat": "stock",
@@ -433,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 119.7
+   "heat": 111.6
   },
   {
    "cat": "stock",
@@ -447,35 +433,35 @@
      "t": "sec"
     }
    ],
-   "heat": 118.9
+   "heat": 110.8
   },
   {
    "cat": "stock",
-   "time": "2026-07-31 10:18",
-   "title": "Wild Tech Stock Swings Spur Retail Traders to Cut Margin Loans",
-   "summary": "Retail investors have cut their margin loans in South Korea, Taiwan and mainland China, underscoring how a collapse in technology stocks in recent weeks has forced them to close ou…",
+   "time": "2026-07-29 04:02",
+   "title": "US stocks: S&P 500 ends higher as investors await tech earnings - The Economic Times",
+   "summary": "US stocks: S&P 500 ends higher as investors await tech earnings &nbsp;&nbsp; The Economic Times",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-31/wild-tech-stock-swings-spur-retail-traders-to-cut-margin-loans",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObDkzVmFWLXhFVlFTV0RXdks1MEZUd3VZNEgzVXpFMm1SbHI2ZVo3QjBIaWFrOTNTcjJIdzg0Q3dUdGEzVWU0MkRrZUpkWGlwU2JyYXdKMmVSc2dXb0NmcGJ4bHZ6Nzg3b0R4ZWlFZlRWMVNaa1hGY1c5Vm82dWFwb2Rzd0phUTdaZlo4V1prSnQyaTNNWjljVjh0UU9aWE9xZUcxSkNtQld6STFmNXI1Z3RoNmQxYjhybUtfT3RaOE44YnZBalR3SDlER1BFTUtWdThLQdIB2gFBVV95cUxPaUNZRG81MFFIcTlzLThQRGt6elU4cE9DVVJ2TkN1eTdPeUJpSzlKVnVwRFZMeTFQYldCTFd5X0VBNURBeG1Ob3B0RHBjeXoxV0tuRzl1V3ptbXktU2JBUmpLbW5BU1MxV04yWUk1eXQ1UFd3RXRvUnVIcTFqZ1ZhWXlHU2ZvclNJdlh6ZV9tVnFTN1QySU5ESk5MOEF3WDBRQTl5YVdrM0NCOEQwUzhvN0JYdWcyZVFoeDhyMG92THdnXzg3RUktaktMMlpSRlhzTVA2QjRKV2dTUQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 107.9
+   "heat": 108.0
   },
   {
    "cat": "stock",
-   "time": "2026-07-31 07:50",
-   "title": "Korean Stocks Surge by Record 17% as AI Trade Optimism Rebounds",
-   "summary": "South Korean stocks jumped by a record, rebounding from a rout earlier this week, on optimism the unwinding of leveraged trades is nearing its end and the artificial intelligence b…",
+   "time": "2026-07-24 21:37",
+   "title": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs - The Economic Times",
+   "summary": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs &nbsp;&nbsp; The Economic Times",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/sk-hynix-shares-surge-in-seoul-on-us-peer-rally-chey-purchase",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbGVWSEZIWWsyT05ZNWM1MFdZUl9ndUJHMzd1OWxjdE1vZF9DTEhUZ185Rnkzb1ZrRzdQU19aazZkcFg1aGYtNHd6V0JsNFFaR1R4U2o2WTFJcWR0dTNVeXU3WHlxOWlQVl8xaVJtTGNMYVZfLWFIY044cDVoa2lDTXZtd2hNT05NWVFqd0dxRlVEdFcwaGdkNXhTOV9VSzhNM01QTDdMNDdjSGphd1hwREI3WC1lWXJlUHJMZHFuSFR5SFpRYnZnOC1VTl9XRTNvZXE0dXVQR29BUDRaYnFOOFlQNk0ySmd0V25oaw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 107.5
+   "heat": 108.0
   },
   {
    "cat": "stock",
@@ -489,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.3
+   "heat": 91.2
   },
   {
    "cat": "stock",
@@ -503,21 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-31 06:15",
-   "title": "Asian Stocks Rally as Korea Surges, Yen Pares Gain: Markets Wrap",
-   "summary": "Asian stocks rallied after South Korean equities posted a record intraday gain, as investors renewed bets on the artificial intelligence trade following this week’s rout. The yen w…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates",
-     "t": "sec"
-    }
-   ],
-   "heat": 107.3
+   "heat": 91.2
   },
   {
    "cat": "stock",
@@ -531,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.1
+   "heat": 91.0
   },
   {
    "cat": "stock",
@@ -545,7 +517,21 @@
      "t": "sec"
     }
    ],
-   "heat": 106.8
+   "heat": 90.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-31 03:16",
+   "title": "EverCommerce CEO Eric Remer sells $230,952 of company stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/evercommerce-ceo-eric-remer-sells-230952-of-company-stock-93CH-4826708",
+     "t": "agg"
+    }
+   ],
+   "heat": 88.6
   },
   {
    "cat": "stock",
@@ -559,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 102.2
+   "heat": 86.1
   },
   {
    "cat": "stock",
@@ -573,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 101.2
+   "heat": 85.1
   },
   {
    "cat": "stock",
@@ -587,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 101.1
+   "heat": 85.0
   },
   {
    "cat": "stock",
@@ -601,35 +587,35 @@
      "t": "sec"
     }
    ],
-   "heat": 101.0
+   "heat": 84.9
   },
   {
-   "cat": "global",
-   "time": "2026-07-31 07:56",
-   "title": "Gold Heads for Monthly Gain as Japan Intervention Tames Dollar",
-   "summary": "Gold was heading for its first monthly advance since February after Japan intervened to support the yen, causing the US dollar to weaken.",
+   "cat": "stock",
+   "time": "2026-07-29 11:16",
+   "title": "How major US stock indexes fared Tuesday 7/28/2026 - The Washington Post",
+   "summary": "How major US stock indexes fared Tuesday 7/28/2026 &nbsp;&nbsp; The Washington Post",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/gold-holds-gain-as-japan-currency-intervention-weighs-on-dollar",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTzVtY1JVOFpjdENZRHNUYmwwMHJydTkwaU5XN1pId1lTemRaNDAtbkkzNXc2bmlSTTZLMmpLWkQyRzJYZFhIczB4d1Y4NHZnTEJIMlNXSk5nYXNrN1c0TXVlY0k1c2ItbFdXcDdqOTBJbXU5Tng2dFBuUDZRMWszOHlVRE1Qem5BbUJNNUJtVnBKVDAtQzg3X0cydlFZZnNuTENFVlZsdXhqazRsMWRIYTgta1JzZUNkZHV3WHBkQkJIQ0NBRWdJ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 47.5
+   "heat": 84.0
   },
   {
-   "cat": "global",
-   "time": "2026-07-31 10:36",
-   "title": "Japan Preempts Market With Yen Intervention",
-   "summary": "Japan intervened in the currency market to bolster the yen, which sharply advanced as much as 3.3% versus the dollar in New York trading on Thursday. Bloomberg's Shery Ahn breaks d…",
+   "cat": "stock",
+   "time": "2026-07-28 22:06",
+   "title": "US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India",
+   "summary": "US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop &nbsp;&nbsp; The Times of India",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-31/japan-preempts-market-with-yen-intervention-video",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNcGtldktQTk1HNnlEMkNJU0NzcGtWbnhzdmtQRXZTcFNsMUtucUJfdXItSGdTaTBPcDh1bzNwV0dQVW8wdDV4N2RkSDBlRjNCai0tMXpicnNVNjZheG9tdUJqOHBJSkVQX3dpdVE5TnZfNWIyaHBYcG5nT1pRRTE2MEtxdzZQTGpOV0xheDBKQUpsYnNNdTZTRWxFTzliendYSUtIeVRZX1FzM3YwMGMtWmhMa2twSlNDZjdQTENFU3ptTjZoSWhTSlk2eHNaQ2UwN3BOWkgydEhJb0RDT0pPbEk2blBaczVGb25RSkpJT1k2eG0tel94VFZEMGlNaTJVWXg3aWJCS0xRZERPSmd5M09XQmxJbzMtc0lKdk9hRmlRVVnSAagCQVVfeXFMTS1rdFpjUjRPQXI3QmxtRmhqN3ZobDFzVTlkZzlaU2pqUmcwamszQ3pVVDRXYW4zMm5qY3ZOSDBCQjZ4eFZFWEZpb0gzZ2p0LTJEakZENVU2c2hZYjFsdUJQVlNDcDkyRFNJc0NNT28wMW9hUkpsdHpTTndaX2JNX1ZuTjB0ampXX3dXMjdIT3k2emJMOWlBN2lPZl9jeW9wdU1VdzBjNlRtMVMtZkJWcExpd3lMcTBZc2lyUHVGTVdpNHB4c1VXSDFJUjZySXF2Um5nRmlTWUEwM1g1S0cza3BFOVZjMzZ4cmdRR2ZFZ3gzb09ld3pVdFhueUVqbGRKaDZlMWh0eFd6VjNFT3NOUV8xZmxYU2xjU3ZYejVHaTdqVnUyRklkZ1I?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 84.0
   },
   {
    "cat": "global",
@@ -643,7 +629,21 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 43.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-31 03:06",
+   "title": "Oil falls more than $1 on greater flows despite US-Iran war",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/oil-falls-more-than-1-on-greater-flows-despite-usiran-war-4826705",
+     "t": "agg"
+    }
+   ],
+   "heat": 40.6
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.8
+   "heat": 39.7
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.3
+   "heat": 39.2
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.2
+   "heat": 39.1
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "agg"
     }
    ],
-   "heat": 34.7
+   "heat": 38.6
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.5
+   "heat": 37.4
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 36.0
   },
   {
    "cat": "global",
@@ -741,35 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 10:13",
-   "title": "Australian Dollar inches lower as China’s NBS Manufacturing PMI falls in July",
-   "summary": "AUD/USD inches lower after registering over 1% gains in the previous day, trading around 0.7020 during the Asian hours on Friday. The pair remains subdued following the release of …",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/australian-dollar-inches-lower-as-chinas-nbs-manufacturing-pmi-falls-in-july-202607310213",
-     "t": "sec"
-    }
-   ],
-   "heat": 31.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 09:24",
-   "title": "New Zealand Dollar holds losses following China PMI data",
-   "summary": "NZD/USD loses ground after three days of gains, trading around 0.5870 during the Asian hours on Friday. The pair remains subdued following the release of China's Purchasing Manager…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-ahead-of-china-pmi-data-202607310124",
-     "t": "sec"
-    }
-   ],
-   "heat": 31.8
+   "heat": 36.0
   },
   {
    "cat": "global",
@@ -783,7 +755,49 @@
      "t": "sec"
     }
    ],
-   "heat": 31.7
+   "heat": 31.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-31 11:12",
+   "title": "British Pound falls as US Dollar receives from internal FOMC policy split",
+   "summary": "GBP/USD loses ground after three days of gains, trading around 1.3450 during the Asian hours on Friday. The pair depreciates as the US Dollar (USD) gains support from a hawkish pau…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/british-pound-falls-as-us-dollar-receives-from-internal-fomc-policy-split-202607310312",
+     "t": "sec"
+    }
+   ],
+   "heat": 28.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-31 10:13",
+   "title": "Australian Dollar inches lower as China’s NBS Manufacturing PMI falls in July",
+   "summary": "AUD/USD inches lower after registering over 1% gains in the previous day, trading around 0.7020 during the Asian hours on Friday. The pair remains subdued following the release of …",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/australian-dollar-inches-lower-as-chinas-nbs-manufacturing-pmi-falls-in-july-202607310213",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-31 09:24",
+   "title": "New Zealand Dollar holds losses following China PMI data",
+   "summary": "NZD/USD loses ground after three days of gains, trading around 0.5870 during the Asian hours on Friday. The pair remains subdued following the release of China's Purchasing Manager…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-ahead-of-china-pmi-data-202607310124",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.7
   },
   {
    "cat": "global",
@@ -797,21 +811,21 @@
      "t": "agg"
     }
    ],
-   "heat": 30.7
+   "heat": 22.6
   },
   {
    "cat": "global",
-   "time": "2026-07-31 06:58",
-   "title": "The Japanese Yen gets its ambush, and the Bank of Japan gets overnight to justify it",
-   "summary": "USD/JPY trades just above 159.50, down 2.31% and more than five Yen below a high set just short of 164.00.",
+   "time": "2026-07-31 11:21",
+   "title": "EUR/JPY rallies further above 185.00 against Japanese Yen after BoJ’s policy decision",
+   "summary": "The Euro (EUR) extends the intraday rally to near 185.20 against the Japanese Yen (JPY) after the Bank of Japan’ (BoJ) monetary policy decision during the Asian trading session on …",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/the-japanese-yen-gets-its-ambush-and-the-bank-of-japan-gets-overnight-to-justify-it-202607302258",
+     "u": "https://www.fxstreet.com/news/eur-jpy-rallies-further-above-18500-against-japanese-yen-after-bojs-policy-decision-202607310321",
      "t": "sec"
     }
    ],
-   "heat": 23.4
+   "heat": 16.0
   },
   {
    "cat": "crypto",
@@ -825,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.9
+   "heat": 74.8
   },
   {
    "cat": "crypto",
@@ -839,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.2
+   "heat": 51.1
   },
   {
    "cat": "crypto",
@@ -853,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.8
+   "heat": 42.7
   },
   {
    "cat": "crypto",
@@ -867,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.4
+   "heat": 42.3
   },
   {
    "cat": "crypto",
@@ -881,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.2
+   "heat": 42.1
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.0
+   "heat": 41.9
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.9
+   "heat": 41.8
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.9
+   "heat": 41.8
   },
   {
    "cat": "crypto",
@@ -937,7 +951,21 @@
      "t": "sec"
     }
    ],
-   "heat": 41.7
+   "heat": 41.6
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-31 10:38",
+   "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
+   "summary": "Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential seed-generation risk, as Bitcoin security experts separately examine an unexplained $38 million wal…",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.9
   },
   {
    "cat": "crypto",
@@ -951,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.6
+   "heat": 31.5
   },
   {
    "cat": "crypto",
@@ -965,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.1
+   "heat": 31.0
   },
   {
    "cat": "crypto",
@@ -979,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.0
+   "heat": 30.9
   },
   {
    "cat": "crypto",
@@ -990,20 +1018,6 @@
     {
      "n": "Cointelegraph(加密货币)",
      "u": "https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 30.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-30 23:53",
-   "title": "Hyperscale Data sells 100 BTC to fund Michigan AI data center",
-   "summary": "The Bitcoin miner is using part of its treasury and a BTC-backed credit facility to fund an AI campus tied to a potential multi-billion-dollar infrastructure contract.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/hyperscale-data-taps-bitcoin-treasury-btc-backed-credit-to-fund-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
@@ -1021,35 +1035,21 @@
      "t": "sec"
     }
    ],
-   "heat": 23.1
+   "heat": 22.9
   },
   {
    "cat": "sector",
-   "time": "2026-07-29 06:30",
-   "title": "英伟达CEO黄仁勋在美国参议院多个办公室呼吁支持开源权重人工智能（AI）模型",
-   "summary": "英伟达CEO黄仁勋在美国参议院多个办公室呼吁支持开源权重人工智能（AI）模型 &nbsp;&nbsp; 财联社",
+   "time": "2026-07-27 22:33",
+   "title": "18:24:03【汇丰控股将在新加坡设全球人工智能卓越中心 并招聘超100名AI专家】",
+   "summary": "18:24:03【汇丰控股将在新加坡设全球人工智能卓越中心 并招聘超100名AI专家】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBab0JucU14Z0hpR3RlaElrYUNQZG5SdGFSVnhGWFM0ZFhnX3YycXEyS0stOWhLdFRpdXlhRkRSZzVnU3htZEtjNw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03LWhLejMwSFMxU1FpYTZUemtQS1pZVHZOZlBFMURvWEIwSW83S0xmcVh2QktHcFRuUDRRMnZMeml6TDN2TU9nRg?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 200.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 02:15",
-   "title": "Form 13D/A KUSTOM ENTERTAINMENT For: 30 July",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/filings/form-13da-kustom-entertainment-for-30-july-93CH-4826689",
-     "t": "agg"
-    }
-   ],
-   "heat": 204.6
+   "heat": 152.0
   }
  ]
 }
