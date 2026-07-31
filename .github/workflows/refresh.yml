@@ -21,7 +21,18 @@ jobs:
         with:
           python-version: '3.12'
       - name: Run update_news.py (skips local git push; CI handles commit)
-        run: python3 outputs/update_news.py
+        run: |
+          echo "=== Python 版本 ==="
+          python3 --version
+          echo "=== 工作目录 ==="
+          pwd
+          echo "=== outputs 目录内容 ==="
+          ls outputs/
+          echo "=== HTML 标记检查 ==="
+          grep -n "let NEWS" outputs/financial-news-desk.html || echo "标记缺失!"
+          echo "=== 开始运行脚本 ==="
+          python3 -u outputs/update_news.py 2>&1 | tee /tmp/newsdesk_output.txt
+          echo "=== 脚本退出码: $? ==="
         env:
           NEWSDESK_NO_PUSH: "1"
       - name: Commit and push
