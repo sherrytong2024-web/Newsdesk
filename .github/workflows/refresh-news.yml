@@ -16,9 +16,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run script
-        run: python3 -u -c "exec(open('outputs/update_news.py').read())"
+        run: python3 -u ci_runner.py
         env:
           NEWSDESK_NO_PUSH: "1"
+      - name: Upload debug log
+        if: always()
+        run: |
+          test -f ci_debug.log && cat ci_debug.log || echo "No debug log found"
       - name: Commit and push
         run: |
           git config user.email "newsbot@users.noreply.github.com"
