@@ -38,6 +38,17 @@ jobs:
           echo "=== HTML marker ==="
           grep -n "let NEWS" outputs/financial-news-desk.html 2>&1 || echo "NOT FOUND"
 
+      - name: Bash sanity check
+        run: |
+          echo "=== bash works ==="
+          pwd
+          ls outputs/
+          echo "=== which python3 ==="
+          which python3 || echo "NOT FOUND"
+          python3 --version || echo "VERSION FAIL"
+          echo "=== python3 hello ==="
+          python3 -c "print('hello')" || echo "HELLO FAIL"
+
       - name: Import test
         run: python3 -u outputs/_ci_test.py 2>&1
 
