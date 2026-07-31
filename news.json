@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31 11:22",
+ "updated": "2026-07-31 11:28",
  "items": [
   {
    "cat": "macro",
@@ -13,21 +13,35 @@
      "t": "sec"
     }
    ],
-   "heat": 46.6
+   "heat": 58.6
   },
   {
    "cat": "macro",
-   "time": "2026-07-30 17:15",
-   "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Federal Reserve Holds Interest Rates—Meta, Microsoft, Apple in F",
-   "summary": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Federal Reserve Holds Interest Rates—Meta, Microsoft, Apple in Focus &nbsp;&nbsp; TradingView",
+   "time": "2026-07-31 10:31",
+   "title": "Rising US Yields May Complicate RBI’s Strategy on Rates and the Rupee",
+   "summary": "If US yields keep rising, the RBI could face growing pressure to keep policy tighter.",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUURzQk5ZY2JhUzE2MUxuM2xBVkxid25xQm5uUDdMTWwzeTQ1WUJGWFhLY040VzRFYnZsWFhJOEl4bFlzQnp3dFB4QmpiZGgweXViSXdrVzJfQVUtTXl0bUlYMXM1dXV6cDl2WWxuc3h0NXZYRGIzRVNkLWlmcjg3YWVrSkFJU0VVNVdBZl8xamxLYkVRaEYxb1FKMnhodFhFSkhSdHJ2dWY3SC1LM25ERGllTFVnSkcxb2JFSnBUZS1HSllaRDE2MmFzOU1vT1AyUGdMcVQ4NnVaV1pPWWpEUVR2WFFJU1dwMHJCY2cxbnFxSG4xb2hSRjhIcDBvTTB1VDV6U2pGUHVXVVU?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-07-31/rising-us-yields-may-complicate-rbi-s-strategy-on-rates-and-the-rupee",
      "t": "sec"
     }
    ],
-   "heat": 45.0
+   "heat": 55.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-31 06:52",
+   "title": "Yen Holds Losses Against Dollar After BOJ Keeps Rates Steady",
+   "summary": "The yen held losses against the dollar after the Bank of Japan kept its benchmark rate unchanged.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/yen-surges-after-japan-intervened-in-market-again-ahead-of-boj",
+     "t": "sec"
+    }
+   ],
+   "heat": 55.2
   },
   {
    "cat": "macro",
@@ -41,13 +55,13 @@
      "t": "sec"
     }
    ],
-   "heat": 41.0
+   "heat": 53.0
   },
   {
    "cat": "macro",
    "time": "2026-07-28 07:54",
-   "title": "S&P 500 Sees Modest Gain Despite Oil’s 7.5% Drop Amid Ongoing Fed Rate Concerns - ts2.tech",
-   "summary": "S&P 500 Sees Modest Gain Despite Oil’s 7.5% Drop Amid Ongoing Fed Rate Concerns &nbsp;&nbsp; ts2.tech",
+   "title": "S&P 500 Sees Modest Gain Despite Oil’s 7.5% Drop Amid Ongoing Fed Rate Concerns - TechStock²",
+   "summary": "S&P 500 Sees Modest Gain Despite Oil’s 7.5% Drop Amid Ongoing Fed Rate Concerns &nbsp;&nbsp; TechStock²",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -55,7 +69,35 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 52.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-31 11:05",
+   "title": "Sony Raises Outlook After Entertainment Drives Earnings Beat",
+   "summary": "Sony Group Corp. raised its profit outlook after its lucrative content holdings generated continued growth, underscoring the entertainment group’s resilience in the face of rising …",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/sony-raises-outlook-after-entertainment-drives-earnings-beat",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-31 07:30",
+   "title": "Korea Plans $14 Billion for Wealth Fund’s AI Bets After Rout",
+   "summary": "South Korea plans to inject 20 trillion won ($13.9 billion) into its sovereign wealth fund for strategic investments in AI, data centers and infrastructure, expanding its mandate t…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/korea-plans-14-billion-for-wealth-fund-s-ai-bets-after-rout",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.3
   },
   {
    "cat": "macro",
@@ -69,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.1
+   "heat": 51.1
   },
   {
    "cat": "macro",
@@ -83,13 +125,13 @@
      "t": "sec"
     }
    ],
-   "heat": 38.1
+   "heat": 50.1
   },
   {
    "cat": "macro",
    "time": "2026-07-26 23:52",
-   "title": "The U.S. Economy Is Stronger Than Expected. That Could Keep Interest Rates Higher for Longer - 24/7 Wall St.",
-   "summary": "The U.S. Economy Is Stronger Than Expected. That Could Keep Interest Rates Higher for Longer &nbsp;&nbsp; 24/7 Wall St.",
+   "title": "The U.S. Economy Is Stronger Than Expected. That Could Keep Interest Rates Higher for Longer - 247wallst.com",
+   "summary": "The U.S. Economy Is Stronger Than Expected. That Could Keep Interest Rates Higher for Longer &nbsp;&nbsp; 247wallst.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -97,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 44.0
   },
   {
    "cat": "macro",
@@ -111,7 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 44.0
   },
   {
    "cat": "macro",
@@ -125,7 +167,7 @@
      "t": "agg"
     }
    ],
-   "heat": 27.6
+   "heat": 23.5
   },
   {
    "cat": "macro",
@@ -139,7 +181,21 @@
      "t": "agg"
     }
    ],
-   "heat": 27.3
+   "heat": 23.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-30 22:26",
+   "title": "Gold Outlook Weakens as Treasury Yields and Inflation Risks Persist",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-outlook-weakens-as-treasury-yields-and-inflation-risks-persist-200684901",
+     "t": "agg"
+    }
+   ],
+   "heat": 15.8
   },
   {
    "cat": "macro",
@@ -156,88 +212,18 @@
    "heat": 15.4
   },
   {
-   "cat": "macro",
-   "time": "2026-07-31 00:43",
-   "title": "Yen Spikes on Intervention Rumours After Weak US GDP",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/yen-spikes-on-intervention-rumours-after-weak-us-gdp-200684912",
-     "t": "agg"
-    }
-   ],
-   "heat": 12.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 22:26",
-   "title": "Gold Outlook Weakens as Treasury Yields and Inflation Risks Persist",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-outlook-weakens-as-treasury-yields-and-inflation-risks-persist-200684901",
-     "t": "agg"
-    }
-   ],
-   "heat": 11.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 18:38",
-   "title": "Gold Holds Near Key Support as Markets Shift From the FOMC to GDP and Core PCE",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-holds-near-key-support-as-markets-shift-from-the-fomc-to-gdp-and-core-pce-200684872",
-     "t": "agg"
-    }
-   ],
-   "heat": 11.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-30 18:45",
-   "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
-   "summary": "President Donald Trump has promised a \"golden age\" for agriculture, but farmers in Iowa and elsewhere are struggling with tariffs and the Iran war.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/trump-iowa-farmers-agriculture.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 9.2
-  },
-  {
    "cat": "sector",
-   "time": "2026-07-31 11:04",
-   "title": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
-   "summary": "",
+   "time": "2026-07-31 09:53",
+   "title": "Apple Weak Forecast, Anthropic AI Models Hacked Systems, More",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-07-31/apple-weak-forecast-anthropic-ai-models-hacked-systems-more",
      "t": "sec"
     }
    ],
-   "heat": 159.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 09:11",
-   "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
-   "summary": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 159.6
+   "heat": 223.7
   },
   {
    "cat": "sector",
@@ -251,189 +237,175 @@
      "t": "sec"
     }
    ],
-   "heat": 159.5
+   "heat": 223.5
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 06:50",
-   "title": "Indonesian state telecom said to weigh sale of venture arm managing $830 million",
-   "summary": "Indonesia's state-owned telecom giant is exploring a sale of MDI Ventures, according to people familiar with the matter.",
+   "time": "2026-07-31 08:17",
+   "title": "Apple Mixed Earnings, Anthropic: AI Models Hacked Systems, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-07-31/apple-mixed-earnings-anthropic-ai-models-hacked-systems-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 11:04",
+   "title": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
+   "summary": "",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/31/indonesia-venture-capital-corruption-danantara-mdi-ventures-tanihub.html",
+     "u": "https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html",
      "t": "sec"
     }
    ],
-   "heat": 159.2
+   "heat": 219.9
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 06:37",
-   "title": "Jim Cramer says this hedge fund's blowup reveals the hidden risks of leverage",
-   "summary": "CNBC's Jim Cramer said the forced unwind of Situational Awareness shows how borrowing money can quickly magnify losses and trigger forced selling.",
+   "time": "2026-07-31 11:00",
+   "title": "North Korea’s Economy Expands on Russia Arms Deals, China Trade",
+   "summary": "North Korea’s economy expanded for a third straight year in 2025, boosted by arms exports to Russia, stronger trade with China, and Kim Jong Un’s drive to develop regional industri…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/north-korea-s-economy-expands-on-russia-arms-deals-china-trade",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 10:46",
+   "title": "Amazon Beats, Anthropic AI Models Hacked Systems During Tests",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-07-31/amazon-beats-anthropic-ai-models-hacked-systems-during-tests",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 10:46",
+   "title": "Thailand’s True Internet Data Center Seeks $2 Billion Loan",
+   "summary": "Thailand’s True Internet Data Center Co. is seeking an about $2 billion-equivalent loan to build a new facility, according to people familiar with the matter, as the country looks …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/thailand-s-true-internet-data-center-seeks-2-billion-loan",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 10:43",
+   "title": "GLP CEO Buys Significant Stake in HK-Listed Haichang Ocean Park",
+   "summary": "GLP Pte.’s co-founder and chief executive officer has become a significant shareholder of Haichang Ocean Park Holdings Ltd.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/glp-ceo-buys-significant-stake-in-hk-listed-haichang-ocean-park",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 10:32",
+   "title": "Iron Ore Climbs as Traders Weigh Supply Risks From BHP Strike",
+   "summary": "Iron ore rose as threat of strike action by BHP Group workers at the export hub of Port Hedland raised concerns about potential supply disruptions, although weak Chinese demand wil…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/iron-ore-climbs-as-traders-weigh-supply-risks-from-bhp-strike",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 10:29",
+   "title": "Korea Cites Close Ties With US, Japan After Overnight FX Surge",
+   "summary": "South Korea’s foreign-exchange authorities are in close contact with counterparts in the US and Japan, a senior finance ministry official said, a day after Tokyo mounted a large-sc…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/korea-cites-close-ties-with-us-japan-after-overnight-fx-surge",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 10:29",
+   "title": "What We Know So Far About Hacking by Anthropic AI Models",
+   "summary": "Here's what we know so far about Anthropic's AI models breaching three organizations during cybersecurity tests which went awry. (Source: Bloomberg)",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-31/what-we-know-so-far-about-hacking-by-anthropic-ai-models-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 09:11",
+   "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+   "summary": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/jim-cramer-situational-awareness-blowup-reveals-hidden-risks-of-leverage.html",
+     "u": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
      "t": "sec"
     }
    ],
-   "heat": 159.2
+   "heat": 219.6
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 04:29",
-   "title": "China’s Politburo Pledges Incremental Policy Support to Bolster Economy",
-   "summary": "China’s Politburo Pledges Incremental Policy Support to Bolster Economy &nbsp;&nbsp; Caixin Global",
+   "time": "2026-07-31 08:29",
+   "title": "Amazon, Microsoft Results Show AI Spending Spree Remains Solid",
+   "summary": "Aggressive AI spending plans by Amazon.com Inc., Microsoft Corp. and Alphabet Inc. provided fresh evidence that demand for chips and related equipment will remain strong, offering …",
    "srcs": [
     {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUWN2WktKWXBQX3ZWWTVKSm8wVFBpQ3M5Ql84TkZaSm1lZjJOckw4eVFWbUwzdWhDRmhBU1hNUFNHSWZKYlBZQWJxaktiVDhoejVKRkVjeU13NGFFZjZRemdSZVNuRXhjZFlSRGM2WnBJSDdxZHhfUG4zdFNNdUZaaTJfQUNBclFTMlEtSmc2WFU1ZGttUEY2eUE1YzR6R2VucXNqejVLYU1lcGItaEx4ZFBOSTE5UURIdU9TX21iNnV3Qk0?oc=5",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/amazon-microsoft-results-show-ai-spending-spree-remains-solid",
      "t": "sec"
     }
    ],
-   "heat": 158.9
+   "heat": 219.5
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 02:51",
-   "title": "China’s open-weight model lead exposes America’s AI blind spot",
-   "summary": "The future of AI may be dictated not by who builds the smartest model, but who builds the models everyone runs on. Right now, that's China.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 158.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-30 17:15",
-   "title": "Tech Brief (Jul. 30): U.S. Takes Aim at Chinese Robot-Makers With Sweeping Import Ban",
-   "summary": "Tech Brief (Jul. 30): U.S. Takes Aim at Chinese Robot-Makers With Sweeping Import Ban &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeTUzRURROW1RWmNETUlpYjlBOFlkajRLb09TMk5GTHphNjJxRjRkRzFXb3V2eThQZ28zV2JQSURXNWJ4VGdlOXJPVDFqbFdwdmhvVjBjYlhJcmNzMUxsN1pZLTg3U0dIM3ZxM1h3Ml9YbGJFdGFaaFR4VnByaFVXRHljRjdYS3BZNlFVNmVrUU83Y05Nc3Ffb29iekV5b2l4ZEEwSWxyOGYteURmdGZkVm9RekNiRHhEWGFzMFdLTG1LUkRwR3dyYmdYOWFMNG8?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 157.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-30 15:21",
-   "title": "Global economy at risk if AI investment falters, says MAS - hcamag.com",
-   "summary": "Global economy at risk if AI investment falters, says MAS &nbsp;&nbsp; hcamag.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNVeTZLSGhDT0RaVmI2TnlyZzF3cGpleW94MlREaW5UYUFmbFJwZU5iSG1IV1Naem9QYTZNN2VvODk2d1Zxa1FLMW1YTnh1RmlKa0I0cUgwMEtoT2xXTm5TajF3aGR3YXJOTnV0RkVXLUNJN2V2YWRFWUxWTjdWUTZ5N25yX2k4SXh6Rnk0YThBemlFN3A0eFlyYXlyMlgxNjh5U2gxOG9HbFFWSUZrOGhoakZKWG15eldmZWxPM3RGQUE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 156.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-30 03:24",
-   "title": "China Trust Sector Profit Rises as Regulatory Overhaul Begins to Pay Off",
-   "summary": "China Trust Sector Profit Rises as Regulatory Overhaul Begins to Pay Off &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMEpPTUFWMUhCLXJqOGRTMGl5R0ZfWEZSbzRSdld6OWh5dF8wWGx6ZGRGS0xFRGQwZ2pxYVJGSmJQMUo3c0Z1ZF9URlRrSzJRSm85VjZ3NFdBbjRrbHdrNVdtYXFqcjI2WU1WZ3VsRjd2c1BEX1lvSER2Z1FyTzRxU3F4R09DaXpOU3lzRUpBU29MWVFoLWFtYU1VS3VibGY4ZElOQlEyenozOVREOXlGeWk2UF9ybDRDX2lzSXlHMkdNeEs2enc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 154.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-29 21:00",
-   "title": "Could an AI market crash rival 2000 or 2008? Unlikely",
-   "summary": "Could an AI market crash rival 2000 or 2008? Unlikely &nbsp;&nbsp; Reuters",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbW9QNjlzdS1hcnZKOTNoNnZjTXRzbXk4dTFwb3p0Smh0U1Y0RzhDME83c0hyalpNblZBTzZPV2wxcEJrc1RUbU5EVnJPZkFZeDVVUDFHcTRmTEZZLS1xQXZoSkpOd1J2MzBOZTNNdTNQQ1VBS0FVN1JIbFJNS0tmbGZvYk9PRXYtWmtlQW5lOGhhVTlCai0wd0lWLTA2c1JHNFZxSXVJeHd4RXdQMV91S3dRV2pfUE5oR0hVRFhR?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 153.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-29 19:57",
-   "title": "19:57:57【联电业绩亮眼且上调资本开支 AI订单从GPU外溢至成熟制程】",
-   "summary": "19:57:57【联电业绩亮眼且上调资本开支 AI订单从GPU外溢至成熟制程】 &nbsp;&nbsp; 财联社",
+   "time": "2026-07-30 08:19",
+   "title": "08:52:24【英伟达合作伙伴ChipAgents扩大融资规模 借助AI加速芯片开发】",
+   "summary": "08:52:24【英伟达合作伙伴ChipAgents扩大融资规模 借助AI加速芯片开发】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PRk14SWU0WXdMTEdFTW5zclg2Tm1wMzZULUFPb1BaRFI3MlRwbkdwOWp5SC1sTnA5bWtTbFA0eWRYbGs2Z1FZeg?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SaWsxTW52Z293eEtkTGVhaW40dUZVRVo3T25LYW1NU3RoYTFoR0pJR0hUaWF5ODg0bElONngzNGR3RktQaGZ2Xw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 153.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-29 05:16",
-   "title": "Dow Surges 537 Points After Close as Gains Spread Across Sectors Beyond Tech - ts2.tech",
-   "summary": "Dow Surges 537 Points After Close as Gains Spread Across Sectors Beyond Tech &nbsp;&nbsp; ts2.tech",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWkZYbWw4ZGNlTTRTcFhRd2dCRXhnQjZwV3FEYlh6SnZEQXB5ZWhwTU1qbkRGUDJoQVVGeHcwcnMwS3Vmd0VWTXZOOTd4bTJaa2htd01zc3RCVnRMV0w5TkRfUkZSRVJMZmpCRWF1SmgwVWlzY3R6R0R0Q3B0MklQNXZnNnZzcXI5MXBxTXFwV2R5WGhXZWF3Q0dKem1mQQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 152.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-29 04:00",
-   "title": "Big Banks Quietly Beat S&P 500 as AI Spending Surges - Briefs Finance",
-   "summary": "Big Banks Quietly Beat S&P 500 as AI Spending Surges &nbsp;&nbsp; Briefs Finance",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVRWR3l1SUpHRjdBTVFIbEdFWmY2ZVNxQUdGX3JGUENjYXlSOGwwRkJwWjZSQ0p3UG9ySzNpMkZnRk95YW1reWRWWWxRTmtiMkhWWURfU2ttNnpQZktDVWJQZWRwYTNwZFVUYV9PX1FrZHM3WUNZWHFxR1ZCbFZWRHMzc2J6ck1qcWFrZUZCU0I?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 152.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-31 08:52",
-   "title": "SK Hynix shares surge 25%, while Samsung soars over 20% as AI rally roars back",
-   "summary": "South Korea's chip heavyweights SK Hynix and Samsung Electronics soared more than 20% on Friday, tracking a sharp rally in U.S. technology stocks.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 111.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-31 04:13",
-   "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
-   "summary": "Jersey Mike's priced its initial public offering at $23 per share.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 110.8
+   "heat": 219.5
   },
   {
    "cat": "stock",
@@ -447,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 108.0
+   "heat": 140.0
   },
   {
    "cat": "stock",
@@ -461,7 +433,77 @@
      "t": "sec"
     }
    ],
-   "heat": 108.0
+   "heat": 140.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-31 10:53",
+   "title": "Nikkei Weight Cut Shadow Looms Over Advantest After 18% Rally",
+   "summary": "Advantest Corp.’s shares may come under selling pressure from passive funds as the Japanese chip-tester maker’s weighting in the Nikkei 225 Stock Average may be lowered at the next…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/nikkei-weight-cut-shadow-looms-over-advantest-after-18-rally",
+     "t": "sec"
+    }
+   ],
+   "heat": 127.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-31 08:52",
+   "title": "SK Hynix shares surge 25%, while Samsung soars over 20% as AI rally roars back",
+   "summary": "South Korea's chip heavyweights SK Hynix and Samsung Electronics soared more than 20% on Friday, tracking a sharp rally in U.S. technology stocks.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 127.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-31 04:13",
+   "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
+   "summary": "Jersey Mike's priced its initial public offering at $23 per share.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 126.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-31 11:05",
+   "title": "Bloomberg Daybreak Asia: Chip Stocks Rise (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-daybreak-asia-chip-stocks-rise-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 107.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-31 10:18",
+   "title": "Wild Tech Stock Swings Spur Retail Traders to Cut Margin Loans",
+   "summary": "Retail investors have cut their margin loans in South Korea, Taiwan and mainland China, underscoring how a collapse in technology stocks in recent weeks has forced them to close ou…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/wild-tech-stock-swings-spur-retail-traders-to-cut-margin-loans",
+     "t": "sec"
+    }
+   ],
+   "heat": 107.8
   },
   {
    "cat": "stock",
@@ -475,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.2
+   "heat": 107.2
   },
   {
    "cat": "stock",
@@ -489,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.2
+   "heat": 107.2
   },
   {
    "cat": "stock",
@@ -503,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.0
+   "heat": 107.0
   },
   {
    "cat": "stock",
@@ -517,21 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-31 03:16",
-   "title": "EverCommerce CEO Eric Remer sells $230,952 of company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/evercommerce-ceo-eric-remer-sells-230952-of-company-stock-93CH-4826708",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.6
+   "heat": 106.6
   },
   {
    "cat": "stock",
@@ -545,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 86.1
+   "heat": 102.1
   },
   {
    "cat": "stock",
@@ -559,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 85.1
+   "heat": 101.1
   },
   {
    "cat": "stock",
@@ -573,49 +601,21 @@
      "t": "sec"
     }
    ],
-   "heat": 85.0
+   "heat": 101.0
   },
   {
-   "cat": "stock",
-   "time": "2026-07-29 16:30",
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-   "summary": "Stock Market: Will S&P 500 Open Up or Down Today? &nbsp;&nbsp; Benzinga",
+   "cat": "global",
+   "time": "2026-07-31 07:56",
+   "title": "Gold Heads for Monthly Gain as Japan Intervention Tames Dollar",
+   "summary": "Gold was heading for its first monthly advance since February after Japan intervened to support the yen, causing the US dollar to weaken.",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYjRKVWlSTkg2WExLa2VpY1hOU1dKUzJOYXhlNWJuVXhXcjF0ckUxQl82WkNjdXhYNS1lV2lFX3E5S19fZFVEM1YydEVOWTJSall2b01mbTN5TnRsRjkwcWJTczNmSnI4ZmVYYTJ5TFlWT2lSYWFpcllzVmQ1b2ptd1VtaFktUEJDRFlGNlBsajlsajhiUWY1OEJsNmQ2bWttNTJlS1RVZnZYeV9tcVZFUmpnYjBGeUdIc3ZQTlZCVXQ4SnF1MGdiS3htYzBtSUN5NHV6d1dPOVN5Ry1CeVJJTHN6OG4?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/gold-holds-gain-as-japan-currency-intervention-weighs-on-dollar",
      "t": "sec"
     }
    ],
-   "heat": 84.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 11:16",
-   "title": "How major US stock indexes fared Tuesday 7/28/2026 - The Washington Post",
-   "summary": "How major US stock indexes fared Tuesday 7/28/2026 &nbsp;&nbsp; The Washington Post",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTzVtY1JVOFpjdENZRHNUYmwwMHJydTkwaU5XN1pId1lTemRaNDAtbkkzNXc2bmlSTTZLMmpLWkQyRzJYZFhIczB4d1Y4NHZnTEJIMlNXSk5nYXNrN1c0TXVlY0k1c2ItbFdXcDdqOTBJbXU5Tng2dFBuUDZRMWszOHlVRE1Qem5BbUJNNUJtVnBKVDAtQzg3X0cydlFZZnNuTENFVlZsdXhqazRsMWRIYTgta1JzZUNkZHV3WHBkQkJIQ0NBRWdJ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 84.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-28 22:06",
-   "title": "US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India",
-   "summary": "US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop &nbsp;&nbsp; The Times of India",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNcGtldktQTk1HNnlEMkNJU0NzcGtWbnhzdmtQRXZTcFNsMUtucUJfdXItSGdTaTBPcDh1bzNwV0dQVW8wdDV4N2RkSDBlRjNCai0tMXpicnNVNjZheG9tdUJqOHBJSkVQX3dpdVE5TnZfNWIyaHBYcG5nT1pRRTE2MEtxdzZQTGpOV0xheDBKQUpsYnNNdTZTRWxFTzliendYSUtIeVRZX1FzM3YwMGMtWmhMa2twSlNDZjdQTENFU3ptTjZoSWhTSlk2eHNaQ2UwN3BOWkgydEhJb0RDT0pPbEk2blBaczVGb25RSkpJT1k2eG0tel94VFZEMGlNaTJVWXg3aWJCS0xRZERPSmd5M09XQmxJbzMtc0lKdk9hRmlRVVnSAagCQVVfeXFMTS1rdFpjUjRPQXI3QmxtRmhqN3ZobDFzVTlkZzlaU2pqUmcwamszQ3pVVDRXYW4zMm5qY3ZOSDBCQjZ4eFZFWEZpb0gzZ2p0LTJEakZENVU2c2hZYjFsdUJQVlNDcDkyRFNJc0NNT28wMW9hUkpsdHpTTndaX2JNX1ZuTjB0ampXX3dXMjdIT3k2emJMOWlBN2lPZl9jeW9wdU1VdzBjNlRtMVMtZkJWcExpd3lMcTBZc2lyUHVGTVdpNHB4c1VXSDFJUjZySXF2Um5nRmlTWUEwM1g1S0cza3BFOVZjMzZ4cmdRR2ZFZ3gzb09ld3pVdFhueUVqbGRKaDZlMWh0eFd6VjNFT3NOUV8xZmxYU2xjU3ZYejVHaTdqVnUyRklkZ1I?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 84.0
+   "heat": 47.4
   },
   {
    "cat": "global",
@@ -647,6 +647,34 @@
   },
   {
    "cat": "global",
+   "time": "2026-07-31 10:36",
+   "title": "Japan Preempts Market With Yen Intervention",
+   "summary": "Japan intervened in the currency market to bolster the yen, which sharply advanced as much as 3.3% versus the dollar in New York trading on Thursday. Bloomberg's Shery Ahn breaks d…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-31/japan-preempts-market-with-yen-intervention-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-31 09:12",
+   "title": "Euro softens to near 1.1500 as US-Iran war widens",
+   "summary": "The EUR/ USD pair loses ground to near 1.1515 during the early Asian trading hours on Friday. The Euro (EUR) softens against the US Dollar (USD) amid risk-off sentiment and fears o…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/euro-softens-to-near-11500-as-us-iran-war-widens-202607310112",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.6
+  },
+  {
+   "cat": "global",
    "time": "2026-07-30 09:20",
    "title": "ASX falls as oil surges on rising Middle East tensions; NAB warns on home loans - SMH.com.au",
    "summary": "ASX falls as oil surges on rising Middle East tensions; NAB warns on home loans &nbsp;&nbsp; SMH.com.au",
@@ -657,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 39.6
   },
   {
    "cat": "global",
@@ -685,7 +713,7 @@
      "t": "agg"
     }
    ],
-   "heat": 39.1
+   "heat": 39.0
   },
   {
    "cat": "global",
@@ -699,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 38.6
+   "heat": 38.5
   },
   {
    "cat": "global",
@@ -714,6 +742,20 @@
     }
    ],
    "heat": 37.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-31 11:12",
+   "title": "British Pound falls as US Dollar receives from internal FOMC policy split",
+   "summary": "GBP/USD loses ground after three days of gains, trading around 1.3450 during the Asian hours on Friday. The pair depreciates as the US Dollar (USD) gains support from a hawkish pau…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/british-pound-falls-as-us-dollar-receives-from-internal-fomc-policy-split-202607310312",
+     "t": "sec"
+    }
+   ],
+   "heat": 36.0
   },
   {
    "cat": "global",
@@ -745,34 +787,6 @@
   },
   {
    "cat": "global",
-   "time": "2026-07-31 09:12",
-   "title": "Euro softens to near 1.1500 as US-Iran war widens",
-   "summary": "The EUR/ USD pair loses ground to near 1.1515 during the early Asian trading hours on Friday. The Euro (EUR) softens against the US Dollar (USD) amid risk-off sentiment and fears o…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/euro-softens-to-near-11500-as-us-iran-war-widens-202607310112",
-     "t": "sec"
-    }
-   ],
-   "heat": 31.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 11:12",
-   "title": "British Pound falls as US Dollar receives from internal FOMC policy split",
-   "summary": "GBP/USD loses ground after three days of gains, trading around 1.3450 during the Asian hours on Friday. The pair depreciates as the US Dollar (USD) gains support from a hawkish pau…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/british-pound-falls-as-us-dollar-receives-from-internal-fomc-policy-split-202607310312",
-     "t": "sec"
-    }
-   ],
-   "heat": 28.0
-  },
-  {
-   "cat": "global",
    "time": "2026-07-31 10:13",
    "title": "Australian Dollar inches lower as China’s NBS Manufacturing PMI falls in July",
    "summary": "AUD/USD inches lower after registering over 1% gains in the previous day, trading around 0.7020 during the Asian hours on Friday. The pair remains subdued following the release of …",
@@ -783,7 +797,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.8
+   "heat": 35.8
   },
   {
    "cat": "global",
@@ -797,35 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-30 15:02",
-   "title": "Bond Vigilantes May Be US Dollar’s Best Friends",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/bond-vigilantes-may-be-us-dollars-best-friends-200684856",
-     "t": "agg"
-    }
-   ],
-   "heat": 22.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 11:21",
-   "title": "EUR/JPY rallies further above 185.00 against Japanese Yen after BoJ’s policy decision",
-   "summary": "The Euro (EUR) extends the intraday rally to near 185.20 against the Japanese Yen (JPY) after the Bank of Japan’ (BoJ) monetary policy decision during the Asian trading session on …",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/eur-jpy-rallies-further-above-18500-against-japanese-yen-after-bojs-policy-decision-202607310321",
-     "t": "sec"
-    }
-   ],
-   "heat": 16.0
+   "heat": 35.7
   },
   {
    "cat": "crypto",
@@ -839,119 +825,35 @@
      "t": "sec"
     }
    ],
-   "heat": 74.8
+   "heat": 106.8
   },
   {
    "cat": "crypto",
-   "time": "2026-07-31 05:54",
-   "title": "US Senators sent revised ethics rules to White House for CLARITY Act: Report",
-   "summary": "The window to pass a comprehensive crypto market structure bill before the Senate breaks for a month-long recess is closing, with ethics a dividing issue for many lawmakers.",
+   "time": "2026-07-31 05:37",
+   "title": "‘Bitcoin Senator’ Cynthia Lummis Blasts Democrats For Stalling Crypto Clarity Act",
+   "summary": "Bitcoin Magazine &#8216;Bitcoin Senator&#8217; Cynthia Lummis Blasts Democrats For Stalling Crypto Clarity Act Republican Senator Cynthia Lummis has again attacked the Democrats fo…",
    "srcs": [
     {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/news/cynthia-lummis-blasts-democrats-on-clarity",
      "t": "sec"
     }
    ],
-   "heat": 51.1
+   "heat": 95.0
   },
   {
    "cat": "crypto",
-   "time": "2026-07-31 03:45",
-   "title": "Senator Schumer proposes agency to address corruption, including Trump’s crypto ventures",
-   "summary": "The proposed legislation referenced Donald Trump’s disclosure of billions of dollars in crypto earnings in 2025, as well as his family’s business ties to foreign governments.",
+   "time": "2026-07-31 00:45",
+   "title": "Professional Law Enforcement Group Backs Crypto’s CLARITY Act, Adding Pressure Before August Recess",
+   "summary": "Bitcoin Magazine Professional Law Enforcement Group Backs Crypto&#8217;s CLARITY Act, Adding Pressure Before August Recess The Major Cities Chiefs Association is the latest to thro…",
    "srcs": [
     {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/senate-government-agency-donald-trump-cryptocurrency-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/news/law-enforcement-group-backs-clarity-act",
      "t": "sec"
     }
    ],
-   "heat": 42.7
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-31 01:03",
-   "title": "Canadian crypto ownership increases to 25%: Ontario survey",
-   "summary": "A survey of more than 2,000 Canadians in late 2025 and early 2026 showed an increasing awareness of risk around the crypto industry and higher ownership of assets.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/canadians-ownership-crypto-osc-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 42.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-31 00:04",
-   "title": "Ondo Finance weighs acquisition worth up to $500 million",
-   "summary": "The tokenized-assets firm is considering an acquisition valued at $250 million to $500 million as consolidation accelerates across crypto infrastructure.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/07/30/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
-     "t": "sec"
-    }
-   ],
-   "heat": 42.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-30 23:00",
-   "title": "Crypto for Advisors: Is the Clarity Act dead?",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/coindesk-indices/2026/07/30/crypto-for-advisors-is-the-clarity-act-dead",
-     "t": "sec"
-    }
-   ],
-   "heat": 41.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-30 22:06",
-   "title": "JPMorgan says fading Clarity Act odds weigh on crypto outlook",
-   "summary": "The bank said deteriorating prospects for U.S. market structure legislation remove a key catalyst for digital assets, even as tokenization and institutional adoption advance.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook",
-     "t": "sec"
-    }
-   ],
-   "heat": 41.8
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-30 21:55",
-   "title": "Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings",
-   "summary": "A new report from market maker Wintermute found that institutions now dominate crypto trading, driving lower volatility, selective altcoin flows and growth in tokenized assets.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/07/30/institutional-trading-hits-a-record-72-as-wall-street-quietens-down-crypto-s-wild-swings",
-     "t": "sec"
-    }
-   ],
-   "heat": 41.8
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-30 21:00",
-   "title": "Everything is becoming a perp",
-   "summary": "The perpetual — the 24/7, leveraged contract that crypto invented and then perfected — is no longer just a way to trade crypto, says Katana Network’s Matthew Fisher. It’s becoming …",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp",
-     "t": "sec"
-    }
-   ],
-   "heat": 41.6
+   "heat": 94.2
   },
   {
    "cat": "crypto",
@@ -965,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.9
+   "heat": 63.9
   },
   {
    "cat": "crypto",
@@ -979,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.5
+   "heat": 63.5
   },
   {
    "cat": "crypto",
@@ -993,7 +895,21 @@
      "t": "sec"
     }
    ],
-   "heat": 31.0
+   "heat": 63.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-31 05:00",
+   "title": "Bitcoin Treasury Strategy Posts $8.2B Loss As BTC Price Suffered",
+   "summary": "Bitcoin Magazine Bitcoin Treasury Strategy Posts $8.2B Loss As BTC Price Suffered The Bitcoin treasury company posted massive losses but aims to continue making digital credit a \"n…",
+   "srcs": [
+    {
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/news/bitcoin-treasury-strategy-posts-loss",
+     "t": "sec"
+    }
+   ],
+   "heat": 62.9
   },
   {
    "cat": "crypto",
@@ -1007,7 +923,35 @@
      "t": "sec"
     }
    ],
-   "heat": 30.9
+   "heat": 62.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-31 03:57",
+   "title": "Legendary Investor Ray Dalio Still Holds Bitcoin — But Only 1% of His Portfolio",
+   "summary": "Bitcoin Magazine Legendary Investor Ray Dalio Still Holds Bitcoin — But Only 1% of His Portfolio Ray Dalio still prefers the precious metal over \"digital gold.\" This post Legendary…",
+   "srcs": [
+    {
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/news/ray-dalio-prefers-gold-over-bitcoin",
+     "t": "sec"
+    }
+   ],
+   "heat": 62.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-31 02:07",
+   "title": "Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto",
+   "summary": "Bitcoin Magazine Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto The Treasury Secretary slammed Democrats for holding back the land…",
+   "srcs": [
+    {
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/news/scott-bessent-urges-vote-on-clarity-act",
+     "t": "sec"
+    }
+   ],
+   "heat": 62.4
   },
   {
    "cat": "crypto",
@@ -1021,35 +965,91 @@
      "t": "sec"
     }
    ],
-   "heat": 30.2
+   "heat": 62.1
   },
   {
    "cat": "crypto",
-   "time": "2026-07-31 05:04",
-   "title": "World Cup generated $20B in blockchain prediction market volume: Chainalysis",
-   "summary": "The blockchain analytics firm said the World Cup attracted global participation in prediction markets and digital collectibles, with more than 400,000 wallets placing blockchain-ba…",
+   "time": "2026-07-30 23:28",
+   "title": "NYSE-Listed AI Company Taps Lightning Network to Pay Employees In Bitcoin",
+   "summary": "Bitcoin Magazine NYSE-Listed AI Company Taps Lightning Network to Pay Employees In Bitcoin Some of the company's laser-eyed employees wanted their salaries in Bitcoin. It was easie…",
    "srcs": [
     {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/world-cup-generated-20b-prediction-market-volume-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/news/ai-company-pays-employees-in-bitcoin",
      "t": "sec"
     }
    ],
-   "heat": 22.9
+   "heat": 62.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-30 22:02",
+   "title": "Spanish Bank Banco Santander Reveals $4.3M Bitcoin Investment",
+   "summary": "Bitcoin Magazine Spanish Bank Banco Santander Reveals $4.3M Bitcoin Investment Spain's largest bank is the latest to buy Bitcoin exposure via BlackRock's IBIT ETF. This post Spanis…",
+   "srcs": [
+    {
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/news/spanish-bank-banco-santander-buys-bitcoin",
+     "t": "sec"
+    }
+   ],
+   "heat": 61.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-30 22:00",
+   "title": "Bitchat Mesh App Defies India Cybercrime Notice After Protesters Use It During Network Restrictions",
+   "summary": "Bitcoin Magazine Bitchat Mesh App Defies India Cybercrime Notice After Protesters Use It During Network Restrictions The open-source Bitchat app, designed to work without internet …",
+   "srcs": [
+    {
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/politics/bitchat-mesh-app-defies-india-cybercrime-notice-after-protesters-use-it-during-network-restrictions",
+     "t": "sec"
+    }
+   ],
+   "heat": 61.8
   },
   {
    "cat": "sector",
-   "time": "2026-07-27 22:33",
-   "title": "18:24:03【汇丰控股将在新加坡设全球人工智能卓越中心 并招聘超100名AI专家】",
-   "summary": "18:24:03【汇丰控股将在新加坡设全球人工智能卓越中心 并招聘超100名AI专家】 &nbsp;&nbsp; 财联社",
+   "time": "2026-07-29 19:57",
+   "title": "19:57:57【联电业绩亮眼且上调资本开支 AI订单从GPU外溢至成熟制程】",
+   "summary": "19:57:57【联电业绩亮眼且上调资本开支 AI订单从GPU外溢至成熟制程】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03LWhLejMwSFMxU1FpYTZUemtQS1pZVHZOZlBFMURvWEIwSW83S0xmcVh2QktHcFRuUDRRMnZMeml6TDN2TU9nRg?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PRk14SWU0WXdMTEdFTW5zclg2Tm1wMzZULUFPb1BaRFI3MlRwbkdwOWp5SC1sTnA5bWtTbFA0eWRYbGs2Z1FZeg?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 152.0
+   "heat": 213.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-31 03:16",
+   "title": "Park Aerospace COO Esquivel sells $1.98m in shares",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/park-aerospace-coo-esquivel-sells-198m-in-shares-93CH-4826707",
+     "t": "agg"
+    }
+   ],
+   "heat": 36.6
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-31 00:04",
+   "title": "Ondo Finance weighs acquisition worth up to $500 million",
+   "summary": "The tokenized-assets firm is considering an acquisition valued at $250 million to $500 million as consolidation accelerates across crypto infrastructure.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/07/30/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
+     "t": "sec"
+    }
+   ],
+   "heat": 50.1
   }
  ]
 }

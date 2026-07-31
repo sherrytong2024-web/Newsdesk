@@ -31,6 +31,7 @@
 """
 
 import urllib.request
+import urllib.parse
 import ssl
 import xml.etree.ElementTree as ET
 import email.utils
@@ -280,13 +281,135 @@ def replace_time(html, ts):
     return re.sub(r"数据快照 [0-9:\- ]+ \(GMT\+8\)", f"数据快照 {ts} (GMT+8)", html)
 
 
+# ─────────────────────────────────────────────────────────────
+# 实时指数行情（腾讯财经 + Yahoo Finance 双源兜底，无需 token）
+# 旧版 INDEX 为写死假数据，现改为每次刷新真实抓取并注入 HTML。
+# ─────────────────────────────────────────────────────────────
+# src: tencent=腾讯财经公开行情(gbk)；yahoo=Yahoo Finance 免费 JSON
+# tencent s_ 格式: name~code~price~涨跌额~涨跌幅%~
+# tencent hf_ 格式(商品/贵金属): price,涨跌幅%,open,high,low,...
+INDEX_DEFS = [
+    {"nm": "道指",    "src": "tencent", "code": "s_usDJI"},
+    {"nm": "标普500", "src": "tencent", "code": "s_usINX"},
+    {"nm": "纳指",    "src": "tencent", "code": "s_usIXIC"},
+    {"nm": "上证",    "src": "tencent", "code": "s_sh000001"},
+    {"nm": "深成指",  "src": "tencent", "code": "s_sz399001"},
+    {"nm": "创业板",  "src": "tencent", "code": "s_sz399006"},
+    {"nm": "恒生",    "src": "tencent", "code": "s_hkHSI"},
+    {"nm": "日经225", "src": "yahoo",   "code": "^N225"},
+    {"nm": "韩国KOSPI", "src": "yahoo", "code": "^KS11"},
+    {"nm": "黄金",    "src": "tencent", "code": "hf_GC"},
+    {"nm": "WTI原油", "src": "tencent", "code": "hf_CL"},
+    {"nm": "美元指数", "src": "yahoo",   "code": "DX-Y.NYB"},
+]
+
+
+def _fmt_num(x):
+    """保留 2 位小数，去掉多余的 0 与小数点（如 100.20→100.2, 64572.25→64572.25）"""
+    s = f"{x:.2f}".rstrip("0").rstrip(".")
+    return s
+
+
+def fetch_tencent_quotes(codes):
+    """返回 {code: (price, chg_pct)}；任一失败返回已抓到的部分"""
+    out = {}
+    if not codes:
+        return out
+    try:
+        url = "https://qt.gtimg.cn/q=" + ",".join(codes)
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=15, context=CTX) as r:
+            raw = r.read().decode("gbk", "ignore")
+        for line in raw.split("\n"):
+            line = line.strip()
+            if not line or "=" not in line:
+                continue
+            key = line.split("=", 1)[0].replace("v_", "")
+            m = re.search(r'"([^"]*)"', line)
+            if not m:
+                continue
+            payload = m.group(1)
+            try:
+                if "~" in payload:           # s_ 指数快照格式
+                    parts = payload.split("~")
+                    price = float(parts[3])
+                    chg = float(parts[5])
+                else:                         # hf_ 商品/贵金属格式（逗号分隔）
+                    parts = payload.split(",")
+                    price = float(parts[0])
+                    chg = float(parts[1])
+                out[key] = (price, chg)
+            except (ValueError, IndexError):
+                continue
+    except Exception as e:
+        sys.stderr.write(f"[WARN] 腾讯行情拉取失败: {type(e).__name__}: {str(e)[:60]}\n")
+    return out
+
+
+def fetch_yahoo_quotes(symbols):
+    """返回 {symbol: (price, chg_pct)}；单只失败不影响其余"""
+    out = {}
+    for sym in symbols:
+        url = "https://query1.finance.yahoo.com/v8/finance/chart/" + urllib.parse.quote(sym) + "?range=1d&interval=1d"
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=12, context=CTX) as r:
+                d = json.load(r)
+            meta = d["chart"]["result"][0]["meta"]
+            price = meta.get("regularMarketPrice")
+            prev = meta.get("chartPreviousClose") or meta.get("previousClose")
+            if price is None or not prev:
+                continue
+            chg = (float(price) / float(prev) - 1) * 100
+            out[sym] = (float(price), chg)
+        except Exception as e:
+            sys.stderr.write(f"[WARN] Yahoo 行情 {sym} 失败: {type(e).__name__}: {str(e)[:40]}\n")
+    return out
+
+
+def fetch_all_indices():
+    """抓取全部指数，返回 [{nm, v, ch}, ...]；某源全挂则对应项缺失，由调用方兜底"""
+    tc_codes = [d["code"] for d in INDEX_DEFS if d["src"] == "tencent"]
+    yh_syms = [d["code"] for d in INDEX_DEFS if d["src"] == "yahoo"]
+    tc = fetch_tencent_quotes(tc_codes)
+    yh = fetch_yahoo_quotes(yh_syms)
+    res = []
+    for d in INDEX_DEFS:
+        src = tc if d["src"] == "tencent" else yh
+        if d["code"] in src:
+            price, chg = src[d["code"]]
+            res.append({"nm": d["nm"], "v": _fmt_num(price), "ch": round(chg, 2)})
+    return res
+
+
+def replace_index_block(html, index_js):
+    lines = html.split("\n")
+    start = None
+    for i, ln in enumerate(lines):
+        s = ln.strip()
+        if s.startswith("let INDEX = [") or s.startswith("const INDEX = ["):
+            start = i
+            break
+    if start is None:
+        raise RuntimeError("未在 HTML 中找到 'let INDEX = [' 标记，无法注入行情")
+    end = None
+    for i in range(start + 1, len(lines)):
+        if lines[i].strip() == "];":
+            end = i
+            break
+    if end is None:
+        raise RuntimeError("未找到 INDEX 数组结束 '];'")
+    block = "let INDEX = [\n" + index_js + "\n];"
+    return "\n".join(lines[:start] + [block] + lines[end + 1:])
+
+
 def git_commit_push(workdir, msg):
     """若当前目录是 git 仓库且已配置 remote，则自动提交并推送。失败不影响本地文件。"""
     if os.environ.get("NEWSDESK_NO_PUSH"):
         sys.stderr.write("[INFO] 跳过本地 git 推送（由 CI/工作流负责）\n")
         return
     try:
-        subprocess.run(["git", "-C", workdir, "add", "news.json", "hot.json", "financial-news-desk.html", "archive", "index.html", "update_news.py", ".github/workflows/refresh.yml"],
+        subprocess.run(["git", "-C", workdir, "add", "news.json", "hot.json", "indices.json", "financial-news-desk.html", "archive", "index.html", "update_news.py", ".github/workflows/refresh-news.yml"],
                        check=True, capture_output=True, timeout=30)
         subprocess.run(["git", "-C", workdir, "commit", "-m", msg],
                        check=True, capture_output=True, timeout=30)
@@ -383,6 +506,30 @@ def main():
     html = replace_news_block(html, news_js)
     ts = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
     html = replace_time(html, ts)
+
+    # 5b) 抓取并注入实时指数行情（与新闻同一条流水线，每 3h / 点刷新均更新）
+    _out_dir = os.path.dirname(os.path.abspath(args.out))
+    _idx_path = os.path.join(_out_dir, "indices.json")
+    try:
+        indices = fetch_all_indices()
+        if not indices:  # 双源皆失败 → 回退上一次成功数据，避免滚动条变空白
+            try:
+                with open(_idx_path, "r", encoding="utf-8") as f:
+                    indices = json.load(f).get("items", [])
+                sys.stderr.write(f"[WARN] 实时行情抓取失败，回退上次 {len(indices)} 条\n")
+            except Exception:
+                indices = []
+        if indices:
+            index_js = ",\n".join(json.dumps(it, ensure_ascii=False) for it in indices)
+            html = replace_index_block(html, index_js)
+            with open(_idx_path, "w", encoding="utf-8") as f:
+                json.dump({"updated": ts, "items": indices}, f, ensure_ascii=False, indent=1)
+            sys.stderr.write(f"[OK] 指数行情 {len(indices)} 条已注入（腾讯+Yahoo 双源）\n")
+        else:
+            sys.stderr.write("[WARN] 无可用指数数据，滚动条将暂为空\n")
+    except Exception as e:
+        sys.stderr.write(f"[WARN] 指数注入失败（保留上次数据）: {type(e).__name__}: {str(e)[:80]}\n")
+
     with open(args.out, "w", encoding="utf-8") as f:
         f.write(html)
 
