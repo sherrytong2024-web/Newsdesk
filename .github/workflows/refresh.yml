@@ -15,50 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-
-      - name: Debug info
-        run: |
-          echo "=== Python ==="
-          which python3
-          python3 --version
-          echo "=== CWD ==="
-          pwd
-          echo "=== outputs/ ==="
-          ls -la outputs/ 2>&1 || echo "outputs/ missing!"
-          echo "=== HTML exists? ==="
-          test -f outputs/financial-news-desk.html && echo "YES" || echo "NO"
-          echo "=== Script exists? ==="
-          test -f outputs/update_news.py && echo "YES" || echo "NO"
-          echo "=== HTML marker ==="
-          grep -n "let NEWS" outputs/financial-news-desk.html 2>&1 || echo "NOT FOUND"
-
-      - name: Bash sanity check
-        run: |
-          echo "=== bash works ==="
-          pwd
-          ls outputs/
-          echo "=== which python3 ==="
-          which python3 || echo "NOT FOUND"
-          python3 --version || echo "VERSION FAIL"
-          echo "=== python3 hello ==="
-          python3 -c "print('hello')" || echo "HELLO FAIL"
-
-      - name: Import test
-        run: python3 -u outputs/_ci_test.py 2>&1
 
       - name: Run update_news.py
         run: |
-          set +e
-          python3 -u outputs/update_news.py 2>&1
-          EXIT_CODE=$?
-          echo "=== SCRIPT EXIT CODE: $EXIT_CODE ==="
-          exit $EXIT_CODE
+          python3 outputs/update_news.py 2>&1
         env:
           NEWSDESK_NO_PUSH: "1"
 
