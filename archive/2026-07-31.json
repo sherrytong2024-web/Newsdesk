@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31 10:12",
+ "updated": "2026-07-31 10:39",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.8
+   "heat": 62.7
   },
   {
    "cat": "macro",
@@ -27,21 +27,21 @@
      "t": "sec"
     }
    ],
-   "heat": 53.2
+   "heat": 61.1
   },
   {
    "cat": "macro",
-   "time": "2026-07-31 06:52",
-   "title": "Japan Preempts Market With Yen Intervention Before BOJ Decision",
-   "summary": "Japan waded back into the currency market just before its central bank decides on interest rates in an intervention that showed signs of support from the US.",
+   "time": "2026-07-31 10:31",
+   "title": "Rising US Yields May Complicate RBI’s Strategy on Rates and the Rupee",
+   "summary": "If US yields keep rising, the RBI could face growing pressure to keep policy tighter.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/yen-surges-after-japan-intervened-in-market-again-ahead-of-boj",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-07-31/rising-us-yields-may-complicate-rbi-s-strategy-on-rates-and-the-rupee",
      "t": "sec"
     }
    ],
-   "heat": 51.4
+   "heat": 60.0
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.2
+   "heat": 57.2
   },
   {
    "cat": "macro",
@@ -69,7 +69,21 @@
      "t": "sec"
     }
    ],
-   "heat": 48.0
+   "heat": 56.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-31 10:15",
+   "title": "JPY/USD: BOJ Rate Decision Awaited After Yen Intervention",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/live-blog/2026-07-31/bank-of-japan-monetary-policy-decision",
+     "t": "sec"
+    }
+   ],
+   "heat": 55.9
   },
   {
    "cat": "macro",
@@ -83,7 +97,21 @@
      "t": "sec"
     }
    ],
-   "heat": 47.5
+   "heat": 55.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-31 06:52",
+   "title": "Japan Preempts Market With Yen Intervention Before BOJ Decision",
+   "summary": "Japan waded back into the currency market just before its central bank decides on interest rates in an intervention that showed signs of support from the US.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/yen-surges-after-japan-intervened-in-market-again-ahead-of-boj",
+     "t": "sec"
+    }
+   ],
+   "heat": 55.4
   },
   {
    "cat": "macro",
@@ -97,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.3
+   "heat": 55.2
   },
   {
    "cat": "macro",
@@ -111,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.3
+   "heat": 54.2
   },
   {
    "cat": "macro",
@@ -125,7 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 48.0
   },
   {
    "cat": "macro",
@@ -139,7 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 48.0
   },
   {
    "cat": "macro",
@@ -167,49 +195,21 @@
      "t": "agg"
     }
    ],
-   "heat": 27.5
+   "heat": 27.4
   },
   {
    "cat": "macro",
-   "time": "2026-07-31 07:55",
-   "title": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market (copy) - Santa Maria ",
-   "summary": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market (copy) &nbsp;&nbsp; Santa Maria Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMDFxWnRxb0JzX2lHb3I1ejRSWFlHRlotWHZYZ01jVjdWUFRmVjNMbnZHSTl3YzlCVEoyeTZ2d0xCNXF2ZjlGaHQwbnNhQ0dWMkhZeEFIZXBTSkV1VTVRVTV5bVo3N0dyeVhNUDk5X1ZWTi0tVm81anJRUmxRa0J6dDQ5a1c3QUgyTDJ4UmMyVGtmRlpYS0NHRVFsRXVSTkQ5ZTZGdzFRWXVhZVl4THdHbVFBajRJd3RQNzI3MV81ajJIckF6MkJGSVdub1NMTHI5Q2xuSndjNGdzV0dPWXFRbFlaMk5Tbkw5Qkw0N3FHWlRIZUZBS2hNMVU0RVBGTnFIVzhpZE1EQUhwbTA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 15.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-31 01:54",
-   "title": "Yen weakens after intervention-led surge ahead of BOJ policy decision",
+   "time": "2026-07-30 22:26",
+   "title": "Gold Outlook Weakens as Treasury Yields and Inflation Risks Persist",
    "summary": "",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/yen-weakens-after-interventionled-surge-ahead-of-boj-policy-decision-4826616",
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-outlook-weakens-as-treasury-yields-and-inflation-risks-persist-200684901",
      "t": "agg"
     }
    ],
-   "heat": 12.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-31 00:43",
-   "title": "Yen Spikes on Intervention Rumours After Weak US GDP",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/yen-spikes-on-intervention-rumours-after-weak-us-gdp-200684912",
-     "t": "agg"
-    }
-   ],
-   "heat": 12.4
+   "heat": 16.0
   },
   {
    "cat": "sector",
@@ -223,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
+   "heat": 223.9
   },
   {
    "cat": "sector",
@@ -237,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.7
+   "heat": 223.6
   },
   {
    "cat": "sector",
@@ -251,21 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 06:29",
-   "title": "Spencer Stuart’s Citrin on Apple’s CEO Succession Plan",
-   "summary": "Jim Citrin, Chair, Global CEO Practice at Spencer Stuart, discusses the upcoming CEO transition at Apple as Tim Cook prepares to step down on September 1, with John Turner set to t…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-30/spencer-stuart-s-citrin-on-apple-s-ceo-succession-plan-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.4
+   "heat": 223.6
   },
   {
    "cat": "sector",
@@ -279,7 +265,21 @@
      "t": "sec"
     }
    ],
-   "heat": 213.2
+   "heat": 221.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 10:29",
+   "title": "What We Know So Far About Hacking by Anthropic AI Models",
+   "summary": "Here's what we know so far about Anthropic's AI models breaching three organizations during cybersecurity tests which went awry. (Source: Bloomberg)",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-31/what-we-know-so-far-about-hacking-by-anthropic-ai-models-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 220.0
   },
   {
    "cat": "sector",
@@ -293,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.9
+   "heat": 219.8
   },
   {
    "cat": "sector",
@@ -307,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.8
+   "heat": 219.8
   },
   {
    "cat": "sector",
@@ -321,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.8
+   "heat": 219.7
   },
   {
    "cat": "sector",
@@ -335,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.8
+   "heat": 219.7
   },
   {
    "cat": "sector",
@@ -349,21 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 07:06",
-   "title": "California’s Atherton Reclaimed Spot of Priciest US ZIP Code",
-   "summary": "Atherton has reclaimed the top spot of priciest area in the US, encapsulating Silicon Valley’s allure for the ultrawealthy as well as darker realities of inequality in California",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-07-30/california-s-atherton-reclaimed-spot-of-priciest-us-zip-code",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.5
+   "heat": 219.6
   },
   {
    "cat": "sector",
@@ -377,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.5
+   "heat": 219.4
   },
   {
    "cat": "sector",
@@ -391,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.5
+   "heat": 219.4
   },
   {
    "cat": "sector",
@@ -405,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.4
+   "heat": 219.4
   },
   {
    "cat": "stock",
@@ -419,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 140.0
+   "heat": 148.0
   },
   {
    "cat": "stock",
@@ -433,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 140.0
+   "heat": 148.0
   },
   {
    "cat": "stock",
@@ -447,21 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 123.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-31 06:15",
-   "title": "Record Korean Rally Lifts Stocks, Yen Pares Gains: Markets Wrap",
-   "summary": "South Korean stocks posted a record intraday gain, boosting Asian shares as investors renewed bets on the artificial intelligence trade after this week’s rout. The yen weakened, gi…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates",
-     "t": "sec"
-    }
-   ],
-   "heat": 123.3
+   "heat": 123.7
   },
   {
    "cat": "stock",
@@ -475,13 +447,41 @@
      "t": "sec"
     }
    ],
-   "heat": 123.0
+   "heat": 122.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-31 10:18",
+   "title": "Wild Tech Stock Swings Spur Retail Traders to Cut Margin Loans",
+   "summary": "Retail investors have cut their margin loans in South Korea, Taiwan and mainland China, underscoring how a collapse in technology stocks in recent weeks has forced them to close ou…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/wild-tech-stock-swings-spur-retail-traders-to-cut-margin-loans",
+     "t": "sec"
+    }
+   ],
+   "heat": 111.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-31 07:59",
+   "title": "Australia Pension Cuts Local Stocks for Global, Emerging Markets",
+   "summary": "Australian pension fund Cbus Super is cutting its exposure to domestic stocks in favor of global and emerging markets, becoming the latest institutional investor to curb its relian…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/australia-pension-cuts-local-stocks-for-global-emerging-markets",
+     "t": "sec"
+    }
+   ],
+   "heat": 111.6
   },
   {
    "cat": "stock",
    "time": "2026-07-31 07:50",
-   "title": "Korean Stocks Jump Record 15% on Renewed AI Trade Optimism",
-   "summary": "South Korean stocks climbed by a record on Friday, rebounding from steep losses earlier this week, as major technology firms’ spending plans refueled optimism in the artificial int…",
+   "title": "Korean Stocks Surge by Record 17% as AI Trade Optimism Rebounds",
+   "summary": "South Korean stocks jumped by a record, rebounding from a rout earlier this week, on optimism the unwinding of leveraged trades is nearing its end and the artificial intelligence b…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -489,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.6
+   "heat": 111.5
   },
   {
    "cat": "stock",
@@ -503,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.4
+   "heat": 111.3
   },
   {
    "cat": "stock",
@@ -517,7 +517,21 @@
      "t": "sec"
     }
    ],
-   "heat": 107.4
+   "heat": 111.3
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-31 06:15",
+   "title": "Asian Stocks Rally as Korea Surges, Yen Pares Gain: Markets Wrap",
+   "summary": "Asian stocks rallied after South Korean equities posted a record intraday gain, as investors renewed bets on the artificial intelligence trade following this week’s rout. The yen w…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 111.3
   },
   {
    "cat": "stock",
@@ -531,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.2
+   "heat": 111.1
   },
   {
    "cat": "stock",
@@ -545,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 106.9
+   "heat": 110.8
   },
   {
    "cat": "stock",
@@ -559,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 102.3
+   "heat": 106.2
   },
   {
    "cat": "stock",
@@ -573,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 101.3
+   "heat": 105.2
   },
   {
    "cat": "stock",
@@ -587,35 +601,21 @@
      "t": "sec"
     }
    ],
-   "heat": 101.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 16:30",
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-   "summary": "Stock Market: Will S&P 500 Open Up or Down Today? &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYjRKVWlSTkg2WExLa2VpY1hOU1dKUzJOYXhlNWJuVXhXcjF0ckUxQl82WkNjdXhYNS1lV2lFX3E5S19fZFVEM1YydEVOWTJSall2b01mbTN5TnRsRjkwcWJTczNmSnI4ZmVYYTJ5TFlWT2lSYWFpcllzVmQ1b2ptd1VtaFktUEJDRFlGNlBsajlsajhiUWY1OEJsNmQ2bWttNTJlS1RVZnZYeV9tcVZFUmpnYjBGeUdIc3ZQTlZCVXQ4SnF1MGdiS3htYzBtSUN5NHV6d1dPOVN5Ry1CeVJJTHN6OG4?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 101.0
+   "heat": 105.1
   },
   {
    "cat": "global",
-   "time": "2026-07-31 07:56",
-   "title": "Gold Holds Gain as Japan Currency Intervention Weighs on Dollar",
-   "summary": "Gold held a two-day gain, supported by a sharp decline in the US dollar after Japan intervened to bolster the yen.",
+   "time": "2026-07-31 10:36",
+   "title": "Japan Preempts Market With Yen Intervention",
+   "summary": "Japan intervened in the currency market to bolster the yen, which sharply advanced as much as 3.3% versus the dollar in New York trading on Thursday. Bloomberg's Shery Ahn breaks d…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/gold-holds-gain-as-japan-currency-intervention-weighs-on-dollar",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-31/japan-preempts-market-with-yen-intervention-video",
      "t": "sec"
     }
    ],
-   "heat": 43.6
+   "heat": 36.0
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.8
+   "heat": 35.7
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 31.4
+   "heat": 31.3
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "agg"
     }
    ],
-   "heat": 30.8
+   "heat": 30.7
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 29.6
+   "heat": 29.5
   },
   {
    "cat": "global",
@@ -717,6 +717,20 @@
   },
   {
    "cat": "global",
+   "time": "2026-07-31 10:13",
+   "title": "Australian Dollar inches lower as China’s NBS Manufacturing PMI falls in July",
+   "summary": "AUD/USD inches lower after registering over 1% gains in the previous day, trading around 0.7020 during the Asian hours on Friday. The pair remains subdued following the release of …",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/australian-dollar-inches-lower-as-chinas-nbs-manufacturing-pmi-falls-in-july-202607310213",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.9
+  },
+  {
+   "cat": "global",
    "time": "2026-07-31 09:24",
    "title": "New Zealand Dollar holds losses following China PMI data",
    "summary": "NZD/USD loses ground after three days of gains, trading around 0.5870 during the Asian hours on Friday. The pair remains subdued following the release of China's Purchasing Manager…",
@@ -727,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.9
+   "heat": 27.8
   },
   {
    "cat": "global",
@@ -741,21 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 07:23",
-   "title": "Gold edges higher above $4,100 as traders trim Fed hike bets",
-   "summary": "Gold price (XAU/USD) gains momentum to around $4,110 during the early Asian session on Friday. The precious metal edges higher as traders reduce their bets on interest rate hikes a…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/gold-edges-higher-above-4-100-as-traders-trim-fed-hike-bets-202607302323",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.5
+   "heat": 27.8
   },
   {
    "cat": "global",
@@ -769,21 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 22.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-30 22:37",
-   "title": "Gold Faces Directional Risk as Trump’s Iran Stance Keeps Shifting",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-faces-directional-risk-as-trumps-iran-stance-keeps-shifting-200684903",
-     "t": "agg"
-    }
-   ],
-   "heat": 20.1
+   "heat": 26.7
   },
   {
    "cat": "global",
@@ -797,21 +783,35 @@
      "t": "sec"
     }
    ],
-   "heat": 19.5
+   "heat": 19.4
   },
   {
    "cat": "global",
-   "time": "2026-07-30 19:22",
-   "title": "Why War Hurt Gold at First — and Why the Safe-Haven Trade Is Back",
-   "summary": "",
+   "time": "2026-07-31 06:00",
+   "title": "Bank of Japan set to keep interest rates unchanged as markets seek tightening clues",
+   "summary": "Investors are turning their attention to the Bank of Japan’s (BoJ) monetary policy announcement on Friday, after the Japanese Yen (JPY) staged a dramatic rebound during Thursday's …",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/why-war-hurt-gold-at-first--and-why-the-safehaven-trade-is-back-200684885",
-     "t": "agg"
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/bank-of-japan-set-to-keep-interest-rates-unchanged-after-suspected-yen-intervention-202607302200",
+     "t": "sec"
     }
    ],
-   "heat": 19.5
+   "heat": 19.2
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-31 08:43",
+   "title": "Hong Kong Resurrects China Bond Futures With Liquidity in Focus",
+   "summary": "It may be third time lucky when Hong Kong launches Chinese government bond futures on Monday, as Beijing pushes to offer a hedging tool key to the globalization of its debt market …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/hong-kong-resurrects-china-bond-futures-with-liquidity-in-focus",
+     "t": "sec"
+    }
+   ],
+   "heat": 15.7
   },
   {
    "cat": "crypto",
@@ -825,217 +825,49 @@
      "t": "sec"
     }
    ],
-   "heat": 107.0
+   "heat": 74.9
   },
   {
    "cat": "crypto",
-   "time": "2026-07-31 05:37",
-   "title": "‘Bitcoin Senator’ Cynthia Lummis Blasts Democrats For Stalling Crypto Clarity Act",
-   "summary": "Bitcoin Magazine &#8216;Bitcoin Senator&#8217; Cynthia Lummis Blasts Democrats For Stalling Crypto Clarity Act Republican Senator Cynthia Lummis has again attacked the Democrats fo…",
-   "srcs": [
-    {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/news/cynthia-lummis-blasts-democrats-on-clarity",
-     "t": "sec"
-    }
-   ],
-   "heat": 95.2
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-31 00:45",
-   "title": "Professional Law Enforcement Group Backs Crypto’s CLARITY Act, Adding Pressure Before August Recess",
-   "summary": "Bitcoin Magazine Professional Law Enforcement Group Backs Crypto&#8217;s CLARITY Act, Adding Pressure Before August Recess The Major Cities Chiefs Association is the latest to thro…",
-   "srcs": [
-    {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/news/law-enforcement-group-backs-clarity-act",
-     "t": "sec"
-    }
-   ],
-   "heat": 94.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-31 08:31",
-   "title": "Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury",
-   "summary": "3iQ will manage an undisclosed portion of Gelephu Mindfulness City’s Bitcoin treasury as Bhutan develops a digital-asset investment hub.",
+   "time": "2026-07-31 05:54",
+   "title": "US Senators sent revised ethics rules to White House for CLARITY Act: Report",
+   "summary": "The window to pass a comprehensive crypto market structure bill before the Senate breaks for a month-long recess is closing, with ethics a dividing issue for many lawmakers.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/bhutan-gelephu-3iq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 63.7
+   "heat": 51.2
   },
   {
    "cat": "crypto",
-   "time": "2026-07-31 05:36",
-   "title": "Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses",
-   "summary": "The Bitcoin treasury company said it has built a $3.75 billion cash reserve to support preferred stock payouts following the launch of its BTC monetization program.",
+   "time": "2026-07-31 03:45",
+   "title": "Senator Schumer proposes agency to address corruption, including Trump’s crypto ventures",
+   "summary": "The proposed legislation referenced Donald Trump’s disclosure of billions of dollars in crypto earnings in 2025, as well as his family’s business ties to foreign governments.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/strategy-reports-q2-2026-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/news/senate-government-agency-donald-trump-cryptocurrency-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 63.2
+   "heat": 42.8
   },
   {
    "cat": "crypto",
-   "time": "2026-07-31 05:00",
-   "title": "Bitcoin Treasury Strategy Posts $8.2B Loss As BTC Price Suffered",
-   "summary": "Bitcoin Magazine Bitcoin Treasury Strategy Posts $8.2B Loss As BTC Price Suffered The Bitcoin treasury company posted massive losses but aims to continue making digital credit a \"n…",
-   "srcs": [
-    {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/news/bitcoin-treasury-strategy-posts-loss",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-31 04:32",
-   "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
-   "summary": "The world's largest corporate bitcoin holder says it has built a cash reserve covering more than two years of dividend payments after investors questioned its growing stack of pref…",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-31 03:57",
-   "title": "Legendary Investor Ray Dalio Still Holds Bitcoin — But Only 1% of His Portfolio",
-   "summary": "Bitcoin Magazine Legendary Investor Ray Dalio Still Holds Bitcoin — But Only 1% of His Portfolio Ray Dalio still prefers the precious metal over \"digital gold.\" This post Legendary…",
-   "srcs": [
-    {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/news/ray-dalio-prefers-gold-over-bitcoin",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-31 02:07",
-   "title": "Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto",
-   "summary": "Bitcoin Magazine Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto The Treasury Secretary slammed Democrats for holding back the land…",
-   "srcs": [
-    {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/news/scott-bessent-urges-vote-on-clarity-act",
-     "t": "sec"
-    }
-   ],
-   "heat": 62.7
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-31 00:17",
-   "title": "Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years",
-   "summary": "Bitcoin and US stocks enjoyed a relief bounce as the South Korea semiconductor rout eased and US PCE inflation data conforms to year-on-year expectations.",
+   "time": "2026-07-31 01:03",
+   "title": "Canadian crypto ownership increases to 25%: Ontario survey",
+   "summary": "A survey of more than 2,000 Canadians in late 2025 and early 2026 showed an increasing awareness of risk around the crypto industry and higher ownership of assets.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/news/canadians-ownership-crypto-osc-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 62.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-30 23:53",
-   "title": "Hyperscale Data sells 100 BTC to fund Michigan AI data center",
-   "summary": "The Bitcoin miner is using part of its treasury and a BTC-backed credit facility to fund an AI campus tied to a potential multi-billion-dollar infrastructure contract.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/hyperscale-data-taps-bitcoin-treasury-btc-backed-credit-to-fund-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 62.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-30 23:28",
-   "title": "NYSE-Listed AI Company Taps Lightning Network to Pay Employees In Bitcoin",
-   "summary": "Bitcoin Magazine NYSE-Listed AI Company Taps Lightning Network to Pay Employees In Bitcoin Some of the company's laser-eyed employees wanted their salaries in Bitcoin. It was easie…",
-   "srcs": [
-    {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/news/ai-company-pays-employees-in-bitcoin",
-     "t": "sec"
-    }
-   ],
-   "heat": 62.2
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-30 22:02",
-   "title": "Spanish Bank Banco Santander Reveals $4.3M Bitcoin Investment",
-   "summary": "Bitcoin Magazine Spanish Bank Banco Santander Reveals $4.3M Bitcoin Investment Spain's largest bank is the latest to buy Bitcoin exposure via BlackRock's IBIT ETF. This post Spanis…",
-   "srcs": [
-    {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/news/spanish-bank-banco-santander-buys-bitcoin",
-     "t": "sec"
-    }
-   ],
-   "heat": 62.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-30 22:00",
-   "title": "Bitchat Mesh App Defies India Cybercrime Notice After Protesters Use It During Network Restrictions",
-   "summary": "Bitcoin Magazine Bitchat Mesh App Defies India Cybercrime Notice After Protesters Use It During Network Restrictions The open-source Bitchat app, designed to work without internet …",
-   "srcs": [
-    {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/politics/bitchat-mesh-app-defies-india-cybercrime-notice-after-protesters-use-it-during-network-restrictions",
-     "t": "sec"
-    }
-   ],
-   "heat": 62.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-29 19:57",
-   "title": "19:57:57【联电业绩亮眼且上调资本开支 AI订单从GPU外溢至成熟制程】",
-   "summary": "19:57:57【联电业绩亮眼且上调资本开支 AI订单从GPU外溢至成熟制程】 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PRk14SWU0WXdMTEdFTW5zclg2Tm1wMzZULUFPb1BaRFI3MlRwbkdwOWp5SC1sTnA5bWtTbFA0eWRYbGs2Z1FZeg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 201.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-31 02:01",
-   "title": "Tempus AI CEO Eric Lefkofsky sells $10.5m in shares",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/tempus-ai-ceo-eric-lefkofsky-sells-105m-in-shares-93CH-4826683",
-     "t": "agg"
-    }
-   ],
-   "heat": 32.6
+   "heat": 42.4
   },
   {
    "cat": "crypto",
@@ -1049,7 +881,175 @@
      "t": "sec"
     }
    ],
-   "heat": 50.3
+   "heat": 42.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-30 23:00",
+   "title": "Crypto for Advisors: Is the Clarity Act dead?",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/coindesk-indices/2026/07/30/crypto-for-advisors-is-the-clarity-act-dead",
+     "t": "sec"
+    }
+   ],
+   "heat": 42.1
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-30 22:06",
+   "title": "JPMorgan says fading Clarity Act odds weigh on crypto outlook",
+   "summary": "The bank said deteriorating prospects for U.S. market structure legislation remove a key catalyst for digital assets, even as tokenization and institutional adoption advance.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook",
+     "t": "sec"
+    }
+   ],
+   "heat": 41.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-30 21:55",
+   "title": "Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings",
+   "summary": "A new report from market maker Wintermute found that institutions now dominate crypto trading, driving lower volatility, selective altcoin flows and growth in tokenized assets.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/07/30/institutional-trading-hits-a-record-72-as-wall-street-quietens-down-crypto-s-wild-swings",
+     "t": "sec"
+    }
+   ],
+   "heat": 41.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-30 21:00",
+   "title": "Everything is becoming a perp",
+   "summary": "The perpetual — the 24/7, leveraged contract that crypto invented and then perfected — is no longer just a way to trade crypto, says Katana Network’s Matthew Fisher. It’s becoming …",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp",
+     "t": "sec"
+    }
+   ],
+   "heat": 41.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-31 08:31",
+   "title": "Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury",
+   "summary": "3iQ will manage an undisclosed portion of Gelephu Mindfulness City’s Bitcoin treasury as Bhutan develops a digital-asset investment hub.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/bhutan-gelephu-3iq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.6
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-31 05:36",
+   "title": "Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses",
+   "summary": "The Bitcoin treasury company said it has built a $3.75 billion cash reserve to support preferred stock payouts following the launch of its BTC monetization program.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/strategy-reports-q2-2026-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-31 04:32",
+   "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
+   "summary": "The world's largest corporate bitcoin holder says it has built a cash reserve covering more than two years of dividend payments after investors questioned its growing stack of pref…",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-31 00:17",
+   "title": "Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years",
+   "summary": "Bitcoin and US stocks enjoyed a relief bounce as the South Korea semiconductor rout eased and US PCE inflation data conforms to year-on-year expectations.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 30.3
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-30 23:53",
+   "title": "Hyperscale Data sells 100 BTC to fund Michigan AI data center",
+   "summary": "The Bitcoin miner is using part of its treasury and a BTC-backed credit facility to fund an AI campus tied to a potential multi-billion-dollar infrastructure contract.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/hyperscale-data-taps-bitcoin-treasury-btc-backed-credit-to-fund-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 30.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-31 05:04",
+   "title": "World Cup generated $20B in blockchain prediction market volume: Chainalysis",
+   "summary": "The blockchain analytics firm said the World Cup attracted global participation in prediction markets and digital collectibles, with more than 400,000 wallets placing blockchain-ba…",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/world-cup-generated-20b-prediction-market-volume-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 23.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-29 18:29",
+   "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
+   "summary": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94ZlpUaU1wdmJtMENCMWMwenFyWWhtSjgyUFR4d2RMZExjajNsVzJsS2N6c0tndFlWcnZXQjdpZXRqblpfOFZXNg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 213.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 02:15",
+   "title": "Form 13D/A KUSTOM ENTERTAINMENT For: 30 July",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/filings/form-13da-kustom-entertainment-for-30-july-93CH-4826689",
+     "t": "agg"
+    }
+   ],
+   "heat": 216.6
   }
  ]
 }

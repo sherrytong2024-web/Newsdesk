@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31 10:12",
+ "updated": "2026-07-31 10:39",
  "items": [
   {
    "cat": "sector",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
+   "heat": 223.9
   },
   {
    "cat": "sector",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.7
+   "heat": 223.6
   },
   {
    "cat": "sector",
@@ -41,21 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 06:29",
-   "title": "Spencer Stuart’s Citrin on Apple’s CEO Succession Plan",
-   "summary": "Jim Citrin, Chair, Global CEO Practice at Spencer Stuart, discusses the upcoming CEO transition at Apple as Tim Cook prepares to step down on September 1, with John Turner set to t…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-30/spencer-stuart-s-citrin-on-apple-s-ceo-succession-plan-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.4
+   "heat": 223.6
   },
   {
    "cat": "sector",
@@ -69,7 +55,21 @@
      "t": "sec"
     }
    ],
-   "heat": 213.2
+   "heat": 221.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 10:29",
+   "title": "What We Know So Far About Hacking by Anthropic AI Models",
+   "summary": "Here's what we know so far about Anthropic's AI models breaching three organizations during cybersecurity tests which went awry. (Source: Bloomberg)",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-31/what-we-know-so-far-about-hacking-by-anthropic-ai-models-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 220.0
   },
   {
    "cat": "sector",
@@ -83,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.9
+   "heat": 219.8
   },
   {
    "cat": "sector",
@@ -97,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.8
+   "heat": 219.8
   },
   {
    "cat": "sector",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.8
+   "heat": 219.7
   },
   {
    "cat": "sector",
@@ -125,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.8
+   "heat": 219.7
   },
   {
    "cat": "sector",
@@ -139,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.7
+   "heat": 219.6
   }
  ]
 }
