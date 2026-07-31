@@ -1,6 +1,20 @@
 {
- "updated": "2026-07-31 11:32",
+ "updated": "2026-07-31 12:59",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-07-31 12:19",
+   "title": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target",
+   "summary": "The decision comes as speculation continues to swirl around whether the Bank of Japan will hike rates at a faster pace.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/31/boj-rates-yen-intervention-inflation-japan.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 67.9
+  },
   {
    "cat": "macro",
    "time": "2026-07-31 03:06",
@@ -13,27 +27,27 @@
      "t": "sec"
     }
    ],
-   "heat": 58.6
+   "heat": 62.4
   },
   {
    "cat": "macro",
-   "time": "2026-07-31 10:31",
-   "title": "Rising US Yields May Complicate RBI’s Strategy on Rates and the Rupee",
-   "summary": "If US yields keep rising, the RBI could face growing pressure to keep policy tighter.",
+   "time": "2026-07-31 11:49",
+   "title": "BOJ Holds Rate Steady And Upgrades View on Economy",
+   "summary": "The Bank of Japan kept its policy settings unchanged and nudged its economic growth forecast higher, signaling confidence that the economy remains on track for further policy norma…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-07-31/rising-us-yields-may-complicate-rbi-s-strategy-on-rates-and-the-rupee",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-31/boj-holds-rate-steady-and-upgrades-view-on-economy-video",
      "t": "sec"
     }
    ],
-   "heat": 55.8
+   "heat": 59.8
   },
   {
    "cat": "macro",
    "time": "2026-07-31 06:52",
-   "title": "Yen Holds Losses Against Dollar After BOJ Keeps Rates Steady",
-   "summary": "The yen held losses against the dollar after the Bank of Japan kept its benchmark rate unchanged.",
+   "title": "Yen’s Intervention Gains Continue to Fade After BOJ Stands Pat",
+   "summary": "The yen gave up more of its intervention-driven gains after the Bank of Japan left interest rates unchanged, with traders turning their attention to whether Governor Kazuo Ueda can…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -41,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.2
+   "heat": 59.0
   },
   {
    "cat": "macro",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 53.0
+   "heat": 56.8
   },
   {
    "cat": "macro",
@@ -69,12 +83,12 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 56.0
   },
   {
    "cat": "macro",
    "time": "2026-07-31 11:05",
-   "title": "Sony Raises Outlook After Entertainment Drives Earnings Beat",
+   "title": "Sony Raises Outlook After Entertainment Drives Earnings Jump",
    "summary": "Sony Group Corp. raised its profit outlook after its lucrative content holdings generated continued growth, underscoring the entertainment group’s resilience in the face of rising …",
    "srcs": [
     {
@@ -83,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.9
+   "heat": 55.7
   },
   {
    "cat": "macro",
@@ -97,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.3
+   "heat": 55.1
   },
   {
    "cat": "macro",
@@ -111,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.1
+   "heat": 54.8
   },
   {
    "cat": "macro",
@@ -125,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.1
+   "heat": 53.8
   },
   {
    "cat": "macro",
@@ -139,13 +153,13 @@
      "t": "sec"
     }
    ],
-   "heat": 44.0
+   "heat": 48.0
   },
   {
    "cat": "macro",
    "time": "2026-07-24 16:41",
-   "title": "China Pilots First Loans Pegged to Money-Market Rate - caixinglobal.com",
-   "summary": "China Pilots First Loans Pegged to Money-Market Rate &nbsp;&nbsp; caixinglobal.com",
+   "title": "China Pilots First Loans Pegged to Money-Market Rate",
+   "summary": "China Pilots First Loans Pegged to Money-Market Rate &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
@@ -153,7 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 44.0
+   "heat": 48.0
   },
   {
    "cat": "macro",
@@ -167,7 +181,7 @@
      "t": "agg"
     }
    ],
-   "heat": 23.5
+   "heat": 23.3
   },
   {
    "cat": "macro",
@@ -181,35 +195,35 @@
      "t": "agg"
     }
    ],
-   "heat": 23.3
+   "heat": 23.0
   },
   {
    "cat": "macro",
-   "time": "2026-07-30 22:26",
-   "title": "Gold Outlook Weakens as Treasury Yields and Inflation Risks Persist",
+   "time": "2026-07-31 04:48",
+   "title": "Morning Bid: Yen sinks as BOJ holds - and it’s the KOSPI’s best day",
    "summary": "",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-outlook-weakens-as-treasury-yields-and-inflation-risks-persist-200684901",
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/morning-bid-yen-sinks-as-boj-holds--and-its-the-kospis-best-day-4826736",
      "t": "agg"
     }
    ],
-   "heat": 15.8
+   "heat": 20.6
   },
   {
-   "cat": "macro",
-   "time": "2026-07-31 07:55",
-   "title": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market (copy) - Santa Maria ",
-   "summary": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market (copy) &nbsp;&nbsp; Santa Maria Times",
+   "cat": "sector",
+   "time": "2026-07-31 12:00",
+   "title": "Kontrolmatik’s Rise and Fall Burns Turkey’s Retail Traders",
+   "summary": "Small-time investor Riza Gundogdu thought he had found the next Tesla Inc. early last year when he invested in shares of Kontrolmatik Enerji ve Muhendislik AS.",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMDFxWnRxb0JzX2lHb3I1ejRSWFlHRlotWHZYZ01jVjdWUFRmVjNMbnZHSTl3YzlCVEoyeTZ2d0xCNXF2ZjlGaHQwbnNhQ0dWMkhZeEFIZXBTSkV1VTVRVTV5bVo3N0dyeVhNUDk5X1ZWTi0tVm81anJRUmxRa0J6dDQ5a1c3QUgyTDJ4UmMyVGtmRlpYS0NHRVFsRXVSTkQ5ZTZGdzFRWXVhZVl4THdHbVFBajRJd3RQNzI3MV81ajJIckF6MkJGSVdub1NMTHI5Q2xuSndjNGdzV0dPWXFRbFlaMk5Tbkw5Qkw0N3FHWlRIZUZBS2hNMVU0RVBGTnFIVzhpZE1EQUhwbTA?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/kontrolmatik-s-rise-and-fall-burns-turkey-s-retail-traders",
      "t": "sec"
     }
    ],
-   "heat": 15.4
+   "heat": 231.8
   },
   {
    "cat": "sector",
@@ -223,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 224.0
+   "heat": 231.7
   },
   {
    "cat": "sector",
@@ -237,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.7
+   "heat": 231.5
   },
   {
    "cat": "sector",
@@ -251,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.5
+   "heat": 231.2
   },
   {
    "cat": "sector",
@@ -265,13 +279,13 @@
      "t": "sec"
     }
    ],
-   "heat": 223.5
+   "heat": 231.2
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 11:04",
+   "time": "2026-07-31 12:31",
    "title": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
-   "summary": "",
+   "summary": "The company faces a challenge as it does not have access to the latest extreme ultraviolet, or EUV, lithography machines, essential for manufacturing advanced chips.",
    "srcs": [
     {
      "n": "CNBC",
@@ -279,7 +293,63 @@
      "t": "sec"
     }
    ],
-   "heat": 219.9
+   "heat": 227.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 12:25",
+   "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium",
+   "summary": "Commonwealth Bank of Australia said in a note on Friday that stronger oil flows through the Strait of Hormuz had eased market concerns after U.S.-Iran strikes earlier this week.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 12:09",
+   "title": "Border Crisis as Migrants Cross Into Ceuta, Spain by Sea",
+   "summary": "Migrants crossed into Ceuta, Spain, one of two direct land connections between Africa and Europe. It prompted the Spanish government to order an emergency military deployment. (Sou…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-31/border-crisis-as-migrants-cross-into-ceuta-spain-by-sea-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 12:09",
+   "title": "US-listed Silicon Motion Soars on Robust Results",
+   "summary": "Jason Tsai, CFO at Silicon Motion, says the Taiwanese NAND controller supplier has been gaining market share as it diversifies its consumer-focused business. He speaks exclusively …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-31/us-listed-silicon-motion-soars-on-robust-results-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 11:53",
+   "title": "Copper Set for Monthly Gain on Tightening Global Supply Outlook",
+   "summary": "Copper headed for a monthly advance on growing signs of tight supply, fueled in part by large flows of material to the US ahead of a highly-anticipated decision by the Trump admini…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/copper-set-for-monthly-gain-on-tightening-global-supply-outlook",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.8
   },
   {
    "cat": "sector",
@@ -293,21 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 10:46",
-   "title": "Amazon Beats, Anthropic AI Models Hacked Systems During Tests",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-07-31/amazon-beats-anthropic-ai-models-hacked-systems-during-tests",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.9
+   "heat": 227.7
   },
   {
    "cat": "sector",
@@ -321,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.9
+   "heat": 227.6
   },
   {
    "cat": "sector",
@@ -335,35 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 10:32",
-   "title": "Iron Ore Climbs as Traders Weigh Supply Risks From BHP Strike",
-   "summary": "Iron ore rose as threat of strike action by BHP Group workers at the export hub of Port Hedland raised concerns about potential supply disruptions, although weak Chinese demand wil…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-31/iron-ore-climbs-as-traders-weigh-supply-risks-from-bhp-strike",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 10:29",
-   "title": "Korea Cites Close Ties With US, Japan After Overnight FX Surge",
-   "summary": "South Korea’s foreign-exchange authorities are in close contact with counterparts in the US and Japan, a senior finance ministry official said, a day after Tokyo mounted a large-sc…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-31/korea-cites-close-ties-with-us-japan-after-overnight-fx-surge",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.8
+   "heat": 227.6
   },
   {
    "cat": "sector",
@@ -377,41 +405,41 @@
      "t": "sec"
     }
    ],
-   "heat": 219.8
+   "heat": 227.6
   },
   {
-   "cat": "sector",
-   "time": "2026-07-31 09:11",
-   "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
-   "summary": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
+   "cat": "stock",
+   "time": "2026-07-31 11:50",
+   "title": "Swiggy, Eternal Stocks Surge as Zepto’s India IPO Hits Roadblock",
+   "summary": "Shares of the main competitors to Indian rapid-commerce firm Zepto Ltd. are set for their best month in years after the loss-making company’s planned initial public offering hit a …",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/swiggy-eternal-stocks-surge-as-zepto-s-india-ipo-hits-roadblock",
      "t": "sec"
     }
    ],
-   "heat": 219.6
+   "heat": 159.8
   },
   {
-   "cat": "sector",
-   "time": "2026-07-30 08:19",
-   "title": "08:52:24【英伟达合作伙伴ChipAgents扩大融资规模 借助AI加速芯片开发】",
-   "summary": "08:52:24【英伟达合作伙伴ChipAgents扩大融资规模 借助AI加速芯片开发】 &nbsp;&nbsp; 财联社",
+   "cat": "stock",
+   "time": "2026-07-31 11:38",
+   "title": "Asian Stocks Post Biggest Gain in Four Months on AI Optimism",
+   "summary": "Asian stocks posted their biggest gain in nearly four months as investors piled into chipmakers, after blockbuster earnings from major tech firms reinforced optimism over AI demand…",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SaWsxTW52Z293eEtkTGVhaW40dUZVRVo3T25LYW1NU3RoYTFoR0pJR0hUaWF5ODg0bElONngzNGR3RktQaGZ2Xw?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/asian-stocks-post-biggest-gain-in-four-months-on-ai-optimism",
      "t": "sec"
     }
    ],
-   "heat": 219.5
+   "heat": 159.8
   },
   {
    "cat": "stock",
    "time": "2026-07-29 04:02",
-   "title": "US stocks: S&P 500 ends higher as investors await tech earnings - The Economic Times",
-   "summary": "US stocks: S&P 500 ends higher as investors await tech earnings &nbsp;&nbsp; The Economic Times",
+   "title": "US stocks: S&P 500 ends higher as investors await tech earnings - economictimes.com",
+   "summary": "US stocks: S&P 500 ends higher as investors await tech earnings &nbsp;&nbsp; economictimes.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -419,13 +447,13 @@
      "t": "sec"
     }
    ],
-   "heat": 144.0
+   "heat": 152.0
   },
   {
    "cat": "stock",
    "time": "2026-07-24 21:37",
-   "title": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs - The Economic Times",
-   "summary": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs &nbsp;&nbsp; The Economic Times",
+   "title": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs - economictimes.com",
+   "summary": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs &nbsp;&nbsp; economictimes.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -433,7 +461,21 @@
      "t": "sec"
     }
    ],
-   "heat": 144.0
+   "heat": 152.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-31 11:47",
+   "title": "South Korea's 'bipolar' stock market: meltdowns, a record rally and what's to come",
+   "summary": "South Korea's stock market staged its sharpest reversal on record on Friday, capping a month of wild swings.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/31/south-korea-kospi-samsung-sk-hynix-meltdown-record-rebound.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 143.8
   },
   {
    "cat": "stock",
@@ -447,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 131.9
+   "heat": 139.6
   },
   {
    "cat": "stock",
@@ -461,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 131.6
+   "heat": 139.3
   },
   {
    "cat": "stock",
@@ -475,7 +517,21 @@
      "t": "sec"
     }
    ],
-   "heat": 130.8
+   "heat": 138.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-31 12:35",
+   "title": "Tech Stocks Rally as Korea Surges, Yen Pares Gain",
+   "summary": "A global rally in technology stocks gathered momentum as South Korean equities posted a record jump, with investors returning to the artificial intelligence trade after this week’s…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-31/tech-stocks-rally-as-korea-surges-yen-pares-gain-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 123.9
   },
   {
    "cat": "stock",
@@ -489,13 +545,13 @@
      "t": "sec"
     }
    ],
-   "heat": 111.9
+   "heat": 123.7
   },
   {
    "cat": "stock",
    "time": "2026-07-31 10:18",
-   "title": "Wild Tech Stock Swings Spur Retail Traders to Cut Margin Loans",
-   "summary": "Retail investors have cut their margin loans in South Korea, Taiwan and mainland China, underscoring how a collapse in technology stocks in recent weeks has forced them to close ou…",
+   "title": "Margin Unwind in Asia Clears Froth, Paving Way for Stock Rebound",
+   "summary": "Retail investors have cut their margin debt in South Korea, Taiwan and mainland China, a shift that investors say paves the way for a healthier rebound in Asian stocks.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -503,35 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-31 07:50",
-   "title": "Korean Stocks Surge by Record 17% as AI Trade Optimism Rebounds",
-   "summary": "South Korean stocks jumped by a record, rebounding from a rout earlier this week, on optimism the unwinding of leveraged trades is nearing its end and the artificial intelligence b…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/sk-hynix-shares-surge-in-seoul-on-us-peer-rally-chey-purchase",
-     "t": "sec"
-    }
-   ],
-   "heat": 111.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-31 06:40",
-   "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
-   "summary": "Stocks rebounded on Thursday, with the Nasdaq snapping a 6-day losing streak. Microsoft and semiconductors helped drive the gains.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 111.2
+   "heat": 123.6
   },
   {
    "cat": "stock",
@@ -545,7 +573,21 @@
      "t": "sec"
     }
    ],
-   "heat": 111.2
+   "heat": 122.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-31 06:15",
+   "title": "Tech Stocks Rally as Korea Surges, Yen Pares Gain: Markets Wrap",
+   "summary": "A global rally in technology stocks gathered momentum as South Korean equities posted a record jump, with investors returning to the artificial intelligence trade after this week’s…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 122.9
   },
   {
    "cat": "stock",
@@ -559,13 +601,13 @@
      "t": "sec"
     }
    ],
-   "heat": 111.0
+   "heat": 122.7
   },
   {
    "cat": "stock",
    "time": "2026-07-31 03:21",
-   "title": "Global Tech Rout Erases Gains in China’s AI Stocks, Jolts Mutual Funds - caixinglobal.com",
-   "summary": "Global Tech Rout Erases Gains in China’s AI Stocks, Jolts Mutual Funds &nbsp;&nbsp; caixinglobal.com",
+   "title": "Global Tech Rout Erases Gains in China’s AI Stocks, Jolts Mutual Funds",
+   "summary": "Global Tech Rout Erases Gains in China’s AI Stocks, Jolts Mutual Funds &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
@@ -573,217 +615,63 @@
      "t": "sec"
     }
    ],
-   "heat": 110.6
+   "heat": 122.4
   },
   {
-   "cat": "stock",
-   "time": "2026-07-31 03:16",
-   "title": "EverCommerce CEO Eric Remer sells $230,952 of company stock",
+   "cat": "global",
+   "time": "2026-07-31 12:03",
+   "title": "Australian Dollar sticks to intraday gains as BoJ's on-hold decision keeps Yen pressured",
+   "summary": "The AUD/JPY cross builds on the previous day's goodish rebound from sub-111.00 levels, or the lowest since April 7, and gains strong positive traction during the Asian session on F…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/australian-dollar-sticks-to-intraday-gains-as-bojs-on-hold-decision-keeps-yen-pressured-202607310403",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-31 12:16",
+   "title": "EUR/USD Price Forecast: Weakens to near 1.1500 as 100-day SMA caps upside",
+   "summary": "The EUR/USD pair trades in negative territory around 1.1500 during the early European trading hours on Friday. The Euro (EUR) softens against the US Dollar (USD) as escalating tens…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/eur-usd-price-forecast-weakens-to-near-11500-as-100-day-sma-caps-upside-202607310416",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-31 04:49",
+   "title": "Form 4 Liberty Oilfield Services Inc For: 31 July",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/evercommerce-ceo-eric-remer-sells-230952-of-company-stock-93CH-4826708",
+     "u": "https://www.investing.com/news/filings/form-4-liberty-oilfield-services-inc-for-31-july-93CH-4826744",
      "t": "agg"
     }
    ],
-   "heat": 108.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 23:55",
-   "title": "HSBC Goes Max Overweight on US Stocks: Five Reasons to Bet on S&P 500 Rally, 40% Oil Surge This Year Won't Shake the Bul",
-   "summary": "HSBC Goes Max Overweight on US Stocks: Five Reasons to Bet on S&P 500 Rally, 40% Oil Surge This Year Won't Shake the Bull Camp &nbsp;&nbsp; finance.biggo.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15WmJTMmszcnlyYVNRa1BJUjZBdGpFRnJyeGZTRzJfQXdfZkRad3VvS1ZDSmt1Vm1RdmZxQnlqX0V4NkR0TnY3WUx2bzNLaVljTzZRYU5PUF9BSkJRVGt4YU5aZURaTFBldGZTd1lNMmVFVUt2R2c?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 106.1
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 17:48",
-   "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasd",
-   "summary": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. &nbsp;&nbsp; The Motley Fool",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 105.0
+   "heat": 36.6
   },
   {
    "cat": "global",
-   "time": "2026-07-31 07:56",
-   "title": "Gold Heads for Monthly Gain as Japan Intervention Tames Dollar",
-   "summary": "Gold was heading for its first monthly advance since February after Japan intervened to support the yen, causing the US dollar to weaken.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/gold-holds-gain-as-japan-currency-intervention-weighs-on-dollar",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 08:54",
-   "title": "WTI holds losses around $82.50 on renewed US-Iran diplomatic hopes",
-   "summary": "West Texas Intermediate (WTI) oil price remains in the negative territory for the second successive day, trading around $82.60 per barrel during the Asian hours on Friday. Crude oi…",
+   "time": "2026-07-31 11:42",
+   "title": "Silver Price Forecast: XAG/USD declines to near $58.40 as US Dollar regains ground",
+   "summary": "Silver price (XAG/USD) is down almost 1% to near $58.40 during the Asian trading session on Friday. The white metal faces selling pressure as the US Dollar (USD) rebounds slightly,…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/wti-holds-losses-around-8250-on-renewed-us-iran-diplomatic-hopes-202607310054",
+     "u": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-declines-to-near-5840-as-us-dollar-regains-ground-202607310342",
      "t": "sec"
     }
    ],
-   "heat": 43.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 03:06",
-   "title": "Oil falls more than $1 on greater flows despite US-Iran war",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/commodities-news/oil-falls-more-than-1-on-greater-flows-despite-usiran-war-4826705",
-     "t": "agg"
-    }
-   ],
-   "heat": 40.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 10:36",
-   "title": "Japan Preempts Market With Yen Intervention",
-   "summary": "Japan intervened in the currency market to bolster the yen, which sharply advanced as much as 3.3% versus the dollar in New York trading on Thursday. Bloomberg's Shery Ahn breaks d…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-31/japan-preempts-market-with-yen-intervention-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 09:12",
-   "title": "Euro softens to near 1.1500 as US-Iran war widens",
-   "summary": "The EUR/ USD pair loses ground to near 1.1515 during the early Asian trading hours on Friday. The Euro (EUR) softens against the US Dollar (USD) amid risk-off sentiment and fears o…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/euro-softens-to-near-11500-as-us-iran-war-widens-202607310112",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-30 09:20",
-   "title": "ASX falls as oil surges on rising Middle East tensions; NAB warns on home loans - SMH.com.au",
-   "summary": "ASX falls as oil surges on rising Middle East tensions; NAB warns on home loans &nbsp;&nbsp; SMH.com.au",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUW45dnNSU2M0Zkhkc0RrQmpxbFBzUEdTN3lSTFVyb1ZHaXh5TjRsRjRxajgtSmw3czlZRzJMSlIwXzdvOERNWEhLY0RiWkxiNXdvTS1xSmpoc25kRGUwRmhDR2VmUTBNcDJDVUZQTUlPMW01SS1abjhMYWw0RWdrRlRMSHJSWUllRGhVN2xHbGR6ZUpHeC1WZzk2U002SjFZSk1mTi1mOFhGUzlwRjF3c09ZTndBcUtZLUJXLWplUnFnV0dpYVdEWkZWazJQT21teUpRN2NVNmtlLTBNdl9YdDF0a3ViWG90UGY2cjhPNDlEM0ta?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-30 18:32",
-   "title": "Oil Has Stopped Trading the War - It’s Trading the Barrels Now",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-has-stopped-trading-the-war--its-trading-the-barrels-now-200684877",
-     "t": "agg"
-    }
-   ],
-   "heat": 39.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-30 17:42",
-   "title": "Oil Futures Hold While Anticipating Next Escalatory Moves",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-futures-hold-while-anticipating-next-escalatory-moves-200684871",
-     "t": "agg"
-    }
-   ],
-   "heat": 39.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-30 14:44",
-   "title": "US Oil Inventories Sag as Hormuz Turmoil Rages On",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/us-oil-inventories-sag-as-hormuz-turmoil-rages-on-200684848",
-     "t": "agg"
-    }
-   ],
-   "heat": 38.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-29 19:44",
-   "title": "Stocks drift on Wall Street and crude oil prices drop as Mideast tensions cool - ABC News - Breaking News, Latest News a",
-   "summary": "Stocks drift on Wall Street and crude oil prices drop as Mideast tensions cool &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMjdsa1BtNEV2ZG5NMEdGbkxmX2ZtM0VUTVAxX3ZqWEp4SkpVVmpRd3FaTjlnTE1BNHBIdWtMeEl6NHR1ZEJ5Rnl4TlAxZ2tDOGdDXzRuNXVrUzQwdEJ4cDhSdThhTkYwNUdMTDZqNjJCVlR6bGVSelZERTBFZlRlQTdZR3VUNlUwd2xRaTRoOXJYTFR2LTJr0gGcAUFVX3lxTE4xV04tTEluZlFkeHpXbGYyTEh1ZWtLY0haUmJmZnlWOFJJZjlpNnpMRTFiUVdxSXc0WGoyWWN6cFhkRHFTYi1qVHFLZUpMekFKSEYteEU4ck9nWDE0N09xZWR0bl9xUXd6M0p0elNrS0p5ZVU1bDVfdnVLeVpyOFJwa0xoUmtBS3dDdGlnMXRIcnBDWWlwaU14dHFWdA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 37.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-25 03:11",
-   "title": "S&P 500 Futures Edge Higher as Oil Pulls Back and Intel Jumps 4% - finance.biggo.com",
-   "summary": "S&P 500 Futures Edge Higher as Oil Pulls Back and Intel Jumps 4% &nbsp;&nbsp; finance.biggo.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCYjZPY21qQkVwNm5DaGpVYzg1NUJRX3ZMamhoN1dtcm9yM25idTJVQmlkaHdOMUNVdi1pZXhOQlVadHJXQ0tqX0RJODZFbDZJMXlyYjI4Y1lWRmJ6c3BrQWloNjMzY25kblhJZVlhYXcxU3ZWdFE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 36.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-24 18:02",
-   "title": "Analysis: China’s Weakening Crude Demand Is Stabilizing Oil Markets - caixinglobal.com",
-   "summary": "Analysis: China’s Weakening Crude Demand Is Stabilizing Oil Markets &nbsp;&nbsp; caixinglobal.com",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2hQV3EtamdTVnh6OHhLMWJTZC00XzdjR0pySFhOekdsMW5yVDFPcDhCQXlCRFBHdDFoM0hRdDQ1SEt1VkltVkZPUFJyeEVIY1EtaHFMZE84akRlSUJXR3BmTkFnemZHZVlQYTU2QlN0S2FlS1JvcXJ4NW9ndkRvdU10VWN5Q1ppZ1BXTk1MMDA3RDFBaGVmSXlacVhTSkFjZW50TDg2WWJrdUh1d3VHX05sdVkxeXJoS1lQOA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 36.0
+   "heat": 35.8
   },
   {
    "cat": "global",
@@ -797,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.9
+   "heat": 35.7
   },
   {
    "cat": "global",
@@ -811,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.8
+   "heat": 35.5
   },
   {
    "cat": "global",
@@ -825,7 +713,119 @@
      "t": "sec"
     }
    ],
-   "heat": 35.6
+   "heat": 35.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 09:20",
+   "title": "ASX falls as oil surges on rising Middle East tensions; NAB warns on home loans - smh.com.au",
+   "summary": "ASX falls as oil surges on rising Middle East tensions; NAB warns on home loans &nbsp;&nbsp; smh.com.au",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUW45dnNSU2M0Zkhkc0RrQmpxbFBzUEdTN3lSTFVyb1ZHaXh5TjRsRjRxajgtSmw3czlZRzJMSlIwXzdvOERNWEhLY0RiWkxiNXdvTS1xSmpoc25kRGUwRmhDR2VmUTBNcDJDVUZQTUlPMW01SS1abjhMYWw0RWdrRlRMSHJSWUllRGhVN2xHbGR6ZUpHeC1WZzk2U002SjFZSk1mTi1mOFhGUzlwRjF3c09ZTndBcUtZLUJXLWplUnFnV0dpYVdEWkZWazJQT21teUpRN2NVNmtlLTBNdl9YdDF0a3ViWG90UGY2cjhPNDlEM0ta?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 18:32",
+   "title": "Oil Has Stopped Trading the War - It’s Trading the Barrels Now",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-has-stopped-trading-the-war--its-trading-the-barrels-now-200684877",
+     "t": "agg"
+    }
+   ],
+   "heat": 34.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 17:42",
+   "title": "Oil Futures Hold While Anticipating Next Escalatory Moves",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-futures-hold-while-anticipating-next-escalatory-moves-200684871",
+     "t": "agg"
+    }
+   ],
+   "heat": 34.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 15:02",
+   "title": "Bond Vigilantes May Be US Dollar’s Best Friends",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/bond-vigilantes-may-be-us-dollars-best-friends-200684856",
+     "t": "agg"
+    }
+   ],
+   "heat": 34.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 14:44",
+   "title": "US Oil Inventories Sag as Hormuz Turmoil Rages On",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/us-oil-inventories-sag-as-hormuz-turmoil-rages-on-200684848",
+     "t": "agg"
+    }
+   ],
+   "heat": 34.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-29 19:44",
+   "title": "Stocks drift on Wall Street and crude oil prices drop as Mideast tensions cool - ABC News - Breaking News, Latest News a",
+   "summary": "Stocks drift on Wall Street and crude oil prices drop as Mideast tensions cool &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMjdsa1BtNEV2ZG5NMEdGbkxmX2ZtM0VUTVAxX3ZqWEp4SkpVVmpRd3FaTjlnTE1BNHBIdWtMeEl6NHR1ZEJ5Rnl4TlAxZ2tDOGdDXzRuNXVrUzQwdEJ4cDhSdThhTkYwNUdMTDZqNjJCVlR6bGVSelZERTBFZlRlQTdZR3VUNlUwd2xRaTRoOXJYTFR2LTJr0gGcAUFVX3lxTE4xV04tTEluZlFkeHpXbGYyTEh1ZWtLY0haUmJmZnlWOFJJZjlpNnpMRTFiUVdxSXc0WGoyWWN6cFhkRHFTYi1qVHFLZUpMekFKSEYteEU4ck9nWDE0N09xZWR0bl9xUXd6M0p0elNrS0p5ZVU1bDVfdnVLeVpyOFJwa0xoUmtBS3dDdGlnMXRIcnBDWWlwaU14dHFWdA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 33.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-25 03:11",
+   "title": "S&P 500 Futures Edge Higher as Oil Pulls Back and Intel Jumps 4% - finance.biggo.com",
+   "summary": "S&P 500 Futures Edge Higher as Oil Pulls Back and Intel Jumps 4% &nbsp;&nbsp; finance.biggo.com",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCYjZPY21qQkVwNm5DaGpVYzg1NUJRX3ZMamhoN1dtcm9yM25idTJVQmlkaHdOMUNVdi1pZXhOQlVadHJXQ0tqX0RJODZFbDZJMXlyYjI4Y1lWRmJ6c3BrQWloNjMzY25kblhJZVlhYXcxU3ZWdFE?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 32.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-24 18:02",
+   "title": "Analysis: China’s Weakening Crude Demand Is Stabilizing Oil Markets",
+   "summary": "Analysis: China’s Weakening Crude Demand Is Stabilizing Oil Markets &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2hQV3EtamdTVnh6OHhLMWJTZC00XzdjR0pySFhOekdsMW5yVDFPcDhCQXlCRFBHdDFoM0hRdDQ1SEt1VkltVkZPUFJyeEVIY1EtaHFMZE84akRlSUJXR3BmTkFnemZHZVlQYTU2QlN0S2FlS1JvcXJ4NW9ndkRvdU10VWN5Q1ppZ1BXTk1MMDA3RDFBaGVmSXlacVhTSkFjZW50TDg2WWJrdUh1d3VHX05sdVkxeXJoS1lQOA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 32.0
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.8
+   "heat": 74.5
   },
   {
    "cat": "crypto",
@@ -853,7 +853,21 @@
      "t": "sec"
     }
    ],
-   "heat": 51.1
+   "heat": 54.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-07-31 12:46",
+   "title": "Crypto’s next altseason may have fewer winners: Wintermute",
+   "summary": "Institutional investors accounted for 72% of Wintermute’s spot OTC flow in the first half of 2026 as capital clustered in fewer tokens and altcoin rallies became more selective.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/crypto-next-altseason-fewer-winners-wintermute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 48.0
   },
   {
    "cat": "crypto",
@@ -867,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.7
+   "heat": 46.5
   },
   {
    "cat": "crypto",
@@ -881,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.3
+   "heat": 46.0
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.1
+   "heat": 45.8
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.9
+   "heat": 45.7
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.8
+   "heat": 45.5
   },
   {
    "cat": "crypto",
@@ -937,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.7
+   "heat": 45.5
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.6
+   "heat": 45.3
   },
   {
    "cat": "crypto",
@@ -965,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.8
+   "heat": 27.6
   },
   {
    "cat": "crypto",
@@ -979,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.5
+   "heat": 27.3
   },
   {
    "cat": "crypto",
@@ -993,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.0
+   "heat": 26.8
   },
   {
    "cat": "crypto",
@@ -1007,21 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.8
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-07-31 00:17",
-   "title": "Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years",
-   "summary": "Bitcoin and US stocks enjoyed a relief bounce as the South Korea semiconductor rout eased and US PCE inflation data conforms to year-on-year expectations.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 30.1
+   "heat": 26.6
   },
   {
    "cat": "crypto",
@@ -1035,21 +1035,21 @@
      "t": "sec"
     }
    ],
-   "heat": 22.9
+   "heat": 22.7
   },
   {
    "cat": "sector",
-   "time": "2026-07-29 06:30",
-   "title": "英伟达CEO黄仁勋在美国参议院多个办公室呼吁支持开源权重人工智能（AI）模型",
-   "summary": "英伟达CEO黄仁勋在美国参议院多个办公室呼吁支持开源权重人工智能（AI）模型 &nbsp;&nbsp; 财联社",
+   "time": "2026-07-30 08:19",
+   "title": "08:52:24【英伟达合作伙伴ChipAgents扩大融资规模 借助AI加速芯片开发】",
+   "summary": "08:52:24【英伟达合作伙伴ChipAgents扩大融资规模 借助AI加速芯片开发】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBab0JucU14Z0hpR3RlaElrYUNQZG5SdGFSVnhGWFM0ZFhnX3YycXEyS0stOWhLdFRpdXlhRkRSZzVnU3htZEtjNw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SaWsxTW52Z293eEtkTGVhaW40dUZVRVo3T25LYW1NU3RoYTFoR0pJR0hUaWF5ODg0bElONngzNGR3RktQaGZ2Xw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 212.0
+   "heat": 227.2
   }
  ]
 }
