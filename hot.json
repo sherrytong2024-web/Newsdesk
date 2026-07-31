@@ -1,6 +1,62 @@
 {
- "updated": "2026-07-31 20:11",
+ "updated": "2026-07-31 20:36",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-07-31 20:19",
+   "title": "Moonshot’s Kimi Built on 20,000 Nvidia Chip Cluster From Alibaba",
+   "summary": "Chinese AI champion Moonshot has a computing power agreement with Alibaba Group Holding Ltd. for the use of around 20,000 Nvidia Corp. chips, underscoring China’s continued relianc…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+     "t": "sec"
+    }
+   ],
+   "heat": 232.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 20:15",
+   "title": "EV prices aren't following the 'law of used cars,' analyst says — what it means for buyers and sellers",
+   "summary": "The prices for used electric vehicles have risen this year, which is unusual, experts said. Affordability and high gas prices help explain why, they said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/31/used-ev-prices.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 20:13",
+   "title": "Apple earnings leave Wall Street analysts divided as company faces a series of headwinds",
+   "summary": "Analysts balanced the good news about demand for the company's products with worries over its ability to weather supply constraints and memory prices.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/31/apples-earnings-leave-street-divided-as-it-faces-series-of-headwinds.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 20:09",
+   "title": "Traders Gird for More S&P 500 Volatility as Marco Risks Rise",
+   "summary": "For months, the S&amp;P 500 Index has remained idle, despite stomach-churning swings in individual sectors that largely canceled each other out. But traders are positioning for the…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/traders-gird-for-more-s-p-500-volatility-as-marco-risks-rise",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.9
+  },
   {
    "cat": "sector",
    "time": "2026-07-31 19:52",
@@ -13,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -27,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -41,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -55,21 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 19:16",
-   "title": "The Race to Salvage Situational Awareness’ AI Bets",
-   "summary": "Assets at Leopold Aschenbrenner’s hedge fund Situational Awareness has gone from $45 billion to $10 billion in a month. Bloomberg's Nishant Kumar joins \"Bloomberg Brief\" to discuss…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-31/the-race-to-salvage-situational-awareness-ai-bets-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.8
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -83,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.8
+   "heat": 231.8
   },
   {
    "cat": "sector",
@@ -97,49 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 19:00",
-   "title": "New Medicaid work rules could cause patients to lose coverage, rare disease advocates warn",
-   "summary": "New Medicaid work requirements could put rare disease patients’ coverage at risk. NORD CEO Pamela Gavin explains how families can prepare.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/31/new-medicaid-work-rules-insurance-coverage-rare-disease-patients.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 18:53",
-   "title": "Here's Why China Uses Its Coast Guard to Push Territorial Claims",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-07-31/here-s-why-china-uses-its-coast-guard-to-push-territorial-claims-ms8tr766",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 18:46",
-   "title": "Hamas says Trump's Gaza 'disarmament' claim depends on Israel honoring commitments",
-   "summary": "Hamas says it will only disarm after Israel meets previous ceasefire commitments, despite President Donald Trump's announcement of a breakthrough U.S.-brokered agreement.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/31/trump-hamas-disarmament-conditions.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.8
+   "heat": 231.7
   }
  ]
 }

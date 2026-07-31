@@ -1,9 +1,9 @@
 {
- "updated": "2026-07-31 20:11",
+ "updated": "2026-07-31 20:36",
  "items": [
   {
    "cat": "macro",
-   "time": "2026-07-31 20:09",
+   "time": "2026-07-31 20:15",
    "title": "Fed officials who voted to hike rates say action is needed now against inflation",
    "summary": "",
    "srcs": [
@@ -13,35 +13,21 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 71.9
   },
   {
    "cat": "macro",
-   "time": "2026-07-29 17:34",
-   "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford",
-   "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford Motor, Bloom Energy, Microsoft in Focus &nbsp;&nbsp; Tradin…",
+   "time": "2026-07-31 20:30",
+   "title": "Foreign Funds Are Back but Risks From US Rates, AI Trade, Domestic Issues Remain",
+   "summary": "Overseas funds bought about $2.3 billion of Indian equities in July.",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNeEpmTDFPUEdCRmRsamZYaEY2UnBJdFhqRzY2NzRjSGRHQ3VJOGNISkhacC1RMVpERDNNRTRacjRyV3RZUng3RFB0STFMY1RDVmpWcWNXdy1Kd1FfaDJnaERUbXFLUWR0Y1I4MHlVaTZSZTBmdUJSMXk1X0t4cXpZbUxUeG8tSVo0V05pb1FFMlV0VVVJRld2eDJtVm05Q1dCbWlrZFRtNFlrZWRSRDR1R2dGMlRwZzMwQjVpaVlIQ2hWZ2NVd3o3TWhMQndKTUpGY0lmY2pUWUpNb3NWRGpEeTlHNkFUSmlrV2d1Y2lvRHlubTE4LXNFb3JNNVlHT2YyVzd0dDdsVTlwRnh3VUgxOEhOdmphUElDREoxWFg0UjMwQTJ1SW0xc0xXeXI0YlJDUWhkSUk0VU81ekE?oc=5",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-07-31/foreign-funds-are-back-but-risks-from-us-rates-ai-trade-domestic-issues-remain",
      "t": "sec"
     }
    ],
-   "heat": 60.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-28 07:54",
-   "title": "S&P 500 Sees Modest Gain Despite Oil’s 7.5% Drop Amid Ongoing Fed Rate Concerns - TechStock²",
-   "summary": "S&P 500 Sees Modest Gain Despite Oil’s 7.5% Drop Amid Ongoing Fed Rate Concerns &nbsp;&nbsp; TechStock²",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZjFyQjFBQjR4TVNoQU5EbzBMeUtCZm5NZ2VjM0otd3NPcFNTb2Y2M3UtbFdIaUNDeTAxcVhRQm9yalNOZjMyWGt4d0w5UTY5dGRCc3RPd2pEc3BsRzczQlVQa2pFRTJZTENxai1IWE80WlRYN094MHc1WWI5LTVpZnUyeUlWR3EwbGpyWGc4UFROTDhZM01qQmFhVks4Zw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 60.0
+   "heat": 56.0
   },
   {
    "cat": "macro",
@@ -55,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.9
+   "heat": 55.8
   },
   {
    "cat": "macro",
@@ -69,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.7
+   "heat": 55.7
   },
   {
    "cat": "macro",
@@ -83,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.2
+   "heat": 55.1
   },
   {
    "cat": "macro",
@@ -97,21 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 57.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-31 04:16",
-   "title": "Amazon Gains After Fifth Quarter of Cloud Sales Growth",
-   "summary": "Amazon.com Inc. shares jumped after the company reported cloud-computing revenue accelerated for a fifth straight quarter, easing investors’ concerns that it won’t produce a return…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
-     "t": "sec"
-    }
-   ],
-   "heat": 57.3
+   "heat": 53.8
   },
   {
    "cat": "macro",
@@ -125,7 +97,7 @@
      "t": "agg"
     }
    ],
-   "heat": 57.2
+   "heat": 53.1
   },
   {
    "cat": "macro",
@@ -139,21 +111,7 @@
      "t": "agg"
     }
    ],
-   "heat": 56.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-31 11:46",
-   "title": "Guggenheim reiterates Reddit stock rating, keeps $255 price target",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-reddit-stock-rating-keeps-255-price-target-93CH-4827847",
-     "t": "agg"
-    }
-   ],
-   "heat": 56.6
+   "heat": 52.7
   },
   {
    "cat": "macro",
@@ -167,7 +125,35 @@
      "t": "sec"
     }
    ],
-   "heat": 56.6
+   "heat": 52.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-29 17:34",
+   "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford",
+   "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford Motor, Bloom Energy, Microsoft in Focus &nbsp;&nbsp; Tradin…",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNeEpmTDFPUEdCRmRsamZYaEY2UnBJdFhqRzY2NzRjSGRHQ3VJOGNISkhacC1RMVpERDNNRTRacjRyV3RZUng3RFB0STFMY1RDVmpWcWNXdy1Kd1FfaDJnaERUbXFLUWR0Y1I4MHlVaTZSZTBmdUJSMXk1X0t4cXpZbUxUeG8tSVo0V05pb1FFMlV0VVVJRld2eDJtVm05Q1dCbWlrZFRtNFlrZWRSRDR1R2dGMlRwZzMwQjVpaVlIQ2hWZ2NVd3o3TWhMQndKTUpGY0lmY2pUWUpNb3NWRGpEeTlHNkFUSmlrV2d1Y2lvRHlubTE4LXNFb3JNNVlHT2YyVzd0dDdsVTlwRnh3VUgxOEhOdmphUElDREoxWFg0UjMwQTJ1SW0xc0xXeXI0YlJDUWhkSUk0VU81ekE?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 52.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-28 07:54",
+   "title": "S&P 500 Sees Modest Gain Despite Oil’s 7.5% Drop Amid Ongoing Fed Rate Concerns - ts2.tech",
+   "summary": "S&P 500 Sees Modest Gain Despite Oil’s 7.5% Drop Amid Ongoing Fed Rate Concerns &nbsp;&nbsp; ts2.tech",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZjFyQjFBQjR4TVNoQU5EbzBMeUtCZm5NZ2VjM0otd3NPcFNTb2Y2M3UtbFdIaUNDeTAxcVhRQm9yalNOZjMyWGt4d0w5UTY5dGRCc3RPd2pEc3BsRzczQlVQa2pFRTJZTENxai1IWE80WlRYN094MHc1WWI5LTVpZnUyeUlWR3EwbGpyWGc4UFROTDhZM01qQmFhVks4Zw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 52.0
   },
   {
    "cat": "macro",
@@ -181,7 +167,21 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 48.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-31 19:00",
+   "title": "War, El Niño and Heat Waves Threaten Key Food Crops",
+   "summary": "War and weather are combining to threaten the world’s key crop-growing regions, risking another bout of food inflation.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-07-31/war-el-nino-and-heat-waves-threaten-key-food-crops",
+     "t": "sec"
+    }
+   ],
+   "heat": 23.7
   },
   {
    "cat": "macro",
@@ -195,21 +195,77 @@
      "t": "agg"
     }
    ],
-   "heat": 25.8
+   "heat": 21.8
   },
   {
    "cat": "macro",
-   "time": "2026-07-31 11:51",
-   "title": "Federal Realty earnings beat by $0.25, revenue topped estimates",
-   "summary": "",
+   "time": "2026-07-31 05:13",
+   "title": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market (copy) - Santa Maria ",
+   "summary": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market (copy) &nbsp;&nbsp; Santa Maria Times",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/earnings/federal-realty-earnings-beat-by-025-revenue-topped-estimates-4827858",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMDFxWnRxb0JzX2lHb3I1ejRSWFlHRlotWHZYZ01jVjdWUFRmVjNMbnZHSTl3YzlCVEoyeTZ2d0xCNXF2ZjlGaHQwbnNhQ0dWMkhZeEFIZXBTSkV1VTVRVTV5bVo3N0dyeVhNUDk5X1ZWTi0tVm81anJRUmxRa0J6dDQ5a1c3QUgyTDJ4UmMyVGtmRlpYS0NHRVFsRXVSTkQ5ZTZGdzFRWXVhZVl4THdHbVFBajRJd3RQNzI3MV81ajJIckF6MkJGSVdub1NMTHI5Q2xuSndjNGdzV0dPWXFRbFlaMk5Tbkw5Qkw0N3FHWlRIZUZBS2hNMVU0RVBGTnFIVzhpZE1EQUhwbTA?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 24.6
+   "heat": 21.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 20:19",
+   "title": "Moonshot’s Kimi Built on 20,000 Nvidia Chip Cluster From Alibaba",
+   "summary": "Chinese AI champion Moonshot has a computing power agreement with Alibaba Group Holding Ltd. for the use of around 20,000 Nvidia Corp. chips, underscoring China’s continued relianc…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+     "t": "sec"
+    }
+   ],
+   "heat": 232.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 20:15",
+   "title": "EV prices aren't following the 'law of used cars,' analyst says — what it means for buyers and sellers",
+   "summary": "The prices for used electric vehicles have risen this year, which is unusual, experts said. Affordability and high gas prices help explain why, they said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/31/used-ev-prices.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 20:13",
+   "title": "Apple earnings leave Wall Street analysts divided as company faces a series of headwinds",
+   "summary": "Analysts balanced the good news about demand for the company's products with worries over its ability to weather supply constraints and memory prices.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/31/apples-earnings-leave-street-divided-as-it-faces-series-of-headwinds.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 20:09",
+   "title": "Traders Gird for More S&P 500 Volatility as Marco Risks Rise",
+   "summary": "For months, the S&amp;P 500 Index has remained idle, despite stomach-churning swings in individual sectors that largely canceled each other out. But traders are positioning for the…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/traders-gird-for-more-s-p-500-volatility-as-marco-risks-rise",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -223,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -237,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -251,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -265,21 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 19:16",
-   "title": "The Race to Salvage Situational Awareness’ AI Bets",
-   "summary": "Assets at Leopold Aschenbrenner’s hedge fund Situational Awareness has gone from $45 billion to $10 billion in a month. Bloomberg's Nishant Kumar joins \"Bloomberg Brief\" to discuss…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-31/the-race-to-salvage-situational-awareness-ai-bets-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.8
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -293,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.8
+   "heat": 231.8
   },
   {
    "cat": "sector",
@@ -307,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.8
+   "heat": 231.7
   },
   {
    "cat": "sector",
@@ -321,21 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 18:53",
-   "title": "Here's Why China Uses Its Coast Guard to Push Territorial Claims",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-07-31/here-s-why-china-uses-its-coast-guard-to-push-territorial-claims-ms8tr766",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.8
+   "heat": 231.7
   },
   {
    "cat": "sector",
@@ -349,63 +377,21 @@
      "t": "sec"
     }
    ],
-   "heat": 215.8
+   "heat": 231.7
   },
   {
-   "cat": "sector",
-   "time": "2026-07-31 18:42",
-   "title": "Chevron Says Big Fuel Margins to Persist Amid Energy ‘Stress’",
-   "summary": "Chevron Corp. expects fuel-making margins to remain elevated as long as energy markets remain “under stress,” Chief Executive Officer Eimear Bonner said.",
+   "cat": "stock",
+   "time": "2026-07-31 20:06",
+   "title": "Chip Rebound, Amazon Results Bolster Stock Rally | Bloomberg Brief 07/31/26",
+   "summary": "US equity futures gain after chipmakers including Samsung and SK Hynix rebounded and Amazon posted strong earnings. The Bank of Japan keeps its policy rate unchanged following a cu…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-31/chevron-says-big-fuel-margins-to-persist-amid-energy-stress",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-31/bloomberg-brief-07-31-26-video",
      "t": "sec"
     }
    ],
-   "heat": 215.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 18:30",
-   "title": "AI Use Complicating Relationships and Dividing Friends, Families",
-   "summary": "AI is dividing people not just over what the technology can do, but what kind of future they want to live in.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-07-31/ai-use-complicating-relationships-and-dividing-friends-families",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 18:20",
-   "title": "Chip Rebound Gathers Speed, Iran War Flares Once Again, More",
-   "summary": "Source: Bloomberg, 6:31",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-07-31/chip-rebound-gathers-speed-iran-war-flares-once-again-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 18:07",
-   "title": "ByteDance, MiniMax Roll Out Upgraded AI-Video Models",
-   "summary": "ByteDance, MiniMax Roll Out Upgraded AI-Video Models &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWxQX0t1NkIyaHBtNE9oV3o4TS1FcnVCanp5THhTcWVIbjQwR1JtSFJIUTJyUklrTEtJd09XczJHczN2dkhUWFROZUIzeHVqMlk4TFlUbEM4N2dMWkZxbU8xSWhoeUxaUG9JaTI5TW54QnFnd1RvZ2FUalFOdWJQbGxGOUdHMEtjN19JeHVFbDhwT2tzcWZWTXZpWVlUSnZRbzduZFZZMFdDZw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.7
+   "heat": 159.9
   },
   {
    "cat": "stock",
@@ -419,13 +405,13 @@
      "t": "sec"
     }
    ],
-   "heat": 175.9
+   "heat": 159.8
   },
   {
    "cat": "stock",
    "time": "2026-07-31 10:44",
-   "title": "US stocks: S&P 500 ends higher as investors await tech earnings - The Economic Times",
-   "summary": "US stocks: S&P 500 ends higher as investors await tech earnings &nbsp;&nbsp; The Economic Times",
+   "title": "US stocks: S&P 500 ends higher as investors await tech earnings - economictimes.com",
+   "summary": "US stocks: S&P 500 ends higher as investors await tech earnings &nbsp;&nbsp; economictimes.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -433,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 174.4
+   "heat": 158.4
   },
   {
    "cat": "stock",
@@ -447,27 +433,13 @@
      "t": "sec"
     }
    ],
-   "heat": 174.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-31 11:50",
-   "title": "AutoNation beats on earnings but stock slips 2% on revenue miss",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/earnings/autonation-beats-on-earnings-but-stock-slips-2-on-revenue-miss-93CH-4827856",
-     "t": "agg"
-    }
-   ],
-   "heat": 172.6
+   "heat": 158.2
   },
   {
    "cat": "stock",
    "time": "2026-07-24 21:37",
-   "title": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs - The Economic Times",
-   "summary": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs &nbsp;&nbsp; The Economic Times",
+   "title": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs - economictimes.com",
+   "summary": "US stocks today: S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs &nbsp;&nbsp; economictimes.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -475,25 +447,25 @@
      "t": "sec"
     }
    ],
-   "heat": 168.0
+   "heat": 152.0
   },
   {
    "cat": "stock",
-   "time": "2026-07-31 15:41",
-   "title": "SK Hynix, Samsung shares skyrocket to clock best days as AI rally roars back",
-   "summary": "South Korea's chip heavyweights SK Hynix and Samsung Electronics soared more than 20% on Friday, tracking a sharp rally in U.S. technology stocks.",
+   "time": "2026-07-31 15:21",
+   "title": "European Stocks Trim Monthly Gain as Novo Nordisk and UMG Slump",
+   "summary": "European shares pared some of their Friday gains as a decline on Novo Nordisk A/S weighed on the market, countering a rally in tech stocks and another round of largely upbeat resul…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/european-stocks-rally-to-fresh-record-on-tech-strong-earnings",
      "t": "sec"
     }
    ],
-   "heat": 155.2
+   "heat": 147.1
   },
   {
    "cat": "stock",
-   "time": "2026-07-31 20:01",
+   "time": "2026-07-31 20:30",
    "title": "Stocks making the biggest moves premarket: Replimune, Chevron, Apple, Amazon, Moderna & more",
    "summary": "These are the stocks posting the largest moves premarket.",
    "srcs": [
@@ -503,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 144.0
+   "heat": 136.0
   },
   {
    "cat": "stock",
@@ -517,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 144.0
+   "heat": 135.9
   },
   {
    "cat": "stock",
@@ -531,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 143.9
+   "heat": 135.9
   },
   {
    "cat": "stock",
@@ -545,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 143.9
+   "heat": 135.8
   },
   {
    "cat": "stock",
@@ -559,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 143.8
+   "heat": 135.7
   },
   {
    "cat": "stock",
@@ -573,21 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 143.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-31 18:46",
-   "title": "Traders Got Hit With Drama Everywhere This Week",
-   "summary": "From Korean stocks to US bonds, markets swings are turning more severe.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-07-31/traders-got-hit-with-drama-everywhere-this-week",
-     "t": "sec"
-    }
-   ],
-   "heat": 143.8
+   "heat": 135.7
   },
   {
    "cat": "stock",
@@ -601,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 143.6
+   "heat": 135.6
   },
   {
    "cat": "stock",
@@ -615,7 +573,21 @@
      "t": "sec"
     }
    ],
-   "heat": 143.6
+   "heat": 135.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-31 06:15",
+   "title": "Chips Stocks and Amazon Bolster Rebound in Tech: Markets Wrap",
+   "summary": "Technology stocks rallied as a rebound in chipmakers carried into Friday, ending a month marked by a steep derating in this year’s most popular trade on an upbeat note. Amazon.com …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 133.6
   },
   {
    "cat": "global",
@@ -629,21 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 19:49",
-   "title": "Silver Price Forecast: XAG/USD remains under pressure as bond yields, US Dollar rebound",
-   "summary": "Silver price (XAG/USD) is down 1.7% to near $58.00 during the European trading session on Friday. The white metal continues to decline throughout the day as United States (US) Trea…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-under-pressure-as-bond-yields-us-dollar-rebound-202607311149",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.9
+   "heat": 69.9
   },
   {
    "cat": "global",
@@ -657,7 +615,21 @@
      "t": "sec"
     }
    ],
-   "heat": 63.9
+   "heat": 67.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-31 19:49",
+   "title": "Silver Price Forecast: XAG/USD remains under pressure as bond yields, US Dollar rebound",
+   "summary": "Silver price (XAG/USD) is down 1.7% to near $58.00 during the European trading session on Friday. The white metal continues to decline throughout the day as United States (US) Trea…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-under-pressure-as-bond-yields-us-dollar-rebound-202607311149",
+     "t": "sec"
+    }
+   ],
+   "heat": 55.9
   },
   {
    "cat": "global",
@@ -671,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.9
+   "heat": 55.8
   },
   {
    "cat": "global",
@@ -685,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.9
+   "heat": 51.8
   },
   {
    "cat": "global",
@@ -699,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.9
+   "heat": 51.8
   },
   {
    "cat": "global",
@@ -727,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.7
+   "heat": 51.6
   },
   {
    "cat": "global",
@@ -773,21 +745,7 @@
   },
   {
    "cat": "global",
-   "time": "2026-07-31 18:02",
-   "title": "Euro rebounds vs Yen as BoJ rate hold, Eurozone inflation support",
-   "summary": "EUR/JPY trades around 184.00 on Friday, stabilizing after the sharp volatility seen on Thursday. The cross plunged to near 182.00 from around 187.00, losing almost 500 pips within …",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/euro-rebounds-vs-yen-as-boj-rate-hold-eurozone-inflation-support-202607311002",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 20:08",
+   "time": "2026-07-31 20:18",
    "title": "Exxon and Chevron profits surge on rising oil prices due to Iran war",
    "summary": "ExxonMobil and Chevron on Friday reported second-quarter profits that surged on rising oil prices due to the Iran war.",
    "srcs": [
@@ -797,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 35.9
   },
   {
    "cat": "global",
@@ -811,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 35.9
   },
   {
    "cat": "global",
@@ -828,6 +786,20 @@
    "heat": 33.0
   },
   {
+   "cat": "global",
+   "time": "2026-07-31 13:07",
+   "title": "Oil Slips as More Crude Flows Out of Persian Gulf",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-slips-as-more-crude-flows-out-of-persian-gulf-200684933",
+     "t": "agg"
+    }
+   ],
+   "heat": 32.8
+  },
+  {
    "cat": "crypto",
    "time": "2026-07-31 19:07",
    "title": "Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year",
@@ -839,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.8
+   "heat": 83.8
   },
   {
    "cat": "crypto",
@@ -853,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.9
+   "heat": 74.9
   },
   {
    "cat": "crypto",
@@ -867,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 59.9
   },
   {
    "cat": "crypto",
@@ -881,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.9
+   "heat": 59.8
   },
   {
    "cat": "crypto",
@@ -895,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.4
+   "heat": 59.3
   },
   {
    "cat": "crypto",
@@ -909,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.4
+   "heat": 59.3
   },
   {
    "cat": "crypto",
@@ -923,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.3
+   "heat": 59.2
   },
   {
    "cat": "crypto",
@@ -937,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.1
+   "heat": 59.0
   },
   {
    "cat": "crypto",
@@ -965,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.4
+   "heat": 58.3
   },
   {
    "cat": "crypto",
@@ -979,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.1
+   "heat": 58.0
   },
   {
    "cat": "crypto",
@@ -993,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 57.6
+   "heat": 57.5
   },
   {
    "cat": "crypto",
@@ -1007,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 57.4
+   "heat": 57.3
   },
   {
    "cat": "crypto",
@@ -1021,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.5
+   "heat": 39.4
   },
   {
    "cat": "crypto",
@@ -1035,21 +1007,49 @@
      "t": "sec"
     }
    ],
-   "heat": 33.6
+   "heat": 37.5
   },
   {
    "cat": "sector",
-   "time": "2026-07-30 08:19",
-   "title": "08:52:24【英伟达合作伙伴ChipAgents扩大融资规模 借助AI加速芯片开发】",
-   "summary": "08:52:24【英伟达合作伙伴ChipAgents扩大融资规模 借助AI加速芯片开发】 &nbsp;&nbsp; 财联社",
+   "time": "2026-07-27 22:33",
+   "title": "18:24:03【汇丰控股将在新加坡设全球人工智能卓越中心 并招聘超100名AI专家】",
+   "summary": "18:24:03【汇丰控股将在新加坡设全球人工智能卓越中心 并招聘超100名AI专家】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SaWsxTW52Z293eEtkTGVhaW40dUZVRVo3T25LYW1NU3RoYTFoR0pJR0hUaWF5ODg0bElONngzNGR3RktQaGZ2Xw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03LWhLejMwSFMxU1FpYTZUemtQS1pZVHZOZlBFMURvWEIwSW83S0xmcVh2QktHcFRuUDRRMnZMeml6TDN2TU9nRg?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 214.0
+   "heat": 224.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 18:07",
+   "title": "ByteDance, MiniMax Roll Out Upgraded AI-Video Models",
+   "summary": "ByteDance, MiniMax Roll Out Upgraded AI-Video Models &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWxQX0t1NkIyaHBtNE9oV3o4TS1FcnVCanp5THhTcWVIbjQwR1JtSFJIUTJyUklrTEtJd09XczJHczN2dkhUWFROZUIzeHVqMlk4TFlUbEM4N2dMWkZxbU8xSWhoeUxaUG9JaTI5TW54QnFnd1RvZ2FUalFOdWJQbGxGOUdHMEtjN19JeHVFbDhwT2tzcWZWTXZpWVlUSnZRbzduZFZZMFdDZw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 12:17",
+   "title": "New York sues Kalshi over unlicensed gambling claims",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/new-york-sues-kalshi-over-unlicensed-gambling-claims-93CH-4827994",
+     "t": "agg"
+    }
+   ],
+   "heat": 228.6
   }
  ]
 }
