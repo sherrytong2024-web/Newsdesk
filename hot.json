@@ -1,6 +1,20 @@
 {
- "updated": "2026-07-31 09:00",
+ "updated": "2026-07-31 10:12",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-07-31 09:53",
+   "title": "Apple Weak Forecast, Anthropic AI Models Hacked Systems, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-07-31/apple-weak-forecast-anthropic-ai-models-hacked-systems-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.9
+  },
   {
    "cat": "sector",
    "time": "2026-07-31 08:23",
@@ -13,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.9
+   "heat": 215.7
   },
   {
    "cat": "sector",
@@ -27,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.9
+   "heat": 215.7
   },
   {
    "cat": "sector",
@@ -41,35 +55,77 @@
      "t": "sec"
     }
    ],
-   "heat": 211.6
+   "heat": 215.4
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 06:20",
-   "title": "Apple Slides After Supply Shortages Hurts Sales Forecast",
-   "summary": "Apple stocks tumbled in late trading after component shortages weighed on the company’s sales forecast, signaling that industrywide supply constraints are taking a bigger toll than…",
+   "time": "2026-07-30 17:14",
+   "title": "Danantara Dollar Debt Plan Grapples With Global Volatility",
+   "summary": "Indonesian sovereign wealth fund Danantara’s planned dollar notes are unlikely to price quickly as a global bond rout clouds debt issuance, people familiar with the matter said.",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-30/apple-slides-after-supply-shortages-hurts-sales-forecast-video",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/danantara-dollar-debt-plan-grapples-with-global-bond-volatility",
      "t": "sec"
     }
    ],
-   "heat": 211.6
+   "heat": 213.2
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 05:45",
-   "title": "Bloomberg Businessweek Daily: Amazon and Apple Report (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-07-31 09:30",
+   "title": "India Billionaire Family Offices Offer Profit-Sharing to Attract Top Talent",
+   "summary": "A race for top investment talent is pushing India’s billionaire-owned family offices to increasingly offer profit-sharing arrangements, highlighting the fierce competition for mone…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-07-30/bloomberg-businessweek-daily-amazon-and-apple-report-podcast",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/india-billionaire-family-offices-offer-profit-sharing-to-attract-top-talent",
      "t": "sec"
     }
    ],
-   "heat": 211.5
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 09:11",
+   "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+   "summary": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 09:00",
+   "title": "Top India Fund Manager Favors Banks, Power as Oil Risks Loom",
+   "summary": "India’s second-largest money manager is bullish on banks, oil refiners, power utilities and drugmakers, betting they are best placed to benefit from demand tailwinds despite a vola…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/top-india-fund-manager-favors-banks-power-as-oil-risks-loom",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 08:51",
+   "title": "Japan Declines to Confirm Yen Intervention, Hints at US Support",
+   "summary": "Japan’s authorities refrained from confirming that they intervened in the foreign-exchange market during overnight trading after the yen’s sharp rally, while also hinting at some s…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/japan-declines-to-confirm-yen-intervention-hints-at-us-support",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
   },
   {
    "cat": "sector",
@@ -83,63 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 08:29",
-   "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
-   "summary": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 07:06",
-   "title": "California’s Atherton Reclaimed Spot of Priciest US ZIP Code",
-   "summary": "Atherton has reclaimed the top spot of priciest area in the US, encapsulating Silicon Valley’s allure for the ultrawealthy as well as darker realities of inequality in California",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-07-30/california-s-atherton-reclaimed-spot-of-priciest-us-zip-code",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 07:00",
-   "title": "Singapore's Sentosa Cove Island Slides From Monte Carlo Dream to Decaying Homes",
-   "summary": "Sentosa Cove was once hailed&nbsp;as the city-state's answer to Monte Carlo, but many villas have sat empty for years.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/features/2026-07-30/singapore-s-sentosa-cove-island-slides-from-monte-carlo-dream-to-decaying-homes",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 07:00",
-   "title": "Anthropic AI Models Hacked Three Organizations During Tests",
-   "summary": "Anthropic PBC announced that its artificial intelligence models had breached three different organizations during cybersecurity tests that went awry, a little more than a week afte…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/anthropic-s-ai-models-hacked-three-organizations-during-tests",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.7
+   "heat": 207.7
   }
  ]
 }

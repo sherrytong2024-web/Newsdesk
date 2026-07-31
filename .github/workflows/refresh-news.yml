@@ -15,19 +15,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      # 仓库根目录本身就是 outputs/，脚本与生成物都在根目录（不是 outputs/ 子目录）
       - name: Run script
-        run: python3 -u ci_runner.py
+        run: python3 update_news.py
         env:
           NEWSDESK_NO_PUSH: "1"
-      - name: Upload debug log
-        if: always()
-        run: |
-          test -f ci_debug.log && cat ci_debug.log || echo "No debug log found"
       - name: Commit and push
         run: |
           git config user.email "newsbot@users.noreply.github.com"
           git config user.name "newsbot"
-          git add outputs/news.json outputs/hot.json outputs/financial-news-desk.html outputs/archive
+          git add news.json hot.json financial-news-desk.html archive
           git diff --cached --quiet || git commit -m "auto: refresh news $(date +'%Y-%m-%d %H:%M %Z')"
           git pull --rebase --autostash origin main || true
           git push

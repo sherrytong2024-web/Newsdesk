@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31 09:00",
+ "updated": "2026-07-31 10:12",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.0
+   "heat": 54.8
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 57.4
+   "heat": 53.2
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.6
+   "heat": 51.4
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 53.4
+   "heat": 49.2
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 48.0
   },
   {
    "cat": "macro",
@@ -83,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.7
+   "heat": 47.5
   },
   {
    "cat": "macro",
@@ -97,21 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-31 04:16",
-   "title": "Amazon Gains After Fifth Straight Quarter of Cloud Sales Growth",
-   "summary": "Amazon.com Inc. shares jumped after the company reported cloud-computing revenue accelerated for a fifth straight quarter, easing investors’ concerns that it won’t produce a return…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.2
+   "heat": 47.3
   },
   {
    "cat": "macro",
@@ -125,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.5
+   "heat": 46.3
   },
   {
    "cat": "macro",
@@ -139,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 44.0
+   "heat": 40.0
   },
   {
    "cat": "macro",
@@ -153,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 44.0
+   "heat": 40.0
   },
   {
    "cat": "macro",
@@ -167,7 +153,7 @@
      "t": "agg"
     }
    ],
-   "heat": 27.9
+   "heat": 27.7
   },
   {
    "cat": "macro",
@@ -181,35 +167,63 @@
      "t": "agg"
     }
    ],
-   "heat": 27.7
+   "heat": 27.5
   },
   {
    "cat": "macro",
-   "time": "2026-07-31 04:38",
-   "title": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
-   "summary": "Trump said he'd \"like to see tariffs on Iran\" added to a bill that would impose economic sanctions on Russia and those supporting its war against Ukraine.",
+   "time": "2026-07-31 07:55",
+   "title": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market (copy) - Santa Maria ",
+   "summary": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market (copy) &nbsp;&nbsp; Santa Maria Times",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMDFxWnRxb0JzX2lHb3I1ejRSWFlHRlotWHZYZ01jVjdWUFRmVjNMbnZHSTl3YzlCVEoyeTZ2d0xCNXF2ZjlGaHQwbnNhQ0dWMkhZeEFIZXBTSkV1VTVRVTV5bVo3N0dyeVhNUDk5X1ZWTi0tVm81anJRUmxRa0J6dDQ5a1c3QUgyTDJ4UmMyVGtmRlpYS0NHRVFsRXVSTkQ5ZTZGdzFRWXVhZVl4THdHbVFBajRJd3RQNzI3MV81ajJIckF6MkJGSVdub1NMTHI5Q2xuSndjNGdzV0dPWXFRbFlaMk5Tbkw5Qkw0N3FHWlRIZUZBS2hNMVU0RVBGTnFIVzhpZE1EQUhwbTA?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 19.3
+   "heat": 15.6
   },
   {
    "cat": "macro",
-   "time": "2026-07-31 04:00",
-   "title": "Weak Yen Offers Toyota an Earnings Respite From Tariffs, War",
-   "summary": "The yen’s slide to a 40-year low may be causing headaches for Japanese policymakers, but exporters such as Toyota Motor Corp. are set to reap an earnings boon, offering a much-need…",
+   "time": "2026-07-31 01:54",
+   "title": "Yen weakens after intervention-led surge ahead of BOJ policy decision",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/weak-yen-offers-toyota-an-earnings-respite-from-tariffs-war",
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/yen-weakens-after-interventionled-surge-ahead-of-boj-policy-decision-4826616",
+     "t": "agg"
+    }
+   ],
+   "heat": 12.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-31 00:43",
+   "title": "Yen Spikes on Intervention Rumours After Weak US GDP",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/yen-spikes-on-intervention-rumours-after-weak-us-gdp-200684912",
+     "t": "agg"
+    }
+   ],
+   "heat": 12.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 09:53",
+   "title": "Apple Weak Forecast, Anthropic AI Models Hacked Systems, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-07-31/apple-weak-forecast-anthropic-ai-models-hacked-systems-more",
      "t": "sec"
     }
    ],
-   "heat": 19.2
+   "heat": 215.9
   },
   {
    "cat": "sector",
@@ -223,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.9
+   "heat": 215.7
   },
   {
    "cat": "sector",
@@ -237,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.9
+   "heat": 215.7
   },
   {
    "cat": "sector",
@@ -251,35 +265,77 @@
      "t": "sec"
     }
    ],
-   "heat": 211.6
+   "heat": 215.4
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 06:20",
-   "title": "Apple Slides After Supply Shortages Hurts Sales Forecast",
-   "summary": "Apple stocks tumbled in late trading after component shortages weighed on the company’s sales forecast, signaling that industrywide supply constraints are taking a bigger toll than…",
+   "time": "2026-07-30 17:14",
+   "title": "Danantara Dollar Debt Plan Grapples With Global Volatility",
+   "summary": "Indonesian sovereign wealth fund Danantara’s planned dollar notes are unlikely to price quickly as a global bond rout clouds debt issuance, people familiar with the matter said.",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-30/apple-slides-after-supply-shortages-hurts-sales-forecast-video",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/danantara-dollar-debt-plan-grapples-with-global-bond-volatility",
      "t": "sec"
     }
    ],
-   "heat": 211.6
+   "heat": 213.2
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 05:45",
-   "title": "Bloomberg Businessweek Daily: Amazon and Apple Report (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-07-31 09:30",
+   "title": "India Billionaire Family Offices Offer Profit-Sharing to Attract Top Talent",
+   "summary": "A race for top investment talent is pushing India’s billionaire-owned family offices to increasingly offer profit-sharing arrangements, highlighting the fierce competition for mone…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-07-30/bloomberg-businessweek-daily-amazon-and-apple-report-podcast",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/india-billionaire-family-offices-offer-profit-sharing-to-attract-top-talent",
      "t": "sec"
     }
    ],
-   "heat": 211.5
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 09:11",
+   "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+   "summary": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 09:00",
+   "title": "Top India Fund Manager Favors Banks, Power as Oil Risks Loom",
+   "summary": "India’s second-largest money manager is bullish on banks, oil refiners, power utilities and drugmakers, betting they are best placed to benefit from demand tailwinds despite a vola…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/top-india-fund-manager-favors-banks-power-as-oil-risks-loom",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 08:51",
+   "title": "Japan Declines to Confirm Yen Intervention, Hints at US Support",
+   "summary": "Japan’s authorities refrained from confirming that they intervened in the foreign-exchange market during overnight trading after the yen’s sharp rally, while also hinting at some s…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/japan-declines-to-confirm-yen-intervention-hints-at-us-support",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
   },
   {
    "cat": "sector",
@@ -293,21 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 08:29",
-   "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
-   "summary": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.9
+   "heat": 207.7
   },
   {
    "cat": "sector",
@@ -321,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.7
+   "heat": 207.5
   },
   {
    "cat": "sector",
@@ -335,13 +377,13 @@
      "t": "sec"
     }
    ],
-   "heat": 203.7
+   "heat": 207.5
   },
   {
    "cat": "sector",
    "time": "2026-07-31 07:00",
    "title": "Anthropic AI Models Hacked Three Organizations During Tests",
-   "summary": "Anthropic PBC announced that its artificial intelligence models had breached three different organizations during cybersecurity tests that went awry, a little more than a week afte…",
+   "summary": "Anthropic PBC said its artificial intelligence models breached three organizations during cybersecurity tests that went awry, a little more than a week after its chief rival, OpenA…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
@@ -349,67 +391,25 @@
      "t": "sec"
     }
    ],
-   "heat": 203.7
+   "heat": 207.5
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 06:43",
-   "title": "OpenAI and Anthropic staffers sign call for US to pace AI development",
-   "summary": "They’re calling on the US government to help pace their tech’s development.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-07-30/openai-and-anthropic-staffers-sign-call-for-us-to-pace-ai-development",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 06:37",
-   "title": "Jim Cramer says this hedge fund's blowup reveals the hidden risks of leverage",
-   "summary": "CNBC's Jim Cramer said the forced unwind of Situational Awareness shows how borrowing money can quickly magnify losses and trigger forced selling.",
+   "time": "2026-07-31 06:50",
+   "title": "Indonesian state telecom said to weigh sale of venture arm managing $830 million",
+   "summary": "Indonesia's state-owned telecom giant is exploring a sale of MDI Ventures, according to people familiar with the matter.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/jim-cramer-situational-awareness-blowup-reveals-hidden-risks-of-leverage.html",
+     "u": "https://www.cnbc.com/2026/07/31/indonesia-venture-capital-corruption-danantara-mdi-ventures-tanihub.html",
      "t": "sec"
     }
    ],
-   "heat": 203.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 04:29",
-   "title": "China’s Politburo Pledges Incremental Policy Support to Bolster Economy",
-   "summary": "China’s Politburo Pledges Incremental Policy Support to Bolster Economy &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUWN2WktKWXBQX3ZWWTVKSm8wVFBpQ3M5Ql84TkZaSm1lZjJOckw4eVFWbUwzdWhDRmhBU1hNUFNHSWZKYlBZQWJxaktiVDhoejVKRkVjeU13NGFFZjZRemdSZVNuRXhjZFlSRGM2WnBJSDdxZHhfUG4zdFNNdUZaaTJfQUNBclFTMlEtSmc2WFU1ZGttUEY2eUE1YzR6R2VucXNqejVLYU1lcGItaEx4ZFBOSTE5UURIdU9TX21iNnV3Qk0?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.2
+   "heat": 207.4
   },
   {
    "cat": "stock",
-   "time": "2026-07-31 00:54",
-   "title": "US stock futures rise after upbeat Amazon earnings; Apple slides",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-upbeat-amazon-earnings-apple-slides-4826634",
-     "t": "agg"
-    }
-   ],
-   "heat": 152.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-27 15:00",
+   "time": "2026-07-29 04:02",
    "title": "US stocks: S&P 500 ends higher as investors await tech earnings - The Economic Times",
    "summary": "US stocks: S&P 500 ends higher as investors await tech earnings &nbsp;&nbsp; The Economic Times",
    "srcs": [
@@ -419,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 148.0
+   "heat": 140.0
   },
   {
    "cat": "stock",
@@ -433,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 148.0
+   "heat": 140.0
   },
   {
    "cat": "stock",
@@ -447,13 +447,13 @@
      "t": "sec"
     }
    ],
-   "heat": 136.0
+   "heat": 123.8
   },
   {
    "cat": "stock",
    "time": "2026-07-31 06:15",
    "title": "Record Korean Rally Lifts Stocks, Yen Pares Gains: Markets Wrap",
-   "summary": "South Korean stocks posted a record intraday gain, lifting Asian shares as investors renewed bets on the artificial intelligence trade after this week’s rout. The yen weakened, giv…",
+   "summary": "South Korean stocks posted a record intraday gain, boosting Asian shares as investors renewed bets on the artificial intelligence trade after this week’s rout. The yen weakened, gi…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -461,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 135.5
+   "heat": 123.3
   },
   {
    "cat": "stock",
@@ -475,21 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 135.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-31 07:59",
-   "title": "Australia Pension Cuts Local Stocks for Global, Emerging Markets",
-   "summary": "Australian pension fund Cbus Super is cutting its exposure to domestic stocks in favor of global and emerging markets, becoming the latest institutional investor to curb its relian…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/australia-pension-cuts-local-stocks-for-global-emerging-markets",
-     "t": "sec"
-    }
-   ],
-   "heat": 111.8
+   "heat": 123.0
   },
   {
    "cat": "stock",
@@ -503,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.8
+   "heat": 107.6
   },
   {
    "cat": "stock",
@@ -517,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.6
+   "heat": 107.4
   },
   {
    "cat": "stock",
@@ -531,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.6
+   "heat": 107.4
   },
   {
    "cat": "stock",
@@ -545,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.4
+   "heat": 107.2
   },
   {
    "cat": "stock",
@@ -559,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.1
+   "heat": 106.9
   },
   {
    "cat": "stock",
@@ -573,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 106.5
+   "heat": 102.3
   },
   {
    "cat": "stock",
@@ -587,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 105.5
+   "heat": 101.3
   },
   {
    "cat": "stock",
@@ -601,7 +587,21 @@
      "t": "sec"
     }
    ],
-   "heat": 105.4
+   "heat": 101.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-29 16:30",
+   "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+   "summary": "Stock Market: Will S&P 500 Open Up or Down Today? &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYjRKVWlSTkg2WExLa2VpY1hOU1dKUzJOYXhlNWJuVXhXcjF0ckUxQl82WkNjdXhYNS1lV2lFX3E5S19fZFVEM1YydEVOWTJSall2b01mbTN5TnRsRjkwcWJTczNmSnI4ZmVYYTJ5TFlWT2lSYWFpcllzVmQ1b2ptd1VtaFktUEJDRFlGNlBsajlsajhiUWY1OEJsNmQ2bWttNTJlS1RVZnZYeV9tcVZFUmpnYjBGeUdIc3ZQTlZCVXQ4SnF1MGdiS3htYzBtSUN5NHV6d1dPOVN5Ry1CeVJJTHN6OG4?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 101.0
   },
   {
    "cat": "global",
@@ -615,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.8
+   "heat": 43.6
   },
   {
    "cat": "global",
@@ -629,21 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 04:24",
-   "title": "Oil: Key driver of UK inflation scenarios – Rabobank",
-   "summary": "RaboResearch highlights Oil as the dominant input for UK monetary policy. The Bank of England’s central forecast assumes Oil prices fall from $76 to around $71, with inflation peak…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/oil-key-driver-of-uk-inflation-scenarios-rabobank-202607302024",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.2
+   "heat": 35.8
   },
   {
    "cat": "global",
@@ -657,7 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.6
+   "heat": 31.4
   },
   {
    "cat": "global",
@@ -671,21 +657,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 05:00",
-   "title": "Forex Today: US Dollar extends sell-off after weak US growth, Yen surges on suspected intervention",
-   "summary": "The US Dollar (USD) falls sharply during the American session on Thursday after United States economic growth missed expectations and underlying inflation moderated.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/forex-today-us-dollar-extends-sell-off-after-weak-us-growth-yen-surges-on-suspected-intervention-202607302100",
-     "t": "sec"
-    }
-   ],
-   "heat": 35.3
+   "heat": 31.2
   },
   {
    "cat": "global",
@@ -699,7 +671,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.0
+   "heat": 30.8
   },
   {
    "cat": "global",
@@ -713,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.8
+   "heat": 29.6
   },
   {
    "cat": "global",
@@ -727,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 28.0
   },
   {
    "cat": "global",
@@ -741,49 +713,35 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 28.0
   },
   {
    "cat": "global",
-   "time": "2026-07-31 06:58",
-   "title": "The Japanese Yen gets its ambush, and the Bank of Japan gets overnight to justify it",
-   "summary": "USD/JPY trades just above 159.50, down 2.31% and more than five Yen below a high set just short of 164.00.",
+   "time": "2026-07-31 09:24",
+   "title": "New Zealand Dollar holds losses following China PMI data",
+   "summary": "NZD/USD loses ground after three days of gains, trading around 0.5870 during the Asian hours on Friday. The pair remains subdued following the release of China's Purchasing Manager…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/the-japanese-yen-gets-its-ambush-and-the-bank-of-japan-gets-overnight-to-justify-it-202607302258",
+     "u": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-ahead-of-china-pmi-data-202607310124",
      "t": "sec"
     }
    ],
-   "heat": 27.7
+   "heat": 23.9
   },
   {
    "cat": "global",
-   "time": "2026-07-31 06:16",
-   "title": "USD/CHF Price Forecast: 50-day SMA guards bullish structure",
-   "summary": "The USD/CHF retreats for the second straight day, down more than 1% amid growing speculation of an intervention in the FX markets, which boosted the Japanese Yen. The pair fell to …",
+   "time": "2026-07-31 09:12",
+   "title": "Euro softens to near 1.1500 as US-Iran war widens",
+   "summary": "The EUR/ USD pair loses ground to near 1.1515 during the early Asian trading hours on Friday. The Euro (EUR) softens against the US Dollar (USD) amid risk-off sentiment and fears o…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/usd-chf-price-forecast-50-day-sma-guards-bullish-structure-202607302216",
+     "u": "https://www.fxstreet.com/news/euro-softens-to-near-11500-as-us-iran-war-widens-202607310112",
      "t": "sec"
     }
    ],
-   "heat": 27.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 06:00",
-   "title": "Bank of Japan set to keep interest rates unchanged as markets seek tightening clues",
-   "summary": "Investors are turning their attention to the Bank of Japan’s (BoJ) monetary policy announcement on Friday, after the Japanese Yen (JPY) staged a dramatic rebound during Thursday's …",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/bank-of-japan-set-to-keep-interest-rates-unchanged-after-suspected-yen-intervention-202607302200",
-     "t": "sec"
-    }
-   ],
-   "heat": 27.5
+   "heat": 23.8
   },
   {
    "cat": "global",
@@ -797,21 +755,63 @@
      "t": "sec"
     }
    ],
-   "heat": 23.7
+   "heat": 23.5
   },
   {
    "cat": "global",
-   "time": "2026-07-31 07:00",
-   "title": "The Australian Dollar clears a big figure on an intervention it will come to regret",
-   "summary": "AUD/USD trades above 0.7000, up 1.06% and roughly 85 pips clear of a session low set just below 0.6950 in the early European hours. The advance cut through the 50-day Exponential M…",
+   "time": "2026-07-30 15:02",
+   "title": "Bond Vigilantes May Be US Dollar’s Best Friends",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/bond-vigilantes-may-be-us-dollars-best-friends-200684856",
+     "t": "agg"
+    }
+   ],
+   "heat": 22.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 22:37",
+   "title": "Gold Faces Directional Risk as Trump’s Iran Stance Keeps Shifting",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-faces-directional-risk-as-trumps-iran-stance-keeps-shifting-200684903",
+     "t": "agg"
+    }
+   ],
+   "heat": 20.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-31 06:58",
+   "title": "The Japanese Yen gets its ambush, and the Bank of Japan gets overnight to justify it",
+   "summary": "USD/JPY trades just above 159.50, down 2.31% and more than five Yen below a high set just short of 164.00.",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/the-australian-dollar-clears-a-big-figure-on-an-intervention-it-will-come-to-regret-202607302300",
+     "u": "https://www.fxstreet.com/news/the-japanese-yen-gets-its-ambush-and-the-bank-of-japan-gets-overnight-to-justify-it-202607302258",
      "t": "sec"
     }
    ],
-   "heat": 23.7
+   "heat": 19.5
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 19:22",
+   "title": "Why War Hurt Gold at First — and Why the Safe-Haven Trade Is Back",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/why-war-hurt-gold-at-first--and-why-the-safehaven-trade-is-back-200684885",
+     "t": "agg"
+    }
+   ],
+   "heat": 19.5
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.2
+   "heat": 107.0
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.4
+   "heat": 95.2
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.6
+   "heat": 94.4
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.9
+   "heat": 63.7
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.4
+   "heat": 63.2
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.3
+   "heat": 63.1
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.3
+   "heat": 63.1
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.2
+   "heat": 63.0
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.9
+   "heat": 62.7
   },
   {
    "cat": "crypto",
@@ -951,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.5
+   "heat": 62.3
   },
   {
    "cat": "crypto",
@@ -965,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.5
+   "heat": 62.3
   },
   {
    "cat": "crypto",
@@ -979,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.4
+   "heat": 62.2
   },
   {
    "cat": "crypto",
@@ -993,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.2
+   "heat": 62.0
   },
   {
    "cat": "crypto",
@@ -1007,13 +1007,13 @@
      "t": "sec"
     }
    ],
-   "heat": 62.2
+   "heat": 62.0
   },
   {
    "cat": "sector",
    "time": "2026-07-29 19:57",
    "title": "19:57:57【联电业绩亮眼且上调资本开支 AI订单从GPU外溢至成熟制程】",
-   "summary": "19:57:57【联电业绩亮眼且上调资本开支 AI订单从GPU外溢至成熟制程】 &nbsp;&nbsp; cls.cn",
+   "summary": "19:57:57【联电业绩亮眼且上调资本开支 AI订单从GPU外溢至成熟制程】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
@@ -1021,21 +1021,21 @@
      "t": "sec"
     }
    ],
-   "heat": 197.8
+   "heat": 201.6
   },
   {
-   "cat": "sector",
-   "time": "2026-07-31 00:54",
-   "title": "Migrants pour into Spain’s Ceuta from Morocco, military called in",
+   "cat": "stock",
+   "time": "2026-07-31 02:01",
+   "title": "Tempus AI CEO Eric Lefkofsky sells $10.5m in shares",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/world-news/thousands-of-migrants-cross-into-spains-ceuta-on-foot-efe-reports-4824095",
+     "u": "https://www.investing.com/news/insider-trading-news/tempus-ai-ceo-eric-lefkofsky-sells-105m-in-shares-93CH-4826683",
      "t": "agg"
     }
    ],
-   "heat": 200.6
+   "heat": 32.6
   },
   {
    "cat": "crypto",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.5
+   "heat": 50.3
   }
  ]
 }
