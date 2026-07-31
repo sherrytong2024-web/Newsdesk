@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run script
-        run: python3 outputs/update_news.py
+        run: python3 outputs/update_news_v2.py
         env:
           NEWSDESK_NO_PUSH: "1"
       - name: Commit and push
