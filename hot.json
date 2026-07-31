@@ -1,43 +1,15 @@
 {
- "updated": "2026-07-31 03:09",
+ "updated": "2026-07-31 09:00",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-07-31 02:06",
-   "title": "Qualcomm Sees AI Driving Its Next Growth Wave",
-   "summary": "Qualcomm CEO Cristiano Amon joins Bloomberg after the chipmaker warned that soaring memory prices and supply shortages are weighing on the smartphone market. He explains why he exp…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-30/qualcomm-s-next-chapter-is-beyond-smartphones-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-30 06:11",
-   "title": "Nasdaq 100 Gains 3% in AI Trade Revival After Rout: Markets Wrap",
-   "summary": "A rebound in giant chipmakers lifted stocks as dip buyers emerged on speculation that the artificial-intelligence trade that has powered the bull market has more room to run.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-29/stock-market-today-dow-s-p-live-updates",
-     "t": "sec"
-    }
-   ],
-   "heat": 212.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 02:51",
-   "title": "China’s open-weight model lead exposes America’s AI blind spot",
-   "summary": "The future of AI may be dictated not by who builds the smartest model, but who builds the models everyone runs on. Right now, that's China.",
+   "time": "2026-07-31 08:23",
+   "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
+   "summary": "Ahead of the launch of Siri AI, Apple's outgoing CEO Tim Cook said the company will charge for artificial intelligence through iCloud.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
+     "u": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
      "t": "sec"
     }
    ],
@@ -45,13 +17,13 @@
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 02:49",
-   "title": "US-Iran War Has Made Every Middle East Country a Target, Says Jane Harman",
-   "summary": "Jane Harman, former California Democratic congresswoman, said the US war in Iran has made every country in the Middle East a target, even countries that have not yet been participa…",
+   "time": "2026-07-31 08:17",
+   "title": "Apple Mixed Earnings, Anthropic: AI Models Hacked Systems, More",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-30/us-iran-war-has-made-all-of-middle-east-a-target-harman-video",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-07-31/apple-mixed-earnings-anthropic-ai-models-hacked-systems-more",
      "t": "sec"
     }
    ],
@@ -59,87 +31,115 @@
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 02:47",
-   "title": "Apple earnings live updates: iPhone, AI and Tim Cook’s final CEO call",
-   "summary": "Apple reports its third-quarter earnings on Thursday, July 30, after the closing bell. The conference call with analysts is scheduled for 5 p.m. ET.",
+   "time": "2026-07-31 06:29",
+   "title": "Spencer Stuart’s Citrin on Apple’s CEO Succession Plan",
+   "summary": "Jim Citrin, Chair, Global CEO Practice at Spencer Stuart, discusses the upcoming CEO transition at Apple as Tim Cook prepares to step down on September 1, with John Turner set to t…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-30/spencer-stuart-s-citrin-on-apple-s-ceo-succession-plan-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 06:20",
+   "title": "Apple Slides After Supply Shortages Hurts Sales Forecast",
+   "summary": "Apple stocks tumbled in late trading after component shortages weighed on the company’s sales forecast, signaling that industrywide supply constraints are taking a bigger toll than…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-07-30/apple-slides-after-supply-shortages-hurts-sales-forecast-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 05:45",
+   "title": "Bloomberg Businessweek Daily: Amazon and Apple Report (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-07-30/bloomberg-businessweek-daily-amazon-and-apple-report-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 08:29",
+   "title": "Amazon, Microsoft Results Show AI Spending Spree Remains Solid",
+   "summary": "Aggressive AI spending plans by Amazon.com Inc., Microsoft Corp. and Alphabet Inc. provided fresh evidence that demand for chips and related equipment will remain strong, offering …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-31/amazon-microsoft-results-show-ai-spending-spree-remains-solid",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 08:29",
+   "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+   "summary": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html",
+     "u": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
      "t": "sec"
     }
    ],
-   "heat": 211.9
+   "heat": 203.9
   },
   {
    "cat": "sector",
-   "time": "2026-07-31 02:30",
-   "title": "DeepSeek Is Developing Massive AI Data Center in Inner Mongolia",
-   "summary": "China’s DeepSeek is planning a massive artificial-intelligence data center in Inner Mongolia, according to people familiar with the matter, an ambitious move in computing infrastru…",
+   "time": "2026-07-31 07:06",
+   "title": "California’s Atherton Reclaimed Spot of Priciest US ZIP Code",
+   "summary": "Atherton has reclaimed the top spot of priciest area in the US, encapsulating Silicon Valley’s allure for the ultrawealthy as well as darker realities of inequality in California",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-07-30/california-s-atherton-reclaimed-spot-of-priciest-us-zip-code",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 07:00",
+   "title": "Singapore's Sentosa Cove Island Slides From Monte Carlo Dream to Decaying Homes",
+   "summary": "Sentosa Cove was once hailed&nbsp;as the city-state's answer to Monte Carlo, but many villas have sat empty for years.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/features/2026-07-30/singapore-s-sentosa-cove-island-slides-from-monte-carlo-dream-to-decaying-homes",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-31 07:00",
+   "title": "Anthropic AI Models Hacked Three Organizations During Tests",
+   "summary": "Anthropic PBC announced that its artificial intelligence models had breached three different organizations during cybersecurity tests that went awry, a little more than a week afte…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/anthropic-s-ai-models-hacked-three-organizations-during-tests",
      "t": "sec"
     }
    ],
-   "heat": 211.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 02:01",
-   "title": "K2 Space Lands $500 Million to Scale Satellite Production",
-   "summary": "K2 Space has raised $500 million at a $6.8 billion valuation as investors continue pouring money into the fast-growing space industry. The startup, founded by former SpaceX enginee…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-30/spacex-alum-s-startup-hits-6-8-billion-valuation-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 01:55",
-   "title": "Microsoft's AI Story Is Still Being Discovered, Says Goldman",
-   "summary": "Gabriela Borges, Goldman Sachs managing director and senior software equity research analyst, joins Bloomberg after raising her price target on Microsoft, saying the software giant…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-07-30/goldman-sees-more-ai-upside-for-microsoft-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 01:49",
-   "title": "Qualcomm CEO Says the Smartphone Market Will Stay ‘Suppressed’",
-   "summary": "Qualcomm Inc. Chief Executive Officer Cristiano Amon said demand for smartphones remains strong, but the growing costs of making the devices are keeping the market down.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/qualcomm-ceo-says-the-smartphone-market-will-stay-suppressed",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-07-31 01:27",
-   "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
-   "summary": "The company is facing pressure to cater to a more cost-sensitive customer base.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.7
+   "heat": 203.7
   }
  ]
 }
