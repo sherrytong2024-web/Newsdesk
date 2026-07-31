@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31 10:39",
+ "updated": "2026-07-31 10:44",
  "items": [
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 57.2
+   "heat": 57.1
   },
   {
    "cat": "macro",
@@ -209,7 +209,7 @@
      "t": "agg"
     }
    ],
-   "heat": 16.0
+   "heat": 15.9
   },
   {
    "cat": "sector",
@@ -223,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.9
+   "heat": 211.9
   },
   {
    "cat": "sector",
@@ -237,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.6
+   "heat": 211.6
   },
   {
    "cat": "sector",
@@ -251,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.6
+   "heat": 211.6
   },
   {
    "cat": "sector",
@@ -265,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 221.1
+   "heat": 209.1
   },
   {
    "cat": "sector",
@@ -279,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 220.0
+   "heat": 208.0
   },
   {
    "cat": "sector",
@@ -293,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.8
+   "heat": 207.8
   },
   {
    "cat": "sector",
@@ -307,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.8
+   "heat": 207.7
   },
   {
    "cat": "sector",
@@ -321,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.7
+   "heat": 207.7
   },
   {
    "cat": "sector",
@@ -335,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.7
+   "heat": 207.7
   },
   {
    "cat": "sector",
@@ -349,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.6
+   "heat": 207.6
   },
   {
    "cat": "sector",
@@ -363,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.4
+   "heat": 207.4
   },
   {
    "cat": "sector",
@@ -377,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.4
+   "heat": 207.4
   },
   {
    "cat": "sector",
@@ -391,11 +391,11 @@
      "t": "sec"
     }
    ],
-   "heat": 219.4
+   "heat": 207.3
   },
   {
    "cat": "stock",
-   "time": "2026-07-29 04:02",
+   "time": "2026-07-27 15:00",
    "title": "US stocks: S&P 500 ends higher as investors await tech earnings - The Economic Times",
    "summary": "US stocks: S&P 500 ends higher as investors await tech earnings &nbsp;&nbsp; The Economic Times",
    "srcs": [
@@ -405,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 148.0
+   "heat": 144.0
   },
   {
    "cat": "stock",
@@ -419,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 148.0
+   "heat": 144.0
   },
   {
    "cat": "stock",
@@ -433,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 123.7
+   "heat": 119.7
   },
   {
    "cat": "stock",
@@ -447,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 122.9
+   "heat": 118.9
   },
   {
    "cat": "stock",
@@ -461,21 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-31 07:59",
-   "title": "Australia Pension Cuts Local Stocks for Global, Emerging Markets",
-   "summary": "Australian pension fund Cbus Super is cutting its exposure to domestic stocks in favor of global and emerging markets, becoming the latest institutional investor to curb its relian…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-30/australia-pension-cuts-local-stocks-for-global-emerging-markets",
-     "t": "sec"
-    }
-   ],
-   "heat": 111.6
+   "heat": 107.9
   },
   {
    "cat": "stock",
@@ -489,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.5
+   "heat": 107.5
   },
   {
    "cat": "stock",
@@ -503,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.3
+   "heat": 107.3
   },
   {
    "cat": "stock",
@@ -517,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.3
+   "heat": 107.3
   },
   {
    "cat": "stock",
@@ -531,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.3
+   "heat": 107.3
   },
   {
    "cat": "stock",
@@ -545,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.1
+   "heat": 107.1
   },
   {
    "cat": "stock",
@@ -559,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 110.8
+   "heat": 106.8
   },
   {
    "cat": "stock",
@@ -573,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 106.2
+   "heat": 102.2
   },
   {
    "cat": "stock",
@@ -587,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 105.2
+   "heat": 101.2
   },
   {
    "cat": "stock",
@@ -601,7 +587,35 @@
      "t": "sec"
     }
    ],
-   "heat": 105.1
+   "heat": 101.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-07-29 16:30",
+   "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+   "summary": "Stock Market: Will S&P 500 Open Up or Down Today? &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYjRKVWlSTkg2WExLa2VpY1hOU1dKUzJOYXhlNWJuVXhXcjF0ckUxQl82WkNjdXhYNS1lV2lFX3E5S19fZFVEM1YydEVOWTJSall2b01mbTN5TnRsRjkwcWJTczNmSnI4ZmVYYTJ5TFlWT2lSYWFpcllzVmQ1b2ptd1VtaFktUEJDRFlGNlBsajlsajhiUWY1OEJsNmQ2bWttNTJlS1RVZnZYeV9tcVZFUmpnYjBGeUdIc3ZQTlZCVXQ4SnF1MGdiS3htYzBtSUN5NHV6d1dPOVN5Ry1CeVJJTHN6OG4?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 101.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-31 07:56",
+   "title": "Gold Heads for Monthly Gain as Japan Intervention Tames Dollar",
+   "summary": "Gold was heading for its first monthly advance since February after Japan intervened to support the yen, causing the US dollar to weaken.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-07-30/gold-holds-gain-as-japan-currency-intervention-weighs-on-dollar",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.5
   },
   {
    "cat": "global",
@@ -615,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 40.0
   },
   {
    "cat": "global",
@@ -629,7 +643,21 @@
      "t": "sec"
     }
    ],
-   "heat": 35.7
+   "heat": 39.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-30 09:20",
+   "title": "ASX falls as oil surges on rising Middle East tensions; NAB warns on home loans - SMH.com.au",
+   "summary": "ASX falls as oil surges on rising Middle East tensions; NAB warns on home loans &nbsp;&nbsp; SMH.com.au",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUW45dnNSU2M0Zkhkc0RrQmpxbFBzUEdTN3lSTFVyb1ZHaXh5TjRsRjRxajgtSmw3czlZRzJMSlIwXzdvOERNWEhLY0RiWkxiNXdvTS1xSmpoc25kRGUwRmhDR2VmUTBNcDJDVUZQTUlPMW01SS1abjhMYWw0RWdrRlRMSHJSWUllRGhVN2xHbGR6ZUpHeC1WZzk2U002SjFZSk1mTi1mOFhGUzlwRjF3c09ZTndBcUtZLUJXLWplUnFnV0dpYVdEWkZWazJQT21teUpRN2NVNmtlLTBNdl9YdDF0a3ViWG90UGY2cjhPNDlEM0ta?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.8
   },
   {
    "cat": "global",
@@ -643,7 +671,7 @@
      "t": "agg"
     }
    ],
-   "heat": 31.3
+   "heat": 35.3
   },
   {
    "cat": "global",
@@ -657,7 +685,7 @@
      "t": "agg"
     }
    ],
-   "heat": 31.2
+   "heat": 35.2
   },
   {
    "cat": "global",
@@ -671,7 +699,7 @@
      "t": "agg"
     }
    ],
-   "heat": 30.7
+   "heat": 34.7
   },
   {
    "cat": "global",
@@ -685,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 29.5
+   "heat": 33.5
   },
   {
    "cat": "global",
@@ -699,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 28.0
+   "heat": 32.0
   },
   {
    "cat": "global",
@@ -713,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 28.0
+   "heat": 32.0
   },
   {
    "cat": "global",
@@ -727,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.9
+   "heat": 31.9
   },
   {
    "cat": "global",
@@ -741,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.8
+   "heat": 31.8
   },
   {
    "cat": "global",
@@ -755,7 +783,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.8
+   "heat": 31.7
   },
   {
    "cat": "global",
@@ -769,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 26.7
+   "heat": 30.7
   },
   {
    "cat": "global",
@@ -783,35 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 19.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 06:00",
-   "title": "Bank of Japan set to keep interest rates unchanged as markets seek tightening clues",
-   "summary": "Investors are turning their attention to the Bank of Japan’s (BoJ) monetary policy announcement on Friday, after the Japanese Yen (JPY) staged a dramatic rebound during Thursday's …",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/bank-of-japan-set-to-keep-interest-rates-unchanged-after-suspected-yen-intervention-202607302200",
-     "t": "sec"
-    }
-   ],
-   "heat": 19.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-07-31 08:43",
-   "title": "Hong Kong Resurrects China Bond Futures With Liquidity in Focus",
-   "summary": "It may be third time lucky when Hong Kong launches Chinese government bond futures on Monday, as Beijing pushes to offer a hedging tool key to the globalization of its debt market …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-07-31/hong-kong-resurrects-china-bond-futures-with-liquidity-in-focus",
-     "t": "sec"
-    }
-   ],
-   "heat": 15.7
+   "heat": 23.4
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.1
+   "heat": 42.0
   },
   {
    "cat": "crypto",
@@ -965,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.2
+   "heat": 31.1
   },
   {
    "cat": "crypto",
@@ -1025,17 +1025,17 @@
   },
   {
    "cat": "sector",
-   "time": "2026-07-29 18:29",
-   "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
-   "summary": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手 &nbsp;&nbsp; 财联社",
+   "time": "2026-07-29 06:30",
+   "title": "英伟达CEO黄仁勋在美国参议院多个办公室呼吁支持开源权重人工智能（AI）模型",
+   "summary": "英伟达CEO黄仁勋在美国参议院多个办公室呼吁支持开源权重人工智能（AI）模型 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94ZlpUaU1wdmJtMENCMWMwenFyWWhtSjgyUFR4d2RMZExjajNsVzJsS2N6c0tndFlWcnZXQjdpZXRqblpfOFZXNg?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBab0JucU14Z0hpR3RlaElrYUNQZG5SdGFSVnhGWFM0ZFhnX3YycXEyS0stOWhLdFRpdXlhRkRSZzVnU3htZEtjNw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 213.3
+   "heat": 200.0
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "agg"
     }
    ],
-   "heat": 216.6
+   "heat": 204.6
   }
  ]
 }
