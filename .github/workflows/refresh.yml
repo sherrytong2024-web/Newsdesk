@@ -38,6 +38,9 @@ jobs:
           echo "=== HTML marker ==="
           grep -n "let NEWS" outputs/financial-news-desk.html 2>&1 || echo "NOT FOUND"
 
+      - name: Import test
+        run: python3 -u outputs/_ci_test.py 2>&1
+
       - name: Run update_news.py
         run: |
           set +e
