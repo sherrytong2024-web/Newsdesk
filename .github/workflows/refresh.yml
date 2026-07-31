@@ -18,7 +18,12 @@ jobs:
 
       - name: Run update_news.py
         run: |
-          python3 -c "exec(open('outputs/update_news.py').read())"
+          python3 -c "
+import time
+print('start', flush=True)
+time.sleep(3)
+print('end', flush=True)
+"
         env:
           NEWSDESK_NO_PUSH: "1"
 
