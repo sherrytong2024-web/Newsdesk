@@ -1,6 +1,20 @@
 {
- "updated": "2026-08-02 14:47",
+ "updated": "2026-08-02 20:41",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-08-02 20:30",
+   "title": "Op-ed: The U.S. lead over China in AI is all but gone",
+   "summary": "AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 44.0
+  },
   {
    "cat": "macro",
    "time": "2026-07-28 07:54",
@@ -13,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 44.0
   },
   {
    "cat": "macro",
@@ -27,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.6
+   "heat": 40.6
   },
   {
    "cat": "macro",
@@ -41,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.4
+   "heat": 40.4
   },
   {
    "cat": "macro",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.3
+   "heat": 40.3
   },
   {
    "cat": "macro",
@@ -69,21 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-01 02:36",
-   "title": "EUR/USD Breaks Its Downtrend as ECB Rate Bets Strengthen",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/eurusd-breaks-its-downtrend-as-ecb-rate-bets-strengthen-200684999",
-     "t": "agg"
-    }
-   ],
-   "heat": 32.0
+   "heat": 36.9
   },
   {
    "cat": "macro",
@@ -97,7 +97,21 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 36.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-01 02:36",
+   "title": "EUR/USD Breaks Its Downtrend as ECB Rate Bets Strengthen",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/eurusd-breaks-its-downtrend-as-ecb-rate-bets-strengthen-200684999",
+     "t": "agg"
+    }
+   ],
+   "heat": 35.0
   },
   {
    "cat": "macro",
@@ -111,21 +125,21 @@
      "t": "agg"
     }
    ],
-   "heat": 30.1
+   "heat": 34.0
   },
   {
    "cat": "macro",
-   "time": "2026-08-01 19:45",
-   "title": "Trump Orders New Iran Attack, Warsh Could Cut Fed Meetings, More",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-08-02 17:30",
+   "title": "Why JPMorgan Private Bank says the S&P 500 will surge another 10% despite looming inflation shocks - Business Insider",
+   "summary": "Why JPMorgan Private Bank says the S&P 500 will surge another 10% despite looming inflation shocks &nbsp;&nbsp; Business Insider",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-01/trump-orders-new-iran-attack-warsh-could-cut-fed-meetings-more",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTk56SFFSaThiQ0Q5T0hQcFh6UUF4cXZ1MG1IRUhkRXo1NzUyRHlubng2Mm5ISjJwTGJzRkF5VWs2U1hUc2VmZlllWW5hVy1qalRlTEJ1eHVScU9aZ3IxUzVmTlc4d1NIa1ZlM0hiSEYzc1JzeDZpWGloTnJ0RTVLWU9SUXBEdDFVX09EdURKc1lIS0oxbnY0RTFQTnk4QQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 28.8
+   "heat": 15.5
   },
   {
    "cat": "macro",
@@ -139,35 +153,7 @@
      "t": "agg"
     }
    ],
-   "heat": 26.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-01 02:46",
-   "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
-   "summary": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments’ Noah Wise.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 26.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-07-31 23:45",
-   "title": "450,000 defrauded student loan borrowers are eligible for debt forgiveness — here's who qualifies",
-   "summary": "Hundreds of thousands of student loan borrowers are eligible for debt cancellation under a $23 billion class-action settlement against the federal government.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/07/31/sweet-v-mcmahon-student-loans-borrower-defense.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 25.5
+   "heat": 13.2
   },
   {
    "cat": "macro",
@@ -181,41 +167,125 @@
      "t": "agg"
     }
    ],
-   "heat": 22.7
+   "heat": 10.0
   },
   {
    "cat": "macro",
-   "time": "2026-08-01 23:44",
-   "title": "U.S. Treasury intervenes to support yen after Japan steps in, FT reports",
-   "summary": "It was Washington's first yen-buying intervention with Tokyo in more than a decade as it languishes near 40-year lows.",
+   "time": "2026-07-31 18:15",
+   "title": "Weak US Data and Hawkish BoJ Expectations Drive USD/JPY Toward Critical Support",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/weak-us-data-and-hawkish-boj-expectations-drive-usdjpy-toward-critical-support-200684965",
+     "t": "agg"
+    }
+   ],
+   "heat": 6.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-31 17:58",
+   "title": "USD/JPY Outlook: BOJ Holds Steady as Intervention Risk Builds",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/usdjpy-outlook-boj-holds-steady-as-intervention-risk-builds-200684941",
+     "t": "agg"
+    }
+   ],
+   "heat": 6.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-07-31 16:19",
+   "title": "Gold: Softer Inflation and Slower Growth Support Recovery",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-softer-inflation-and-slower-growth-support-recovery-200684953",
+     "t": "agg"
+    }
+   ],
+   "heat": 6.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-02 20:20",
+   "title": "Trump Pauses Iran Strikes as Talks Resume",
+   "summary": "Bloomberg's Jeff Mason and Dan Williams say President Donald Trump is pausing planned military action against Iran to allow negotiations over the Strait of Hormuz and Iran's nuclea…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-02/trump-pauses-iran-strikes-as-talks-resume-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-02 20:06",
+   "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say",
+   "summary": "",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/01/us-treasury-intervenes-to-support-yen-after-japan-steps-in-ft.html",
+     "u": "https://www.cnbc.com/2026/08/02/ukrainian-drones-kill-two-russia-governors-say.html",
      "t": "sec"
     }
    ],
-   "heat": 9.5
+   "heat": 207.9
   },
   {
-   "cat": "macro",
-   "time": "2026-07-31 05:13",
-   "title": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market (copy) - Santa Maria ",
-   "summary": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market (copy) &nbsp;&nbsp; Santa Maria Times",
+   "cat": "sector",
+   "time": "2026-08-02 20:00",
+   "title": "Jefferies Analyst Slams Simple-Minded Criticism of SpaceX Governance",
+   "summary": "Investors who blacklist Space Exploration Technologies Corp. out of governance qualms are too hung up on box-checking and risk depriving themselves of long-term financial gains, ac…",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMDFxWnRxb0JzX2lHb3I1ejRSWFlHRlotWHZYZ01jVjdWUFRmVjNMbnZHSTl3YzlCVEoyeTZ2d0xCNXF2ZjlGaHQwbnNhQ0dWMkhZeEFIZXBTSkV1VTVRVTV5bVo3N0dyeVhNUDk5X1ZWTi0tVm81anJRUmxRa0J6dDQ5a1c3QUgyTDJ4UmMyVGtmRlpYS0NHRVFsRXVSTkQ5ZTZGdzFRWXVhZVl4THdHbVFBajRJd3RQNzI3MV81ajJIckF6MkJGSVdub1NMTHI5Q2xuSndjNGdzV0dPWXFRbFlaMk5Tbkw5Qkw0N3FHWlRIZUZBS2hNMVU0RVBGTnFIVzhpZE1EQUhwbTA?oc=5",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-02/jefferies-analyst-slams-simple-minded-criticism-of-spacex-governance",
      "t": "sec"
     }
    ],
-   "heat": 8.0
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-02 20:00",
+   "title": "Why flights are so expensive and will likely stay that way",
+   "summary": "Airlines are paying billions of dollars more in fuel costs this year",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-02 18:18",
+   "title": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'",
+   "summary": "The U.S. president said Iran and its regional neighbors asked the U.S. to hold off on attacks after 'the perimeters of a deal has been agreed to.'",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.6
   },
   {
    "cat": "sector",
    "time": "2026-08-02 10:19",
-   "title": "Trump Says US to Cancel Iran Attack Subject to a Rapid Deal",
-   "summary": "President Donald Trump said the US will hold off new strikes against Iran after the Islamic Republic and other Middle Eastern nations told him they are working toward a deal.",
+   "title": "Trump Says US to Hold Off Iran Attack If Deal Agreed",
+   "summary": "President Donald Trump said the US will hold off new strikes against Iran after the Islamic Republic and other Middle Eastern nations told him they’re working toward a deal.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -223,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.3
+   "heat": 206.3
   },
   {
    "cat": "sector",
@@ -237,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 214.9
+   "heat": 205.9
   },
   {
    "cat": "sector",
@@ -251,21 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 214.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-02 07:19",
-   "title": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
-   "summary": "The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 214.8
+   "heat": 205.9
   },
   {
    "cat": "sector",
@@ -279,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 214.0
+   "heat": 205.1
   },
   {
    "cat": "sector",
@@ -293,21 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 213.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-01 23:20",
-   "title": "Trump Orders New Iran Attack, Spain Border Chaos, FIFA Backlash",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-01/trump-orders-new-iran-attack-spain-border-chaos-fifa-backlash",
-     "t": "sec"
-    }
-   ],
-   "heat": 213.4
+   "heat": 204.8
   },
   {
    "cat": "sector",
@@ -321,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 213.2
+   "heat": 204.3
   },
   {
    "cat": "sector",
@@ -335,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 213.2
+   "heat": 204.2
   },
   {
    "cat": "sector",
@@ -349,77 +391,119 @@
      "t": "sec"
     }
    ],
-   "heat": 213.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-01 20:00",
-   "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
-   "summary": "The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 212.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-02 05:58",
-   "title": "UBS explains what it would take for gold prices to turn higher in 2H26",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/commodities-news/ubs-explains-what-it-would-take-for-gold-prices-to-turn-higher-in-2h26-4829671",
-     "t": "agg"
-    }
-   ],
-   "heat": 212.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-02 05:21",
-   "title": "AI creates two-speed UK jobs market as demand shifts to senior tech roles",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/ai-creates-twospeed-uk-jobs-market-as-demand-shifts-to-senior-tech-roles-4829670",
-     "t": "agg"
-    }
-   ],
-   "heat": 212.4
+   "heat": 204.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-01 21:44",
-   "title": "Buy these stocks ahead of earnings. Bank of America says they offer plenty of upside",
-   "summary": "Bank of America says shareholders should snap up these stocks, as earnings reports near.",
+   "time": "2026-08-02 19:00",
+   "title": "Banks Offload Risk from Leveraged ETFs With Exotic ‘Crash Puts’",
+   "summary": "Leveraged ETFs that offer the tantalizing prospect of doubling or tripling the daily returns of an individual stock are famously risky for investors who buy them.",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/01/stocks-to-buy-now-before-they-report-earnings.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-02/banks-offload-risk-from-leveraged-etfs-with-exotic-crash-puts",
      "t": "sec"
     }
    ],
-   "heat": 89.2
+   "heat": 99.7
   },
   {
    "cat": "stock",
-   "time": "2026-08-01 20:00",
-   "title": "AI Isn’t a Catch-All Trade for Stocks in This Earnings Season",
-   "summary": "Equity investors are learning a harsh lesson this corporate earnings season: Not all artificial intelligence trades are created equal.",
+   "time": "2026-08-02 19:56",
+   "title": "AMD and Sandisk are two of the big chip stocks with earnings momentum in the new week",
+   "summary": "Some 130 S&P 500 companies get ready to report, these stocks have earnings momentum leading them into the week",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-01/ai-isn-t-a-catch-all-trade-for-stocks-in-this-earnings-season",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/02/amd-sandisk-are-two-of-the-big-chip-stocks-with-earnings-momentum.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 95.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-02 20:01",
+   "title": "Top Wall Street analysts are bullish on these 3 dividend stocks for passive income",
+   "summary": "Tracking top analysts can help investors shortlist attractive dividend stocks, as these experts provide useful insights.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/02/top-analysts-are-bullish-on-these-dividend-stocks-for-passive-income-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-02 19:59",
+   "title": "The Nasdaq-100 just had its worst month since March 2025. These stocks held up and are expected to outperform ahead",
+   "summary": "All eight of these Nasdaq-100 stocks gained in July even as the flagship index suffered its steepest decline since March 2025",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/02/nasdaq-100-just-had-worst-month-since-march-2025-these-stocks-held-up.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-02 02:09",
+   "title": "US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Gain & Nasdaq Futures Show Mixed Signals ahead of Wa",
+   "summary": "US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Gain & Nasdaq Futures Show Mixed Signals ahead of Wall Street Opening; Check Monday Market Outlook &nbsp;&nbsp; …",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPeHZNZjNvNzdwRGFrQ3VwX2NZUmlISGtEdU9oWHp4aUd2dlMxb0twRlBDemdESzEzOUg5S21TczR2bGV4dDk3RzNmM21GRkR4VUQ0WjZBcHZfRk9MOVRrNEI5OGpzbGdzM0ZlY1dsZTl0cFkzeVRQdUJfU19UVlYydkowc2xmTTY4MHZEOWxSZXRuMko1RWVzaHJNY1Zxdmd1aTFFNC1uY3Jqa2RjTWJReDJsTzg4QVVGaENhR0JKZW5CS3JvMFpyUnM1eTltTmw4VHpvVi15c0ZCSkRQZS1WMDA1a1ViMUU5OVlWcGZyaHZCU3RQQTNBdUQ4UFVtQldYQzBqY0laR3ZmRDJKVmJLOW8zSk5VOGlYWjllbm1OMVZpNnRjN3UwanhoWWpaYk5nYmfSAbcCQVVfeXFMTXZQV09HRjMwYmRCWFVmdVRXX1owaC1WS291MkY4QWtac3E2RlJHQlNGLS1VMGtMVXhvWE55RjRZWmZaU19KWjFlQXlMME50Tk5MMTdub3JfcFZESmFXRXRHcDRna19xdVZBbFF3X3dkOXM4anBiLXctVDY2aUwtNVhUTnBVcHNsaGVsUXgtMTZXTWRwRzJOZ3BndFUzM1UxTkhDNXZ2dVdxUm5CWS1PT09CakN1bmk2cXZiUUhkS0FjazVqdTR2ajFEZTlkMmtLSXdjOEZhaDZNYklYTl9YbnZ6MzVuY3p5TDFpYWhWZXE1bWgzLTZteFJ2QUlBaldCdHhFVkFQZnZWVnMxZ2NHNDlIQTZQTlpMZk1STy1UMW5nY2ZrNkJhNUlqUVhJbWFyd0JJUi1VU0E?oc=5",
      "t": "sec"
     }
    ],
    "heat": 88.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-02 11:09",
+   "title": "InvestingPro’s Fair Value spotted 64% gain in Ziff Davis stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-64-gain-in-ziff-davis-stock-93CH-4829686",
+     "t": "agg"
+    }
+   ],
+   "heat": 88.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-02 11:02",
+   "title": "InvestingPro’s Fair Value predicted 46% drop in CytomX stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-predicted-46-drop-in-cytomx-stock-93CH-4829684",
+     "t": "agg"
+    }
+   ],
+   "heat": 88.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-01 23:02",
+   "title": "Stock market gains 8% in first half of 2026, with AI and infrastructure investments driving growth - eciks.org",
+   "summary": "Stock market gains 8% in first half of 2026, with AI and infrastructure investments driving growth &nbsp;&nbsp; eciks.org",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UVTI1emtKMVdKNmwwX2R0M3BpbUtuLXdsN2NNdzY4N0FFTW9QMC1hZTJSR1V6ZHIzOXQwT21Ldi1DVzZLV3VzOXVYMUlRXzBXcjAyZ05KUzhKMDdNcy16RmZYZXNRQUVqS2ZIWXpLSXdfYUwtM1VoQ3FCVFI?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 88.4
   },
   {
    "cat": "stock",
@@ -433,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 88.0
   },
   {
    "cat": "stock",
@@ -447,49 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-02 04:22",
-   "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
-   "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 82.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-01 21:37",
-   "title": "These stocks reporting next week have a history of beating expectations",
-   "summary": "These companies reporting next week have a track record of beating analysts' expectations and seeing shares rise after posting results.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/01/these-stocks-reporting-next-week-have-history-of-beating-expectations.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 81.1
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-02 04:39",
-   "title": "Why US stock bubbles keep bursting without derailing the wider market",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/why-us-stock-bubbles-keep-bursting-without-derailing-the-wider-market-4829669",
-     "t": "agg"
-    }
-   ],
-   "heat": 80.3
+   "heat": 88.0
   },
   {
    "cat": "stock",
@@ -503,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -517,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -531,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -545,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -559,105 +601,21 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 16:30",
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-   "summary": "Stock Market: Will S&P 500 Open Up or Down Today? &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYjRKVWlSTkg2WExLa2VpY1hOU1dKUzJOYXhlNWJuVXhXcjF0ckUxQl82WkNjdXhYNS1lV2lFX3E5S19fZFVEM1YydEVOWTJSall2b01mbTN5TnRsRjkwcWJTczNmSnI4ZmVYYTJ5TFlWT2lSYWFpcllzVmQ1b2ptd1VtaFktUEJDRFlGNlBsajlsajhiUWY1OEJsNmQ2bWttNTJlS1RVZnZYeV9tcVZFUmpnYjBGeUdIc3ZQTlZCVXQ4SnF1MGdiS3htYzBtSUN5NHV6d1dPOVN5Ry1CeVJJTHN6OG4?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 76.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 11:16",
-   "title": "How major US stock indexes fared Tuesday 7/28/2026 - The Washington Post",
-   "summary": "How major US stock indexes fared Tuesday 7/28/2026 &nbsp;&nbsp; The Washington Post",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTzVtY1JVOFpjdENZRHNUYmwwMHJydTkwaU5XN1pId1lTemRaNDAtbkkzNXc2bmlSTTZLMmpLWkQyRzJYZFhIczB4d1Y4NHZnTEJIMlNXSk5nYXNrN1c0TXVlY0k1c2ItbFdXcDdqOTBJbXU5Tng2dFBuUDZRMWszOHlVRE1Qem5BbUJNNUJtVnBKVDAtQzg3X0cydlFZZnNuTENFVlZsdXhqazRsMWRIYTgta1JzZUNkZHV3WHBkQkJIQ0NBRWdJ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 76.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-07-29 05:16",
-   "title": "Dow Surges 537 Points After Close as Gains Spread Across Sectors Beyond Tech - TechStock²",
-   "summary": "Dow Surges 537 Points After Close as Gains Spread Across Sectors Beyond Tech &nbsp;&nbsp; TechStock²",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWkZYbWw4ZGNlTTRTcFhRd2dCRXhnQjZwV3FEYlh6SnZEQXB5ZWhwTU1qbkRGUDJoQVVGeHcwcnMwS3Vmd0VWTXZOOTd4bTJaa2htd01zc3RCVnRMV0w5TkRfUkZSRVJMZmpCRWF1SmgwVWlzY3R6R0R0Q3B0MklQNXZnNnZzcXI5MXBxTXFwV2R5WGhXZWF3Q0dKem1mQQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 76.0
+   "heat": 84.0
   },
   {
    "cat": "global",
-   "time": "2026-08-02 10:33",
-   "title": "Katayama to Say Japan, US Are Coordinating to Curb Yen Weakness",
-   "summary": "Japanese Finance Minister Satsuki Katayama is set to announce as early as Monday that Tokyo and Washington are coordinating on steps in the foreign exchange market to curb the yen’…",
+   "time": "2026-08-02 20:04",
+   "title": "This Surgical Robot Could Transform the Operating Room",
+   "summary": "After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot Ottava. Can it challenge the dominance of competitors …",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-02/katayama-to-say-japan-us-acted-together-on-yen-reuters-reports",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-02/this-surgical-robot-could-transform-the-operating-room-video",
      "t": "sec"
     }
    ],
-   "heat": 35.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-02 08:40",
-   "title": "US Helps Reverse Yen Losses, Trump Rebukes DOJ Ally Pirro, More",
-   "summary": "Source: Bloomberg, 5:40",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-02/us-helps-reverse-yen-losses-trump-rebukes-doj-ally-pirro-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 35.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-02 03:02",
-   "title": "Trump Orders New Iran Attack, US Joins Japan in Yen Rebound,More",
-   "summary": "Source: Bloomberg, 5:26",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-01/trump-orders-new-iran-attack-us-joins-japan-in-yen-rebound-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 34.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-02 03:18",
-   "title": "Exclusive-Japan to announce Tokyo, Washington took joint action on yen, sources say",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/exclusivejapan-to-announce-tokyo-washington-took-joint-action-on-yen-sources-say-4829661",
-     "t": "agg"
-    }
-   ],
-   "heat": 32.1
+   "heat": 39.9
   },
   {
    "cat": "global",
@@ -671,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.2
+   "heat": 33.3
   },
   {
    "cat": "global",
@@ -685,21 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-01 03:01",
-   "title": "The Japanese Yen has a second buyer nobody will name",
-   "summary": "Thursday's record Yen defence is the story everyone has written.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/the-japanese-yen-has-a-second-buyer-nobody-will-name-202607311901",
-     "t": "sec"
-    }
-   ],
-   "heat": 30.0
+   "heat": 33.3
   },
   {
    "cat": "global",
@@ -713,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.0
+   "heat": 33.0
   },
   {
    "cat": "global",
@@ -727,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 29.8
+   "heat": 32.8
   },
   {
    "cat": "global",
@@ -741,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 29.5
+   "heat": 32.6
   },
   {
    "cat": "global",
@@ -755,35 +699,35 @@
      "t": "sec"
     }
    ],
-   "heat": 29.5
+   "heat": 32.5
   },
   {
    "cat": "global",
-   "time": "2026-07-31 23:55",
-   "title": "The 2-Headed Yen Intervention Monster Has Awoken",
-   "summary": "",
+   "time": "2026-08-02 19:21",
+   "title": "Japan to announce that Tokyo and Washington took joint action to support the yen, Reuters reports",
+   "summary": "Finance Minister Satsuki Katayama is likely to stress the two countries' determination to combat what they see as excessive yen declines, sources tell Reuters.",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/the-2headed-yen-intervention-monster-has-awoken-200684988",
-     "t": "agg"
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/02/japan-to-announce-tokyo-washington-took-joint-action-on-yen-reuters.html",
+     "t": "sec"
     }
    ],
-   "heat": 27.5
+   "heat": 31.8
   },
   {
    "cat": "global",
-   "time": "2026-07-31 20:17",
-   "title": "USD/JPY: The Yen Gets Intervention Boost",
-   "summary": "",
+   "time": "2026-08-02 08:40",
+   "title": "US Helps Reverse Yen Losses, Trump Rebukes DOJ Ally Pirro, More",
+   "summary": "Source: Bloomberg, 5:40",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/usdjpy-the-yen-gets-intervention-boost-200684972",
-     "t": "agg"
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-02/us-helps-reverse-yen-losses-trump-rebukes-doj-ally-pirro-more",
+     "t": "sec"
     }
    ],
-   "heat": 26.9
+   "heat": 30.0
   },
   {
    "cat": "global",
@@ -797,7 +741,63 @@
      "t": "agg"
     }
    ],
-   "heat": 26.9
+   "heat": 30.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-02 03:02",
+   "title": "Trump Orders New Iran Attack, US Joins Japan in Yen Rebound,More",
+   "summary": "Source: Bloomberg, 5:26",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-01/trump-orders-new-iran-attack-us-joins-japan-in-yen-rebound-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 29.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-01 03:01",
+   "title": "The Japanese Yen has a second buyer nobody will name",
+   "summary": "Thursday's record Yen defence is the story everyone has written.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/the-japanese-yen-has-a-second-buyer-nobody-will-name-202607311901",
+     "t": "sec"
+    }
+   ],
+   "heat": 25.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-31 23:55",
+   "title": "The 2-Headed Yen Intervention Monster Has Awoken",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/the-2headed-yen-intervention-monster-has-awoken-200684988",
+     "t": "agg"
+    }
+   ],
+   "heat": 22.5
+  },
+  {
+   "cat": "global",
+   "time": "2026-07-31 20:17",
+   "title": "USD/JPY: The Yen Gets Intervention Boost",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/usdjpy-the-yen-gets-intervention-boost-200684972",
+     "t": "agg"
+    }
+   ],
+   "heat": 22.0
   },
   {
    "cat": "global",
@@ -811,11 +811,11 @@
      "t": "sec"
     }
    ],
-   "heat": 21.4
+   "heat": 20.4
   },
   {
    "cat": "crypto",
-   "time": "2026-08-01 02:09",
+   "time": "2026-08-02 19:56",
    "title": "Here’s what happened in crypto today",
    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
    "srcs": [
@@ -825,35 +825,49 @@
      "t": "sec"
     }
    ],
-   "heat": 69.9
+   "heat": 75.9
   },
   {
    "cat": "crypto",
-   "time": "2026-08-01 04:50",
-   "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
-   "summary": "The largest crypto shrugged off a barrage of bad news this month, but traders remain cautious as rate hike fears and jobs data loom.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
-     "t": "sec"
-    }
-   ],
-   "heat": 66.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-01 00:25",
-   "title": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
-   "summary": "Tether’s reserve surplus grew to $4.11 billion in the second quarter as USDT supply rose despite a weaker stablecoin market and continued pressure across the crypto sector.",
+   "time": "2026-08-02 17:29",
+   "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
+   "summary": "Trump Media transferred another 2,628 Bitcoin to Crypto.com, bringing its reported sales over seven months to 7,281 BTC and leaving the company with 4,261 BTC in holdings.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/tether-q2-profit-us-treasury-holdings-usdt-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 49.6
+   "heat": 71.5
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-02 16:04",
+   "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
+   "summary": "Bitcoin users moved 39,600 BTC in small transactions as the Coldcard hack continued, with researchers warning that the attack remained active.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-02 20:03",
+   "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
+   "summary": "The Coldcard vulnerability has smaller bitcoin holders moving funds onto exchanges for safety, according to blockchain analytics firms. This is opposite of the trend seen following…",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
+     "t": "sec"
+    }
+   ],
+   "heat": 55.9
   },
   {
    "cat": "crypto",
@@ -867,91 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-02 05:14",
-   "title": "Onchain, in court: What happened in crypto legal news this week",
-   "summary": "A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trad…",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 46.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-02 02:07",
-   "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-   "summary": "State officials reported that Minnesota residents, and largely senior citizens, had lost about $1 million from scams tied to crypto kiosks from 2023 to 2025.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 45.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-01 23:44",
-   "title": "Crypto PAC pours another $1M into Michigan House race",
-   "summary": "Michigan incumbent Shri Thanedar’s re-election bid against other Democratic candidates is getting more about crypto with an infusion of ads funded by an industry-aligned PAC.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 45.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-01 21:00",
-   "title": "Everyone has the perps convergence backwards",
-   "summary": "Crypto is said to be growing up to look like Wall Street. The evidence in its biggest market points the other way, argues Bitget CEO Gracy Chen.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
-     "t": "sec"
-    }
-   ],
-   "heat": 45.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-01 18:23",
-   "title": "Russia expands crypto mining ban to Moscow through 2032",
-   "summary": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 44.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-01 00:56",
-   "title": "Ex-FTX users report funds being released in $900M distribution round",
-   "summary": "Several users of the long-defunct crypto exchange reported that distribution agents had begun releasing funds to reimburse creditors for some of their 2022 losses.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 41.7
+   "heat": 48.1
   },
   {
    "cat": "crypto",
@@ -965,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.2
+   "heat": 45.2
   },
   {
    "cat": "crypto",
@@ -979,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.5
+   "heat": 44.5
   },
   {
    "cat": "crypto",
@@ -993,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.5
+   "heat": 44.5
   },
   {
    "cat": "crypto",
@@ -1007,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.4
+   "heat": 43.4
   },
   {
    "cat": "crypto",
@@ -1021,21 +951,91 @@
      "t": "sec"
     }
    ],
-   "heat": 36.1
+   "heat": 43.1
   },
   {
-   "cat": "sector",
-   "time": "2026-07-31 16:06",
-   "title": "行业热议AI变革 游戏企业积极探索落地路径|虚实无界·直击2026China Joy",
-   "summary": "行业热议AI变革 游戏企业积极探索落地路径|虚实无界·直击2026China Joy &nbsp;&nbsp; 财联社",
+   "cat": "crypto",
+   "time": "2026-08-01 13:55",
+   "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+   "summary": "Galaxy Research said weak seed generation let an attacker recreate likely private keys offline, sweep more than 1,000 BTC from nearly 1,200 wallets and continue searching without e…",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56clJTS3ZZVEhIdEd2V0llYmVLVGlid0dVVlFZWUhNMHhNZ1Zsc2hkTmpsdlloZFNjOTdFaHY5dzZCeDVWZ004WQ?oc=5",
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
      "t": "sec"
     }
    ],
-   "heat": 208.2
+   "heat": 42.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-02 05:14",
+   "title": "Onchain, in court: What happened in crypto legal news this week",
+   "summary": "A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trad…",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 41.4
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-02 02:07",
+   "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
+   "summary": "State officials reported that Minnesota residents, and largely senior citizens, had lost about $1 million from scams tied to crypto kiosks from 2023 to 2025.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-01 23:44",
+   "title": "Crypto PAC pours another $1M into Michigan House race",
+   "summary": "Michigan incumbent Shri Thanedar’s re-election bid against other Democratic candidates is getting more about crypto with an infusion of ads funded by an industry-aligned PAC.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.5
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-01 21:00",
+   "title": "Everyone has the perps convergence backwards",
+   "summary": "Crypto is said to be growing up to look like Wall Street. The evidence in its biggest market points the other way, argues Bitget CEO Gracy Chen.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-07-29 18:29",
+   "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
+   "summary": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94ZlpUaU1wdmJtMENCMWMwenFyWWhtSjgyUFR4d2RMZExjajNsVzJsS2N6c0tndFlWcnZXQjdpZXRqblpfOFZXNg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 200.0
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "agg"
     }
    ],
-   "heat": 208.3
+   "heat": 199.3
   }
  ]
 }
