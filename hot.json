@@ -1,9 +1,107 @@
 {
- "updated": "2026-08-04 01:17",
+ "updated": "2026-08-04 05:49",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-08-04 01:16",
+   "time": "2026-08-04 03:00",
+   "title": "Alibaba's New Model, Amazon's AI Win and Apple's Next Chapter | Bloomberg Tech 8/3/2026",
+   "summary": "Bloomberg’s Ed Ludlow breaks down Alibaba's latest Qwen model, its biggest ever, claiming performance on par with Anthropic. Plus, AWS CEO Matt Garman joins after Amazon surpassed …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-03/bloomberg-tech-8-3-2026-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-04 05:38",
+   "title": "Why Japan’s Economy Matters to the US",
+   "summary": "Both Japan and the US are intervening to strengthen the yen. John Authers explains why it’s happening and why it matters. (Source: Bloomberg)",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-03/opinion-why-japan-s-economy-matters-to-the-us-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 212.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-04 05:27",
+   "title": "Yellow Card CEO on Funding, Stablecoin’s Global Foothold",
+   "summary": "Chris Maurice, CEO of Yellow Card, explained how his company differentiates itself from competitors like Stripe and Wise by building the underlying infrastructure that enables inte…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-03/yellow-card-ceo-on-funding-stablecoin-s-global-foothold-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-04 05:07",
+   "title": "Bloomberg Businessweek Daily: Iran's 'Last Chance' (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-03/bloomberg-businessweek-daily-iran-s-last-chance-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-04 05:00",
+   "title": "NTT Data Is Said to Eye $9 Billion Outlay for Japan Data Centers",
+   "summary": "NTT Data Group Corp. expects to spend at least $9 billion through 2033 to quadruple computing capacity to 1 gigawatt, addressing a surge in demand in Japan.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-03/ntt-data-is-said-to-eye-9-billion-outlay-for-japan-data-centers",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-04 04:30",
+   "title": "Trump sours on Pirro over Reflecting Pool case, won't say her job is safe",
+   "summary": "President Donald Trump said Jeanine Pirro, the U.S. attorney for the District of Columbia, \"choked\" and \"folded like an umbrella\" in the Reflecting Pool case.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/03/trump-pirro-reflecting-pool-vandalism-case.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-04 03:20",
+   "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+   "summary": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-04 02:32",
    "title": "Michigan confirms first two deaths in cyclospora outbreak",
    "summary": "The Michigan Health Department said that both individuals had underlying health conditions.",
    "srcs": [
@@ -13,21 +111,21 @@
      "t": "sec"
     }
    ],
-   "heat": 220.0
+   "heat": 211.5
   },
   {
    "cat": "sector",
-   "time": "2026-08-04 01:04",
-   "title": "More tech millionaires are using donor-advised funds for tax savings and giving",
-   "summary": "DAFs are gaining in popularity as private firms like Anthropic and OpenAI skyrocket in value and more companies stay private for longer.",
+   "time": "2026-08-04 01:28",
+   "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+   "summary": "Hugging Face CEO Clément Delangue said Chinese AI models could catch up to the U.S. as soon as this year.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html",
+     "u": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
      "t": "sec"
     }
    ],
-   "heat": 220.0
+   "heat": 211.3
   },
   {
    "cat": "sector",
@@ -41,105 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-04 00:44",
-   "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
-   "summary": "It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-04 00:39",
-   "title": "Trump insists Iran talks are underway despite Tehran's 'duplicitous' denials",
-   "summary": "Trump on Truth Social accused Iran's leaders of lying about peace talks, which he said are underway \"whether Iran wants to admit it or not.\"",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-04 00:30",
-   "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
-   "summary": "Hugging Face CEO Clément Delangue said Chinese AI models could catch up to the U.S. as soon as this year.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-04 00:28",
-   "title": "AI Valuation Gaps Set to Widen as Investment Cycle Matures",
-   "summary": "A volatile month for US equities ended on a higher note Friday, with the S&P 500 Index clocking a 1.1% weekly advance. Much of the comeback can be linked to gains in technology sto…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-03/ai-valuation-gaps-set-to-widen-as-cycle-matures-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-04 00:24",
-   "title": "Amazon Cloud Chief Says Potential AI Business is ‘Just Massive’",
-   "summary": "Amazon.com Inc.’s cloud chief said customers are starting to shift from using the company’s services to train AI models to integrating them into their businesses — fueling demand f…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-03/amazon-cloud-chief-says-potential-ai-business-is-just-massive",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-04 00:24",
-   "title": "AWS CEO Says AI Business Is 'Just Massive'",
-   "summary": "Amazon Web Services CEO Matt Garman says the potential artificial intelligence business is \"just massive.\" He says the company will keep investing in capital expenditures as it tri…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-03/aws-ceo-says-ai-business-is-just-massive-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-04 00:21",
-   "title": "Senate appears ready to advance Todd Blanche for attorney general after Cornyn strikes deal",
-   "summary": "President Donald Trump's attorneys continue to fight in court against a judicial order that said the settlement deal is legally baseless.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.8
+   "heat": 211.2
   }
  ]
 }
