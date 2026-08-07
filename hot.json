@@ -1,65 +1,93 @@
 {
- "updated": "2026-08-07 23:10",
+ "updated": "2026-08-08 04:04",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-08-07 17:00",
-   "title": "US Reviews China’s Offshore Access to Nvidia Chips After AI Breakthroughs",
-   "summary": "A key US agency is reviewing how Chinese AI firms acquire and access Nvidia Corp. chips overseas, following a spate of technological breakthroughs that highlighted their ability to…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-07/us-reviews-china-s-offshore-access-to-nvidia-chips-after-ai-breakthroughs",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-07 11:32",
-   "title": "Chinese AI Chipmakers Set to Gain From Beijing’s Tech Push",
-   "summary": "China’s AI chip designers are expecting bumper sales this earnings season off the back of Beijing’s push to get local firms to use homegrown components and reduce their reliance on…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-07/chinese-ai-chipmakers-poised-to-gain-from-beijing-s-tech-push",
-     "t": "sec"
-    }
-   ],
-   "heat": 250.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-07 05:42",
-   "title": "AMD buys chip startup that hardwires AI models into its silicon",
-   "summary": "Taalas' current chip runs a small version of Meta's Llama 3.1, though the company is working on chips for bigger and more advanced models.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 249.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-07 21:14",
-   "title": "Walmart, McDonald’s, Lululemon: Companies Grapple With Everyday Details",
-   "summary": "Large consumer companies have discussed the everyday problems that are key to running their businesses.",
+   "time": "2026-08-08 03:57",
+   "title": "Bloomberg Businessweek Daily: Soft Jobs Data (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-07/walmart-mcdonald-s-lululemon-companies-grapple-with-everyday-details",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-businessweek-daily-soft-jobs-data-podcast",
      "t": "sec"
     }
    ],
-   "heat": 247.7
+   "heat": 196.0
   },
   {
    "cat": "sector",
-   "time": "2026-08-07 22:57",
+   "time": "2026-08-08 03:07",
+   "title": "Masters in Business: Jack Raines (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-07/masters-in-business-jack-raines-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 02:50",
+   "title": "How the Food Industry Is Dealing With the Cyclospora Outbreak",
+   "summary": "Since Taco Bell was linked to the cyclospora outbreak, the fast food chain removed the allegedly implicated lettuce from its supply chain and, in a bid to win back hesitant diners,…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-07/how-the-food-industry-is-dealing-with-cyclospora-crisis-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 02:19",
+   "title": "Burger King overtakes Wendy's as the nation's second-largest burger chain",
+   "summary": "Burger King is once again the second-largest burger chain in the U.S. by system-wide sales.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 01:15",
+   "title": "OpenAI Pauses Some Work on New Astra Model Over Cyber Concerns",
+   "summary": "OpenAI is pausing some internal work around one of its upcoming artificial intelligence models to implement stricter safeguards after the system was found to be significantly more …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-07/openai-pauses-some-work-on-new-astra-model-over-cyber-concerns",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 01:04",
+   "title": "CATL’s Yichun Lithium Mine Remains Shut as Restart Awaits Permits",
+   "summary": "CATL’s Yichun Lithium Mine Remains Shut as Restart Awaits Permits &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb0JiWGkyRGhFOFA3WVNVOHpQTk8yYkVHYXY1TE8yNmR3OXBCdV95THJHSldDM1ZuX2E3RFRNNTdndk1PbUN1cUo3cVRSalRBMDJIc3FaaE9tVW01U2prd3pQSGVkZWhoUmlIQ2wwUFFaT3BmTk1kalZ4NlVvNkxha0kzT2VhakFBQUs0RkJlVEFxOXNUQWhrX1FnRlotQy1aQl9mcG52X0czM2xEay15WlV3QTA2QmY2ZTZR?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 00:47",
    "title": "Crypto’s infrastructure era arrives, with AI agents poised to reshape demand",
    "summary": "Crypto companies are trying to build a second growth engine by turning agents into the next wave of users.",
    "srcs": [
@@ -69,39 +97,11 @@
      "t": "sec"
     }
    ],
-   "heat": 244.0
+   "heat": 195.5
   },
   {
    "cat": "sector",
-   "time": "2026-08-07 22:56",
-   "title": "Veritas-Backed Firm Begins Year’s Biggest Software Refinancing",
-   "summary": "Gainwell Technologies has kicked off a $5.8 billion debt overhaul that would be the US software sector’s biggest of 2026, doing so as the sector has underperformed the broader leve…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-07/veritas-backed-firm-begins-year-s-biggest-software-refinancing",
-     "t": "sec"
-    }
-   ],
-   "heat": 244.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-07 22:50",
-   "title": "Ukraine Grain Exports to Slump After Russian Strikes on Odesa",
-   "summary": "Ukraine’s agricultural shipments could fall by more than half this season after Russian attacks disrupted Black Sea ports, threatening the country’s biggest source of export revenu…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-07/ukraine-grain-exports-to-slump-after-russian-strikes-on-odesa",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-07 22:32",
+   "time": "2026-08-07 23:13",
    "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
    "summary": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
    "srcs": [
@@ -111,35 +111,35 @@
      "t": "sec"
     }
    ],
-   "heat": 243.9
+   "heat": 195.2
   },
   {
    "cat": "sector",
-   "time": "2026-08-07 22:30",
-   "title": "Inside DOJ’s Trump Banner and ‘Beautification’ Project",
-   "summary": "Documents obtained by FOIA Files reveal ethics questions, security oddities and a big price tag behind the festooning of Washington.",
+   "time": "2026-08-07 15:48",
+   "title": "China’s Ex-Financial Watchdog Chief Ousted in Corruption Probe",
+   "summary": "China’s Ex-Financial Watchdog Chief Ousted in Corruption Probe &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-07/inside-doj-s-trump-banner-and-beautification-project",
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHVjc2kwRjhab05laE1mV2ZxVFIwdjluc3hEM2R5NWJYSFJqbDlMMTdKc0ZGVXV6OVRyR2RDWXI5a1c1R1g0d2F4SXJXMEtFc1BMMjZ4RmZRamNHSkVWS0Q3T1NtOVp4MGVKai1mOHlaaGMxMFlPSlJxZHptdHA0VktqaEVQUVhDNW5WdHRNVEtfMUR5Z0RORmVad3hFOGNmRmNtMjVKdWRvdm5ac0J5aE5YZkNvUnc?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 243.9
+   "heat": 194.0
   },
   {
    "cat": "sector",
-   "time": "2026-08-07 22:22",
-   "title": "What DeepMind's Shakeup Means for the UK's AI Ambitions",
-   "summary": "Demis Hassabis' departure as head of DeepMind has weakened London's bid to stay in the AI race. Mark Bergen explains the \"gravitational shift\" happening at Google. (Source: Bloombe…",
+   "time": "2026-08-07 15:45",
+   "title": "In Depth: China’s Renewable Energy Boom Runs Into Market Reality",
+   "summary": "In Depth: China’s Renewable Energy Boom Runs Into Market Reality &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-07/what-deepmind-s-shakeup-means-for-the-uk-s-ai-ambitions-video",
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3E2aXFmOHZQZjN5UDBBckxHQjdERXM3MFNrQUpMQzNxRXVXaDl6YWdieUtyM0F6OVVheXdjSEx1S3p6RnRKdk9DeHFSZ0d2RE12QkdDdlZZS09sMDNxUk1MZ2pqS0VGSTRJdjJBNlBMTmo2SmcxZ3RkZ1JzWm0zbDJVdF9sVU0tdnF5WFpJc21weHZNQTZTMmxpaER1b2xhOVFoNk5LeHhZU0daZ3B3bkxZbFRHeW5m?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 243.9
+   "heat": 193.9
   }
  ]
 }
