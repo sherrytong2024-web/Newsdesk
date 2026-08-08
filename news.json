@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 16:06",
+ "updated": "2026-08-08 18:16",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 61.2
+   "heat": 64.8
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "agg"
     }
    ],
-   "heat": 42.8
+   "heat": 54.5
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.9
+   "heat": 41.5
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.7
+   "heat": 41.3
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.9
+   "heat": 40.6
   },
   {
    "cat": "macro",
@@ -129,6 +129,20 @@
   },
   {
    "cat": "macro",
+   "time": "2026-08-08 16:48",
+   "title": "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/us-senate-passes-short-term-funding-bill-to-avert-federal-shutdown.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.8
+  },
+  {
+   "cat": "macro",
    "time": "2026-08-07 02:45",
    "title": "GBP/USD Deadlock Shows Why Rate Parity Has Replaced Carry",
    "summary": "",
@@ -139,7 +153,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.8
+   "heat": 35.4
   },
   {
    "cat": "macro",
@@ -153,7 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.2
+   "heat": 33.8
   },
   {
    "cat": "macro",
@@ -167,7 +181,7 @@
      "t": "sec"
     }
    ],
-   "heat": 29.8
+   "heat": 33.4
   },
   {
    "cat": "macro",
@@ -181,7 +195,7 @@
      "t": "agg"
     }
    ],
-   "heat": 28.0
+   "heat": 31.7
   },
   {
    "cat": "macro",
@@ -195,21 +209,7 @@
      "t": "agg"
     }
    ],
-   "heat": 27.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-08 13:00",
-   "title": "Burnham’s Fiscal ‘Flexibility’ Could Backfire, Officials Fear",
-   "summary": "UK Treasury officials are concerned that the prime minister’s talk of using “flexibility” within the fiscal rules to ramp up investment could backfire by destabilizing financial ma…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-08/burnham-s-fiscal-flexibility-could-backfire-officials-fear",
-     "t": "sec"
-    }
-   ],
-   "heat": 19.5
+   "heat": 31.3
   },
   {
    "cat": "sector",
@@ -223,12 +223,12 @@
      "t": "sec"
     }
    ],
-   "heat": 235.6
+   "heat": 227.3
   },
   {
    "cat": "sector",
    "time": "2026-08-08 13:54",
-   "title": "Kyiv Struck as Ukraine Targets Russian Refineries, Shadow Fleet",
+   "title": "Kyiv Struck as Ukraine Targets Two Russian Oil Refineries",
    "summary": "A fire was sparked at Russia’s Ilsky oil refinery in the southern Krasnodar region by Ukrainian drone debris, injuring five people, the regional task force said on Saturday, as Rus…",
    "srcs": [
     {
@@ -237,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.6
+   "heat": 227.3
   },
   {
    "cat": "sector",
@@ -251,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.5
+   "heat": 227.2
   },
   {
    "cat": "sector",
@@ -265,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.3
+   "heat": 227.0
   },
   {
    "cat": "sector",
@@ -279,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.3
+   "heat": 226.9
   },
   {
    "cat": "sector",
@@ -293,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.2
+   "heat": 226.8
   },
   {
    "cat": "sector",
@@ -307,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.0
+   "heat": 226.7
   },
   {
    "cat": "sector",
@@ -321,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.0
+   "heat": 226.6
   },
   {
    "cat": "sector",
@@ -335,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.9
+   "heat": 226.6
   },
   {
    "cat": "sector",
@@ -349,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.9
+   "heat": 226.5
   },
   {
    "cat": "sector",
@@ -363,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.8
+   "heat": 226.4
   },
   {
    "cat": "sector",
@@ -377,21 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 06:58",
-   "title": "SEC Drops Insider-Trading Suit Against Executive Trump Pardoned",
-   "summary": "The US Securities and Exchange Commission said it is dropping an insider-trading lawsuit against a former healthcare executive who was convicted in a related criminal case and then…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-07/sec-drops-insider-trading-suit-against-executive-trump-pardoned",
-     "t": "sec"
-    }
-   ],
-   "heat": 234.5
+   "heat": 226.3
   },
   {
    "cat": "sector",
@@ -405,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.2
+   "heat": 225.8
   },
   {
    "cat": "stock",
@@ -419,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 133.4
+   "heat": 125.0
   },
   {
    "cat": "stock",
@@ -433,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 131.7
+   "heat": 123.3
   },
   {
    "cat": "stock",
@@ -447,21 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 130.1
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-06 15:00",
-   "title": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble - The Economic Times",
-   "summary": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMnVwZzJNLVZqdklQRVVvUDRvSDVjZ1ZSVXc5UUdvMFMwd2FqMHE3NV9PNEtUUGVfMW1xWnlORElZMTlZVkpCVkJ6MEJ6eGlZcG1TLW5CS1V2VXk1Z29Sb0lER0xaeTNkczlNbjIyVGZYVXBrSkNBNFB0RHFUZFJHazNXOEw3NWUyeUJNNm5TbmhqSEFQNHFyQjJfZTduaWs4WUNucDBmQlg5Y2lqN0dtTHloWVV0bmlfODZiUmVjMVBNZzZ4d3h6MXpRR3dvVWJmTXlBQWZsb0h4UTVZM1ZYbDNpakJESU1XTF9sQk5iMnRDaVZtbUVqYjFLRjhfMHZua2pn0gGIAkFVX3lxTE10OE8wWFo1Rkp2cjI4WG5GUU1rN0dySjV6dDMtSXBUR2R4OUJNQUpIbjJuRkczbTE4SGVkbnVscFZLT21GcFU5UDNMUFFySlEzaF9CaW94dExuMEdiaWNzZmxjUjdtTHFOWUpSWmNtNzhUOThLQncteXhndWdMNndTUXBITmU1THdwQnh5SHVBakg4WmVncWVqaDNLMUZIamR1enZ1LUY2UDJCRHVlRlZldk1BSlhuTVJTUUZaZ1BSV0twQUdpWkJxVzMtS0Q0TFRaQjlTdHh3a3QtaWRlLUNDWUtnWE5WaWdRRXZNT0JXY3h3aW44SDRkM0p2ekJ0ODJEOXdsdVZlTQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 128.0
+   "heat": 121.7
   },
   {
    "cat": "stock",
@@ -475,7 +447,35 @@
      "t": "sec"
     }
    ],
-   "heat": 128.0
+   "heat": 120.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-05 04:09",
+   "title": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble - The Economic Times",
+   "summary": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMnVwZzJNLVZqdklQRVVvUDRvSDVjZ1ZSVXc5UUdvMFMwd2FqMHE3NV9PNEtUUGVfMW1xWnlORElZMTlZVkpCVkJ6MEJ6eGlZcG1TLW5CS1V2VXk1Z29Sb0lER0xaeTNkczlNbjIyVGZYVXBrSkNBNFB0RHFUZFJHazNXOEw3NWUyeUJNNm5TbmhqSEFQNHFyQjJfZTduaWs4WUNucDBmQlg5Y2lqN0dtTHloWVV0bmlfODZiUmVjMVBNZzZ4d3h6MXpRR3dvVWJmTXlBQWZsb0h4UTVZM1ZYbDNpakJESU1XTF9sQk5iMnRDaVZtbUVqYjFLRjhfMHZua2pn0gGIAkFVX3lxTE10OE8wWFo1Rkp2cjI4WG5GUU1rN0dySjV6dDMtSXBUR2R4OUJNQUpIbjJuRkczbTE4SGVkbnVscFZLT21GcFU5UDNMUFFySlEzaF9CaW94dExuMEdiaWNzZmxjUjdtTHFOWUpSWmNtNzhUOThLQncteXhndWdMNndTUXBITmU1THdwQnh5SHVBakg4WmVncWVqaDNLMUZIamR1enZ1LUY2UDJCRHVlRlZldk1BSlhuTVJTUUZaZ1BSV0twQUdpWkJxVzMtS0Q0TFRaQjlTdHh3a3QtaWRlLUNDWUtnWE5WaWdRRXZNT0JXY3h3aW44SDRkM0p2ekJ0ODJEOXdsdVZlTQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 120.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-08 14:28",
+   "title": "Trump administration to invest $3 billion in minerals projects to boost U.S. defense supply chains",
+   "summary": "The White House needs critical minerals to replenish weapons stockpiles depleted during the Iran conflict and reduce U.S. dependence on Chinese supply chains.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/trump-admin-to-invest-3-billion-in-defense-linked-minerals-projects.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.4
   },
   {
    "cat": "stock",
@@ -489,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.3
+   "heat": 90.0
   },
   {
    "cat": "stock",
@@ -503,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.0
+   "heat": 89.7
   },
   {
    "cat": "stock",
@@ -517,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 89.6
+   "heat": 89.3
   },
   {
    "cat": "stock",
@@ -531,35 +531,21 @@
      "t": "sec"
     }
    ],
-   "heat": 89.6
+   "heat": 89.2
   },
   {
    "cat": "stock",
-   "time": "2026-08-08 07:01",
-   "title": "J&J CEO Duato sells $12.5m in company stock",
+   "time": "2026-08-08 09:46",
+   "title": "Perella Weinberg Partners CEO Andrew Bednar sells $4.08m in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/jj-ceo-duato-sells-125m-in-company-stock-93CH-4847620",
+     "u": "https://www.investing.com/news/insider-trading-news/perella-weinberg-partners-ceo-andrew-bednar-sells-408m-in-stock-93CH-4847638",
      "t": "agg"
     }
    ],
-   "heat": 88.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-08 07:01",
-   "title": "Farmers & Merchants Bancorp director sells $204,960 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/farmers--merchants-bancorp-director-sells-204960-in-stock-93CH-4847619",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.5
+   "heat": 88.6
   },
   {
    "cat": "stock",
@@ -573,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 88.2
+   "heat": 87.8
   },
   {
    "cat": "stock",
@@ -629,21 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-08 03:03",
-   "title": "JPMorgan Boosts Tech Bond Sales Outlook as AI Debt Binge Expands",
-   "summary": "JPMorgan Chase &amp; Co. sees bond sales from technology-related firms exceeding half a trillion dollars this year, as hyperscalers’ appetite to deploy capital for the artificial i…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-07/jpmorgan-boosts-tech-bond-sales-outlook-as-ai-debt-binge-expands",
-     "t": "sec"
-    }
-   ],
-   "heat": 49.8
+   "heat": 50.3
   },
   {
    "cat": "global",
@@ -657,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.6
+   "heat": 49.3
   },
   {
    "cat": "global",
@@ -671,7 +643,21 @@
      "t": "sec"
     }
    ],
-   "heat": 46.2
+   "heat": 45.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-08 03:03",
+   "title": "JPMorgan Boosts Tech Bond Sales Outlook as AI Debt Binge Expands",
+   "summary": "JPMorgan Chase &amp; Co. sees bond sales from technology-related firms exceeding half a trillion dollars this year, as hyperscalers’ appetite to deploy capital for the artificial i…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-07/jpmorgan-boosts-tech-bond-sales-outlook-as-ai-debt-binge-expands",
+     "t": "sec"
+    }
+   ],
+   "heat": 45.5
   },
   {
    "cat": "global",
@@ -685,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.7
+   "heat": 45.4
   },
   {
    "cat": "global",
@@ -699,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.9
+   "heat": 41.5
   },
   {
    "cat": "global",
@@ -713,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.8
+   "heat": 41.4
   },
   {
    "cat": "global",
@@ -727,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.7
+   "heat": 41.4
   },
   {
    "cat": "global",
@@ -741,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 38.4
+   "heat": 38.0
   },
   {
    "cat": "global",
@@ -755,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.8
+   "heat": 33.5
   },
   {
    "cat": "global",
@@ -769,7 +755,21 @@
      "t": "sec"
     }
    ],
-   "heat": 31.5
+   "heat": 27.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-08 04:03",
+   "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
+   "summary": "The British Pound retreats against the Japanese Yen, down about 0.24%, as the Yen is poised to end the week on a higher note. However, GBP/JPY is poised to finish the week with min…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rebound-holds-above-200-day-sma-202608072003",
+     "t": "sec"
+    }
+   ],
+   "heat": 25.6
   },
   {
    "cat": "global",
@@ -783,7 +783,7 @@
      "t": "sec"
     }
    ],
-   "heat": 29.9
+   "heat": 25.5
   },
   {
    "cat": "global",
@@ -797,21 +797,7 @@
      "t": "sec"
     }
    ],
-   "heat": 29.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-08 06:51",
-   "title": "Klesch becomes Germany’s second-largest oil refiner after BP deal",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/klesch-becomes-germanys-secondlargest-oil-refiner-after-bp-deal-4847618",
-     "t": "agg"
-    }
-   ],
-   "heat": 28.5
+   "heat": 25.0
   },
   {
    "cat": "global",
@@ -825,7 +811,7 @@
      "t": "agg"
     }
    ],
-   "heat": 26.7
+   "heat": 22.4
   },
   {
    "cat": "crypto",
@@ -839,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 85.7
+   "heat": 89.4
   },
   {
    "cat": "crypto",
@@ -853,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 77.2
+   "heat": 80.8
   },
   {
    "cat": "crypto",
@@ -867,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 61.2
+   "heat": 64.8
   },
   {
    "cat": "crypto",
@@ -881,7 +867,21 @@
      "t": "sec"
     }
    ],
-   "heat": 57.8
+   "heat": 61.4
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-08 17:07",
+   "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+   "summary": "The majority leader opened the multi-stage process the Senate follows when trying to get a bill over its 60-vote hurdle, so it's still got a shot in September.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.8
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.3
+   "heat": 57.9
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.2
+   "heat": 57.8
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.0
+   "heat": 57.6
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 53.7
+   "heat": 57.3
   },
   {
    "cat": "crypto",
@@ -951,21 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 53.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-07 22:04",
-   "title": "Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine",
-   "summary": "The FSB said at least 20 individuals were arrested in connection with a ring that scammed an undetermined number of Russian citizens.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine",
-     "t": "sec"
-    }
-   ],
-   "heat": 53.0
+   "heat": 57.1
   },
   {
    "cat": "crypto",
@@ -979,21 +965,35 @@
      "t": "sec"
     }
    ],
-   "heat": 52.7
+   "heat": 56.4
   },
   {
    "cat": "crypto",
-   "time": "2026-08-07 06:17",
-   "title": "Wall Street closes lower as Dow leads decline, S&P 500 and Nasdaq slip - CryptoRank",
-   "summary": "Wall Street closes lower as Dow leads decline, S&P 500 and Nasdaq slip &nbsp;&nbsp; CryptoRank",
+   "time": "2026-08-06 02:30",
+   "title": "Dow and S&P 500 Reach Record Highs as Market Momentum Continues - CryptoRank",
+   "summary": "Dow and S&P 500 Reach Record Highs as Market Momentum Continues &nbsp;&nbsp; CryptoRank",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR1dUWmdmQTFvZG5qcV9ZbjhRMkt6Q2h5aTRyOFVoV01zeGxPcWJWazZzMHYtbDc0VDlVUmZKc1N3LWo3V01ZaUlKNHh4R0o2dTlCdG5oN2V0c3dBWlIzRTJUbVpUM2hwMVZIN0toV2tvQWJfWFIwOFZZRVVCY0F6eWhSZw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxT09hTUozUy1mQU1yd3pqb3dGVDl1WlVxOXNNMHBLVXJSeTFZWndXQjNCeHlMOG5hY0NMSzFOYXFPZ3BxX3dkZEZvY3B2UndLZmhxd2pIN2dSMEtGTTV2aFZPaXF1SV9JN2pCMWhn?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 50.4
+   "heat": 52.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-03 15:08",
+   "title": "James Wynn Holds Losing S&P 500 Short as Liquidations Reach 22 - CryptoRank",
+   "summary": "James Wynn Holds Losing S&P 500 Short as Liquidations Reach 22 &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kV3ROcEJneVczRklqUF9XaWlkbXpYdWlwWmc1a0RRQ3d1MW1mbDIwV3R4LVQ1a0RkOHM3WFM2N0t3TzBlRWtidWw3NU9XTXp5NUUtSUlEcDhJNG44dmRjSWRDS0QtNnI1cEJGS1FxZk9rd3ZycVZJa3NUMkhMZw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 52.0
   },
   {
    "cat": "crypto",
@@ -1007,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.9
+   "heat": 39.6
   },
   {
    "cat": "crypto",
@@ -1021,35 +1021,35 @@
      "t": "sec"
     }
    ],
-   "heat": 39.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-08 04:20",
-   "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-   "summary": "Mateen purchased more than 306,000 shares across two days following the company's quarterly earnings, lifting his stake to more than 492,000 shares.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
-     "t": "sec"
-    }
-   ],
-   "heat": 38.0
+   "heat": 38.7
   },
   {
    "cat": "sector",
-   "time": "2026-08-07 08:30",
-   "title": "08:26:37【LG董事长据悉与黄仁勋下周将会面 或讨论实体AI和智能工厂】",
-   "summary": "08:26:37【LG董事长据悉与黄仁勋下周将会面 或讨论实体AI和智能工厂】 &nbsp;&nbsp; 财联社",
+   "time": "2026-08-05 09:15",
+   "title": "科技赛道全线回暖，算力租赁与AI应用持续受追捧",
+   "summary": "科技赛道全线回暖，算力租赁与AI应用持续受追捧 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCWnNkd0hsRTEzcVJlZ1ZQeE1LSHM0RjBhYTZmeUo2aE5CM2RjclNGMEIzc3hfZFpfUEJjZ09aWmpwNEtRbFJKVQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KU3YxX0lnZTRfTzhaREZaWXd1aDlvNWhzZVFMcF9XRUhQc19DRFdWQTMyU3FWNG81RDEydUpEaC1Qb1gzUFRPYw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 230.7
+   "heat": 224.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 09:30",
+   "title": "Citadel Securities’ Rubner says it’s time to start buying gold again",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/citadels-rubner-says-its-time-to-start-buying-gold-again-4847142",
+     "t": "agg"
+    }
+   ],
+   "heat": 224.5
   }
  ]
 }
