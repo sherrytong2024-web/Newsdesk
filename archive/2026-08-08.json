@@ -1,47 +1,47 @@
 {
- "updated": "2026-08-08 18:16",
+ "updated": "2026-08-08 22:05",
  "items": [
   {
    "cat": "macro",
-   "time": "2026-08-07 23:12",
-   "title": "Dollar Ends Week at Lowest Since May as Rate-Hike Bets Fade",
-   "summary": "The dollar fell Friday after soft US labor data reduced expectations that the Federal Reserve will raise interest rates in the near term.",
+   "time": "2026-08-08 22:01",
+   "title": "US Munitions Strain Complicates Iran Strategy",
+   "summary": "The US remains outside formal negotiations with Iran as Oman and Tehran discuss arrangements for the Strait of Hormuz, leaving the diplomatic path uncertain and raising the possibi…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-07/dollar-falls-to-lowest-level-since-may-as-rate-hike-in-doubt",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-08/us-munitions-strain-complicates-iran-strategy-video",
      "t": "sec"
     }
    ],
-   "heat": 64.8
+   "heat": 52.0
   },
   {
    "cat": "macro",
-   "time": "2026-08-07 21:03",
-   "title": "Gold Gains as Dovish Fed Expectations Pressure DXY and Treasury Yields",
-   "summary": "",
+   "time": "2026-08-08 20:47",
+   "title": "AI Buildout Keeps Quinlan Bullish on US Stocks",
+   "summary": "Merrill & Bank of America Head of Market Strategy Joe Quinlan is on Bloomberg This Weekend to give his reaction to the July jobs report. Quinlan explains to hosts David Gura and Ch…",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-gains-as-dovish-fed-expectations-pressure-dxy-and-treasury-yields-200685419",
-     "t": "agg"
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-08/ai-buildout-keeps-quinlan-bullish-on-us-stocks-video",
+     "t": "sec"
     }
    ],
-   "heat": 54.5
+   "heat": 51.8
   },
   {
    "cat": "macro",
-   "time": "2026-08-08 03:14",
-   "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
-   "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
+   "time": "2026-08-08 04:22",
+   "title": "Best 1-Year CD rates of August 2026: Up to 4.40% APY",
+   "summary": "Grow your savings in just 12 months with these top CDs.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+     "u": "https://www.cnbc.com/select/best-1-year-cds/",
      "t": "sec"
     }
    ],
-   "heat": 41.5
+   "heat": 49.0
   },
   {
    "cat": "macro",
@@ -55,7 +55,21 @@
      "t": "sec"
     }
    ],
-   "heat": 41.3
+   "heat": 48.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-08 13:06",
+   "title": "Berkshire lowers cash stake as buybacks accelerate, reports higher profit",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/berkshire-lowers-cash-stake-as-buybacks-accelerate-reports-higher-profit-4847659",
+     "t": "agg"
+    }
+   ],
+   "heat": 48.5
   },
   {
    "cat": "macro",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.6
+   "heat": 47.9
   },
   {
    "cat": "macro",
@@ -83,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 44.0
   },
   {
    "cat": "macro",
@@ -97,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 44.0
   },
   {
    "cat": "macro",
@@ -111,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 44.0
   },
   {
    "cat": "macro",
@@ -125,21 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-08 16:48",
-   "title": "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/us-senate-passes-short-term-funding-bill-to-avert-federal-shutdown.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 35.8
+   "heat": 44.0
   },
   {
    "cat": "macro",
@@ -153,7 +153,35 @@
      "t": "agg"
     }
    ],
-   "heat": 35.4
+   "heat": 42.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-07 21:03",
+   "title": "Gold Gains as Dovish Fed Expectations Pressure DXY and Treasury Yields",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-gains-as-dovish-fed-expectations-pressure-dxy-and-treasury-yields-200685419",
+     "t": "agg"
+    }
+   ],
+   "heat": 41.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-08 16:48",
+   "title": "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/us-senate-passes-short-term-funding-bill-to-avert-federal-shutdown.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.1
   },
   {
    "cat": "macro",
@@ -167,7 +195,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.8
+   "heat": 33.2
   },
   {
    "cat": "macro",
@@ -181,41 +209,125 @@
      "t": "sec"
     }
    ],
-   "heat": 33.4
+   "heat": 32.8
   },
   {
-   "cat": "macro",
-   "time": "2026-08-08 04:16",
-   "title": "Gold Rally Tests Key Resistance as Weak Jobs Data Reshapes Fed Expectations",
-   "summary": "",
+   "cat": "sector",
+   "time": "2026-08-08 21:49",
+   "title": "Hunting Camo Moves From the Woods to Runways",
+   "summary": "Hunting camouflage has moved from the woods into mainstream fashion, fueled by demand for vintage workwear and rural American aesthetics. Bloomberg Weekend Senior Features Writer M…",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-rally-tests-key-resistance-as-weak-jobs-data-reshapes-fed-expectations-200685445",
-     "t": "agg"
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-08/hunting-camo-moves-from-the-woods-to-runways-video",
+     "t": "sec"
     }
    ],
-   "heat": 31.7
+   "heat": 248.0
   },
   {
-   "cat": "macro",
-   "time": "2026-08-08 02:09",
-   "title": "Gold Rally Shows How Fast Fed Repricing Can Reset Bullion Demand",
-   "summary": "",
+   "cat": "sector",
+   "time": "2026-08-08 21:40",
+   "title": "Democrats plan Trump investigations over impeachment if they win House, sources say",
+   "summary": "Senior Democrats have discussed using hearings, subpoenas and document requests to obtain records from entities tied to Trump's orbit, the sources said.",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-rally-shows-how-fast-fed-repricing-can-reset-bullion-demand-200685442",
-     "t": "agg"
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/dems-plan-trump-investigations-instead-of-impeachment-reuters.html",
+     "t": "sec"
     }
    ],
-   "heat": 31.3
+   "heat": 247.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 21:06",
+   "title": "UAE says one of its ships was targeted by missile as U.S.-Iran tensions over Strait of Hormuz remain high",
+   "summary": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 20:22",
+   "title": "Ceuta Migrant Surge Exposes Morocco’s Economic Strain",
+   "summary": "More than 70,000 people, mostly Moroccans, crossed into Spain’s North African enclave of Ceuta in a mass migration surge fueled by economic frustration and amplified by social medi…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-08/ceuta-migrant-surge-exposes-morocco-s-economic-strain-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 20:00",
+   "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+   "summary": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 20:00",
+   "title": "Cyclospora fears lead consumers to lose their appetite for salads",
+   "summary": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 19:55",
+   "title": "AI and job losses: How the next automation wave will impact the workforce",
+   "summary": "Recent tech layoffs have raised alarms for workers. But multiple studies find that the wave driven by AI looks very different from past automation cycles.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/ai-and-job-losses-how-the-next-automation-wave-will-impact-the-workforce.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 19:13",
+   "title": "Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says",
+   "summary": "Singapore is benefitting from the rapid growth of artificial intelligence and the government is making use of the technology to ensure higher productivity and better jobs for worke…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-08/singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.5
   },
   {
    "cat": "sector",
    "time": "2026-08-08 14:00",
-   "title": "Zelenskyy Makes Debut Trip to Serbia as Russian Influence Wanes",
-   "summary": "Ukrainian President Volodymyr Zelenskyy is making a landmark first visit on Saturday to Serbia, the Balkan country whose leader has been scaling back once-close ties with Russia.",
+   "title": "Zelenskyy Wins Serbian Pledges as Russian Influence Wanes",
+   "summary": "Ukrainian President Volodymyr Zelenskyy made a landmark first visit on Saturday to Serbia to expand cooperation with the Balkan country whose leader has been scaling back once-clos…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -223,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.3
+   "heat": 246.7
   },
   {
    "cat": "sector",
@@ -237,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.3
+   "heat": 246.6
   },
   {
    "cat": "sector",
@@ -251,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.2
+   "heat": 246.5
   },
   {
    "cat": "sector",
@@ -265,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.0
+   "heat": 246.3
   },
   {
    "cat": "sector",
@@ -279,133 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 226.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 11:08",
-   "title": "Judges Halt Trump's Ballroom, Trump Trying to Oust Cook Again",
-   "summary": "Source: Bloomberg, 6:05",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-08/judges-halt-trump-s-ballroom-trump-trying-to-oust-cook-again",
-     "t": "sec"
-    }
-   ],
-   "heat": 226.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 10:24",
-   "title": "Trump to Appeal Ballroom Ruling, OpenAI Halts Work on AI Model",
-   "summary": "Source: Bloomberg, 6:24",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-08/trump-to-appeal-ballroom-ruling-openai-halts-work-on-ai-model",
-     "t": "sec"
-    }
-   ],
-   "heat": 226.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 10:00",
-   "title": "Weekend Long Read: A Soaked Market for Central China’s Watermelon Farmers",
-   "summary": "Weekend Long Read: A Soaked Market for Central China’s Watermelon Farmers &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0JjVndFeXpsMFZtYU5lb1pldmttLTVGQXE2VWh2c0pZMWdZbkk5TzFvOVdrMzZhTVNDNUktUk5wQWExeFdJZmt0RWliSVU5bFVkZ1drTnFPNDBNQTJxMnI3MWQ5ZHlYaWw3WHdSOE5UYVlmbnFjdkF2TnNfYXBEX3FpZl9CYnpSbFdjSFZtTDc1eXo2OUJXWmRacDJMOVpGRVZQWDQ2OFI1VjFOVXRIMVRITWNkdTRCT0JCMkNQLXZjb0JV?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 226.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 09:47",
-   "title": "Canada’s PSP Is Said to Mull $1.5 Billion Sale of Roads in India",
-   "summary": "The Public Sector Pension Investment Board is exploring options for its roads in India, including a sale, according to people familiar with the matter.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-08/canada-s-psp-is-said-to-mull-1-5-billion-sale-of-roads-in-india",
-     "t": "sec"
-    }
-   ],
-   "heat": 226.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 09:20",
-   "title": "Trump Trying to Remove Cook Again, New Russia Sanctions Bill",
-   "summary": "Source: Bloomberg, 5:55",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-08/trump-trying-to-remove-cook-again-new-russia-sanctions-bill",
-     "t": "sec"
-    }
-   ],
-   "heat": 226.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 08:58",
-   "title": "New Zealand Slaps New Sanctions Against Russia After US Move",
-   "summary": "New Zealand announced more sanctions targeting individuals and entities supporting Russia’s war against Ukraine, following the passage of a new bill in the US Senate targeting the …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-08/new-zealand-slaps-new-sanctions-against-russia-after-us-move",
-     "t": "sec"
-    }
-   ],
-   "heat": 226.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 08:13",
-   "title": "Trump Trying to Oust Cook Again, Judges Halt Ballroom Project",
-   "summary": "Source: Bloomberg, 6:21",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-08/trump-trying-to-oust-cook-again-judges-halt-ballroom-project",
-     "t": "sec"
-    }
-   ],
-   "heat": 226.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 05:16",
-   "title": "Airlines like Delta and United are selling cheaper business-class tickets with fewer perks. Here's how your credit card ",
-   "summary": "These cheaper fares often lack amenities such as airport lounge access, but the right credit card can help you get them back.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/select/how-to-offset-basic-business-class-with-your-credit-card/",
-     "t": "sec"
-    }
-   ],
-   "heat": 225.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-08 00:28",
-   "title": "Chesky says Airbnb will spend ‘a lot more’ on AI as earnings beat and stock surges 15%",
-   "summary": "Airbnb CEO Brian Chesky wasn’t sure AI would help the company, but a year later, he says it’s the reason growth is back.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 125.0
+   "heat": 246.3
   },
   {
    "cat": "stock",
@@ -419,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 123.3
+   "heat": 122.7
   },
   {
    "cat": "stock",
@@ -433,13 +419,13 @@
      "t": "sec"
     }
    ],
-   "heat": 121.7
+   "heat": 121.1
   },
   {
    "cat": "stock",
    "time": "2026-08-05 05:49",
-   "title": "US stocks: Dow, S&P 500 close at record on AI-linked earnings, Middle East deal hopes - The Business Times",
-   "summary": "US stocks: Dow, S&P 500 close at record on AI-linked earnings, Middle East deal hopes &nbsp;&nbsp; The Business Times",
+   "title": "US stocks: Dow, S&P 500 close at record on AI-linked earnings, Middle East deal hopes - businesstimes.com.sg",
+   "summary": "US stocks: Dow, S&P 500 close at record on AI-linked earnings, Middle East deal hopes &nbsp;&nbsp; businesstimes.com.sg",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -451,13 +437,13 @@
   },
   {
    "cat": "stock",
-   "time": "2026-08-05 04:09",
-   "title": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble - The Economic Times",
-   "summary": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble &nbsp;&nbsp; The Economic Times",
+   "time": "2026-08-04 21:35",
+   "title": "US stocks: S&P 500, Dow hit record highs on strong AI-linked earnings, Mideast deal hopes - The Economic Times",
+   "summary": "US stocks: S&P 500, Dow hit record highs on strong AI-linked earnings, Mideast deal hopes &nbsp;&nbsp; The Economic Times",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMnVwZzJNLVZqdklQRVVvUDRvSDVjZ1ZSVXc5UUdvMFMwd2FqMHE3NV9PNEtUUGVfMW1xWnlORElZMTlZVkpCVkJ6MEJ6eGlZcG1TLW5CS1V2VXk1Z29Sb0lER0xaeTNkczlNbjIyVGZYVXBrSkNBNFB0RHFUZFJHazNXOEw3NWUyeUJNNm5TbmhqSEFQNHFyQjJfZTduaWs4WUNucDBmQlg5Y2lqN0dtTHloWVV0bmlfODZiUmVjMVBNZzZ4d3h6MXpRR3dvVWJmTXlBQWZsb0h4UTVZM1ZYbDNpakJESU1XTF9sQk5iMnRDaVZtbUVqYjFLRjhfMHZua2pn0gGIAkFVX3lxTE10OE8wWFo1Rkp2cjI4WG5GUU1rN0dySjV6dDMtSXBUR2R4OUJNQUpIbjJuRkczbTE4SGVkbnVscFZLT21GcFU5UDNMUFFySlEzaF9CaW94dExuMEdiaWNzZmxjUjdtTHFOWUpSWmNtNzhUOThLQncteXhndWdMNndTUXBITmU1THdwQnh5SHVBakg4WmVncWVqaDNLMUZIamR1enZ1LUY2UDJCRHVlRlZldk1BSlhuTVJTUUZaZ1BSV0twQUdpWkJxVzMtS0Q0TFRaQjlTdHh3a3QtaWRlLUNDWUtnWE5WaWdRRXZNT0JXY3h3aW44SDRkM0p2ekJ0ODJEOXdsdVZlTQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTlE0RExQR0kxRElUNFlLNjJ5ZGpHTkk2ZVJNYnpnU0R0RThpR3J6ek8wMWR5U1Z6cG5LUzNwelRsUklsV29jZDVjd1FMeTNsenoxWXFxOWFyeW1sZHJoeDFpQjBPWGsyZmE2clAzMktCY2pZb200b29ZU0ZpanM1SmFQVzRjMFlyVG1ST0hNajdOTnNnM1ExemhuWnh6by12VG93SlczNEZJaGp6N000dW53U25NLWR3WU0xdmpsamNaUlV5aTRvaFE2Njg1OWNXZVBvWmI2X3IyTzdpbHVpQVJyWEtuNUdLRm1pdERtNNIB9AFBVV95cUxNMTZRNEs1QU5BdXdRQjlmdWZhS2tzM1VXbWRkb1FTbFFXX2ZQYmlfTTQ5SFJRQkF2N3NORUNvazAzUWUxQjZGdF9qMUptZXZGVVVsbDB2ZDZRMnBIOFFvelgxb3BnVjdpNkdkd210MjY3TmpOWjRkOXlOUVY4VTF5VURuYno0U090MWRkWkdDZ2pSZU41SC1rVk1pV3VpbG5weWdTZ3NWa1ZXZEMxSlBycmp2dkFybUtDbTdycHVQaWpUdzlTUWMxV3RMLTUxcmNJMFA2QXRfX0tuakNmbHZySVV4bkhQUEQ2ZlYwaVpJTUtKM3Qt?oc=5",
      "t": "sec"
     }
    ],
@@ -465,31 +451,59 @@
   },
   {
    "cat": "stock",
-   "time": "2026-08-08 14:28",
-   "title": "Trump administration to invest $3 billion in minerals projects to boost U.S. defense supply chains",
-   "summary": "The White House needs critical minerals to replenish weapons stockpiles depleted during the Iran conflict and reduce U.S. dependence on Chinese supply chains.",
+   "time": "2026-08-08 20:00",
+   "title": "Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first",
+   "summary": "Otis positions itself as a long-term growth stock, but shares are down due to setbacks in its elevator service business and investors chasing the AI trade.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/trump-admin-to-invest-3-billion-in-defense-linked-minerals-projects.html",
+     "u": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
      "t": "sec"
     }
    ],
-   "heat": 91.4
+   "heat": 103.7
   },
   {
    "cat": "stock",
-   "time": "2026-08-08 06:10",
-   "title": "Stock Movers: SpaceX, Palantir, The Trade Desk (Podcast)",
-   "summary": "Today’s biggest winners and losers in the stock market, a look at the notable movers:",
+   "time": "2026-08-08 21:00",
+   "title": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question",
+   "summary": "Investors should be conversative in retirement, but abandoning equities is a big mistake.",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-07/stock-movers-spacex-palantir-the-trade-desk-podcast",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
      "t": "sec"
     }
    ],
-   "heat": 90.0
+   "heat": 83.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-08 19:51",
+   "title": "Formula One is lagging other sport stocks. Why analysts think it's poised to race ahead",
+   "summary": "As the sports sector remains resilient among consumers, analysts are predicting big gains for this racing league.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/formula-one-is-lagging-other-sport-stocks-why-analysts-think-its-poised-to-race-ahead.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 83.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-08 04:35",
+   "title": "Akamai CEO on Earnings, Cloud Industry, New Investment",
+   "summary": "Akamai's shares declined following the release of its second-quarter earnings report, despite the company beating earnings estimates. Tom Leighton, Co-Founder and CEO of Akamai, jo…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-07/akamai-ceo-on-earnings-cloud-industry-new-investment-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 81.1
   },
   {
    "cat": "stock",
@@ -503,7 +517,21 @@
      "t": "sec"
     }
    ],
-   "heat": 89.7
+   "heat": 81.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-08 04:17",
+   "title": "Gen CEO on Earnings, New Cybersecurity Attack Tracker",
+   "summary": "Gen Digital's shares are reaching their highest levels in nearly a year following an upward revision of its earnings forecast. Vincent Pilette, President and CEO of Gen Digital, ex…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-07/gen-ceo-on-earnings-new-cybersecurity-attack-tracker-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 81.0
   },
   {
    "cat": "stock",
@@ -517,35 +545,21 @@
      "t": "sec"
     }
    ],
-   "heat": 89.3
+   "heat": 80.6
   },
   {
    "cat": "stock",
-   "time": "2026-08-08 01:38",
-   "title": "Jobs Shock Sends Stocks Higher | Open Interest 8/7/2026",
-   "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Stocks rise after data showed US employers unexpectedly cut jobs in July. Meanwhile, oil waver…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-07/open-interest-8-7-2026-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 89.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-08 09:46",
-   "title": "Perella Weinberg Partners CEO Andrew Bednar sells $4.08m in stock",
+   "time": "2026-08-08 12:30",
+   "title": "Berkshire says operating profit rises, conducts stock buybacks",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/perella-weinberg-partners-ceo-andrew-bednar-sells-408m-in-stock-93CH-4847638",
+     "u": "https://www.investing.com/news/stock-market-news/berkshire-says-operating-profit-rises-conducts-stock-buybacks-4847654",
      "t": "agg"
     }
    ],
-   "heat": 88.6
+   "heat": 80.4
   },
   {
    "cat": "stock",
@@ -559,7 +573,21 @@
      "t": "sec"
     }
    ],
-   "heat": 87.8
+   "heat": 79.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-07 04:14",
+   "title": "Stock Market Today: S&P 500 Holds Near Record as Dow Rises, but Transports Lag - CryptoRank",
+   "summary": "Stock Market Today: S&P 500 Holds Near Record as Dow Rises, but Transports Lag &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbS1IWFM1UWw5c3hqZ2F0Q0lBWmxJTkpNemtXMXRmbFZfMlNVQW9wOG16amJfdUhGSTVLcnFXUEVtMDBBOXdxVDB1NmNvMExLdEpwSEcwcFQ2a3BhYUlRTnJNR0lRUVFXV2FNeXlKSkZjT1JMcDNGa2tySHkwaTVpcXJUbDVQZTNLMURYUnZuRHJDM2g4Ynp5VWtGTjYyeG40MVI1ekoyTkM3cGVkU1YyeThqSQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 77.0
   },
   {
    "cat": "stock",
@@ -573,49 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-06 01:21",
-   "title": "China’s Green Jet Fuel Expansion Raises Pressure on Global Feedstock Supply",
-   "summary": "China’s Green Jet Fuel Expansion Raises Pressure on Global Feedstock Supply &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUx4elUyeHEzWUlkTnk2YzEzbEhmZXVMNzFWY1BiLXQyeXBncjdJNnNpelBmZHBaUmczZjhoNmwzWVVOSzFfZHBDNDhOU3QxaDhvLUU1ZGY4aEE2NG9xRUZqYTNfVG5wSXJSZkM3MlhzLWNzR3ktYmtabmZFTUVSMHlMUWFUazdjaGQwQ3M0WkNhZjBvOU53MjFOaWpoNHk3MGpBVkFsRzU0QlNQVmpGOTdhRFdKb016UnNaTEpNYWVlZzZSZEMxWQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 84.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-05 15:00",
-   "title": "Market Movers blog: SpaceX delivers strong revenue growth as stock price comes back to Earth - Investment Week",
-   "summary": "Market Movers blog: SpaceX delivers strong revenue growth as stock price comes back to Earth &nbsp;&nbsp; Investment Week",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 84.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-07 08:04",
-   "title": "Yen Jumps on US Data as Traders Watch for Intervention Clues",
-   "summary": "The yen surged against a weaker dollar after an unexpectedly soft US payrolls report on Friday, with traders on alert for any sign authorities were preparing to intervene in the Ja…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-07/yen-surrenders-nearly-half-its-gains-from-us-japan-intervention",
-     "t": "sec"
-    }
-   ],
-   "heat": 50.3
+   "heat": 76.0
   },
   {
    "cat": "global",
@@ -629,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.3
+   "heat": 44.6
   },
   {
    "cat": "global",
@@ -643,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.8
+   "heat": 41.2
   },
   {
    "cat": "global",
@@ -657,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.5
+   "heat": 40.8
   },
   {
    "cat": "global",
@@ -671,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.4
+   "heat": 40.7
   },
   {
    "cat": "global",
@@ -685,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.5
+   "heat": 36.9
   },
   {
    "cat": "global",
@@ -699,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.4
+   "heat": 36.8
   },
   {
    "cat": "global",
@@ -713,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.4
+   "heat": 36.7
   },
   {
    "cat": "global",
@@ -727,77 +713,7 @@
      "t": "agg"
     }
    ],
-   "heat": 38.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-08 03:07",
-   "title": "Indonesian Rupiah: Supportive domestic backdrop, capped gains – Commerzbank",
-   "summary": "Commerzbank’s FX analysts, including Charlie Lay and Moses Lim, note that USD/IDR slipped slightly but stayed below the key 18,000 level as softer global Oil prices and stronger In…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/indonesian-rupiah-supportive-domestic-backdrop-capped-gains-commerzbank-202608071907",
-     "t": "sec"
-    }
-   ],
-   "heat": 33.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-08 13:00",
-   "title": "BP Sale Makes US Investor Germany's Second-Largest Oil Refiner",
-   "summary": "Over the past three decades, American investor A. Gary Klesch has amassed a portfolio of struggling steel mills, aluminum smelters, chemical plants and oil refineries, betting he c…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-08/bp-sale-makes-us-investor-germany-s-second-largest-oil-refiner",
-     "t": "sec"
-    }
-   ],
-   "heat": 27.1
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-08 04:03",
-   "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
-   "summary": "The British Pound retreats against the Japanese Yen, down about 0.24%, as the Yen is poised to end the week on a higher note. However, GBP/JPY is poised to finish the week with min…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rebound-holds-above-200-day-sma-202608072003",
-     "t": "sec"
-    }
-   ],
-   "heat": 25.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-08 03:21",
-   "title": "Russia sanctions bill honoring Lindsey Graham breezes through Senate, heads to House",
-   "summary": "A measure to impose new sanctions on Russian oil purchasers easily cleared the Senate and heads to the House.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/07/russia-sanctions-bill-lindsey-graham-senate.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 25.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-08 00:00",
-   "title": "Top Democrat proposes killing tax breaks for overseas oil production",
-   "summary": "Gas prices in the U.S. averaged $4.06 per gallon on Thursday — a major source of voter discontent heading into November's midterm elections.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/07/martin-heinrich-tax-breaks-overseas-oil-production.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 25.0
+   "heat": 33.4
   },
   {
    "cat": "global",
@@ -811,7 +727,91 @@
      "t": "agg"
     }
    ],
-   "heat": 22.4
+   "heat": 21.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-08 04:03",
+   "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
+   "summary": "The British Pound retreats against the Japanese Yen, down about 0.24%, as the Yen is poised to end the week on a higher note. However, GBP/JPY is poised to finish the week with min…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rebound-holds-above-200-day-sma-202608072003",
+     "t": "sec"
+    }
+   ],
+   "heat": 21.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-08 03:07",
+   "title": "Indonesian Rupiah: Supportive domestic backdrop, capped gains – Commerzbank",
+   "summary": "Commerzbank’s FX analysts, including Charlie Lay and Moses Lim, note that USD/IDR slipped slightly but stayed below the key 18,000 level as softer global Oil prices and stronger In…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/indonesian-rupiah-supportive-domestic-backdrop-capped-gains-commerzbank-202608071907",
+     "t": "sec"
+    }
+   ],
+   "heat": 20.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-08 03:04",
+   "title": "Gold Miners Flash Major Buy Signal After 41% Selloff and Falling-Wedge Breakout",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-miners-flash-major-buy-signal-after-41-selloff-and-fallingwedge-breakout-200685438",
+     "t": "agg"
+    }
+   ],
+   "heat": 18.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-08 02:58",
+   "title": "Modern Warfare Is Creating a New Bull Case for Gold and Silver",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/the-metal-behind-the-missile-200685417",
+     "t": "agg"
+    }
+   ],
+   "heat": 18.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-05 15:00",
+   "title": "US Market Pulse August 2026 - Goldman Sachs Asset Management",
+   "summary": "US Market Pulse August 2026 &nbsp;&nbsp; Goldman Sachs Asset Management",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 16.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-08 13:00",
+   "title": "BP Sale Makes US Investor Germany's Second-Largest Oil Refiner",
+   "summary": "Over the past three decades, American investor A. Gary Klesch has amassed a portfolio of struggling steel mills, aluminum smelters, chemical plants and oil refineries, betting he c…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-08/bp-sale-makes-us-investor-germany-s-second-largest-oil-refiner",
+     "t": "sec"
+    }
+   ],
+   "heat": 14.5
   },
   {
    "cat": "crypto",
@@ -825,7 +825,35 @@
      "t": "sec"
     }
    ],
-   "heat": 89.4
+   "heat": 96.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-08 21:30",
+   "title": "Bitcoin will never fall below $60K again: Nansen founder",
+   "summary": "Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-08 21:00",
+   "title": "A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar",
+   "summary": "It was a tough week for crypto, but a good time to get a drink by Thursday evening.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.8
   },
   {
    "cat": "crypto",
@@ -839,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.8
+   "heat": 88.2
   },
   {
    "cat": "crypto",
@@ -853,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.8
+   "heat": 72.2
   },
   {
    "cat": "crypto",
@@ -867,7 +895,21 @@
      "t": "sec"
     }
    ],
-   "heat": 61.4
+   "heat": 68.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-08 21:00",
+   "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+   "summary": "The $1.9 trillion asset manager says excluding established memecoins on principle would undermine its active approach to crypto investing.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
+     "t": "sec"
+    }
+   ],
+   "heat": 67.8
   },
   {
    "cat": "crypto",
@@ -881,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.8
+   "heat": 67.2
   },
   {
    "cat": "crypto",
@@ -895,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 57.9
+   "heat": 65.3
   },
   {
    "cat": "crypto",
@@ -909,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 57.8
+   "heat": 65.2
   },
   {
    "cat": "crypto",
@@ -923,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 57.6
+   "heat": 65.0
   },
   {
    "cat": "crypto",
@@ -937,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 57.3
+   "heat": 64.7
   },
   {
    "cat": "crypto",
@@ -951,35 +993,21 @@
      "t": "sec"
     }
    ],
-   "heat": 57.1
+   "heat": 64.5
   },
   {
    "cat": "crypto",
-   "time": "2026-08-07 20:28",
-   "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
-   "summary": "Russia has shut down nine unregistered crypto exchanges in Moscow, with the FSB alleging they helped move scam proceeds abroad through Ukrainian call centers.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 56.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-06 02:30",
-   "title": "Dow and S&P 500 Reach Record Highs as Market Momentum Continues - CryptoRank",
-   "summary": "Dow and S&P 500 Reach Record Highs as Market Momentum Continues &nbsp;&nbsp; CryptoRank",
+   "time": "2026-08-06 03:58",
+   "title": "S&P 500 Extends Bullish Run, Traders Eye 8,000 Milestone - CryptoRank",
+   "summary": "S&P 500 Extends Bullish Run, Traders Eye 8,000 Milestone &nbsp;&nbsp; CryptoRank",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxT09hTUozUy1mQU1yd3pqb3dGVDl1WlVxOXNNMHBLVXJSeTFZWndXQjNCeHlMOG5hY0NMSzFOYXFPZ3BxX3dkZEZvY3B2UndLZmhxd2pIN2dSMEtGTTV2aFZPaXF1SV9JN2pCMWhn?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kbGxKaHVvOFNOZDM4UVRONEJkY094UVlGZDVzcVc4cXdQVVJnQWFfa25Gci14NFhubVB5S2hDZzdIV2w4RGppekZIZHRYLXZ6OWNXWXRORTNMYUdYUWpxNEkzNDNfdGpTY3NTQjNaOHFzWjA?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 60.0
   },
   {
    "cat": "crypto",
@@ -993,63 +1021,35 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-08 15:46",
-   "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
-   "summary": "BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-08 10:30",
-   "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
-   "summary": "If a minority chain appears this weekend, buyers could replay signed fork-coin sales on bitcoin itself, making doing nothing the safest move until the chains can be separated.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
-     "t": "sec"
-    }
-   ],
-   "heat": 38.7
+   "heat": 60.0
   },
   {
    "cat": "sector",
-   "time": "2026-08-05 09:15",
-   "title": "科技赛道全线回暖，算力租赁与AI应用持续受追捧",
-   "summary": "科技赛道全线回暖，算力租赁与AI应用持续受追捧 &nbsp;&nbsp; 财联社",
+   "time": "2026-08-07 05:27",
+   "title": "海外研选日报0806 | 德银：SpaceX业绩大超预期 AI业务推动收入迈向千亿美元",
+   "summary": "海外研选日报0806 | 德银：SpaceX业绩大超预期 AI业务推动收入迈向千亿美元 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KU3YxX0lnZTRfTzhaREZaWXd1aDlvNWhzZVFMcF9XRUhQc19DRFdWQTMyU3FWNG81RDEydUpEaC1Qb1gzUFRPYw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Ld19QQmVJOXNGM3F4R1o1QzhBX0k0b0xkMVBNRzNLYVRsVE8yWDVULXYyWUdOZU1XMXVEOVJfT1VraF9OQTdPSA?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 224.0
+   "heat": 241.2
   },
   {
    "cat": "sector",
-   "time": "2026-08-08 09:30",
-   "title": "Citadel Securities’ Rubner says it’s time to start buying gold again",
-   "summary": "",
+   "time": "2026-08-08 10:00",
+   "title": "Weekend Long Read: A Soaked Market for Central China’s Watermelon Farmers",
+   "summary": "Weekend Long Read: A Soaked Market for Central China’s Watermelon Farmers &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/commodities-news/citadels-rubner-says-its-time-to-start-buying-gold-again-4847142",
-     "t": "agg"
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0JjVndFeXpsMFZtYU5lb1pldmttLTVGQXE2VWh2c0pZMWdZbkk5TzFvOVdrMzZhTVNDNUktUk5wQWExeFdJZmt0RWliSVU5bFVkZ1drTnFPNDBNQTJxMnI3MWQ5ZHlYaWw3WHdSOE5UYVlmbnFjdkF2TnNfYXBEX3FpZl9CYnpSbFdjSFZtTDc1eXo2OUJXWmRacDJMOVpGRVZQWDQ2OFI1VjFOVXRIMVRITWNkdTRCT0JCMkNQLXZjb0JV?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 224.5
+   "heat": 246.0
   }
  ]
 }
