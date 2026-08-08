@@ -1,6 +1,62 @@
 {
- "updated": "2026-08-08 11:59",
+ "updated": "2026-08-08 16:06",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-08 14:00",
+   "title": "Zelenskyy Makes Debut Trip to Serbia as Russian Influence Wanes",
+   "summary": "Ukrainian President Volodymyr Zelenskyy is making a landmark first visit on Saturday to Serbia, the Balkan country whose leader has been scaling back once-close ties with Russia.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-08/zelenskyy-makes-debut-trip-to-serbia-as-russian-influence-wanes",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 13:54",
+   "title": "Kyiv Struck as Ukraine Targets Russian Refineries, Shadow Fleet",
+   "summary": "A fire was sparked at Russia’s Ilsky oil refinery in the southern Krasnodar region by Ukrainian drone debris, injuring five people, the regional task force said on Saturday, as Rus…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-08/ukraine-drone-strike-sparks-fire-at-russia-s-ilsky-refinery",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 13:21",
+   "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
+   "summary": "Fire Point CEO Iryna Terekh says Ukraine has \"learned the hard way\" that military leverage is integral to to bringing diplomacy within reach.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 12:00",
+   "title": "War Brings Winter of Discontent for the World’s Workhorse Fuel",
+   "summary": "A diesel squeeze spurred by wars in the Middle East and Ukraine is setting the stage for an even worse crunch as demand rises ahead of the Northern Hemisphere winter.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-08/war-brings-winter-of-discontent-for-the-world-s-workhorse-fuel",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.3
+  },
   {
    "cat": "sector",
    "time": "2026-08-08 11:47",
@@ -13,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 224.0
+   "heat": 235.3
   },
   {
    "cat": "sector",
@@ -27,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.9
+   "heat": 235.2
   },
   {
    "cat": "sector",
@@ -41,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.7
+   "heat": 235.0
   },
   {
    "cat": "sector",
@@ -55,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.7
+   "heat": 235.0
   },
   {
    "cat": "sector",
@@ -69,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.6
+   "heat": 234.9
   },
   {
    "cat": "sector",
@@ -83,63 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 08:58",
-   "title": "New Zealand Slaps New Sanctions Against Russia After US Move",
-   "summary": "New Zealand announced more sanctions targeting individuals and entities supporting Russia’s war against Ukraine, following the passage of a new bill in the US Senate targeting the …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-08/new-zealand-slaps-new-sanctions-against-russia-after-us-move",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 08:13",
-   "title": "Trump Trying to Oust Cook Again, Judges Halt Ballroom Project",
-   "summary": "Source: Bloomberg, 6:21",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-08/trump-trying-to-oust-cook-again-judges-halt-ballroom-project",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 06:58",
-   "title": "SEC Drops Insider-Trading Suit Against Executive Trump Pardoned",
-   "summary": "The US Securities and Exchange Commission said it is dropping an insider-trading lawsuit against a former healthcare executive who was convicted in a related criminal case and then…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-07/sec-drops-insider-trading-suit-against-executive-trump-pardoned",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 05:16",
-   "title": "Airlines like Delta and United are selling cheaper business-class tickets with fewer perks. Here's how your credit card ",
-   "summary": "These cheaper fares often lack amenities such as airport lounge access, but the right credit card can help you get them back.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/select/how-to-offset-basic-business-class-with-your-credit-card/",
-     "t": "sec"
-    }
-   ],
-   "heat": 222.9
+   "heat": 234.9
   }
  ]
 }

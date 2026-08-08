@@ -1,20 +1,6 @@
 {
- "updated": "2026-08-08 11:59",
+ "updated": "2026-08-08 16:06",
  "items": [
-  {
-   "cat": "macro",
-   "time": "2026-08-07 06:10",
-   "title": "S&P 500 Has Best Week Since April After Jobs Data: Markets Wrap",
-   "summary": "A sharp slowdown in the US jobs market drove stocks higher while bond yields fell on speculation the Federal Reserve won’t be forced to raise interest rates any time soon.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates",
-     "t": "sec"
-    }
-   ],
-   "heat": 71.0
-  },
   {
    "cat": "macro",
    "time": "2026-08-07 23:12",
@@ -27,49 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 65.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-08 03:14",
-   "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
-   "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 46.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-08 02:09",
-   "title": "Here are three key takeaways from the disappointing July jobs report",
-   "summary": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 46.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-07 21:36",
-   "title": "SK Hynix Said to Mull Options for $3 Billion Chongqing Plant",
-   "summary": "South Korea’s SK Hynix Inc. is considering options for its Chongqing, China-based facility, including bringing in an investor to help accelerate growth, according to people with kn…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-is-said-to-mull-options-for-3-billion-chongqing-assets",
-     "t": "sec"
-    }
-   ],
-   "heat": 45.6
+   "heat": 61.2
   },
   {
    "cat": "macro",
@@ -83,21 +27,49 @@
      "t": "agg"
     }
    ],
-   "heat": 43.5
+   "heat": 42.8
   },
   {
    "cat": "macro",
-   "time": "2026-08-07 02:45",
-   "title": "GBP/USD Deadlock Shows Why Rate Parity Has Replaced Carry",
-   "summary": "",
+   "time": "2026-08-08 03:14",
+   "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
+   "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/gbpusd-deadlock-shows-why-rate-parity-has-replaced-carry-200685357",
-     "t": "agg"
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+     "t": "sec"
     }
    ],
-   "heat": 40.5
+   "heat": 41.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-08 02:09",
+   "title": "Here are three key takeaways from the disappointing July jobs report",
+   "summary": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 41.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-07 21:36",
+   "title": "SK Hynix Said to Mull Options for $3 Billion Chongqing Plant",
+   "summary": "South Korea’s SK Hynix Inc. is considering options for its Chongqing, China-based facility, including bringing in an investor to help accelerate growth, according to people with kn…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-is-said-to-mull-options-for-3-billion-chongqing-assets",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.9
   },
   {
    "cat": "macro",
@@ -111,13 +83,13 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 36.0
   },
   {
    "cat": "macro",
    "time": "2026-08-05 03:20",
-   "title": "ADI’s NYSE Debut, Ferguson’s S&P 500 Entry Give Distribution a Week to Celebrate - mdm.com",
-   "summary": "ADI’s NYSE Debut, Ferguson’s S&P 500 Entry Give Distribution a Week to Celebrate &nbsp;&nbsp; mdm.com",
+   "title": "ADI’s NYSE Debut, Ferguson’s S&P 500 Entry Give Distribution a Week to Celebrate - Modern Distribution Management",
+   "summary": "ADI’s NYSE Debut, Ferguson’s S&P 500 Entry Give Distribution a Week to Celebrate &nbsp;&nbsp; Modern Distribution Management",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -125,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 36.0
   },
   {
    "cat": "macro",
@@ -139,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 36.0
   },
   {
    "cat": "macro",
@@ -153,7 +125,21 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 36.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-07 02:45",
+   "title": "GBP/USD Deadlock Shows Why Rate Parity Has Replaced Carry",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/gbpusd-deadlock-shows-why-rate-parity-has-replaced-carry-200685357",
+     "t": "agg"
+    }
+   ],
+   "heat": 35.8
   },
   {
    "cat": "macro",
@@ -167,7 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.8
+   "heat": 30.2
   },
   {
    "cat": "macro",
@@ -181,7 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.4
+   "heat": 29.8
   },
   {
    "cat": "macro",
@@ -195,7 +181,7 @@
      "t": "agg"
     }
    ],
-   "heat": 32.7
+   "heat": 28.0
   },
   {
    "cat": "macro",
@@ -209,7 +195,77 @@
      "t": "agg"
     }
    ],
-   "heat": 32.4
+   "heat": 27.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-08 13:00",
+   "title": "Burnham’s Fiscal ‘Flexibility’ Could Backfire, Officials Fear",
+   "summary": "UK Treasury officials are concerned that the prime minister’s talk of using “flexibility” within the fiscal rules to ramp up investment could backfire by destabilizing financial ma…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-08/burnham-s-fiscal-flexibility-could-backfire-officials-fear",
+     "t": "sec"
+    }
+   ],
+   "heat": 19.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 14:00",
+   "title": "Zelenskyy Makes Debut Trip to Serbia as Russian Influence Wanes",
+   "summary": "Ukrainian President Volodymyr Zelenskyy is making a landmark first visit on Saturday to Serbia, the Balkan country whose leader has been scaling back once-close ties with Russia.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-08/zelenskyy-makes-debut-trip-to-serbia-as-russian-influence-wanes",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 13:54",
+   "title": "Kyiv Struck as Ukraine Targets Russian Refineries, Shadow Fleet",
+   "summary": "A fire was sparked at Russia’s Ilsky oil refinery in the southern Krasnodar region by Ukrainian drone debris, injuring five people, the regional task force said on Saturday, as Rus…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-08/ukraine-drone-strike-sparks-fire-at-russia-s-ilsky-refinery",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 13:21",
+   "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
+   "summary": "Fire Point CEO Iryna Terekh says Ukraine has \"learned the hard way\" that military leverage is integral to to bringing diplomacy within reach.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 12:00",
+   "title": "War Brings Winter of Discontent for the World’s Workhorse Fuel",
+   "summary": "A diesel squeeze spurred by wars in the Middle East and Ukraine is setting the stage for an even worse crunch as demand rises ahead of the Northern Hemisphere winter.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-08/war-brings-winter-of-discontent-for-the-world-s-workhorse-fuel",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.3
   },
   {
    "cat": "sector",
@@ -223,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 224.0
+   "heat": 235.3
   },
   {
    "cat": "sector",
@@ -237,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.9
+   "heat": 235.2
   },
   {
    "cat": "sector",
@@ -251,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.7
+   "heat": 235.0
   },
   {
    "cat": "sector",
@@ -265,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.7
+   "heat": 235.0
   },
   {
    "cat": "sector",
@@ -279,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.6
+   "heat": 234.9
   },
   {
    "cat": "sector",
@@ -293,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.6
+   "heat": 234.9
   },
   {
    "cat": "sector",
@@ -307,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.5
+   "heat": 234.8
   },
   {
    "cat": "sector",
@@ -321,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.4
+   "heat": 234.7
   },
   {
    "cat": "sector",
@@ -335,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.2
+   "heat": 234.5
   },
   {
    "cat": "sector",
@@ -349,63 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 222.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 05:00",
-   "title": "Optimizing Life and Finances in Your Twenties | Masters in Business with Jack Raines",
-   "summary": "Barry sits down with Jack Raines author of \"Younge Money\". Jack dives into his unlikely journey into finance and venture capital. He discusses how his travels impacted the way he s…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-07/masters-in-business-with-jack-raines-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 222.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 04:43",
-   "title": "Once Upon a Farm CEO on Outlook Boost, Consumer Demand",
-   "summary": "John Foraker, Co-Founder and CEO of Once Upon a Farm, discussed the company's strong 42% sales growth in the recent quarter and expressed confidence in sustaining this momentum due…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-07/once-upon-a-farm-ceo-on-outlook-boost-consumer-demand-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 222.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 02:19",
-   "title": "Burger King overtakes Wendy's as the nation's second-largest burger chain",
-   "summary": "Burger King is once again the second-largest burger chain in the U.S. by system-wide sales.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 222.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 01:04",
-   "title": "CATL’s Yichun Lithium Mine Remains Shut as Restart Awaits Permits",
-   "summary": "CATL’s Yichun Lithium Mine Remains Shut as Restart Awaits Permits &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb0JiWGkyRGhFOFA3WVNVOHpQTk8yYkVHYXY1TE8yNmR3OXBCdV95THJHSldDM1ZuX2E3RFRNNTdndk1PbUN1cUo3cVRSalRBMDJIc3FaaE9tVW01U2prd3pQSGVkZWhoUmlIQ2wwUFFaT3BmTk1kalZ4NlVvNkxha0kzT2VhakFBQUs0RkJlVEFxOXNUQWhrX1FnRlotQy1aQl9mcG52X0czM2xEay15WlV3QTA2QmY2ZTZR?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 222.2
+   "heat": 234.2
   },
   {
    "cat": "stock",
@@ -419,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 134.1
+   "heat": 133.4
   },
   {
    "cat": "stock",
@@ -433,21 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 132.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-07 13:31",
-   "title": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble - The Economic Times",
-   "summary": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMnVwZzJNLVZqdklQRVVvUDRvSDVjZ1ZSVXc5UUdvMFMwd2FqMHE3NV9PNEtUUGVfMW1xWnlORElZMTlZVkpCVkJ6MEJ6eGlZcG1TLW5CS1V2VXk1Z29Sb0lER0xaeTNkczlNbjIyVGZYVXBrSkNBNFB0RHFUZFJHazNXOEw3NWUyeUJNNm5TbmhqSEFQNHFyQjJfZTduaWs4WUNucDBmQlg5Y2lqN0dtTHloWVV0bmlfODZiUmVjMVBNZzZ4d3h6MXpRR3dvVWJmTXlBQWZsb0h4UTVZM1ZYbDNpakJESU1XTF9sQk5iMnRDaVZtbUVqYjFLRjhfMHZua2pn0gGIAkFVX3lxTE10OE8wWFo1Rkp2cjI4WG5GUU1rN0dySjV6dDMtSXBUR2R4OUJNQUpIbjJuRkczbTE4SGVkbnVscFZLT21GcFU5UDNMUFFySlEzaF9CaW94dExuMEdiaWNzZmxjUjdtTHFOWUpSWmNtNzhUOThLQncteXhndWdMNndTUXBITmU1THdwQnh5SHVBakg4WmVncWVqaDNLMUZIamR1enZ1LUY2UDJCRHVlRlZldk1BSlhuTVJTUUZaZ1BSV0twQUdpWkJxVzMtS0Q0TFRaQjlTdHh3a3QtaWRlLUNDWUtnWE5WaWdRRXZNT0JXY3h3aW44SDRkM0p2ekJ0ODJEOXdsdVZlTQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 132.3
+   "heat": 131.7
   },
   {
    "cat": "stock",
@@ -461,7 +447,21 @@
      "t": "sec"
     }
    ],
-   "heat": 130.8
+   "heat": 130.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-06 15:00",
+   "title": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble - The Economic Times",
+   "summary": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMnVwZzJNLVZqdklQRVVvUDRvSDVjZ1ZSVXc5UUdvMFMwd2FqMHE3NV9PNEtUUGVfMW1xWnlORElZMTlZVkpCVkJ6MEJ6eGlZcG1TLW5CS1V2VXk1Z29Sb0lER0xaeTNkczlNbjIyVGZYVXBrSkNBNFB0RHFUZFJHazNXOEw3NWUyeUJNNm5TbmhqSEFQNHFyQjJfZTduaWs4WUNucDBmQlg5Y2lqN0dtTHloWVV0bmlfODZiUmVjMVBNZzZ4d3h6MXpRR3dvVWJmTXlBQWZsb0h4UTVZM1ZYbDNpakJESU1XTF9sQk5iMnRDaVZtbUVqYjFLRjhfMHZua2pn0gGIAkFVX3lxTE10OE8wWFo1Rkp2cjI4WG5GUU1rN0dySjV6dDMtSXBUR2R4OUJNQUpIbjJuRkczbTE4SGVkbnVscFZLT21GcFU5UDNMUFFySlEzaF9CaW94dExuMEdiaWNzZmxjUjdtTHFOWUpSWmNtNzhUOThLQncteXhndWdMNndTUXBITmU1THdwQnh5SHVBakg4WmVncWVqaDNLMUZIamR1enZ1LUY2UDJCRHVlRlZldk1BSlhuTVJTUUZaZ1BSV0twQUdpWkJxVzMtS0Q0TFRaQjlTdHh3a3QtaWRlLUNDWUtnWE5WaWdRRXZNT0JXY3h3aW44SDRkM0p2ekJ0ODJEOXdsdVZlTQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 128.0
   },
   {
    "cat": "stock",
@@ -479,20 +479,6 @@
   },
   {
    "cat": "stock",
-   "time": "2026-08-05 02:57",
-   "title": "US STOCKS-AI-linked earnings, Mideast deal hopes send Dow, S&P 500 to record highs - Devdiscourse",
-   "summary": "US STOCKS-AI-linked earnings, Mideast deal hopes send Dow, S&P 500 to record highs &nbsp;&nbsp; Devdiscourse",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNGt5MzB6SnB5eUcxYldSZ3p5dGp2QUpwMUlRVi1HVk1JckR4TDlCazB5Y2k1X2ZkWllnR0VEVUdrSlV1ZTRNWHQwT1U2UVp3Qk5BSHBPZU5yTjVmNjlHYmdZWDRTeGxmN1k4ZXk5QnpTc0Z3a2xMR1ZfTTJDZWQzYzJUZnZ0NGFtQmktQTBOVFFUUndVc2FObWp0S1FFaHpmczAtUFNyeHgwamx5VDFLcnY4cUlSdXpjcnBjeFF2Sk1Dbkl6OEwyVU1yZnppUVFzbDZR0gHTAUFVX3lxTE00a3kzMHpKcHl5RzFiV1Jnenl0anZBSnAxSVFWLUdWTUlyRHhMOUJrMHljaTVfZmRaWWdHRURVR2tKVXVlNE1YdDBPVTZRWndCTkFIcE9lTnJONWY2OUdiZ1lYNFN4bGY3WThleTlCelNzRndrbExHVl9NMkNlZDNjMlRmdnQ0YW1CaS1BME5UUVRSd1VzYU5tanRLUUVoemZzMC1QU3J4eDBqbHlUMUtydjhxSVJ1emNycGN4UXZKTUNuSXo4TDJVTXJmemlRUXNsNlE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 128.0
-  },
-  {
-   "cat": "stock",
    "time": "2026-08-08 06:10",
    "title": "Stock Movers: SpaceX, Palantir, The Trade Desk (Podcast)",
    "summary": "Today’s biggest winners and losers in the stock market, a look at the notable movers:",
@@ -503,21 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 103.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-08 05:01",
-   "title": "Senate Passes Russia Sanctions, Stocks Climb on Jobs Data, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-07/senate-passes-russia-sanctions-stocks-climb-on-jobs-data-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 102.8
+   "heat": 90.3
   },
   {
    "cat": "stock",
@@ -531,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 102.7
+   "heat": 90.0
   },
   {
    "cat": "stock",
@@ -545,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 102.3
+   "heat": 89.6
   },
   {
    "cat": "stock",
@@ -559,7 +531,35 @@
      "t": "sec"
     }
    ],
-   "heat": 102.3
+   "heat": 89.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-08 07:01",
+   "title": "J&J CEO Duato sells $12.5m in company stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/jj-ceo-duato-sells-125m-in-company-stock-93CH-4847620",
+     "t": "agg"
+    }
+   ],
+   "heat": 88.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-08 07:01",
+   "title": "Farmers & Merchants Bancorp director sells $204,960 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/farmers--merchants-bancorp-director-sells-204960-in-stock-93CH-4847619",
+     "t": "agg"
+    }
+   ],
+   "heat": 88.5
   },
   {
    "cat": "stock",
@@ -573,49 +573,49 @@
      "t": "sec"
     }
    ],
-   "heat": 100.8
+   "heat": 88.2
   },
   {
    "cat": "stock",
-   "time": "2026-08-08 02:53",
-   "title": "Scholastic director Kaya Henderson sells $130,812 in company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/scholastic-director-kaya-henderson-sells-130812-in-company-stock-93CH-4847595",
-     "t": "agg"
-    }
-   ],
-   "heat": 100.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-08 02:53",
-   "title": "Scholastic EVP, pres. CBG Quinton sells $1.2m in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/scholastic-evp-pres-cbg-quinton-sells-12m-in-stock-93CH-4847593",
-     "t": "agg"
-    }
-   ],
-   "heat": 100.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-07 05:20",
-   "title": "Word on Wall Street: Better Than Expected Profits Continue to Support Stocks | Wyncote Wealth Management Group - MoreTha",
-   "summary": "Word on Wall Street: Better Than Expected Profits Continue to Support Stocks | Wyncote Wealth Management Group &nbsp;&nbsp; MoreThanTheCurve",
+   "time": "2026-08-06 07:08",
+   "title": "Dow, S&P 500, Nasdaq Futures Rise Even As Oil Reclaims $100: Why META, MU, SOC, KRRO, USO Are On Traders’ Radar Today - ",
+   "summary": "Dow, S&P 500, Nasdaq Futures Rise Even As Oil Reclaims $100: Why META, MU, SOC, KRRO, USO Are On Traders’ Radar Today &nbsp;&nbsp; Stocktwits",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaDVJTXo2YzZpcWQwMnREVzUxR3EzX0owQWQ3MnFPRmt4RVdNdml5U1owbXZObmxDd0h2QWpSbjlHekdmYWFfdHk1NTh5UVBNa0tOajBxRGdvd0oxMG5uQ3JYOGh5MEprZVRSTVpfOVhKYVhqbnF4b2JaRkVmUDhnV2tGZ3pWM2FFMmpuTHI0LV9YdUhZOGNmRDFyQ3Q4eEpha0d0bEl3REk1NHVjQ1ZuSVRUR0ZzVzk1VndyNzhWbWpaZlhtdmNTc0kyUGNZNmxEeXg0?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaG1Kdk9pbDNLR1E5RWs3bm5XU2FJYzMtTTdQQlZ1RDR3Ym5GbVZOcldKc19BTFQ4WnVhdGQxendVTGNFYXN1N1c4eE9LZUkxODk4ci1DVHFXTjlDaDNZZGZLeks3WjZlMkstejdlSmdUT2RaZG1CSGdUcVdJSENscUhtUS1LZVFNWFY5a1pudlZadGt1VE1IcE5XMjZIaXlNUWtacmJWRHhsaWlINFBaRnNmMXNyUG5GSTJsb2U4R29NR29yS0VYQXpxN3M?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 98.9
+   "heat": 84.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-06 01:21",
+   "title": "China’s Green Jet Fuel Expansion Raises Pressure on Global Feedstock Supply",
+   "summary": "China’s Green Jet Fuel Expansion Raises Pressure on Global Feedstock Supply &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUx4elUyeHEzWUlkTnk2YzEzbEhmZXVMNzFWY1BiLXQyeXBncjdJNnNpelBmZHBaUmczZjhoNmwzWVVOSzFfZHBDNDhOU3QxaDhvLUU1ZGY4aEE2NG9xRUZqYTNfVG5wSXJSZkM3MlhzLWNzR3ktYmtabmZFTUVSMHlMUWFUazdjaGQwQ3M0WkNhZjBvOU53MjFOaWpoNHk3MGpBVkFsRzU0QlNQVmpGOTdhRFdKb016UnNaTEpNYWVlZzZSZEMxWQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-05 15:00",
+   "title": "Market Movers blog: SpaceX delivers strong revenue growth as stock price comes back to Earth - Investment Week",
+   "summary": "Market Movers blog: SpaceX delivers strong revenue growth as stock price comes back to Earth &nbsp;&nbsp; Investment Week",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
   },
   {
    "cat": "global",
@@ -629,35 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-08 01:58",
-   "title": "South Korean Won: Intervention risks support KRW against US Dollar – DBS",
-   "summary": "Chang Wei Liang at DBS Group Research notes that KRW is currently the best performing Asian currency, supported by strong semiconductor demand and reported FX intervention coordina…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/south-korean-won-intervention-risks-support-krw-against-us-dollar-dbs-202608071758",
-     "t": "sec"
-    }
-   ],
-   "heat": 54.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-08 05:12",
-   "title": "Chinese Yuan: Range trade holds with bullish tone against US Dollar – UOB",
-   "summary": "United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann see USD/CNH confined to a narrow intraday range, with flat momentum suggesting consolidation between 6.7450 and 6…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/chinese-yuan-range-trade-holds-with-bullish-tone-against-us-dollar-uob-202608072112",
-     "t": "sec"
-    }
-   ],
-   "heat": 50.9
+   "heat": 50.7
   },
   {
    "cat": "global",
@@ -671,7 +643,35 @@
      "t": "sec"
     }
    ],
-   "heat": 50.5
+   "heat": 49.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-08 01:58",
+   "title": "South Korean Won: Intervention risks support KRW against US Dollar – DBS",
+   "summary": "Chang Wei Liang at DBS Group Research notes that KRW is currently the best performing Asian currency, supported by strong semiconductor demand and reported FX intervention coordina…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/south-korean-won-intervention-risks-support-krw-against-us-dollar-dbs-202608071758",
+     "t": "sec"
+    }
+   ],
+   "heat": 49.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-08 05:12",
+   "title": "Chinese Yuan: Range trade holds with bullish tone against US Dollar – UOB",
+   "summary": "United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann see USD/CNH confined to a narrow intraday range, with flat momentum suggesting consolidation between 6.7450 and 6…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/chinese-yuan-range-trade-holds-with-bullish-tone-against-us-dollar-uob-202608072112",
+     "t": "sec"
+    }
+   ],
+   "heat": 46.2
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.4
+   "heat": 45.7
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.6
+   "heat": 41.9
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.5
+   "heat": 41.8
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.4
+   "heat": 41.7
   },
   {
    "cat": "global",
@@ -741,21 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 43.1
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-05 02:12",
-   "title": "US Dollar Index Rally Questioned as Safe-Haven Role Faces Scrutiny – Rabobank - CryptoRank",
-   "summary": "US Dollar Index Rally Questioned as Safe-Haven Role Faces Scrutiny – Rabobank &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelBiVnh1Y2NWd19iSTJWaGI3VVdyYlZqZ3N1Z0c3VnBxUVlkOXFxUTdwY29aZUkwNkdKdmZGOV83QWJScG9uM3JLZk9vTTNLX2JqTVNxUHBCZWI4VmlRT1ctUkhQcnJxNEdVZ080RS1NUDBnSDl0OFNYLXhpZThQOWx5TzQtN3NudF9sZVZvbDJPdWpZ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.0
+   "heat": 38.4
   },
   {
    "cat": "global",
@@ -769,35 +755,21 @@
      "t": "sec"
     }
    ],
-   "heat": 30.5
+   "heat": 37.8
   },
   {
    "cat": "global",
-   "time": "2026-08-08 04:03",
-   "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
-   "summary": "The British Pound retreats against the Japanese Yen, down about 0.24%, as the Yen is poised to end the week on a higher note. However, GBP/JPY is poised to finish the week with min…",
+   "time": "2026-08-08 13:00",
+   "title": "BP Sale Makes US Investor Germany's Second-Largest Oil Refiner",
+   "summary": "Over the past three decades, American investor A. Gary Klesch has amassed a portfolio of struggling steel mills, aluminum smelters, chemical plants and oil refineries, betting he c…",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rebound-holds-above-200-day-sma-202608072003",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-08/bp-sale-makes-us-investor-germany-s-second-largest-oil-refiner",
      "t": "sec"
     }
    ],
-   "heat": 26.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-07 20:24",
-   "title": "Bonds Just Gave Gold and Silver a Second Wind",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/bonds-just-gave-gold-and-silver-a-second-wind-200685411",
-     "t": "agg"
-    }
-   ],
-   "heat": 23.4
+   "heat": 31.5
   },
   {
    "cat": "global",
@@ -811,7 +783,7 @@
      "t": "sec"
     }
    ],
-   "heat": 22.6
+   "heat": 29.9
   },
   {
    "cat": "global",
@@ -825,7 +797,35 @@
      "t": "sec"
     }
    ],
-   "heat": 22.0
+   "heat": 29.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-08 06:51",
+   "title": "Klesch becomes Germany’s second-largest oil refiner after BP deal",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/klesch-becomes-germanys-secondlargest-oil-refiner-after-bp-deal-4847618",
+     "t": "agg"
+    }
+   ],
+   "heat": 28.5
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-07 20:24",
+   "title": "Bonds Just Gave Gold and Silver a Second Wind",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/bonds-just-gave-gold-and-silver-a-second-wind-200685411",
+     "t": "agg"
+    }
+   ],
+   "heat": 26.7
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.4
+   "heat": 85.7
   },
   {
    "cat": "crypto",
@@ -853,21 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 81.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-08 02:42",
-   "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
-   "summary": "The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access to crypto and foreign currency.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
-     "t": "sec"
-    }
-   ],
-   "heat": 66.5
+   "heat": 77.2
   },
   {
    "cat": "crypto",
@@ -881,7 +867,21 @@
      "t": "sec"
     }
    ],
-   "heat": 65.9
+   "heat": 61.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-08 02:42",
+   "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
+   "summary": "The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access to crypto and foreign currency.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
+     "t": "sec"
+    }
+   ],
+   "heat": 57.8
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.9
+   "heat": 54.3
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.9
+   "heat": 54.2
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.7
+   "heat": 54.0
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.3
+   "heat": 53.7
   },
   {
    "cat": "crypto",
@@ -951,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.2
+   "heat": 53.5
   },
   {
    "cat": "crypto",
@@ -965,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 61.7
+   "heat": 53.0
   },
   {
    "cat": "crypto",
@@ -979,21 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 61.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-07 20:13",
-   "title": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
-   "summary": "Perpetual futures trading volume on crypto exchanges fell to its lowest level in 31 months, while perpetual trading on decentralized platforms neared a one-year low.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 61.4
+   "heat": 52.7
   },
   {
    "cat": "crypto",
@@ -1007,21 +993,21 @@
      "t": "sec"
     }
    ],
-   "heat": 59.0
+   "heat": 50.4
   },
   {
    "cat": "crypto",
-   "time": "2026-08-03 15:08",
-   "title": "James Wynn Holds Losing S&P 500 Short as Liquidations Reach 22 - CryptoRank",
-   "summary": "James Wynn Holds Losing S&P 500 Short as Liquidations Reach 22 &nbsp;&nbsp; CryptoRank",
+   "time": "2026-08-08 15:46",
+   "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+   "summary": "BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kV3ROcEJneVczRklqUF9XaWlkbXpYdWlwWmc1a0RRQ3d1MW1mbDIwV3R4LVQ1a0RkOHM3WFM2N0t3TzBlRWtidWw3NU9XTXp5NUUtSUlEcDhJNG44dmRjSWRDS0QtNnI1cEJGS1FxZk9rd3ZycVZJa3NUMkhMZw?oc=5",
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 39.9
   },
   {
    "cat": "crypto",
@@ -1035,21 +1021,35 @@
      "t": "sec"
     }
    ],
-   "heat": 35.8
+   "heat": 39.1
   },
   {
-   "cat": "sector",
-   "time": "2026-08-05 09:15",
-   "title": "科技赛道全线回暖，算力租赁与AI应用持续受追捧",
-   "summary": "科技赛道全线回暖，算力租赁与AI应用持续受追捧 &nbsp;&nbsp; 财联社",
+   "cat": "crypto",
+   "time": "2026-08-08 04:20",
+   "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
+   "summary": "Mateen purchased more than 306,000 shares across two days following the company's quarterly earnings, lifting his stake to more than 492,000 shares.",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KU3YxX0lnZTRfTzhaREZaWXd1aDlvNWhzZVFMcF9XRUhQc19DRFdWQTMyU3FWNG81RDEydUpEaC1Qb1gzUFRPYw?oc=5",
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
      "t": "sec"
     }
    ],
-   "heat": 220.0
+   "heat": 38.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-07 08:30",
+   "title": "08:26:37【LG董事长据悉与黄仁勋下周将会面 或讨论实体AI和智能工厂】",
+   "summary": "08:26:37【LG董事长据悉与黄仁勋下周将会面 或讨论实体AI和智能工厂】 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCWnNkd0hsRTEzcVJlZ1ZQeE1LSHM0RjBhYTZmeUo2aE5CM2RjclNGMEIzc3hfZFpfUEJjZ09aWmpwNEtRbFJKVQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 230.7
   }
  ]
 }
