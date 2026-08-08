@@ -1,6 +1,48 @@
 {
- "updated": "2026-08-08 22:05",
+ "updated": "2026-08-09 00:00",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-08 23:29",
+   "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
+   "summary": "Fire Point CEO Iryna Terekh says Ukraine has \"learned the hard way\" that military leverage is integral to to bringing diplomacy within reach.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 23:16",
+   "title": "UAE says one of its ships was targeted as U.S.-Iran tensions over Strait of Hormuz remain high",
+   "summary": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 22:32",
+   "title": "China’s AI Push Reshapes Its Economic Future",
+   "summary": "New Yorker staff writer Evan Osnos is on Bloomberg This Weekend and says China is taking a practical approach to AI, rapidly deploying the technology in factories and seeking to ex…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-08/china-s-ai-push-reshapes-its-economic-future-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.8
+  },
   {
    "cat": "sector",
    "time": "2026-08-08 21:49",
@@ -13,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 248.0
+   "heat": 243.6
   },
   {
    "cat": "sector",
@@ -27,21 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 21:06",
-   "title": "UAE says one of its ships was targeted by missile as U.S.-Iran tensions over Strait of Hormuz remain high",
-   "summary": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.8
+   "heat": 243.6
   },
   {
    "cat": "sector",
@@ -55,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.7
+   "heat": 243.4
   },
   {
    "cat": "sector",
@@ -69,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.7
+   "heat": 243.3
   },
   {
    "cat": "sector",
@@ -83,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.7
+   "heat": 243.3
   },
   {
    "cat": "sector",
@@ -97,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.6
+   "heat": 243.3
   },
   {
    "cat": "sector",
@@ -111,35 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 14:00",
-   "title": "Zelenskyy Wins Serbian Pledges as Russian Influence Wanes",
-   "summary": "Ukrainian President Volodymyr Zelenskyy made a landmark first visit on Saturday to Serbia to expand cooperation with the Balkan country whose leader has been scaling back once-clos…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-08/zelenskyy-makes-debut-trip-to-serbia-as-russian-influence-wanes",
-     "t": "sec"
-    }
-   ],
-   "heat": 246.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 13:54",
-   "title": "Kyiv Struck as Ukraine Targets Two Russian Oil Refineries",
-   "summary": "A fire was sparked at Russia’s Ilsky oil refinery in the southern Krasnodar region by Ukrainian drone debris, injuring five people, the regional task force said on Saturday, as Rus…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-08/ukraine-drone-strike-sparks-fire-at-russia-s-ilsky-refinery",
-     "t": "sec"
-    }
-   ],
-   "heat": 246.6
+   "heat": 243.2
   }
  ]
 }
