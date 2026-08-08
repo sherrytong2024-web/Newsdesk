@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09 00:00",
+ "updated": "2026-08-09 03:18",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.8
+   "heat": 63.3
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.8
+   "heat": 55.3
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.8
+   "heat": 55.3
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.7
+   "heat": 55.1
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.5
+   "heat": 54.9
   },
   {
    "cat": "macro",
@@ -83,35 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-08 02:09",
-   "title": "Here are three key takeaways from the disappointing July jobs report",
-   "summary": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 60.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-08 13:06",
-   "title": "Berkshire lowers cash stake as buybacks accelerate, reports higher profit",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/berkshire-lowers-cash-stake-as-buybacks-accelerate-reports-higher-profit-4847659",
-     "t": "agg"
-    }
-   ],
-   "heat": 60.2
+   "heat": 52.2
   },
   {
    "cat": "macro",
@@ -125,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.6
+   "heat": 51.0
   },
   {
    "cat": "macro",
@@ -139,13 +111,13 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 48.0
   },
   {
    "cat": "macro",
    "time": "2026-08-05 03:20",
-   "title": "ADI’s NYSE Debut, Ferguson’s S&P 500 Entry Give Distribution a Week to Celebrate - mdm.com",
-   "summary": "ADI’s NYSE Debut, Ferguson’s S&P 500 Entry Give Distribution a Week to Celebrate &nbsp;&nbsp; mdm.com",
+   "title": "ADI’s NYSE Debut, Ferguson’s S&P 500 Entry Give Distribution a Week to Celebrate - Modern Distribution Management",
+   "summary": "ADI’s NYSE Debut, Ferguson’s S&P 500 Entry Give Distribution a Week to Celebrate &nbsp;&nbsp; Modern Distribution Management",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -153,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 48.0
   },
   {
    "cat": "macro",
@@ -167,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 48.0
   },
   {
    "cat": "macro",
@@ -181,7 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 48.0
   },
   {
    "cat": "macro",
@@ -195,7 +167,21 @@
      "t": "agg"
     }
    ],
-   "heat": 54.5
+   "heat": 46.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-08 16:48",
+   "title": "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/us-senate-passes-short-term-funding-bill-to-avert-federal-shutdown.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 26.2
   },
   {
    "cat": "macro",
@@ -209,7 +195,49 @@
      "t": "agg"
     }
    ],
-   "heat": 33.5
+   "heat": 25.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-08 05:02",
+   "title": "Spelman President on Federal Funding, AI Popularity",
+   "summary": "Spelman College President, Dr. Ayanna Howard, sits down with Romaine Bostick to discuss the impact of federal funding rollbacks for HBCUs, and the impact of AI on college graduates…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-07/spelman-president-on-federal-funding-ai-popularity-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 24.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-09 01:41",
+   "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
+   "summary": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-09 01:25",
+   "title": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
+   "summary": "\"The cancer has spread, is metastasized into his bones and further. It's very painful. It's very debilitating in many respects,\" Hunter Biden said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.7
   },
   {
    "cat": "sector",
@@ -223,21 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 23:16",
-   "title": "UAE says one of its ships was targeted as U.S.-Iran tensions over Strait of Hormuz remain high",
-   "summary": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.9
+   "heat": 247.4
   },
   {
    "cat": "sector",
@@ -251,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.8
+   "heat": 247.2
   },
   {
    "cat": "sector",
@@ -265,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.6
+   "heat": 247.1
   },
   {
    "cat": "sector",
@@ -279,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.6
+   "heat": 247.1
   },
   {
    "cat": "sector",
@@ -293,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.4
+   "heat": 246.8
   },
   {
    "cat": "sector",
@@ -307,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.3
+   "heat": 246.8
   },
   {
    "cat": "sector",
@@ -321,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.3
+   "heat": 246.8
   },
   {
    "cat": "sector",
@@ -335,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.3
+   "heat": 246.8
   },
   {
    "cat": "sector",
@@ -349,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.2
+   "heat": 246.7
   },
   {
    "cat": "sector",
@@ -363,35 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 242.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 11:47",
-   "title": "OpenAI Halts Work on AI Model, US Invests in Counter Drone Tech",
-   "summary": "Source: Bloomberg, 6:24",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-08/openai-halts-work-on-ai-model-us-invests-in-counter-drone-tech",
-     "t": "sec"
-    }
-   ],
-   "heat": 242.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 10:00",
-   "title": "Weekend Long Read: A Soaked Market for Central China’s Watermelon Farmers",
-   "summary": "Weekend Long Read: A Soaked Market for Central China’s Watermelon Farmers &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0JjVndFeXpsMFZtYU5lb1pldmttLTVGQXE2VWh2c0pZMWdZbkk5TzFvOVdrMzZhTVNDNUktUk5wQWExeFdJZmt0RWliSVU5bFVkZ1drTnFPNDBNQTJxMnI3MWQ5ZHlYaWw3WHdSOE5UYVlmbnFjdkF2TnNfYXBEX3FpZl9CYnpSbFdjSFZtTDc1eXo2OUJXWmRacDJMOVpGRVZQWDQ2OFI1VjFOVXRIMVRITWNkdTRCT0JCMkNQLXZjb0JV?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 241.7
+   "heat": 245.8
   },
   {
    "cat": "stock",
@@ -405,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 134.3
+   "heat": 121.8
   },
   {
    "cat": "stock",
@@ -419,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 132.8
+   "heat": 120.2
   },
   {
    "cat": "stock",
@@ -433,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 132.0
+   "heat": 120.0
   },
   {
    "cat": "stock",
@@ -447,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 132.0
+   "heat": 120.0
   },
   {
    "cat": "stock",
@@ -461,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 132.0
+   "heat": 120.0
   },
   {
    "cat": "stock",
@@ -475,105 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 108.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-08 22:07",
-   "title": "Here’s how we played the massive rebound in AI stocks this week",
-   "summary": "AI stocks roared back to help lift two of the major averages to fresh records.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-08 21:00",
-   "title": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question",
-   "summary": "Investors should be conversative in retirement, but abandoning equities is a big mistake.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-08 19:51",
-   "title": "Formula One is lagging other sport stocks. Why analysts think it's poised to race ahead",
-   "summary": "As the sports sector remains resilient among consumers, analysts are predicting big gains for this racing league.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/formula-one-is-lagging-other-sport-stocks-why-analysts-think-its-poised-to-race-ahead.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-08 04:22",
-   "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
-   "summary": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 88.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-08 01:50",
-   "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
-   "summary": "As oil reserves and munitions stockpiles reportedly dwindle, analysts wonder how much longer markets will pounce when the Trump admin. dangles an Iran deal.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 88.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-08 12:30",
-   "title": "Berkshire says operating profit rises, conducts stock buybacks",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/berkshire-says-operating-profit-rises-conducts-stock-buybacks-4847654",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.1
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-07 17:04",
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-   "summary": "Stock Market: Will S&P 500 Open Up or Down Today? &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmFUU1lPb3lBMEhBRWxtUkEyc1VMYUtMZV9KejFPSTRGM1B0TVpBLXVTcE5hUXBJNjBXRVRMcC1pbXo5R3lMWDZ0dnBpQ1lSZ1djVmdEWDJ2d1Nfbk9RVG9rR1I2aWNfMDlIeHlhZDMtZERRLV9xcU9lQ0U2b1ZYU2Y5YUIxRzdLZEQ1Ujl5WUV2TWFuRXU1WjVvQUh6dnlDbzhoWnpSRHVPT3NhVFhpU0dERWRSS0JRc3MtVnZuX0lqSE52eVpubEN4dUFhN2VkazE3TExn?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 86.8
+   "heat": 95.4
   },
   {
    "cat": "stock",
@@ -587,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.8
+   "heat": 84.2
   },
   {
    "cat": "stock",
@@ -601,7 +489,105 @@
      "t": "sec"
     }
    ],
-   "heat": 84.7
+   "heat": 84.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-08 22:07",
+   "title": "Here’s how we played the massive rebound in AI stocks this week",
+   "summary": "AI stocks roared back to help lift two of the major averages to fresh records.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 79.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-08 21:00",
+   "title": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question",
+   "summary": "Investors should be conversative in retirement, but abandoning equities is a big mistake.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 78.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-08 19:51",
+   "title": "Formula One is lagging other sport stocks. Why analysts think it's poised to race ahead",
+   "summary": "As the sports sector remains resilient among consumers, analysts are predicting big gains for this racing league.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/formula-one-is-lagging-other-sport-stocks-why-analysts-think-its-poised-to-race-ahead.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 78.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-08 04:22",
+   "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+   "summary": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 76.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-09 03:00",
+   "title": "Berkshire Hathaway Q2 Earnings, VP Vance on Iran, More",
+   "summary": "Source: Bloomberg, 5:13",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-08/berkshire-hathaway-q2-earnings-vp-vance-on-iran-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-08 21:38",
+   "title": "Senate Confirms Blanche, Berkshire Hathaway Q2 Earnings, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-08/senate-confirms-blanche-berkshire-hathaway-q2-earnings-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-08 21:28",
+   "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+   "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.0
   },
   {
    "cat": "global",
@@ -615,7 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 44.3
+   "heat": 39.8
   },
   {
    "cat": "global",
@@ -629,49 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-08 03:03",
-   "title": "JPMorgan Boosts Tech Bond Sales Outlook as AI Debt Binge Expands",
-   "summary": "JPMorgan Chase &amp; Co. sees bond sales from technology-related firms exceeding half a trillion dollars this year, as hyperscalers’ appetite to deploy capital for the artificial i…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-07/jpmorgan-boosts-tech-bond-sales-outlook-as-ai-debt-binge-expands",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-08 02:33",
-   "title": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
-   "summary": "The Pound Sterling (GBP) edges higher by some 0.29% against the US Dollar (USD) on Friday, yet it remains trading sideways, unable to decisively crack 1.3500 after reaching a three…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-need-13560-to-unlock-13600-202608071833",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-08 03:33",
-   "title": "Forecasting the upcoming week: US inflation takes center stage next week",
-   "summary": "The US Dollar Index (DXY) fell below the 100.00 region after sinking through Friday's session. July Nonfarm Payrolls (NFP) showed the US economy shedding 23K jobs against forecasts…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-inflation-takes-center-stage-next-week-202608071933",
-     "t": "sec"
-    }
-   ],
-   "heat": 36.6
+   "heat": 36.3
   },
   {
    "cat": "global",
@@ -685,7 +629,35 @@
      "t": "sec"
     }
    ],
-   "heat": 36.5
+   "heat": 35.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-08 02:33",
+   "title": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
+   "summary": "The Pound Sterling (GBP) edges higher by some 0.29% against the US Dollar (USD) on Friday, yet it remains trading sideways, unable to decisively crack 1.3500 after reaching a three…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-need-13560-to-unlock-13600-202608071833",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-08 03:33",
+   "title": "Forecasting the upcoming week: US inflation takes center stage next week",
+   "summary": "The US Dollar Index (DXY) fell below the 100.00 region after sinking through Friday's session. July Nonfarm Payrolls (NFP) showed the US economy shedding 23K jobs against forecasts…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-inflation-takes-center-stage-next-week-202608071933",
+     "t": "sec"
+    }
+   ],
+   "heat": 32.0
   },
   {
    "cat": "global",
@@ -699,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.4
+   "heat": 31.9
   },
   {
    "cat": "global",
@@ -713,21 +685,7 @@
      "t": "agg"
     }
    ],
-   "heat": 33.1
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-07 20:24",
-   "title": "Bonds Just Gave Gold and Silver a Second Wind",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/bonds-just-gave-gold-and-silver-a-second-wind-200685411",
-     "t": "agg"
-    }
-   ],
-   "heat": 21.4
+   "heat": 28.5
   },
   {
    "cat": "global",
@@ -741,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 20.7
+   "heat": 20.1
   },
   {
    "cat": "global",
@@ -755,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 20.5
+   "heat": 20.0
   },
   {
    "cat": "global",
@@ -769,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 18.5
+   "heat": 18.0
   },
   {
    "cat": "global",
@@ -783,7 +741,21 @@
      "t": "agg"
     }
    ],
-   "heat": 18.5
+   "heat": 17.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-07 20:24",
+   "title": "Bonds Just Gave Gold and Silver a Second Wind",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/bonds-just-gave-gold-and-silver-a-second-wind-200685411",
+     "t": "agg"
+    }
+   ],
+   "heat": 16.8
   },
   {
    "cat": "global",
@@ -797,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 16.6
+   "heat": 16.1
   },
   {
    "cat": "global",
@@ -814,8 +786,22 @@
    "heat": 16.0
   },
   {
+   "cat": "global",
+   "time": "2026-08-08 13:00",
+   "title": "BP Sale Makes US Investor Germany's Second-Largest Oil Refiner",
+   "summary": "Over the past three decades, American investor A. Gary Klesch has amassed a portfolio of struggling steel mills, aluminum smelters, chemical plants and oil refineries, betting he c…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-08/bp-sale-makes-us-investor-germany-s-second-largest-oil-refiner",
+     "t": "sec"
+    }
+   ],
+   "heat": 13.6
+  },
+  {
    "cat": "crypto",
-   "time": "2026-08-08 02:36",
+   "time": "2026-08-09 01:19",
    "title": "Here’s what happened in crypto today",
    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
    "srcs": [
@@ -825,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.4
+   "heat": 111.7
   },
   {
    "cat": "crypto",
@@ -839,21 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-08 21:00",
-   "title": "A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar",
-   "summary": "It was a tough week for crypto, but a good time to get a drink by Thursday evening.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.5
+   "heat": 107.0
   },
   {
    "cat": "crypto",
@@ -867,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.9
+   "heat": 87.3
   },
   {
    "cat": "crypto",
@@ -881,21 +853,21 @@
      "t": "sec"
     }
    ],
-   "heat": 75.9
+   "heat": 83.3
   },
   {
    "cat": "crypto",
-   "time": "2026-08-08 02:42",
-   "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
-   "summary": "The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access to crypto and foreign currency.",
+   "time": "2026-08-09 01:48",
+   "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
+   "summary": "Wildberries’ average price for hardware wallets fell 13% to 7,900 rubles, and M.Video broadened its range of products, though neither retailer identified the driving force behind t…",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
+     "u": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
      "t": "sec"
     }
    ],
-   "heat": 72.4
+   "heat": 79.7
   },
   {
    "cat": "crypto",
@@ -909,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.9
+   "heat": 79.4
   },
   {
    "cat": "crypto",
@@ -923,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.5
+   "heat": 78.9
   },
   {
    "cat": "crypto",
@@ -937,7 +909,21 @@
      "t": "sec"
     }
    ],
-   "heat": 70.9
+   "heat": 78.3
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-08 19:00",
+   "title": "US Senate advances landmark crypto bill before heading on August recess",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/us-senate-advances-landmark-crypto-bill-before-heading-on-august-recess-4847679",
+     "t": "agg"
+    }
+   ],
+   "heat": 76.6
   },
   {
    "cat": "crypto",
@@ -951,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.9
+   "heat": 76.4
   },
   {
    "cat": "crypto",
@@ -965,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.9
+   "heat": 76.3
   },
   {
    "cat": "crypto",
@@ -979,21 +965,21 @@
      "t": "sec"
     }
    ],
-   "heat": 68.7
+   "heat": 76.1
   },
   {
    "cat": "crypto",
-   "time": "2026-08-08 02:03",
-   "title": "US Sanctions Iranian Crypto Exchanges As Talks Continue",
-   "summary": "The US ramped up economic pressure on Iran with more sanctions targeting digital asset exchanges and networks connected to the country’s shadow-banking system, as Washington seeks …",
+   "time": "2026-08-08 02:42",
+   "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
+   "summary": "The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access to crypto and foreign currency.",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-07/us-sanctions-iranian-digital-exchanges-as-trump-promises-deal",
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
      "t": "sec"
     }
    ],
-   "heat": 68.3
+   "heat": 75.9
   },
   {
    "cat": "crypto",
@@ -1007,21 +993,21 @@
      "t": "sec"
     }
    ],
-   "heat": 68.2
+   "heat": 75.6
   },
   {
    "cat": "crypto",
-   "time": "2026-08-06 03:58",
-   "title": "S&P 500 Extends Bullish Run, Traders Eye 8,000 Milestone - CryptoRank",
-   "summary": "S&P 500 Extends Bullish Run, Traders Eye 8,000 Milestone &nbsp;&nbsp; CryptoRank",
+   "time": "2026-08-07 06:17",
+   "title": "Wall Street closes lower as Dow leads decline, S&P 500 and Nasdaq slip - CryptoRank",
+   "summary": "Wall Street closes lower as Dow leads decline, S&P 500 and Nasdaq slip &nbsp;&nbsp; CryptoRank",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kbGxKaHVvOFNOZDM4UVRONEJkY094UVlGZDVzcVc4cXdQVVJnQWFfa25Gci14NFhubVB5S2hDZzdIV2w4RGppekZIZHRYLXZ6OWNXWXRORTNMYUdYUWpxNEkzNDNfdGpTY3NTQjNaOHFzWjA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR1dUWmdmQTFvZG5qcV9ZbjhRMkt6Q2h5aTRyOFVoV01zeGxPcWJWazZzMHYtbDc0VDlVUmZKc1N3LWo3V01ZaUlKNHh4R0o2dTlCdG5oN2V0c3dBWlIzRTJUbVpUM2hwMVZIN0toV2tvQWJfWFIwOFZZRVVCY0F6eWhSZw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 72.5
   },
   {
    "cat": "sector",
@@ -1035,21 +1021,35 @@
      "t": "sec"
     }
    ],
-   "heat": 236.9
+   "heat": 240.4
   },
   {
    "cat": "sector",
-   "time": "2026-08-08 01:04",
-   "title": "CATL’s Yichun Lithium Mine Remains Shut as Restart Awaits Permits",
-   "summary": "CATL’s Yichun Lithium Mine Remains Shut as Restart Awaits Permits &nbsp;&nbsp; Caixin Global",
+   "time": "2026-08-08 10:00",
+   "title": "Weekend Long Read: A Soaked Market for Central China’s Watermelon Farmers",
+   "summary": "Weekend Long Read: A Soaked Market for Central China’s Watermelon Farmers &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb0JiWGkyRGhFOFA3WVNVOHpQTk8yYkVHYXY1TE8yNmR3OXBCdV95THJHSldDM1ZuX2E3RFRNNTdndk1PbUN1cUo3cVRSalRBMDJIc3FaaE9tVW01U2prd3pQSGVkZWhoUmlIQ2wwUFFaT3BmTk1kalZ4NlVvNkxha0kzT2VhakFBQUs0RkJlVEFxOXNUQWhrX1FnRlotQy1aQl9mcG52X0czM2xEay15WlV3QTA2QmY2ZTZR?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0JjVndFeXpsMFZtYU5lb1pldmttLTVGQXE2VWh2c0pZMWdZbkk5TzFvOVdrMzZhTVNDNUktUk5wQWExeFdJZmt0RWliSVU5bFVkZ1drTnFPNDBNQTJxMnI3MWQ5ZHlYaWw3WHdSOE5UYVlmbnFjdkF2TnNfYXBEX3FpZl9CYnpSbFdjSFZtTDc1eXo2OUJXWmRacDJMOVpGRVZQWDQ2OFI1VjFOVXRIMVRITWNkdTRCT0JCMkNQLXZjb0JV?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 240.2
+   "heat": 245.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-08 18:14",
+   "title": "Iran sets tough terms for U.S. to reopen Strait of Hormuz despite progress in Oman",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/us-expects-strait-of-hormuz-deal-soon-as-sunni-powers-sign-defense-pact-4847571",
+     "t": "agg"
+    }
+   ],
+   "heat": 244.5
   }
  ]
 }
