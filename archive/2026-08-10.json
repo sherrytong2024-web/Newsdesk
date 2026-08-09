@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10 00:03",
+ "updated": "2026-08-10 03:49",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.7
+   "heat": 71.1
   },
   {
    "cat": "macro",
@@ -27,21 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-09 21:34",
-   "title": "5 ‘rules’ your parents taught you that are sabotaging your career, says expert—like ‘always be grateful’",
-   "summary": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.6
+   "heat": 47.0
   },
   {
    "cat": "macro",
@@ -55,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.5
+   "heat": 38.8
   },
   {
    "cat": "macro",
@@ -69,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.7
+   "heat": 32.1
   },
   {
    "cat": "macro",
@@ -83,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 32.0
   },
   {
    "cat": "macro",
@@ -97,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 32.0
   },
   {
    "cat": "macro",
@@ -111,21 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-07 02:45",
-   "title": "GBP/USD Deadlock Shows Why Rate Parity Has Replaced Carry",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/gbpusd-deadlock-shows-why-rate-parity-has-replaced-carry-200685357",
-     "t": "agg"
-    }
-   ],
-   "heat": 34.0
+   "heat": 32.0
   },
   {
    "cat": "macro",
@@ -139,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.8
+   "heat": 31.2
   },
   {
    "cat": "macro",
@@ -153,7 +125,35 @@
      "t": "agg"
     }
    ],
-   "heat": 26.0
+   "heat": 30.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-07 02:45",
+   "title": "GBP/USD Deadlock Shows Why Rate Parity Has Replaced Carry",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/gbpusd-deadlock-shows-why-rate-parity-has-replaced-carry-200685357",
+     "t": "agg"
+    }
+   ],
+   "heat": 30.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-09 16:01",
+   "title": "Warsh wants a Fed that plays a smaller role in markets",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/warsh-wants-a-fed-that-plays-a-smaller-role-in-markets-4847750",
+     "t": "agg"
+    }
+   ],
+   "heat": 28.0
   },
   {
    "cat": "macro",
@@ -167,7 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.5
+   "heat": 22.9
   },
   {
    "cat": "macro",
@@ -181,7 +181,7 @@
      "t": "agg"
     }
    ],
-   "heat": 18.7
+   "heat": 22.1
   },
   {
    "cat": "macro",
@@ -195,7 +195,7 @@
      "t": "agg"
     }
    ],
-   "heat": 18.3
+   "heat": 22.0
   },
   {
    "cat": "macro",
@@ -213,6 +213,48 @@
   },
   {
    "cat": "sector",
+   "time": "2026-08-10 02:38",
+   "title": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
+   "summary": "Rep. Max Miller is set to remain the Republican nominee in Ohio’s 7th District after the window for the GOP to replace him on the November ballot closed.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/09/max-miller-ohio-house-race-gop-replacement-deadline.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-10 02:18",
+   "title": "5 career ‘rules’ your parents taught you that are working against you, says expert—and what to do instead",
+   "summary": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-10 02:15",
+   "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
+   "summary": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\"",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.7
+  },
+  {
+   "cat": "sector",
    "time": "2026-08-09 22:45",
    "title": "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
    "summary": "The congresswoman, who has emerged as a polling favorite to be the Democratic nominee, said she also has not ruled out a run for the Senate in 2028.",
@@ -223,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.8
+   "heat": 219.2
   },
   {
    "cat": "sector",
@@ -237,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.4
+   "heat": 218.8
   },
   {
    "cat": "sector",
@@ -251,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.3
+   "heat": 218.7
   },
   {
    "cat": "sector",
@@ -265,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.3
+   "heat": 218.7
   },
   {
    "cat": "sector",
@@ -279,21 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-09 19:23",
-   "title": "Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility",
-   "summary": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\"",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.2
+   "heat": 218.6
   },
   {
    "cat": "sector",
@@ -307,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 214.9
+   "heat": 218.3
   },
   {
    "cat": "sector",
@@ -321,21 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 214.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-09 09:59",
-   "title": "Jetstar, Qatar Air Jets Had Near-Miss on Sydney Airport Tarmac",
-   "summary": "Sydney airport authorities are examining a near collision that occurred between two planes on the tarmac Sunday, which resulted in flight delays at Australia’s busiest airport.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-09/jetstar-plane-narrowly-avoids-collision-at-sydney-airport",
-     "t": "sec"
-    }
-   ],
-   "heat": 213.7
+   "heat": 217.7
   },
   {
    "cat": "sector",
@@ -349,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 213.4
+   "heat": 216.8
   },
   {
    "cat": "sector",
@@ -363,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 212.3
+   "heat": 215.6
   },
   {
    "cat": "sector",
@@ -377,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 212.2
+   "heat": 215.6
   },
   {
    "cat": "sector",
@@ -391,35 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 10:00",
-   "title": "Weekend Long Read: A Soaked Market for Central China’s Watermelon Farmers",
-   "summary": "Weekend Long Read: A Soaked Market for Central China’s Watermelon Farmers &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0JjVndFeXpsMFZtYU5lb1pldmttLTVGQXE2VWh2c0pZMWdZbkk5TzFvOVdrMzZhTVNDNUktUk5wQWExeFdJZmt0RWliSVU5bFVkZ1drTnFPNDBNQTJxMnI3MWQ5ZHlYaWw3WHdSOE5UYVlmbnFjdkF2TnNfYXBEX3FpZl9CYnpSbFdjSFZtTDc1eXo2OUJXWmRacDJMOVpGRVZQWDQ2OFI1VjFOVXRIMVRITWNkdTRCT0JCMkNQLXZjb0JV?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 209.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 01:04",
-   "title": "CATL’s Yichun Lithium Mine Remains Shut as Restart Awaits Permits",
-   "summary": "CATL’s Yichun Lithium Mine Remains Shut as Restart Awaits Permits &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb0JiWGkyRGhFOFA3WVNVOHpQTk8yYkVHYXY1TE8yNmR3OXBCdV95THJHSldDM1ZuX2E3RFRNNTdndk1PbUN1cUo3cVRSalRBMDJIc3FaaE9tVW01U2prd3pQSGVkZWhoUmlIQ2wwUFFaT3BmTk1kalZ4NlVvNkxha0kzT2VhakFBQUs0RkJlVEFxOXNUQWhrX1FnRlotQy1aQl9mcG52X0czM2xEay15WlV3QTA2QmY2ZTZR?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 208.2
+   "heat": 214.7
   },
   {
    "cat": "stock",
@@ -433,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 155.3
+   "heat": 138.7
   },
   {
    "cat": "stock",
@@ -447,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 148.0
+   "heat": 132.0
   },
   {
    "cat": "stock",
@@ -461,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 148.0
+   "heat": 132.0
   },
   {
    "cat": "stock",
@@ -475,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 148.0
+   "heat": 132.0
   },
   {
    "cat": "stock",
@@ -489,7 +475,63 @@
      "t": "sec"
     }
    ],
-   "heat": 95.5
+   "heat": 90.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-09 22:29",
+   "title": "5 Best Energy Stocks for 2026 and How to Invest - The Motley Fool",
+   "summary": "5 Best Energy Stocks for 2026 and How to Invest &nbsp;&nbsp; The Motley Fool",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4dUpSeHdMcVY4cnJubW5KSl9yTjJtVGM1SG5XSVJ2UERLbU9oY2pNelpRQ2VRNF9wZFRRajRaWXhQS1VuQzA5RDZHMkgzZlhKbzdWWWVvR0tUem95bjR3SW9HMGRicW5tMDNDbThLQ1JtOWpD?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 83.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-09 17:49",
+   "title": "Pentagon pushes defense companies to boost weapons production after concerns of depleted stocks",
+   "summary": "A Pentagon spokesman said it was focused on boosting munitions acquisitions to provide \"the weapons our warfighters need at the pace the threat demands.\"",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/09/pentagon-defense-contractors-weapons-production.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 82.3
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-08 21:00",
+   "title": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question",
+   "summary": "Investors should be conversative in retirement, but abandoning equities is a big mistake.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 78.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-08 19:51",
+   "title": "Formula One is lagging other sport stocks. Why analysts think it's poised to race ahead",
+   "summary": "As the sports sector remains resilient among consumers, analysts are predicting big gains for this racing league.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/formula-one-is-lagging-other-sport-stocks-why-analysts-think-its-poised-to-race-ahead.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 78.7
   },
   {
    "cat": "stock",
@@ -503,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 89.4
+   "heat": 76.8
   },
   {
    "cat": "stock",
@@ -517,119 +559,49 @@
      "t": "sec"
     }
    ],
-   "heat": 89.2
+   "heat": 76.6
   },
   {
    "cat": "stock",
-   "time": "2026-08-09 06:02",
-   "title": "Berkshire Hathaway Q2 Earnings, Iran Says Hormuz Deal Close,More",
-   "summary": "Source: Bloomberg, 6:10",
+   "time": "2026-08-07 17:04",
+   "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+   "summary": "Stock Market: Will S&P 500 Open Up or Down Today? &nbsp;&nbsp; Benzinga",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-08/berkshire-hathaway-q2-earnings-iran-says-hormuz-deal-close-more",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmFUU1lPb3lBMEhBRWxtUkEyc1VMYUtMZV9KejFPSTRGM1B0TVpBLXVTcE5hUXBJNjBXRVRMcC1pbXo5R3lMWDZ0dnBpQ1lSZ1djVmdEWDJ2d1Nfbk9RVG9rR1I2aWNfMDlIeHlhZDMtZERRLV9xcU9lQ0U2b1ZYU2Y5YUIxRzdLZEQ1Ujl5WUV2TWFuRXU1WjVvQUh6dnlDbzhoWnpSRHVPT3NhVFhpU0dERWRSS0JRc3MtVnZuX0lqSE52eVpubEN4dUFhN2VkazE3TExn?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 89.0
+   "heat": 76.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-09 03:00",
-   "title": "Berkshire Hathaway Q2 Earnings, VP Vance on Iran, More",
-   "summary": "Source: Bloomberg, 5:13",
+   "time": "2026-08-07 04:14",
+   "title": "Stock Market Today: S&P 500 Holds Near Record as Dow Rises, but Transports Lag - CryptoRank",
+   "summary": "Stock Market Today: S&P 500 Holds Near Record as Dow Rises, but Transports Lag &nbsp;&nbsp; CryptoRank",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-08/berkshire-hathaway-q2-earnings-vp-vance-on-iran-more",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbS1IWFM1UWw5c3hqZ2F0Q0lBWmxJTkpNemtXMXRmbFZfMlNVQW9wOG16amJfdUhGSTVLcnFXUEVtMDBBOXdxVDB1NmNvMExLdEpwSEcwcFQ2a3BhYUlRTnJNR0lRUVFXV2FNeXlKSkZjT1JMcDNGa2tySHkwaTVpcXJUbDVQZTNLMURYUnZuRHJDM2g4Ynp5VWtGTjYyeG40MVI1ekoyTkM3cGVkU1YyeThqSQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 88.5
+   "heat": 76.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-09 13:41",
-   "title": "CEVA earnings on deck: Can licensing sustain royalty wait?",
-   "summary": "",
+   "time": "2026-08-07 03:43",
+   "title": "Will the Stock Market Crash in 2026? 5 Risks to Consider - U.S. News - Money",
+   "summary": "Will the Stock Market Crash in 2026? 5 Risks to Consider &nbsp;&nbsp; U.S. News - Money",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/earnings/ceva-earnings-on-deck-can-licensing-sustain-royalty-wait-93CH-4847747",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWk5OQUItYlZ0a3dDV0lIWVJZcVNhSm5sQXpKY052RGJNd1lwX25IZ2JJVW50WG44WGRLYXR3cG12bUF5NThuZlFMTkdGbHBONkdJYXpMSjVXeEJsMks1RnZXa3U2SC1PdmtYZ0ZJVEdaTDVXRFVCcWY1cDd0OUNRN0ZfYlI4NkRDRlpiZQ?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 88.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-09 13:40",
-   "title": "Berkshire Hathaway earnings on deck as Abel faces cash test",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/earnings/berkshire-hathaway-earnings-on-deck-as-abel-faces-cash-test-93CH-4847746",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-09 13:39",
-   "title": "Trimble earnings on deck amid portfolio simplification push",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/earnings/trimble-earnings-on-deck-amid-portfolio-simplification-push-93CH-4847745",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-09 13:38",
-   "title": "Silicon Labs faces earnings test amid Texas Instruments deal",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/earnings/silicon-labs-faces-earnings-test-amid-texas-instruments-deal-93CH-4847744",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-09 13:37",
-   "title": "Hub Group earnings ahead: Can execution match freight rebound?",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/earnings/hub-group-earnings-ahead-can-execution-match-freight-rebound-93CH-4847743",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-09 13:36",
-   "title": "Biohaven earnings set to show cash burn ahead of epilepsy data",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/earnings/biohaven-earnings-set-to-show-cash-burn-ahead-of-epilepsy-data-93CH-4847742",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.3
+   "heat": 76.0
   },
   {
    "cat": "global",
@@ -643,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.4
+   "heat": 36.0
   },
   {
    "cat": "global",
@@ -657,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.3
+   "heat": 36.0
   },
   {
    "cat": "global",
@@ -671,21 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-08 03:33",
-   "title": "Forecasting the upcoming week: US inflation takes center stage next week",
-   "summary": "The US Dollar Index (DXY) fell below the 100.00 region after sinking through Friday's session. July Nonfarm Payrolls (NFP) showed the US economy shedding 23K jobs against forecasts…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-inflation-takes-center-stage-next-week-202608071933",
-     "t": "sec"
-    }
-   ],
-   "heat": 28.6
+   "heat": 32.2
   },
   {
    "cat": "global",
@@ -699,7 +657,21 @@
      "t": "sec"
     }
    ],
-   "heat": 28.5
+   "heat": 32.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-08 03:33",
+   "title": "Forecasting the upcoming week: US inflation takes center stage next week",
+   "summary": "The US Dollar Index (DXY) fell below the 100.00 region after sinking through Friday's session. July Nonfarm Payrolls (NFP) showed the US economy shedding 23K jobs against forecasts…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-inflation-takes-center-stage-next-week-202608071933",
+     "t": "sec"
+    }
+   ],
+   "heat": 28.0
   },
   {
    "cat": "global",
@@ -713,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 28.4
+   "heat": 28.0
   },
   {
    "cat": "global",
@@ -741,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 20.7
+   "heat": 20.0
   },
   {
    "cat": "global",
@@ -755,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 20.6
+   "heat": 20.0
   },
   {
    "cat": "global",
@@ -825,21 +797,21 @@
      "t": "sec"
     }
    ],
-   "heat": 19.4
+   "heat": 18.8
   },
   {
    "cat": "global",
-   "time": "2026-08-08 03:07",
-   "title": "Indonesian Rupiah: Supportive domestic backdrop, capped gains – Commerzbank",
-   "summary": "Commerzbank’s FX analysts, including Charlie Lay and Moses Lim, note that USD/IDR slipped slightly but stayed below the key 18,000 level as softer global Oil prices and stronger In…",
+   "time": "2026-08-05 15:00",
+   "title": "US Market Pulse August 2026 - Goldman Sachs Asset Management",
+   "summary": "US Market Pulse August 2026 &nbsp;&nbsp; Goldman Sachs Asset Management",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/indonesian-rupiah-supportive-domestic-backdrop-capped-gains-commerzbank-202608071907",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 16.5
+   "heat": 16.0
   },
   {
    "cat": "crypto",
@@ -853,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 92.2
+   "heat": 99.6
   },
   {
    "cat": "crypto",
@@ -867,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.6
+   "heat": 94.9
   },
   {
    "cat": "crypto",
@@ -878,6 +850,20 @@
     {
      "n": "Cointelegraph(加密货币)",
      "u": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 67.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-10 02:30",
+   "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
+   "summary": "The crypto industry is angry and disappointed that the Senate is not holding a procedural vote on the Clarity Act this month, but that isn't the worst possible outcome.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
      "t": "sec"
     }
    ],
@@ -895,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.5
+   "heat": 62.9
   },
   {
    "cat": "crypto",
@@ -909,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.9
+   "heat": 62.2
   },
   {
    "cat": "crypto",
@@ -923,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.3
+   "heat": 59.7
   },
   {
    "cat": "crypto",
@@ -937,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.9
+   "heat": 59.3
   },
   {
    "cat": "crypto",
@@ -951,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.5
+   "heat": 58.9
   },
   {
    "cat": "crypto",
@@ -965,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.8
+   "heat": 58.2
   },
   {
    "cat": "crypto",
@@ -979,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.9
+   "heat": 56.3
   },
   {
    "cat": "crypto",
@@ -993,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.7
+   "heat": 56.0
   },
   {
    "cat": "crypto",
@@ -1007,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 56.0
   },
   {
    "cat": "crypto",
@@ -1021,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 56.0
   },
   {
    "cat": "crypto",
@@ -1035,21 +1021,35 @@
      "t": "sec"
     }
    ],
-   "heat": 48.9
+   "heat": 52.2
   },
   {
-   "cat": "crypto",
-   "time": "2026-08-09 22:19",
-   "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
-   "summary": "Bitcoin ETFs recorded $853.54 million in net inflows last week, the strongest since mid-April, with BlackRock’s IBIT taking the bulk.",
+   "cat": "sector",
+   "time": "2026-08-08 10:00",
+   "title": "Weekend Long Read: A Soaked Market for Central China’s Watermelon Farmers",
+   "summary": "Weekend Long Read: A Soaked Market for Central China’s Watermelon Farmers &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0JjVndFeXpsMFZtYU5lb1pldmttLTVGQXE2VWh2c0pZMWdZbkk5TzFvOVdrMzZhTVNDNUktUk5wQWExeFdJZmt0RWliSVU5bFVkZ1drTnFPNDBNQTJxMnI3MWQ5ZHlYaWw3WHdSOE5UYVlmbnFjdkF2TnNfYXBEX3FpZl9CYnpSbFdjSFZtTDc1eXo2OUJXWmRacDJMOVpGRVZQWDQ2OFI1VjFOVXRIMVRITWNkdTRCT0JCMkNQLXZjb0JV?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 47.7
+   "heat": 213.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-09 13:41",
+   "title": "CEVA earnings on deck: Can licensing sustain royalty wait?",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/earnings/ceva-earnings-on-deck-can-licensing-sustain-royalty-wait-93CH-4847747",
+     "t": "agg"
+    }
+   ],
+   "heat": 75.6
   }
  ]
 }

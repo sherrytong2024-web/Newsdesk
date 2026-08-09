@@ -1,6 +1,48 @@
 {
- "updated": "2026-08-10 00:03",
+ "updated": "2026-08-10 03:49",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-10 02:38",
+   "title": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
+   "summary": "Rep. Max Miller is set to remain the Republican nominee in Ohio’s 7th District after the window for the GOP to replace him on the November ballot closed.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/09/max-miller-ohio-house-race-gop-replacement-deadline.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-10 02:18",
+   "title": "5 career ‘rules’ your parents taught you that are working against you, says expert—and what to do instead",
+   "summary": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-10 02:15",
+   "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
+   "summary": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\"",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.7
+  },
   {
    "cat": "sector",
    "time": "2026-08-09 22:45",
@@ -13,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.8
+   "heat": 219.2
   },
   {
    "cat": "sector",
@@ -27,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.4
+   "heat": 218.8
   },
   {
    "cat": "sector",
@@ -41,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.3
+   "heat": 218.7
   },
   {
    "cat": "sector",
@@ -55,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.3
+   "heat": 218.7
   },
   {
    "cat": "sector",
@@ -69,21 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-09 19:23",
-   "title": "Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility",
-   "summary": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\"",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.2
+   "heat": 218.6
   },
   {
    "cat": "sector",
@@ -97,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 214.9
+   "heat": 218.3
   },
   {
    "cat": "sector",
@@ -111,35 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 214.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-09 09:59",
-   "title": "Jetstar, Qatar Air Jets Had Near-Miss on Sydney Airport Tarmac",
-   "summary": "Sydney airport authorities are examining a near collision that occurred between two planes on the tarmac Sunday, which resulted in flight delays at Australia’s busiest airport.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-09/jetstar-plane-narrowly-avoids-collision-at-sydney-airport",
-     "t": "sec"
-    }
-   ],
-   "heat": 213.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-09 08:36",
-   "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
-   "summary": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 213.4
+   "heat": 217.7
   }
  ]
 }
