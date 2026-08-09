@@ -1,6 +1,20 @@
 {
- "updated": "2026-08-09 06:00",
+ "updated": "2026-08-09 12:43",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-08-09 09:46",
+   "title": "China’s Inflation Cools as Iran War Oil Shock Starts to Ease",
+   "summary": "China’s factory-gate inflation eased for the first time since the Iran war broke out in late February while consumer prices also decelerated, in another sign that cost pressures fr…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-09/china-s-inflation-cools-as-oil-shock-of-iran-war-starts-to-ease",
+     "t": "sec"
+    }
+   ],
+   "heat": 79.5
+  },
   {
    "cat": "macro",
    "time": "2026-08-08 23:00",
@@ -13,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.8
+   "heat": 77.7
   },
   {
    "cat": "macro",
@@ -27,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.8
+   "heat": 57.7
   },
   {
    "cat": "macro",
@@ -41,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.8
+   "heat": 57.7
   },
   {
    "cat": "macro",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.7
+   "heat": 57.5
   },
   {
    "cat": "macro",
@@ -69,21 +83,21 @@
      "t": "sec"
     }
    ],
-   "heat": 58.5
+   "heat": 57.3
   },
   {
    "cat": "macro",
-   "time": "2026-08-08 20:33",
-   "title": "What would it take for Mercedes Benz stock to re-rate higher? Citi weighs in",
+   "time": "2026-08-09 00:38",
+   "title": "Pentagon asks defence firms to accelerate weapons production",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/what-would-it-take-for-mercedes-benz-stock-to-rerate-higher-citi-weighs-in-4847687",
+     "u": "https://www.investing.com/news/economy-news/pentagon-asks-defence-firms-to-accelerate-weapons-production-4847693",
      "t": "agg"
     }
    ],
-   "heat": 56.4
+   "heat": 56.0
   },
   {
    "cat": "macro",
@@ -94,20 +108,6 @@
     {
      "n": "CNBC",
      "u": "https://www.cnbc.com/select/best-1-year-cds/",
-     "t": "sec"
-    }
-   ],
-   "heat": 55.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-07 21:36",
-   "title": "SK Hynix Said to Mull Options for $3 Billion Chongqing Plant",
-   "summary": "South Korea’s SK Hynix Inc. is considering options for its Chongqing, China-based facility, including bringing in an investor to help accelerate growth, according to people with kn…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-is-said-to-mull-options-for-3-billion-chongqing-assets",
      "t": "sec"
     }
    ],
@@ -185,31 +185,59 @@
   },
   {
    "cat": "macro",
-   "time": "2026-08-08 16:48",
-   "title": "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
+   "time": "2026-08-09 02:41",
+   "title": "China factory-gate inflation slows more than expected in July",
    "summary": "",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/us-senate-passes-short-term-funding-bill-to-avert-federal-shutdown.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 21.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-07 21:03",
-   "title": "Gold Gains as Dovish Fed Expectations Pressure DXY and Treasury Yields",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-gains-as-dovish-fed-expectations-pressure-dxy-and-treasury-yields-200685419",
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/china-factorygate-inflation-slows-more-than-expected-in-july-4847700",
      "t": "agg"
     }
    ],
-   "heat": 20.5
+   "heat": 32.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-09 01:48",
+   "title": "China’s producer inflation eases in July, below expectations",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economic-indicators/chinas-producer-inflation-eases-in-july-below-expectations-4847696",
+     "t": "agg"
+    }
+   ],
+   "heat": 32.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-09 09:59",
+   "title": "Jetstar, Qatar Air Jets Had Near-Miss on Sydney Airport Tarmac",
+   "summary": "Sydney airport authorities are examining a near collision that occurred between two planes on the tarmac Sunday, which resulted in flight delays at Australia’s busiest airport.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-09/jetstar-plane-narrowly-avoids-collision-at-sydney-airport",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-09 08:36",
+   "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+   "summary": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.3
   },
   {
    "cat": "sector",
@@ -223,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.3
+   "heat": 226.2
   },
   {
    "cat": "sector",
@@ -237,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.2
+   "heat": 226.1
   },
   {
    "cat": "sector",
@@ -251,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.9
+   "heat": 225.8
   },
   {
    "cat": "sector",
@@ -265,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.8
+   "heat": 225.6
   },
   {
    "cat": "sector",
@@ -279,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.6
+   "heat": 225.5
   },
   {
    "cat": "sector",
@@ -293,21 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 20:22",
-   "title": "Ceuta Migrant Surge Exposes Morocco’s Economic Strain",
-   "summary": "More than 70,000 people, mostly Moroccans, crossed into Spain’s North African enclave of Ceuta in a mass migration surge fueled by economic frustration and amplified by social medi…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-08/ceuta-migrant-surge-exposes-morocco-s-economic-strain-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 238.4
+   "heat": 225.5
   },
   {
    "cat": "sector",
@@ -321,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.3
+   "heat": 225.2
   },
   {
    "cat": "sector",
@@ -335,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.3
+   "heat": 225.2
   },
   {
    "cat": "sector",
@@ -349,49 +363,35 @@
      "t": "sec"
     }
    ],
-   "heat": 238.3
+   "heat": 225.2
   },
   {
    "cat": "sector",
-   "time": "2026-08-08 19:13",
-   "title": "Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says",
-   "summary": "Singapore is benefitting from the rapid growth of artificial intelligence and the government is making use of the technology to ensure higher productivity and better jobs for worke…",
+   "time": "2026-08-09 01:57",
+   "title": "Paramount offers cinema chains written pledge for 30 annual movie releases",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-08/singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-says",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/company-news/paramount-offers-cinema-chains-written-pledge-for-30-annual-movie-releases-4847697",
+     "t": "agg"
     }
    ],
-   "heat": 238.2
+   "heat": 224.2
   },
   {
    "cat": "sector",
-   "time": "2026-08-08 14:00",
-   "title": "Zelenskyy Wins Serbian Pledges as Russian Influence Wanes",
-   "summary": "Ukrainian President Volodymyr Zelenskyy made a landmark first visit on Saturday to Serbia to expand cooperation with the Balkan country whose leader has been scaling back once-clos…",
+   "time": "2026-08-09 01:24",
+   "title": "Former SK Hynix employee jailed for leaking information to a Chinese firm, Yonhap reports",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-08/zelenskyy-makes-debut-trip-to-serbia-as-russian-influence-wanes",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/former-sk-hynix-employee-jailed-for-leaking-information-to-a-chinese-firm-yonhap-reports-4847695",
+     "t": "agg"
     }
    ],
-   "heat": 237.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 11:47",
-   "title": "OpenAI Halts Work on AI Model, US Invests in Counter Drone Tech",
-   "summary": "Source: Bloomberg, 6:24",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-08/openai-halts-work-on-ai-model-us-invests-in-counter-drone-tech",
-     "t": "sec"
-    }
-   ],
-   "heat": 237.0
+   "heat": 224.1
   },
   {
    "cat": "stock",
@@ -405,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 125.3
+   "heat": 136.2
   },
   {
    "cat": "stock",
@@ -419,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 124.0
+   "heat": 136.0
   },
   {
    "cat": "stock",
@@ -433,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 124.0
+   "heat": 136.0
   },
   {
    "cat": "stock",
@@ -447,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 124.0
+   "heat": 136.0
   },
   {
    "cat": "stock",
@@ -461,7 +461,21 @@
      "t": "sec"
     }
    ],
-   "heat": 83.0
+   "heat": 93.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-09 08:00",
+   "title": "Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out",
+   "summary": "The most extreme phase of South Korea’s stock-market turmoil may be over after a historic selloff flushed out leveraged positions and regulatory curbs sent trading in some of the r…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-09/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.2
   },
   {
    "cat": "stock",
@@ -475,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 78.7
+   "heat": 89.6
   },
   {
    "cat": "stock",
@@ -489,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 78.5
+   "heat": 89.4
   },
   {
    "cat": "stock",
@@ -503,35 +517,21 @@
      "t": "sec"
     }
    ],
-   "heat": 78.3
+   "heat": 89.2
   },
   {
    "cat": "stock",
-   "time": "2026-08-08 21:20",
-   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "time": "2026-08-09 01:19",
+   "title": "South Korea stock volatility eases as leveraged trades unwind",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4847688",
+     "u": "https://www.investing.com/news/stock-market-news/south-korea-stock-volatility-eases-as-leveraged-trades-unwind-4847694",
      "t": "agg"
     }
    ],
-   "heat": 76.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-09 04:36",
-   "title": "Berkshire Hathaway Q2 Earnings, Iran: Hormuz Deal Close, More",
-   "summary": "Source: Bloomberg, 5:24",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-08/berkshire-hathaway-q2-earnings-iran-hormuz-deal-close-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 75.8
+   "heat": 88.1
   },
   {
    "cat": "stock",
@@ -545,63 +545,63 @@
      "t": "sec"
     }
    ],
-   "heat": 75.7
+   "heat": 86.6
   },
   {
    "cat": "stock",
-   "time": "2026-08-09 03:00",
-   "title": "Berkshire Hathaway Q2 Earnings, VP Vance on Iran, More",
-   "summary": "Source: Bloomberg, 5:13",
+   "time": "2026-08-07 17:04",
+   "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+   "summary": "Stock Market: Will S&P 500 Open Up or Down Today? &nbsp;&nbsp; Benzinga",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-08/berkshire-hathaway-q2-earnings-vp-vance-on-iran-more",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmFUU1lPb3lBMEhBRWxtUkEyc1VMYUtMZV9KejFPSTRGM1B0TVpBLXVTcE5hUXBJNjBXRVRMcC1pbXo5R3lMWDZ0dnBpQ1lSZ1djVmdEWDJ2d1Nfbk9RVG9rR1I2aWNfMDlIeHlhZDMtZERRLV9xcU9lQ0U2b1ZYU2Y5YUIxRzdLZEQ1Ujl5WUV2TWFuRXU1WjVvQUh6dnlDbzhoWnpSRHVPT3NhVFhpU0dERWRSS0JRc3MtVnZuX0lqSE52eVpubEN4dUFhN2VkazE3TExn?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 75.5
+   "heat": 84.7
   },
   {
    "cat": "stock",
-   "time": "2026-08-08 21:38",
-   "title": "Senate Confirms Blanche, Berkshire Hathaway Q2 Earnings, More",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-08-07 04:14",
+   "title": "Stock Market Today: S&P 500 Holds Near Record as Dow Rises, but Transports Lag - CryptoRank",
+   "summary": "Stock Market Today: S&P 500 Holds Near Record as Dow Rises, but Transports Lag &nbsp;&nbsp; CryptoRank",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-08/senate-confirms-blanche-berkshire-hathaway-q2-earnings-more",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbS1IWFM1UWw5c3hqZ2F0Q0lBWmxJTkpNemtXMXRmbFZfMlNVQW9wOG16amJfdUhGSTVLcnFXUEVtMDBBOXdxVDB1NmNvMExLdEpwSEcwcFQ2a3BhYUlRTnJNR0lRUVFXV2FNeXlKSkZjT1JMcDNGa2tySHkwaTVpcXJUbDVQZTNLMURYUnZuRHJDM2g4Ynp5VWtGTjYyeG40MVI1ekoyTkM3cGVkU1YyeThqSQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 74.6
+   "heat": 84.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-08 21:28",
-   "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
-   "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
+   "time": "2026-08-06 01:21",
+   "title": "China’s Green Jet Fuel Expansion Raises Pressure on Global Feedstock Supply",
+   "summary": "China’s Green Jet Fuel Expansion Raises Pressure on Global Feedstock Supply &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUx4elUyeHEzWUlkTnk2YzEzbEhmZXVMNzFWY1BiLXQyeXBncjdJNnNpelBmZHBaUmczZjhoNmwzWVVOSzFfZHBDNDhOU3QxaDhvLUU1ZGY4aEE2NG9xRUZqYTNfVG5wSXJSZkM3MlhzLWNzR3ktYmtabmZFTUVSMHlMUWFUazdjaGQwQ3M0WkNhZjBvOU53MjFOaWpoNHk3MGpBVkFsRzU0QlNQVmpGOTdhRFdKb016UnNaTEpNYWVlZzZSZEMxWQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 74.6
+   "heat": 84.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-08 20:26",
-   "title": "Todd Blanche Confirmed as AG, Berkshire Hathaway Earnings, More",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-08-05 23:57",
+   "title": "US Stocks Open Higher: S&P 500, Nasdaq, Dow Jones Post Early Gains - CryptoRank",
+   "summary": "US Stocks Open Higher: S&P 500, Nasdaq, Dow Jones Post Early Gains &nbsp;&nbsp; CryptoRank",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-08/todd-blanche-confirmed-as-ag-berkshire-hathaway-earnings-more",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTFHcVlCUU5tZXBYZTcxODM4X1l4MFJXQnlNZ1ZfMzVmTG9DaVVyTTZaUWhRcVpkN2w0RElzaDQ0X09hVUJkMGZERVM5eG43M2RsdEpLU3R3VVRTdGptaG1JNTJwSWNmTlFlTzdJSzMwWFBSUkp2UkI5RW50S3hrc3FOaUtLRVEtM0E?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 74.4
+   "heat": 84.0
   },
   {
    "cat": "global",
@@ -615,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.3
+   "heat": 38.2
   },
   {
    "cat": "global",
@@ -629,21 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-08 02:48",
-   "title": "EUR/JPY recovers from session low but remains down on Friday",
-   "summary": "EUR/JPY trades on the back foot on Friday, easing away even as the Euro (EUR) posts solid gains against the US Dollar (USD). The Japanese currency surged suddenly near the start of…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/eur-jpy-recovers-from-session-low-but-remains-down-on-friday-202608071848",
-     "t": "sec"
-    }
-   ],
-   "heat": 35.5
+   "heat": 34.7
   },
   {
    "cat": "global",
@@ -657,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.4
+   "heat": 34.3
   },
   {
    "cat": "global",
@@ -671,7 +657,21 @@
      "t": "sec"
     }
    ],
-   "heat": 31.6
+   "heat": 30.5
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-08 02:48",
+   "title": "EUR/JPY recovers from session low but remains down on Friday",
+   "summary": "EUR/JPY trades on the back foot on Friday, easing away even as the Euro (EUR) posts solid gains against the US Dollar (USD). The Japanese currency surged suddenly near the start of…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/eur-jpy-recovers-from-session-low-but-remains-down-on-friday-202608071848",
+     "t": "sec"
+    }
+   ],
+   "heat": 30.3
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.4
+   "heat": 30.3
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "agg"
     }
    ],
-   "heat": 28.1
+   "heat": 27.0
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.5
+   "heat": 22.4
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 19.7
+   "heat": 18.6
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 17.5
+   "heat": 16.4
   },
   {
    "cat": "global",
@@ -755,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 17.5
+   "heat": 16.4
   },
   {
    "cat": "global",
@@ -769,21 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 17.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-07 20:24",
-   "title": "Bonds Just Gave Gold and Silver a Second Wind",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/bonds-just-gave-gold-and-silver-a-second-wind-200685411",
-     "t": "agg"
-    }
-   ],
-   "heat": 16.4
+   "heat": 16.0
   },
   {
    "cat": "global",
@@ -801,6 +787,20 @@
   },
   {
    "cat": "global",
+   "time": "2026-08-07 20:24",
+   "title": "Bonds Just Gave Gold and Silver a Second Wind",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/bonds-just-gave-gold-and-silver-a-second-wind-200685411",
+     "t": "agg"
+    }
+   ],
+   "heat": 15.3
+  },
+  {
+   "cat": "global",
    "time": "2026-08-08 03:50",
    "title": "03:50:27 财联社8月8日电，雪佛龙预计年底资本开支处于指引区间180亿-190亿美元的低端。",
    "summary": "03:50:27 财联社8月8日电，雪佛龙预计年底资本开支处于指引区间180亿-190亿美元的低端。 &nbsp;&nbsp; 财联社",
@@ -811,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 15.6
+   "heat": 14.5
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.2
+   "heat": 102.1
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 106.6
+   "heat": 93.5
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 82.9
+   "heat": 73.7
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.4
+   "heat": 62.3
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.3
+   "heat": 62.2
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.9
+   "heat": 61.8
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.5
+   "heat": 61.4
   },
   {
    "cat": "crypto",
@@ -923,21 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 69.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-08 19:24",
-   "title": "US Senate advances landmark crypto bill before heading on August recess",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/us-senate-advances-landmark-crypto-bill-before-heading-on-august-recess-4847679",
-     "t": "agg"
-    }
-   ],
-   "heat": 68.2
+   "heat": 60.7
   },
   {
    "cat": "crypto",
@@ -951,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.9
+   "heat": 58.8
   },
   {
    "cat": "crypto",
@@ -965,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.9
+   "heat": 58.7
   },
   {
    "cat": "crypto",
@@ -979,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.7
+   "heat": 58.6
   },
   {
    "cat": "crypto",
@@ -993,21 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.2
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-07 06:17",
-   "title": "Wall Street closes lower as Dow leads decline, S&P 500 and Nasdaq slip - CryptoRank",
-   "summary": "Wall Street closes lower as Dow leads decline, S&P 500 and Nasdaq slip &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR1dUWmdmQTFvZG5qcV9ZbjhRMkt6Q2h5aTRyOFVoV01zeGxPcWJWazZzMHYtbDc0VDlVUmZKc1N3LWo3V01ZaUlKNHh4R0o2dTlCdG5oN2V0c3dBWlIzRTJUbVpUM2hwMVZIN0toV2tvQWJfWFIwOFZZRVVCY0F6eWhSZw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 64.0
+   "heat": 58.1
   },
   {
    "cat": "crypto",
@@ -1021,7 +993,35 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 56.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-03 15:08",
+   "title": "James Wynn Holds Losing S&P 500 Short as Liquidations Reach 22 - CryptoRank",
+   "summary": "James Wynn Holds Losing S&P 500 Short as Liquidations Reach 22 &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kV3ROcEJneVczRklqUF9XaWlkbXpYdWlwWmc1a0RRQ3d1MW1mbDIwV3R4LVQ1a0RkOHM3WFM2N0t3TzBlRWtidWw3NU9XTXp5NUUtSUlEcDhJNG44dmRjSWRDS0QtNnI1cEJGS1FxZk9rd3ZycVZJa3NUMkhMZw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 56.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-09 05:17",
+   "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
+   "summary": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 54.8
   },
   {
    "cat": "sector",
@@ -1035,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 232.0
+   "heat": 220.0
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 236.7
+   "heat": 223.5
   }
  ]
 }

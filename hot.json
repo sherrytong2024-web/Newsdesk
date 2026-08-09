@@ -1,6 +1,34 @@
 {
- "updated": "2026-08-09 06:00",
+ "updated": "2026-08-09 12:43",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-09 09:59",
+   "title": "Jetstar, Qatar Air Jets Had Near-Miss on Sydney Airport Tarmac",
+   "summary": "Sydney airport authorities are examining a near collision that occurred between two planes on the tarmac Sunday, which resulted in flight delays at Australia’s busiest airport.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-09/jetstar-plane-narrowly-avoids-collision-at-sydney-airport",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-09 08:36",
+   "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+   "summary": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.3
+  },
   {
    "cat": "sector",
    "time": "2026-08-09 01:41",
@@ -13,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.3
+   "heat": 226.2
   },
   {
    "cat": "sector",
@@ -27,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.2
+   "heat": 226.1
   },
   {
    "cat": "sector",
@@ -41,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.9
+   "heat": 225.8
   },
   {
    "cat": "sector",
@@ -55,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.8
+   "heat": 225.6
   },
   {
    "cat": "sector",
@@ -69,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.6
+   "heat": 225.5
   },
   {
    "cat": "sector",
@@ -83,21 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 20:22",
-   "title": "Ceuta Migrant Surge Exposes Morocco’s Economic Strain",
-   "summary": "More than 70,000 people, mostly Moroccans, crossed into Spain’s North African enclave of Ceuta in a mass migration surge fueled by economic frustration and amplified by social medi…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-08/ceuta-migrant-surge-exposes-morocco-s-economic-strain-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 238.4
+   "heat": 225.5
   },
   {
    "cat": "sector",
@@ -111,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.3
+   "heat": 225.2
   },
   {
    "cat": "sector",
@@ -125,21 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 19:55",
-   "title": "AI and job losses: How the next automation wave will impact the workforce",
-   "summary": "Recent tech layoffs have raised alarms for workers. But multiple studies find that the wave driven by AI looks very different from past automation cycles.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/ai-and-job-losses-how-the-next-automation-wave-will-impact-the-workforce.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 238.3
+   "heat": 225.2
   }
  ]
 }
