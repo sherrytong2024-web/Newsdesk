@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10 03:49",
+ "updated": "2026-08-10 06:02",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.1
+   "heat": 70.7
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.0
+   "heat": 46.6
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.8
+   "heat": 38.5
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.1
+   "heat": 32.0
   },
   {
    "cat": "macro",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.2
+   "heat": 30.8
   },
   {
    "cat": "macro",
@@ -153,7 +153,7 @@
      "t": "agg"
     }
    ],
-   "heat": 28.0
+   "heat": 27.7
   },
   {
    "cat": "macro",
@@ -167,7 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 22.9
+   "heat": 22.5
   },
   {
    "cat": "macro",
@@ -181,7 +181,7 @@
      "t": "agg"
     }
    ],
-   "heat": 22.1
+   "heat": 22.0
   },
   {
    "cat": "macro",
@@ -213,6 +213,90 @@
   },
   {
    "cat": "sector",
+   "time": "2026-08-10 05:41",
+   "title": "Hormuz Deal Remains Elusive, Trump Displays Patience, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-09/hormuz-deal-remains-elusive-trump-displays-patience-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-10 05:30",
+   "title": "Mideast conflict: Hormuz Deal Remains Elusive as Iran Rejects Direct US Talks",
+   "summary": "Get caught up.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-09/mideast-conflict-hormuz-deal-remains-elusive-as-iran-rejects-direct-us-talks",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-10 05:00",
+   "title": "China Bets on AI Stocks as It Races Against US for Chip, Tech Dominance",
+   "summary": "The strategy marks a break from Beijing’s reliance on subsidies and state funding.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-10 05:00",
+   "title": "Australian Wheat Crop Rebounds at Crucial Time for Global Supply",
+   "summary": "Prospects for Australia’s upcoming wheat crop are turning more optimistic, helping to buffer an increasingly grim global supply outlook for the grain.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-09/australian-wheat-crop-rebounds-at-crucial-time-for-global-supply",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-10 04:00",
+   "title": "McKinsey CFO Has a Warning on AI Costs: CFO Briefing",
+   "summary": "“There is no way that I can afford for it to go up between now and next July the same way that it went up this year,” Yuval Atsmon said.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-09/mckinsey-cfo-has-a-warning-on-ai-costs-cfo-briefing",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-10 03:01",
+   "title": "AI Spending is Slowing Down. How Will the S&P 500 React? - CryptoRank",
+   "summary": "AI Spending is Slowing Down. How Will the S&P 500 React? &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YQzJ5VmJRa1EzUUIxSjJZMjZzSkxteERUdnk1R2dSMV9neTFSMjU0S1ZGUFNmSGdLT3IyNmNrNG80WFhjeVFQWWpwZEYzdzZPN0R2cVpmTXl4SWhRNUtWc3hMVHFodTNMQmpyN0w3RkRIZ0xVeFBNcTdkclRPV2s?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.5
+  },
+  {
+   "cat": "sector",
    "time": "2026-08-10 02:38",
    "title": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
    "summary": "Rep. Max Miller is set to remain the Republican nominee in Ohio’s 7th District after the window for the GOP to replace him on the November ballot closed.",
@@ -223,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.8
+   "heat": 231.4
   },
   {
    "cat": "sector",
@@ -237,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.7
+   "heat": 231.4
   },
   {
    "cat": "sector",
@@ -251,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.7
+   "heat": 231.4
   },
   {
    "cat": "sector",
@@ -265,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.2
+   "heat": 230.8
   },
   {
    "cat": "sector",
@@ -279,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.8
+   "heat": 230.4
   },
   {
    "cat": "sector",
@@ -293,21 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-09 20:01",
-   "title": "Barrick Chairman's Planned Overhaul Meets Investor Backlash",
-   "summary": "John Thornton appeared ready last year to step down as chairman of Barrick Mining Corp. after a turbulent 12-year tenure. Instead, he seized control from his long-time CEO and is n…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-09/goldman-veteran-s-plan-to-split-barrick-runs-into-opposition",
-     "t": "sec"
-    }
-   ],
-   "heat": 218.7
+   "heat": 230.3
   },
   {
    "cat": "sector",
@@ -321,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.6
+   "heat": 230.2
   },
   {
    "cat": "sector",
@@ -335,77 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-09 14:14",
-   "title": "Typhoon Dolphin Makes Landfall in East China After Red Alert",
-   "summary": "Typhoon Dolphin made two landfalls in eastern China on Sunday evening after Beijing issued its highest storm alert, with more than 1,000 flights canceled and some rail services sus…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-09/china-issues-red-alert-airports-cancel-flights-as-typhoon-nears",
-     "t": "sec"
-    }
-   ],
-   "heat": 217.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-09 08:36",
-   "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
-   "summary": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 216.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-09 01:41",
-   "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
-   "summary": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-09 01:25",
-   "title": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
-   "summary": "\"The cancer has spread, is metastasized into his bones and further. It's very painful. It's very debilitating in many respects,\" Hunter Biden said.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 20:00",
-   "title": "Cyclospora fears lead consumers to lose their appetite for salads",
-   "summary": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 214.7
+   "heat": 229.9
   },
   {
    "cat": "stock",
@@ -419,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 138.7
+   "heat": 130.3
   },
   {
    "cat": "stock",
@@ -433,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 132.0
+   "heat": 124.0
   },
   {
    "cat": "stock",
@@ -447,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 132.0
+   "heat": 124.0
   },
   {
    "cat": "stock",
@@ -461,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 132.0
+   "heat": 124.0
   },
   {
    "cat": "stock",
@@ -475,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.9
+   "heat": 90.5
   },
   {
    "cat": "stock",
@@ -489,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.1
+   "heat": 86.7
   },
   {
    "cat": "stock",
@@ -503,7 +503,21 @@
      "t": "sec"
     }
    ],
-   "heat": 82.3
+   "heat": 86.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-09 21:20",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4847756",
+     "t": "agg"
+    }
+   ],
+   "heat": 84.5
   },
   {
    "cat": "stock",
@@ -517,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 78.9
+   "heat": 82.5
   },
   {
    "cat": "stock",
@@ -531,35 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 78.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-09 08:39",
-   "title": "Berkshire Q2 Earnings, Iran: Conditions Must Be Met, More",
-   "summary": "Source: Bloomberg, 5:36",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-09/berkshire-q2-earnings-iran-conditions-must-be-met-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 76.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-09 07:14",
-   "title": "Berkshire Hathaway Q2 Earnings, Iran: Hormuz Deal Close, More",
-   "summary": "Source: Bloomberg, 6:06",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-08/berkshire-hathaway-q2-earnings-iran-hormuz-deal-close-more-mskzqpis",
-     "t": "sec"
-    }
-   ],
-   "heat": 76.6
+   "heat": 82.3
   },
   {
    "cat": "stock",
@@ -573,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 80.0
   },
   {
    "cat": "stock",
@@ -587,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 80.0
   },
   {
    "cat": "stock",
@@ -601,7 +587,49 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 80.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-06 01:21",
+   "title": "China’s Green Jet Fuel Expansion Raises Pressure on Global Feedstock Supply",
+   "summary": "China’s Green Jet Fuel Expansion Raises Pressure on Global Feedstock Supply &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUx4elUyeHEzWUlkTnk2YzEzbEhmZXVMNzFWY1BiLXQyeXBncjdJNnNpelBmZHBaUmczZjhoNmwzWVVOSzFfZHBDNDhOU3QxaDhvLUU1ZGY4aEE2NG9xRUZqYTNfVG5wSXJSZkM3MlhzLWNzR3ktYmtabmZFTUVSMHlMUWFUazdjaGQwQ3M0WkNhZjBvOU53MjFOaWpoNHk3MGpBVkFsRzU0QlNQVmpGOTdhRFdKb016UnNaTEpNYWVlZzZSZEMxWQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 80.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-05 23:57",
+   "title": "US Stocks Open Higher: S&P 500, Nasdaq, Dow Jones Post Early Gains - CryptoRank",
+   "summary": "US Stocks Open Higher: S&P 500, Nasdaq, Dow Jones Post Early Gains &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTFHcVlCUU5tZXBYZTcxODM4X1l4MFJXQnlNZ1ZfMzVmTG9DaVVyTTZaUWhRcVpkN2w0RElzaDQ0X09hVUJkMGZERVM5eG43M2RsdEpLU3R3VVRTdGptaG1JNTJwSWNmTlFlTzdJSzMwWFBSUkp2UkI5RW50S3hrc3FOaUtLRVEtM0E?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 80.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-10 05:00",
+   "title": "Aussie-Yen Is Set to Approach Three-Decade High, Analysts Say",
+   "summary": "The Australian dollar is poised to climb back toward a 35-year high against the yen as the impact of Tokyo’s currency intervention fades and the Reserve Bank of Australia’s hawkish…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-09/aussie-yen-is-set-to-approach-three-decade-high-analysts-say",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.8
   },
   {
    "cat": "global",
@@ -615,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 40.0
   },
   {
    "cat": "global",
@@ -629,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 40.0
   },
   {
    "cat": "global",
@@ -643,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.2
+   "heat": 36.0
   },
   {
    "cat": "global",
@@ -657,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 36.0
   },
   {
    "cat": "global",
@@ -671,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 28.0
+   "heat": 32.0
   },
   {
    "cat": "global",
@@ -685,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 28.0
+   "heat": 32.0
   },
   {
    "cat": "global",
@@ -699,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 26.0
+   "heat": 30.0
   },
   {
    "cat": "global",
@@ -713,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 20.0
+   "heat": 24.0
   },
   {
    "cat": "global",
@@ -797,21 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 18.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-05 15:00",
-   "title": "US Market Pulse August 2026 - Goldman Sachs Asset Management",
-   "summary": "US Market Pulse August 2026 &nbsp;&nbsp; Goldman Sachs Asset Management",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 16.0
+   "heat": 18.4
   },
   {
    "cat": "crypto",
@@ -825,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 99.6
+   "heat": 103.2
   },
   {
    "cat": "crypto",
@@ -839,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.9
+   "heat": 98.6
   },
   {
    "cat": "crypto",
@@ -853,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.2
+   "heat": 70.8
   },
   {
    "cat": "crypto",
@@ -867,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.8
+   "heat": 67.4
   },
   {
    "cat": "crypto",
@@ -881,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.9
+   "heat": 66.5
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.2
+   "heat": 65.9
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.7
+   "heat": 63.3
   },
   {
    "cat": "crypto",
@@ -923,7 +937,21 @@
      "t": "sec"
     }
    ],
-   "heat": 59.3
+   "heat": 62.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-08 21:03",
+   "title": "CFTC Data Shows S&P 500 Net Speculative Positions Slip Further into Negative Territory - CryptoRank",
+   "summary": "CFTC Data Shows S&P 500 Net Speculative Positions Slip Further into Negative Territory &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85TWNBT21KeUdMeTFmZ1JjTUtMUThaVmE4ZkNNb3hZZi1YMC16T0pwdF9HamJVbmNLdmpwRDUtTXN0RmRXMVlJY3dUdy1wZ0hCaGUwZ25WVjVMTFpkYTEzWUlYZ1FWcXhiUmJ0amh2SWZPcHp5Nl83VGtn?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 62.5
   },
   {
    "cat": "crypto",
@@ -937,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.9
+   "heat": 62.5
   },
   {
    "cat": "crypto",
@@ -951,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.2
+   "heat": 61.8
   },
   {
    "cat": "crypto",
@@ -965,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.3
+   "heat": 60.0
   },
   {
    "cat": "crypto",
@@ -979,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 60.0
   },
   {
    "cat": "crypto",
@@ -993,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 60.0
   },
   {
    "cat": "crypto",
@@ -1007,21 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-09 05:17",
-   "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
-   "summary": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 52.2
+   "heat": 60.0
   },
   {
    "cat": "sector",
@@ -1035,21 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 213.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-09 13:41",
-   "title": "CEVA earnings on deck: Can licensing sustain royalty wait?",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/earnings/ceva-earnings-on-deck-can-licensing-sustain-royalty-wait-93CH-4847747",
-     "t": "agg"
-    }
-   ],
-   "heat": 75.6
+   "heat": 224.7
   }
  ]
 }
