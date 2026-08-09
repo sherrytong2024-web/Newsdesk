@@ -1,6 +1,20 @@
 {
- "updated": "2026-08-09 12:43",
+ "updated": "2026-08-09 16:09",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-09 14:14",
+   "title": "China Issues Red Alert, Airports Cancel Flights as Typhoon Nears",
+   "summary": "China issued its highest storm alert in preparation for approaching Typhoon Dolphin as more than 1,000 flights were canceled and some rail services were suspended.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-09/china-issues-red-alert-airports-cancel-flights-as-typhoon-nears",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.7
+  },
   {
    "cat": "sector",
    "time": "2026-08-09 09:59",
@@ -13,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.5
+   "heat": 227.0
   },
   {
    "cat": "sector",
@@ -27,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.3
+   "heat": 226.7
   },
   {
    "cat": "sector",
@@ -41,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 226.2
+   "heat": 225.6
   },
   {
    "cat": "sector",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 226.1
+   "heat": 225.5
   },
   {
    "cat": "sector",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 225.8
+   "heat": 225.2
   },
   {
    "cat": "sector",
@@ -83,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 225.6
+   "heat": 225.1
   },
   {
    "cat": "sector",
@@ -97,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 225.5
+   "heat": 224.9
   },
   {
    "cat": "sector",
@@ -111,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 225.5
+   "heat": 224.9
   },
   {
    "cat": "sector",
@@ -125,21 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 225.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-08 20:00",
-   "title": "Cyclospora fears lead consumers to lose their appetite for salads",
-   "summary": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 225.2
+   "heat": 224.6
   }
  ]
 }
