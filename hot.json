@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-10 13:10",
+ "updated": "2026-08-10 18:40",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-08-10 13:00",
-   "title": "Iran Shakes Up Security Team Claiming Oman Deal ‘Close’",
-   "summary": "Iran promoted a hard-line ex-commander as its top security official, shaking up its highest decision-making body on national defense after saying it was “very close” to a deal with…",
+   "time": "2026-08-10 18:29",
+   "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand",
+   "summary": "TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-10/iran-shakes-up-security-team-claiming-oman-deal-close-video",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
      "t": "sec"
     }
    ],
@@ -17,8 +17,78 @@
   },
   {
    "cat": "sector",
-   "time": "2026-08-10 12:24",
-   "title": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall",
+   "time": "2026-08-10 18:38",
+   "title": "This sports retailer's turnaround is just getting started, Wells Fargo says",
+   "summary": "Wells Fargo's price target for Dick's Sporting Goods implies 15% upside from Friday's close, a new analyst note shows.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/10/this-sports-retailers-turnaround-is-just-beginning-wells-fargo-says.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 244.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-10 18:30",
+   "title": "Richer Milk, Cheaper Feed: Why Dairy Farms Are Turning to High-Oleic Soybeans",
+   "summary": "High-oleic soybeans&nbsp;gain traction as dairy feed, giving US growers a new market as exports get caught in&nbsp;trade war.&nbsp;",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/features/2026-08-10/richer-milk-cheaper-feed-why-dairy-farms-are-turning-to-high-oleic-soybeans",
+     "t": "sec"
+    }
+   ],
+   "heat": 244.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-10 18:17",
+   "title": "Storms from Typhoon Dolphin soak China's east, ground nearly 950 Shanghai flights",
+   "summary": "Torrential rain and storms in Typhoon Dolphin's wake inundated several provinces in China's east, drenching the coastal region and flooding streets in Shanghai.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/09/typhoon-dolphin-set-to-hit-chinas-east-coast-triggering-flood-warnings.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-10 18:00",
+   "title": "Meta Releases Muse Glimmer AI Model People Can Run on Their Laptop",
+   "summary": "Meta Platforms Inc. introduced a new AI model that’s light enough to run on a single computer, allowing users to download and customize the technology.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-10/meta-releases-muse-glimmer-ai-model-people-can-run-on-their-laptop",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-10 17:52",
+   "title": "Record-Low Danube Strains Vital Route for Black Sea Grain",
+   "summary": "Black Sea grain exports are facing fresh constraints as record-low Danube levels restrict flows through Romania just as escalating Russian strikes divert Ukrainian grain from Odesa…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-10/record-low-danube-strains-vital-route-for-black-sea-grain",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-10 17:33",
+   "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
    "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
    "srcs": [
     {
@@ -27,119 +97,49 @@
      "t": "sec"
     }
    ],
-   "heat": 247.9
+   "heat": 243.8
   },
   {
    "cat": "sector",
-   "time": "2026-08-10 12:17",
-   "title": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
-   "summary": "Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not be coming anytime soon.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-10 11:38",
-   "title": "Tech Brief (Aug. 10): ByteDance Accepts AI Gap, Sticks With In-House Models",
-   "summary": "Tech Brief (Aug. 10): ByteDance Accepts AI Gap, Sticks With In-House Models &nbsp;&nbsp; Caixin Global",
+   "time": "2026-08-10 17:17",
+   "title": "Analysis: China’s Offshore Trust Tax Overhaul Puts Tycoons on Notice",
+   "summary": "Analysis: China’s Offshore Trust Tax Overhaul Puts Tycoons on Notice &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzlnTjgtRHFSTEFqTEtUYjlCaV9Wc1hsTk1HNVVVNDVaVzZRcjZuWmF0ZW5zNDFRalZfcm5xU05ycE9iRzVkQThrRnU3Yjl5b0ZnOUs2WUptanRvUlhwMVBuMWQ5RGtvV2hOazRsMXNFVGU0bkh6N3BOYW81RmNwek9oTVNrY09UUUlDbm9iUHNKS1J3ZzR3N0FFdnNrVERoQVpNMnRuTjFhRUlLMmMzSlU1ODItTFFOUElDRDFKSm1IWUk?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVJ2ZFN4Ylo0dGluZkhFNjRpellJQ085MDZYR1BIaklXMXducXRnSFZobG1mc21wQjE4Z3pFSHFFRDdUYlhoWWExeXN4QWE5QlRGMmo3OHFlWWlpRWdZdTNQdnFHVDJ4SUh1U0NFaHptY0wzb3E0S0M0QzZ3WFgyMW9SVzF6WVRVTjJMbVlsV1dVaW83Qnk1LVFYcGlNTGV5RVZsbmlxQnFldGxmbF9OdlIwNzFOTzJUdTNVTURn?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 247.7
+   "heat": 243.8
   },
   {
    "cat": "sector",
-   "time": "2026-08-10 11:31",
-   "title": "Hormuz Deal Elusive; Wall Street Sees Bond-Market Angst | The Asia Trade 8/10/2026",
-   "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Hai…",
+   "time": "2026-08-10 17:13",
+   "title": "Horizons Middle East & Africa 8/10/2026",
+   "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-10/the-asia-trade-8-10-2026-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-10/horizons-middle-east-africa-8-10-2026-video",
      "t": "sec"
     }
    ],
-   "heat": 247.7
+   "heat": 243.8
   },
   {
    "cat": "sector",
-   "time": "2026-08-10 11:23",
-   "title": "Wheat Hits Highest in a Week on Supply Disruptions in Black Sea",
-   "summary": "US wheat futures jumped to the highest in more than a week, as disruptions to shipping in the Black Sea raised the prospect of supply shortages from the crucial grain-growing regio…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-10/wheat-hits-highest-week-supply-disruptions-black-sea",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-10 10:46",
-   "title": "Sony, TSMC to Invest $6.4 Billion in Japanese Sensor Plant",
-   "summary": "Sony Group Corp. and Taiwan Semiconductor Manufacturing Co. are in talks to spend a combined ¥1 trillion ($6.4 billion) on their planned image sensor factory in Japan, according to…",
+   "time": "2026-08-10 16:54",
+   "title": "TSMC Sales Rise as AI Hardware Demand Stays Strong",
+   "summary": "TSMC reported a 45% rise in its monthly sales, a sign of sustained demand for AI hardware in the face of market volatility. Bloomberg's Neil Campling has more. (Source: Bloomberg)",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-10/sony-tsmc-to-invest-6-4-billion-in-joint-chip-plant-in-japan",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-10/tsmc-sales-rise-as-ai-hardware-demand-stays-strong-video",
      "t": "sec"
     }
    ],
-   "heat": 247.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-10 09:39",
-   "title": "Oil Gains as Iran Deal Eludes, Trump Displays Patience, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-10/oil-gains-as-iran-deal-eludes-trump-displays-patience-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-10 09:00",
-   "title": "India’s UPI Payments Developer Targets Diaspora For Growth",
-   "summary": "The operator of India’s ubiquitous mobile payments network plans to tap the country’s vast overseas diaspora as a springboard for global expansion, aiming to make the platform a pr…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-10/india-s-upi-payments-developer-targets-diaspora-for-growth",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-10 08:58",
-   "title": "Hormuz Deal Remains Elusive, US Patient Approach, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-10/hormuz-deal-remains-elusive-us-patient-approach-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.3
+   "heat": 243.7
   }
  ]
 }
