@@ -1,75 +1,61 @@
 {
- "updated": "2026-08-12 04:11",
+ "updated": "2026-08-12 07:22",
  "items": [
   {
    "cat": "macro",
-   "time": "2026-08-12 03:40",
-   "title": "Fed Expected to Keep Raising Rates Until Inflation Cools",
-   "summary": "Kelsey Berro, Fixed Income Portfolio Manager at JPMorgan Asset Management, discussed the Federal Reserve's challenging position amid recent disinflationary signals. Despite expecta…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-11/fed-expected-to-keep-raising-rates-until-inflation-cools-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 79.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-12 03:25",
-   "title": "Strategist Weighs September Fed Hike Amid Mixed Data",
-   "summary": "Laureline Renauc-Chatelain, fixed income strategy lead at Pictet Wealth Management, discussed the likelihood of a Federal Reserve rate hike in September. She noted that the recent …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-11/strategist-weighs-september-fed-hike-amid-mixed-data-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-12 04:01",
-   "title": "Former Hedge Fund CFO Pleads Guilty to Embezzling $3 Million",
-   "summary": "The former chief financial officer of a Miami Beach hedge fund admitted he embezzled more than $3 million over four years at the firm, approving phony invoices and using corporate …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-11/former-hedge-fund-cfo-pleads-guilty-to-embezzling-3-million",
-     "t": "sec"
-    }
-   ],
-   "heat": 48.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-12 02:34",
-   "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
-   "summary": "The consumer price index is expected to show only a modest increase for July.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-12 00:50",
-   "title": "Stefan Dziarski on Permira’s Quick Return From BioCatch Sale",
-   "summary": "Sale of fraud detection specialist to Visa was buyout firm’s fifth strategic exit of the year.",
+   "time": "2026-08-12 07:04",
+   "title": "Commonwealth Bank’s results, interest rates on hold, New Zealand PM",
+   "summary": "Get caught up.",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-11/stefan-dziarski-on-permira-s-quick-return-from-biocatch-sale",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-11/commonwealth-bank-s-results-interest-rates-on-hold-new-zealand-pm",
      "t": "sec"
     }
    ],
-   "heat": 47.4
+   "heat": 47.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-12 07:00",
+   "title": "Korea Sovereign Wealth Fund to Join Global Race for AI, Robotics",
+   "summary": "South Korea expects to deploy more than 1 trillion won ($707 million) of fresh capital into a new sovereign wealth fund targeting AI and other strategic industries next year, joini…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-11/korea-sovereign-wealth-fund-to-join-global-race-for-ai-robotics",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-12 04:30",
+   "title": "Una estrategia para eludir impuestos creó el mayor hedge fund del mundo",
+   "summary": "AQR, de Cliff Asness, potenció la cosecha de pérdidas fiscales, eliminando las facturas del IRS para los más ricos.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/features/2026-aqr-reducir-impuestos-multimillonarios/",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-12 02:05",
+   "title": "Democrats clash again in Minnesota and Wisconsin primaries as big midterm races take shape",
+   "summary": "In Minnesota, progressive Lt. Gov. Peggy Flanagan and moderate Democratic Rep. Angie Craig are competing for the nomination to succeed the retiring Sen. Tina Smith.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/11/minnesota-wisconsin-primaries-hong-flanagan-craig-run-in-key-races.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.1
   },
   {
    "cat": "macro",
@@ -83,21 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-11 22:45",
-   "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
-   "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.1
+   "heat": 46.8
   },
   {
    "cat": "macro",
@@ -111,7 +83,7 @@
      "t": "agg"
     }
    ],
-   "heat": 45.6
+   "heat": 45.1
   },
   {
    "cat": "macro",
@@ -125,21 +97,35 @@
      "t": "agg"
     }
    ],
-   "heat": 44.8
+   "heat": 44.3
   },
   {
    "cat": "macro",
-   "time": "2026-08-11 19:08",
-   "title": "Oil Futures Rise Gradually Amid the Strategic Truce of the Middle East War",
-   "summary": "",
+   "time": "2026-08-11 06:29",
+   "title": "Google Team Tells Applicants Its HR Filters Are Unreliable",
+   "summary": "Alphabet Inc.’s Google pitches its artificial intelligence tools to corporate clients as a way to more quickly sift through a mountain of job applications to find the most promisin…",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-futures-rise-gradually-amid-the-strategic-truce-of-the-middle-east-war-200685607",
-     "t": "agg"
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable",
+     "t": "sec"
     }
    ],
-   "heat": 44.5
+   "heat": 43.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-10 15:00",
+   "title": "Is the S&P 500's Concentrated Rally Starting to Diversify? - CME Group",
+   "summary": "Is the S&P 500's Concentrated Rally Starting to Diversify? &nbsp;&nbsp; CME Group",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRFpWR2p2MWk3VUFmSFFLaFpsQmV4SnJ3X0V1OWFfZW4zbi1zSnpnaWNZZEJzQnAxS245dU9XLWZSbVFPWlVadWwwT3h3YVVHekM4dVFzd2xIWmtNdzJHT3JDOE9YUXFiTTYwWHhWc3RBX0V2d1VBV2w0eVFfZFpBUTIydmh4ejBrWW12T0dWajZtZ0RKeFp6eTdocUZQUmRrOFBCbFpPeWgzczBTby1JcUZCOFU1QQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 41.3
   },
   {
    "cat": "macro",
@@ -157,45 +143,59 @@
   },
   {
    "cat": "macro",
-   "time": "2026-08-12 03:48",
-   "title": "July CPI Crucial as Inflation Rebound Concerns Rise",
-   "summary": "Barclays US economist Pooja Sriram discussed expectations for the upcoming July Consumer Price Index (CPI) report, emphasizing that the recent softer inflation reading in June is l…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-11/july-cpi-crucial-as-inflation-rebound-concerns-rise-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 31.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-12 03:33",
-   "title": "Unpriced Food Inflation Threatens Volatile Bond Market",
-   "summary": "Marie-Anne Allier, Fixed Income Fund Manager at Carmignac Gestion, discussed the current challenges facing bond markets amid rising energy prices and geopolitical tensions involvin…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-11/unpriced-food-inflation-threatens-volatile-bond-market-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 31.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-12 02:23",
-   "title": "Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds",
-   "summary": "Credit card balances are ticking higher midway through the year, according to a new report on household debt from the Federal Reserve Bank of New York.",
+   "time": "2026-08-12 02:34",
+   "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
+   "summary": "The consumer price index is expected to show only a modest increase for July.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html",
+     "u": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
      "t": "sec"
     }
    ],
-   "heat": 31.7
+   "heat": 23.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-12 06:07",
+   "title": "Asian Stocks to Slip With US CPI, Iran in Focus: Markets Wrap",
+   "summary": "Asian stocks were poised to follow Wall Street lower as traders held back from riskier bets ahead of key inflation data and remained wary over US-Iran developments.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-11/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 19.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-12 03:01",
+   "title": "Gold: Renewed Tensions May Increase Energy-Driven Inflation and Prompt a Sell-Off",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-renewed-tensions-may-increase-energydriven-inflation-and-prompt-a-selloff-200685641",
+     "t": "agg"
+    }
+   ],
+   "heat": 17.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-12 03:12",
+   "title": "Investors poured $2.3 billion into this riskier corner of the bond market in July",
+   "summary": "Investors are drawn to collateralized loan obligations for their attractive yields.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/11/investors-poured-2point3-billion-into-this-riskier-corner-of-the-bond-market-in-july.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 15.3
   },
   {
    "cat": "macro",
@@ -209,189 +209,217 @@
      "t": "sec"
     }
    ],
-   "heat": 31.7
+   "heat": 15.1
   },
   {
    "cat": "sector",
-   "time": "2026-08-12 03:26",
-   "title": "Nvidia Can’t Solve the Two Big AI Buildout Problems",
-   "summary": "Scarcity and profit margin.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-11/nvidia-can-t-solve-the-two-big-ai-buildout-problems",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-11 22:11",
-   "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-   "summary": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-12 04:09",
-   "title": "S&P 500 posts back-to-back losses, weighed down by tech sell-off and Iran uncertainty: Live updates",
-   "summary": "Hopes among investors that the the Strait of Hormuz would reopen faltered Tuesday.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 260.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-12 03:44",
-   "title": "Athena Capital Sees Opportunities in AI Infrastructure",
-   "summary": "Isabelle Freidheim, Founder and Managing Partner at Athena Capital, discusses investment opportunities in the AI sector, emphasizing that much of the AI model layer has already bee…",
+   "time": "2026-08-12 07:00",
+   "title": "Peak Memory Fears Put Focus on Samsung, SK Hynix Cash Returns",
+   "summary": "Memory-chip makers may have found a new defense against the inevitable cooling of their boom: giving more cash back to shareholders.",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-11/athena-capital-sees-opportunities-in-ai-infrastructure-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-11/peak-memory-fears-put-focus-on-samsung-sk-hynix-cash-returns",
      "t": "sec"
     }
    ],
-   "heat": 259.9
+   "heat": 279.9
   },
   {
    "cat": "sector",
-   "time": "2026-08-12 03:41",
-   "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
-   "summary": "Longtime OpenAI executive Brad Lightcap announced his departure on Tuesday, the latest in a series of recent leadership shake-ups at the company.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 259.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-12 03:34",
-   "title": "'Brave New World' With AI Tied To Hacks: Ledger's Rogers",
-   "summary": "Ian Rogers, chief human agency officer at Ledger, joins Isabelle Lee and Tim Stenovec on \"Bloomberg Crypto.\" The crypto community is reeling from a breach involving Coldcard wallet…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-11/-brave-new-world-with-ai-tied-to-hacks-ledger-s-rogers-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 259.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-12 03:25",
-   "title": "EToro Announces Deal to Buy TradeZero in Boost to US Presence",
-   "summary": "Yoni Assia, co-founder and CEO of eToro, said that his company bought brokerage TradeZero to expand their presence in the United States and not have to build it from the ground up.…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-11/etoro-announces-deal-to-buy-tradezero-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 259.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-12 03:15",
-   "title": "Inside Active: Moerus’ Wadhwaney on Asset-Based Value Investing",
-   "summary": "Value investing often means looking past near-term problems to determine whether a company is temporarily impaired or permanently damaged. In this episode of Inside Active, host Da…",
+   "time": "2026-08-12 06:51",
+   "title": "Pakistan Says Iran Deal Near, Coreweave Beats on AI Demand",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-11/inside-active-moerus-wadhwaney-on-asset-based-value-investing",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-11/pakistan-says-iran-deal-near-coreweave-beats-on-ai-demand",
      "t": "sec"
     }
    ],
-   "heat": 259.8
+   "heat": 279.9
   },
   {
    "cat": "sector",
-   "time": "2026-08-12 03:11",
-   "title": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met",
-   "summary": "U.S. oil had risen as much as 3% earlier in the day after President Donald Trump demanded that Iran pay reparations to the U.S.",
+   "time": "2026-08-12 06:42",
+   "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
+   "summary": "The deal follows years of global automotive supply chain issues for GM and other companies.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
+     "u": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
      "t": "sec"
     }
    ],
-   "heat": 259.8
+   "heat": 279.9
   },
   {
    "cat": "sector",
-   "time": "2026-08-12 03:08",
-   "title": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure",
-   "summary": "Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic",
+   "time": "2026-08-12 06:04",
+   "title": "Latest Oil Market News and Analysis for Aug. 12",
+   "summary": "Oil held a four-day gain as traders monitored efforts to reach a deal that could help restore energy flows through the Strait of Hormuz.",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-11/latest-oil-market-news-and-analysis-for-aug-12",
      "t": "sec"
     }
    ],
-   "heat": 259.8
+   "heat": 279.8
   },
   {
    "cat": "sector",
-   "time": "2026-08-12 02:55",
-   "title": "Premium perks with no annual fee: These cards offer airport lounge access, travel insurance and more for no yearly cost",
-   "summary": "You don't have to spend $700+ a year on a credit card to get into airport lounges or save with primary rental car insurance.",
+   "time": "2026-08-12 06:00",
+   "title": "Blackstone Strikes $1.8 Billion Deal for Air Canada Loyalty Unit",
+   "summary": "Blackstone Inc. and a group of Canadian pension funds are buying a 25% stake in Air Canada’s Aeroplan loyalty program for C$2.5 billion ($1.8 billion).",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/select/luxury-credit-card-benefits-with-no-annual-fee/",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-11/blackstone-leads-1-8-billion-air-canada-loyalty-plan-stake-deal",
      "t": "sec"
     }
    ],
-   "heat": 259.8
+   "heat": 279.8
   },
   {
    "cat": "sector",
-   "time": "2026-08-12 02:49",
-   "title": "Crypto Hacks Easier With AI: Ledger's Rogers",
-   "summary": "Ian Rogers, chief human agency officer at Ledger, joins Isabelle Lee and Tim Stenovec on \"Bloomberg Crypto.\" The crypto community is reeling from a breach involving Coldcard wallet…",
+   "time": "2026-08-12 06:00",
+   "title": "The Chinese AI Model Rattling Silicon Valley and Washington",
+   "summary": "A new Chinese AI model is sending shockwaves through Silicon Valley and Washington. Today on Big Take Asia: What Moonshot’s controversial Kimi K3 means for the future of the global…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-11/the-chinese-ai-model-rattling-silicon-valley-and-washington",
+     "t": "sec"
+    }
+   ],
+   "heat": 279.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-12 05:52",
+   "title": "Redpoint’s Brescia on Nvidia’s $500B Funding, AI Capex",
+   "summary": "Erica Brescia, Managing Director at Redpoint Ventures, discussed Super Micro's robust business model and strong market position during the segment. Despite recent volatility, Super…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-11/crypto-hacks-easier-with-ai-ledger-s-rogers-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-11/redpoint-s-brescia-on-nvidia-s-500b-funding-ai-capex-video",
      "t": "sec"
     }
    ],
-   "heat": 259.8
+   "heat": 279.7
   },
   {
    "cat": "sector",
-   "time": "2026-08-12 02:09",
-   "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-   "summary": "The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.",
+   "time": "2026-08-12 05:39",
+   "title": "Bloomberg Businessweek Daily: US, Iran Harden Stances (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-11/bloomberg-businessweek-daily-us-iran-harden-stances-podcast",
      "t": "sec"
     }
    ],
-   "heat": 259.7
+   "heat": 279.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-12 05:36",
+   "title": "Trump administration ends Medicaid, CHIP funding for gender-affirming care for children",
+   "summary": "Federal dollars in the two health insurance programs would not go toward gender-affirming care, but states could still cover the treatments.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/11/trump-medicaid-chip-funding-gender-affirming-care-children.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 279.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-12 05:34",
+   "title": "Pakistan Says Deal Is Close Even as Iran, US Harden Stances",
+   "summary": "Pakistan’s defense minister said the US and Iran are “close to some sort of arrangement” over the Strait of Hormuz, even after both sides appeared to toughen their positions in the…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-11/iran-hormuz-strait-to-remain-shut-until-conditions-met-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 279.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-12 05:24",
+   "title": "Deep Dive Into The US' Critical Minerals Investment",
+   "summary": "Bloomberg Senior Economic Statecraft Reporter Joe Deaux joins Tim Stenovec and Kristine Aquino for a one-hour special of Businessweek Daily to answer all your questions about rare …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-11/deep-dive-into-the-us-critical-minerals-investment-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 279.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-12 05:20",
+   "title": "Blackstone Nears $2 Billion Stake in Air Canada’s Aeroplan Loyalty Program",
+   "summary": "Plus: RBC and BMO sell a payments firm",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-11/blackstone-nears-2-billion-stake-in-air-canada-s-aeroplan-loyalty-program",
+     "t": "sec"
+    }
+   ],
+   "heat": 279.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-12 05:01",
+   "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+   "summary": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 279.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-12 07:00",
+   "title": "Global Investors Favor Taiwan Over Korea Stocks After AI Selloff",
+   "summary": "Taiwanese stocks are gaining favor over South Korea’s on steadier earnings prospects, as the two AI-bellwether markets look to recover from July’s rout.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-11/global-investors-favor-taiwan-over-korea-stocks-after-ai-selloff",
+     "t": "sec"
+    }
+   ],
+   "heat": 111.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-12 05:46",
+   "title": "Upwork CEO on AI Disruption Concerns, Earnings Slide",
+   "summary": "Hayden Brown, CEO of Upwork, discusses the company's recent financial performance after its full-year forecast missed analyst estimates, leading to a significant drop in the stock …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-11/upwork-ceo-on-ai-disruption-concerns-earnings-slide-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 111.7
   },
   {
    "cat": "stock",
@@ -405,73 +433,101 @@
      "t": "sec"
     }
    ],
-   "heat": 105.4
+   "heat": 108.9
   },
   {
    "cat": "stock",
-   "time": "2026-08-07 04:35",
-   "title": "S&P 500 Ends Flat Despite Narrow Gains, Broader Market Struggles as Earnings Expectations Climb - TechStock²",
-   "summary": "S&P 500 Ends Flat Despite Narrow Gains, Broader Market Struggles as Earnings Expectations Climb &nbsp;&nbsp; TechStock²",
+   "time": "2026-08-12 07:00",
+   "title": "Singapore Exchange Eyes Single-Stock ETFs, Tie-ups for Growth",
+   "summary": "Singapore Exchange Ltd. is exploring offering a broader suite of exchange-traded funds and stepping up partnerships across markets as it seeks to bolster its position as Southeast …",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmd2SXEwblR6TUVROEVMenBoenM4R0ZoeGljOWNsSFllZk44akhBV3podVlJZU1lMDY1S015RkFxS1QwRXgzeGtqMjFGdElkc05nZ1htRHp6MWpRWXAtQVRrU0NWXzJQRWxjTVNyZGk3dTJneXJrSmhJRmtDcTBNeFFsSS1nem1XSGxqVmVubGNUVjdrb0J6OEJjOXlDbmlOWjVOelpSdnI1TVBtQmZGU3pYRFI?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-11/singapore-exchange-eyes-single-stock-etfs-tie-ups-for-growth",
      "t": "sec"
     }
    ],
-   "heat": 100.0
+   "heat": 99.9
   },
   {
    "cat": "stock",
-   "time": "2026-08-05 05:49",
-   "title": "US stocks: Dow, S&P 500 close at record on AI-linked earnings, Middle East deal hopes - The Business Times",
-   "summary": "US stocks: Dow, S&P 500 close at record on AI-linked earnings, Middle East deal hopes &nbsp;&nbsp; The Business Times",
+   "time": "2026-08-06 15:00",
+   "title": "How the Largest Stock ETFs in Canada Performed - Morningstar",
+   "summary": "How the Largest Stock ETFs in Canada Performed &nbsp;&nbsp; Morningstar",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWE9NWkpvdnFiNlpxeUlfYkJzTkxXOHZubGNraEVxM1c4V1BpcVc2SUFMZElYanozaTVXUDluU3JzNWRmMkcxRmdVRFBhWDV2ek13SnlZanN6OVhIVnNsZ1ZCZWQ4cWV0UWpZRzVXYXhLOGh6WmhhRDlTNHl3T0NFU3BwdHlmMmx5ZTdQYzZBZXQxd05iekJhWURpV19WRTUxVnF2UTFyNUFxd3pRLXNXYU9EZWJSSmhOeEdNcVB0T1NTNHdPaHdzMlp4THNpNXBSaFEzdFZHSmdHNmhuYlI0ZnNhX0lWVG9S?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNem93TEtPVHJya3hnT3YzNy1lSVM3eFZrV2VDMndHRXFSNENyODNOclZpNTVFbGw1WF8xRmtORHJiRHNBRF9HeTU5MGZBRExqQTNQWHdNb2lCNE9pakZpTFhuSnluWXVBV2lrczNnQmR0NjNtZG9YOWVCTWRTYTJ3Q0QxeFV0NWs1?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 100.0
+   "heat": 92.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-12 03:30",
-   "title": "Stock Movers: Apollo, Webtoon, Bending Spoons (Podcast)",
+   "time": "2026-08-12 06:51",
+   "title": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
+   "summary": "CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-12 05:21",
+   "title": "Stock Movers: Super Micro, CoreWeave, Cava (Podcast)",
    "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-11/stock-movers-apollo-webtoon-bending-spoons-podcast",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-11/stock-movers-super-micro-coreweave-cava-podcast",
      "t": "sec"
     }
    ],
-   "heat": 91.9
+   "heat": 91.7
   },
   {
    "cat": "stock",
-   "time": "2026-08-12 03:20",
-   "title": "Omers Returns 4.8% in 2026, Fueled by Stocks and US Dollar",
-   "summary": "Ontario Municipal Employees Retirement System returned 4.8% in the first half of the year, gaining C$6.9 billion ($5 billion) from a strong US dollar and rising stock market.",
+   "time": "2026-08-12 05:18",
+   "title": "Stocks making the biggest moves after hours: Super Micro Computer, CoreWeave, H&R Block and more",
+   "summary": "These are the stocks posting the largest moves in extended trading.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-11/omers-returns-4-8-in-first-half-fueled-by-stocks-and-us-dollar",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/11/stocks-making-the-biggest-moves-after-hours-smci-crwv-hrb.html",
      "t": "sec"
     }
    ],
-   "heat": 91.9
+   "heat": 91.7
   },
   {
    "cat": "stock",
-   "time": "2026-08-12 01:20",
-   "title": "Citadel Securities Says Prepare for a Reload on Levered Stock Bets",
-   "summary": "Systematic buyers are getting ready to load up on stocks again after a massive unwind, according to Citadel Securities.",
+   "time": "2026-08-12 04:55",
+   "title": "Stock Movers: Riot Platforms, eToro, Super Micro (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-11/citadel-securities-says-prepare-for-a-reload-on-levered-stock-bets",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-11/stock-movers-riot-platforms-etoro-super-micro-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-12 04:16",
+   "title": "Stocks Close Lower, 180 Dead, 3000 Missing in Colombia Quake",
+   "summary": "Source: Bloomberg, 6:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-11/stocks-close-lower-180-dead-3000-missing-in-colombia-quake",
      "t": "sec"
     }
    ],
@@ -489,17 +545,17 @@
      "t": "sec"
     }
    ],
-   "heat": 89.2
+   "heat": 88.7
   },
   {
    "cat": "stock",
-   "time": "2026-08-11 20:02",
-   "title": "Wave Life Sciences stock hits 52-week low at $5.01",
+   "time": "2026-08-11 23:01",
+   "title": "Honest Co. director Andrea Turner sells $338,072 in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/company-news/wave-life-sciences-stock-hits-52week-low-at-501-93CH-4852530",
+     "u": "https://www.investing.com/news/insider-trading-news/honest-co-director-andrea-turner-sells-338072-in-stock-93CH-4852964",
      "t": "agg"
     }
    ],
@@ -507,41 +563,13 @@
   },
   {
    "cat": "stock",
-   "time": "2026-08-11 20:02",
-   "title": "Seneca Foods Corp B stock hits all-time high at 185.06 USD",
+   "time": "2026-08-11 23:00",
+   "title": "Kemper Corp director Jason Gorevic buys $129,550 in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/company-news/seneca-foods-corp-b-stock-hits-alltime-high-at-18506-usd-93CH-4852524",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-11 20:00",
-   "title": "Mechanics Bancorp stock hits 52-week high at 17.2 USD",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/company-news/mechanics-bancorp-stock-hits-52week-high-at-172-usd-93CH-4852521",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-11 20:00",
-   "title": "VSE Corporation stock hits all-time high at 241.27 USD",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/company-news/vse-corporation-stock-hits-alltime-high-at-24127-usd-93CH-4852518",
+     "u": "https://www.investing.com/news/insider-trading-news/kemper-corp-director-jason-gorevic-buys-129550-in-stock-93CH-4852963",
      "t": "agg"
     }
    ],
@@ -559,21 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 88.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-06 15:00",
-   "title": "How the Largest Stock ETFs in Canada Performed - global.morningstar.com",
-   "summary": "How the Largest Stock ETFs in Canada Performed &nbsp;&nbsp; global.morningstar.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNem93TEtPVHJya3hnT3YzNy1lSVM3eFZrV2VDMndHRXFSNENyODNOclZpNTVFbGw1WF8xRmtORHJiRHNBRF9HeTU5MGZBRExqQTNQWHdNb2lCNE9pakZpTFhuSnluWXVBV2lrczNnQmR0NjNtZG9YOWVCTWRTYTJ3Q0QxeFV0NWs1?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 88.0
+   "heat": 87.5
   },
   {
    "cat": "stock",
@@ -590,46 +604,102 @@
    "heat": 84.0
   },
   {
-   "cat": "stock",
-   "time": "2026-08-09 16:00",
-   "title": "Stock Market Today: Live Updates 09.08.2026 - TechStock²",
-   "summary": "Stock Market Today: Live Updates 09.08.2026 &nbsp;&nbsp; TechStock²",
+   "cat": "global",
+   "time": "2026-08-11 18:03",
+   "title": "Yen Inches Toward 160 Per Dollar, Raising Intervention Concerns",
+   "summary": "The yen edged closer toward a key level against the dollar, raising concerns over Japanese authorities stepping in again to prop up the currency.",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DRThJRnZxdm40UDRFMDZ6clBFdm5Xb0RwZ0x0Z2tvYUVqWGYwVUJIZnhlRjZiMEdVWkdlQ0Y0bmNLZ0F0VnhpMl9EMVpGQVdOdWlaT24xaXpZdUNfMDR3?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-11/yen-slides-toward-160-per-dollar-raising-intervention-concerns",
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 53.8
   },
   {
    "cat": "global",
-   "time": "2026-08-12 01:28",
-   "title": "Gold eases amid firm US Dollar as CPI and Hormuz risks loom",
-   "summary": "Gold (XAU/USD) price registers modest losses on Tuesday, driven by a firm US Dollar as traders await the release of crucial US inflation data and the potential reopening of the Str…",
+   "time": "2026-08-12 06:26",
+   "title": "Chinese Yuan: Range trade persists, upside risk against US Dollar – UOB",
+   "summary": "United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann expect USD/CNH to remain confined in a narrow intraday range, reflecting flat momentum indicators. Over the next …",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/gold-eases-amid-firm-us-dollar-as-cpi-and-hormuz-risks-loom-202608111728",
+     "u": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-upside-risk-against-us-dollar-uob-202608112226",
      "t": "sec"
     }
    ],
-   "heat": 51.5
+   "heat": 51.8
   },
   {
    "cat": "global",
-   "time": "2026-08-12 01:49",
-   "title": "Japanese Yen pares losses ahead of US inflation report",
-   "summary": "The Japanese Yen (JPY) trades flat above 159.00 on Tuesday after several days of US Dollar (USD) strength following the intervention that briefly boosted the Yen. The pair has retr…",
+   "time": "2026-08-12 07:07",
+   "title": "Singapore Dollar: Decline risks assessed against US Dollar – OCBC",
+   "summary": "OCBC analysts Sim Moh Siong and Christopher Wong discuss USD/SGD after its post-payroll decline, noting the pair last traded near 1.28 with bearish momentum starting to wane.",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/japanese-yen-pares-losses-ahead-of-us-inflation-report-202608111749",
+     "u": "https://www.fxstreet.com/news/singapore-dollar-decline-risks-assessed-against-us-dollar-ocbc-202608112307",
      "t": "sec"
     }
    ],
-   "heat": 43.6
+   "heat": 48.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-12 06:44",
+   "title": "The Australian Dollar goes seven weeks without a central bank",
+   "summary": "AUD/USD trades just above 0.7050 on Tuesday August 11, a tenth of a percent firmer inside a 29-pip range, having taken the Reserve Bank of Australia (RBA) decision entirely in its …",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/the-australian-dollar-goes-seven-weeks-without-a-central-bank-202608112244",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-12 05:41",
+   "title": "Indonesian Rupiah: BI succession supports IDR against US Dollar – OCBC",
+   "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that Indonesian Rupiah (IDR) strengthened to near a two‑month high on a softer US Dollar (USD) after weak United States (US) payrolls…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/indonesian-rupiah-bi-succession-supports-idr-against-us-dollar-ocbc-202608112141",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-12 05:19",
+   "title": "Mexican Peso hits 25-month high as US CPI lurks",
+   "summary": "The Mexican Peso (MXN) is poised to end Tuesday’s session with solid gains of 0.32% against the US Dollar (USD) as money markets await the release of the US July inflation figures,…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/mexican-peso-hits-25-month-high-as-peso-eyes-1700-as-us-cpi-lurks-202608112119",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-12 03:50",
+   "title": "Euro stalls below 100-day SMA as investors brace for US CPI",
+   "summary": "The Euro (EUR) registers minimal losses against the US Dollar (USD) on Tuesday as traders and market participants prepare for the release of the US Consumer Price Index (CPI) on We…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/euro-stalls-below-100-day-sma-as-investors-brace-for-us-cpi-202608111950",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.4
   },
   {
    "cat": "global",
@@ -643,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.8
+   "heat": 47.3
   },
   {
    "cat": "global",
@@ -657,63 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-12 02:28",
-   "title": "British Pound: Sterling recovery eyes 1.36 caps against US Dollar – Scotiabank",
-   "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret observe that the British Pound (GBP) is consolidating gains near the top of its one-month and multi-month ranges, with price a…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/british-pound-sterling-recovery-eyes-136-caps-against-us-dollar-scotiabank-202608111828",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-12 02:18",
-   "title": "Forex Today: US Dollar on pause ahead of US CPI",
-   "summary": "The US Dollar Index (DXY) is trading little changed in the vicinity below the 100.00 price zone ahead of the United States (US) July Consumer Price Index (CPI), which is expected o…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/forex-today-us-dollar-on-pause-ahead-of-us-cpi-202608111818",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-12 02:06",
-   "title": "The US Dollar Index has no dovish tail to price",
-   "summary": "Tuesday gives the Dollar Index a session with almost nothing in it.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/the-us-dollar-index-has-no-dovish-tail-to-price-202608111806",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-12 02:07",
-   "title": "Gold Breaks the Narrative: Why Oil, War, and Debt Point Toward $5,000",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-breaks-the-narrative-why-oil-war-and-debt-point-toward-5000-200685637",
-     "t": "agg"
-    }
-   ],
-   "heat": 37.7
+   "heat": 47.2
   },
   {
    "cat": "global",
@@ -727,175 +741,77 @@
      "t": "agg"
     }
    ],
-   "heat": 36.0
+   "heat": 43.5
   },
   {
    "cat": "global",
-   "time": "2026-08-12 02:15",
-   "title": "Oil: Strait of Hormuz risk premium – Commerzbank",
-   "summary": "Commerzbank’s energy team notes fading hopes for a US–Iran agreement to reopen the Strait of Hormuz, driving Brent toward USD 90 and gas oil to nearly USD 1,350 per ton. Drone atta…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/oil-strait-of-hormuz-risk-premium-commerzbank-202608111815",
-     "t": "sec"
-    }
-   ],
-   "heat": 27.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-12 02:12",
-   "title": "WTI Price Forecast: Buyers defend 21-day SMA as bullish bias holds",
-   "summary": "West Texas Intermediate (WTI) Oil trades modestly higher on Tuesday after two-way price swings, as headlines from the Middle East keep energy markets volatile. At the time of writi…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/wti-price-forecast-buyers-defend-21-day-sma-as-bullish-bias-holds-202608111812",
-     "t": "sec"
-    }
-   ],
-   "heat": 27.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-12 00:24",
-   "title": "Shifting Narratives In Iran, Crude Oil Rises, More",
-   "summary": "Source: Bloomberg, 5:20",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-11/shifting-narratives-in-iran-crude-oil-rises-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 27.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-12 00:21",
-   "title": "Iran took back the Dow Jones Industrial Average breakout",
-   "summary": "The Dow Jones Industrial Average broke the three-session coil that had pinned it beneath its record, traded up through 54,200, and has since surrendered the entire move.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/iran-took-back-the-dow-jones-industrial-average-breakout-202608111621",
-     "t": "sec"
-    }
-   ],
-   "heat": 27.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-11 21:59",
-   "title": "Gold Seems to Be Asking a Different Question, At Least for Now",
+   "time": "2026-08-12 04:31",
+   "title": "Gold Breaks the Narrative: Why Oil, War, and Debt Point Toward $5,000",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-seems-to-be-asking-a-different-question-at-least-for-now-200685568",
+     "u": "https://www.investing.com/analysis/gold-breaks-the-narrative-why-oil-war-and-debt-point-toward-5000-200685637",
      "t": "agg"
     }
    ],
-   "heat": 21.0
+   "heat": 37.5
   },
   {
    "cat": "global",
-   "time": "2026-08-05 15:00",
-   "title": "US Market Pulse August 2026 - Goldman Sachs Asset Management",
-   "summary": "US Market Pulse August 2026 &nbsp;&nbsp; Goldman Sachs Asset Management",
+   "time": "2026-08-12 06:39",
+   "title": "US yields ease as CPI caution offsets Oil rally",
+   "summary": "US Treasury yields eased on Tuesday as most investors remain cautious, awaiting the release of US inflation figures and the resolution of the US-Iran conflict, which has encountere…",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/us-yields-ease-as-cpi-caution-offsets-oil-rally-202608112239",
      "t": "sec"
     }
    ],
-   "heat": 16.0
+   "heat": 31.9
   },
   {
-   "cat": "crypto",
-   "time": "2026-08-12 03:39",
-   "title": "Bitcoin Will 'Survive' Cold Wallet Hack: Alex Thorn",
-   "summary": "Alex Thorn, head of firmwide research at Galaxy Digital, joins Isabelle Lee and Tim Stenovec on \"Bloomberg Crypto.\" The crypto community is reeling from a breach involving Coldcard…",
+   "cat": "global",
+   "time": "2026-08-12 04:56",
+   "title": "Oil Supply Restrictions Seen Through 2027: Evening Briefing Americas",
+   "summary": "Get caught up.",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-11/bitcoin-will-survive-cold-wallet-hack-alex-thor-video",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-11/oil-supply-restrictions-seen-through-2027-evening-briefing-americas",
      "t": "sec"
     }
    ],
-   "heat": 103.9
+   "heat": 31.6
   },
   {
-   "cat": "crypto",
-   "time": "2026-08-12 02:59",
-   "title": "Bitcoin 'A Canary In The Coal Mine' For Hacks: Rubenfeld",
-   "summary": "Becca Amilee Rubenfeld, COO & co-founder at AnchorWatch, joins Isabelle Lee and Tim Stenovec on \"Bloomberg Crypto.\" They discuss AI's role in the recent cold wallet Bitcoin hack, a…",
+   "cat": "global",
+   "time": "2026-08-11 16:49",
+   "title": "EM Assets Retreat as Iran Deal Doubts Push Oil Prices Higher",
+   "summary": "Emerging-market assets fell on Tuesday, with a currency gauge snapping a four-day winning streak as fading hopes for a US-Iran deal weighed on risk sentiment.",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-11/bitcoin-a-canary-in-the-coal-mine-for-hacks-rubenfeld-video",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-11/emerging-assets-pressured-as-higher-oil-stokes-inflation-worries",
      "t": "sec"
     }
    ],
-   "heat": 103.8
+   "heat": 29.6
   },
   {
-   "cat": "crypto",
-   "time": "2026-08-12 02:53",
-   "title": "May Be At Bottom of Crypto Winter: Bitwise's Hougan",
-   "summary": "Matt Hougan, CIO of Bitwise Asset Management, joins Isabelle Lee and Tim Stenovec on \"Bloomberg Crypto.\" The Coldcard wallet hack may strengthen the case for spot Bitcoin ETFs by u…",
+   "cat": "global",
+   "time": "2026-08-12 04:23",
+   "title": "Oil Supply Risks Deepen as US Emergency Reserves Hit a 43-Year Low",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-11/may-be-at-bottom-of-crypto-winter-bitwise-s-hougan-video",
-     "t": "sec"
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-supply-risks-deepen-as-us-emergency-reserves-hit-a-43year-low-200685645",
+     "t": "agg"
     }
    ],
-   "heat": 103.8
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-12 02:41",
-   "title": "Bitcoin Will 'Survive' Cold Wallet Hack, Says Galaxy Digital's Thorn",
-   "summary": "Alex Thorn, head of firmwide research at Galaxy Digital, joins Isabelle Lee and Tim Stenovec on \"Bloomberg Crypto.\" The crypto community is reeling from a breach involving \"cold\" B…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-11/bitcoin-will-survive-cold-wallet-hack-alex-thorn-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 103.7
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-12 02:23",
-   "title": "Robinhood Sees More Flows Into Bitcoin ETFs",
-   "summary": "Robinhood Senior Vice President and General Manager of Crypto Johann Kerbrat talks about investor sentiment around crypto, a hack of Coldcard wallets and how the business is expand…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-11/robinhood-sees-more-flows-into-bitcoin-etfs-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 103.7
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-11 18:48",
-   "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
-   "summary": "The Strait of Hormuz relief trade unraveled after Trump demanded 50 years of Iranian compensation, pushing oil back to $89 and leaving crypto and equities unchanged ahead of a pivo…",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market",
-     "t": "sec"
-    }
-   ],
-   "heat": 102.4
+   "heat": 29.5
   },
   {
    "cat": "crypto",
@@ -909,7 +825,35 @@
      "t": "sec"
     }
    ],
-   "heat": 82.8
+   "heat": 62.3
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-12 05:57",
+   "title": "Bitwise Cuts 14% of Jobs With Crypto Industry Under Pressure",
+   "summary": "Crypto firm Bitwise Asset Management Inc. has let go about 14% of its workforce during a prolonged slump in digital-asset prices.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-11/bitwise-cuts-14-of-jobs-with-crypto-industry-under-pressure",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-12 04:59",
+   "title": "SEC to address crypto regulations in absence of CLARITY passage",
+   "summary": "The US securities regulator scheduled a meeting this week with the potential to step up on digital asset policies without congressional action.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.6
   },
   {
    "cat": "crypto",
@@ -923,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.9
+   "heat": 59.4
   },
   {
    "cat": "crypto",
@@ -937,21 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-12 03:12",
-   "title": "Trump Family Crypto Deal Ends In Investor Rout",
-   "summary": "Bloomberg's Nicola White joins Isabelle Lee and Tim Stenovec on \"Bloomberg Crypto.\" A virtually unknown fintech that catapulted into the headlines and cracked a $1 billion market v…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-11/trump-family-crypto-deal-ends-in-investor-rout-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 79.8
+   "heat": 59.4
   },
   {
    "cat": "crypto",
@@ -965,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.5
+   "heat": 59.0
   },
   {
    "cat": "crypto",
@@ -979,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.1
+   "heat": 58.5
   },
   {
    "cat": "crypto",
@@ -993,21 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-11 20:35",
-   "title": "EToro to buy TradeZero as Q2 crypto revenue falls 30%",
-   "summary": "Trading platform eToro will acquire TradeZero as part of its US expansion as it reported crypto-related revenue fell by about 30% compared to the second quarter of 2025.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 78.7
+   "heat": 58.5
   },
   {
    "cat": "crypto",
@@ -1021,7 +937,91 @@
      "t": "sec"
     }
    ],
-   "heat": 78.6
+   "heat": 58.1
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-11 19:45",
+   "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
+   "summary": "The regulator cited missing transaction reports and the company’s failure to respond to an information request.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
+     "t": "sec"
+    }
+   ],
+   "heat": 58.1
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-07 06:17",
+   "title": "Wall Street closes lower as Dow leads decline, S&P 500 and Nasdaq slip - CryptoRank",
+   "summary": "Wall Street closes lower as Dow leads decline, S&P 500 and Nasdaq slip &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR1dUWmdmQTFvZG5qcV9ZbjhRMkt6Q2h5aTRyOFVoV01zeGxPcWJWazZzMHYtbDc0VDlVUmZKc1N3LWo3V01ZaUlKNHh4R0o2dTlCdG5oN2V0c3dBWlIzRTJUbVpUM2hwMVZIN0toV2tvQWJfWFIwOFZZRVVCY0F6eWhSZw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 52.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-06 02:30",
+   "title": "Dow and S&P 500 Reach Record Highs as Market Momentum Continues - CryptoRank",
+   "summary": "Dow and S&P 500 Reach Record Highs as Market Momentum Continues &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxT09hTUozUy1mQU1yd3pqb3dGVDl1WlVxOXNNMHBLVXJSeTFZWndXQjNCeHlMOG5hY0NMSzFOYXFPZ3BxX3dkZEZvY3B2UndLZmhxd2pIN2dSMEtGTTV2aFZPaXF1SV9JN2pCMWhn?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 52.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-05 16:09",
+   "title": "Michael Burry Warns of 1987-Type Crash as S&P 500 Hits Record High - CryptoRank",
+   "summary": "Michael Burry Warns of 1987-Type Crash as S&P 500 Hits Record High &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16ejBxbVBtVmpmQ1l5dENScXpDVDhxU29DbHJBN05WT2tZV280bl8zY09NT09TMnZESkxhMVJkdmpZejlDSWZLT3p5NkZFdmFGZGpXeGQ2eE9jTHBhcURhdVdUVFZ6bnYtdTBBVUUydHZxcDd4SGlSbktn?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 52.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-11 19:24",
+   "title": "Ravencoin, a blockchain built from Bitcoin’s code, could roll back four days of transactions",
+   "summary": "Two mining pools controlling most of Ravencoin’s hashpower are building a replacement chain from before Friday’s first invalid block, putting deposits, withdrawals and payments mad…",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
+     "t": "sec"
+    }
+   ],
+   "heat": 30.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-12 05:38",
+   "title": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
+   "summary": "Weeks of sideways trading have crushed volatility, leaving Wednesday’s inflation report as the next potential catalyst, analysts said.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.7
   },
   {
    "cat": "sector",
@@ -1035,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 257.7
+   "heat": 277.2
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 258.2
+   "heat": 277.7
   }
  ]
 }
