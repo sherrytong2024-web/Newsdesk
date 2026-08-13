@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13 13:49",
+ "updated": "2026-08-13 17:46",
  "items": [
   {
    "cat": "sector",
@@ -13,49 +13,21 @@
      "t": "sec"
     }
    ],
-   "heat": 258.4
+   "heat": 221.7
   },
   {
    "cat": "sector",
-   "time": "2026-08-13 11:38",
-   "title": "Korean Stocks Rise as Chip Rally Regains Steam",
-   "summary": "A revival in the global AI trade pushed South Korean stocks toward a technical bull market, marking a dramatic turnaround from last month’s historic rout. Bloomberg TV's Avril Hong…",
+   "time": "2026-08-13 16:21",
+   "title": "CXMT Overtakes Tencent to Become Most Valuable Chinese Company",
+   "summary": "CXMT Corp. has overtaken Hong Kong-listed Tencent Holdings Ltd. as the world’s most valuable Chinese company, underscoring the AI‑driven frenzy fueling demand for memory‑chip stock…",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-13/korean-stocks-rise-as-chip-rally-regains-steam-video",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-13/cxmt-overtakes-tencent-to-become-most-valuable-chinese-company",
      "t": "sec"
     }
    ],
-   "heat": 255.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-13 13:43",
-   "title": "What Chandrasekaran’s Exit Means for Tata’s Future",
-   "summary": "N. Chandrasekaran’s resignation has thrust succession planning at the Tata Group into the spotlight at a time of heightened geopolitical uncertainty. Speaking to Paul Allen on Insi…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-13/what-chandrasekaran-s-exit-means-for-tata-s-future-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 248.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-13 13:40",
-   "title": "Adyen Boosts Revenue Outlook as Clients Process More Payments",
-   "summary": "Adyen NV raised its net revenue growth outlook for the year on the back of growing demand for the Dutch payments firm’s services from both new and existing clients.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-13/adyen-boosts-revenue-outlook-as-clients-process-more-payments",
-     "t": "sec"
-    }
-   ],
-   "heat": 248.0
+   "heat": 219.8
   },
   {
    "cat": "sector",
@@ -69,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 248.0
+   "heat": 212.0
   },
   {
    "cat": "sector",
@@ -83,39 +55,67 @@
      "t": "sec"
     }
    ],
-   "heat": 248.0
+   "heat": 212.0
   },
   {
    "cat": "sector",
-   "time": "2026-08-13 13:21",
-   "title": "India Student Protests Disrupt Parliament, Put Modi on Defensive",
-   "summary": "India’s monsoon session of Parliament was dominated by opposition disruptions as lawmakers demanded Home Minister Amit Shah’s resignation over police action against widespread stud…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-13/india-student-protests-disrupt-parliament-put-modi-on-defensive",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-13 13:20",
-   "title": "ASUS Lifts AI Server Growth Target",
-   "summary": "ASUS Co-CEO, S.Y. Hsu, says AI server demand remains strong, prompting the company to raise its 2026 growth outlook. He discusses AI infrastructure spending, memory shortages, supp…",
+   "time": "2026-08-13 17:09",
+   "title": "Anthropic Eyes $6 Billion Offer For AI Startup Decart",
+   "summary": "Anthropic is in talks to buy the AI startup Decart, according to people familiar with the matter. Bloomberg Intelligence Senior Analyst Matthew Bloxham explains that Decart's so-ca…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video-msr2k85y",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-13/anthropic-eyes-6-billion-offer-for-ai-startup-decart-video",
      "t": "sec"
     }
    ],
-   "heat": 247.9
+   "heat": 211.9
   },
   {
    "cat": "sector",
-   "time": "2026-08-13 13:19",
+   "time": "2026-08-13 17:00",
+   "title": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea",
+   "summary": "SK Hynix, the leading maker of high-bandwidth memory, is pouring $720 billion into memory factories to meet AI demand. We got an exclusive first look.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-13 16:43",
+   "title": "Oil prices fall as investors weigh falling demand against Middle East tensions",
+   "summary": "Oil futures retreated early Wednesday morning after prices rose overnight.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-13 16:41",
+   "title": "India’s AI Ambition: Can the Power Grid Meet Demand?",
+   "summary": "As India’s energy demand skyrockets due to heat waves and industrial expansion, we look at whether the country is ready for a power-hungry AI boom.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-13/india-s-ai-ambition-can-the-power-grid-meet-demand",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-13 16:28",
    "title": "‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows",
    "summary": "The Persian Strait Gulf Authority said \"the Strait of Hormuz remains blocked and will not be reopened until Iran's conditions are accepted.\"",
    "srcs": [
@@ -125,21 +125,21 @@
      "t": "sec"
     }
    ],
-   "heat": 247.9
+   "heat": 211.8
   },
   {
    "cat": "sector",
-   "time": "2026-08-13 13:00",
-   "title": "Thyssenkrupp Raises Outlook Slightly on Steel, Warship Gains",
-   "summary": "Thyssenkrupp AG raised the low end of its full-year profit guidance as it reported strength at its steel and naval divisions despite a challenging global industrial environment.",
+   "time": "2026-08-13 16:27",
+   "title": "India Power Grid Tested by Electricity Demand, Climate Change, AI Data Centers",
+   "summary": "Electrification, climate change and AI are testing the country’s energy grid buildout.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-13/thyssenkrupp-raises-outlook-slightly-on-steel-warship-gains",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-13/india-power-grid-tested-by-electricity-demand-climate-change-ai-data-centers",
      "t": "sec"
     }
    ],
-   "heat": 247.9
+   "heat": 211.8
   }
  ]
 }
