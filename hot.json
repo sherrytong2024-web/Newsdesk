@@ -1,51 +1,93 @@
 {
- "updated": "2026-08-14 04:03",
+ "updated": "2026-08-14 07:23",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-08-14 03:55",
-   "title": "Workday skyrockets 17%, trading halted multiple times on report of Silver Lake takeover",
-   "summary": "Workday investors have been on edge over the prospect of AI disrupting its business model",
+   "time": "2026-08-14 06:55",
+   "title": "Coal Billionaire Profile, Penny Wong on One Nation, Bird Flu Podcast",
+   "summary": "Get caught up.",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-13/coal-billionaire-profile-penny-wong-on-one-nation-bird-flu-podcast",
      "t": "sec"
     }
    ],
-   "heat": 216.0
+   "heat": 207.9
   },
   {
    "cat": "sector",
-   "time": "2026-08-14 03:49",
-   "title": "JD.com Posts First Quarterly Revenue Decline as Subsidy Pullback Hits Electronics Sales",
-   "summary": "JD.com Posts First Quarterly Revenue Decline as Subsidy Pullback Hits Electronics Sales &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUG5NM0pzaENRQXZleGhvdUJyTWRad05ieGp4UjFzN2dScXduZ1FDWWlMSktWczBNNUpRaHJjY1dNbUJEbVRVRFhIZWQ2ZXllbnhTV2k4d1VBNHRPaW9rVjNsOUszYVBSeWhRd2R3SXpPb1QyeXBvYUN6TmlOQ0pkamNIMVN6bEZWRzA4ei0zam1mb0FSRWdYU2k5c1FlZlo0YzNPQU5IM2dIempjeUtXejY1YTFJMHdjUkVTcVp3NWJzUHdqX0E5MVItZVpBN3FhelpsbjZfR0s?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 216.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-14 03:39",
-   "title": "US, China Gap on Critical Minerals 'Won't Change Overnight,' Say REalloys CEO",
-   "summary": "Lipi Sternheim, REalloys CEO, said that his company is working closely with the US Army to get a critical mining operation underway on US military base and that the US government's…",
+   "time": "2026-08-14 06:04",
+   "title": "Latest Oil Market News and Analysis for Aug. 14",
+   "summary": "Oil held a decline as traders monitored efforts toward a deal that could reopen the Strait of Hormuz, while fresh attacks on tankers and energy infrastructure kept the market on ed…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-13/us-gap-minerals-won-t-change-overnight-realloys-ceo-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-13/latest-oil-market-news-and-analysis-for-aug-14",
      "t": "sec"
     }
    ],
-   "heat": 215.9
+   "heat": 207.8
   },
   {
    "cat": "sector",
-   "time": "2026-08-14 03:33",
+   "time": "2026-08-14 06:03",
+   "title": "Daron Acemoglu: We are \"at the Cusp of Losing\" Liberal Democracy",
+   "summary": "A new book 'What Happened to Liberal Democracy?' by Nobel Laureate Daron Acemoglu examines the evolution of liberalism, and its future amid rapidly advancing technologies like AI. …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-13/are-we-at-the-cusp-of-losing-liberal-democracy-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-14 05:53",
+   "title": "SEC Delays Crypto Regulation Meeting in Latest Industry Setback",
+   "summary": "The Securities and Exchange Commission canceled a Friday meeting where the agency was expected to unveil new plans for digital assets as landmark crypto legislation remains stalled…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-13/sec-delays-crypto-regulation-meeting-in-latest-industry-setback",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-14 05:46",
+   "title": "Judge Orders Kalshi to Stop Offering Most Wagers in Washington",
+   "summary": "Kalshi was told by a judge to stop offering most of its prediction market contracts in Washington state, after regulators said they likely constituted an illegal gambling operation…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-13/judge-orders-kalshi-to-stop-offering-most-wagers-in-washington",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-14 05:43",
+   "title": "Pension Fund Manager La Caisse (CDPQ) Sees the Downside of AI Mania",
+   "summary": "Plus: Trade talks are really difficult",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-13/pension-fund-manager-la-caisse-cdpq-sees-the-downside-of-ai-mania",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-14 05:23",
    "title": "Apple's Tim Cook joined by Howard Lutnick in opening Houston manufacturing plant",
    "summary": "As Tim Cook gets set to step down as Apple CEO, he's offering a glimpse into what he may be doing as chairman.",
    "srcs": [
@@ -55,91 +97,49 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
+   "heat": 207.7
   },
   {
    "cat": "sector",
-   "time": "2026-08-14 03:16",
-   "title": "Nvidia Credit Risk Eases, Still Elevated After $500B Plan",
-   "summary": "Bloomberg's James Crombie joins Emily Graffeo on \"Real Yield.\" Bond traders dialed back measures of credit risk associated with Nvidia after the company said it would limit its exp…",
+   "time": "2026-08-14 05:11",
+   "title": "Bloomberg Businessweek Daily: Remaking of Politics (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-13/nvidia-credit-risk-eases-still-elevated-after-plan-video",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-13/bloomberg-businessweek-daily-remaking-of-politics-podcast",
      "t": "sec"
     }
    ],
-   "heat": 215.9
+   "heat": 207.6
   },
   {
    "cat": "sector",
-   "time": "2026-08-14 02:01",
-   "title": "Anthropic in Talks for $6 Billion AI Infrastructure Bet | Bloomberg Tech 8/13/2026",
-   "summary": "Bloomberg’s Ed Ludlow breaks down what could be Anthropic's biggest acquisitions yet: a $6 billion deal for AI startup Decart to help it squeeze more performance out of its computi…",
+   "time": "2026-08-14 05:01",
+   "title": "Winklevosses’ Gemini Posts Another Loss, Revenue Increases",
+   "summary": "Gemini Space Station Inc., the digital-asset platform led by the billionaires Tyler and Cameron Winklevoss that went public last year just before the crypto market tumbled from rec…",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-13/bloomberg-tech-8-13-2026-video",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-13/winklevosses-gemini-posts-another-loss-revenue-increases",
      "t": "sec"
     }
    ],
-   "heat": 215.7
+   "heat": 207.6
   },
   {
    "cat": "sector",
-   "time": "2026-08-14 01:56",
-   "title": "We're in a ‘Golden Age of Technology,’ Says IVP's Wilhelm",
-   "summary": "The AI boom could face a capital-markets adjustment without undermining the technology’s long-term potential, according to Cack Wilhelm, general partner at IVP. She discusses why A…",
+   "time": "2026-08-14 04:42",
+   "title": "Bloomberg Businessweek Daily: ‘SaaSpocalypse’ Risk (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-13/from-perplexity-to-the-next-ai-winners-video",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-13/bloomberg-businessweek-daily-saaspocalypse-risk-podcast",
      "t": "sec"
     }
    ],
-   "heat": 215.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-14 01:00",
-   "title": "Google Debuts New Gemini Flash While Top AI Model Still Delayed",
-   "summary": "Alphabet Inc.’s Google released another installment of its workhorse Gemini Flash artificial intelligence model, but didn’t say when it would release its most powerful AI model, Ge…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-13/google-debuts-new-gemini-flash-while-top-ai-model-still-delayed",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-14 00:58",
-   "title": "Anthropic in Talks to Buy AI Startup Decart for $6 Billion",
-   "summary": "Anthropic PBC is in talks to buy the artificial intelligence startup Decart AI for about $6 billion, according to people familiar with the matter, in what would be the Claude maker…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-13/anthropic-in-talks-to-buy-ai-startup-decart-for-6b-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-14 00:38",
-   "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-   "summary": "Iran’s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.4
+   "heat": 207.6
   }
  ]
 }
