@@ -1,19 +1,19 @@
 {
- "updated": "2026-08-15 04:00",
+ "updated": "2026-08-15 05:52",
  "items": [
   {
    "cat": "macro",
-   "time": "2026-08-14 21:10",
-   "title": "Treasuries Rise as Weak Retail Sales Dampen Fed Rate-Hike Expectations",
-   "summary": "The US two-year yield fell for a third straight week after soft July retail sales data further eroded expectations for Federal Reserve interest-rate hikes in the coming months.",
+   "time": "2026-08-14 07:24",
+   "title": "Gold Nears $4,400 as Traders Weigh Fed Interest-Rate Path",
+   "summary": "Gold edged toward $4,400 an ounce as traders weighed the Federal Reserve’s interest-rate path after the economy’s main engine showed signs of cooling.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-14/treasuries-gain-as-weak-retail-sales-data-erode-rate-hike-bets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-13/gold-steadies-as-traders-weigh-fed-rate-path-and-mideast-tension",
      "t": "sec"
     }
    ],
-   "heat": 94.9
+   "heat": 60.3
   },
   {
    "cat": "macro",
@@ -27,35 +27,49 @@
      "t": "agg"
     }
    ],
-   "heat": 80.0
+   "heat": 59.7
   },
   {
    "cat": "macro",
-   "time": "2026-08-15 03:36",
-   "title": "Retail Investors Do A Bad Job Rebalancing: Wilson",
-   "summary": "Mike Wilson, chief US equity strategist & CIO at Morgan Stanley, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how the average American does a 'bad job' rebalan…",
+   "time": "2026-08-15 05:43",
+   "title": "Bloomberg Businessweek Daily: OpenAI's Run Rate (Podcast)",
+   "summary": "Source: Bloomberg, 38:36",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-14/retail-investors-do-a-bad-job-rebalancing-wilson-video",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-businessweek-daily-openai-s-run-rate-podcast",
      "t": "sec"
     }
    ],
-   "heat": 59.9
+   "heat": 56.0
   },
   {
    "cat": "macro",
-   "time": "2026-08-15 03:33",
-   "title": "Chasing Stocks As Damaging As Selling At Bottom: Wilson",
-   "summary": "Mike Wilson, chief US equity strategist & chief investment officer at Morgan Stanley, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how long-term investors shou…",
+   "time": "2026-08-15 04:49",
+   "title": "Avoid Being Shaken Out Of The Market: Wilson",
+   "summary": "Mike Wilson, chief US equity strategist & chief investment officer at Morgan Stanley, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" (Source: Bloomberg)",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-14/chasing-stocks-as-damaging-as-selling-at-bottom-wilson-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-14/avoid-being-shaken-out-of-the-market-wilson-video",
      "t": "sec"
     }
    ],
-   "heat": 59.9
+   "heat": 55.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-15 04:47",
+   "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lin",
+   "summary": "The Trump administration is ratcheting up rhetorical pressure on Iran as the military conflict in Iran appears mired in a strategic stalemate.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 55.8
   },
   {
    "cat": "macro",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.7
+   "heat": 55.3
   },
   {
    "cat": "macro",
@@ -83,21 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-15 01:19",
-   "title": "Bloomberg Intelligence: OpenAI Revenue Accelerates (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-intelligence-openai-revenue-accelerates-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 59.6
+   "heat": 55.3
   },
   {
    "cat": "macro",
@@ -111,35 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-14 23:50",
-   "title": "TikTok impulsa estrategias de inversión para ahorrar impuestos",
-   "summary": "La optimización fiscal mediante operaciones \"long-short\" es una estrategia ganadora para los ricos. Para el resto, no es tan seguro.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/features/2026-alfa-fiscal-cosecha-de-perdidas-fiscales/",
-     "t": "sec"
-    }
-   ],
-   "heat": 59.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-14 23:02",
-   "title": "Housing investors say this is their worst market in at least 3 years",
-   "summary": "Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 59.2
+   "heat": 55.1
   },
   {
    "cat": "macro",
@@ -153,7 +125,21 @@
      "t": "sec"
     }
    ],
-   "heat": 58.9
+   "heat": 54.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-14 12:04",
+   "title": "EM Currencies Cap Best Streak Since 2024, Stocks Rebound on AI",
+   "summary": "Emerging-market assets rose on Friday as a shift in the US interest-rate outlook added to bullish sentiment around artificial intelligence, pushing equities to cap the best week in…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-14/em-assets-buoyed-by-easing-us-rate-worries-gains-in-ai-leaders",
+     "t": "sec"
+    }
+   ],
+   "heat": 53.0
   },
   {
    "cat": "macro",
@@ -167,13 +153,13 @@
      "t": "agg"
     }
    ],
-   "heat": 54.0
+   "heat": 49.7
   },
   {
    "cat": "macro",
    "time": "2026-08-10 15:00",
-   "title": "Is the S&P 500's Concentrated Rally Starting to Diversify? - cmegroup.com",
-   "summary": "Is the S&P 500's Concentrated Rally Starting to Diversify? &nbsp;&nbsp; cmegroup.com",
+   "title": "Is the S&P 500's Concentrated Rally Starting to Diversify? - CME Group",
+   "summary": "Is the S&P 500's Concentrated Rally Starting to Diversify? &nbsp;&nbsp; CME Group",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -181,21 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-14 19:36",
-   "title": "Fed’s Goolsbee says latest inflation data is better",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/feds-goolsbee-says-latest-inflation-data-is-better-4859525",
-     "t": "agg"
-    }
-   ],
-   "heat": 44.6
+   "heat": 48.0
   },
   {
    "cat": "macro",
@@ -209,7 +181,147 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 23.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-14 05:31",
+   "title": "Mamdani's NYC pied-à-terre tax can continue rollout during court appeal",
+   "summary": "The tax championed by Mayor Zohran Mamdani has drawn the ire of President Donald Trump, who said it must be stopped and vowed to explore federal options.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/13/mamdani-nyc-pied-a-terre-tax-lawsuit.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 19.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-15 04:04",
+   "title": "Drone stocks rally after Trump orders tariffs on foreign-made components",
+   "summary": "The U.S. is looking to scale defense manufacturing and chip away at China's drone dominance.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 19.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 05:39",
+   "title": "FBI Epstein Emails Show Sarah Ferguson Reached Patel",
+   "summary": "Bloomberg News Senior Investigative Reporter writes a weekly newsletter, The FOIA Files. This week's edition show \"records, which include emails, spreadsheets and training slides, …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-14/fbi-epstein-emails-show-sarah-ferguson-reached-patel-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 244.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 05:30",
+   "title": "Volatile Week for Equity Markets | Closing Bell",
+   "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Sten…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-14/volatile-week-for-equity-markets-closing-bell-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 05:29",
+   "title": "Quebec Opens Door on Dairy Quotas but Demands Trade Gains",
+   "summary": "Plus: CPPIB has its best quarter since 2015",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-14/quebec-opens-door-on-dairy-quotas-but-demands-trade-gains",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 05:03",
+   "title": "Bloomberg Businessweek Daily: Hollywood Box Offices (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-businessweek-daily-hollywood-box-offices-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 04:43",
+   "title": "Amazon’s New User Agreement Seeks to Curb Class-Action Suits",
+   "summary": "Amazon.com Inc. reintroduced a clause in its user agreement that seeks to prevent shoppers from filing class-action lawsuits against the online retailer, inserting a legal buffer b…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-14/amazon-s-new-user-agreement-seeks-to-curb-class-action-suits",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 04:37",
+   "title": "Berkshire Pads Delta, Alphabet Stakes as Abel Taps Cash Pile",
+   "summary": "Berkshire Hathaway Inc. increased its holdings in Delta Air Lines Inc. and Google parent Alphabet Inc. as Greg Abel began tapping into the company’s massive cash hoard.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-14/berkshire-boosts-delta-alphabet-stakes-as-abel-taps-cash-pile",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 04:34",
+   "title": "Hedge Funds Halved Short Bets on Yen Since Joint Intervention",
+   "summary": "Hedge funds further dialed back on their wagers against the yen, signaling a reduction in negative sentiment surrounding the currency after the US and Japan’s historic joint interv…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-14/hedge-funds-halved-short-bets-on-yen-since-joint-intervention",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 04:05",
+   "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+   "summary": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.7
   },
   {
    "cat": "sector",
@@ -223,21 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 02:42",
-   "title": "Winning War With Iran Requires Patience, Says Retired Army Brigadier General",
-   "summary": "Retired US Army Brigadier General Mark Kimmitt said winning a war with Iran will require patience on the side of the United States because Iran follows a model of resistance and wi…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-14/iran-war-requires-patience-ret-army-brigadier-general-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.8
+   "heat": 243.5
   },
   {
    "cat": "sector",
@@ -251,21 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 01:52",
-   "title": "Bloomberg Tech: OpenAI’s Explosive Growth Continues (Podcast)",
-   "summary": "Source: Bloomberg, 43:57",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-tech-openai-s-explosive-growth-continues-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.6
+   "heat": 243.4
   },
   {
    "cat": "sector",
@@ -279,13 +363,13 @@
      "t": "sec"
     }
    ],
-   "heat": 223.6
+   "heat": 243.3
   },
   {
    "cat": "sector",
    "time": "2026-08-15 01:34",
-   "title": "China to Add Petrochemicals, Chemicals to National Carbon Market - caixinglobal.com",
-   "summary": "China to Add Petrochemicals, Chemicals to National Carbon Market &nbsp;&nbsp; caixinglobal.com",
+   "title": "China to Add Petrochemicals, Chemicals to National Carbon Market",
+   "summary": "China to Add Petrochemicals, Chemicals to National Carbon Market &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
@@ -293,13 +377,13 @@
      "t": "sec"
     }
    ],
-   "heat": 223.6
+   "heat": 243.3
   },
   {
    "cat": "sector",
    "time": "2026-08-15 01:05",
-   "title": "China’s New Bank Loans Shrink in July as Borrowing Demand Stays Weak - caixinglobal.com",
-   "summary": "China’s New Bank Loans Shrink in July as Borrowing Demand Stays Weak &nbsp;&nbsp; caixinglobal.com",
+   "title": "China’s New Bank Loans Shrink in July as Borrowing Demand Stays Weak",
+   "summary": "China’s New Bank Loans Shrink in July as Borrowing Demand Stays Weak &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
@@ -307,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.5
+   "heat": 243.2
   },
   {
    "cat": "sector",
@@ -321,77 +405,21 @@
      "t": "sec"
     }
    ],
-   "heat": 223.4
+   "heat": 243.1
   },
   {
-   "cat": "sector",
-   "time": "2026-08-14 23:00",
-   "title": "US Retail Sales Fall Most Since May 2025",
-   "summary": "US retail sales fell in July by the most in more than a year as consumers pulled back on purchases at online stores and auto dealers. The value of retail purchases, which isn’t adj…",
+   "cat": "stock",
+   "time": "2026-08-15 04:31",
+   "title": "Leveraged ETFs Snap Back as Casino Crowd Mints $50 Billion",
+   "summary": "Three weeks ago, Wall Street’s casino crowd took a beating. AI stocks buckled, semiconductor shares tumbled and leveraged trades unraveled.",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-14/us-retail-sales-fall-most-since-may-2025-video",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-14/leveraged-etfs-snap-back-as-casino-crowd-mints-50-billion",
      "t": "sec"
     }
    ],
-   "heat": 223.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-14 20:28",
-   "title": "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
-   "summary": "Japan protested Vladimir Putin’s first visit to the disputed Kuril Islands, escalating tensions over territory claimed by both Tokyo and Moscow.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 222.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-14 20:21",
-   "title": "NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare'",
-   "summary": "NATO fighters shot down a foreign drone over Latvia as Finland briefly restricted airspace and sea areas amid heightened Baltic security concerns.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/14/nato-drone-latvia.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 222.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-14 20:15",
-   "title": "Data breach notices have already blown past last year’s total — and AI is playing a growing role",
-   "summary": "Data breaches are surging in 2026, with artificial intelligence playing a growing role in cyberattacks, and 'malicious insider' incidents also on the rise.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 222.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-14 20:03",
-   "title": "AI’s infrastructure boom is getting more leveraged — and harder to track",
-   "summary": "AI’s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 222.7
+   "heat": 135.8
   },
   {
    "cat": "stock",
@@ -405,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 118.8
+   "heat": 118.5
   },
   {
    "cat": "stock",
@@ -437,17 +465,45 @@
   },
   {
    "cat": "stock",
-   "time": "2026-08-14 19:21",
-   "title": "Canada stocks pull back after hitting record high as tech shares retreat",
-   "summary": "",
+   "time": "2026-08-15 05:18",
+   "title": "Stock Movers: Sandisk, Tapestry, Phillips 66 (Podcast)",
+   "summary": "Source: Bloomberg, 4:13",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-lower-amid-mideast-uncertainty-corporate-earnings-4860492",
-     "t": "agg"
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-14/stock-movers-sandisk-tapestry-phillips-66-podcast",
+     "t": "sec"
     }
    ],
-   "heat": 108.6
+   "heat": 103.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 04:36",
+   "title": "Gen Z Moves Money From Stocks to Sports Bets",
+   "summary": "Bloomberg's Zijia Song joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" Sports betting is increasingly competing with traditional investing for younger Americans’ attention, wi…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-14/gen-z-moves-money-from-stocks-to-sports-bets-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 103.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 04:10",
+   "title": "Stocks Close Lower, Mangione Pleads Guilty Over CEO Killing",
+   "summary": "Source: Bloomberg, 5:59",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-14/stocks-close-lower-mangione-pleads-guilty-over-ceo-killing",
+     "t": "sec"
+    }
+   ],
+   "heat": 103.7
   },
   {
    "cat": "stock",
@@ -461,49 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 02:33",
-   "title": "What flash memory maker SanDisk told investors this week is a boon for our newest stock",
-   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/14/what-sandisk-told-investors-this-week-is-a-boon-for-our-newest-stock.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 107.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 02:15",
-   "title": "The Equity and Credit Disconnect Is Getting Really Big Again",
-   "summary": "Are stocks missing something?",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-14/the-equity-and-credit-disconnect-is-getting-really-big-again",
-     "t": "sec"
-    }
-   ],
-   "heat": 107.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-14 22:21",
-   "title": "US stock market today: Wall Street drifts near record highs; economic data in focus - The Times of India",
-   "summary": "US stock market today: Wall Street drifts near record highs; economic data in focus &nbsp;&nbsp; The Times of India",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMGNpb2IyQzRBQnFOU2prXzdadDQtaFdvWENTajdfWVIyRXkyR1hZemdTbzFod2I5NTV6X0I4YTFSOTktWS1ubGUzeUxVSzZtZ1pCU3lVVFBETXNOdGxVSG1iYmpQUFAtT29IemhaYWJ5cmExdlFOX0pEaHR6VzFQNkp3Tm91TGpvS19PWDVtSlJyZFExMmdtUm55N21wOWlaaVUwVVQxLVhpc0lRTFJwdGE3Y1dqdExWSjk2N2I5Ym1WRURNNnNaSUpDNDhvQWMzOTkwM09xNHN3dUdRZldDb0RWWUkxTXFSNUctVlRCUUYzRWxnczdULS1Md1BlSFI4dEVSdkJsUnBPRjc2clBydl9peWQyNHBoNVROSU95OEYwc3AyQzVGeXdrSy1DcXpUTmpvSHdRbjJBT0dnc3gybjdEdU90b2R00gHOAkFVX3lxTE9NRElvbUtYQmxhZnJOaDRaQ3RqY2lrcXRnaUo1a19nbVUyLWpzdFJuQV9Yb0g5T29obUgzNWZtb2FNU2picFlnNVVJUDQteXBqU3pCMzMxTmNJd0Ribm1XWk9VbEdNekxFaEUyQ3BKLWtWZjk2UG5wR0pLSExYejVlNmthMGNYdHF4ZjIwbmpNRnJUNHhMSW14aUwtYkJ0cU40MlA5c18yZElBcnlkSVFfeWplUDdtM2Q3UXh1a3NrdFA5ODU0WGxkRVFHeHYxUklyZzRHZTRuR0U1ZGstN2ZGbVAwQ1pIQW12cUZfWmVvaDJSNkdiNGRIUnBLLXlkWE9TQWxpYlNnOWZSMHRmd1F6ZU5GUE93LUl2bm80WXI4TmNOZlRKODJlSFlzM29tNWdtZ0FZZEx1cTFhaDI5TVBjaWlOcGxyQUtmZHJPTWc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 107.1
+   "heat": 103.6
   },
   {
    "cat": "stock",
@@ -517,13 +531,13 @@
      "t": "sec"
     }
    ],
-   "heat": 106.8
+   "heat": 102.4
   },
   {
    "cat": "stock",
    "time": "2026-08-14 20:18",
-   "title": "US Stocks Slip From Highs as Investors Weigh Consumer Demand",
-   "summary": "US equities slipped from all-time highs as new data showed that consumer spending softened in July.",
+   "title": "US Stocks End Off Record Highs to Mark Third Week of Gains",
+   "summary": "US equities ended with gains for a third straight week, their longest winning streak since May, even as they slipped off record highs on Friday after softer consumer data.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -531,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 106.7
+   "heat": 102.4
   },
   {
    "cat": "stock",
@@ -545,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 106.2
+   "heat": 101.9
   },
   {
    "cat": "stock",
@@ -559,49 +573,49 @@
      "t": "sec"
     }
    ],
-   "heat": 105.7
+   "heat": 101.4
   },
   {
    "cat": "stock",
-   "time": "2026-08-14 08:09",
-   "title": "Reddit Stock Pops 11% on S&P 500 Inclusion Despite Google AI Traffic Concerns - CryptoRank",
-   "summary": "Reddit Stock Pops 11% on S&P 500 Inclusion Despite Google AI Traffic Concerns &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MMVprRm16bEhzMXhRQm5ERDIxODBwc0RqZzNfaVN5ZnNlX09OTWoyVjdZdHdvbTZWNS01SUdKSzNtRlVhZzdrTnRyU1laOE9nU01pbksxSl9LenVfMENsTm1NWkZ1U1RpaTh6QUFrNklFY2pfNXpocDZYMA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 104.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-14 19:43",
-   "title": "Why is Oracle stock sliding today?",
+   "time": "2026-08-14 21:30",
+   "title": "Ingevity CEO David Li sells $761,750 in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/why-is-oracle-stock-sliding-today-93CH-4861443",
+     "u": "https://www.investing.com/news/insider-trading-news/ingevity-ceo-david-li-sells-761750-in-stock-93CH-4861563",
      "t": "agg"
     }
    ],
-   "heat": 104.6
+   "heat": 100.6
   },
   {
    "cat": "stock",
-   "time": "2026-08-14 19:42",
-   "title": "Why is Broadcom stock sliding today?",
+   "time": "2026-08-14 21:30",
+   "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.66%",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/why-is-broadcom-stock-sliding-today-93CH-4861442",
+     "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-066-4861558",
      "t": "agg"
     }
    ],
-   "heat": 104.6
+   "heat": 100.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-14 21:25",
+   "title": "Colombia stocks higher at close of trade; COLCAP up 0.84%",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-084-4861554",
+     "t": "agg"
+    }
+   ],
+   "heat": 100.6
   },
   {
    "cat": "global",
@@ -615,7 +629,21 @@
      "t": "sec"
     }
    ],
-   "heat": 63.6
+   "heat": 67.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-15 04:22",
+   "title": "Chinese Yuan: Steady appreciation backed by PBoC stance – Societe Generale",
+   "summary": "Societe Generale analysts highlight CNY’s firm trend, with the currency advancing to 6.7424, its strongest level since February 2023, on Dollar weakness and lower US yields.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/chinese-yuan-steady-appreciation-backed-by-pboc-stance-societe-generale-202608142022",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.7
   },
   {
    "cat": "global",
@@ -629,21 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-14 23:40",
-   "title": "AI Boom Reshapes Commodity Markets",
-   "summary": "AI’s massive power needs are reshaping the commodities trade. CoreCommodity’s Doug Daly joins Bloomberg Open Interest to explain why uranium and gold remain attractive, why oil mar…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-14/ai-boom-reshapes-commodity-markets-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.3
+   "heat": 51.2
   },
   {
    "cat": "global",
@@ -657,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.9
+   "heat": 47.6
   },
   {
    "cat": "global",
@@ -671,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.8
+   "heat": 47.5
   },
   {
    "cat": "global",
@@ -685,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.7
+   "heat": 47.4
   },
   {
    "cat": "global",
@@ -699,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.7
+   "heat": 47.4
   },
   {
    "cat": "global",
@@ -713,21 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-15 00:28",
-   "title": "New Zealand Dollar charges toward 0.5900 as US Dollar loses ground",
-   "summary": "NZD/USD gains 0.75% on Friday and trades around 0.5895 at the time of writing, with its rally losing some momentum as it approaches the psychological 0.5900 level.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/new-zealand-dollar-charges-toward-05900-as-us-dollar-loses-ground-202608141628",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.4
+   "heat": 47.3
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 44.5
+   "heat": 44.2
   },
   {
    "cat": "global",
@@ -755,63 +755,77 @@
      "t": "agg"
     }
    ],
-   "heat": 44.5
+   "heat": 44.2
   },
   {
    "cat": "global",
-   "time": "2026-08-15 03:02",
-   "title": "Pricey Diesel to Push Harvest Season Costs Higher, Says Tom Kloza",
-   "summary": "Tom Kloza, chief oil advisor to Gulf Oil, says that disruption in the global oil market from the Iran war is likely to make this harvest season extremely costly as average diesel p…",
+   "time": "2026-08-14 23:40",
+   "title": "AI Boom Reshapes Commodity Markets",
+   "summary": "AI’s massive power needs are reshaping the commodities trade. CoreCommodity’s Doug Daly joins Bloomberg Open Interest to explain why uranium and gold remain attractive, why oil mar…",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-14/pricey-diesel-to-push-harvest-season-costs-higher-kloza-video",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-14/ai-boom-reshapes-commodity-markets-video",
      "t": "sec"
     }
    ],
-   "heat": 35.8
+   "heat": 39.0
   },
   {
    "cat": "global",
-   "time": "2026-08-15 00:00",
-   "title": "US Threat to Boost Economic Pressure on Iran Unnerves Oil Market",
-   "summary": "Get Caught Up.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-14/us-threat-to-boost-economic-pressure-on-iran-unnerves-oil-market",
-     "t": "sec"
-    }
-   ],
-   "heat": 35.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-14 17:44",
-   "title": "Market Movers blog: Oil prices in limbo as US and Iran demand compensation in peace deal - Investment Week",
-   "summary": "Market Movers blog: Oil prices in limbo as US and Iran demand compensation in peace deal &nbsp;&nbsp; Investment Week",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 34.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-14 20:08",
-   "title": "Vance Says Cheap Oil and Gas Is Top US Priority in Iran War",
+   "time": "2026-08-15 04:21",
+   "title": "Gold Miners Just Posted Their Second-Best Quarter Ever — And Nobody Cares",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/vance-says-cheap-oil-and-gas-is-top-us-priority-in-iran-war-200685843",
+     "u": "https://www.investing.com/analysis/gold-miners-just-posted-their-secondbest-quarter-ever--and-nobody-cares-200685861",
      "t": "agg"
     }
    ],
-   "heat": 32.7
+   "heat": 29.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-15 01:11",
+   "title": "Gold Tests a Major Resistance as Sell-Off Risk Builds — Watch This Week’s Close",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-tests-a-major-resistance-as-selloff-risk-builds--watch-this-weeks-close-200685866",
+     "t": "agg"
+    }
+   ],
+   "heat": 29.2
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-14 20:44",
+   "title": "Gold and Silver Crash Over $144 and $3.30: Sell Targets Achieved - What’s Next?",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-and-silver-crash-over-144-and-330-sell-targets-achieved--whats-next-200685845",
+     "t": "agg"
+    }
+   ],
+   "heat": 28.5
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-14 19:18",
+   "title": "Gold Never Changed - Everything Around It Did",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-never-changed--everything-around-it-did-200685837",
+     "t": "agg"
+    }
+   ],
+   "heat": 28.2
   },
   {
    "cat": "crypto",
@@ -825,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.8
+   "heat": 95.5
   },
   {
    "cat": "crypto",
@@ -839,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.3
+   "heat": 95.0
   },
   {
    "cat": "crypto",
@@ -853,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.1
+   "heat": 94.7
   },
   {
    "cat": "crypto",
@@ -867,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.0
+   "heat": 94.7
   },
   {
    "cat": "crypto",
@@ -881,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.2
+   "heat": 90.9
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.1
+   "heat": 90.8
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 82.5
+   "heat": 90.2
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 82.2
+   "heat": 89.9
   },
   {
    "cat": "crypto",
@@ -937,7 +951,21 @@
      "t": "sec"
     }
    ],
-   "heat": 81.9
+   "heat": 89.6
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-14 08:09",
+   "title": "How Pokémon Cards Outpaced the S&P 500 and Bitcoin - CryptoRank",
+   "summary": "How Pokémon Cards Outpaced the S&P 500 and Bitcoin &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHFCVzJ0Q1dMdlhFckJqTFRhOHZXcWw2ZVRfSGVvNmVTT2lqWFdQY3lheVNWUk1IVXhnakhBU3VOQnJzbFlBdkctRWM3UHFhMVlvWWdUN2NsZVJoT0JJWjc1Z2dFUnBfT2VMZXdtbU9QMTFkVmMxQ2JNTThteGhvWVp5eHcwUQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 88.4
   },
   {
    "cat": "crypto",
@@ -951,7 +979,21 @@
      "t": "sec"
     }
    ],
-   "heat": 71.0
+   "heat": 74.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-15 05:10",
+   "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+   "summary": "The OCC conditionally approved World Liberty Trust Company’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.9
   },
   {
    "cat": "crypto",
@@ -965,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.1
+   "heat": 70.8
   },
   {
    "cat": "crypto",
@@ -979,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.0
+   "heat": 70.7
   },
   {
    "cat": "crypto",
@@ -993,35 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-14 16:51",
-   "title": "Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices",
-   "summary": "WTI crude tops $82 a barrel, adding inflation pressure and weighing on risk assets as bond yields rise.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
-     "t": "sec"
-    }
-   ],
-   "heat": 66.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-14 14:20",
-   "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
-   "summary": "A new consultation targets \"non-operating companies\" broadly. Two familiar names still land on the deletion list.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
-     "t": "sec"
-    }
-   ],
-   "heat": 65.7
+   "heat": 70.3
   },
   {
    "cat": "sector",
@@ -1035,21 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 222.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 01:23",
-   "title": "Precious Metals Are Rallying Again — But the Bigger Move May Still Be Ahead",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/precious-metals-are-rallying-again--but-the-bigger-move-may-still-be-ahead-200685867",
-     "t": "agg"
-    }
-   ],
-   "heat": 221.6
+   "heat": 241.8
   }
  ]
 }
