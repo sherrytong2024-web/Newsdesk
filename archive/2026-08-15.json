@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 11:02",
+ "updated": "2026-08-15 15:18",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.4
+   "heat": 62.7
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "agg"
     }
    ],
-   "heat": 54.8
+   "heat": 54.1
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.1
+   "heat": 46.4
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.0
+   "heat": 46.2
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.5
+   "heat": 45.8
   },
   {
    "cat": "macro",
@@ -83,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.5
+   "heat": 45.7
   },
   {
    "cat": "macro",
@@ -97,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.2
+   "heat": 45.5
   },
   {
    "cat": "macro",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.7
+   "heat": 45.0
   },
   {
    "cat": "macro",
@@ -125,7 +125,7 @@
      "t": "agg"
     }
    ],
-   "heat": 40.8
+   "heat": 40.1
   },
   {
    "cat": "macro",
@@ -153,7 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.2
+   "heat": 26.5
   },
   {
    "cat": "macro",
@@ -167,7 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 26.8
+   "heat": 26.1
   },
   {
    "cat": "macro",
@@ -181,49 +181,77 @@
      "t": "sec"
     }
    ],
-   "heat": 23.1
+   "heat": 22.4
   },
   {
    "cat": "macro",
-   "time": "2026-08-15 08:00",
-   "title": "Singapore Stocks’ Record Run Gets ‘Goldilocks’ Boost From Growth",
-   "summary": "Singapore’s stocks have outperformed the world over the past month as their traditional strengths of high dividend yields and resilient balance sheets get a lift from a “Goldilocks…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-15/singapore-stocks-record-run-gets-goldilocks-boost-from-growth",
-     "t": "sec"
-    }
-   ],
-   "heat": 19.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-15 02:24",
-   "title": "10-year Treasury yield inches higher as traders digest soft retail sales, monitor the Middle East",
-   "summary": "The moves come after the latest retail sales figures missed expectations and the U.S. said its naval blockade of Iranian ports could continue \"indefinitely.\"",
+   "time": "2026-08-15 13:00",
+   "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
+   "summary": "Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
+     "u": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
      "t": "sec"
     }
    ],
-   "heat": 18.6
+   "heat": 15.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-15 00:06",
+   "title": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally - Intellectia AI",
+   "summary": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally &nbsp;&nbsp; Intellectia AI",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SbjRrUUdoZUpfZGgwS2ZReTFLN1kyUEZxS1hVQnVKWkdNRXVTdGh5UTNxRS0wUlk5LUhwdlBEWWVPeHFaNzFKd2lNSUtrVmpIWXNfYmtPS21ZTDd5bnR2YWVhMmR1dmctWlpOMA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 13.5
   },
   {
    "cat": "sector",
-   "time": "2026-08-15 10:48",
-   "title": "Modi Vows Chip Plants, Nuclear Reactors in India Growth Push",
-   "summary": "India’s Prime Minister Narendra Modi said the country would build more semiconductor plants and expand its fleet of nuclear reactors, as he reiterated his government’s resolve to m…",
+   "time": "2026-08-15 14:55",
+   "title": "Mastercard Payments Being Declined in Australia, Bank Says",
+   "summary": "Some Mastercard card payments are being declined for Australian customers on Saturday afternoon because of a global issue, Commonwealth Bank of Australia said.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-15/modi-vows-chip-plants-nuclear-reactors-in-india-growth-push",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-15/mastercard-payments-being-declined-in-australia-bank-says",
      "t": "sec"
     }
    ],
-   "heat": 248.0
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 13:53",
+   "title": "Malaysia’s Anwar Vows Faster Reforms After Electoral Defeats",
+   "summary": "Malaysian Prime Minister Anwar Ibrahim said he will speed up the pace of reforms and strengthen an anti-corruption drive as he seeks to rebuild public support after a string of ele…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-15/malaysia-s-anwar-vows-faster-reforms-after-electoral-defeats",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 12:01",
+   "title": "China Protests Japan PM, Defense Minister’s Yasukuni Actions",
+   "summary": "China lodged a formal protest with Japan after Prime Minister Sanae Takaichi sent an offering to Yasukuni shrine and Defense Minister Shinjiro Koizumi visited it on the anniversary…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-15/china-protests-japan-pm-defense-minister-s-yasukuni-actions",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.5
   },
   {
    "cat": "sector",
@@ -237,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.2
+   "heat": 238.5
   },
   {
    "cat": "sector",
@@ -251,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.2
+   "heat": 238.4
   },
   {
    "cat": "sector",
@@ -265,35 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 05:39",
-   "title": "FBI Epstein Emails Show Sarah Ferguson Reached Patel",
-   "summary": "Bloomberg News Senior Investigative Reporter writes a weekly newsletter, The FOIA Files. This week's edition show \"records, which include emails, spreadsheets and training slides, …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-14/fbi-epstein-emails-show-sarah-ferguson-reached-patel-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 05:30",
-   "title": "Volatile Week for Equity Markets | Closing Bell",
-   "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Sten…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-14/volatile-week-for-equity-markets-closing-bell-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.1
+   "heat": 238.4
   },
   {
    "cat": "sector",
@@ -307,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.1
+   "heat": 238.4
   },
   {
    "cat": "sector",
@@ -321,21 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 246.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 04:37",
-   "title": "Berkshire Pads Delta, Alphabet Stakes as Abel Taps Cash Pile",
-   "summary": "Berkshire Hathaway Inc. increased its holdings in Delta Air Lines Inc. and Google parent Alphabet Inc. as Greg Abel began tapping into the company’s massive cash hoard.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-14/berkshire-boosts-delta-alphabet-stakes-as-abel-taps-cash-pile",
-     "t": "sec"
-    }
-   ],
-   "heat": 246.9
+   "heat": 238.2
   },
   {
    "cat": "sector",
@@ -349,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 246.8
+   "heat": 238.1
   },
   {
    "cat": "sector",
@@ -363,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 246.7
+   "heat": 238.0
   },
   {
    "cat": "sector",
@@ -377,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 246.5
+   "heat": 237.8
   },
   {
    "cat": "sector",
@@ -391,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 246.4
+   "heat": 237.7
   },
   {
    "cat": "sector",
@@ -405,7 +391,63 @@
      "t": "sec"
     }
    ],
-   "heat": 246.3
+   "heat": 237.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 00:27",
+   "title": "Court rules companies can't import Gilead medications from overseas in blow to AFP health programs",
+   "summary": "A U.S. appeals court has ruled in favor of Gilead Sciences against companies known as alternative funding programs that import medicines from overseas.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/14/court-ruling-gilead-medications-overseas-afps.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 237.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 15:04",
+   "title": "Investor Focus: Best S&P 500 ETFs, Rolls-Royce Stock Hits Record, Andy Burnham’s Plan for Your ISA - Morningstar",
+   "summary": "Investor Focus: Best S&P 500 ETFs, Rolls-Royce Stock Hits Record, Andy Burnham’s Plan for Your ISA &nbsp;&nbsp; Morningstar",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ1FleXhxMFZPOWVwVlZKd1djTjdhY2RLdzZMZjZmLTM2Um10NkdmczFmLWFaQUZmM1lGSXgtOTYyYXdaTldyYjN1OGlNU1B1RVhveDZYakQ2Y2g4cEJtLWxEZ3RyY2FmMTEzNG1fWWRrMURISzI5TklfVXJYbnluS0Nfc1hEOXZFUldxTDViWm0tRjR3anR2ZWh0SG1QOFJZcGVma2JnSTlaT0stMHpXMGk2WlFjRUpqZ3FyYWVlV1FxN2t1QUpyQW52bDFYbmc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 116.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-13 20:37",
+   "title": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli - Benzinga",
+   "summary": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTEU2R1lHOTJiYUNLYWN3Q19Nd29QcVBBUXVySElSXzFPWXE1WV9mVDBwV1lUd2VBVVQ2WTRvVEs3WlpsZElhdnBBSXhVWWlRSlJCRUhtd1hoNDRyM3hkRjlGeDljV1BSN1ZDaTJtVDMyc3FkdjQ0cEt3LVUydC0tMEtxbmFVZlNYcVpMWFM4Y1F3SFc0eTNvcDR0VXd5ZG1xdF91U0dOeWtINmk3WnNobzl4bWhrQWZHbVZETExNZmlfNm9IRWlfc3NGR0lyUUxYbkwyUkR1ZjFYRldBcXh2eWdiWVMzTU9zTF9GRTR0c3JlSTVkRkk3dkV3TE5Sbkx4bGc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 108.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-13 12:16",
+   "title": "Ed Yardeni Raises S&P 500 Target For 2026 After ‘Gangbusters’ Earnings Season – Says He Wasn’t ‘Bullish Enough’ - Stockt",
+   "summary": "Ed Yardeni Raises S&P 500 Target For 2026 After ‘Gangbusters’ Earnings Season – Says He Wasn’t ‘Bullish Enough’ &nbsp;&nbsp; Stocktwits",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzdBZEJJLWZCcTdkcGRwUzJWX2taeFpEeklXaUdfWmFBb0tvaTJOWEx3SkJDeXQzbUFHRkZjeHV6ZWVaNWx2U19BYm1NOWl2T3ZGLS1TMWNMeHg5Ul84ZEQwTThRNGtvN2wwbFRFLXpUVnFCNVhDZmJjNVZoNldvMlk0N1R5NTh5Y3Byd1JNNUJiajRRbmJMdkJGcHpDckVaWmh2aV9XMXptT2RqQ1QwbTh4a0ZWSmtrT3pUUTNkZw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 104.0
   },
   {
    "cat": "stock",
@@ -437,20 +479,6 @@
   },
   {
    "cat": "stock",
-   "time": "2026-08-13 20:37",
-   "title": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli - Benzinga",
-   "summary": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTEU2R1lHOTJiYUNLYWN3Q19Nd29QcVBBUXVySElSXzFPWXE1WV9mVDBwV1lUd2VBVVQ2WTRvVEs3WlpsZElhdnBBSXhVWWlRSlJCRUhtd1hoNDRyM3hkRjlGeDljV1BSN1ZDaTJtVDMyc3FkdjQ0cEt3LVUydC0tMEtxbmFVZlNYcVpMWFM4Y1F3SFc0eTNvcDR0VXd5ZG1xdF91U0dOeWtINmk3WnNobzl4bWhrQWZHbVZETExNZmlfNm9IRWlfc3NGR0lyUUxYbkwyUkR1ZjFYRldBcXh2eWdiWVMzTU9zTF9GRTR0c3JlSTVkRkk3dkV3TE5Sbkx4bGc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 101.6
-  },
-  {
-   "cat": "stock",
    "time": "2026-08-15 06:27",
    "title": "Situational Awareness filing shows AI bets before forced portfolio sale to Citadel",
    "summary": "The hedge fund's five largest disclosed stock holdings at the end of June were Sandisk, Micron Technology, Bloom Energy, Taiwan Semiconductor and Nebius Group.",
@@ -461,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.2
+   "heat": 98.5
   },
   {
    "cat": "stock",
@@ -475,21 +503,21 @@
      "t": "sec"
     }
    ],
-   "heat": 91.2
+   "heat": 98.5
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 05:18",
-   "title": "Stock Movers: Sandisk, Tapestry, Phillips 66 (Podcast)",
-   "summary": "Source: Bloomberg, 4:13",
+   "time": "2026-08-15 06:22",
+   "title": "Reddit Stock Jumps 11% on S&P 500 Addition - Briefs Finance",
+   "summary": "Reddit Stock Jumps 11% on S&P 500 Addition &nbsp;&nbsp; Briefs Finance",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-14/stock-movers-sandisk-tapestry-phillips-66-podcast",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82RWp6c0YzSHAzSGhUMFVQc3QzMTE1ZUJORHh6QXJEcHBTdUdQTDduMUQyd3hUbGdwd0Y4TzZwN0ZNRkl5N1NsdEhHWGVWUmdKNmo2OWNzai1tSUZhVXI3V0tVWkR6ejVaQXZ1UGhHOWpQR2J2LWZvSw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 91.0
+   "heat": 98.5
   },
   {
    "cat": "stock",
@@ -503,7 +531,63 @@
      "t": "sec"
     }
    ],
-   "heat": 89.6
+   "heat": 96.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 05:46",
+   "title": "Horace Mann director Reece sells $70,018 of HMN stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/horace-mann-director-reece-sells-70018-of-hmn-stock-93CH-4861747",
+     "t": "agg"
+    }
+   ],
+   "heat": 96.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 05:46",
+   "title": "Horace Mann director Thomas Bradley sells $258,623 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/horace-mann-director-thomas-bradley-sells-258623-in-stock-93CH-4861746",
+     "t": "agg"
+    }
+   ],
+   "heat": 96.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 05:30",
+   "title": "Avidbank Holdings EVP Wasson sells $331,400 in company stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/avidbank-holdings-evp-wasson-sells-331400-in-company-stock-93CH-4861745",
+     "t": "agg"
+    }
+   ],
+   "heat": 96.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 05:15",
+   "title": "Global self storage director Russell Burke buys $8,458 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/global-self-storage-director-russell-burke-buys-8458-in-stock-93CH-4861742",
+     "t": "agg"
+    }
+   ],
+   "heat": 96.3
   },
   {
    "cat": "stock",
@@ -517,35 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 89.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 02:46",
-   "title": "AeroVironment SVP, chief accounting officer sells $41,381 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/aerovironment-svp-chief-accounting-officer-sells-41381-in-stock-93CH-4861714",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 02:31",
-   "title": "Magnetar Financial, CoreWeave 10% owner, sells $33.4m stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/magnetar-financial-coreweave-10-owner-sells-334m-stock-93CH-4861710",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.6
+   "heat": 96.3
   },
   {
    "cat": "stock",
@@ -559,63 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 88.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 02:16",
-   "title": "CoreWeave (CRWV) 10% owner Magnetar Financial sells $213.8 million in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/coreweave-crwv-10-owner-magnetar-financial-sells-2138-million-in-stock-93CH-4861706",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 02:16",
-   "title": "Magnetar Financial sells $231.6m in CoreWeave stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/magnetar-financial-sells-2316m-in-coreweave-stock-93CH-4861705",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-14 08:09",
-   "title": "Reddit Stock Pops 11% on S&P 500 Inclusion Despite Google AI Traffic Concerns - CryptoRank",
-   "summary": "Reddit Stock Pops 11% on S&P 500 Inclusion Despite Google AI Traffic Concerns &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MMVprRm16bEhzMXhRQm5ERDIxODBwc0RqZzNfaVN5ZnNlX09OTWoyVjdZdHdvbTZWNS01SUdKSzNtRlVhZzdrTnRyU1laOE9nU01pbksxSl9LenVfMENsTm1NWkZ1U1RpaTh6QUFrNklFY2pfNXpocDZYMA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 87.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-14 02:11",
-   "title": "Stock Market Today: S&P 500 Tops 7,800 as Dow Jones Rises on Soft PPI - CryptoRank",
-   "summary": "Stock Market Today: S&P 500 Tops 7,800 as Dow Jones Rises on Soft PPI &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeHhNVHFyVGpHck1jamNFNjJPUktpWWNTTi1PNXYzOGlwYlE2VUFPc0U4MGMwNzFzQnJyeDBpaFppejVpcUV5bnRLUmZUUVFsc0VhWnZXeXp4Y0J2NUcwVjFWenFJbDRlcTVyOTBKTUFFMElNdjhKWHVOcjdaS3NlSTkxd1NERTZIdnByLUNnclFPY0Fub25HSEhYLUdKekhNYkdLaHkwbw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 86.5
+   "heat": 95.8
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.4
+   "heat": 61.7
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.9
+   "heat": 46.2
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.2
+   "heat": 42.5
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.8
+   "heat": 42.1
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.6
+   "heat": 41.9
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.6
+   "heat": 41.8
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.5
+   "heat": 41.8
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.1
+   "heat": 41.4
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 39.3
+   "heat": 38.6
   },
   {
    "cat": "global",
@@ -755,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 39.3
+   "heat": 38.6
   },
   {
    "cat": "global",
@@ -769,7 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 28.9
+   "heat": 28.2
   },
   {
    "cat": "global",
@@ -783,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 28.4
+   "heat": 27.6
   },
   {
    "cat": "global",
@@ -797,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 27.6
+   "heat": 26.9
   },
   {
    "cat": "global",
@@ -811,7 +811,7 @@
      "t": "agg"
     }
    ],
-   "heat": 27.4
+   "heat": 26.7
   },
   {
    "cat": "global",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.2
+   "heat": 22.5
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 102.7
+   "heat": 105.9
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 102.1
+   "heat": 105.4
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 102.1
+   "heat": 105.4
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 101.9
+   "heat": 105.2
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 101.9
+   "heat": 105.2
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 101.8
+   "heat": 105.1
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 101.3
+   "heat": 104.6
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 101.0
+   "heat": 104.3
   },
   {
    "cat": "crypto",
@@ -951,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 100.7
+   "heat": 104.0
   },
   {
    "cat": "crypto",
@@ -965,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 99.5
+   "heat": 102.8
   },
   {
    "cat": "crypto",
@@ -979,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.4
+   "heat": 82.7
   },
   {
    "cat": "crypto",
@@ -993,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.7
+   "heat": 79.0
   },
   {
    "cat": "crypto",
@@ -1007,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.4
+   "heat": 78.7
   },
   {
    "cat": "crypto",
@@ -1021,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.0
+   "heat": 78.3
   },
   {
    "cat": "crypto",
@@ -1035,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.0
+   "heat": 78.3
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 240.0
+   "heat": 232.0
   }
  ]
 }
