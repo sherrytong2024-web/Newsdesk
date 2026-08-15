@@ -1,20 +1,6 @@
 {
- "updated": "2026-08-16 03:00",
+ "updated": "2026-08-16 05:41",
  "items": [
-  {
-   "cat": "macro",
-   "time": "2026-08-15 20:02",
-   "title": "Inflation Is Cooling. But is 2% Out of Reach?",
-   "summary": "BlackRock’s Rick Rieder says the latest CPI report gave markets reason to celebrate, but inflation remains above the Fed’s 2% target. He argues the economy is now “in the ballpark”…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-15/inflation-is-cooling-but-is-2-out-of-reach-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 54.8
-  },
   {
    "cat": "macro",
    "time": "2026-08-15 22:22",
@@ -27,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.2
+   "heat": 38.8
   },
   {
    "cat": "macro",
@@ -41,7 +27,7 @@
      "t": "agg"
     }
    ],
-   "heat": 40.2
+   "heat": 35.7
   },
   {
    "cat": "macro",
@@ -55,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.4
+   "heat": 35.0
   },
   {
    "cat": "macro",
@@ -69,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.2
+   "heat": 34.8
   },
   {
    "cat": "macro",
@@ -83,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.0
+   "heat": 30.6
   },
   {
    "cat": "macro",
@@ -97,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 28.0
   },
   {
    "cat": "macro",
@@ -111,7 +97,7 @@
      "t": "agg"
     }
    ],
-   "heat": 30.2
+   "heat": 26.0
   },
   {
    "cat": "macro",
@@ -125,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.3
+   "heat": 18.8
   },
   {
    "cat": "macro",
@@ -139,35 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-15 20:00",
-   "title": "In the Inflation Ballpark",
-   "summary": "We’re not at target yet.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-15/in-the-inflation-ballpark",
-     "t": "sec"
-    }
-   ],
-   "heat": 22.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-15 00:06",
-   "title": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally - Intellectia AI",
-   "summary": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally &nbsp;&nbsp; Intellectia AI",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SbjRrUUdoZUpfZGgwS2ZReTFLN1kyUEZxS1hVQnVKWkdNRXVTdGh5UTNxRS0wUlk5LUhwdlBEWWVPeHFaNzFKd2lNSUtrVmpIWXNfYmtPS21ZTDd5bnR2YWVhMmR1dmctWlpOMA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 19.5
+   "heat": 18.6
   },
   {
    "cat": "macro",
@@ -181,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 14.3
+   "heat": 13.9
   },
   {
    "cat": "macro",
@@ -195,7 +153,21 @@
      "t": "sec"
     }
    ],
-   "heat": 13.7
+   "heat": 13.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-15 00:06",
+   "title": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally - Intellectia AI",
+   "summary": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally &nbsp;&nbsp; Intellectia AI",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SbjRrUUdoZUpfZGgwS2ZReTFLN1kyUEZxS1hVQnVKWkdNRXVTdGh5UTNxRS0wUlk5LUhwdlBEWWVPeHFaNzFKd2lNSUtrVmpIWXNfYmtPS21ZTDd5bnR2YWVhMmR1dmctWlpOMA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 11.1
   },
   {
    "cat": "macro",
@@ -209,13 +181,69 @@
      "t": "sec"
     }
    ],
-   "heat": 9.7
+   "heat": 9.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-14 06:12",
+   "title": "财联社8月14日电，美联储古尔斯比表示，通胀数据有所改善，希望这种趋势能够持续。用一个词来形容美国的经济，那就是“稳定”。",
+   "summary": "财联社8月14日电，美联储古尔斯比表示，通胀数据有所改善，希望这种趋势能够持续。用一个词来形容美国的经济，那就是“稳定”。 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lSUFJYU03YzQtRVNpQ1VvVnVKRmhwcUF2Nnc2MGdYM28wcUVmYjBTa3VteVdxTi1VY3N5UmhXZmJvNVkxZHM2Tg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 8.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-14 03:06",
+   "title": "财联社8月14日电，纽约联储表示，交易台计划进行约170亿美元的再投资购买",
+   "summary": "财联社8月14日电，纽约联储表示，交易台计划进行约170亿美元的再投资购买 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pYmtPOVVsRkZMX2xObVk4RkphdTkwdm1CaUVLRm5MYXhjQ1NTYkZsOVNHUHpRWE5kOXdMX0FBQlpWd1l2SG9CVw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 8.0
   },
   {
    "cat": "sector",
-   "time": "2026-08-16 02:49",
-   "title": "Hawaii's Big Island lashed by rain and wind as Tropical Storm Lala strengthens",
-   "summary": "The National Hurricane Center issued a rare hurricane warning for the island, which hasn't experienced a direct hurricane landfall in 155 years.",
+   "time": "2026-08-16 04:38",
+   "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
+   "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-16 04:32",
+   "title": "Nvidia eyes investing $3 billion in SoftBank's SB Energy under OpenAI data center deal, Information says",
+   "summary": "The proposed investment ⁠is part of Nvidia's talks with OpenAI ⁠and SB Energy on providing credit support for a panned Ohio data center campus, the report said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-16 03:49",
+   "title": "Lala strengthens into a hurricane and bears down on Hawaii’s Big Island with heavy rain, winds",
+   "summary": "The Big Island has not experienced a direct hurricane landfall in 155 years.",
    "srcs": [
     {
      "n": "CNBC",
@@ -223,7 +251,21 @@
      "t": "sec"
     }
    ],
-   "heat": 228.0
+   "heat": 235.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-16 03:00",
+   "title": "Bond Traders Agonize Over AI Companies’ $70 Billion of Shadow Credit Backstops",
+   "summary": "Even before Nvidia Corp.’s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don’t appe…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.6
   },
   {
    "cat": "sector",
@@ -237,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.8
+   "heat": 235.3
   },
   {
    "cat": "sector",
@@ -251,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.5
+   "heat": 235.1
   },
   {
    "cat": "sector",
@@ -265,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.3
+   "heat": 234.9
   },
   {
    "cat": "sector",
@@ -279,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.3
+   "heat": 234.9
   },
   {
    "cat": "sector",
@@ -293,21 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 20:39",
-   "title": "Robinson Says Activists Need Leverage to Win",
-   "summary": "Author of the book 'From Presence to Power' Rashad Robinson is on Bloomberg This Weekend and explains to hosts David Gura and Christina Ruffini that visibility, media attention and…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-15/robinson-says-activists-need-leverage-to-win-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 226.9
+   "heat": 234.9
   },
   {
    "cat": "sector",
@@ -321,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 226.9
+   "heat": 234.5
   },
   {
    "cat": "sector",
@@ -335,21 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 226.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 19:00",
-   "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
-   "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 226.7
+   "heat": 234.4
   },
   {
    "cat": "sector",
@@ -363,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 226.2
+   "heat": 233.7
   },
   {
    "cat": "sector",
@@ -377,21 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 225.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 05:45",
-   "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
-   "summary": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 224.5
+   "heat": 233.4
   },
   {
    "cat": "stock",
@@ -405,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 122.0
+   "heat": 121.6
   },
   {
    "cat": "stock",
@@ -419,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 119.1
+   "heat": 118.7
   },
   {
    "cat": "stock",
@@ -433,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 119.1
+   "heat": 118.6
   },
   {
    "cat": "stock",
@@ -447,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 119.0
+   "heat": 118.6
   },
   {
    "cat": "stock",
@@ -517,17 +517,17 @@
      "t": "sec"
     }
    ],
-   "heat": 106.9
+   "heat": 106.5
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 18:46",
-   "title": "Sanjit Biswas, Samsara CEO, sells $10.1m in stock",
+   "time": "2026-08-15 21:07",
+   "title": "Why Nvidia’s $500bn investment mobilization is a positive for the stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/sanjit-biswas-samsara-ceo-sells-101m-in-stock-93CH-4861831",
+     "u": "https://www.investing.com/news/stock-market-news/why-nvidias-500bn-investment-mobilization-is-a-positive-for-the-stock-4861855",
      "t": "agg"
     }
    ],
@@ -535,55 +535,13 @@
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 18:46",
-   "title": "Curbline Properties director Alexander Otto sells $5.2m stock",
+   "time": "2026-08-15 20:31",
+   "title": "Atmos Energy director William Ware buys $50,278 in company stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/curbline-properties-director-alexander-otto-sells-52m-stock-93CH-4861830",
-     "t": "agg"
-    }
-   ],
-   "heat": 104.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 18:46",
-   "title": "Otter Tail VP, human resources Paul Knutson sells $68,159 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/otter-tail-vp-human-resources-paul-knutson-sells-68159-in-stock-93CH-4861829",
-     "t": "agg"
-    }
-   ],
-   "heat": 104.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 06:22",
-   "title": "Reddit Stock Jumps 11% on S&P 500 Addition - Briefs Finance",
-   "summary": "Reddit Stock Jumps 11% on S&P 500 Addition &nbsp;&nbsp; Briefs Finance",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82RWp6c0YzSHAzSGhUMFVQc3QzMTE1ZUJORHh6QXJEcHBTdUdQTDduMUQyd3hUbGdwd0Y4TzZwN0ZNRkl5N1NsdEhHWGVWUmdKNmo2OWNzai1tSUZhVXI3V0tVWkR6ejVaQXZ1UGhHOWpQR2J2LWZvSw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 104.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 18:16",
-   "title": "H.B. Fuller exec VP Nathan Weaver sells $593k in company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/hb-fuller-exec-vp-nathan-weaver-sells-593k-in-company-stock-93CH-4861826",
+     "u": "https://www.investing.com/news/insider-trading-news/atmos-energy-director-william-ware-buys-50278-in-company-stock-93CH-4861854",
      "t": "agg"
     }
    ],
@@ -591,13 +549,55 @@
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 17:16",
-   "title": "General Dynamics director Peter Wall sells $788,897 in stock",
+   "time": "2026-08-15 20:30",
+   "title": "Home Bancshares director Jim Rankin sells $462,966 in HOMB stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/general-dynamics-director-peter-wall-sells-788897-in-stock-93CH-4861822",
+     "u": "https://www.investing.com/news/insider-trading-news/home-bancshares-director-jim-rankin-sells-462966-in-homb-stock-93CH-4861853",
+     "t": "agg"
+    }
+   ],
+   "heat": 104.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 20:02",
+   "title": "Kestra Medical Technologies CEO Brian Webster sells $692,214 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-ceo-brian-webster-sells-692214-in-stock-93CH-4861849",
+     "t": "agg"
+    }
+   ],
+   "heat": 104.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 20:01",
+   "title": "Equinix director Christopher Paisley sells $4.08m in EQIX stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/equinix-director-christopher-paisley-sells-408m-in-eqix-stock-93CH-4861848",
+     "t": "agg"
+    }
+   ],
+   "heat": 104.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 20:01",
+   "title": "Cactus CEO Scott Bender sells $4.99m in company stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/cactus-ceo-scott-bender-sells-499m-in-company-stock-93CH-4861847",
      "t": "agg"
     }
    ],
@@ -615,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.8
+   "heat": 59.3
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 44.2
+   "heat": 43.8
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.6
+   "heat": 40.1
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.1
+   "heat": 39.7
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 39.5
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.9
+   "heat": 39.4
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.9
+   "heat": 39.4
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "agg"
     }
    ],
-   "heat": 36.7
+   "heat": 36.2
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 36.7
+   "heat": 36.2
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.0
+   "heat": 30.6
   },
   {
    "cat": "global",
@@ -755,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 26.2
+   "heat": 25.8
   },
   {
    "cat": "global",
@@ -769,7 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 25.7
+   "heat": 25.2
   },
   {
    "cat": "global",
@@ -783,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 25.0
+   "heat": 24.5
   },
   {
    "cat": "global",
@@ -797,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 24.7
+   "heat": 24.3
   },
   {
    "cat": "global",
@@ -811,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 16.5
+   "heat": 16.1
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.3
+   "heat": 98.8
   },
   {
    "cat": "crypto",
@@ -839,21 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-14 23:41",
-   "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
-   "summary": "Bank Leumi customers will be able to buy, hold and sell three major cryptocurrencies directly through the bank’s investment app beginning in early 2027.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 103.4
+   "heat": 95.5
   },
   {
    "cat": "crypto",
@@ -867,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 103.1
+   "heat": 94.7
   },
   {
    "cat": "crypto",
@@ -881,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 99.0
+   "heat": 90.6
   },
   {
    "cat": "crypto",
@@ -895,35 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 99.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-15 02:15",
-   "title": "Tom Lee Wants a 10% Crash Before S&P 500 Hits 8,000, Bitcoin Already Had One - CryptoRank",
-   "summary": "Tom Lee Wants a 10% Crash Before S&P 500 Hits 8,000, Bitcoin Already Had One &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZTlGT1l2VDFBaEhWaTY3R2lndU1ZaXIzMVVsVXZoaUFxa2F5dGpHYlpKUG1yYjJVdEx6QW1udUNnQnU4S01YMkxfenZhczA3Z3F5YzlrSi1vQ0h0WXVkdHNOR0NNRjI5emRtVWRzekZMdnMxYnhyT0JUaG04N2tSdA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 95.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-14 17:18",
-   "title": "Bitcoin’s stall around $63,000 exposes how weak its buyers have become amid record high S&P 500 - CryptoRank",
-   "summary": "Bitcoin’s stall around $63,000 exposes how weak its buyers have become amid record high S&P 500 &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONXUzSDhqRzYzUnd1YkF2d0JJZjU4R0RESzZkM2RfMnJfTnZrb3BvSlZCWDlqOVd1VjF1cDNySFFDRjcxYkZoUS1Dc1VfTnRERUpKZTlfMUZxWFNhYlFxNFBYc01NWHRBR0pxcGlXSG9lNl81cG5WU0MwZG1mX1VvSGVLLW41TnNhcTRZN2RzN0hyZWpLdkxuWGp5NEs1d19XMnRsYWhsOGQ0R1lmWVdaUVZTQUFTdFV0NW5YV21WOUxfWExVbjZGbQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 94.4
+   "heat": 90.5
   },
   {
    "cat": "crypto",
@@ -937,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.8
+   "heat": 68.3
   },
   {
    "cat": "crypto",
@@ -951,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.2
+   "heat": 66.7
   },
   {
    "cat": "crypto",
@@ -965,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 77.1
+   "heat": 64.6
   },
   {
    "cat": "crypto",
@@ -979,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.8
+   "heat": 64.4
   },
   {
    "cat": "crypto",
@@ -993,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.8
+   "heat": 64.3
   },
   {
    "cat": "crypto",
@@ -1007,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.4
+   "heat": 63.9
   },
   {
    "cat": "crypto",
@@ -1021,7 +979,49 @@
      "t": "sec"
     }
    ],
-   "heat": 76.3
+   "heat": 63.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-15 02:44",
+   "title": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
+   "summary": "Payward grew revenue despite weaker crypto spot activity, as funded accounts jumped 42% and a growing share of revenue came from outside transaction-based activity.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 63.5
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-15 01:03",
+   "title": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
+   "summary": "The UK lawmaker declared victory following a by-election, triggering a resumption of an investigation from the parliamentary commissioner for standards into his crypto donations.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 63.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-10 17:45",
+   "title": "S&P 500 Tests Top of Four-Year Logarithmic Channel: What It Means for Markets - CryptoRank",
+   "summary": "S&P 500 Tests Top of Four-Year Logarithmic Channel: What It Means for Markets &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXVzQ2diM0Nfa2tmX0lMczRfSTFaNHJxdXU2dnkySkd5WE55YjFib2JidWx4cFZsS2F5NjU1NWoydlR6YUlUQVlzMWZMa3J3V0JMbFZVYWoyV1Aya1FvSjhCajVRekpLSU5RSFc3YzJ6TnpQQkZwc1pXNHBJRkZGSERuR1BtelRodGFrOQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
   },
   {
    "cat": "sector",
@@ -1035,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 222.3
+   "heat": 229.9
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 224.0
+   "heat": 232.0
   }
  ]
 }
