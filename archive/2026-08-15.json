@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 15:18",
+ "updated": "2026-08-15 17:51",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.7
+   "heat": 70.2
   },
   {
    "cat": "macro",
@@ -27,7 +27,21 @@
      "t": "agg"
     }
    ],
-   "heat": 54.1
+   "heat": 57.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-15 15:44",
+   "title": "Xi Urges Shift to Prevention in Disaster Management, Xinhua Says",
+   "summary": "President Xi Jinping called for China to shift disaster management toward prevention, saying safety and resilience should be integrated into planning and development, Xinhua News A…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-15/xi-urges-shift-to-prevention-in-disaster-management-xinhua-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.6
   },
   {
    "cat": "macro",
@@ -41,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.4
+   "heat": 50.0
   },
   {
    "cat": "macro",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.2
+   "heat": 49.8
   },
   {
    "cat": "macro",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.8
+   "heat": 49.3
   },
   {
    "cat": "macro",
@@ -83,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.7
+   "heat": 49.3
   },
   {
    "cat": "macro",
@@ -97,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.5
+   "heat": 49.1
   },
   {
    "cat": "macro",
@@ -111,21 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-14 03:58",
-   "title": "Rates Spark: The Yen Link to US Treasuries",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/rates-spark-the-yen-link-to-us-treasuries-200685801",
-     "t": "agg"
-    }
-   ],
-   "heat": 40.1
+   "heat": 48.5
   },
   {
    "cat": "macro",
@@ -139,7 +139,21 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 44.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-14 03:58",
+   "title": "Rates Spark: The Yen Link to US Treasuries",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/rates-spark-the-yen-link-to-us-treasuries-200685801",
+     "t": "agg"
+    }
+   ],
+   "heat": 43.7
   },
   {
    "cat": "macro",
@@ -153,7 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 26.5
+   "heat": 26.1
   },
   {
    "cat": "macro",
@@ -167,7 +181,7 @@
      "t": "sec"
     }
    ],
-   "heat": 26.1
+   "heat": 25.7
   },
   {
    "cat": "macro",
@@ -181,49 +195,35 @@
      "t": "sec"
     }
    ],
-   "heat": 22.4
+   "heat": 21.9
   },
   {
    "cat": "macro",
-   "time": "2026-08-15 13:00",
-   "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
-   "summary": "Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.",
+   "time": "2026-08-15 17:00",
+   "title": "Quartz Industry Splits as Trump Tariffs Fuel Affordability Fears",
+   "summary": "The US starts collecting tariffs Saturday on imported quartz slabs used for countertops, backsplashes and bathroom tiles, dividing the industry among opponents who warn of added co…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-15/quartz-industry-splits-as-trump-tariffs-fuel-affordability-fears",
      "t": "sec"
     }
    ],
-   "heat": 15.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-15 00:06",
-   "title": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally - Intellectia AI",
-   "summary": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally &nbsp;&nbsp; Intellectia AI",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SbjRrUUdoZUpfZGgwS2ZReTFLN1kyUEZxS1hVQnVKWkdNRXVTdGh5UTNxRS0wUlk5LUhwdlBEWWVPeHFaNzFKd2lNSUtrVmpIWXNfYmtPS21ZTDd5bnR2YWVhMmR1dmctWlpOMA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 13.5
+   "heat": 19.9
   },
   {
    "cat": "sector",
-   "time": "2026-08-15 14:55",
-   "title": "Mastercard Payments Being Declined in Australia, Bank Says",
-   "summary": "Some Mastercard card payments are being declined for Australian customers on Saturday afternoon because of a global issue, Commonwealth Bank of Australia said.",
+   "time": "2026-08-15 17:16",
+   "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
+   "summary": "Alibaba Group Holding’s open-weight models have accumulated more than 3 billion global downloads in the past six months, eclipsing Meta Platforms Inc., Alphabet Inc. and domestic p…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-15/mastercard-payments-being-declined-in-australia-bank-says",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
      "t": "sec"
     }
    ],
-   "heat": 239.9
+   "heat": 235.9
   },
   {
    "cat": "sector",
@@ -237,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.8
+   "heat": 235.3
   },
   {
    "cat": "sector",
@@ -251,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 235.0
   },
   {
    "cat": "sector",
@@ -265,21 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 05:58",
-   "title": "Hollywood Box Offices Are Back",
-   "summary": "Hollywood has once again cheated death. The first seven-plus months of 2026 have revived the industry’s faith — not just in movies but in the act of going to the theater. Global ti…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-14/hollywood-box-offices-are-back-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 238.4
+   "heat": 234.1
   },
   {
    "cat": "sector",
@@ -293,21 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 05:29",
-   "title": "Quebec Opens Door on Dairy Quotas but Demands Trade Gains",
-   "summary": "Plus: CPPIB has its best quarter since 2015",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-14/quebec-opens-door-on-dairy-quotas-but-demands-trade-gains",
-     "t": "sec"
-    }
-   ],
-   "heat": 238.4
+   "heat": 234.0
   },
   {
    "cat": "sector",
@@ -321,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.2
+   "heat": 233.8
   },
   {
    "cat": "sector",
@@ -335,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.1
+   "heat": 233.7
   },
   {
    "cat": "sector",
@@ -349,21 +321,21 @@
      "t": "sec"
     }
    ],
-   "heat": 238.0
+   "heat": 233.5
   },
   {
    "cat": "sector",
-   "time": "2026-08-15 01:52",
-   "title": "Beyond Chatbots: The Next Wave of AI",
-   "summary": "224 Ventures is a new AI-native venture firm launched by former AIX Ventures co-founder Shaun Johnson, ex-Google DeepMind researcher Oriol Vinyals, and AI pioneer Yann LeCun. The t…",
+   "time": "2026-08-15 02:04",
+   "title": "Signs of a Slowing US Consumer | Open Interest 8/14/2026",
+   "summary": "Get a jump start on the US trading day with Dave Gura on \"Bloomberg Open Interest.\" Signs the consumer is finally slowing sown. Today, retail sales post their biggest drop in more …",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-14/beyond-chatbots-the-next-wave-of-ai-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-14/open-interest-8-14-2026-video",
      "t": "sec"
     }
    ],
-   "heat": 237.8
+   "heat": 233.4
   },
   {
    "cat": "sector",
@@ -377,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 237.7
+   "heat": 233.3
   },
   {
    "cat": "sector",
@@ -391,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 237.6
+   "heat": 233.2
   },
   {
    "cat": "sector",
@@ -405,7 +377,35 @@
      "t": "sec"
     }
    ],
-   "heat": 237.5
+   "heat": 233.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-14 20:28",
+   "title": "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
+   "summary": "Japan protested Vladimir Putin’s first visit to the disputed Kuril Islands, escalating tensions over territory claimed by both Tokyo and Moscow.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 232.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-14 20:15",
+   "title": "Data breach notices have already blown past last year’s total — and AI is playing a growing role",
+   "summary": "Data breaches are surging in 2026, with artificial intelligence playing a growing role in cyberattacks, and 'malicious insider' incidents also on the rise.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 232.4
   },
   {
    "cat": "stock",
@@ -419,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 116.0
+   "heat": 99.5
   },
   {
    "cat": "stock",
@@ -433,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 108.9
+   "heat": 92.5
   },
   {
    "cat": "stock",
@@ -447,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.0
+   "heat": 92.0
   },
   {
    "cat": "stock",
@@ -461,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.0
+   "heat": 92.0
   },
   {
    "cat": "stock",
@@ -475,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.0
+   "heat": 92.0
   },
   {
    "cat": "stock",
@@ -489,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 98.5
+   "heat": 86.1
   },
   {
    "cat": "stock",
@@ -503,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 98.5
+   "heat": 86.1
   },
   {
    "cat": "stock",
@@ -517,7 +517,35 @@
      "t": "sec"
     }
    ],
-   "heat": 98.5
+   "heat": 86.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 01:01",
+   "title": "Stock Market Today: S&P 500 Holds Near Record High as Dow Slips on Weak Retail Sales - CryptoRank",
+   "summary": "Stock Market Today: S&P 500 Holds Near Record High as Dow Slips on Weak Retail Sales &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRTRJMFE4M3h5MHVtZXNNa2ZPdHpaUUpadmdXTXgyU00zY1RLZ1JZU1NldzRlZ0N0NGJxM3BkVlVEMDdiLWQ4Y0tiekR0YkxMMEZiX2wzUjFkTWlnQWhXSWNGYW1xZXhPSEtiUFRjci1YNk5aemt3UEI1blYzVmdMTnNjd0FBM3lwbkZVbEJvTFdJUzhDVlVkMUkxbXkzQktJYUlLZHJqSDUwenVHRkpNeXd1NUVwMWU3VXlIdg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 85.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 08:46",
+   "title": "Knight-Swift CEO Reid Dove sells $12.3m in company stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/knightswift-ceo-reid-dove-sells-123m-in-company-stock-93CH-4861757",
+     "t": "agg"
+    }
+   ],
+   "heat": 84.5
   },
   {
    "cat": "stock",
@@ -531,63 +559,21 @@
      "t": "sec"
     }
    ],
-   "heat": 96.9
+   "heat": 84.5
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 05:46",
-   "title": "Horace Mann director Reece sells $70,018 of HMN stock",
+   "time": "2026-08-15 08:01",
+   "title": "Empery Asset Management acquires $4.07m in Empery Digital stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/horace-mann-director-reece-sells-70018-of-hmn-stock-93CH-4861747",
+     "u": "https://www.investing.com/news/insider-trading-news/empery-asset-management-acquires-407m-in-empery-digital-stock-93CH-4861754",
      "t": "agg"
     }
    ],
-   "heat": 96.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 05:46",
-   "title": "Horace Mann director Thomas Bradley sells $258,623 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/horace-mann-director-thomas-bradley-sells-258623-in-stock-93CH-4861746",
-     "t": "agg"
-    }
-   ],
-   "heat": 96.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 05:30",
-   "title": "Avidbank Holdings EVP Wasson sells $331,400 in company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/avidbank-holdings-evp-wasson-sells-331400-in-company-stock-93CH-4861745",
-     "t": "agg"
-    }
-   ],
-   "heat": 96.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 05:15",
-   "title": "Global self storage director Russell Burke buys $8,458 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/global-self-storage-director-russell-burke-buys-8458-in-stock-93CH-4861742",
-     "t": "agg"
-    }
-   ],
-   "heat": 96.3
+   "heat": 84.4
   },
   {
    "cat": "stock",
@@ -601,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.3
+   "heat": 83.9
   },
   {
    "cat": "stock",
@@ -615,7 +601,21 @@
      "t": "sec"
     }
    ],
-   "heat": 95.8
+   "heat": 83.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-12 08:01",
+   "title": "Best S&P 500 Stocks Standalone - Stocks Down Under",
+   "summary": "Best S&P 500 Stocks Standalone &nbsp;&nbsp; Stocks Down Under",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sMlRvRTEzbE9ZRjJzNTBUSUl1aDZzTFVuQVlQT2RpZU5tRFVITWVHVzNhb2FvU0VZY2RwRERfd0ppNkJfbGptSDdBUHE4aE1XRHROOFNOUkUxeGEzU0NzMVJyY0VGc1R0elE?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 80.0
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 61.7
+   "heat": 57.3
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.2
+   "heat": 45.8
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.5
+   "heat": 42.1
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.1
+   "heat": 41.6
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.9
+   "heat": 41.5
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.8
+   "heat": 41.4
   },
   {
    "cat": "global",
@@ -710,20 +710,6 @@
     {
      "n": "FXStreet(外汇)",
      "u": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-128-with-upside-risks-against-us-dollar-ocbc-202608141814",
-     "t": "sec"
-    }
-   ],
-   "heat": 41.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-14 23:40",
-   "title": "AI Boom Reshapes Commodity Markets",
-   "summary": "AI’s massive power needs are reshaping the commodities trade. CoreCommodity’s Doug Daly joins Bloomberg Open Interest to explain why uranium and gold remain attractive, why oil mar…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-14/ai-boom-reshapes-commodity-markets-video",
      "t": "sec"
     }
    ],
@@ -741,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 38.6
+   "heat": 38.2
   },
   {
    "cat": "global",
@@ -755,7 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 38.6
+   "heat": 38.2
   },
   {
    "cat": "global",
@@ -769,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 28.2
+   "heat": 23.7
   },
   {
    "cat": "global",
@@ -783,7 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 27.6
+   "heat": 23.2
   },
   {
    "cat": "global",
@@ -797,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 26.9
+   "heat": 22.5
   },
   {
    "cat": "global",
@@ -811,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 26.7
+   "heat": 22.2
   },
   {
    "cat": "global",
@@ -825,7 +811,21 @@
      "t": "sec"
     }
    ],
-   "heat": 22.5
+   "heat": 18.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-14 17:44",
+   "title": "Market Movers blog: Oil prices in limbo as US and Iran demand compensation in peace deal - Investment Week",
+   "summary": "Market Movers blog: Oil prices in limbo as US and Iran demand compensation in peace deal &nbsp;&nbsp; Investment Week",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 16.0
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 105.9
+   "heat": 113.5
   },
   {
    "cat": "crypto",
@@ -853,35 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 105.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-14 23:29",
-   "title": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
-   "summary": "A $116 million Bitcoin wallet exploit puts self-custody under scrutiny as ETF inflows rebound, Strategy eyes more BTC and miners chase billions in AI deals.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 105.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-14 22:40",
-   "title": "Here’s what happened in crypto today",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 105.2
+   "heat": 113.0
   },
   {
    "cat": "crypto",
@@ -895,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 105.2
+   "heat": 112.8
   },
   {
    "cat": "crypto",
@@ -909,7 +881,49 @@
      "t": "sec"
     }
    ],
-   "heat": 105.1
+   "heat": 112.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-15 02:15",
+   "title": "Tom Lee Wants a 10% Crash Before S&P 500 Hits 8,000, Bitcoin Already Had One - CryptoRank",
+   "summary": "Tom Lee Wants a 10% Crash Before S&P 500 Hits 8,000, Bitcoin Already Had One &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZTlGT1l2VDFBaEhWaTY3R2lndU1ZaXIzMVVsVXZoaUFxa2F5dGpHYlpKUG1yYjJVdEx6QW1udUNnQnU4S01YMkxfenZhczA3Z3F5YzlrSi1vQ0h0WXVkdHNOR0NNRjI5emRtVWRzekZMdnMxYnhyT0JUaG04N2tSdA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 109.4
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-14 23:29",
+   "title": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
+   "summary": "A $116 million Bitcoin wallet exploit puts self-custody under scrutiny as ETF inflows rebound, Strategy eyes more BTC and miners chase billions in AI deals.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 108.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-14 22:40",
+   "title": "Here’s what happened in crypto today",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 108.8
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.6
+   "heat": 108.2
   },
   {
    "cat": "crypto",
@@ -937,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.3
+   "heat": 107.9
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.0
+   "heat": 107.6
   },
   {
    "cat": "crypto",
@@ -965,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 102.8
+   "heat": 106.4
   },
   {
    "cat": "crypto",
@@ -979,77 +993,63 @@
      "t": "sec"
     }
    ],
-   "heat": 82.7
+   "heat": 86.3
   },
   {
    "cat": "crypto",
-   "time": "2026-08-15 09:22",
-   "title": "S&P 500 Hits 7,800: Is Wall Street’s Risk-On Rally a Signal for Indian Crypto Traders? - CryptoRank",
-   "summary": "S&P 500 Hits 7,800: Is Wall Street’s Risk-On Rally a Signal for Indian Crypto Traders? &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbS12TmQxVkE0T3lkcGpiMm45UDVWb2VoNWozWjlEQkhSYmRVYkZaUXRiekZiQm1PN090RU5hcXF0NS1yQTlYaDV1ckFEX1RVa19LVVEyZC1VZ0lWRHB4YjFaZGNiZTBzeTdQaWZUdVhIQXB6TVFQdmNBZmdnOTFoV3FITE04Y0c5NmYzSVV2SlpUN19tRDNIa1AxaklrNUs0dU1mQktPRnpBSTc4aHNxeE4tY1VkcGRxWTVj?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 79.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-15 07:41",
-   "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
-   "summary": "Those involved in a meeting of CEOs from the worlds of crypto, prediction markets and AI anticipate President Donald Trump will take part in next week's gathering.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
-     "t": "sec"
-    }
-   ],
-   "heat": 78.7
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-15 05:08",
-   "title": "Ireland plans industry standards for illicit crypto use",
-   "summary": "The proposed policies under Ireland’s AML framework included stricter measures on transfers from private crypto wallets and overseas digital asset companies.",
+   "time": "2026-08-14 22:14",
+   "title": "JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing",
+   "summary": "JPMorgan reported a 25% increase in its Bitcoin ETF position and more than quadrupled its Ether ETF position in the second quarter.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/markets/jpmorgan-crypto-etf-moves-risk-not-bullish-bet-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 78.3
+   "heat": 84.7
   },
   {
    "cat": "crypto",
-   "time": "2026-08-15 05:00",
-   "title": "Wall Street slips: S&P 500, Nasdaq, and Dow close lower in quiet session - CryptoRank",
-   "summary": "Wall Street slips: S&P 500, Nasdaq, and Dow close lower in quiet session &nbsp;&nbsp; CryptoRank",
+   "time": "2026-08-14 22:38",
+   "title": "Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses",
+   "summary": "Bitcoin falls further toward new August lows, ignoring positive US inflation trends while US stocks continue to circle all-time highs.",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYRVc4Y0daLWJPWFhtY1AyazdZRll3OWNMbFlmazJyU2JYWE5ZWlRPLXFkbmsxbTVEU29jejgzdjVjRmpfN19tQWNXclE4NmJob1ROMlIzQ0pNMkIwdkc3TFRYeGI1Q3NDMHREN3A1bkFtcHFyUnc?oc=5",
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/bitcoin-price-drops-trader-warns-weekly-close-may-spark-more-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 78.3
+   "heat": 80.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-14 22:12",
+   "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+   "summary": "The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
+     "t": "sec"
+    }
+   ],
+   "heat": 80.7
   },
   {
    "cat": "sector",
-   "time": "2026-08-12 15:43",
-   "title": "08:06:55【中信证券：字节跳动成立AI数据部门 版权数据价值重估】",
-   "summary": "08:06:55【中信证券：字节跳动成立AI数据部门 版权数据价值重估】 &nbsp;&nbsp; 财联社",
+   "time": "2026-08-14 16:52",
+   "title": "17:24:50【高盛：闪迪长期盈利目标超预期 HBF有望打开AI存储新空间】",
+   "summary": "17:24:50【高盛：闪迪长期盈利目标超预期 HBF有望打开AI存储新空间】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZZlF1eWxNcWhZaTNSSWVhUWw5RUNsT1NpYmtWVzZRUmpGN2xRVWN4dmYtMXJZYy13ZERsWVktcnVPeUt3anRfTQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90V3ZhUktLRGJHTHdhLVAyaWNWOXhSRld3bW9QOFNvckRyQnNpNTIwTUxCTVlHeFhpWkd1cXhNUXl4UHUyZmFUYg?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 232.0
+   "heat": 231.8
   }
  ]
 }
