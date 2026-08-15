@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 21:38",
+ "updated": "2026-08-15 23:41",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,21 @@
      "t": "sec"
     }
    ],
-   "heat": 67.7
+   "heat": 67.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-15 22:22",
+   "title": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
+   "summary": "No surprises on inflation and new financing developments in the artificial intelligence trade drove the record-breaking action on Wall Street last week.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 55.8
   },
   {
    "cat": "macro",
@@ -27,11 +41,11 @@
      "t": "agg"
     }
    ],
-   "heat": 53.1
+   "heat": 52.7
   },
   {
    "cat": "macro",
-   "time": "2026-08-15 21:32",
+   "time": "2026-08-15 22:19",
    "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
    "summary": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.",
    "srcs": [
@@ -41,35 +55,21 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 47.8
   },
   {
    "cat": "macro",
-   "time": "2026-08-15 16:47",
-   "title": "China Film’s Sales Soar as Online Scorn Attracts Curious Viewers",
-   "summary": "A Chinese animated film that generated only about $1,000 in ticket sales in its first 10 days at theaters became a social-media sensation after online ridicule helped propel its bo…",
+   "time": "2026-08-15 14:02",
+   "title": "Is Alphabet signaling a shift in its AI strategy?",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-15/china-film-s-sales-soar-as-online-scorn-attracts-curious-viewers",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/is-alphabet-signaling-a-shift-in-its-ai-strategy-4861790",
+     "t": "agg"
     }
    ],
-   "heat": 51.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-15 15:44",
-   "title": "Xi Urges Shift to Prevention in Disaster Management, Xinhua Says",
-   "summary": "President Xi Jinping called for China to shift disaster management toward prevention, saying safety and resilience should be integrated into planning and development, Xinhua News A…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-15/xi-urges-shift-to-prevention-in-disaster-management-xinhua-says",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.0
+   "heat": 44.4
   },
   {
    "cat": "macro",
@@ -83,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.7
+   "heat": 44.4
   },
   {
    "cat": "macro",
@@ -97,21 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-15 00:27",
-   "title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
-   "summary": "New CEO Josh D'Amaro has said his strategy for continued growth at Disney is centered around storytelling, intellectual property and technology.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 48.5
+   "heat": 44.4
   },
   {
    "cat": "macro",
@@ -125,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.9
+   "heat": 43.6
   },
   {
    "cat": "macro",
@@ -139,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 44.0
+   "heat": 40.0
   },
   {
    "cat": "macro",
@@ -153,21 +139,35 @@
      "t": "agg"
     }
    ],
-   "heat": 43.1
+   "heat": 38.7
   },
   {
    "cat": "macro",
-   "time": "2026-08-15 03:50",
-   "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-   "summary": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law",
+   "time": "2026-08-15 22:46",
+   "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
+   "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
+     "u": "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
      "t": "sec"
     }
    ],
-   "heat": 21.0
+   "heat": 27.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-15 21:30",
+   "title": "College can cost $100,000 a year. Here's how families are covering the tab",
+   "summary": "Because families struggle to pay for school, many students and their parents increasingly depend on federal and private aid to help foot the bill.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/15/how-families-pay-for-college-as-tuition-costs-soar.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.6
   },
   {
    "cat": "macro",
@@ -181,7 +181,7 @@
      "t": "sec"
     }
    ],
-   "heat": 19.7
+   "heat": 23.4
   },
   {
    "cat": "macro",
@@ -195,13 +195,13 @@
      "t": "sec"
     }
    ],
-   "heat": 17.3
+   "heat": 21.0
   },
   {
    "cat": "macro",
    "time": "2026-08-15 00:06",
-   "title": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally - Intellectia AI",
-   "summary": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally &nbsp;&nbsp; Intellectia AI",
+   "title": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally - intellectia.ai",
+   "summary": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally &nbsp;&nbsp; intellectia.ai",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -209,7 +209,77 @@
      "t": "sec"
     }
    ],
-   "heat": 16.4
+   "heat": 20.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 23:05",
+   "title": "Drone Swarms Push AI Deeper Into Modern Warfare",
+   "summary": "Bloomberg News Cyber Security & Tech Reporter Katrina Manson got a firsthand look at autonomous drone-swarm technology that allows multiple aircrafts to coordinate and strike targe…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-15/drone-swarms-push-ai-deeper-into-modern-warfare-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 23:00",
+   "title": "Ardagh’s New Owners Arini and Canyon Are Ready to Cash In",
+   "summary": "The company built by Irish billionaire Paul Coulson, now controlled by creditors, is preparing to sell its stake in Ardagh Metal Packaging",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-15/ardagh-s-new-owners-arini-and-canyon-are-ready-to-cash-in",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 22:54",
+   "title": "Riggleman Warns Private Cyberattacks Could Backfire",
+   "summary": "Joining Bloomberg This Weekend to discuss the war in Ukraine one year after the Trump-Putin Alaska summit, Former Republican Congressman and current CEO of RIIG Technologies Denver…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-15/riggleman-warns-private-cyberattacks-could-backfire-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 22:22",
+   "title": "Hawaii's Big Island lashed by rain and wind as Tropical Storm Lala closes in",
+   "summary": "A hurricane warning was issued for the Big Island, and a tropical storm warning was in effect for Maui County.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/15/hawaii-under-hurricane-threat-as-tropical-storm-lala-strengthens.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 21:00",
+   "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
+   "summary": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.6
   },
   {
    "cat": "sector",
@@ -223,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.8
+   "heat": 239.5
   },
   {
    "cat": "sector",
@@ -237,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.8
+   "heat": 239.5
   },
   {
    "cat": "sector",
@@ -251,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.7
+   "heat": 239.4
   },
   {
    "cat": "sector",
@@ -265,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.7
+   "heat": 239.4
   },
   {
    "cat": "sector",
@@ -279,41 +349,13 @@
      "t": "sec"
     }
    ],
-   "heat": 243.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 18:35",
-   "title": "Hawaii's Big Island under rare hurricane landfall threat as Tropical Storm Lala strengthens",
-   "summary": "A hurricane warning was issued for the Big Island, and a tropical storm warning was in effect for Maui County.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/15/hawaii-under-hurricane-threat-as-tropical-storm-lala-strengthens.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 17:16",
-   "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
-   "summary": "Alibaba Group Holding’s open-weight models have accumulated more than 3 billion global downloads in the past six months, eclipsing Meta Platforms Inc., Alphabet Inc. and domestic p…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.3
+   "heat": 239.2
   },
   {
    "cat": "sector",
    "time": "2026-08-15 16:11",
-   "title": "S&P 500 Hits Record High in August 2026: What's Driving the Historic Rally - Intellectia AI",
-   "summary": "S&P 500 Hits Record High in August 2026: What's Driving the Historic Rally &nbsp;&nbsp; Intellectia AI",
+   "title": "S&P 500 Hits Record High in August 2026: What's Driving the Historic Rally - intellectia.ai",
+   "summary": "S&P 500 Hits Record High in August 2026: What's Driving the Historic Rally &nbsp;&nbsp; intellectia.ai",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -321,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.1
+   "heat": 238.7
   },
   {
    "cat": "sector",
@@ -335,35 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 242.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 13:53",
-   "title": "Malaysia’s Anwar Vows Faster Reforms After Electoral Defeats",
-   "summary": "Malaysian Prime Minister Anwar Ibrahim said he will speed up the pace of reforms and strengthen an anti-corruption drive as he seeks to rebuild public support after a string of ele…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-15/malaysia-s-anwar-vows-faster-reforms-after-electoral-defeats",
-     "t": "sec"
-    }
-   ],
-   "heat": 242.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 12:01",
-   "title": "China Protests Japan PM, Defense Minister’s Yasukuni Actions",
-   "summary": "China lodged a formal protest with Japan after Prime Minister Sanae Takaichi sent an offering to Yasukuni shrine and Defense Minister Shinjiro Koizumi visited it on the anniversary…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-15/china-protests-japan-pm-defense-minister-s-yasukuni-actions",
-     "t": "sec"
-    }
-   ],
-   "heat": 242.4
+   "heat": 238.4
   },
   {
    "cat": "sector",
@@ -377,21 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 241.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 04:05",
-   "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
-   "summary": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 241.1
+   "heat": 237.0
   },
   {
    "cat": "stock",
@@ -405,7 +405,21 @@
      "t": "sec"
     }
    ],
-   "heat": 126.9
+   "heat": 118.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 21:48",
+   "title": "Strong Earnings Keep PNC’s Agati Bullish on Stocks",
+   "summary": "PNC's Chief Investment Officer Amanda Agati is on Bloomberg This Weekend with hosts Joe Mathieu and Carol Massar and says that strong earnings and economic fundamentals continue to…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-15/strong-earnings-keep-pnc-s-agati-bullish-on-stocks-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 115.7
   },
   {
    "cat": "stock",
@@ -419,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 124.0
+   "heat": 115.6
   },
   {
    "cat": "stock",
@@ -433,13 +447,13 @@
      "t": "sec"
     }
    ],
-   "heat": 123.9
+   "heat": 115.6
   },
   {
    "cat": "stock",
    "time": "2026-08-13 20:37",
-   "title": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli - benzinga.com",
-   "summary": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli &nbsp;&nbsp; benzinga.com",
+   "title": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli - Benzinga",
+   "summary": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli &nbsp;&nbsp; Benzinga",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -447,21 +461,21 @@
      "t": "sec"
     }
    ],
-   "heat": 120.0
+   "heat": 112.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 12:01",
-   "title": "Prosperity Bancshares director Holmes sells $81,550 in stock",
-   "summary": "",
+   "time": "2026-08-13 23:43",
+   "title": "Homebuilder Shares Outperform S&P 500 by 1 Point After Subdued PPI, Yet Lennar Targets Underperform - TechStock²",
+   "summary": "Homebuilder Shares Outperform S&P 500 by 1 Point After Subdued PPI, Yet Lennar Targets Underperform &nbsp;&nbsp; TechStock²",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/prosperity-bancshares-director-holmes-sells-81550-in-stock-93CH-4861778",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3p6WmowVHI3SllzNTY1TnhONEY1dFdDd3RsSmFtT2lPNnRfRmhWUlBUbmp0U3RuLWZCYVJ6YWZtTDFSVDR3SlVuaHUxVkF1Y1FwcmctR3RvUmpUUC1rMW4xU0wxZGJSUUtKOEp0Uzk4Z3NpYm1tdEtvYURnSW9Zdl9IUDRKOGJwbXZGRnFDVTFuME9FTFpRb0NGeG9ZaVlUdXc?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 116.4
+   "heat": 108.0
   },
   {
    "cat": "stock",
@@ -475,21 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 116.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-12 00:36",
-   "title": "US Stocks Open Higher as Investors Eye Earnings and Economic Data - CryptoRank",
-   "summary": "US Stocks Open Higher as Investors Eye Earnings and Economic Data &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QcVU5NkpvT3RxN1Vwd1gzWVBtOTRGZjAxUUJPMVNFUy1ydUVfMEEtLWc4WG5TOGlqNmZsODdrZTcyNHRKT1hsNlNaNm5ucGFwd0p1bVpnRldJejhUUDJxRGlVdTc2ZFBvaXFKRFJ3?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 116.0
+   "heat": 108.0
   },
   {
    "cat": "stock",
@@ -503,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 116.0
+   "heat": 108.0
   },
   {
    "cat": "stock",
@@ -517,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.8
+   "heat": 103.5
   },
   {
    "cat": "stock",
@@ -531,77 +531,77 @@
      "t": "sec"
     }
    ],
-   "heat": 109.5
+   "heat": 101.1
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 13:16",
-   "title": "Hippo CEO Richard McCathron sells $160,000 in company stock",
+   "time": "2026-08-15 15:01",
+   "title": "Corcept therapeutics chief development officer sells $1.8m in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/hippo-ceo-richard-mccathron-sells-160000-in-company-stock-93CH-4861784",
+     "u": "https://www.investing.com/news/insider-trading-news/corcept-therapeutics-chief-development-officer-sells-18m-in-stock-93CH-4861799",
      "t": "agg"
     }
    ],
-   "heat": 108.6
+   "heat": 100.6
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 13:01",
-   "title": "Qnity Electronics director Karin de Bondt buys $138,136 in stock",
+   "time": "2026-08-15 15:01",
+   "title": "Patricia Mulroy sells $37,415 of Bowman Consulting stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/qnity-electronics-director-karin-de-bondt-buys-138136-in-stock-93CH-4861783",
+     "u": "https://www.investing.com/news/insider-trading-news/patricia-mulroy-sells-37415-of-bowman-consulting-stock-93CH-4861798",
      "t": "agg"
     }
    ],
-   "heat": 108.6
+   "heat": 100.6
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 01:01",
-   "title": "Stock Market Today: S&P 500 Holds Near Record High as Dow Slips on Weak Retail Sales - CryptoRank",
-   "summary": "Stock Market Today: S&P 500 Holds Near Record High as Dow Slips on Weak Retail Sales &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRTRJMFE4M3h5MHVtZXNNa2ZPdHpaUUpadmdXTXgyU00zY1RLZ1JZU1NldzRlZ0N0NGJxM3BkVlVEMDdiLWQ4Y0tiekR0YkxMMEZiX2wzUjFkTWlnQWhXSWNGYW1xZXhPSEtiUFRjci1YNk5aemt3UEI1blYzVmdMTnNjd0FBM3lwbkZVbEJvTFdJUzhDVlVkMUkxbXkzQktJYUlLZHJqSDUwenVHRkpNeXd1NUVwMWU3VXlIdg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 108.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 12:46",
-   "title": "Via transportation director Arnon Dinur buys $998,984 in stock",
+   "time": "2026-08-15 15:01",
+   "title": "A10 Networks general counsel sells $392,435 in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/via-transportation-director-arnon-dinur-buys-998984-in-stock-93CH-4861782",
+     "u": "https://www.investing.com/news/insider-trading-news/a10-networks-general-counsel-sells-392435-in-stock-93CH-4861797",
      "t": "agg"
     }
    ],
-   "heat": 108.5
+   "heat": 100.6
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 12:46",
-   "title": "Ameriprise Financial’s Dawn Brockman sells $263,815 in stock",
+   "time": "2026-08-15 14:31",
+   "title": "Tactile systems CEO Sheri Dodd sells $323,242 in company stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/ameriprise-financials-dawn-brockman-sells-263815-in-stock-93CH-4861780",
+     "u": "https://www.investing.com/news/insider-trading-news/tactile-systems-ceo-sheri-dodd-sells-323242-in-company-stock-93CH-4861793",
      "t": "agg"
     }
    ],
-   "heat": 108.5
+   "heat": 100.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 14:16",
+   "title": "Sysco EVP Ronald Phillips sells $558k in company stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/sysco-evp-ronald-phillips-sells-558k-in-company-stock-93CH-4861791",
+     "t": "agg"
+    }
+   ],
+   "heat": 100.4
   },
   {
    "cat": "global",
@@ -615,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.7
+   "heat": 60.3
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.1
+   "heat": 44.8
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.5
+   "heat": 41.1
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.0
+   "heat": 40.7
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.9
+   "heat": 40.5
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.8
+   "heat": 40.4
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.8
+   "heat": 40.4
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "agg"
     }
    ],
-   "heat": 37.6
+   "heat": 37.2
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 37.5
+   "heat": 37.2
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.9
+   "heat": 31.6
   },
   {
    "cat": "global",
@@ -755,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 27.1
+   "heat": 26.8
   },
   {
    "cat": "global",
@@ -769,7 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 26.6
+   "heat": 26.2
   },
   {
    "cat": "global",
@@ -783,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 25.8
+   "heat": 25.5
   },
   {
    "cat": "global",
@@ -797,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 25.6
+   "heat": 25.3
   },
   {
    "cat": "global",
@@ -811,7 +811,21 @@
      "t": "sec"
     }
    ],
-   "heat": 17.4
+   "heat": 17.1
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-15 22:40",
+   "title": "Here’s what happened in crypto today",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 111.8
   },
   {
    "cat": "crypto",
@@ -825,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.9
+   "heat": 108.5
   },
   {
    "cat": "crypto",
@@ -839,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.3
+   "heat": 108.0
   },
   {
    "cat": "crypto",
@@ -853,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.0
+   "heat": 107.7
   },
   {
    "cat": "crypto",
@@ -867,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 99.9
+   "heat": 103.6
   },
   {
    "cat": "crypto",
@@ -881,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 99.9
+   "heat": 103.5
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.8
+   "heat": 100.4
   },
   {
    "cat": "crypto",
@@ -909,21 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-14 19:06",
-   "title": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
-   "summary": "Spot bitcoin ETFs saw back-to-back outflows for the first time since late July as the largest cryptocurrency wiped out last week's gains and altcoins struggled to find direction.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown",
-     "t": "sec"
-    }
-   ],
-   "heat": 95.6
+   "heat": 100.0
   },
   {
    "cat": "crypto",
@@ -937,21 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-14 08:09",
-   "title": "How Pokémon Cards Outpaced the S&P 500 and Bitcoin - CryptoRank",
-   "summary": "How Pokémon Cards Outpaced the S&P 500 and Bitcoin &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHFCVzJ0Q1dMdlhFckJqTFRhOHZXcWw2ZVRfSGVvNmVTT2lqWFdQY3lheVNWUk1IVXhnakhBU3VOQnJzbFlBdkctRWM3UHFhMVlvWWdUN2NsZVJoT0JJWjc1Z2dFUnBfT2VMZXdtbU9QMTFkVmMxQ2JNTThteGhvWVp5eHcwUQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 93.8
+   "heat": 98.9
   },
   {
    "cat": "crypto",
@@ -965,7 +951,21 @@
      "t": "sec"
     }
    ],
-   "heat": 85.7
+   "heat": 85.3
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-15 22:00",
+   "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
+   "summary": "Dubai-based crypto lawyer Irina Heaver and her team parsed every crypto deal in the first half of 2026. BlackRock, Goldman, and Persian Gulf sovereigns all wrote checks to regulate…",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
+     "t": "sec"
+    }
+   ],
+   "heat": 83.7
   },
   {
    "cat": "crypto",
@@ -979,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 78.0
+   "heat": 81.6
   },
   {
    "cat": "crypto",
@@ -993,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 77.7
+   "heat": 81.4
   },
   {
    "cat": "crypto",
@@ -1007,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 77.7
+   "heat": 81.3
   },
   {
    "cat": "crypto",
@@ -1021,13 +1021,13 @@
      "t": "sec"
     }
    ],
-   "heat": 77.2
+   "heat": 80.9
   },
   {
    "cat": "sector",
    "time": "2026-08-14 16:52",
    "title": "17:24:50【高盛：闪迪长期盈利目标超预期 HBF有望打开AI存储新空间】",
-   "summary": "17:24:50【高盛：闪迪长期盈利目标超预期 HBF有望打开AI存储新空间】 &nbsp;&nbsp; cls.cn",
+   "summary": "17:24:50【高盛：闪迪长期盈利目标超预期 HBF有望打开AI存储新空间】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
@@ -1035,13 +1035,13 @@
      "t": "sec"
     }
    ],
-   "heat": 239.2
+   "heat": 234.9
   },
   {
    "cat": "sector",
    "time": "2026-08-15 01:34",
-   "title": "China to Add Petrochemicals, Chemicals to National Carbon Market",
-   "summary": "China to Add Petrochemicals, Chemicals to National Carbon Market &nbsp;&nbsp; Caixin Global",
+   "title": "China to Add Petrochemicals, Chemicals to National Carbon Market - caixinglobal.com",
+   "summary": "China to Add Petrochemicals, Chemicals to National Carbon Market &nbsp;&nbsp; caixinglobal.com",
    "srcs": [
     {
      "n": "财新(Google聚合)",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 240.7
+   "heat": 236.3
   }
  ]
 }
