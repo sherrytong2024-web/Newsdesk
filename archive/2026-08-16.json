@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16 11:15",
+ "updated": "2026-08-16 15:21",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.9
+   "heat": 37.2
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "agg"
     }
    ],
-   "heat": 34.8
+   "heat": 34.1
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.1
+   "heat": 33.4
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.8
+   "heat": 33.2
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 29.6
+   "heat": 29.0
   },
   {
    "cat": "macro",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 17.9
+   "heat": 17.2
   },
   {
    "cat": "macro",
@@ -125,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 17.7
+   "heat": 17.0
   },
   {
    "cat": "macro",
@@ -139,21 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 10.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-15 13:00",
-   "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
-   "summary": "Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 8.3
+   "heat": 9.5
   },
   {
    "cat": "macro",
@@ -185,6 +171,20 @@
   },
   {
    "cat": "macro",
+   "time": "2026-08-15 13:00",
+   "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
+   "summary": "Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 7.6
+  },
+  {
+   "cat": "macro",
    "time": "2026-08-14 05:48",
    "title": "财联社8月13日电，证监会核准迪亚琦华有限公司（DIJLLAH JEWELLERY FZE）合格境外投资者资格。",
    "summary": "财联社8月13日电，证监会核准迪亚琦华有限公司（DIJLLAH JEWELLERY FZE）合格境外投资者资格。 &nbsp;&nbsp; 财联社",
@@ -213,6 +213,48 @@
   },
   {
    "cat": "sector",
+   "time": "2026-08-16 14:43",
+   "title": "Hurricane Lala leaves thousands without power in Hawaii amid 'life-threatening' conditions",
+   "summary": "The National Hurricane Center is warning of \"life-threatening flooding and mudslides\" conditions and predicting up to 25 inches of rain on Hawaii's Big Island.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/16/hurricane-lala-leaves-thousands-without-power-in-hawaii.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-16 13:11",
+   "title": "Hong Kong’s First-Half Air Passenger Traffic Up 11.7%, Chan Says",
+   "summary": "Hong Kong’s airport passenger traffic jumped 11.7% on year in the first half, as the Asian financial hub hosted a variety of events and attracted more visitors, according to the ci…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-16/hong-kong-s-first-half-air-passenger-traffic-up-11-7-chan-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-16 12:28",
+   "title": "China Plans to Speed Up New Energy Recycling, Waste Rules: CCTV",
+   "summary": "China is accelerating the establishment of rules governing the recycling and reuse of wind and solar equipment and aims to set up a closed-loop system for waste from the industry b…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-16/china-plans-to-speed-up-new-energy-recycling-waste-rules-cctv",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.5
+  },
+  {
+   "cat": "sector",
    "time": "2026-08-16 06:49",
    "title": "U.S. to tell partners they must pick sides in AI race with China: Reuters",
    "summary": "The draft letter is addressed to the 35 signatories of a U.S. \"AI Opportunity Statement\" signed in June.",
@@ -223,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.3
+   "heat": 246.6
   },
   {
    "cat": "sector",
@@ -237,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.1
+   "heat": 246.4
   },
   {
    "cat": "sector",
@@ -251,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.1
+   "heat": 246.4
   },
   {
    "cat": "sector",
@@ -265,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 242.9
+   "heat": 246.2
   },
   {
    "cat": "sector",
@@ -279,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 242.9
+   "heat": 246.2
   },
   {
    "cat": "sector",
@@ -293,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 242.6
+   "heat": 245.9
   },
   {
    "cat": "sector",
@@ -307,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 242.4
+   "heat": 245.7
   },
   {
    "cat": "sector",
@@ -321,21 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 242.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 23:05",
-   "title": "Drone Swarms Push AI Deeper Into Modern Warfare",
-   "summary": "Bloomberg News Cyber Security & Tech Reporter Katrina Manson got a firsthand look at autonomous drone-swarm technology that allows multiple aircrafts to coordinate and strike targe…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-15/drone-swarms-push-ai-deeper-into-modern-warfare-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 242.0
+   "heat": 245.5
   },
   {
    "cat": "sector",
@@ -349,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 242.0
+   "heat": 245.3
   },
   {
    "cat": "sector",
@@ -363,35 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 241.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 20:39",
-   "title": "Robinson Says Activists Need Leverage to Win",
-   "summary": "Author of the book 'From Presence to Power' Rashad Robinson is on Bloomberg This Weekend and explains to hosts David Gura and Christina Ruffini that visibility, media attention and…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-15/robinson-says-activists-need-leverage-to-win-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 241.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 20:27",
-   "title": "USS Abraham Lincoln Conditions Raise Readiness Concerns",
-   "summary": "Navy veteran and military journalist Natalie Oliverio joins Bloomberg This Weekend and says reported food, sanitation and communication problems aboard the USS Abraham Lincoln risk…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-15/uss-abraham-lincoln-conditions-raise-readiness-concerns-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 241.5
+   "heat": 245.3
   },
   {
    "cat": "sector",
@@ -405,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 241.5
+   "heat": 244.8
   },
   {
    "cat": "stock",
@@ -419,49 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 108.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 21:48",
-   "title": "Strong Earnings Keep PNC’s Agati Bullish on Stocks",
-   "summary": "PNC's Chief Investment Officer Amanda Agati is on Bloomberg This Weekend with hosts Joe Mathieu and Carol Massar and says that strong earnings and economic fundamentals continue to…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-15/strong-earnings-keep-pnc-s-agati-bullish-on-stocks-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 105.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 21:34",
-   "title": "Goldman says these stocks are top ideas in the wake of their 2Q earnings",
-   "summary": "Goldman recently named some of its best ideas following the companies' latest earnings.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/15/goldman-says-these-stocks-are-top-ideas-in-wake-of-their-2q-earnings.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 105.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 21:00",
-   "title": "‘Outlier’ S&P 500 Earnings Strength Cheers Wall Street’s Bulls",
-   "summary": "Corporate America is blowing past Wall Street’s expectations for a stellar earnings season, adding to the rosy backdrop for a stock market trading near a record high.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-15/-outlier-s-p-500-earnings-strength-cheers-wall-street-s-bulls",
-     "t": "sec"
-    }
-   ],
-   "heat": 105.6
+   "heat": 108.0
   },
   {
    "cat": "stock",
@@ -479,6 +437,48 @@
   },
   {
    "cat": "stock",
+   "time": "2026-08-15 21:48",
+   "title": "Strong Earnings Keep PNC’s Agati Bullish on Stocks",
+   "summary": "PNC's Chief Investment Officer Amanda Agati is on Bloomberg This Weekend with hosts Joe Mathieu and Carol Massar and says that strong earnings and economic fundamentals continue to…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-15/strong-earnings-keep-pnc-s-agati-bullish-on-stocks-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 97.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 21:34",
+   "title": "Goldman says these stocks are top ideas in the wake of their 2Q earnings",
+   "summary": "Goldman recently named some of its best ideas following the companies' latest earnings.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/15/goldman-says-these-stocks-are-top-ideas-in-wake-of-their-2q-earnings.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 97.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 21:00",
+   "title": "‘Outlier’ S&P 500 Earnings Strength Cheers Wall Street’s Bulls",
+   "summary": "Corporate America is blowing past Wall Street’s expectations for a stellar earnings season, adding to the rosy backdrop for a stock market trading near a record high.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-15/-outlier-s-p-500-earnings-strength-cheers-wall-street-s-bulls",
+     "t": "sec"
+    }
+   ],
+   "heat": 96.9
+  },
+  {
+   "cat": "stock",
    "time": "2026-08-13 12:16",
    "title": "Ed Yardeni Raises S&P 500 Target For 2026 After ‘Gangbusters’ Earnings Season – Says He Wasn’t ‘Bullish Enough’ - Stockt",
    "summary": "Ed Yardeni Raises S&P 500 Target For 2026 After ‘Gangbusters’ Earnings Season – Says He Wasn’t ‘Bullish Enough’ &nbsp;&nbsp; Stocktwits",
@@ -489,27 +489,13 @@
      "t": "sec"
     }
    ],
-   "heat": 100.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-12 00:36",
-   "title": "US Stocks Open Higher as Investors Eye Earnings and Economic Data - CryptoRank",
-   "summary": "US Stocks Open Higher as Investors Eye Earnings and Economic Data &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QcVU5NkpvT3RxN1Vwd1gzWVBtOTRGZjAxUUJPMVNFUy1ydUVfMEEtLWc4WG5TOGlqNmZsODdrZTcyNHRKT1hsNlNaNm5ucGFwd0p1bVpnRldJejhUUDJxRGlVdTc2ZFBvaXFKRFJ3?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 100.0
+   "heat": 92.0
   },
   {
    "cat": "stock",
    "time": "2026-08-11 12:43",
-   "title": "US Stock Market: JP Morgan raises S&P 500 year-end target to 8,000 on AI, earnings optimism - economictimes.com",
-   "summary": "US Stock Market: JP Morgan raises S&P 500 year-end target to 8,000 on AI, earnings optimism &nbsp;&nbsp; economictimes.com",
+   "title": "US Stock Market: JP Morgan raises S&P 500 year-end target to 8,000 on AI, earnings optimism - The Economic Times",
+   "summary": "US Stock Market: JP Morgan raises S&P 500 year-end target to 8,000 on AI, earnings optimism &nbsp;&nbsp; The Economic Times",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -517,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 100.0
+   "heat": 92.0
   },
   {
    "cat": "stock",
@@ -531,49 +517,49 @@
      "t": "sec"
     }
    ],
-   "heat": 93.5
+   "heat": 88.9
   },
   {
    "cat": "stock",
-   "time": "2026-08-16 02:31",
-   "title": "Everus Construction VP Sanderson sells $451,077 in company stock",
+   "time": "2026-08-16 07:01",
+   "title": "NVR director George Oliver buys $405,185 in company stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/everus-construction-vp-sanderson-sells-451077-in-company-stock-93CH-4861900",
+     "u": "https://www.investing.com/news/insider-trading-news/nvr-director-george-oliver-buys-405185-in-company-stock-93CH-4861927",
      "t": "agg"
     }
    ],
-   "heat": 92.5
+   "heat": 88.6
   },
   {
    "cat": "stock",
-   "time": "2026-08-16 01:46",
-   "title": "Aehr Test Systems VP Alistair Sporck sells $108,490 in common stock",
+   "time": "2026-08-16 06:18",
+   "title": "Aehr VP Alistair Sporck sells $201,916 in company stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/aehr-test-systems-vp-alistair-sporck-sells-108490-in-common-stock-93CH-4861895",
+     "u": "https://www.investing.com/news/insider-trading-news/aehr-vp-alistair-sporck-sells-201916-in-company-stock-93CH-4861923",
      "t": "agg"
     }
    ],
-   "heat": 92.4
+   "heat": 88.5
   },
   {
    "cat": "stock",
-   "time": "2026-08-16 01:37",
-   "title": "Just 13% of U.S. large-cap stock-picking funds beat benchmarks over decade",
+   "time": "2026-08-16 06:18",
+   "title": "StoneX Group director John Fowler sells $118,770 in company stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/just-13-of-us-largecap-stockpicking-funds-beat-benchmarks-over-decade-4861893",
+     "u": "https://www.investing.com/news/insider-trading-news/stonex-group-director-john-fowler-sells-118770-in-company-stock-93CH-4861922",
      "t": "agg"
     }
    ],
-   "heat": 92.4
+   "heat": 88.5
   },
   {
    "cat": "stock",
@@ -587,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.2
+   "heat": 86.5
   },
   {
    "cat": "stock",
@@ -601,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 89.8
+   "heat": 85.2
   },
   {
    "cat": "stock",
@@ -615,7 +601,21 @@
      "t": "sec"
     }
    ],
-   "heat": 89.6
+   "heat": 84.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-14 17:14",
+   "title": "S&P 500 Hits New High as US Stock Rally Broadens, Deutsche Bank Says - CryptoRank",
+   "summary": "S&P 500 Hits New High as US Stock Rally Broadens, Deutsche Bank Says &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObTA5T2dVSEVxSjQ1ZkVjRl94UmVacGVOVURSQVBReGdGVUZMYXZVbXFUeVNBd0s5QUJFUkFXQWdYZ25WR1ZWTmIzOUtZbWFFUVpnbXc1d01Zby1KbEVKTEVqUEdVd09jQ0w0SGhmY2g4UVhua1RidFBiMDdHVEk3WlVfOXUyS1VlWVE?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.3
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.4
+   "heat": 57.7
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.9
+   "heat": 42.2
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.2
+   "heat": 38.5
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.7
+   "heat": 38.1
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.6
+   "heat": 37.9
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.5
+   "heat": 37.8
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.5
+   "heat": 37.8
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.3
+   "heat": 34.6
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.3
+   "heat": 34.6
   },
   {
    "cat": "global",
@@ -755,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 29.6
+   "heat": 28.9
   },
   {
    "cat": "global",
@@ -769,7 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 24.8
+   "heat": 24.2
   },
   {
    "cat": "global",
@@ -783,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 24.3
+   "heat": 23.6
   },
   {
    "cat": "global",
@@ -797,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 23.6
+   "heat": 22.9
   },
   {
    "cat": "global",
@@ -811,7 +811,7 @@
      "t": "agg"
     }
    ],
-   "heat": 23.3
+   "heat": 22.7
   },
   {
    "cat": "global",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 15.1
+   "heat": 14.4
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 93.9
+   "heat": 101.2
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.6
+   "heat": 97.9
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 89.8
+   "heat": 97.1
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 85.6
+   "heat": 92.9
   },
   {
    "cat": "crypto",
@@ -895,7 +895,21 @@
      "t": "sec"
     }
    ],
-   "heat": 85.6
+   "heat": 92.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-15 02:15",
+   "title": "Tom Lee Wants a 10% Crash Before S&P 500 Hits 8,000, Bitcoin Already Had One - CryptoRank",
+   "summary": "Tom Lee Wants a 10% Crash Before S&P 500 Hits 8,000, Bitcoin Already Had One &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZTlGT1l2VDFBaEhWaTY3R2lndU1ZaXIzMVVsVXZoaUFxa2F5dGpHYlpKUG1yYjJVdEx6QW1udUNnQnU4S01YMkxfenZhczA3Z3F5YzlrSi1vQ0h0WXVkdHNOR0NNRjI5emRtVWRzekZMdnMxYnhyT0JUaG04N2tSdA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 89.8
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.4
+   "heat": 70.7
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 65.8
+   "heat": 69.1
   },
   {
    "cat": "crypto",
@@ -937,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.7
+   "heat": 67.0
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.5
+   "heat": 66.8
   },
   {
    "cat": "crypto",
@@ -965,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.4
+   "heat": 66.7
   },
   {
    "cat": "crypto",
@@ -979,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.0
+   "heat": 66.3
   },
   {
    "cat": "crypto",
@@ -993,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.0
+   "heat": 66.3
   },
   {
    "cat": "crypto",
@@ -1007,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.6
+   "heat": 65.9
   },
   {
    "cat": "crypto",
@@ -1021,35 +1035,21 @@
      "t": "sec"
     }
    ],
-   "heat": 62.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-10 17:45",
-   "title": "S&P 500 Tests Top of Four-Year Logarithmic Channel: What It Means for Markets - CryptoRank",
-   "summary": "S&P 500 Tests Top of Four-Year Logarithmic Channel: What It Means for Markets &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXVzQ2diM0Nfa2tmX0lMczRfSTFaNHJxdXU2dnkySkd5WE55YjFib2JidWx4cFZsS2F5NjU1NWoydlR6YUlUQVlzMWZMa3J3V0JMbFZVYWoyV1Aya1FvSjhCajVRekpLSU5RSFc3YzJ6TnpQQkZwc1pXNHBJRkZGSERuR1BtelRodGFrOQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 60.0
+   "heat": 65.6
   },
   {
    "cat": "sector",
-   "time": "2026-08-10 18:21",
-   "title": "Chinese AI Chipmaker Cambricon’s Breakneck Growth Starts to Slow",
-   "summary": "Chinese AI Chipmaker Cambricon’s Breakneck Growth Starts to Slow &nbsp;&nbsp; Caixin Global",
+   "time": "2026-08-15 01:34",
+   "title": "China to Add Petrochemicals, Chemicals to National Carbon Market",
+   "summary": "China to Add Petrochemicals, Chemicals to National Carbon Market &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMG5KYmtpQXQ4My0xYWxIVjd3bF9Cb1JveEkyaVJNbzEtUUZDckFuZTh2NVl0aDdYa3RTMjFmZnplWEhYQWZMMURsc283MVk2MjlWVzJrWmxYVTFDVENMRENKMEp2RElfWThmaHVBWkt1YXhyODVTcllXRGIwa1FVeXZkRkMxUEZPR0RqczVTVVNsdzNKbmsxdGtCR0VDdG5CT01INTZ5ejhJaXJ5aU9TamxhNDllem1jenc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEhJdHVBcHpFaGNRalpJNUZWN0hxdlZGTXZ2QWRMSDYzX21Rd25fcEdJRno4VmdVSDlUbEZvazlhVkplOEhkZ0wxZ3NVY2FqNDFtaURUYjBJdnNqamprN2Q0c21mekJSWU1YR3Z3c2xSNGhzcjIzSnowSFNGMTF6YWdfSFAyQWRPZjJneFJrOW9CaFhPSWI3ZlRyalhnSExYS0pqeDJydkQzRkxHU2podmphdmJyWTc5c1E?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 240.0
+   "heat": 241.7
   }
  ]
 }

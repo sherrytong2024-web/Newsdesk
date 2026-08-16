@@ -1,6 +1,48 @@
 {
- "updated": "2026-08-16 11:15",
+ "updated": "2026-08-16 15:21",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-16 14:43",
+   "title": "Hurricane Lala leaves thousands without power in Hawaii amid 'life-threatening' conditions",
+   "summary": "The National Hurricane Center is warning of \"life-threatening flooding and mudslides\" conditions and predicting up to 25 inches of rain on Hawaii's Big Island.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/16/hurricane-lala-leaves-thousands-without-power-in-hawaii.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-16 13:11",
+   "title": "Hong Kong’s First-Half Air Passenger Traffic Up 11.7%, Chan Says",
+   "summary": "Hong Kong’s airport passenger traffic jumped 11.7% on year in the first half, as the Asian financial hub hosted a variety of events and attracted more visitors, according to the ci…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-16/hong-kong-s-first-half-air-passenger-traffic-up-11-7-chan-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-16 12:28",
+   "title": "China Plans to Speed Up New Energy Recycling, Waste Rules: CCTV",
+   "summary": "China is accelerating the establishment of rules governing the recycling and reuse of wind and solar equipment and aims to set up a closed-loop system for waste from the industry b…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-16/china-plans-to-speed-up-new-energy-recycling-waste-rules-cctv",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.5
+  },
   {
    "cat": "sector",
    "time": "2026-08-16 06:49",
@@ -13,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.3
+   "heat": 246.6
   },
   {
    "cat": "sector",
@@ -27,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.1
+   "heat": 246.4
   },
   {
    "cat": "sector",
@@ -41,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.1
+   "heat": 246.4
   },
   {
    "cat": "sector",
@@ -55,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 242.9
+   "heat": 246.2
   },
   {
    "cat": "sector",
@@ -69,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 242.9
+   "heat": 246.2
   },
   {
    "cat": "sector",
@@ -83,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 242.6
+   "heat": 245.9
   },
   {
    "cat": "sector",
@@ -97,49 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 242.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 00:11",
-   "title": "S&P 500 Hits Record High August 2026: What is Driving the Rally? - Intellectia AI",
-   "summary": "S&P 500 Hits Record High August 2026: What is Driving the Rally? &nbsp;&nbsp; Intellectia AI",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pS245cDFhWDJOcEgyaFRNWnZUMjFVZTc5TURLaTFjSlF0X0syN3JvUkNvc2k2MV9wRGtQTjdFMVZtZVZPQWNIYUpMNHI2aXdlRXBOaWhNMFpDdkhCYWc4QWJjQzRGUTNtUmRvVXFkY1lRMWdnbnJORg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 242.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 23:05",
-   "title": "Drone Swarms Push AI Deeper Into Modern Warfare",
-   "summary": "Bloomberg News Cyber Security & Tech Reporter Katrina Manson got a firsthand look at autonomous drone-swarm technology that allows multiple aircrafts to coordinate and strike targe…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-15/drone-swarms-push-ai-deeper-into-modern-warfare-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 242.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 23:00",
-   "title": "Ardagh’s New Owners Arini and Canyon Are Ready to Cash In",
-   "summary": "The company built by Irish billionaire Paul Coulson, now controlled by creditors, is preparing to sell its stake in Ardagh Metal Packaging",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-15/ardagh-s-new-owners-arini-and-canyon-are-ready-to-cash-in",
-     "t": "sec"
-    }
-   ],
-   "heat": 242.0
+   "heat": 245.7
   }
  ]
 }
