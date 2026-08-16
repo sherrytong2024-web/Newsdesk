@@ -1,34 +1,6 @@
 {
- "updated": "2026-08-17 02:59",
+ "updated": "2026-08-17 05:39",
  "items": [
-  {
-   "cat": "macro",
-   "time": "2026-08-16 16:59",
-   "title": "Morgan Stanley says disinflation is here, but risks to 2027 rate outlook remain",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/morgan-stanley-says-disinflation-is-here-but-risks-to-2027-rate-outlook-remain-4862000",
-     "t": "agg"
-    }
-   ],
-   "heat": 60.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-15 22:22",
-   "title": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
-   "summary": "No surprises on inflation and new financing developments in the artificial intelligence trade drove the record-breaking action on Wall Street last week.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 59.2
-  },
   {
    "cat": "macro",
    "time": "2026-08-16 23:34",
@@ -41,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.4
+   "heat": 47.0
   },
   {
    "cat": "macro",
@@ -55,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.9
+   "heat": 46.4
   },
   {
    "cat": "macro",
@@ -69,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.9
+   "heat": 42.5
   },
   {
    "cat": "macro",
@@ -83,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.8
+   "heat": 42.4
   },
   {
    "cat": "macro",
@@ -97,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.2
+   "heat": 38.8
   },
   {
    "cat": "macro",
@@ -111,7 +83,7 @@
      "t": "agg"
     }
    ],
-   "heat": 46.0
+   "heat": 38.0
   },
   {
    "cat": "macro",
@@ -125,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 44.0
+   "heat": 36.0
   },
   {
    "cat": "macro",
@@ -139,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 44.0
+   "heat": 36.0
   },
   {
    "cat": "macro",
@@ -153,49 +125,7 @@
      "t": "agg"
     }
    ],
-   "heat": 42.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-16 20:30",
-   "title": "Traders Get Pickier After Big Run in $886 Billion EM Debt Market",
-   "summary": "Persistent inflation worries and currency swings are pushing emerging-market investors to adjust bets in an $886 billion asset class that’s been delivering outsize returns for more…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-16/traders-get-pickier-after-big-run-in-886-billion-em-debt-market",
-     "t": "sec"
-    }
-   ],
-   "heat": 26.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-16 20:30",
-   "title": "What’s Happening in EM: Traders Get Pickier on Linkers (Podcast)",
-   "summary": "Bogota-based EM reporter Nicolle Yapur joins Leda Alvim to discuss why investors are looking beyond Brazil and Mexico for opportunities in inflation-linked bonds in the emerging wo…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-16/what-s-happening-in-em-traders-get-pickier-on-linkers-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 26.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-15 00:06",
-   "title": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally - Intellectia AI",
-   "summary": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally &nbsp;&nbsp; Intellectia AI",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SbjRrUUdoZUpfZGgwS2ZReTFLN1kyUEZxS1hVQnVKWkdNRXVTdGh5UTNxRS0wUlk5LUhwdlBEWWVPeHFaNzFKd2lNSUtrVmpIWXNfYmtPS21ZTDd5bnR2YWVhMmR1dmctWlpOMA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.0
+   "heat": 34.0
   },
   {
    "cat": "macro",
@@ -209,7 +139,175 @@
      "t": "sec"
     }
    ],
-   "heat": 19.3
+   "heat": 18.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-16 20:30",
+   "title": "Traders Get Pickier After Big Run in $886 Billion EM Debt Market",
+   "summary": "Persistent inflation worries and currency swings are pushing emerging-market investors to adjust bets in an $886 billion asset class that’s been delivering outsize returns for more…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-16/traders-get-pickier-after-big-run-in-886-billion-em-debt-market",
+     "t": "sec"
+    }
+   ],
+   "heat": 18.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-16 20:30",
+   "title": "What’s Happening in EM: Traders Get Pickier on Linkers (Podcast)",
+   "summary": "Bogota-based EM reporter Nicolle Yapur joins Leda Alvim to discuss why investors are looking beyond Brazil and Mexico for opportunities in inflation-linked bonds in the emerging wo…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-16/what-s-happening-in-em-traders-get-pickier-on-linkers-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 18.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-15 00:06",
+   "title": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally - Intellectia AI",
+   "summary": "S&P 500 Hits Record High August 2026: AI Earnings & Inflation Data Drive Rally &nbsp;&nbsp; Intellectia AI",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SbjRrUUdoZUpfZGgwS2ZReTFLN1kyUEZxS1hVQnVKWkdNRXVTdGh5UTNxRS0wUlk5LUhwdlBEWWVPeHFaNzFKd2lNSUtrVmpIWXNfYmtPS21ZTDd5bnR2YWVhMmR1dmctWlpOMA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 12.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-17 03:00",
+   "title": "US 20-Year Bond Sale to Test Demand as Yield Curve Steepens",
+   "summary": "The sale of 20-year government bonds this week will test investor appetite for long-term debt following a few record-breaking auctions.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-16/us-20-year-bond-sale-to-test-demand-as-yield-curve-steepens",
+     "t": "sec"
+    }
+   ],
+   "heat": 11.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-14 06:12",
+   "title": "财联社8月14日电，美联储古尔斯比表示，通胀数据有所改善，希望这种趋势能够持续。用一个词来形容美国的经济，那就是“稳定”。",
+   "summary": "财联社8月14日电，美联储古尔斯比表示，通胀数据有所改善，希望这种趋势能够持续。用一个词来形容美国的经济，那就是“稳定”。 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lSUFJYU03YzQtRVNpQ1VvVnVKRmhwcUF2Nnc2MGdYM28wcUVmYjBTa3VteVdxTi1VY3N5UmhXZmJvNVkxZHM2Tg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 4.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-17 04:58",
+   "title": "Tropical Storm Lala Hits Hawaii, Lebanon Struck By Israel, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-16/tropical-storm-lala-hits-hawaii-lebanon-struck-by-israel-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-17 04:55",
+   "title": "Trump's envoys meet with Egyptian, Qatari and Turkish mediators in Cairo as Israel strikes Gaza",
+   "summary": "Hamas officials were present at some of the meetings that mediators held with Trump's envoy and son-in-law Jared Kushner, the diplomat said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/16/trumps-envoys-meet-mediators-israel-strikes-gaza.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-17 04:44",
+   "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
+   "summary": "The National Hurricane Center is warning of \"life-threatening flooding and mudslides\" conditions and predicting up to 25 inches of rain on Hawaii's Big Island.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/16/hurricane-lala-leaves-thousands-without-power-in-hawaii.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-16 04:32",
+   "title": "Nvidia eyes investing $3 billion in SoftBank's SB Energy under OpenAI data center deal, Information says",
+   "summary": "The proposed investment ⁠is part of Nvidia's talks with OpenAI ⁠and SB Energy on providing credit support for a panned Ohio data center campus, the report said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-17 04:00",
+   "title": "Skyrocketing Beef Prices Finally Have Americans Reaching Their Spending Limit",
+   "summary": "Aaron Kaufman used to meet his lofty daily protein goals — a gram for each pound he weighs — with ground beef.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-16/skyrocketing-beef-prices-finally-have-americans-reaching-their-spending-limit",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-17 03:50",
+   "title": "Alex Cooper Leaves Long-Time Agent, Seeking New Help to Build Media Empire",
+   "summary": "Alex Cooper is leaving her long-time talent agent for CAA after raising money to expand her business",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-16/alex-cooper-leaves-long-time-agent-seeking-new-help-to-build-media-empire",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-17 03:32",
+   "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
+   "summary": "Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies switch between artificial intelligence models, for more than $7 billion, according…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.6
   },
   {
    "cat": "sector",
@@ -223,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 272.0
+   "heat": 275.5
   },
   {
    "cat": "sector",
@@ -237,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.7
+   "heat": 275.2
   },
   {
    "cat": "sector",
@@ -251,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.5
+   "heat": 275.1
   },
   {
    "cat": "sector",
@@ -265,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.4
+   "heat": 274.9
   },
   {
    "cat": "sector",
@@ -279,21 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 22:37",
-   "title": "Bonta Says Meta Put Profit Over Children’s Safety",
-   "summary": "California Attorney General Rob Bonta joins Bloomberg This Weekend and calls the landmark youth safety case against Meta a “tobacco moment,” alleging the company knowingly designed…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-16/bonta-says-meta-put-profit-over-children-s-safety-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 271.3
+   "heat": 274.9
   },
   {
    "cat": "sector",
@@ -307,91 +391,21 @@
      "t": "sec"
     }
    ],
-   "heat": 271.3
+   "heat": 274.8
   },
   {
-   "cat": "sector",
-   "time": "2026-08-16 22:16",
-   "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
-   "summary": "The National Hurricane Center is warning of \"life-threatening flooding and mudslides\" conditions and predicting up to 25 inches of rain on Hawaii's Big Island.",
+   "cat": "stock",
+   "time": "2026-08-17 05:32",
+   "title": "Believe the unbelievable in this market — things can be different this time",
+   "summary": "Here is what's so amazing: These four unbelievably performing stocks remain the most hated and feared on Wall Street.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/16/hurricane-lala-leaves-thousands-without-power-in-hawaii.html",
+     "u": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
      "t": "sec"
     }
    ],
-   "heat": 271.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 21:42",
-   "title": "AI Perfection Fuels a Return to Looking Human",
-   "summary": "Bloomberg Businessweek Senior Reporter Amanda Mull says consumers are showing signs of fatigue with the polished faces, homes and lifestyles popularized by influencers, filters and…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-16/ai-perfection-fuels-a-return-to-looking-human-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 271.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 21:01",
-   "title": "Iran Pressure Campaign Lacks Clear Off Ramp",
-   "summary": "Acting Principal Deputy Assistant Secretary for the Bureau of Near Eastern Affairs Jen Gavito and retired Vice Adm. Robert Harward join Bloomberg This Weekend and offer sharply dif…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-16/iran-pressure-campaign-lacks-clear-off-ramp",
-     "t": "sec"
-    }
-   ],
-   "heat": 271.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 19:52",
-   "title": "JPMorgan could soon be the first $1 trillion bank. Top analyst Mayo says next stop is $2 trillion",
-   "summary": "JPMorgan Chase could soon boast a market value in excess of $1 trillion. Several tailwinds are driving share value, according to Wells Fargo.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/16/jpmorgan-may-become-first-1-trillion-bank-next-stop-could-be-2-trillion.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 270.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 06:49",
-   "title": "U.S. to tell partners they must pick sides in AI race with China: Reuters",
-   "summary": "The draft letter is addressed to the 35 signatories of a U.S. \"AI Opportunity Statement\" signed in June.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 268.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 06:03",
-   "title": "Lala strengthens into a hurricane and bears down on Hawaii’s Big Island with heavy rain, winds",
-   "summary": "The Big Island has not experienced a direct hurricane landfall in 155 years.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/15/hawaii-under-hurricane-threat-as-tropical-storm-lala-strengthens.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 268.5
+   "heat": 100.0
   },
   {
    "cat": "stock",
@@ -405,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.0
+   "heat": 100.0
   },
   {
    "cat": "stock",
@@ -416,34 +430,6 @@
     {
      "n": "S&P Global(Google聚合)",
      "u": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaFlQMmlKaGtBYURNQ081ZW5lT1V5NVIwWG5QUkFNeDJXanF3V2FLRUxMazRaU1ZPUEI4TExTVkZybVVvUWxCd2xBYzhWMDZja0t3Sm5Nckw2Zzdrc05LYUNhbmJsU0dOaWlaTVhOQlQzX2s3a1NfeEN6N1A5Q2l6WENYMlMyOE80WV9TN1hhOHZFQ1dMcmJFcWM4SkpMbkFXclJwMG9tclU0OE1QMGlLc3pGMS1MVF9tYWpoT3VyeHpjbTNnUmFzclp5b3dPM2gzbjZvZnlFakRWc2lXWEpCLWNzMnYzSVZ1WElmd1FFOUZrVVZGa0IwbmVVNm1EYXFfbHNkU1lqazDSAY4CQVVfeXFMTXVBbDBBWE81cEkxTUljSmF2V1d5Sms5cGhfMkZMcG51TEwyWEZ3bWVwTkNYNXRlWUxXLUJRaDBjOVdSaGM5UllFUkp1MTJ0R3RjaEdFVTA1bXBxdElHc3hzRFNYaThEZ29HMl9VaEZJbWU3OFVSel9YLWdUTDRsdXpCdEhQVFk5OE41aFZ6RFFPUVZlV0xUTnhmb2d2ZG5pYmE0T2RTOHl4V1pkdzNid3BrZ3FCUGlJSWdDRFc1TV93Yi1ZR1BaQWRQbFhVVVNoXzQ2OVItRzBRVU5jTjVhYVB5THJ0TnVTaktzLWpmZGtfbnVjcjV3TlZMR084VFpTeG4ya2RUVVdsb3ZxQUJR?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 104.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 15:04",
-   "title": "Investor Focus: Best S&P 500 ETFs, Rolls-Royce Stock Hits Record, Andy Burnham’s Plan for Your ISA - Morningstar",
-   "summary": "Investor Focus: Best S&P 500 ETFs, Rolls-Royce Stock Hits Record, Andy Burnham’s Plan for Your ISA &nbsp;&nbsp; Morningstar",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ1FleXhxMFZPOWVwVlZKd1djTjdhY2RLdzZMZjZmLTM2Um10NkdmczFmLWFaQUZmM1lGSXgtOTYyYXdaTldyYjN1OGlNU1B1RVhveDZYakQ2Y2g4cEJtLWxEZ3RyY2FmMTEzNG1fWWRrMURISzI5TklfVXJYbnluS0Nfc1hEOXZFUldxTDViWm0tRjR3anR2ZWh0SG1QOFJZcGVma2JnSTlaT0stMHpXMGk2WlFjRUpqZ3FyYWVlV1FxN2t1QUpyQW52bDFYbmc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 102.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-13 20:37",
-   "title": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli - Benzinga",
-   "summary": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTEU2R1lHOTJiYUNLYWN3Q19Nd29QcVBBUXVySElSXzFPWXE1WV9mVDBwV1lUd2VBVVQ2WTRvVEs3WlpsZElhdnBBSXhVWWlRSlJCRUhtd1hoNDRyM3hkRjlGeDljV1BSN1ZDaTJtVDMyc3FkdjQ0cEt3LVUydC0tMEtxbmFVZlNYcVpMWFM4Y1F3SFc0eTNvcDR0VXd5ZG1xdF91U0dOeWtINmk3WnNobzl4bWhrQWZHbVZETExNZmlfNm9IRWlfc3NGR0lyUUxYbkwyUkR1ZjFYRldBcXh2eWdiWVMzTU9zTF9GRTR0c3JlSTVkRkk3dkV3TE5Sbkx4bGc?oc=5",
      "t": "sec"
     }
    ],
@@ -461,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 99.3
+   "heat": 98.9
   },
   {
    "cat": "stock",
@@ -475,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 99.2
+   "heat": 98.7
   },
   {
    "cat": "stock",
@@ -489,7 +475,63 @@
      "t": "sec"
     }
    ],
-   "heat": 98.8
+   "heat": 98.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 15:04",
+   "title": "Investor Focus: Best S&P 500 ETFs, Rolls-Royce Stock Hits Record, Andy Burnham’s Plan for Your ISA - Morningstar",
+   "summary": "Investor Focus: Best S&P 500 ETFs, Rolls-Royce Stock Hits Record, Andy Burnham’s Plan for Your ISA &nbsp;&nbsp; Morningstar",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ1FleXhxMFZPOWVwVlZKd1djTjdhY2RLdzZMZjZmLTM2Um10NkdmczFmLWFaQUZmM1lGSXgtOTYyYXdaTldyYjN1OGlNU1B1RVhveDZYakQ2Y2g4cEJtLWxEZ3RyY2FmMTEzNG1fWWRrMURISzI5TklfVXJYbnluS0Nfc1hEOXZFUldxTDViWm0tRjR3anR2ZWh0SG1QOFJZcGVma2JnSTlaT0stMHpXMGk2WlFjRUpqZ3FyYWVlV1FxN2t1QUpyQW52bDFYbmc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 97.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-16 21:20",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index down 4.29%",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-429-4862013",
+     "t": "agg"
+    }
+   ],
+   "heat": 96.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-16 19:32",
+   "title": "Scholastic EVP, pres. CBG Sasha Quinton sells over $1.2m in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/scholastic-evp-pres-cbg-sasha-quinton-sells-over-12m-in-stock-93CH-4862008",
+     "t": "agg"
+    }
+   ],
+   "heat": 96.3
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-16 19:32",
+   "title": "SharkNinja CCO Neil Shah sells $5.5m in company stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/sharkninja-cco-neil-shah-sells-55m-in-company-stock-93CH-4862007",
+     "t": "agg"
+    }
+   ],
+   "heat": 96.3
   },
   {
    "cat": "stock",
@@ -503,77 +545,21 @@
      "t": "agg"
     }
    ],
-   "heat": 96.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-16 18:46",
-   "title": "Natera executive chairman Matthew Rabinowitz sells $641,800 stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-641800-stock-93CH-4862003",
-     "t": "agg"
-    }
-   ],
-   "heat": 96.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-16 16:01",
-   "title": "SentinelOne chief accounting officer Robin Tomasello sells $109,799 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/sentinelone-chief-accounting-officer-robin-tomasello-sells-109799-in-stock-93CH-4861996",
-     "t": "agg"
-    }
-   ],
    "heat": 96.2
   },
   {
    "cat": "stock",
-   "time": "2026-08-16 15:01",
-   "title": "We told you first: these AI-picked small-cap stocks are up +39% and +34% MTD",
-   "summary": "",
+   "time": "2026-08-13 20:37",
+   "title": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli - Benzinga",
+   "summary": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli &nbsp;&nbsp; Benzinga",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/we-told-you-first-these-aipicked-smallcap-stocks-are-up-39-and-34-mtd-4861993",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTEU2R1lHOTJiYUNLYWN3Q19Nd29QcVBBUXVySElSXzFPWXE1WV9mVDBwV1lUd2VBVVQ2WTRvVEs3WlpsZElhdnBBSXhVWWlRSlJCRUhtd1hoNDRyM3hkRjlGeDljV1BSN1ZDaTJtVDMyc3FkdjQ0cEt3LVUydC0tMEtxbmFVZlNYcVpMWFM4Y1F3SFc0eTNvcDR0VXd5ZG1xdF91U0dOeWtINmk3WnNobzl4bWhrQWZHbVZETExNZmlfNm9IRWlfc3NGR0lyUUxYbkwyUkR1ZjFYRldBcXh2eWdiWVMzTU9zTF9GRTR0c3JlSTVkRkk3dkV3TE5Sbkx4bGc?oc=5",
+     "t": "sec"
     }
    ],
    "heat": 96.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-16 15:01",
-   "title": "Scholastic director Kaya Henderson sells $130,812 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/scholastic-director-kaya-henderson-sells-130812-in-stock-93CH-4861992",
-     "t": "agg"
-    }
-   ],
-   "heat": 96.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-16 14:31",
-   "title": "PubMatic CEO Rajeev Goel sells $3.75 million in company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/pubmatic-ceo-rajeev-goel-sells-375-million-in-company-stock-93CH-4861991",
-     "t": "agg"
-    }
-   ],
-   "heat": 95.9
   },
   {
    "cat": "stock",
@@ -587,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.9
+   "heat": 94.5
   },
   {
    "cat": "stock",
@@ -601,7 +587,21 @@
      "t": "sec"
     }
    ],
-   "heat": 92.6
+   "heat": 92.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 06:00",
+   "title": "The New York Stock Exchange | NYSE - NYSE",
+   "summary": "The New York Stock Exchange | NYSE &nbsp;&nbsp; NYSE",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 92.1
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.2
+   "heat": 40.0
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.6
+   "heat": 36.1
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.1
+   "heat": 36.0
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.5
+   "heat": 30.0
   },
   {
    "cat": "global",
@@ -755,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 22.2
+   "heat": 22.0
   },
   {
    "cat": "global",
@@ -801,17 +801,17 @@
   },
   {
    "cat": "global",
-   "time": "2026-08-15 06:01",
-   "title": "US Treasury yields rise as Oil strength offsets weak Retail Sales",
-   "summary": "US Treasury yields advanced on Friday during the North American session after reversing their course following the release of US Retail Sales data, which disappointed investors. Me…",
+   "time": "2026-08-16 19:01",
+   "title": "Bitcoin coils below $64K resistance: Live levels",
+   "summary": "",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-oil-strength-offsets-weak-retail-sales-202608142201",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
+     "t": "agg"
     }
    ],
-   "heat": 12.5
+   "heat": 20.2
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.3
+   "heat": 86.8
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.0
+   "heat": 86.6
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.0
+   "heat": 86.5
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.0
+   "heat": 74.6
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.9
+   "heat": 71.5
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.5
+   "heat": 71.1
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.2
+   "heat": 70.7
   },
   {
    "cat": "crypto",
@@ -951,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.2
+   "heat": 70.7
   },
   {
    "cat": "crypto",
@@ -965,21 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-15 07:41",
-   "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
-   "summary": "The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 68.8
+   "heat": 70.5
   },
   {
    "cat": "crypto",
@@ -993,7 +979,21 @@
      "t": "sec"
     }
    ],
-   "heat": 67.2
+   "heat": 66.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-15 09:22",
+   "title": "S&P 500 Hits 7,800: Is Wall Street’s Risk-On Rally a Signal for Indian Crypto Traders? - CryptoRank",
+   "summary": "S&P 500 Hits 7,800: Is Wall Street’s Risk-On Rally a Signal for Indian Crypto Traders? &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbS12TmQxVkE0T3lkcGpiMm45UDVWb2VoNWozWjlEQkhSYmRVYkZaUXRiekZiQm1PN090RU5hcXF0NS1yQTlYaDV1ckFEX1RVa19LVVEyZC1VZ0lWRHB4YjFaZGNiZTBzeTdQaWZUdVhIQXB6TVFQdmNBZmdnOTFoV3FITE04Y0c5NmYzSVV2SlpUN19tRDNIa1AxaklrNUs0dU1mQktPRnpBSTc4aHNxeE4tY1VkcGRxWTVj?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 64.6
   },
   {
    "cat": "crypto",
@@ -1007,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.8
+   "heat": 64.4
   },
   {
    "cat": "crypto",
@@ -1021,21 +1021,21 @@
      "t": "sec"
     }
    ],
-   "heat": 64.4
+   "heat": 64.0
   },
   {
    "cat": "sector",
-   "time": "2026-08-12 15:14",
-   "title": "15:14:24【鸿海：明年展望很正面 客户对AI的需求非常强劲】",
-   "summary": "15:14:24【鸿海：明年展望很正面 客户对AI的需求非常强劲】 &nbsp;&nbsp; 财联社",
+   "time": "2026-08-12 15:43",
+   "title": "08:06:55【中信证券：字节跳动成立AI数据部门 版权数据价值重估】",
+   "summary": "08:06:55【中信证券：字节跳动成立AI数据部门 版权数据价值重估】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRSUNWQm12T2hkbWxYZ1hoVVctSmJ5N3N0ZDAya2lQSzZocWd0RmtNRm1qUW90a1dJQ3lJN1puV19ULVI0S0RrZw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZZlF1eWxNcWhZaTNSSWVhUWw5RUNsT1NpYmtWVzZRUmpGN2xRVWN4dmYtMXJZYy13ZERsWVktcnVPeUt3anRfTQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 264.0
+   "heat": 268.0
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 264.6
+   "heat": 268.1
   }
  ]
 }

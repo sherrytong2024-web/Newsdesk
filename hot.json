@@ -1,6 +1,104 @@
 {
- "updated": "2026-08-17 02:59",
+ "updated": "2026-08-17 05:39",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-17 04:58",
+   "title": "Tropical Storm Lala Hits Hawaii, Lebanon Struck By Israel, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-16/tropical-storm-lala-hits-hawaii-lebanon-struck-by-israel-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-17 04:55",
+   "title": "Trump's envoys meet with Egyptian, Qatari and Turkish mediators in Cairo as Israel strikes Gaza",
+   "summary": "Hamas officials were present at some of the meetings that mediators held with Trump's envoy and son-in-law Jared Kushner, the diplomat said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/16/trumps-envoys-meet-mediators-israel-strikes-gaza.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-17 04:44",
+   "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
+   "summary": "The National Hurricane Center is warning of \"life-threatening flooding and mudslides\" conditions and predicting up to 25 inches of rain on Hawaii's Big Island.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/16/hurricane-lala-leaves-thousands-without-power-in-hawaii.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-16 04:32",
+   "title": "Nvidia eyes investing $3 billion in SoftBank's SB Energy under OpenAI data center deal, Information says",
+   "summary": "The proposed investment ⁠is part of Nvidia's talks with OpenAI ⁠and SB Energy on providing credit support for a panned Ohio data center campus, the report said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-17 04:00",
+   "title": "Skyrocketing Beef Prices Finally Have Americans Reaching Their Spending Limit",
+   "summary": "Aaron Kaufman used to meet his lofty daily protein goals — a gram for each pound he weighs — with ground beef.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-16/skyrocketing-beef-prices-finally-have-americans-reaching-their-spending-limit",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-17 03:50",
+   "title": "Alex Cooper Leaves Long-Time Agent, Seeking New Help to Build Media Empire",
+   "summary": "Alex Cooper is leaving her long-time talent agent for CAA after raising money to expand her business",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-16/alex-cooper-leaves-long-time-agent-seeking-new-help-to-build-media-empire",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-17 03:32",
+   "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
+   "summary": "Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies switch between artificial intelligence models, for more than $7 billion, according…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.6
+  },
   {
    "cat": "sector",
    "time": "2026-08-17 02:51",
@@ -13,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 272.0
+   "heat": 275.5
   },
   {
    "cat": "sector",
@@ -27,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.7
+   "heat": 275.2
   },
   {
    "cat": "sector",
@@ -41,105 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 23:21",
-   "title": "Hurricane Lala Hits Hawaii, US-Iran Ceasefire Expiring, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-16/hurricane-lala-hits-hawaii-us-iran-ceasefire-expiring-more-msvyddgz",
-     "t": "sec"
-    }
-   ],
-   "heat": 271.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 23:17",
-   "title": "Donalds Looks to Build on DeSantis Legacy",
-   "summary": "Republican Rep. Byron Donalds is on Bloomberg This Weekend and tells hosts Joe Mathieu and Carol Massar that affordability will be central to his campaign for Florida governor, pro…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-16/donalds-looks-to-build-on-desantis-legacy-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 271.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 22:37",
-   "title": "Bonta Says Meta Put Profit Over Children’s Safety",
-   "summary": "California Attorney General Rob Bonta joins Bloomberg This Weekend and calls the landmark youth safety case against Meta a “tobacco moment,” alleging the company knowingly designed…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-16/bonta-says-meta-put-profit-over-children-s-safety-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 271.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 22:30",
-   "title": "The internet's grandma has advice for late bloomers: 'It doesn't all have to be perfect'",
-   "summary": "Kim Murstein and Gail Rudnick are the duo behind \"Excuse My Grandma,\" an advice podcast that dives into life, love and other issues across generations.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/16/grandma-gail-advice-for-late-bloomers-it-doesnt-all-have-to-be-perfect.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 271.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 22:16",
-   "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
-   "summary": "The National Hurricane Center is warning of \"life-threatening flooding and mudslides\" conditions and predicting up to 25 inches of rain on Hawaii's Big Island.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/16/hurricane-lala-leaves-thousands-without-power-in-hawaii.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 271.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 21:42",
-   "title": "AI Perfection Fuels a Return to Looking Human",
-   "summary": "Bloomberg Businessweek Senior Reporter Amanda Mull says consumers are showing signs of fatigue with the polished faces, homes and lifestyles popularized by influencers, filters and…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-16/ai-perfection-fuels-a-return-to-looking-human-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 271.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 21:01",
-   "title": "Iran Pressure Campaign Lacks Clear Off Ramp",
-   "summary": "Acting Principal Deputy Assistant Secretary for the Bureau of Near Eastern Affairs Jen Gavito and retired Vice Adm. Robert Harward join Bloomberg This Weekend and offer sharply dif…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-16/iran-pressure-campaign-lacks-clear-off-ramp",
-     "t": "sec"
-    }
-   ],
-   "heat": 271.0
+   "heat": 275.1
   }
  ]
 }
