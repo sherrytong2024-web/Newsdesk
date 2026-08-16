@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16 05:41",
+ "updated": "2026-08-16 11:15",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.8
+   "heat": 37.9
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.7
+   "heat": 34.8
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.0
+   "heat": 34.1
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.8
+   "heat": 33.8
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.6
+   "heat": 29.6
   },
   {
    "cat": "macro",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 18.8
+   "heat": 17.9
   },
   {
    "cat": "macro",
@@ -125,35 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 18.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-15 17:00",
-   "title": "Quartz Industry Splits as Trump Tariffs Fuel Affordability Fears",
-   "summary": "The US starts collecting tariffs Saturday on imported quartz slabs used for countertops, backsplashes and bathroom tiles, dividing the industry among opponents who warn of added co…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-15/quartz-industry-splits-as-trump-tariffs-fuel-affordability-fears",
-     "t": "sec"
-    }
-   ],
-   "heat": 13.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-15 13:00",
-   "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
-   "summary": "Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 13.2
+   "heat": 17.7
   },
   {
    "cat": "macro",
@@ -167,21 +139,21 @@
      "t": "sec"
     }
    ],
-   "heat": 11.1
+   "heat": 10.1
   },
   {
    "cat": "macro",
    "time": "2026-08-15 13:00",
-   "title": "Russia's economy has defied the skeptics. Cracks are getting harder to hide",
-   "summary": "Russia's wartime economy is under growing strain as its budget deficit widens and analysts warn pressure could intensify next year.",
+   "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
+   "summary": "Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html",
+     "u": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
      "t": "sec"
     }
    ],
-   "heat": 9.2
+   "heat": 8.3
   },
   {
    "cat": "macro",
@@ -195,7 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 8.1
+   "heat": 8.0
   },
   {
    "cat": "macro",
@@ -212,6 +184,76 @@
    "heat": 8.0
   },
   {
+   "cat": "macro",
+   "time": "2026-08-14 05:48",
+   "title": "财联社8月13日电，证监会核准迪亚琦华有限公司（DIJLLAH JEWELLERY FZE）合格境外投资者资格。",
+   "summary": "财联社8月13日电，证监会核准迪亚琦华有限公司（DIJLLAH JEWELLERY FZE）合格境外投资者资格。 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZeUpwSG9QU0xmSGFKM3NoeDZvZm1ubEY4NDc4ckFoQ0hhV2RMZUNKSU1CX0tXNTVrd1l0ckJnVUxTTk5CbGVjOA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 4.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-11 02:43",
+   "title": "02:43:51【美国2026财年前10个月联邦赤字为1.8万亿美元】",
+   "summary": "02:43:51【美国2026财年前10个月联邦赤字为1.8万亿美元】 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5nQ08xaXZabjRpSVBTWlpQRUtBeVFJMDdCTXZObnpRRDZ2dzVxbU5SSkhPRktwX19YS2daQUxZVU5ONHFncmRpZQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 4.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-16 06:49",
+   "title": "U.S. to tell partners they must pick sides in AI race with China: Reuters",
+   "summary": "The draft letter is addressed to the 35 signatories of a U.S. \"AI Opportunity Statement\" signed in June.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-16 06:03",
+   "title": "Lala strengthens into a hurricane and bears down on Hawaii’s Big Island with heavy rain, winds",
+   "summary": "The Big Island has not experienced a direct hurricane landfall in 155 years.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/15/hawaii-under-hurricane-threat-as-tropical-storm-lala-strengthens.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-16 06:02",
+   "title": "US to Ramp Up Iran Pressure, Hurricane Lala Targets Hawaii, More",
+   "summary": "Source: Bloomberg, 5:37",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-15/us-to-ramp-up-iran-pressure-hurricane-lala-targets-hawaii-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.1
+  },
+  {
    "cat": "sector",
    "time": "2026-08-16 04:38",
    "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
@@ -223,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.8
+   "heat": 242.9
   },
   {
    "cat": "sector",
@@ -237,21 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 03:49",
-   "title": "Lala strengthens into a hurricane and bears down on Hawaii’s Big Island with heavy rain, winds",
-   "summary": "The Big Island has not experienced a direct hurricane landfall in 155 years.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/15/hawaii-under-hurricane-threat-as-tropical-storm-lala-strengthens.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.7
+   "heat": 242.9
   },
   {
    "cat": "sector",
@@ -265,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.6
+   "heat": 242.6
   },
   {
    "cat": "sector",
@@ -279,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.3
+   "heat": 242.4
   },
   {
    "cat": "sector",
@@ -293,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.1
+   "heat": 242.2
   },
   {
    "cat": "sector",
@@ -307,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.9
+   "heat": 242.0
   },
   {
    "cat": "sector",
@@ -321,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.9
+   "heat": 242.0
   },
   {
    "cat": "sector",
@@ -335,7 +363,21 @@
      "t": "sec"
     }
    ],
-   "heat": 234.9
+   "heat": 241.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-15 20:39",
+   "title": "Robinson Says Activists Need Leverage to Win",
+   "summary": "Author of the book 'From Presence to Power' Rashad Robinson is on Bloomberg This Weekend and explains to hosts David Gura and Christina Ruffini that visibility, media attention and…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-15/robinson-says-activists-need-leverage-to-win-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 241.6
   },
   {
    "cat": "sector",
@@ -349,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.5
+   "heat": 241.5
   },
   {
    "cat": "sector",
@@ -363,35 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 16:11",
-   "title": "S&P 500 Hits Record High in August 2026: What's Driving the Historic Rally - Intellectia AI",
-   "summary": "S&P 500 Hits Record High in August 2026: What's Driving the Historic Rally &nbsp;&nbsp; Intellectia AI",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVUW5MTzQ3bWNteTRPUzhKU0RsanBiRTljclhxQlh1dXhIZURISlY3T0pKOWpiOHg3UUdHWFh4TmhoQ2hJSXRyRGpkM0JFWXVCWDloYVpDd1VXUlJJbUU4WGx1LW9VMkk4aEVnSHNWSGNXOTNHcGpTY0tVaFlOUQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 233.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-15 14:11",
-   "title": "Beijing is said to move to clarify tax rules stoking confusion among China's ultra-wealthy",
-   "summary": "Beijing is said to be moving to clarify ambiguities in new tax rules on offshore trusts after the policy sowed confusion among wealthy Chinese and advisors.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/15/china-rich-tycoons-tax-overseas-investment-trust-insurance-capital-flows.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 233.4
+   "heat": 241.5
   },
   {
    "cat": "stock",
@@ -405,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 121.6
+   "heat": 108.6
   },
   {
    "cat": "stock",
@@ -419,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 118.7
+   "heat": 105.8
   },
   {
    "cat": "stock",
@@ -433,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 118.6
+   "heat": 105.7
   },
   {
    "cat": "stock",
@@ -447,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 118.6
+   "heat": 105.6
   },
   {
    "cat": "stock",
@@ -461,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 116.0
+   "heat": 104.0
   },
   {
    "cat": "stock",
@@ -475,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 112.0
+   "heat": 100.0
   },
   {
    "cat": "stock",
@@ -489,13 +503,13 @@
      "t": "sec"
     }
    ],
-   "heat": 112.0
+   "heat": 100.0
   },
   {
    "cat": "stock",
    "time": "2026-08-11 12:43",
-   "title": "US Stock Market: JP Morgan raises S&P 500 year-end target to 8,000 on AI, earnings optimism - The Economic Times",
-   "summary": "US Stock Market: JP Morgan raises S&P 500 year-end target to 8,000 on AI, earnings optimism &nbsp;&nbsp; The Economic Times",
+   "title": "US Stock Market: JP Morgan raises S&P 500 year-end target to 8,000 on AI, earnings optimism - economictimes.com",
+   "summary": "US Stock Market: JP Morgan raises S&P 500 year-end target to 8,000 on AI, earnings optimism &nbsp;&nbsp; economictimes.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -503,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 112.0
+   "heat": 100.0
   },
   {
    "cat": "stock",
@@ -517,91 +531,91 @@
      "t": "sec"
     }
    ],
-   "heat": 106.5
+   "heat": 93.5
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 21:07",
-   "title": "Why Nvidia’s $500bn investment mobilization is a positive for the stock",
+   "time": "2026-08-16 02:31",
+   "title": "Everus Construction VP Sanderson sells $451,077 in company stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/why-nvidias-500bn-investment-mobilization-is-a-positive-for-the-stock-4861855",
+     "u": "https://www.investing.com/news/insider-trading-news/everus-construction-vp-sanderson-sells-451077-in-company-stock-93CH-4861900",
      "t": "agg"
     }
    ],
-   "heat": 104.6
+   "heat": 92.5
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 20:31",
-   "title": "Atmos Energy director William Ware buys $50,278 in company stock",
+   "time": "2026-08-16 01:46",
+   "title": "Aehr Test Systems VP Alistair Sporck sells $108,490 in common stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/atmos-energy-director-william-ware-buys-50278-in-company-stock-93CH-4861854",
+     "u": "https://www.investing.com/news/insider-trading-news/aehr-test-systems-vp-alistair-sporck-sells-108490-in-common-stock-93CH-4861895",
      "t": "agg"
     }
    ],
-   "heat": 104.5
+   "heat": 92.4
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 20:30",
-   "title": "Home Bancshares director Jim Rankin sells $462,966 in HOMB stock",
+   "time": "2026-08-16 01:37",
+   "title": "Just 13% of U.S. large-cap stock-picking funds beat benchmarks over decade",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/home-bancshares-director-jim-rankin-sells-462966-in-homb-stock-93CH-4861853",
+     "u": "https://www.investing.com/news/stock-market-news/just-13-of-us-largecap-stockpicking-funds-beat-benchmarks-over-decade-4861893",
      "t": "agg"
     }
    ],
-   "heat": 104.5
+   "heat": 92.4
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 20:02",
-   "title": "Kestra Medical Technologies CEO Brian Webster sells $692,214 in stock",
-   "summary": "",
+   "time": "2026-08-15 06:22",
+   "title": "Reddit Stock Jumps 11% on S&P 500 Addition - Briefs Finance",
+   "summary": "Reddit Stock Jumps 11% on S&P 500 Addition &nbsp;&nbsp; Briefs Finance",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-ceo-brian-webster-sells-692214-in-stock-93CH-4861849",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82RWp6c0YzSHAzSGhUMFVQc3QzMTE1ZUJORHh6QXJEcHBTdUdQTDduMUQyd3hUbGdwd0Y4TzZwN0ZNRkl5N1NsdEhHWGVWUmdKNmo2OWNzai1tSUZhVXI3V0tVWkR6ejVaQXZ1UGhHOWpQR2J2LWZvSw?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 104.4
+   "heat": 91.2
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 20:01",
-   "title": "Equinix director Christopher Paisley sells $4.08m in EQIX stock",
-   "summary": "",
+   "time": "2026-08-14 22:21",
+   "title": "US stock market today: Wall Street drifts near record highs; economic data in focus - The Times of India",
+   "summary": "US stock market today: Wall Street drifts near record highs; economic data in focus &nbsp;&nbsp; The Times of India",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/equinix-director-christopher-paisley-sells-408m-in-eqix-stock-93CH-4861848",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMGNpb2IyQzRBQnFOU2prXzdadDQtaFdvWENTajdfWVIyRXkyR1hZemdTbzFod2I5NTV6X0I4YTFSOTktWS1ubGUzeUxVSzZtZ1pCU3lVVFBETXNOdGxVSG1iYmpQUFAtT29IemhaYWJ5cmExdlFOX0pEaHR6VzFQNkp3Tm91TGpvS19PWDVtSlJyZFExMmdtUm55N21wOWlaaVUwVVQxLVhpc0lRTFJwdGE3Y1dqdExWSjk2N2I5Ym1WRURNNnNaSUpDNDhvQWMzOTkwM09xNHN3dUdRZldDb0RWWUkxTXFSNUctVlRCUUYzRWxnczdULS1Md1BlSFI4dEVSdkJsUnBPRjc2clBydl9peWQyNHBoNVROSU95OEYwc3AyQzVGeXdrSy1DcXpUTmpvSHdRbjJBT0dnc3gybjdEdU90b2R00gHOAkFVX3lxTE9NRElvbUtYQmxhZnJOaDRaQ3RqY2lrcXRnaUo1a19nbVUyLWpzdFJuQV9Yb0g5T29obUgzNWZtb2FNU2picFlnNVVJUDQteXBqU3pCMzMxTmNJd0Ribm1XWk9VbEdNekxFaEUyQ3BKLWtWZjk2UG5wR0pLSExYejVlNmthMGNYdHF4ZjIwbmpNRnJUNHhMSW14aUwtYkJ0cU40MlA5c18yZElBcnlkSVFfeWplUDdtM2Q3UXh1a3NrdFA5ODU0WGxkRVFHeHYxUklyZzRHZTRuR0U1ZGstN2ZGbVAwQ1pIQW12cUZfWmVvaDJSNkdiNGRIUnBLLXlkWE9TQWxpYlNnOWZSMHRmd1F6ZU5GUE93LUl2bm80WXI4TmNOZlRKODJlSFlzM29tNWdtZ0FZZEx1cTFhaDI5TVBjaWlOcGxyQUtmZHJPTWc?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 104.4
+   "heat": 89.8
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 20:01",
-   "title": "Cactus CEO Scott Bender sells $4.99m in company stock",
-   "summary": "",
+   "time": "2026-08-14 20:34",
+   "title": "Stock Market Today: Dow Jones Futures Slip, S&P 500, Nasdaq 100 Gains as US Says it Can Maintain Iran Blo - Benzinga",
+   "summary": "Stock Market Today: Dow Jones Futures Slip, S&P 500, Nasdaq 100 Gains as US Says it Can Maintain Iran Blo &nbsp;&nbsp; Benzinga",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/cactus-ceo-scott-bender-sells-499m-in-company-stock-93CH-4861847",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNRHhNeGRocTkyNml1M2NkU251MEJWQndBVHcwejFUSFUyUFZPdFBEZFpVNDgxYUswZW5lcEJRZFljMGVIWUcwaU9laEpzRFlmNmduVEZ1dDE3eGhZMTBZSGpvaUJweE5RcFgzcjhXakU3OTVuYVB4VHFlbFZYM3BrbldpQ0RrWkVESXF0OUpDZE9GazdGdE0wa3VhTGQ0RllOWjhBU19Xd29TNkxTVURWSTJiUWtyZ0dwazZ4M3dWQWQ2NVowWGJnRTRPUnNHeEZzcllwc0lVbXhUakVYNzdQV2FoWEgtdU9DTWV2WE5KLUlwQUdLZWRQMWNzTEVFY0VralNiWlJtcVZpcWkyNWRjQUIwenZ2aTczUEdoRjNpcHhBeW9mYVA4a213V2xGZnBJLXZ4azloeG5oemM?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 104.4
+   "heat": 89.6
   },
   {
    "cat": "global",
@@ -615,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.3
+   "heat": 58.4
   },
   {
    "cat": "global",
@@ -629,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.8
+   "heat": 42.9
   },
   {
    "cat": "global",
@@ -643,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.1
+   "heat": 39.2
   },
   {
    "cat": "global",
@@ -657,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 38.7
   },
   {
    "cat": "global",
@@ -671,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.5
+   "heat": 38.6
   },
   {
    "cat": "global",
@@ -685,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.4
+   "heat": 38.5
   },
   {
    "cat": "global",
@@ -699,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.4
+   "heat": 38.5
   },
   {
    "cat": "global",
@@ -713,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 36.2
+   "heat": 35.3
   },
   {
    "cat": "global",
@@ -727,7 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 36.2
+   "heat": 35.3
   },
   {
    "cat": "global",
@@ -741,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.6
+   "heat": 29.6
   },
   {
    "cat": "global",
@@ -755,7 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 25.8
+   "heat": 24.8
   },
   {
    "cat": "global",
@@ -769,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 25.2
+   "heat": 24.3
   },
   {
    "cat": "global",
@@ -783,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 24.5
+   "heat": 23.6
   },
   {
    "cat": "global",
@@ -797,7 +811,7 @@
      "t": "agg"
     }
    ],
-   "heat": 24.3
+   "heat": 23.3
   },
   {
    "cat": "global",
@@ -811,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 16.1
+   "heat": 15.1
   },
   {
    "cat": "crypto",
@@ -825,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 98.8
+   "heat": 93.9
   },
   {
    "cat": "crypto",
@@ -839,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.5
+   "heat": 90.6
   },
   {
    "cat": "crypto",
@@ -853,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.7
+   "heat": 89.8
   },
   {
    "cat": "crypto",
@@ -867,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.6
+   "heat": 85.6
   },
   {
    "cat": "crypto",
@@ -881,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.5
+   "heat": 85.6
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.3
+   "heat": 67.4
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.7
+   "heat": 65.8
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.6
+   "heat": 63.7
   },
   {
    "cat": "crypto",
@@ -937,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.4
+   "heat": 63.5
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.3
+   "heat": 63.4
   },
   {
    "cat": "crypto",
@@ -965,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.9
+   "heat": 63.0
   },
   {
    "cat": "crypto",
@@ -979,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.9
+   "heat": 63.0
   },
   {
    "cat": "crypto",
@@ -993,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.5
+   "heat": 62.6
   },
   {
    "cat": "crypto",
@@ -1007,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.2
+   "heat": 62.3
   },
   {
    "cat": "crypto",
@@ -1025,20 +1039,6 @@
   },
   {
    "cat": "sector",
-   "time": "2026-08-14 16:52",
-   "title": "17:24:50【高盛：闪迪长期盈利目标超预期 HBF有望打开AI存储新空间】",
-   "summary": "17:24:50【高盛：闪迪长期盈利目标超预期 HBF有望打开AI存储新空间】 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90V3ZhUktLRGJHTHdhLVAyaWNWOXhSRld3bW9QOFNvckRyQnNpNTIwTUxCTVlHeFhpWkd1cXhNUXl4UHUyZmFUYg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 229.9
-  },
-  {
-   "cat": "sector",
    "time": "2026-08-10 18:21",
    "title": "Chinese AI Chipmaker Cambricon’s Breakneck Growth Starts to Slow",
    "summary": "Chinese AI Chipmaker Cambricon’s Breakneck Growth Starts to Slow &nbsp;&nbsp; Caixin Global",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 232.0
+   "heat": 240.0
   }
  ]
 }
