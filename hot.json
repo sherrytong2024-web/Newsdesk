@@ -1,6 +1,48 @@
 {
- "updated": "2026-08-16 23:44",
+ "updated": "2026-08-17 02:59",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-17 02:51",
+   "title": "TS Lala Weakening as it Hits Hawaii, US-Iran Ceasefire Expiring",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-16/ts-lala-weakening-as-it-hits-hawaii-us-iran-ceasefire-expiring",
+     "t": "sec"
+    }
+   ],
+   "heat": 272.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-17 00:56",
+   "title": "Hurricane Hits Hawaii, Israel Strikes Lebanon as Truce Looms",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-16/hurricane-hits-hawaii-israel-strikes-lebanon-as-truce-looms-msw1r9jb",
+     "t": "sec"
+    }
+   ],
+   "heat": 271.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-17 00:14",
+   "title": "Four Antonello da Messina works stolen in Renaissance painter's hometown",
+   "summary": "The thieves entered the Museo Regionale di Messina late on Saturday, while the town was busy celebrating Assumption Day.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/16/4-antonello-da-messina-works-stolen-in-renaissance-painters-hometown.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 271.5
+  },
   {
    "cat": "sector",
    "time": "2026-08-16 23:21",
@@ -13,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.9
+   "heat": 271.4
   },
   {
    "cat": "sector",
@@ -27,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.9
+   "heat": 271.4
   },
   {
    "cat": "sector",
@@ -41,7 +83,21 @@
      "t": "sec"
     }
    ],
-   "heat": 255.8
+   "heat": 271.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-16 22:30",
+   "title": "The internet's grandma has advice for late bloomers: 'It doesn't all have to be perfect'",
+   "summary": "Kim Murstein and Gail Rudnick are the duo behind \"Excuse My Grandma,\" an advice podcast that dives into life, love and other issues across generations.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/16/grandma-gail-advice-for-late-bloomers-it-doesnt-all-have-to-be-perfect.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 271.3
   },
   {
    "cat": "sector",
@@ -55,21 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 21:49",
-   "title": "Hurricane Hits Hawaii, Israel Strikes Lebanon as Truce Looms",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-16/hurricane-hits-hawaii-israel-strikes-lebanon-as-truce-looms",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.7
+   "heat": 271.2
   },
   {
    "cat": "sector",
@@ -83,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.7
+   "heat": 271.1
   },
   {
    "cat": "sector",
@@ -97,49 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 19:52",
-   "title": "JPMorgan could soon be the first $1 trillion bank. Top analyst Mayo says next stop is $2 trillion",
-   "summary": "JPMorgan Chase could soon boast a market value in excess of $1 trillion. Several tailwinds are driving share value, according to Wells Fargo.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/16/jpmorgan-may-become-first-1-trillion-bank-next-stop-could-be-2-trillion.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 19:39",
-   "title": "Hurricane Lala Lashes Hawaii, US-Iran Ceasefire Set to Expire",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-16/hurricane-lala-lashes-hawaii-us-iran-ceasefire-set-to-expire",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-16 06:49",
-   "title": "U.S. to tell partners they must pick sides in AI race with China: Reuters",
-   "summary": "The draft letter is addressed to the 35 signatories of a U.S. \"AI Opportunity Statement\" signed in June.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 253.2
+   "heat": 271.0
   }
  ]
 }
