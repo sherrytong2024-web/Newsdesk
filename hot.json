@@ -1,23 +1,9 @@
 {
- "updated": "2026-08-18 03:17",
+ "updated": "2026-08-18 05:52",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-08-18 02:02",
-   "title": "Trump: No Hurry To End War, Nvidia Backs OpenAI, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-17/trump-no-hurry-to-end-war-nvidia-backs-openai-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-17 23:26",
+   "time": "2026-08-18 05:22",
    "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
    "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
    "srcs": [
@@ -27,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.4
+   "heat": 207.9
   },
   {
    "cat": "sector",
@@ -41,63 +27,77 @@
      "t": "sec"
     }
    ],
-   "heat": 211.1
+   "heat": 206.7
   },
   {
    "cat": "sector",
-   "time": "2026-08-18 02:42",
-   "title": "US High-Grade Bond Sales Set August Record in Year Full of Them",
-   "summary": "US investment-grade bond sales have set a third straight monthly record, continuing the market’s fastest pace of issuance as spending on the artificial-intelligence buildout fuels …",
+   "time": "2026-08-18 04:50",
+   "title": "Bloomberg Businessweek Daily: Income Stacking (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-17/us-high-grade-bond-sales-set-august-record-in-year-full-of-them",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-17/bloomberg-businessweek-daily-income-stacking-podcast",
      "t": "sec"
     }
    ],
-   "heat": 203.9
+   "heat": 199.8
   },
   {
    "cat": "sector",
-   "time": "2026-08-18 02:30",
-   "title": "Stripe to Buy AI Firm OpenRouter in $7 Billion Deal",
-   "summary": "Stripe is making one of its biggest AI bets yet, agreeing to buy OpenRouter for more than $7 billion, according to sources. Bloomberg’s Natasha Mascarenhas explains how OpenRouter …",
+   "time": "2026-08-18 04:21",
+   "title": "Bloomberg Businessweek Daily: US-Iran Peace Dims (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-17/bloomberg-businessweek-daily-us-iran-peace-dims-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-18 04:13",
+   "title": "Kahina Van Dyke on Stablecoins, Fintech Consolidation",
+   "summary": "Romaine Bostick sat down with Kahina Van Dyke, Advent International Operating Partner and Owner of the Inkwell Beach House, from Bloomberg's New Voices Initiative from Martha's Vin…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-17/stripe-to-buy-ai-firm-openrouter-in-7-billion-deal-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-17/kahina-van-dyke-on-stablecoins-fintech-consolidation-video",
      "t": "sec"
     }
    ],
-   "heat": 203.9
+   "heat": 199.7
   },
   {
    "cat": "sector",
-   "time": "2026-08-18 02:26",
-   "title": "AI Buildout Entering a Riskier Phase, Says Parnassus CIO",
-   "summary": "The AI boom is colliding with the limits of the physical world, creating opportunities well beyond chips and data centers, according to Parnassus Investments CIO Todd Ahlsten. He j…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-17/ai-buildout-entering-a-riskier-phase-says-parnassus-cio-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-18 02:00",
-   "title": "Two memory stocks are reasserting themselves as leaders by clearing key levels, says Katie Stockton",
-   "summary": "The founder of Fairlead Strategies breaks down the technicals on these memory chipmakers.",
+   "time": "2026-08-18 03:24",
+   "title": "Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'",
+   "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/17/two-memory-stocks-are-clearing-key-levels-says-katie-stockton.html",
+     "u": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
      "t": "sec"
     }
    ],
-   "heat": 203.8
+   "heat": 199.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-18 02:59",
+   "title": "Bolivia Ups Diesel Costs for Big Buyers to Tame Supply Shock",
+   "summary": "Bolivia’s government raised diesel prices 84% for larger consumers of the key industrial fuel, following shortages that caused long lines at gas stations.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-17/bolivia-hikes-diesel-prices-for-big-buyers-to-tame-supply-shock",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.5
   },
   {
    "cat": "sector",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.7
+   "heat": 199.3
   },
   {
    "cat": "sector",
@@ -125,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.7
+   "heat": 199.2
   },
   {
    "cat": "sector",
@@ -139,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.6
+   "heat": 199.1
   }
  ]
 }
