@@ -1,6 +1,90 @@
 {
- "updated": "2026-08-18 05:52",
+ "updated": "2026-08-18 11:09",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-18 11:02",
+   "title": "Bitcoin is overdue for moves of 30% or more, Fundstrat says",
+   "summary": "Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/18/bitcoin-price-volatility-fundstrat.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 188.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-18 10:00",
+   "title": "Korea Jettisons Startup From High-Stakes Sovereign AI Contest",
+   "summary": "South Korea eliminated a team led by Motif Technologies Co. from its sovereign AI competition, narrowing the high-stakes contest to three remaining groups.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-18/korea-jettisons-startup-from-high-stakes-sovereign-ai-contest",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-18 07:00",
+   "title": "CNBC's The China Connection newsletter: Money or power? The key to winning the AI race",
+   "summary": "The U.S. can outspend China in financing artificial intelligence development, but is that the only factor that matters?",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/17/money-or-power-the-key-to-winning-the-us-china-ai-race.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-18 06:35",
+   "title": "Petrobras Mulls Improving Braskem Credit Terms Amid Debt Talks",
+   "summary": "Brazil’s Petrobras is weighing whether to grant improved payment terms to Braskem on some contracts as the petrochemical producer races against the clock to find a solution for its…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-17/petrobras-mulls-improving-braskem-credit-terms-amid-debt-talks",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-18 06:13",
+   "title": "Amazon Spends $5 Million Against a Mamdani-Approved NYC Bill",
+   "summary": "On today’s Big Take, why Amazon has spent $5 million fighting a bill addressing subcontractor work in New York City.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-17/amazon-spends-5-million-against-a-mamdani-approved-nyc-bill",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-18 06:11",
+   "title": "Big Take: Amazon Spends Against Mamdani-Approved Bill (Podcast)",
+   "summary": "Source: Bloomberg, 19:19",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-17/big-take-amazon-spends-against-mamdani-approved-bill-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.2
+  },
   {
    "cat": "sector",
    "time": "2026-08-18 05:22",
@@ -13,49 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-17 22:11",
-   "title": "Nvidia Will Back First Phase of OpenAI Ohio Project With as Much as $105 Billion",
-   "summary": "Nvidia Corp. has agreed to spend as much as $105 billion to support a massive new data center campus in Ohio set to be leased by OpenAI, marking the latest tie-up between two domin…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-17/nvidia-to-invest-up-to-105-billion-for-openai-data-center-in-ohio",
-     "t": "sec"
-    }
-   ],
-   "heat": 206.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-18 04:50",
-   "title": "Bloomberg Businessweek Daily: Income Stacking (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-17/bloomberg-businessweek-daily-income-stacking-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-18 04:21",
-   "title": "Bloomberg Businessweek Daily: US-Iran Peace Dims (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-17/bloomberg-businessweek-daily-us-iran-peace-dims-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.7
+   "heat": 187.0
   },
   {
    "cat": "sector",
@@ -69,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.7
+   "heat": 186.8
   },
   {
    "cat": "sector",
@@ -83,35 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-18 02:59",
-   "title": "Bolivia Ups Diesel Costs for Big Buyers to Tame Supply Shock",
-   "summary": "Bolivia’s government raised diesel prices 84% for larger consumers of the key industrial fuel, following shortages that caused long lines at gas stations.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-17/bolivia-hikes-diesel-prices-for-big-buyers-to-tame-supply-shock",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-18 01:43",
-   "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
-   "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.3
+   "heat": 186.7
   },
   {
    "cat": "sector",
@@ -125,21 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-18 00:36",
-   "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
-   "summary": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.1
+   "heat": 186.4
   }
  ]
 }
