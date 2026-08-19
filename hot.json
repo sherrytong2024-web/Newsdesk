@@ -1,6 +1,34 @@
 {
- "updated": "2026-08-19 05:49",
+ "updated": "2026-08-19 11:13",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-19 11:10",
+   "title": "Bloomberg Daybreak Asia: Chip Selloff, Pony AI (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-19/bloomberg-daybreak-asia-chip-selloff-pony-ai-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 228.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-19 08:00",
+   "title": "Cerebras (CBRS) Says Its New Computer Boosts AI Speed Advantage Over Nvidia",
+   "summary": "Cerebras Systems Inc. introduced a new speedier computer built with the company’s chips, saying the device will give it a wider advantage over Nvidia Corp. equipment.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-19/cerebras-cbrs-says-its-new-computer-boosts-ai-speed-advantage-over-nvidia",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.5
+  },
   {
    "cat": "sector",
    "time": "2026-08-19 05:31",
@@ -13,133 +41,105 @@
      "t": "sec"
     }
    ],
-   "heat": 223.9
+   "heat": 227.0
   },
   {
    "cat": "sector",
-   "time": "2026-08-19 05:43",
-   "title": "How North Korea Is Raking in Billions: Big Take Asia Podcast",
-   "summary": "On today’s Big Take Asia podcast: how the war in Ukraine helped net Kim Jong Un a $22 billion windfall.",
+   "time": "2026-08-19 00:13",
+   "title": "Nvidia's AI moat is shifting from chips to capital",
+   "summary": "Nvidia still has dominant market share in AI chips, but with competition picking up steam, the company is taking greater advantage of another key asset.",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-18/how-north-korea-is-raking-in-billions-big-take-asia-podcast",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
      "t": "sec"
     }
    ],
-   "heat": 220.0
+   "heat": 226.2
   },
   {
    "cat": "sector",
-   "time": "2026-08-19 05:40",
-   "title": "Fletcher Building Waiting on Meaningful Recovery in NZ Demand",
-   "summary": "New Zealand’s largest construction materials company Fletcher Building Ltd. doesn’t expect a meaningful recovery in its markets until 2027, adding to signs of muted economic growth…",
+   "time": "2026-08-19 10:40",
+   "title": "Here’s the best place to hedge severe El Niño shocks to the food supply chain, BofA says",
+   "summary": "One country appears to be the best place to hedge market impact from severe El Niño shocks to global food supply chains, according to Bank of America.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-18/fletcher-building-waiting-on-meaningful-recovery-in-nz-demand",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/19/el-nino-food-supply-chain-hedge-bofa.html",
      "t": "sec"
     }
    ],
-   "heat": 220.0
+   "heat": 215.9
   },
   {
    "cat": "sector",
-   "time": "2026-08-19 05:40",
-   "title": "Leaning Into AI Helps VC Founders, Says Revolution's Hall",
-   "summary": "David Hall, managing partner at Revolution, talks about how artificial intelligence is helping entrepreneurs of color compete. He speaks with Romaine Bostick at the Bloomberg New V…",
+   "time": "2026-08-19 10:26",
+   "title": "China Recovers Rocket on Land in Push to Catch Up With SpaceX",
+   "summary": "China said it recovered a rocket booster on land for the first time, a major step toward catching up with US firms like Elon Musk’s SpaceX.",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-18/leaning-into-ai-helps-vc-founders-david-hall-says-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-19/china-recovers-rocket-on-land-in-push-to-catch-up-with-spacex",
      "t": "sec"
     }
    ],
-   "heat": 220.0
+   "heat": 215.9
   },
   {
    "cat": "sector",
-   "time": "2026-08-19 05:12",
-   "title": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
-   "summary": "ChatGPT for Teens includes a number of educational features and applies age-appropriate safeguards, OpenAI said.",
+   "time": "2026-08-19 09:34",
+   "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
+   "summary": "Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
+     "u": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
      "t": "sec"
     }
    ],
-   "heat": 219.9
+   "heat": 215.7
   },
   {
    "cat": "sector",
-   "time": "2026-08-19 05:07",
-   "title": "Bloomberg Businessweek Daily: Bond Market Slumps (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-08-19 09:05",
+   "title": "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion",
+   "summary": "Temporal Technologies Inc. is in talks for a fresh funding round that would give the AI startup a valuation of at least $12 billion before the new money, according to people famili…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-businessweek-daily-bond-market-slumps-podcast",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-19/ai-startup-temporal-in-talks-for-a-valuation-of-at-least-12-billion",
      "t": "sec"
     }
    ],
-   "heat": 219.9
+   "heat": 215.6
   },
   {
    "cat": "sector",
-   "time": "2026-08-19 05:02",
-   "title": "Bloomberg Businessweek Daily: Agentic Healthcare (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-businessweek-daily-agentic-healthcare-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-19 03:27",
-   "title": "We upgraded Home Depot and raised our price target. It made the best of a terrible hand",
-   "summary": "Home Depot reported a very good quarter, executing well on things it can control.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/18/we-upgraded-home-depot-and-raised-our-price-target-it-made-the-best-of-a-terrible-hand.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-19 02:28",
-   "title": "Trump says no talks scheduled with Iran as he teases action in Hormuz Strait",
-   "summary": "Trump insists the U.S., not Iran, is in control of the strait, even though transiting vessels continue to come under attack and few attempt the crossing.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-19 02:20",
-   "title": "Spacecom Raises $1.94 billion in Bet on China’s Starlink Rival",
-   "summary": "Spacecom Raises $1.94 billion in Bet on China’s Starlink Rival &nbsp;&nbsp; Caixin Global",
+   "time": "2026-08-19 09:00",
+   "title": "CX Daily: China’s AI Component Powerhouse Faces Geopolitical Reckoning",
+   "summary": "CX Daily: China’s AI Component Powerhouse Faces Geopolitical Reckoning &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdEdPeFB3N19SZTg3TzdXTUFNVkFvU3Y1Y1NQRkQ5RWpJaHZ2ME5xQXF1aVEtbDFhU2J2YlFSVndpVkpnWFhDNVhVWTkzRjdLZnltcGNkNDktTTVHZnphZmw0Y3lLSnczUTlubG1kZDF1LWhnTGFjQ2pOVmdxck1Ea1VfTjFIUk1VQ3pyamt4UVpSeFhhRmZ1eV9kcFNhVUROZ0ZydTJ0WVY2cU5fNk1ScUY2Q00?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFMyVkpTSnBYMWM0TThLYVp6WjUzaDNGaWZvUnR0UUF4cVpfUC1vRmd5NFNHUlQtQ1BrZWhKdXZzM0ZwM3NVOW5wTThjOF9MX1dITVNYVFZadGxncGxXbUFMc3d2alZFX3FOeUJ1SndDNlNoVEY4WGpwREFDcWdjbXpDVFNUVVZ5cWZ1TmgzZkJ0N0lLakZaRDV0YldPRUtiLWRzY0NiYW1xa2FFOEFqUjVDTVNCdHlFWHVLTWFtTlQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 219.4
+   "heat": 215.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-19 07:58",
+   "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
+   "summary": "Kweichow Moutai's half-year report showed a rare drop in net profit, following the first annual drop on record.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.5
   }
  ]
 }
