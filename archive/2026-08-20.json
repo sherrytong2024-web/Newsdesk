@@ -1,6 +1,20 @@
 {
- "updated": "2026-08-20 05:54",
+ "updated": "2026-08-20 11:12",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-08-20 08:59",
+   "title": "JPMorgan Team Sees Credibility Risk in Treasury’s Buybacks",
+   "summary": "JPMorgan Chase &amp; Co. strategists warned that markets may view the US Treasury’s surprise effort to curb long-term borrowing costs as lacking credibility, potentially pushing up…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-20/jpmorgan-team-sees-credibility-risk-in-treasury-s-bond-buybacks",
+     "t": "sec"
+    }
+   ],
+   "heat": 119.6
+  },
   {
    "cat": "macro",
    "time": "2026-08-20 04:02",
@@ -13,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.7
+   "heat": 94.8
   },
   {
    "cat": "macro",
@@ -27,35 +41,63 @@
      "t": "sec"
     }
    ],
-   "heat": 83.5
+   "heat": 78.6
   },
   {
    "cat": "macro",
-   "time": "2026-08-20 05:29",
-   "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
-   "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
+   "time": "2026-08-20 07:46",
+   "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+   "summary": "The S&P 500 rose modestly as the Treasury announced a debt repurchase plan that sent yields falling. Tune in to CNBC for John David Rainey of Walmart.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
+     "u": "https://www.cnbc.com/2026/08/19/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
      "t": "sec"
     }
    ],
-   "heat": 75.9
+   "heat": 75.4
   },
   {
    "cat": "macro",
-   "time": "2026-08-20 05:29",
-   "title": "Bets on Long-Bond ETF Spiked a Day Before US Announced Buyback",
-   "summary": "One or more investors piled into an exchange-traded fund that’s highly sensitive to swings in long-term US bond yields on Tuesday, a day before the Treasury Department unexpectedly…",
+   "time": "2026-08-20 07:34",
+   "title": "Gold Holds Near $4,500 as US Treasury Buyback Sends Yields Lower",
+   "summary": "Gold was largely holding its biggest gain in six months after the US Treasury Department made a surprise move to rein in long-term borrowing costs.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-19/bets-on-long-bond-etf-spiked-a-day-before-us-announced-buyback",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-19/gold-holds-near-4-500-as-us-treasury-buyback-sends-yields-lower",
      "t": "sec"
     }
    ],
-   "heat": 67.9
+   "heat": 75.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-20 06:11",
+   "title": "Markets Rebound as Treasury Moves to Rein In Yields | The Close 8/19/2026",
+   "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are JPMorg…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-19/the-close-8-19-2026-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-20 06:08",
+   "title": "S&P 500: Wall Street Rebounds as Treasury Debt Buyback Plan Eases Yield Pressure - BBN Times",
+   "summary": "S&P 500: Wall Street Rebounds as Treasury Debt Buyback Plan Eases Yield Pressure &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamtjbWkxZ3FtZUtvNDhfVDdrT3BtYzFuRjBhUlctY2poSlFyQ2w0dHRzMkc5Ykd6eHdLYWwzNUNlb1lpSE1EY0FhSGlDSDhBdGZueU1BaEtGc2RFeUU0a0YwQVlJdFdsWi1mOHFiMGI0YVlzbF9KRjQzcmt3ZGVJUVc0cXFIRF81OC0zSzhGRGNxMko0c3E5Y3BqdHE2MGVaWlR1aUVrV1pJVC1TTkRfLWllTVhSclpLelU0?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.2
   },
   {
    "cat": "macro",
@@ -69,35 +111,21 @@
      "t": "sec"
     }
    ],
-   "heat": 67.7
+   "heat": 74.8
   },
   {
    "cat": "macro",
-   "time": "2026-08-19 21:18",
-   "title": "Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
+   "time": "2026-08-20 02:47",
+   "title": "Gold holds near 2-month high as Treasury buybacks push yields, dollar lower",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/us-treasury-to-double-sizes-of-some-debt-buyback-operations-to-at-least-4-billion-4867698",
+     "u": "https://www.investing.com/news/commodities-news/gold-holds-near-2month-high-as-treasury-buybacks-push-yields-dollar-lower-4868639",
      "t": "agg"
     }
    ],
-   "heat": 64.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-19 06:11",
-   "title": "Stocks Rise as Treasury Steps In to Support Bonds: Markets Wrap",
-   "summary": "Wall Street staged a rebound after the Treasury said it plans to boost buybacks of longer-dated bonds, a signal the US wants to lower borrowing costs after yields hit multi-decade …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
-     "t": "sec"
-    }
-   ],
-   "heat": 64.0
+   "heat": 72.6
   },
   {
    "cat": "macro",
@@ -111,357 +139,273 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 71.2
   },
   {
    "cat": "macro",
-   "time": "2026-08-20 05:16",
-   "title": "Mark Walter Scrambles for Deals, Shein Readies IPO | Bloomberg Deals 8/19/2026",
-   "summary": "A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: Matt McClure…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-19/bloomberg-deals-8-19-2026-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-20 05:01",
-   "title": "You don't need a rewards card — you need a lower interest rate. Here are 3 zero-interest cards to consider",
-   "summary": "High credit card interest rates can easily wipe out any value a rewards card can offer you. Here are the top 0% APR credit cards to consider.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/select/why-a-low-interest-rate-matters-more-than-rewards/",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-20 04:31",
-   "title": "Thoma Bravo’s Software Deals Reflect ‘Customer Bear Hug’ Strategy",
-   "summary": "A.J. Rohde details the strategy behind its software deals summer spree",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-19/thoma-bravo-s-software-deals-reflect-customer-bear-hug-strategy",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-20 04:11",
-   "title": "Trump Says Interest Rate System Doesn't Make Sense",
-   "summary": "President Donald Trump says when the country does well economically, interest rates should come down, but he says they go up. He says the system is unfair. He speaks at the White H…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-19/trump-says-interest-rate-system-doesn-t-make-sense-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-20 03:46",
-   "title": "Anthropic’s Annualized Revenue Tops $65B Before IPO",
-   "summary": "Bloomberg's Anthony Hughes joins Dani Burger on \"Bloomberg Deals.\" Anthropic is on track to generate annualized revenue of more than $65 billion based on its current performance, a…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-19/anthropic-s-annualized-revenue-tops-65b-before-ipo-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-19 16:23",
-   "title": "US Dollar Is Losing Its Front-End Rate Cushion Today",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-is-losing-its-frontend-rate-cushion-today-200686095",
-     "t": "agg"
-    }
-   ],
-   "heat": 59.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-18 18:36",
-   "title": "S&P 500: Index Notches a Record Close at 7,757.64 as Surprise Jobs Loss Fuels Rate-Cut Hopes - BBN Times",
-   "summary": "S&P 500: Index Notches a Record Close at 7,757.64 as Surprise Jobs Loss Fuels Rate-Cut Hopes &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzhXUXU3YW02dUtZbmhOZHJQZ1BCeWxiekJoQ0wwNzRLbGRiYU1aaHFiZ1g0VXdMOU5mNkJXVTFzYUhjVzBydlV0aF9xaDJYY1B3aC1nUjNxaFBlREluN3RNZkFjU3RyNkVjT3JQRFdJcUpoRi1LTzN0UU5IemUyUHQyN2YtZ0VwNVQ5OFNybmVLMFJCZlZGQ3FySV9GVU9qUkpXVmNTY1M3MXlHZzF5TDlDVU94UHVMUFNXRFBzSWdrSkRE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 58.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-20 05:46",
-   "title": "Bloomberg Businessweek Daily: AI Data Center Buildout (Podcast)",
+   "time": "2026-08-20 10:36",
+   "title": "Bloomberg Daybreak Asia: Treasury Buyback, Asia IPO (Podcast)",
    "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-19/bloomberg-businessweek-daily-ai-data-center-buildout-podcast",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-20/bloomberg-daybreak-asia-treasury-buyback-asia-ipo-podcast",
      "t": "sec"
     }
    ],
-   "heat": 220.0
+   "heat": 67.9
   },
   {
-   "cat": "sector",
-   "time": "2026-08-20 05:00",
-   "title": "Asia Centric: China’s AI Firms Locked in Race to the Bottom",
-   "summary": "While US tech giants such as Anthropic and OpenAI are monetizing at an unprecedented scale, Chinese developers are struggling to turn their technical progress into revenue growth. …",
+   "cat": "macro",
+   "time": "2026-08-20 06:44",
+   "title": "Big Take: Why Bessent Is Boosting Treasury Buy-Backs (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-19/asia-centric-china-s-ai-firms-locked-in-race-to-the-bottom",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-19/big-take-why-bessent-is-boosting-treasury-buy-backs-podcast",
      "t": "sec"
     }
    ],
-   "heat": 219.8
+   "heat": 67.3
   },
   {
-   "cat": "sector",
-   "time": "2026-08-20 05:00",
-   "title": "US vs China AI Race: How ChatGPT, Gemini, Deepseek, Kimi Agents Compare",
-   "summary": "A spate of new releases show Chinese competitors are closing the gap on Silicon Valley, and winning market share with lower prices.",
+   "cat": "macro",
+   "time": "2026-08-20 05:35",
+   "title": "PGIM’s Greg Peters on Bessent’s Debt Buyback Boost",
+   "summary": "Greg Peters, Co-CIO of Public and Private Fixed Income at PGIM, discussed the Treasury's recent decision to boost debt buybacks for 10-year to 30-year securities. The cap on buybac…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/graphics/2026-us-china-ai-race/",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-19/pgim-s-greg-peters-on-bessent-s-debt-buyback-boost-video",
      "t": "sec"
     }
    ],
-   "heat": 219.8
+   "heat": 67.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-20 05:29",
+   "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+   "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 67.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-20 03:49",
+   "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
+   "summary": "The announcement targets the sensitive longer-duration part of the Treasury market.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 66.8
   },
   {
    "cat": "sector",
-   "time": "2026-08-20 04:50",
-   "title": "Ramp Co-CEO on $44B Valuation, $1B Saved, AI Spending",
-   "summary": "Eric Glyman, Ramp Co-Founder and Co-CEO, discussed the rapid growth in AI-related expenditures, noting that companies have increased their AI spending by nearly 21 times over the p…",
+   "time": "2026-08-20 11:00",
+   "title": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
+   "summary": "The GV90 features a new design direction for Genesis and expands the Hyundai brand's lineup to seven vehicles in the U.S.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 216.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-20 10:49",
+   "title": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
+   "summary": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-20 10:31",
+   "title": "AIA CFO on 1H26 Results",
+   "summary": "Garth Jones, CFO of AIA Group, discusses the Hong Kong-listed insurer's 13% growth in value of new business in the first half of the year. He says the fundamental demand for busine…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-19/ramp-co-ceo-on-44b-valuation-1b-saved-ai-spending-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-20/aia-cfo-on-1h26-results-video",
      "t": "sec"
     }
    ],
-   "heat": 219.8
+   "heat": 215.9
   },
   {
    "cat": "sector",
-   "time": "2026-08-20 04:30",
-   "title": "Mark Walter Explores Selling Stake in Chelsea FC",
-   "summary": "Bloomberg's Randall Williams joins Dani Burger on \"Bloomberg Deals.\" Billionaire CEO of Guggenheim, Mark Walter, has explored selling his stake in Chelsea FC to Clearlake Capital, …",
+   "time": "2026-08-20 10:25",
+   "title": "Corn Breaks $5 Level as US Crop Tour Points to Tighter Supplies",
+   "summary": "Corn futures topped the $5-a-bushel mark for the first time in 18 months as weaker-than-expected US crop tour results add to global supply concerns for the staple grain.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-19/mark-walter-explores-selling-stake-in-chelsea-fc-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-20/corn-breaks-5-level-as-us-crop-tour-points-to-tighter-supplies",
      "t": "sec"
     }
    ],
-   "heat": 219.8
+   "heat": 215.9
   },
   {
    "cat": "sector",
-   "time": "2026-08-20 04:20",
-   "title": "Trump Opens Door to Hyperliquid as US Pulls Crypto Trade Onshore",
-   "summary": "President Donald Trump said US regulators are working to bring Hyperliquid, a fast-growing crypto platform, into the country, offering one of the clearest signals yet that the Whit…",
+   "time": "2026-08-20 09:59",
+   "title": "Singapore Police Begin Looking Into Trader Radiant World",
+   "summary": "Singapore’s police force has begun looking into Radiant World after receiving reports on the iron ore trader, a spokesperson said on Thursday.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-19/trump-opens-door-to-hyperliquid-as-us-pulls-crypto-trade-onshore",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-20/singapore-authorities-begin-looking-into-trader-radiant-world",
      "t": "sec"
     }
    ],
-   "heat": 219.7
+   "heat": 215.8
   },
   {
    "cat": "sector",
-   "time": "2026-08-20 04:11",
-   "title": "Investment Committee: Spotlight On SPACs",
-   "summary": "Desiree Carlo, senior vice president, client services at Laurel Hill, Christian Nagler, partner, capital markets at Kirkland & Ellis, and Betsy Cohen, chairman and co-founder at Co…",
+   "time": "2026-08-20 09:55",
+   "title": "RBI’s Net Short Dollar Position ‘Very Manageable,’ Malhotra Says",
+   "summary": "The Reserve Bank of India’s net short forward-dollar position remains “very manageable,” Governor Sanjay Malhotra said, citing earlier liquidity swaps and recent measures to bolste…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-19/investment-committee-spotlight-on-spacs-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-20/rbi-s-net-short-dollar-position-very-manageable-malhotra-says",
      "t": "sec"
     }
    ],
-   "heat": 219.7
+   "heat": 215.8
   },
   {
    "cat": "sector",
-   "time": "2026-08-20 04:10",
-   "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
-   "summary": "Stripe said it's acquiring OpenRouter, as the payments company expands into the artificial intelligence model market.",
+   "time": "2026-08-20 09:40",
+   "title": "Morgan Stanley Said to Hire Barclays Tech Dealmaker Tim Luke",
+   "summary": "Morgan Stanley is hiring technology dealmaker Tim Luke from Barclays Plc, according to people familiar with the matter.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-20/morgan-stanley-is-said-to-hire-barclays-tech-dealmaker-tim-luke",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-20 08:30",
+   "title": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
+   "summary": "Shipments of semiconductor equipment posted a massive 49.1% jump in value, reflecting continued demand, boosted by the artificial intelligence boom.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
+     "u": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
      "t": "sec"
     }
    ],
-   "heat": 219.7
+   "heat": 215.5
   },
   {
    "cat": "sector",
-   "time": "2026-08-20 04:09",
-   "title": "SpaceX Attempted to Buy AI Coding Startup Cognition",
-   "summary": "SpaceX approached Cognition AI Inc. about a potential acquisition to gain ground in the AI race, according to people familiar with the matter. Ed Ludlow has more on \"Bloomberg The …",
+   "time": "2026-08-20 08:24",
+   "title": "CK Hutchison Seeks $1.5 Billion for Loss of Panama Assets",
+   "summary": "CK Hutchison Holdings Ltd. commenced international arbitration proceedings against Panama, seeking more than $1.5 billion in damages over the loss of its investments in two ports o…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-20/ck-hutchison-seeks-1-5-billion-for-destruction-of-panama-assets",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-20 08:17",
+   "title": "Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge",
+   "summary": "Rising memory chip costs are reshaping the world's second-largest smartphone market as Chinese brands become expensive, improving the value proposition for Samsung and Apple.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/20/india-apple-samsung-china-smartphone-chip-inflation.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-20 08:09",
+   "title": "Asia's hydrogen dreams: Region bets on emerging green technology to improve transportation",
+   "summary": "Asia’s hydrogen train push may be less about rail and more about building a broader hydrogen economy.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/20/asia-hydrogen-trains-green-transport.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-20 07:57",
+   "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
+   "summary": "President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-20 07:00",
+   "title": "Labubu Maker Set For Drastic Growth Slowdown as Bears Gather",
+   "summary": "Pop Mart International Group Ltd. is poised to report a sharp slowdown in first-half sales growth Thursday, raising the stakes for a company that has lost roughly $32 billion in ma…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-19/spacex-attempted-to-buy-ai-coding-startup-cognition-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-19/labubu-maker-set-for-drastic-growth-slowdown-as-bears-gather",
      "t": "sec"
     }
    ],
-   "heat": 219.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-20 04:01",
-   "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-   "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-20 03:57",
-   "title": "CFTC Considers AI Compute Futures as ICE, CME Eye New Market",
-   "summary": "The Commodity Futures Trading Commission is asking for public input on futures contracts for the computing power that undergirds the artificial intelligence sector as industry heav…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-19/cftc-considers-ai-compute-futures-as-ice-cme-eye-new-market",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-20 02:55",
-   "title": "This fintech turned bank is winning with AI-powered lending and the right customers",
-   "summary": "The company's bank charter gives it access to low-cost deposits, allowing it to fund loans more efficiently and expand into other financial products.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/19/this-fintech-turned-bank-is-winning-with-ai-powered-lending-and-the-right-customers.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-20 02:54",
-   "title": "DOJ cites Comey's novel in urging judge not to toss ‘86 47' seashells threat to Trump case",
-   "summary": "\"There is no serious dispute that an objective viewer of Comey's post could read it to mean 'Kill President Trump,'\" prosecutors said.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.5
+   "heat": 215.3
   },
   {
    "cat": "stock",
-   "time": "2026-08-20 01:25",
-   "title": "Meta's legal troubles has options traders eyeing the 'jade lizard'",
-   "summary": "One of the many beauties of options trading is the ability to make money on a rangebound stock. Shares of Meta Platforms are presenting that opportunity right now.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/19/metas-legal-troubles-has-options-traders-eyeing-the-jade-lizard.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 135.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-19 20:52",
-   "title": "Marvell Gives Client Google Right to Buy $12.2 Billion Stock",
-   "summary": "Marvell Technology Inc. has agreed to give Alphabet Inc.’s Google rights to buy as much as $12.2 billion of its shares in exchange for purchasing chips.",
+   "time": "2026-08-19 14:56",
+   "title": "SK Hynix Moves to Calm Market With $29 Billion Share Buyback",
+   "summary": "SK Hynix Inc. unveiled plans to buy back 40 trillion won ($29 billion) of stock and return more profits to investors, moving to stabilize its shares after they fell more than 50% i…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-19/marvell-gives-google-right-to-buy-up-to-12-2-billion-in-shares",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-19/sk-hynix-announces-28-6-billion-share-buy-back-on-ai-boom",
      "t": "sec"
     }
    ],
-   "heat": 134.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-19 03:35",
-   "title": "China to Let Mainland Insurers Buy Hong Kong ETFs Through Stock Connect",
-   "summary": "China to Let Mainland Insurers Buy Hong Kong ETFs Through Stock Connect &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUGl5YzJONWZnVTRFX3Bva3hKWUNmNEd6ZFJxdldXZzFzeGNGdXFmOWE2ckUzU0JMa0dtTUE4UXQ0ekU1ODFxMFk4bXppc2J5emhNWm5rLTBWUUNWaTFoa25SM0tPZFozMU1qM2Q3MXBLUmZZcnN6MWJjbUdNQklaQk1kYzVrdUR3N3lWekRKSnQ1YU9OYUt5Z0Fpc2EtWUFzdjZSVmlLSEFjOFZucjZBdTdvUzl6NlBKYzA4OW92cm1FQlg3?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 131.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-15 15:04",
-   "title": "Investor Focus: Best S&P 500 ETFs, Rolls-Royce Stock Hits Record, Andy Burnham’s Plan for Your ISA - Morningstar",
-   "summary": "Investor Focus: Best S&P 500 ETFs, Rolls-Royce Stock Hits Record, Andy Burnham’s Plan for Your ISA &nbsp;&nbsp; Morningstar",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ1FleXhxMFZPOWVwVlZKd1djTjdhY2RLdzZMZjZmLTM2Um10NkdmczFmLWFaQUZmM1lGSXgtOTYyYXdaTldyYjN1OGlNU1B1RVhveDZYakQ2Y2g4cEJtLWxEZ3RyY2FmMTEzNG1fWWRrMURISzI5TklfVXJYbnluS0Nfc1hEOXZFUldxTDViWm0tRjR3anR2ZWh0SG1QOFJZcGVma2JnSTlaT0stMHpXMGk2WlFjRUpqZ3FyYWVlV1FxN2t1QUpyQW52bDFYbmc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 128.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-13 20:37",
-   "title": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli - Benzinga",
-   "summary": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTEU2R1lHOTJiYUNLYWN3Q19Nd29QcVBBUXVySElSXzFPWXE1WV9mVDBwV1lUd2VBVVQ2WTRvVEs3WlpsZElhdnBBSXhVWWlRSlJCRUhtd1hoNDRyM3hkRjlGeDljV1BSN1ZDaTJtVDMyc3FkdjQ0cEt3LVUydC0tMEtxbmFVZlNYcVpMWFM4Y1F3SFc0eTNvcDR0VXd5ZG1xdF91U0dOeWtINmk3WnNobzl4bWhrQWZHbVZETExNZmlfNm9IRWlfc3NGR0lyUUxYbkwyUkR1ZjFYRldBcXh2eWdiWVMzTU9zTF9GRTR0c3JlSTVkRkk3dkV3TE5Sbkx4bGc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 128.0
+   "heat": 116.6
   },
   {
    "cat": "stock",
@@ -475,35 +419,77 @@
      "t": "sec"
     }
    ],
-   "heat": 118.5
+   "heat": 109.7
   },
   {
    "cat": "stock",
-   "time": "2026-08-20 05:30",
-   "title": "Stock Movers: Moderna, SK Hynix, Estee Lauder (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-08-19 03:35",
+   "title": "China to Let Mainland Insurers Buy Hong Kong ETFs Through Stock Connect",
+   "summary": "China to Let Mainland Insurers Buy Hong Kong ETFs Through Stock Connect &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-19/stock-movers-moderna-sk-hynix-estee-lauder-podcast",
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUGl5YzJONWZnVTRFX3Bva3hKWUNmNEd6ZFJxdldXZzFzeGNGdXFmOWE2ckUzU0JMa0dtTUE4UXQ0ekU1ODFxMFk4bXppc2J5emhNWm5rLTBWUUNWaTFoa25SM0tPZFozMU1qM2Q3MXBLUmZZcnN6MWJjbUdNQklaQk1kYzVrdUR3N3lWekRKSnQ1YU9OYUt5Z0Fpc2EtWUFzdjZSVmlLSEFjOFZucjZBdTdvUzl6NlBKYzA4OW92cm1FQlg3?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 115.9
+   "heat": 106.7
   },
   {
    "cat": "stock",
-   "time": "2026-08-20 05:20",
-   "title": "Stock Movers: Moderna, Estee Lauder, TJ Maxx (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-08-20 10:55",
+   "title": "China’s AI Boom Is Making Star 50 the Stock Index That Matters",
+   "summary": "Investors looking to track China’s hottest companies are shifting their focus away from the country’s traditional stock indexes.",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-19/stock-movers-moderna-estee-lauder-tj-maxx-podcast",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-20/china-s-ai-boom-is-making-the-star-50-the-index-that-matters",
      "t": "sec"
     }
    ],
-   "heat": 115.9
+   "heat": 104.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-15 15:04",
+   "title": "Investor Focus: Best S&P 500 ETFs, Rolls-Royce Stock Hits Record, Andy Burnham’s Plan for Your ISA - Morningstar",
+   "summary": "Investor Focus: Best S&P 500 ETFs, Rolls-Royce Stock Hits Record, Andy Burnham’s Plan for Your ISA &nbsp;&nbsp; Morningstar",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ1FleXhxMFZPOWVwVlZKd1djTjdhY2RLdzZMZjZmLTM2Um10NkdmczFmLWFaQUZmM1lGSXgtOTYyYXdaTldyYjN1OGlNU1B1RVhveDZYakQ2Y2g4cEJtLWxEZ3RyY2FmMTEzNG1fWWRrMURISzI5TklfVXJYbnluS0Nfc1hEOXZFUldxTDViWm0tRjR3anR2ZWh0SG1QOFJZcGVma2JnSTlaT0stMHpXMGk2WlFjRUpqZ3FyYWVlV1FxN2t1QUpyQW52bDFYbmc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 104.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-13 20:37",
+   "title": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli - Benzinga",
+   "summary": "Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTEU2R1lHOTJiYUNLYWN3Q19Nd29QcVBBUXVySElSXzFPWXE1WV9mVDBwV1lUd2VBVVQ2WTRvVEs3WlpsZElhdnBBSXhVWWlRSlJCRUhtd1hoNDRyM3hkRjlGeDljV1BSN1ZDaTJtVDMyc3FkdjQ0cEt3LVUydC0tMEtxbmFVZlNYcVpMWFM4Y1F3SFc0eTNvcDR0VXd5ZG1xdF91U0dOeWtINmk3WnNobzl4bWhrQWZHbVZETExNZmlfNm9IRWlfc3NGR0lyUUxYbkwyUkR1ZjFYRldBcXh2eWdiWVMzTU9zTF9GRTR0c3JlSTVkRkk3dkV3TE5Sbkx4bGc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 104.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-20 10:47",
+   "title": "SK Hynix May Add Another $130 Billion to Returns, JPMorgan Says",
+   "summary": "SK Hynix Inc. may follow up its new mega stock buyback with additional shareholder returns woth at least $130 billion through next year, according to JPMorgan Chase &amp; Co.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-20/sk-hynix-may-add-another-130-billion-to-returns-jpmorgan-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 103.9
   },
   {
    "cat": "stock",
@@ -517,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 115.8
+   "heat": 102.9
   },
   {
    "cat": "stock",
@@ -531,13 +517,27 @@
      "t": "sec"
     }
    ],
-   "heat": 115.7
+   "heat": 102.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-20 02:46",
+   "title": "Artiva Biotherapeutics CMO sells $5,148 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/artiva-biotherapeutics-cmo-sells-5148-in-stock-93CH-4868637",
+     "t": "agg"
+    }
+   ],
+   "heat": 100.6
   },
   {
    "cat": "stock",
    "time": "2026-08-19 11:17",
    "title": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus - ",
-   "summary": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus &nbsp;&nbsp; TradingView",
+   "summary": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus &nbsp;&nbsp; tradingview.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -545,175 +545,217 @@
      "t": "sec"
     }
    ],
-   "heat": 112.9
+   "heat": 100.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-19 21:21",
-   "title": "TuHURA Biosciences stockholders approve share issuance, elect directors at annual meeting",
-   "summary": "",
+   "time": "2026-08-19 01:50",
+   "title": "Stock indices no longer reflect equity reality - The Economist",
+   "summary": "Stock indices no longer reflect equity reality &nbsp;&nbsp; The Economist",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/sec-filings/tuhura-biosciences-stockholders-approve-share-issuance-elect-directors-at-annual-meeting-93CH-4868315",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSXh5SmFEc2l3eHhBQnM3akNsNXFPZHptV1JJS1A4OTVtV2M2SGZzMDUyNVFuQ1JHZnJzU25DYy1yRFJWNTh2NlVQSWlxbWdHZFRsTkhHQTR3cXp6V29MSHdTMTNmNXp6am5CcVRoZ1VibWY0b1dKaGUtY1FCV25CMXdnVGJmRlJDSUVkOEhsbmV0Q19uSmU1NEVJZ0VNcVJ0amoza3hGWG4?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 112.6
+   "heat": 98.4
   },
   {
    "cat": "stock",
-   "time": "2026-08-19 21:20",
-   "title": "Russia stocks higher at close of trade; MOEX Russia Index up 1.23%",
-   "summary": "",
+   "time": "2026-08-18 20:40",
+   "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Rejects Extending Ceasefire With - Benzinga",
+   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Rejects Extending Ceasefire With &nbsp;&nbsp; Benzinga",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-123-4868314",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPcDFLajV1eHZfd1B2c19EWXdmdnV1WXptSElIYVZ0TFAzTVMzLTdlWWVOdERPX2x4NXFtS1Bscy1UNWxuZndhNlVyQXNOd0pLa2Z1OE1VNzhpbVEyRm1oVEJSQUNNM3E5LUdBZHV1MlIxLVVraXZTYzdwdWFUYW5vRVFEMl8tX3pWUmYxTUhRWUtSSnZNN2FnSFItbkJtMUI0WTVNWkF6RFdQSTFoS011bm9udXVSN2psQ21qX3ZMWjkxaTJpcXZjTDNFWDMxOVUxckxLdXF5aDh4TG5CbzlEckZuakIzSlpjYTkzQ3VzOC1QR2oyTUhHR3BPNkZCYVVHeWhXTWVwV1VlUUxWNldXb0k2dFVubVFObFR5djI5dFM?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 112.6
+   "heat": 97.6
   },
   {
    "cat": "stock",
-   "time": "2026-08-19 21:15",
-   "title": "Hershey Trust Co. trustee sells $5.5m in Hershey Co. stock",
-   "summary": "",
+   "time": "2026-08-18 04:35",
+   "title": "U.S. stocks edge further from their record after oil prices rise - BNN Bloomberg",
+   "summary": "U.S. stocks edge further from their record after oil prices rise &nbsp;&nbsp; BNN Bloomberg",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/hershey-trust-co-trustee-sells-55m-in-hershey-co-stock-93CH-4868309",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdUpmUWRGVVBqSzdER1dSNkNxeGdlSWhHcHpXNkxYOUhFakcwTWlBd29VWmk4akx2UTBOc0pJYjJkQ2hxdnhkbFA0dkhJRkJSdy1Ma3lDM1dscWlIMHVydko2OF9DTVY0bW00Q3F6XzlYdFFhMTgtQkNHVE9hTWljWWlJbFlfUDh5SDFnSHRWNjl0ZzcxdldZVS1NMXZ3cE5aQ2JUZGZvYTdOdzhkcUZzWFJlanVfeVBpdEExdThaX2NITlNVMUdUU3lncUVIRDZGaXdnNUp5TUR4dDNtVFpzOTFPNA?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 112.6
+   "heat": 96.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-19 21:14",
-   "title": "Morgan Stanley raises Moderna stock price target to $89 on platform strength",
-   "summary": "",
+   "time": "2026-08-18 01:36",
+   "title": "7 Best Materials Stocks for 2026 and How to Invest - The Motley Fool",
+   "summary": "7 Best Materials Stocks for 2026 and How to Invest &nbsp;&nbsp; The Motley Fool",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/morgan-stanley-raises-moderna-stock-price-target-to-89-on-platform-strength-93CH-4868306",
-     "t": "agg"
-    }
-   ],
-   "heat": 112.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-20 03:08",
-   "title": "Silver surges as Treasury buyback plan sinks the US Dollar",
-   "summary": "Silver (XAG/USD) trades sharply higher on Wednesday, changing hands near $65.80. The metal is riding a broad rally across precious metals with Gold (XAU/USD) soaring toward $4,500.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/silver-surges-as-treasury-buyback-plan-sinks-the-us-dollar-202608191908",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDYzNDY0xuSk9PeUxZY1RRNG51N2J1ZnB3WmVXa1JMalNBZEFvR19vVmpyNHh2ZlplM05yWmJ1ZDl6bVJCVG5vYjhRVFBzNm5WMEFoSjN0WXlUUkcyaWRUU2l5Z2NmcjJzRXBkRjdXYXlIc2pwY1FPNQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 47.5
+   "heat": 96.0
   },
   {
    "cat": "global",
-   "time": "2026-08-20 05:19",
-   "title": "The Dollar Index answers to the Treasury, not the Fed",
-   "summary": "The Dollar Index closed Wednesday 0.86% lower just beneath 98.80, its weakest close since mid-May, and it closed on the session low. The document that did the damage was not a cent…",
+   "time": "2026-08-20 07:21",
+   "title": "Australian Dollar gains as Treasury buyback offsets hawkish Fed",
+   "summary": "The Aussie Dollar advances on Wednesday, up over 0.56%, as the US Dollar registers losses amid the US Treasury bond buyback and despite the release of hawkish Federal Reserve minut…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/the-dollar-index-answers-to-the-treasury-not-the-fed-202608192119",
+     "u": "https://www.fxstreet.com/news/australian-dollar-gains-as-treasury-buyback-offsets-hawkish-fed-202608192321",
      "t": "sec"
     }
    ],
-   "heat": 35.9
+   "heat": 47.4
   },
   {
    "cat": "global",
-   "time": "2026-08-20 04:07",
-   "title": "Euro surges as traders ignore Fed’s hawkish minutes",
-   "summary": "The Euro (EUR) gains over 0.85% against the US Dollar (USD) during the North American session on Wednesday, even though the latest Federal Reserve (Fed) minutes had a hawkish tone,…",
+   "time": "2026-08-20 06:12",
+   "title": "Asian Bonds and Stocks Rise After Treasuries Rally: Markets Wrap",
+   "summary": "Asian bonds and stocks gained as US plans to buy back longer-dated Treasuries to curb borrowing costs buoyed sentiment. The dollar steadied after sliding to a three-month low.",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/euro-surges-as-traders-ignore-feds-hawkish-minutes-202608192007",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
      "t": "sec"
     }
    ],
-   "heat": 35.7
+   "heat": 47.2
   },
   {
    "cat": "global",
-   "time": "2026-08-20 03:38",
-   "title": "Forex Today: US Dollar sinks on Treasury buyback ahead of data-heavy Thursday",
-   "summary": "The US Dollar Index (DXY) sold off broadly on Wednesday, sinking below the 99.00s region and holding well under 100.00.",
+   "time": "2026-08-19 11:56",
+   "title": "Alphabet Sells Long Aussie Bond With Record Yield Near 7%",
+   "summary": "Alphabet Inc. paid just under 7% to borrow longer-dated funds in its debut Australian dollar bond offering, its highest-ever for a note, underscoring how broader demands for cash a…",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/forex-today-us-dollar-sinks-on-treasury-buyback-ahead-of-data-heavy-thursday-202608191938",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-19/alphabet-set-to-sell-long-aussie-bond-at-record-near-7-cost",
      "t": "sec"
     }
    ],
-   "heat": 35.6
+   "heat": 44.1
   },
   {
    "cat": "global",
-   "time": "2026-08-20 02:19",
-   "title": "AUD/USD Price Forecast: Positive momentum points to further upside",
-   "summary": "AUD/USD holds firm near a two-and-a-half-month high on Wednesday, supported by broad US Dollar (USD) weakness, while technical indicators point to further upside. At the time of wr…",
+   "time": "2026-08-20 07:26",
+   "title": "Gold climbs above $4,500 as US Dollar, yields fall",
+   "summary": "Gold price (XAU/USD) rises to around $4,520 during the early Asian session on Thursday. The precious metal surges to the highest since early June amid the weakening US Dollar (USD)…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/aud-usd-price-forecast-positive-momentum-points-to-further-upside-202608191819",
+     "u": "https://www.fxstreet.com/news/gold-climbs-above-4-500-as-us-dollar-yields-fall-202608192326",
      "t": "sec"
     }
    ],
-   "heat": 35.4
+   "heat": 43.4
   },
   {
    "cat": "global",
-   "time": "2026-08-20 01:49",
-   "title": "Mexican Peso rallies to two-year high on US Treasury buyback",
-   "summary": "The Mexican Peso (MXN) rallies to a two-year high of 16.94 on Wednesday as the US Dollar (USD) weakens amid falling US yields, which retreated after the US Treasury doubled the siz…",
+   "time": "2026-08-20 10:38",
+   "title": "New Zealand Dollar gathers strength to near 0.5950 after China holds loan rates steady in August",
+   "summary": "The NZD/USD pair gains momentum to near 0.5950 during the Asian trading hours on Thursday. The pair holds near a two-and-a-half-month high, bolstered by hawkish Reserve Bank of New…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/mexican-peso-rallies-to-two-year-high-on-us-treasury-buyback-202608191749",
+     "u": "https://www.fxstreet.com/news/new-zealand-dollar-gathers-strength-to-near-05950-after-china-holds-loan-rates-steady-in-august-202608200238",
      "t": "sec"
     }
    ],
-   "heat": 35.3
+   "heat": 39.9
   },
   {
    "cat": "global",
-   "time": "2026-08-20 01:06",
-   "title": "New Zealand Dollar jumps as falling US yields weigh on the USD",
-   "summary": "NZD/USD rises sharply on Wednesday and trades around 0.5930 at the time of writing, up 0.96% on the day. The New Zealand Dollar (NZD) benefits primarily from broad weakness in the …",
+   "time": "2026-08-20 09:55",
+   "title": "Australian Dollar declines following weak labor data",
+   "summary": "AUD/USD depreciates after registering over 0.5% gains in the previous day, trading around 0.7120 during the Asian hours on Thursday. The AUD/USD pair faces downward pressure as the…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/new-zealand-dollar-jumps-as-falling-us-yields-weigh-on-the-usd-202608191706",
+     "u": "https://www.fxstreet.com/news/australian-dollar-declines-following-weak-labor-data-202608200155",
      "t": "sec"
     }
    ],
-   "heat": 35.2
+   "heat": 39.8
   },
   {
    "cat": "global",
-   "time": "2026-08-20 01:36",
-   "title": "WTI Oil climbs as US-Iran standoff keeps Middle East supply risks elevated",
-   "summary": "West Texas Intermediate (WTI) Oil holds firm on Wednesday, hovering near its highest level in more than three weeks as traders balance Middle East supply risks against rising US cr…",
+   "time": "2026-08-20 09:52",
+   "title": "Australian Dollar reacts little to dismal jobs data; holds above weekly low vs weaker JPY",
+   "summary": "The AUD/JPY cross attracts some sellers following the release of a dismal Australian jobs report, though it lacks follow-through and holds above the weekly low touched the previous…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/wti-oil-climbs-as-us-iran-standoff-keeps-middle-east-supply-risks-elevated-202608191736",
+     "u": "https://www.fxstreet.com/news/australian-dollar-reacts-little-to-dismal-jobs-data-holds-above-weekly-low-vs-weaker-jpy-202608200152",
      "t": "sec"
     }
    ],
-   "heat": 27.3
+   "heat": 39.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-20 09:03",
+   "title": "Euro edges lower below 1.1700 despite fading Fed hike odds",
+   "summary": "The EUR/USD pair posts modest losses around 1.1675 during the early Asian session on Thursday. The Euro (EUR) edges lower against the US Dollar (USD) after experiencing a sharp sur…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/euro-edges-lower-below-11700-despite-fading-fed-hike-odds-202608200103",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-20 10:55",
+   "title": "Japan Medium-Term Bonds See Largest Foreign Outflow Since 2006",
+   "summary": "Global funds sold the largest amount of short and intermediate Japanese government bonds in two decades last month as persistent yen weakness fueled speculation of monetary policy …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-20/japan-medium-term-bonds-see-largest-foreign-outflow-since-2006",
+     "t": "sec"
+    }
+   ],
+   "heat": 32.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-20 10:50",
+   "title": "Chinese Refiners Snap Up Iraqi Oil as More Supplies Exit Hormuz",
+   "summary": "Chinese refiners have snapped up Iraqi crude as more barrels exit the Persian Gulf, underscoring the resilience of oil exports from the region despite persistent threats to shippin…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-20/chinese-refiners-snap-up-iraqi-oil-as-more-supplies-exit-hormuz",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-20 09:17",
+   "title": "WTI surges above $84.50 as Strait of Hormuz standoff escalate",
+   "summary": "West Texas Intermediate (WTI) oil price appreciates after registering modest losses in the previous day, trading around $85.50 per barrel during the Asian hours on Thursday.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/wti-surges-above-8450-as-strait-of-hormuz-standoff-escalate-202608200117",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.7
   },
   {
    "cat": "global",
@@ -727,7 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 25.5
+   "heat": 28.6
   },
   {
    "cat": "global",
@@ -741,7 +783,21 @@
      "t": "agg"
     }
    ],
-   "heat": 24.5
+   "heat": 27.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-20 07:54",
+   "title": "US Treasury Department to buy back more longer-term bonds",
+   "summary": "The US Treasury Department said on Wednesday that it will buy back more of its longer-term bonds, in an effort to curb a sharp increase in borrowing costs, the Wall Street Journal …",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/us-treasury-department-to-buy-back-more-longer-term-bonds-202608192354",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.4
   },
   {
    "cat": "global",
@@ -755,63 +811,7 @@
      "t": "agg"
     }
    ],
-   "heat": 24.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-20 00:55",
-   "title": "Gold rallies as buyback sinks yields despite Fed hawkish minutes",
-   "summary": "Gold (XAU/USD) rallies during Wednesday’s session after the US Federal Reserve (Fed) released the minutes of its July meeting, in which the US central bank held rates unchanged but…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/gold-soars-toward-4-500-as-treasury-buyback-sinks-us-yields-202608191655",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-19 18:19",
-   "title": "Gold Has More to Offer",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-has-more-to-offer-200686108",
-     "t": "agg"
-    }
-   ],
-   "heat": 20.1
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-19 18:05",
-   "title": "Short-Term Sell Signals for Gold and Silver",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/shortterm-sell-signals-for-gold-and-silver-200686097",
-     "t": "agg"
-    }
-   ],
-   "heat": 20.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-13 15:00",
-   "title": "Market Movers blog: Oil prices in limbo as US and Iran demand compensation in peace deal - Investment Week",
-   "summary": "Market Movers blog: Oil prices in limbo as US and Iran demand compensation in peace deal &nbsp;&nbsp; Investment Week",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.0
+   "heat": 27.4
   },
   {
    "cat": "crypto",
@@ -825,7 +825,21 @@
      "t": "sec"
     }
    ],
-   "heat": 79.7
+   "heat": 82.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-20 06:26",
+   "title": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
+   "summary": "The largest crypto asset rose more than 7% on Wednesday after several catalysts sent crypto-related assets higher.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
+     "t": "sec"
+    }
+   ],
+   "heat": 79.2
   },
   {
    "cat": "crypto",
@@ -839,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.1
+   "heat": 78.2
   },
   {
    "cat": "crypto",
@@ -853,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.8
+   "heat": 66.0
   },
   {
    "cat": "crypto",
@@ -867,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.7
+   "heat": 62.8
   },
   {
    "cat": "crypto",
@@ -881,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.6
+   "heat": 62.8
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.5
+   "heat": 62.6
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.4
+   "heat": 62.5
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.3
+   "heat": 62.4
   },
   {
    "cat": "crypto",
@@ -937,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.0
+   "heat": 62.1
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.8
+   "heat": 62.0
   },
   {
    "cat": "crypto",
@@ -965,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.5
+   "heat": 61.6
   },
   {
    "cat": "crypto",
@@ -979,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 56.0
   },
   {
    "cat": "crypto",
@@ -993,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 56.0
   },
   {
    "cat": "crypto",
@@ -1007,21 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.8
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-20 00:00",
-   "title": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
-   "summary": "Bitcoin’s rebound toward $69,000 is gaining momentum as Geoff Kendrick points to improving liquidity conditions and a potential cycle bottom.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-price-100k-standard-chartered-treasury-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 31.0
+   "heat": 42.9
   },
   {
    "cat": "sector",
@@ -1035,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.2
+   "heat": 213.3
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.4
+   "heat": 214.5
   }
  ]
 }
