@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 11:07",
+ "updated": "2026-08-22 15:45",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.8
+   "heat": 70.0
   },
   {
    "cat": "macro",
@@ -27,7 +27,21 @@
      "t": "sec"
     }
    ],
-   "heat": 50.5
+   "heat": 57.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 13:00",
+   "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
+   "summary": "Investors see different risks threatening markets, but broadly agree that traders should diversify beyond recent winners.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 55.5
   },
   {
    "cat": "macro",
@@ -41,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.0
+   "heat": 54.3
   },
   {
    "cat": "macro",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.9
+   "heat": 54.1
   },
   {
    "cat": "macro",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.7
+   "heat": 53.9
   },
   {
    "cat": "macro",
@@ -83,7 +97,21 @@
      "t": "sec"
     }
    ],
-   "heat": 46.7
+   "heat": 53.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 06:15",
+   "title": "China’s robot games evolve from science fair to strategic showcase",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/chinas-robot-games-evolve-from-science-fair-to-strategic-showcase-4872305",
+     "t": "agg"
+    }
+   ],
+   "heat": 52.4
   },
   {
    "cat": "macro",
@@ -97,21 +125,7 @@
      "t": "agg"
     }
    ],
-   "heat": 44.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 06:53",
-   "title": "Dow surges 500 points Friday, but index posts back-to-back weekly losses",
-   "summary": "Stocks rose on Friday as investors tried to find their footing following a steep sell-off driven by rising Treasury yields.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.3
+   "heat": 51.9
   },
   {
    "cat": "macro",
@@ -125,21 +139,7 @@
      "t": "agg"
     }
    ],
-   "heat": 43.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 00:26",
-   "title": "Yields had a big week. Why these moves may be reminiscent of 1987",
-   "summary": "The 30-year Treasury bond yield topped 5.3% this week, hitting levels not seen since 2007.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/21/yields-had-a-big-week-why-these-moves-may-be-reminiscent-of-1987.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 42.2
+   "heat": 50.5
   },
   {
    "cat": "macro",
@@ -153,7 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 48.0
   },
   {
    "cat": "macro",
@@ -167,49 +167,77 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 48.0
   },
   {
    "cat": "macro",
-   "time": "2026-08-20 06:08",
-   "title": "S&P 500: Wall Street Rebounds as Treasury Debt Buyback Plan Eases Yield Pressure - BBN Times",
-   "summary": "S&P 500: Wall Street Rebounds as Treasury Debt Buyback Plan Eases Yield Pressure &nbsp;&nbsp; BBN Times",
+   "time": "2026-08-22 14:20",
+   "title": "U.S., Canada fail to reach a tariff deal, deepen trade war",
+   "summary": "The United States and Canada failed to reach a trade deal late on Friday, and the U.S. said it would impose 50% tariffs on some imports from Canada.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/21/us-canada-fail-to-reach-a-tariff-deal-deepen-trade-war.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 12:16",
+   "title": "US Tariffs on Canada Go into Effect,Roberts Allows Ballroom Work",
+   "summary": "Source: Bloomberg, 5:09",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-22/us-tariffs-on-canada-go-into-effect-roberts-allows-ballroom-work",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 10:47",
+   "title": "Roberts Allows WH Ballroom Work to Continue,Tariff Deadline,More",
+   "summary": "Source: Bloomberg, 5:22",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-22/roberts-allows-wh-ballroom-work-to-continue-tariff-deadline-more-mt3s2wqx",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-22 15:05",
+   "title": "UBS Global Wealth Management Boosts S&P 500 Year-End Target to 8,100 on Stronger Profit Outlook - The Daily Hodl",
+   "summary": "UBS Global Wealth Management Boosts S&P 500 Year-End Target to 8,100 on Stronger Profit Outlook &nbsp;&nbsp; The Daily Hodl",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamtjbWkxZ3FtZUtvNDhfVDdrT3BtYzFuRjBhUlctY2poSlFyQ2w0dHRzMkc5Ykd6eHdLYWwzNUNlb1lpSE1EY0FhSGlDSDhBdGZueU1BaEtGc2RFeUU0a0YwQVlJdFdsWi1mOHFiMGI0YVlzbF9KRjQzcmt3ZGVJUVc0cXFIRF81OC0zSzhGRGNxMko0c3E5Y3BqdHE2MGVaWlR1aUVrV1pJVC1TTkRfLWllTVhSclpLelU0?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR2d4blh3SWhvTlF6c3ZMZHpaRm1wTTgyeVJPZk5oZ1A2R1dpOUMzQU1mWko2dTd3UlBYcjRGNGhNSHpwS3ZYdWEyTGI3eGJDVmNTemRBcTRScGR2elNqRkZZY1JLMkV1VXE2TFVGZ1g1YzlOQ3AwZmhSVnVkSFhweG9Gb3FZcnRQNzUycFV4cUdwRElNekt3VXdKQ1ZxcFJqMC1iYWZFOUdzLVlKNTAzUHVSUndBbEszSEwzRzV4dlpOTzgwN2fSAcsBQVVfeXFMTWQ4eGFraUN0UnJyN29nVWZ4NVhsaExrcUw0bXBTZmdqbkhJWGVGdTdQZndyZ1pGYl9kSFoxQmd4ZGZDNG5IZFg1LUxISXVzZEtmZlU3bURGS0VjdUJaVGJQbGticmlhMHU0b0FtMXZqR2pDSjl6eHFUZkVmaWNNNnJqNVF4Q1BvWi1xLTlleUdnSVEteWlwdXE2YjQxLWpNdnVMcmU1bWtzYnlnMkxZX0ZLMXVXT3BZa2JNQ1dBanJnNjJSdHpLcG9ad2M?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 219.9
   },
   {
-   "cat": "macro",
-   "time": "2026-08-19 06:07",
-   "title": "S&P 500: Wall Street Closes Down 0.69% Closing at 7,691.76 as Treasury Yields Hit Multi-Decade Highs Amid US-Iran Tensio",
-   "summary": "S&P 500: Wall Street Closes Down 0.69% Closing at 7,691.76 as Treasury Yields Hit Multi-Decade Highs Amid US-Iran Tensions &nbsp;&nbsp; BBN Times",
+   "cat": "sector",
+   "time": "2026-08-22 11:34",
+   "title": "US & Canada Race Against Clock,Roberts Allows Ballroom Work,More",
+   "summary": "Source: Bloomberg, 5:05",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNS0xma0xwdGdOWjFtVDJNUDJzYXZQSXEwYWtaUjlObDRfSFlCTFdhcGRGeU4wMTk4VU5venFuUUFYbkRqb05VTlBCOTlvdG1qc1Vfb0ZNdGQ0eS1RQWZ4SnB4TzE2QktGZkV0cy1DYldUT0NPM05fQ2QySGZfUHZ4OFFrcEhaaFVVa01fZjhjNDBjSDRyMEtGQmxjV1R0Z0FYeVhGekgzMUlnTTVuVWJTclF2SFB2Z2xTbFgxTTEwVnJwS1VJUlFDdVllRHVCdU5CWVdJaEFEOHd6czVadnhCUkpabUpMamJIQzlPbzh4elc2Zw?oc=5",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-22/us-canada-race-against-clock-roberts-allows-ballroom-work-more",
      "t": "sec"
     }
    ],
-   "heat": 36.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 03:50",
-   "title": "Treasury Whiplash, US Debt Hits $40T | Bloomberg Money 8/21/2026",
-   "summary": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: Rebecca Patterson, Council on Foreign Relations Senior Fell…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-21/bloomberg-money-8-21-2026-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 34.8
+   "heat": 219.3
   },
   {
    "cat": "sector",
@@ -223,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.5
+   "heat": 218.7
   },
   {
    "cat": "sector",
@@ -237,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.3
+   "heat": 218.6
   },
   {
    "cat": "sector",
@@ -251,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.1
+   "heat": 218.4
   },
   {
    "cat": "sector",
@@ -265,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.0
+   "heat": 218.3
   },
   {
    "cat": "sector",
@@ -279,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.0
+   "heat": 218.2
   },
   {
    "cat": "sector",
@@ -293,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.0
+   "heat": 218.2
   },
   {
    "cat": "sector",
@@ -307,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.9
+   "heat": 218.1
   },
   {
    "cat": "sector",
@@ -321,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.8
+   "heat": 218.0
   },
   {
    "cat": "sector",
@@ -335,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.6
+   "heat": 217.9
   },
   {
    "cat": "sector",
@@ -349,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.5
+   "heat": 217.7
   },
   {
    "cat": "sector",
@@ -363,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.1
+   "heat": 217.4
   },
   {
    "cat": "sector",
@@ -377,49 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-21 18:13",
-   "title": "China’s Sovereign Fund Names Former Shanghai Official Wu Wei as President",
-   "summary": "China’s Sovereign Fund Names Former Shanghai Official Wu Wei as President &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbDZZVmY3VFlXcU1RM2pXRTk5WTFYNlhiaHVSM2duV3FfbWdJRFJBVXpCWmJDWnNQSEdGeVVzOUNFY2FhNlhuRkJtRV92d3pWZlBRMk5zeGV4ZHE5Y202QjE2eng2M3J0RmV2ZmU4Wk93bFpDYTFaekEzTHpiVjJhVC1iU0l4MjRiUVQ0cXRSN0VZMWw1WUd6UGlUUGN2WUxheU5DWVpFWTdsa1A3bzZ0aWozRlF4cy1YT2NicmpER3A4N3hEc3c?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 205.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-21 17:39",
-   "title": "UBS Bullish on S&P 500: Year-End Target Raised to 8,100 - Devdiscourse",
-   "summary": "UBS Bullish on S&P 500: Year-End Target Raised to 8,100 &nbsp;&nbsp; Devdiscourse",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTFBvM0p3ZjRsakk1Yi1kZFZ4bDZ3Y05xcW1kcXhqZmxQMG9aam9YT0ZCQlZTWmRuRkpESmlyMkExdGQ2dmN0eTJiUHNqMUoxMG8weGNZWFJFTGhvS0JoSXBILW43cWpRQ3ZIeDN2RENjcDFWUWdXcUowemFfS0JSdGJpb09QMVRkemVtR19Ic0NwTHpPbGtfNkZleFlfUS1ONEFWbXpzVEc4QS13dF800gGvAUFVX3lxTE5MUG8zSndmNGxqSTViLWRkVnhsNndjTnFxbWRxeGpmbFAwb1pqb1hPRkJCVlNaZG5GSkRKaXIyQTF0ZDZ2Y3R5MmJQc2oxSjEwbzB4Y1lYUkVMaG9LQmhJcEgtbjdxalFDdkh4M3ZEQ2NwMVZRZ1dxSjB6YV9LQlJ0YmlvT1AxVGR6ZW1HX0hzQ3BMek9sa182RmV4WV9RLU40QVZtenNURzhBLXd0XzQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 205.1
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-22 06:03",
-   "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-   "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 123.2
+   "heat": 217.2
   },
   {
    "cat": "stock",
@@ -433,21 +419,21 @@
      "t": "sec"
     }
    ],
-   "heat": 120.0
+   "heat": 80.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-15 15:04",
-   "title": "Investor Focus: Best S&P 500 ETFs, Rolls-Royce Stock Hits Record, Andy Burnham’s Plan for Your ISA - Morningstar",
-   "summary": "Investor Focus: Best S&P 500 ETFs, Rolls-Royce Stock Hits Record, Andy Burnham’s Plan for Your ISA &nbsp;&nbsp; Morningstar",
+   "time": "2026-08-22 06:03",
+   "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+   "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ1FleXhxMFZPOWVwVlZKd1djTjdhY2RLdzZMZjZmLTM2Um10NkdmczFmLWFaQUZmM1lGSXgtOTYyYXdaTldyYjN1OGlNU1B1RVhveDZYakQ2Y2g4cEJtLWxEZ3RyY2FmMTEzNG1fWWRrMURISzI5TklfVXJYbnluS0Nfc1hEOXZFUldxTDViWm0tRjR3anR2ZWh0SG1QOFJZcGVma2JnSTlaT0stMHpXMGk2WlFjRUpqZ3FyYWVlV1FxN2t1QUpyQW52bDFYbmc?oc=5",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
      "t": "sec"
     }
    ],
-   "heat": 120.0
+   "heat": 78.4
   },
   {
    "cat": "stock",
@@ -461,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.1
+   "heat": 66.4
   },
   {
    "cat": "stock",
@@ -475,35 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 103.1
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-22 05:42",
-   "title": "Stock Movers: Super Micro, Crowdstrike, Estée Lauder (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-21/stock-movers-super-micro-crowdstrike-estee-lauder-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 103.1
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-22 05:33",
-   "title": "Stock Movers: Moderna, Boston Beer, Ubiquiti (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-21/stock-movers-moderna-boston-beer-ubiquiti-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 103.1
+   "heat": 58.4
   },
   {
    "cat": "stock",
@@ -517,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 103.0
+   "heat": 58.2
   },
   {
    "cat": "stock",
@@ -531,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 102.2
+   "heat": 57.5
   },
   {
    "cat": "stock",
@@ -545,77 +503,119 @@
      "t": "sec"
     }
    ],
-   "heat": 101.6
+   "heat": 56.8
   },
   {
    "cat": "stock",
-   "time": "2026-08-22 02:31",
-   "title": "CoreWeave CSO Brian Venturo sells $542k class A stock",
-   "summary": "",
+   "time": "2026-08-20 17:24",
+   "title": "Stock Market Today: Dow Jones, S&P 500 Futures Fall as Trump Launches 'Operation Economic Fury' on Iran - Benzinga",
+   "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Fall as Trump Launches 'Operation Economic Fury' on Iran &nbsp;&nbsp; Benzinga",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/coreweave-cso-brian-venturo-sells-542k-class-a-stock-93CH-4872282",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbUp3Wl92NktDVHhjWllEYmdwMUhaMzBTTHJCZVBXamZISld3aDJrZGFzR19yUGZHUlEzSUJvX1Y4TU1WYlVOWXRneGt4amJWTnU5RHF6bUU3UDdYQUtuSElkeG9BZG00X1MtQ093TkMxSjdoQXlyb2lzaG1ra3pCbkZUYkhzbUlZLWVrUlpPRS1VdEk1VHhDNjBxS2FfaGdrWXpPOUJseDVHblp4dmJrY3V2SGJ2c0dPR0RwYV9jaXIzVmtQN0NzVnRXOWZJejdaRWJBci1rVE45ZldKSi11RG1IcnRubmVtbnoxMVJRZmlzYmQzTEc5cmllNFM5emZOaGtCUGxhSDN3Y3hMMHE0Mg?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 100.6
+   "heat": 52.3
   },
   {
    "cat": "stock",
-   "time": "2026-08-22 02:31",
-   "title": "Lumentum president Wupen Yuen sells $1.69 million LITE stock",
-   "summary": "",
+   "time": "2026-08-19 11:17",
+   "title": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus - ",
+   "summary": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus &nbsp;&nbsp; TradingView",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/lumentum-president-wupen-yuen-sells-169-million-lite-stock-93CH-4872280",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNN190SF9waVpETWluSXVXa3lGVnB0Q0xqblFuZDV5a1RDblRqZEZKMU1HMFIxZXlueUhHalNvb2VndjNMLVBRVzhGNTduYWxzX2Qza2FldTV3X2lTMHN1LXlPZjgyY00yYWhiOUNuUFV1c0piYlFWT2xmLTlIVUZTWTY3VWRHaW5rUVY1VGxybE44WkdtZlE0QXVfdzI1S0xiTndITlVKVlFNNUJQay1xVFZnLXdNeVhXRHhCUGNmOHN6b05mZzVYZmtOUWxRM3ktekFZTDFyQVUwNExzaXliLXEwaG9WZDFYRl9hc3pRRDBBRGMwd19lb0JMR2sxbDVp?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 100.6
+   "heat": 52.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-22 02:20",
-   "title": "CoreWeave GC and secretary Kristen McVeety sells $365,682 in stock",
-   "summary": "",
+   "time": "2026-08-19 01:50",
+   "title": "Stock indices no longer reflect equity reality - The Economist",
+   "summary": "Stock indices no longer reflect equity reality &nbsp;&nbsp; The Economist",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/coreweave-gc-and-secretary-kristen-mcveety-sells-365682-in-stock-93CH-4872278",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSXh5SmFEc2l3eHhBQnM3akNsNXFPZHptV1JJS1A4OTVtV2M2SGZzMDUyNVFuQ1JHZnJzU25DYy1yRFJWNTh2NlVQSWlxbWdHZFRsTkhHQTR3cXp6V29MSHdTMTNmNXp6am5CcVRoZ1VibWY0b1dKaGUtY1FCV25CMXdnVGJmRlJDSUVkOEhsbmV0Q19uSmU1NEVJZ0VNcVJ0amoza3hGWG4?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 100.5
+   "heat": 52.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-22 02:20",
-   "title": "CoreWeave CDO Brannin McBee sells $331,686 in stock",
-   "summary": "",
+   "time": "2026-08-18 20:40",
+   "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Rejects Extending Ceasefire With - Benzinga",
+   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Rejects Extending Ceasefire With &nbsp;&nbsp; Benzinga",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/coreweave-cdo-brannin-mcbee-sells-331686-in-stock-93CH-4872277",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPcDFLajV1eHZfd1B2c19EWXdmdnV1WXptSElIYVZ0TFAzTVMzLTdlWWVOdERPX2x4NXFtS1Bscy1UNWxuZndhNlVyQXNOd0pLa2Z1OE1VNzhpbVEyRm1oVEJSQUNNM3E5LUdBZHV1MlIxLVVraXZTYzdwdWFUYW5vRVFEMl8tX3pWUmYxTUhRWUtSSnZNN2FnSFItbkJtMUI0WTVNWkF6RFdQSTFoS011bm9udXVSN2psQ21qX3ZMWjkxaTJpcXZjTDNFWDMxOVUxckxLdXF5aDh4TG5CbzlEckZuakIzSlpjYTkzQ3VzOC1QR2oyTUhHR3BPNkZCYVVHeWhXTWVwV1VlUUxWNldXb0k2dFVubVFObFR5djI5dFM?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 100.5
+   "heat": 52.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-22 02:19",
-   "title": "Intuitive surgical EVP Mark Brosius sells $59,439 in stock",
+   "time": "2026-08-18 01:36",
+   "title": "7 Best Materials Stocks for 2026 and How to Invest - The Motley Fool",
+   "summary": "7 Best Materials Stocks for 2026 and How to Invest &nbsp;&nbsp; The Motley Fool",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDYzNDY0xuSk9PeUxZY1RRNG51N2J1ZnB3WmVXa1JMalNBZEFvR19vVmpyNHh2ZlplM05yWmJ1ZDl6bVJCVG5vYjhRVFBzNm5WMEFoSjN0WXlUUkcyaWRUU2l5Z2NmcjJzRXBkRjdXYXlIc2pwY1FPNQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 52.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-16 22:46",
+   "title": "5 Best Infrastructure Stocks for 2026 and How to Invest - The Motley Fool",
+   "summary": "5 Best Infrastructure Stocks for 2026 and How to Invest &nbsp;&nbsp; The Motley Fool",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS2xyZmtMTl9Ed19xZG9tQ2FHOVNveW1sM1BwQUFsN1R0X19rX3B2TDhlbzdUcl9BS1lEMFI1Vk50WDJRUzRjdVpDWUNaLVR5RlQwZEtVVFNqWEJhbjM1dW85V1NYeDMzMmJnWGY0VFVWNkF3dDF4NDFmN2hOdUREZnQ2VXFJcHpOTHBFbllRc29qc0d4Wmdxamo4SzJnZlhENzlDbGJaY00zV1oxNEdmWVFqRQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 52.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-22 02:50",
+   "title": "Is Gold Back? Fiscal Risks and ETF Demand Fuel the Rebound",
    "summary": "",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/intuitive-surgical-evp-mark-brosius-sells-59439-in-stock-93CH-4872276",
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/is-gold-back-fiscal-risks-and-etf-demand-fuel-the-rebound-200686311",
      "t": "agg"
     }
    ],
-   "heat": 100.5
+   "heat": 35.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-20 19:52",
+   "title": "19:52:18【银行板块午后拉升，银行ETF易方达（516310）标的指数翻红涨0.4%】",
+   "summary": "19:52:18【银行板块午后拉升，银行ETF易方达（516310）标的指数翻红涨0.4%】 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwbmEzQ213aXZ3Q0VSUkpYOUUtcU8yaVlMTXZkYzdTNVdtWWxMVXZpZVE1ODd3RjVYdnIyWEwwVTBDelJDcV9vdA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 32.7
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.4
+   "heat": 42.6
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.2
+   "heat": 42.4
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.9
+   "heat": 42.1
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.7
+   "heat": 42.0
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.6
+   "heat": 41.9
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.5
+   "heat": 41.7
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "agg"
     }
    ],
-   "heat": 39.4
+   "heat": 38.6
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 38.9
+   "heat": 38.1
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 38.7
+   "heat": 38.0
   },
   {
    "cat": "global",
@@ -755,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.0
+   "heat": 26.2
   },
   {
    "cat": "global",
@@ -769,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 26.5
+   "heat": 25.7
   },
   {
    "cat": "global",
@@ -783,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 24.2
+   "heat": 23.4
   },
   {
    "cat": "global",
@@ -797,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 23.4
+   "heat": 22.7
   },
   {
    "cat": "global",
@@ -811,21 +811,21 @@
      "t": "agg"
     }
    ],
-   "heat": 23.2
+   "heat": 22.4
   },
   {
    "cat": "global",
-   "time": "2026-08-21 22:23",
-   "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
-   "summary": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近 &nbsp;&nbsp; 财联社",
+   "time": "2026-08-22 06:38",
+   "title": "US Treasury yields extend rebound as Services PMI beats estimates",
+   "summary": "US Treasury yields continue their recovery following the announcement of a bond buyback by the US Department of the Treasury, while data reveal that business activity remains solid…",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4UjR6SG1nNWV4MGxtZVduNDduRlBtanRXRFVHby13dFJDeHR2Q2NaM1FPa1NOemRkbFJUajd6OEhTZXhwTDFWRg?oc=5",
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/us-treasury-yields-extend-rebound-as-services-pmi-beats-estimates-202608212238",
      "t": "sec"
     }
    ],
-   "heat": 17.9
+   "heat": 14.5
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 102.9
+   "heat": 106.2
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.7
+   "heat": 97.9
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.4
+   "heat": 97.7
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.2
+   "heat": 97.4
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.1
+   "heat": 97.3
   },
   {
    "cat": "crypto",
@@ -909,21 +909,35 @@
      "t": "sec"
     }
    ],
-   "heat": 77.4
+   "heat": 80.6
   },
   {
    "cat": "crypto",
-   "time": "2026-08-21 14:43",
-   "title": "Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight",
-   "summary": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
+   "time": "2026-08-22 13:37",
+   "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
+   "summary": "ZEC traded above its January 2018 peak as futures volume hit billions of dollars and a Grayscale filing showed fresh progress toward converting its Zcash Trust into a spot ETF.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
+     "u": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
      "t": "sec"
     }
    ],
-   "heat": 76.6
+   "heat": 75.6
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-22 13:05",
+   "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
+   "summary": "Treasury buybacks are not QE, analysts said, but the move helped pull long-term yields off 19-year highs and triggered a record short squeeze in a market already leaning too bearis…",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.6
   },
   {
    "cat": "crypto",
@@ -937,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.9
+   "heat": 74.1
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.8
+   "heat": 74.1
   },
   {
    "cat": "crypto",
@@ -965,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.8
+   "heat": 74.0
   },
   {
    "cat": "crypto",
@@ -979,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 69.5
+   "heat": 72.7
   },
   {
    "cat": "crypto",
@@ -993,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 69.5
+   "heat": 72.7
   },
   {
    "cat": "crypto",
@@ -1007,35 +1021,21 @@
      "t": "sec"
     }
    ],
-   "heat": 69.4
+   "heat": 72.6
   },
   {
    "cat": "crypto",
-   "time": "2026-08-21 18:15",
-   "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-   "summary": "BTC has gained 24% since Monday and reached the level implied by its inverse head-and-shoulders break, with shorts still taking a contrarian position.",
+   "time": "2026-08-22 07:02",
+   "title": "Bitcoin RSI hits 87 with MFI maxed at 100: Hourly levels",
+   "summary": "",
    "srcs": [
     {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
+     "t": "agg"
     }
    ],
-   "heat": 69.2
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-21 17:17",
-   "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
-   "summary": "The rally in hard assets isn’t necessarily about what the Treasury is doing, but what its move signals to the market.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
-     "t": "sec"
-    }
-   ],
-   "heat": 69.0
+   "heat": 72.5
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.2
+   "heat": 214.4
   }
  ]
 }
