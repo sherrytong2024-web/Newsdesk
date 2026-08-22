@@ -1,6 +1,48 @@
 {
- "updated": "2026-08-22 05:52",
+ "updated": "2026-08-22 11:07",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-22 08:05",
+   "title": "Pentagon fires U.S. military newspaper leadership",
+   "summary": "The editor-in-chief of the Stars and Stripes U.S. military newspaper said on Friday that he was being fired for insubordination.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/21/pentagon-fires-us-military-newspaper-leadership.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-22 07:12",
+   "title": "Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis",
+   "summary": "This week, Former IBM CEO Sam Palmisano discusses why companies may benefit from having a “Plan B” for AI implementation. And, AI may not be causing mass layoffs yet, but early dat…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-week-ai-hits-wages-colorado-river-crisis-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-22 05:57",
+   "title": "Lula Holds Lead Over Bolsonaro Six Weeks From Brazilian Election",
+   "summary": "President Luiz Inácio Lula da Silva maintained his lead over right-wing challenger Flávio Bolsonaro ahead of Brazil’s October election, a new poll found.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-21/lula-holds-lead-over-bolsonaro-six-weeks-from-brazilian-election",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.1
+  },
   {
    "cat": "sector",
    "time": "2026-08-22 05:21",
@@ -13,21 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 02:55",
-   "title": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom",
-   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.5
+   "heat": 207.0
   },
   {
    "cat": "sector",
@@ -41,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.9
+   "heat": 207.0
   },
   {
    "cat": "sector",
@@ -55,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.9
+   "heat": 207.0
   },
   {
    "cat": "sector",
@@ -69,21 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 03:59",
-   "title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware",
-   "summary": "Anthropic PBC has hired Amir Salek, a founder of the custom chip program at Alphabet Inc.’s Google, as the AI lab lays the groundwork for a push into making its own semiconductors.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.7
+   "heat": 206.9
   },
   {
    "cat": "sector",
@@ -97,7 +111,21 @@
      "t": "sec"
     }
    ],
-   "heat": 199.7
+   "heat": 206.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-22 02:55",
+   "title": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom",
+   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 206.6
   },
   {
    "cat": "sector",
@@ -111,35 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-21 23:59",
-   "title": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
-   "summary": "Broadcom is in talks to raise upwards of $70 to $80 billion in debt for a chip financing deal, CNBC's David Faber reported on Friday.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-21 23:10",
-   "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
-   "summary": "Matt Zames is taking an unpaid position to help his former JPMorgan colleague Frank Bisignano tackle modernization of the SSA, CNBC has learned.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 198.9
+   "heat": 206.5
   }
  ]
 }
