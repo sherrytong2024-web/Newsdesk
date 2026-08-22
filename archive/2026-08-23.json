@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23 03:02",
+ "updated": "2026-08-23 05:44",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 82.6
+   "heat": 70.1
   },
   {
    "cat": "macro",
@@ -27,35 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 72.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 01:51",
-   "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
-   "summary": "The so-called breakeven rate hit its highest levels in more than two months.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 20:00",
-   "title": "These stocks are most overbought even as the S&P 500 posts a losing week",
-   "summary": "Several stocks remain technically overbought even as the S&P 500 pulled back on the week amid rising Treasury yields and inflation concerns.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/22/these-stocks-are-most-overbought-even-as-the-sp-500-posts-a-losing-week.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 62.8
+   "heat": 67.7
   },
   {
    "cat": "macro",
@@ -69,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.3
+   "heat": 50.9
   },
   {
    "cat": "macro",
@@ -83,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.2
+   "heat": 50.7
   },
   {
    "cat": "macro",
@@ -97,7 +69,21 @@
      "t": "sec"
     }
    ],
-   "heat": 55.1
+   "heat": 50.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 20:00",
+   "title": "These stocks are most overbought even as the S&P 500 posts a losing week",
+   "summary": "Several stocks remain technically overbought even as the S&P 500 pulled back on the week amid rising Treasury yields and inflation concerns.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/22/these-stocks-are-most-overbought-even-as-the-sp-500-posts-a-losing-week.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 50.4
   },
   {
    "cat": "macro",
@@ -111,7 +97,35 @@
      "t": "sec"
     }
    ],
-   "heat": 53.7
+   "heat": 49.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-23 04:33",
+   "title": "Canada Sets US Counter-Tariffs, Trump’s Stock Disclosure, More",
+   "summary": "Source: Bloomberg, 5:47",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-22/canada-sets-us-counter-tariffs-trump-s-stock-disclosure-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-23 04:18",
+   "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+   "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.8
   },
   {
    "cat": "macro",
@@ -125,63 +139,21 @@
      "t": "sec"
     }
    ],
-   "heat": 52.2
+   "heat": 47.8
   },
   {
    "cat": "macro",
-   "time": "2026-08-21 19:01",
-   "title": "US Dollar Slumps but Rates Little Changed as Bessent Doubles Down",
-   "summary": "",
+   "time": "2026-08-23 03:06",
+   "title": "Canada Sets US Counter-Tariffs, Bessent’s Bond Maneuvers, More",
+   "summary": "Source: Bloomberg, 4:51",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-slumps-but-rates-little-changed-as-bessent-doubles-down-200686277",
-     "t": "agg"
-    }
-   ],
-   "heat": 48.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 04:05",
-   "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
-   "summary": "Concerns over the Treasury Department's debt repurchase program continue to weigh on markets.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-22/canada-sets-us-counter-tariffs-bessent-s-bond-maneuvers-more",
      "t": "sec"
     }
    ],
-   "heat": 48.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-18 18:36",
-   "title": "S&P 500: Index Notches a Record Close at 7,757.64 as Surprise Jobs Loss Fuels Rate-Cut Hopes - BBN Times",
-   "summary": "S&P 500: Index Notches a Record Close at 7,757.64 as Surprise Jobs Loss Fuels Rate-Cut Hopes &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzhXUXU3YW02dUtZbmhOZHJQZ1BCeWxiekJoQ0wwNzRLbGRiYU1aaHFiZ1g0VXdMOU5mNkJXVTFzYUhjVzBydlV0aF9xaDJYY1B3aC1nUjNxaFBlREluN3RNZkFjU3RyNkVjT3JQRFdJcUpoRi1LTzN0UU5IemUyUHQyN2YtZ0VwNVQ5OFNybmVLMFJCZlZGQ3FySV9GVU9qUkpXVmNTY1M3MXlHZzF5TDlDVU94UHVMUFNXRFBzSWdrSkRE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 48.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-17 18:40",
-   "title": "Commentary: The Real Flaw in China’s AI Strategy",
-   "summary": "Commentary: The Real Flaw in China’s AI Strategy &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaE9mUjRnT3YzbTF6TUc0ME9Lc1BRdEhnM25ycHNEMWM2Y192bHV6OF96YkRsYjhFM1o0dG94UERKWktfSWlPYmlyRGMxejl0NnlJaWZlS2M1LTYxdy0zNXNSdVRpSklXZFA3TTlETWN3cFlMU0tVQlFyeVYzTnAzaXpVQ0hNeU9qYnNvVzFqVFF0YklmaG1HQmRQbnlfZ2ZaWkln?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 48.0
+   "heat": 47.6
   },
   {
    "cat": "macro",
@@ -195,21 +167,63 @@
      "t": "sec"
     }
    ],
-   "heat": 47.8
+   "heat": 47.3
   },
   {
    "cat": "macro",
-   "time": "2026-08-23 01:01",
-   "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-   "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+   "time": "2026-08-22 22:59",
+   "title": "US Hits Canada With New Tariffs, Bessent Bond Intervention, More",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-22/us-hits-canada-with-new-tariffs-bessent-bond-intervention-more",
      "t": "sec"
     }
    ],
-   "heat": 47.7
+   "heat": 46.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 21:51",
+   "title": "US Hits Canada With 50% Tariffs, Carney Vows to Retaliate, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-22/us-hits-canada-with-50-tariffs-carney-vows-to-retaliate-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 46.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 20:50",
+   "title": "US Hits Canada With 50% Tariffs, Bessent's Bond Intervention",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-22/us-hits-canada-with-50-tariffs-bessent-s-bond-intervention-mt4dmowd",
+     "t": "sec"
+    }
+   ],
+   "heat": 46.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-23 04:26",
+   "title": "Nvidia customers reportedly warned about AI-related price hikes",
+   "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.8
   },
   {
    "cat": "sector",
@@ -223,7 +237,21 @@
      "t": "sec"
     }
    ],
-   "heat": 219.9
+   "heat": 203.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-22 20:00",
+   "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/nvidia-customers-notified-about-airelated-price-hikes-above-15-bloomberg-news-reports-4872385",
+     "t": "agg"
+    }
+   ],
+   "heat": 200.4
   },
   {
    "cat": "sector",
@@ -237,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.3
+   "heat": 198.9
   },
   {
    "cat": "sector",
@@ -251,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.2
+   "heat": 198.8
   },
   {
    "cat": "sector",
@@ -265,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.2
+   "heat": 198.7
   },
   {
    "cat": "sector",
@@ -279,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.1
+   "heat": 198.7
   },
   {
    "cat": "sector",
@@ -293,21 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 20:18",
-   "title": "Chinese AI Models Gain Ground on Price and Use",
-   "summary": "Chinese AI models are rapidly narrowing the performance gap with US rivals while gaining users with lower prices and open-weight technology that lets companies deploy them locally.…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-22/chinese-ai-models-gain-ground-on-price-and-use-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 218.9
+   "heat": 198.6
   },
   {
    "cat": "sector",
@@ -321,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.8
+   "heat": 198.4
   },
   {
    "cat": "sector",
@@ -335,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.8
+   "heat": 198.4
   },
   {
    "cat": "sector",
@@ -349,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.7
+   "heat": 198.3
   },
   {
    "cat": "sector",
@@ -363,21 +377,21 @@
      "t": "sec"
     }
    ],
-   "heat": 218.0
+   "heat": 197.6
   },
   {
    "cat": "sector",
-   "time": "2026-08-22 11:34",
-   "title": "US & Canada Race Against Clock,Roberts Allows Ballroom Work,More",
-   "summary": "Source: Bloomberg, 5:05",
+   "time": "2026-08-22 20:56",
+   "title": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-22/us-canada-race-against-clock-roberts-allows-ballroom-work-more",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/us-iran-trade-warnings-as-new-sanctions-loom-and-hormuz-oil-flows-stall-4872251",
+     "t": "agg"
     }
    ],
-   "heat": 217.4
+   "heat": 196.5
   },
   {
    "cat": "sector",
@@ -391,21 +405,7 @@
      "t": "agg"
     }
    ],
-   "heat": 216.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 16:06",
-   "title": "Putin says Ukraine opened ’Pandora’s box’ with strikes on economic targets",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/commodities-news/putin-says-ukraine-opened-pandoras-box-with-strikes-on-economic-targets-4872370",
-     "t": "agg"
-    }
-   ],
-   "heat": 216.2
+   "heat": 196.2
   },
   {
    "cat": "stock",
@@ -419,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 80.0
   },
   {
    "cat": "stock",
@@ -433,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.5
+   "heat": 72.1
   },
   {
    "cat": "stock",
@@ -447,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.5
+   "heat": 64.0
   },
   {
    "cat": "stock",
@@ -461,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.1
+   "heat": 62.6
   },
   {
    "cat": "stock",
@@ -475,7 +475,21 @@
      "t": "sec"
     }
    ],
-   "heat": 66.8
+   "heat": 62.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-22 21:20",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4872390",
+     "t": "agg"
+    }
+   ],
+   "heat": 60.6
   },
   {
    "cat": "stock",
@@ -489,35 +503,21 @@
      "t": "sec"
     }
    ],
-   "heat": 64.5
+   "heat": 60.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-22 12:09",
-   "title": "BofA maintains underperform ratings on six BDC stocks",
-   "summary": "",
+   "time": "2026-08-22 03:10",
+   "title": "US Stocks Open Higher as Market Awaits Key Economic Data - CryptoRank",
+   "summary": "US Stocks Open Higher as Market Awaits Key Economic Data &nbsp;&nbsp; CryptoRank",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/bofa-maintains-underperform-ratings-on-six-bdc-stocks-93CH-4872361",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcjhhVV9naUQ5SmRia3BtbkVUUTRPdXUwMHpjS3JmOE5xZVVsZ1NCQlJYNjdBNGc2bUl0dU1ubUhwUEdtbHhtOUtaRTZZUjZxQVRWNU5vS0ZhSzFWdmJEdVZwc3JZWmxad1NhR0pLWERONzVmSG1aTWJpZmp6aVZodDJOcGl4MmpzVko5UGw4LWo?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 63.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-22 12:05",
-   "title": "Wolfe Research sees CNH stock flat 2027 outlook on commodity prices",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/wolfe-research-sees-cnh-stock-flat-2027-outlook-on-commodity-prices-93CH-4872360",
-     "t": "agg"
-    }
-   ],
-   "heat": 63.5
+   "heat": 59.6
   },
   {
    "cat": "stock",
@@ -531,21 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-20 20:36",
-   "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Launches ‘Operation Economic Fur - Benzinga",
-   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Launches ‘Operation Economic Fur &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbUp3Wl92NktDVHhjWllEYmdwMUhaMzBTTHJCZVBXamZISld3aDJrZGFzR19yUGZHUlEzSUJvX1Y4TU1WYlVOWXRneGt4amJWTnU5RHF6bUU3UDdYQUtuSElkeG9BZG00X1MtQ093TkMxSjdoQXlyb2lzaG1ra3pCbkZUYkhzbUlZLWVrUlpPRS1VdEk1VHhDNjBxS2FfaGdrWXpPOUJseDVHblp4dmJrY3V2SGJ2c0dPR0RwYV9jaXIzVmtQN0NzVnRXOWZJejdaRWJBci1rVE45ZldKSi11RG1IcnRubmVtbnoxMVJRZmlzYmQzTEc5cmllNFM5emZOaGtCUGxhSDN3Y3hMMHE0Mg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 60.0
+   "heat": 58.5
   },
   {
    "cat": "stock",
@@ -559,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 56.0
   },
   {
    "cat": "stock",
@@ -573,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 56.0
   },
   {
    "cat": "stock",
@@ -587,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 56.0
   },
   {
    "cat": "stock",
@@ -601,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 56.0
   },
   {
    "cat": "stock",
@@ -615,49 +601,21 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 56.0
   },
   {
-   "cat": "global",
-   "time": "2026-08-22 07:15",
-   "title": "AUD/USD Price Forecast: Bulls target YTD high after breakout",
-   "summary": "The Aussie Dollar finished the week with gains of over 0.82% on Friday and up more than 1.20% for the week as the US Dollar tumbled following the US Treasury Department's announcem…",
+   "cat": "stock",
+   "time": "2026-08-22 02:50",
+   "title": "Is Gold Back? Fiscal Risks and ETF Demand Fuel the Rebound",
+   "summary": "",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-target-ytd-high-after-breakout-202608212315",
-     "t": "sec"
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/is-gold-back-fiscal-risks-and-etf-demand-fuel-the-rebound-200686311",
+     "t": "agg"
     }
    ],
-   "heat": 40.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-22 06:22",
-   "title": "Mexican Peso reaches two-year high despite weaker Retail Sales",
-   "summary": "The Mexican currency appreciates to levels last seen in May 2024 as the USD/MXN falls to a two-year low as the US Dollar tumbles even though business activity in the services secto…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/mexican-peso-reaches-two-year-high-despite-weaker-retail-sales-202608212222",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-22 04:22",
-   "title": "Forecasting the upcoming week: Warsh's Jackson Hole debut and US inflation test a soft US Dollar",
-   "summary": "The US Dollar Index (DXY) ended the week near even with Thursday, holding near 98.80. Like Thursday, DXY traded down to the 98.50s before recovering later in the session.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-warshs-jackson-hole-debut-and-us-inflation-test-a-soft-us-dollar-202608212022",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.2
+   "heat": 29.5
   },
   {
    "cat": "global",
@@ -671,7 +629,49 @@
      "t": "sec"
     }
    ],
+   "heat": 43.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-22 07:15",
+   "title": "AUD/USD Price Forecast: Bulls target YTD high after breakout",
+   "summary": "The Aussie Dollar finished the week with gains of over 0.82% on Friday and up more than 1.20% for the week as the US Dollar tumbled following the US Treasury Department's announcem…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-target-ytd-high-after-breakout-202608212315",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-22 06:22",
+   "title": "Mexican Peso reaches two-year high despite weaker Retail Sales",
+   "summary": "The Mexican currency appreciates to levels last seen in May 2024 as the USD/MXN falls to a two-year low as the US Dollar tumbles even though business activity in the services secto…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/mexican-peso-reaches-two-year-high-despite-weaker-retail-sales-202608212222",
+     "t": "sec"
+    }
+   ],
    "heat": 40.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-22 04:22",
+   "title": "Forecasting the upcoming week: Warsh's Jackson Hole debut and US inflation test a soft US Dollar",
+   "summary": "The US Dollar Index (DXY) ended the week near even with Thursday, holding near 98.80. Like Thursday, DXY traded down to the 98.50s before recovering later in the session.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-warshs-jackson-hole-debut-and-us-inflation-test-a-soft-us-dollar-202608212022",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.8
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 39.5
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.8
+   "heat": 39.4
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "agg"
     }
    ],
-   "heat": 36.7
+   "heat": 36.3
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 36.3
+   "heat": 35.8
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 36.1
+   "heat": 35.6
   },
   {
    "cat": "global",
@@ -755,7 +755,21 @@
      "t": "sec"
     }
    ],
-   "heat": 19.8
+   "heat": 19.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-21 22:23",
+   "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
+   "summary": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4UjR6SG1nNWV4MGxtZVduNDduRlBtanRXRFVHby13dFJDeHR2Q2NaM1FPa1NOemRkbFJUajd6OEhTZXhwTDFWRg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 18.8
   },
   {
    "cat": "global",
@@ -769,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 17.6
+   "heat": 17.1
   },
   {
    "cat": "global",
@@ -783,35 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 16.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-22 06:38",
-   "title": "US Treasury yields extend rebound as Services PMI beats estimates",
-   "summary": "US Treasury yields continue their recovery following the announcement of a bond buyback by the US Department of the Treasury, while data reveal that business activity remains solid…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/us-treasury-yields-extend-rebound-as-services-pmi-beats-estimates-202608212238",
-     "t": "sec"
-    }
-   ],
-   "heat": 16.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-22 06:31",
-   "title": "S&P 500: Wall Street Benchmark Rises to 7,674.37 as Investors Steady After a Bond-Driven Sell-Off and Positive US-Iran N",
-   "summary": "S&P 500: Wall Street Benchmark Rises to 7,674.37 as Investors Steady After a Bond-Driven Sell-Off and Positive US-Iran Negotiations &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTllTREFNcnFFeWtCNGZ2blEta0FrRENvcE5EWkVqZHVEbmRMWVRJV24tRnVRejlQemkwSHBBN2lvNDJFSkFpYkhNSDUxYVBtb1BuUVMzb25rRmE3SGdQNmZUcGNQQkk1bU5jTkdkck5TWi1QYkRlMVNvQ2pQOUdURFJKd3VLNko1ekFNQ1VfbURieThJYl8ySGNsSThWOTdPMXhZcHg1YlBDWU55T19tQWtPNDdmU0xIY3FmLUpRZUhfR3JfVWlGUldSSktOTmlmSW1WRHVyWExBektmZ2Nab2lKSXBMODRlYVAwMllNOTc0MXVVRUVJbQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 16.6
+   "heat": 16.3
   },
   {
    "cat": "global",
@@ -825,7 +811,21 @@
      "t": "agg"
     }
    ],
-   "heat": 16.6
+   "heat": 16.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-21 20:22",
+   "title": "现货黄金强势上攻突破4600美元关口 美元走软与技术面因素提供支撑",
+   "summary": "现货黄金强势上攻突破4600美元关口 美元走软与技术面因素提供支撑 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KRVVKaEJDN2pmM3hicC1yNnhiSFNYeHVVX0FUcEo3VDg1Ni1Rc0xPUm1EMXN1eVhiWlRoZHhlNGxpbGdfc3l0dw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 14.4
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 88.3
+   "heat": 91.8
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 86.8
+   "heat": 86.4
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 79.6
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.5
+   "heat": 79.1
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.5
+   "heat": 79.0
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.1
+   "heat": 62.6
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.5
+   "heat": 60.1
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.7
+   "heat": 58.3
   },
   {
    "cat": "crypto",
@@ -951,63 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-22 03:19",
-   "title": "Onchain, in court: What happened in crypto legal news this week",
-   "summary": "The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 52.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-21 22:07",
-   "title": "S&P Global reports August US Manufacturing PMI at 53.2 as services sector surges - Crypto Briefing",
-   "summary": "S&P Global reports August US Manufacturing PMI at 53.2 as services sector surges &nbsp;&nbsp; Crypto Briefing",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrRHlha2xpUmxvYnRtV3FZZi1ITFdod2hnTVRvVFd0cUt0cGt0SGFSWEhnM3g3OXhkalNPSVdrUnFRWjJXa3VlQ0x3aHF1b3pHaWt6SGFqcEVmTjhjc2xTbHBMX2F1OTQ2cjFZMTYwZHIweEE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.2
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-21 21:08",
-   "title": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
-   "summary": "Nomura-backed Laser Digital Japan received registration to provide domestic liquidity before expanding into institutional crypto trading.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-21 18:11",
-   "title": "Wall Street Closes Lower: S&P 500, Nasdaq, and Dow All Slip - CryptoRank",
-   "summary": "Wall Street Closes Lower: S&P 500, Nasdaq, and Dow All Slip &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JTDZZZUVmdy1RQ1ZyaGxlbUhjWDE1Q2kzaDlBVVY5enBCYVYzdEZHVXZxM25KVjUwaVh6ajY0aWV0akZOQm45c1Q2akVQWXpUUHVEbFhQN2ljRjdFaG9XWG5sNlRVbE9lRURvMzBR?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 50.5
+   "heat": 54.9
   },
   {
    "cat": "crypto",
@@ -1021,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.8
+   "heat": 53.3
   },
   {
    "cat": "crypto",
@@ -1035,7 +979,63 @@
      "t": "sec"
     }
    ],
-   "heat": 49.7
+   "heat": 53.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-22 19:02",
+   "title": "Bitcoin hits RSI 83.7 with MFI maxed out: Live levels",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
+     "t": "agg"
+    }
+   ],
+   "heat": 52.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-22 04:26",
+   "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
+   "summary": "Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-22 04:00",
+   "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
+   "summary": "The hedge fund founder with an estimated net worth of $15 billion recommended that investors overweight Bitcoin and gold rather than bonds.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-22 03:19",
+   "title": "Onchain, in court: What happened in crypto legal news this week",
+   "summary": "The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.6
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 212.6
+   "heat": 192.1
   }
  ]
 }

@@ -1,6 +1,20 @@
 {
- "updated": "2026-08-23 03:02",
+ "updated": "2026-08-23 05:44",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-23 04:26",
+   "title": "Nvidia customers reportedly warned about AI-related price hikes",
+   "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.8
+  },
   {
    "cat": "sector",
    "time": "2026-08-23 02:42",
@@ -13,7 +27,21 @@
      "t": "sec"
     }
    ],
-   "heat": 219.9
+   "heat": 203.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-22 20:00",
+   "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/nvidia-customers-notified-about-airelated-price-hikes-above-15-bloomberg-news-reports-4872385",
+     "t": "agg"
+    }
+   ],
+   "heat": 200.4
   },
   {
    "cat": "sector",
@@ -27,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.3
+   "heat": 198.9
   },
   {
    "cat": "sector",
@@ -41,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.2
+   "heat": 198.8
   },
   {
    "cat": "sector",
@@ -55,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.2
+   "heat": 198.7
   },
   {
    "cat": "sector",
@@ -69,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.1
+   "heat": 198.7
   },
   {
    "cat": "sector",
@@ -83,21 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 20:18",
-   "title": "Chinese AI Models Gain Ground on Price and Use",
-   "summary": "Chinese AI models are rapidly narrowing the performance gap with US rivals while gaining users with lower prices and open-weight technology that lets companies deploy them locally.…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-22/chinese-ai-models-gain-ground-on-price-and-use-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 218.9
+   "heat": 198.6
   },
   {
    "cat": "sector",
@@ -111,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.8
+   "heat": 198.4
   },
   {
    "cat": "sector",
@@ -125,21 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 19:27",
-   "title": "Ukrainian drones kill several, hit warehouse of Russian online retailer Ozon",
-   "summary": "The strike is the first on Ozon, Russia's second-largest online retailer, which Ukraine sees as part of a wider campaign against economic infrastructure.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/22/ukrainian-drones-hit-warehouse-of-russian-online-retailer-ozon.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 218.7
+   "heat": 198.4
   }
  ]
 }
