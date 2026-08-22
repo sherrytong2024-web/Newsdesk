@@ -1,6 +1,20 @@
 {
- "updated": "2026-08-22 23:44",
+ "updated": "2026-08-23 03:02",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-23 02:42",
+   "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+   "summary": "Some of Nvidia Corp.’s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15% in many cases with memory…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.9
+  },
   {
    "cat": "sector",
    "time": "2026-08-22 23:00",
@@ -13,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.9
+   "heat": 219.3
   },
   {
    "cat": "sector",
@@ -27,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.8
+   "heat": 219.2
   },
   {
    "cat": "sector",
@@ -41,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.7
+   "heat": 219.2
   },
   {
    "cat": "sector",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.7
+   "heat": 219.1
   },
   {
    "cat": "sector",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.6
+   "heat": 219.1
   },
   {
    "cat": "sector",
@@ -83,21 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 20:03",
-   "title": "The AI Spending Spree Comes With a Catch",
-   "summary": "Sam Palmisano says the AI boom is built on long-cycle bets in data centers, chips and energy, even as AI software changes at breakneck speed. If adoption slows or cheaper Chinese o…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-22/the-ai-spending-spree-comes-with-a-catch-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.4
+   "heat": 218.9
   },
   {
    "cat": "sector",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.4
+   "heat": 218.8
   },
   {
    "cat": "sector",
@@ -125,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.4
+   "heat": 218.8
   },
   {
    "cat": "sector",
@@ -139,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.3
+   "heat": 218.7
   }
  ]
 }
