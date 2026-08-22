@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 21:43",
+ "updated": "2026-08-22 23:44",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.5
+   "heat": 67.1
   },
   {
    "cat": "macro",
@@ -27,7 +27,21 @@
      "t": "sec"
     }
    ],
-   "heat": 65.0
+   "heat": 52.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 20:00",
+   "title": "These stocks are most overbought even as the S&P 500 posts a losing week",
+   "summary": "Several stocks remain technically overbought even as the S&P 500 pulled back on the week amid rising Treasury yields and inflation concerns.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/22/these-stocks-are-most-overbought-even-as-the-sp-500-posts-a-losing-week.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.4
   },
   {
    "cat": "macro",
@@ -41,7 +55,63 @@
      "t": "sec"
     }
    ],
-   "heat": 56.7
+   "heat": 48.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 23:06",
+   "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+   "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Alexis Christ…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-22/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 22:59",
+   "title": "US Hits Canada With New Tariffs, Bessent Bond Intervention, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-22/us-hits-canada-with-new-tariffs-bessent-bond-intervention-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 22:53",
+   "title": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
+   "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 21:51",
+   "title": "US Hits Canada With 50% Tariffs, Carney Vows to Retaliate, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-22/us-hits-canada-with-50-tariffs-carney-vows-to-retaliate-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.7
   },
   {
    "cat": "macro",
@@ -55,77 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 13:00",
-   "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
-   "summary": "Investors see different risks threatening markets, but broadly agree that traders should diversify beyond recent winners.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 50.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 04:21",
-   "title": "Fidelity Says China Strategy Unchanged Amid Mutual Fund Exit Speculation",
-   "summary": "Fidelity Says China Strategy Unchanged Amid Mutual Fund Exit Speculation &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUTg1NXl4OEFtZTgxWVNiQ0ZqalBGUjZCcTdPd2NJdWhKQ1k5bEROd1lrSkJGM3VPbkFkR1pHUzlXUmlrYzRYOGZTcG1raVNGT0ZZWEVhd1FBYWtJUHFDUF85b3hNOXNEOE1qODNlLWl3eDhSMTJRZkJZWjQxcFI2T1kzRVJYUmstSTNYdTQ0VWZlbzkydWwtUmNmWjg1MGNRRnI2c3BBTG5pNUwtV3d0Q3Y0dmV0c1dTOV9xVDVlOHZEUWRNclE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 49.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 04:05",
-   "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
-   "summary": "Concerns over the Treasury Department's debt repurchase program continue to weigh on markets.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 49.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 03:22",
-   "title": "Khosla Ventures Bets on AI’s Next Frontier: Science",
-   "summary": "Khosla Ventures is backing Discovery Loop, a new AI startup founded by former Google leaders including Jeff Dean that aims to dramatically accelerate scientific experimentation. Kh…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-21/khosla-ventures-bets-on-ai-s-next-frontier-science-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 48.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 00:26",
-   "title": "Yields had a big week. Why these moves may be reminiscent of 1987",
-   "summary": "The 30-year Treasury bond yield topped 5.3% this week, hitting levels not seen since 2007.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/21/yields-had-a-big-week-why-these-moves-may-be-reminiscent-of-1987.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 48.5
+   "heat": 43.6
   },
   {
    "cat": "macro",
@@ -139,21 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 19:52",
-   "title": "U.S., Canada fail to reach a tariff deal, deepening trade war",
-   "summary": "The United States and Canada failed to reach a trade deal late on Friday, and the U.S. said it would impose 50% tariffs on some imports from Canada.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/21/us-canada-fail-to-reach-a-tariff-deal-deepen-trade-war.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.7
+   "heat": 43.5
   },
   {
    "cat": "macro",
@@ -167,35 +153,21 @@
      "t": "sec"
     }
    ],
-   "heat": 47.7
+   "heat": 43.3
   },
   {
    "cat": "macro",
-   "time": "2026-08-22 18:20",
-   "title": "India’s Foreign Minister to Visit Russia Amid US Tariff Threat",
-   "summary": "India‘s External Affairs Minister S. Jaishankar will visit Russia and co-chair the 27th India-Russia Inter-Governmental Commission meeting on trade, science, technology, and cultur…",
+   "time": "2026-08-22 13:00",
+   "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
+   "summary": "Investors see different risks threatening markets, but broadly agree that traders should diversify beyond recent winners.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-22/india-s-foreign-minister-to-visit-russia-amid-us-tariff-threat",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
      "t": "sec"
     }
    ],
-   "heat": 47.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-21 02:53",
-   "title": "GBP/USD Faces Rate-Pricing Risk as BOE Tightening Looks Overstated",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/gbpusd-faces-ratepricing-risk-as-boe-tightening-looks-overstated-200686229",
-     "t": "agg"
-    }
-   ],
-   "heat": 46.9
+   "heat": 42.2
   },
   {
    "cat": "macro",
@@ -209,7 +181,77 @@
      "t": "sec"
     }
    ],
-   "heat": 46.4
+   "heat": 42.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 10:47",
+   "title": "Roberts Allows WH Ballroom Work to Continue,Tariff Deadline,More",
+   "summary": "Source: Bloomberg, 5:22",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-22/roberts-allows-wh-ballroom-work-to-continue-tariff-deadline-more-mt3s2wqx",
+     "t": "sec"
+    }
+   ],
+   "heat": 41.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 10:07",
+   "title": "Roberts Allows Ballroom Work to Continue, Canada Tariff Deadline",
+   "summary": "Source: Bloomberg, 5:48",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-22/roberts-allows-ballroom-work-to-continue-canada-tariff-deadline-mt3qnfg0",
+     "t": "sec"
+    }
+   ],
+   "heat": 41.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-22 23:00",
+   "title": "Mark Walter’s Financial Empire Faces Scrutiny After Probes",
+   "summary": "The billionaire is working to satisfy regulators following investigations into financial improprieties at two of his insurance companies",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-22/mark-walter-s-financial-empire-faces-scrutiny-after-probes",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-22 22:23",
+   "title": "Sanctions Target Iran’s Weakened Regional Network",
+   "summary": "The US is preparing a new campaign of economic pressure on Iran after diplomacy and months of fighting failed to produce a durable settlement, with President Donald Trump warning c…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-22/sanctions-target-iran-s-weakened-regional-network-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-22 22:00",
+   "title": "Study Shows AI Hitting Paychecks, Not Payrolls",
+   "summary": "Apollo Chief Economist Torsten Slok says early labor-market data suggest AI’s first impact is appearing more in wages than employment. In a study of hundreds of occupations, Slok f…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-22/study-shows-ai-hitting-paychecks-not-payrolls",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.7
   },
   {
    "cat": "sector",
@@ -223,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 216.0
+   "heat": 91.7
   },
   {
    "cat": "sector",
@@ -237,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 216.0
+   "heat": 91.6
   },
   {
    "cat": "sector",
@@ -251,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.8
+   "heat": 91.4
   },
   {
    "cat": "sector",
@@ -265,21 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 20:00",
-   "title": "Investing in AI for More Jobs, Less Pay",
-   "summary": "The good news and bad news about AI",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-22/investing-in-ai-for-more-jobs-less-pay",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.7
+   "heat": 91.4
   },
   {
    "cat": "sector",
@@ -293,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.7
+   "heat": 91.4
   },
   {
    "cat": "sector",
@@ -307,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.7
+   "heat": 91.4
   },
   {
    "cat": "sector",
@@ -321,21 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 15:05",
-   "title": "UBS Global Wealth Management Boosts S&P 500 Year-End Target to 8,100 on Stronger Profit Outlook - The Daily Hodl",
-   "summary": "UBS Global Wealth Management Boosts S&P 500 Year-End Target to 8,100 on Stronger Profit Outlook &nbsp;&nbsp; The Daily Hodl",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR2d4blh3SWhvTlF6c3ZMZHpaRm1wTTgyeVJPZk5oZ1A2R1dpOUMzQU1mWko2dTd3UlBYcjRGNGhNSHpwS3ZYdWEyTGI3eGJDVmNTemRBcTRScGR2elNqRkZZY1JLMkV1VXE2TFVGZ1g1YzlOQ3AwZmhSVnVkSFhweG9Gb3FZcnRQNzUycFV4cUdwRElNekt3VXdKQ1ZxcFJqMC1iYWZFOUdzLVlKNTAzUHVSUndBbEszSEwzRzV4dlpOTzgwN2fSAcsBQVVfeXFMTWQ4eGFraUN0UnJyN29nVWZ4NVhsaExrcUw0bXBTZmdqbkhJWGVGdTdQZndyZ1pGYl9kSFoxQmd4ZGZDNG5IZFg1LUxISXVzZEtmZlU3bURGS0VjdUJaVGJQbGticmlhMHU0b0FtMXZqR2pDSjl6eHFUZkVmaWNNNnJqNVF4Q1BvWi1xLTlleUdnSVEteWlwdXE2YjQxLWpNdnVMcmU1bWtzYnlnMkxZX0ZLMXVXT3BZa2JNQ1dBanJnNjJSdHpLcG9ad2M?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 214.9
+   "heat": 91.3
   },
   {
    "cat": "sector",
@@ -349,21 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 214.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 07:12",
-   "title": "Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis",
-   "summary": "This week, Former IBM CEO Sam Palmisano discusses why companies may benefit from having a “Plan B” for AI implementation. And, AI may not be causing mass layoffs yet, but early dat…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-week-ai-hits-wages-colorado-river-crisis-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 213.6
+   "heat": 90.0
   },
   {
    "cat": "sector",
@@ -377,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 213.3
+   "heat": 88.9
   },
   {
    "cat": "sector",
@@ -391,7 +391,21 @@
      "t": "sec"
     }
    ],
-   "heat": 213.1
+   "heat": 88.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-22 03:59",
+   "title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware",
+   "summary": "Anthropic PBC has hired Amir Salek, a founder of the custom chip program at Alphabet Inc.’s Google, as the AI lab lays the groundwork for a push into making its own semiconductors.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
+     "t": "sec"
+    }
+   ],
+   "heat": 88.7
   },
   {
    "cat": "sector",
@@ -405,21 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 213.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-19 03:35",
-   "title": "China to Let Mainland Insurers Buy Hong Kong ETFs Through Stock Connect",
-   "summary": "China to Let Mainland Insurers Buy Hong Kong ETFs Through Stock Connect &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUGl5YzJONWZnVTRFX3Bva3hKWUNmNEd6ZFJxdldXZzFzeGNGdXFmOWE2ckUzU0JMa0dtTUE4UXQ0ekU1ODFxMFk4bXppc2J5emhNWm5rLTBWUUNWaTFoa25SM0tPZFozMU1qM2Q3MXBLUmZZcnN6MWJjbUdNQklaQk1kYzVrdUR3N3lWekRKSnQ1YU9OYUt5Z0Fpc2EtWUFzdjZSVmlLSEFjOFZucjZBdTdvUzl6NlBKYzA4OW92cm1FQlg3?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 96.0
+   "heat": 88.7
   },
   {
    "cat": "stock",
@@ -433,21 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 93.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-21 05:57",
-   "title": "Ed Yardeni Raises S&P 500 Target For 2026 After ‘Gangbusters’ Earnings Season – Says He Wasn’t ‘Bullish Enough’ - Stockt",
-   "summary": "Ed Yardeni Raises S&P 500 Target For 2026 After ‘Gangbusters’ Earnings Season – Says He Wasn’t ‘Bullish Enough’ &nbsp;&nbsp; Stocktwits",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzdBZEJJLWZCcTdkcGRwUzJWX2taeFpEeklXaUdfWmFBb0tvaTJOWEx3SkJDeXQzbUFHRkZjeHV6ZWVaNWx2U19BYm1NOWl2T3ZGLS1TMWNMeHg5Ul84ZEQwTThRNGtvN2wwbFRFLXpUVnFCNVhDZmJjNVZoNldvMlk0N1R5NTh5Y3Byd1JNNUJiajRRbmJMdkJGcHpDckVaWmh2aV9XMXptT2RqQ1QwbTh4a0ZWSmtrT3pUUTNkZw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 81.4
+   "heat": 41.1
   },
   {
    "cat": "stock",
@@ -461,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 35.6
   },
   {
    "cat": "stock",
@@ -475,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.7
+   "heat": 35.4
   },
   {
    "cat": "stock",
@@ -489,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 77.4
+   "heat": 33.0
   },
   {
    "cat": "stock",
@@ -503,7 +489,7 @@
      "t": "agg"
     }
    ],
-   "heat": 76.4
+   "heat": 32.1
   },
   {
    "cat": "stock",
@@ -517,7 +503,7 @@
      "t": "agg"
     }
    ],
-   "heat": 76.4
+   "heat": 32.1
   },
   {
    "cat": "stock",
@@ -531,91 +517,63 @@
      "t": "agg"
     }
    ],
-   "heat": 76.3
+   "heat": 32.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-22 11:01",
-   "title": "These 3 AI stocks are bought by both hedge funds and mutual funds",
+   "time": "2026-08-22 07:35",
+   "title": "ITG CFO: We're the Picks & Shovels of the AI Boom",
+   "summary": "Chris Mecray, CFO at ITG, joins Bloomberg Businessweek Daily to discuss the company's performance since its July 1 IPO, and its role in the AI buildout as a fiber and communication…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-21/itg-cfo-we-re-the-picks-shovels-of-the-ai-boom-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 17.3
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-22 05:36",
+   "title": "Liquid Death CEO on Viral AI Data Center Ad, IPO Odds",
+   "summary": "Mike Cessario, Founder and CEO of Liquid Death, joined the program to discuss the growing public sentiment against the rapid expansion of data centers. Despite widespread interest …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-21/liquid-death-ceo-on-viral-ai-data-center-ad-ipo-odds-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 17.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-22 04:11",
+   "title": "Big week coming up with PCE, Nvidia earnings and then Jackson Hole. Here's what to expect",
+   "summary": "The summer may be winding down, but there's an awful lot of potentially market moving activity in store next week.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/21/stock-market-next-week-outlook-for-aug-24-28-2026.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 8.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-22 02:50",
+   "title": "Is Gold Back? Fiscal Risks and ETF Demand Fuel the Rebound",
    "summary": "",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/these-3-ai-stocks-are-bought-by-both-hedge-funds-and-mutual-funds-4872330",
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/is-gold-back-fiscal-risks-and-etf-demand-fuel-the-rebound-200686311",
      "t": "agg"
     }
    ],
-   "heat": 76.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-21 21:50",
-   "title": "Vingroup Among Vietnam Stocks to Debut on FTSE’s EM Index",
-   "summary": "Vingroup JSC is among over 100 Vietnamese companies added to FTSE Russell’s Global Equity Indexes late Friday, marking a key step in the country’s long-awaited transition from fron…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-21/vingroup-among-vietnam-stocks-to-make-debut-on-ftse-s-em-index",
-     "t": "sec"
-    }
-   ],
-   "heat": 76.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-21 20:28",
-   "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Gain as Scott Bessent Touts 'Toughest Sanction - Benzinga",
-   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Gain as Scott Bessent Touts 'Toughest Sanction &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOMURjR2ZDVFc0WkNHUkFhTlFjbGNlS19ydnpoSnFlU3NWWV9nZ25zckxVSmpNSTluSldwS1pWekxJUHd1LVZ3cmZRR1NXZm1RNHNjQmJyNEJTTlV3VnEybHN5ckFGaEV6eTNmcHB2NmQ4UC0zTDlUbzMzcFVRWWhjQXhRRGJWTkFNR0pQc0dqNTZ5ZkRfRU1FMGczVTIxS2VPNXlYak1DWURvTGpBekNrYVFnWjBEaFVmTkdrcFM0bjlzcHZObkJVbHpPYXhWTVNsNWZ6NWZSSnp5N2FYcVI4WGI5SU1RVmtvQnZGOTJUTWd5b1ZtVDYzdUJMQWpOenViTVV0SVdIaEp2b3R4X2JzZnJrci1NN1c1d2Q1NnZ1ZjVJSVZGcE5j?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 75.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-20 20:36",
-   "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Launches ‘Operation Economic Fur - Benzinga",
-   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Launches ‘Operation Economic Fur &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbUp3Wl92NktDVHhjWllEYmdwMUhaMzBTTHJCZVBXamZISld3aDJrZGFzR19yUGZHUlEzSUJvX1Y4TU1WYlVOWXRneGt4amJWTnU5RHF6bUU3UDdYQUtuSElkeG9BZG00X1MtQ093TkMxSjdoQXlyb2lzaG1ra3pCbkZUYkhzbUlZLWVrUlpPRS1VdEk1VHhDNjBxS2FfaGdrWXpPOUJseDVHblp4dmJrY3V2SGJ2c0dPR0RwYV9jaXIzVmtQN0NzVnRXOWZJejdaRWJBci1rVE45ZldKSi11RG1IcnRubmVtbnoxMVJRZmlzYmQzTEc5cmllNFM5emZOaGtCUGxhSDN3Y3hMMHE0Mg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 72.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-19 11:17",
-   "title": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus - ",
-   "summary": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus &nbsp;&nbsp; TradingView",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNN190SF9waVpETWluSXVXa3lGVnB0Q0xqblFuZDV5a1RDblRqZEZKMU1HMFIxZXlueUhHalNvb2VndjNMLVBRVzhGNTduYWxzX2Qza2FldTV3X2lTMHN1LXlPZjgyY00yYWhiOUNuUFV1c0piYlFWT2xmLTlIVUZTWTY3VWRHaW5rUVY1VGxybE44WkdtZlE0QXVfdzI1S0xiTndITlVKVlFNNUJQay1xVFZnLXdNeVhXRHhCUGNmOHN6b05mZzVYZmtOUWxRM3ktekFZTDFyQVUwNExzaXliLXEwaG9WZDFYRl9hc3pRRDBBRGMwd19lb0JMR2sxbDVp?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 72.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-19 01:50",
-   "title": "Stock indices no longer reflect equity reality - The Economist",
-   "summary": "Stock indices no longer reflect equity reality &nbsp;&nbsp; The Economist",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSXh5SmFEc2l3eHhBQnM3akNsNXFPZHptV1JJS1A4OTVtV2M2SGZzMDUyNVFuQ1JHZnJzU25DYy1yRFJWNTh2NlVQSWlxbWdHZFRsTkhHQTR3cXp6V29MSHdTMTNmNXp6am5CcVRoZ1VibWY0b1dKaGUtY1FCV25CMXdnVGJmRlJDSUVkOEhsbmV0Q19uSmU1NEVJZ0VNcVJ0amoza3hGWG4?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 72.0
+   "heat": 6.5
   },
   {
    "cat": "global",
@@ -629,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.6
+   "heat": 41.3
   },
   {
    "cat": "global",
@@ -643,7 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.4
+   "heat": 41.1
   },
   {
    "cat": "global",
@@ -657,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.1
+   "heat": 40.8
   },
   {
    "cat": "global",
@@ -671,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.0
+   "heat": 40.6
   },
   {
    "cat": "global",
@@ -685,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.9
+   "heat": 40.5
   },
   {
    "cat": "global",
@@ -699,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.7
+   "heat": 40.4
   },
   {
    "cat": "global",
@@ -713,7 +671,7 @@
      "t": "agg"
     }
    ],
-   "heat": 37.6
+   "heat": 37.3
   },
   {
    "cat": "global",
@@ -727,7 +685,7 @@
      "t": "agg"
     }
    ],
-   "heat": 37.1
+   "heat": 36.8
   },
   {
    "cat": "global",
@@ -741,7 +699,7 @@
      "t": "agg"
     }
    ],
-   "heat": 37.0
+   "heat": 36.6
   },
   {
    "cat": "global",
@@ -755,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 20.7
+   "heat": 20.4
   },
   {
    "cat": "global",
@@ -769,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 18.4
+   "heat": 18.1
   },
   {
    "cat": "global",
@@ -783,7 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 17.7
+   "heat": 17.3
   },
   {
    "cat": "global",
@@ -797,49 +755,35 @@
      "t": "agg"
     }
    ],
-   "heat": 17.4
+   "heat": 17.1
   },
   {
    "cat": "global",
-   "time": "2026-08-22 06:38",
-   "title": "US Treasury yields extend rebound as Services PMI beats estimates",
-   "summary": "US Treasury yields continue their recovery following the announcement of a bond buyback by the US Department of the Treasury, while data reveal that business activity remains solid…",
+   "time": "2026-08-21 22:44",
+   "title": "The Energy Report: The Coming Oil Glut",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/the-energy-report-the-coming-oil-glut-200686294",
+     "t": "agg"
+    }
+   ],
+   "heat": 9.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-22 07:02",
+   "title": "USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls",
+   "summary": "The USD/CHF advanced on Friday, registering a modest 0.07% gain, trading at 0.8010. During the week, the pair finished with losses of over 1.49%, triggered by a drop in US yields o…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/us-treasury-yields-extend-rebound-as-services-pmi-beats-estimates-202608212238",
+     "u": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-reclaim-08000-as-recovery-stalls-202608212302",
      "t": "sec"
     }
    ],
-   "heat": 13.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-22 06:31",
-   "title": "S&P 500: Wall Street Benchmark Rises to 7,674.37 as Investors Steady After a Bond-Driven Sell-Off and Positive US-Iran N",
-   "summary": "S&P 500: Wall Street Benchmark Rises to 7,674.37 as Investors Steady After a Bond-Driven Sell-Off and Positive US-Iran Negotiations &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTllTREFNcnFFeWtCNGZ2blEta0FrRENvcE5EWkVqZHVEbmRMWVRJV24tRnVRejlQemkwSHBBN2lvNDJFSkFpYkhNSDUxYVBtb1BuUVMzb25rRmE3SGdQNmZUcGNQQkk1bU5jTkdkck5TWi1QYkRlMVNvQ2pQOUdURFJKd3VLNko1ekFNQ1VfbURieThJYl8ySGNsSThWOTdPMXhZcHg1YlBDWU55T19tQWtPNDdmU0xIY3FmLUpRZUhfR3JfVWlGUldSSktOTmlmSW1WRHVyWExBektmZ2Nab2lKSXBMODRlYVAwMllNOTc0MXVVRUVJbQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 13.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-22 20:00",
-   "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto",
-   "summary": "Bitcoin and crypto staged their strongest rally in months as Treasury intervention, regulatory moves and a historic short squeeze collided, while banks and technology companies pus…",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.7
+   "heat": 9.2
   },
   {
    "cat": "crypto",
@@ -853,7 +797,21 @@
      "t": "sec"
     }
    ],
-   "heat": 89.2
+   "heat": 80.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-22 20:00",
+   "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto",
+   "summary": "Bitcoin and crypto staged their strongest rally in months as Treasury intervention, regulatory moves and a historic short squeeze collided, while banks and technology companies pus…",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
+     "t": "sec"
+    }
+   ],
+   "heat": 79.4
   },
   {
    "cat": "crypto",
@@ -867,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.9
+   "heat": 68.6
   },
   {
    "cat": "crypto",
@@ -881,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.4
+   "heat": 68.1
   },
   {
    "cat": "crypto",
@@ -895,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.4
+   "heat": 68.0
   },
   {
    "cat": "crypto",
@@ -909,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 59.6
   },
   {
    "cat": "crypto",
@@ -923,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.6
+   "heat": 59.3
   },
   {
    "cat": "crypto",
@@ -937,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 61.4
+   "heat": 53.1
   },
   {
    "cat": "crypto",
@@ -951,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.6
+   "heat": 50.3
   },
   {
    "cat": "crypto",
@@ -965,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.6
+   "heat": 50.2
   },
   {
    "cat": "crypto",
@@ -979,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 53.1
+   "heat": 48.8
   },
   {
    "cat": "crypto",
@@ -993,7 +951,35 @@
      "t": "sec"
     }
    ],
-   "heat": 53.0
+   "heat": 48.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-22 23:16",
+   "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+   "summary": "The exchange has hired White & Case as restructuring counsel, with a detailed roadmap expected by Sept. 9.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-21 20:10",
+   "title": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
+   "summary": "Three weeks of review turned up problems unrelated to the flaw that cost users $114 million, but updating still does not make a compromised wallet safe.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.4
   },
   {
    "cat": "crypto",
@@ -1007,49 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-21 22:07",
-   "title": "S&P Global reports August US Manufacturing PMI at 53.2 as services sector surges - Crypto Briefing",
-   "summary": "S&P Global reports August US Manufacturing PMI at 53.2 as services sector surges &nbsp;&nbsp; Crypto Briefing",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrRHlha2xpUmxvYnRtV3FZZi1ITFdod2hnTVRvVFd0cUt0cGt0SGFSWEhnM3g3OXhkalNPSVdrUnFRWjJXa3VlQ0x3aHF1b3pHaWt6SGFqcEVmTjhjc2xTbHBMX2F1OTQ2cjFZMTYwZHIweEE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 52.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-21 21:08",
-   "title": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
-   "summary": "Nomura-backed Laser Digital Japan received registration to provide domestic liquidity before expanding into institutional crypto trading.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-21 06:21",
-   "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
-   "summary": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jaGE2dU1GbVBkNnU4dzNkVnRIYTVoQ2FBWklKQnpmcjg3djZPOFVlQldyOE14b0FPX25MMlJLdVdQWGh4VnBoUg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 209.4
+   "heat": 44.6
   }
  ]
 }
