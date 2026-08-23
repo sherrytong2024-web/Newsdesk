@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23 11:30",
+ "updated": "2026-08-23 15:47",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.7
+   "heat": 62.0
   },
   {
    "cat": "macro",
@@ -27,7 +27,21 @@
      "t": "sec"
     }
    ],
-   "heat": 61.2
+   "heat": 56.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-23 14:39",
+   "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+   "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.8
   },
   {
    "cat": "macro",
@@ -41,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.5
+   "heat": 50.8
   },
   {
    "cat": "macro",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.3
+   "heat": 50.6
   },
   {
    "cat": "macro",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.1
+   "heat": 50.4
   },
   {
    "cat": "macro",
@@ -83,21 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-23 04:18",
-   "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-   "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 50.8
+   "heat": 50.1
   },
   {
    "cat": "macro",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.6
+   "heat": 49.9
   },
   {
    "cat": "macro",
@@ -125,21 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 23:06",
-   "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-   "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Alexis Christ…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-22/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 49.9
+   "heat": 49.7
   },
   {
    "cat": "macro",
@@ -153,21 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 22:00",
-   "title": "Airbnb's new fee change frustrates hosts—what to know before renting out your home",
-   "summary": "A new Airbnb fee change is one of many costs and considerations that can affect whether running a short-term rental makes money.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 49.7
+   "heat": 49.2
   },
   {
    "cat": "macro",
@@ -181,21 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 21:22",
-   "title": "Canada Pushes Back as US Trade Talks Collapse",
-   "summary": "Bloomberg News Executive Editor for Canada Derek Decloet joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains that Canadians are frustrated but not necessa…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-22/canada-pushes-back-as-us-trade-talks-collapse-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 49.6
+   "heat": 49.0
   },
   {
    "cat": "macro",
@@ -209,35 +167,105 @@
      "t": "sec"
     }
    ],
-   "heat": 49.6
+   "heat": 48.8
   },
   {
-   "cat": "sector",
-   "time": "2026-08-23 04:26",
-   "title": "Nvidia customers reportedly warned about AI-related price hikes",
-   "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
+   "cat": "macro",
+   "time": "2026-08-22 19:46",
+   "title": "Canada to Retaliate Against US Tariffs, Trump's Ballroom, More",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-22/canada-to-retaliate-against-us-tariffs-trump-s-ballroom-more",
      "t": "sec"
     }
    ],
-   "heat": 202.8
+   "heat": 48.7
   },
   {
-   "cat": "sector",
-   "time": "2026-08-23 02:42",
-   "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
-   "summary": "Some of Nvidia Corp.’s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15% in many cases with memory…",
+   "cat": "macro",
+   "time": "2026-08-23 13:57",
+   "title": "DeepSeek Ends Weekend Peak Pricing for API Users From Today",
+   "summary": "DeepSeek will stop distinguishing between peak and off-peak API pricing on weekends from Aug. 23, with usage on Saturdays and Sundays charged at off-peak rates, the company said in…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-23/deepseek-ends-weekend-peak-pricing-for-api-users-from-today",
      "t": "sec"
     }
    ],
-   "heat": 202.5
+   "heat": 47.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-22 23:06",
+   "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+   "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Alexis Christ…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-22/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 45.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-23 15:07",
+   "title": "Humanoid Robot Beats Usain Bolt’s 100m World Record in Beijing",
+   "summary": "A humanoid robot ran 100 meters in 9.39 seconds at the opening ceremony of the second World Humanoid Robot Games in Beijing, beating Usain Bolt’s world record of 9.58 seconds, Xinh…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-23/humanoid-robot-beats-usain-bolt-s-100m-world-record-in-beijing",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-23 14:13",
+   "title": "Alibaba Seeks $10 Billion From Share Sale for AI Expansion",
+   "summary": "Alibaba Group Holding Ltd. is seeking to raise about HK$80 billion ($10.2 billion) from a share sale, its latest move to compete for global leadership in artificial intelligence.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-23 13:55",
+   "title": "Mystery AI Model Ox Alpha Draws Developers With Free Access",
+   "summary": "A new artificial intelligence model called Ox Alpha is gaining traction among developers after appearing online for free, even as the identity of its creator remains a mystery.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-23 12:54",
+   "title": "Mexican Governor Wanted by US Over Cartel Ties Seeks Leave Again",
+   "summary": "The Mexican governor accused by the US of conspiring with a cartel and abetting drug trafficking has once again requested leave, after returning to his post on Friday.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-23/mexican-governor-wanted-by-us-over-cartel-ties-seeks-leave-again",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.5
   },
   {
    "cat": "sector",
@@ -251,21 +279,35 @@
      "t": "sec"
     }
    ],
-   "heat": 199.7
+   "heat": 211.0
   },
   {
    "cat": "sector",
-   "time": "2026-08-22 20:00",
-   "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
-   "summary": "",
+   "time": "2026-08-23 04:26",
+   "title": "Nvidia customers reportedly warned about AI-related price hikes",
+   "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/nvidia-customers-notified-about-airelated-price-hikes-above-15-bloomberg-news-reports-4872385",
-     "t": "agg"
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+     "t": "sec"
     }
    ],
-   "heat": 199.4
+   "heat": 210.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-23 02:42",
+   "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+   "summary": "Some of Nvidia Corp.’s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15% in many cases with memory…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+     "t": "sec"
+    }
+   ],
+   "heat": 209.8
   },
   {
    "cat": "sector",
@@ -279,21 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 197.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 22:23",
-   "title": "Sanctions Target Iran’s Weakened Regional Network",
-   "summary": "The US is preparing a new campaign of economic pressure on Iran after diplomacy and months of fighting failed to produce a durable settlement, with President Donald Trump warning c…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-22/sanctions-target-iran-s-weakened-regional-network-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 197.8
+   "heat": 209.2
   },
   {
    "cat": "sector",
@@ -307,21 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 197.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 21:37",
-   "title": "MI6 Veteran Warns Against Politicizing Intelligence",
-   "summary": "Former Head of MI6 Sir Richard Dearlove joins Christina Ruffini on Bloomberg This Weekend to discuss the current state of the international intelligence community. Dearlove says th…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-22/mi6-veteran-warns-against-politicizing-intelligence-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 197.7
+   "heat": 209.0
   },
   {
    "cat": "sector",
@@ -335,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 197.4
+   "heat": 208.7
   },
   {
    "cat": "sector",
@@ -349,49 +363,35 @@
      "t": "sec"
     }
    ],
-   "heat": 197.3
+   "heat": 208.6
   },
   {
    "cat": "sector",
-   "time": "2026-08-22 15:05",
-   "title": "UBS Global Wealth Management Boosts S&P 500 Year-End Target to 8,100 on Stronger Profit Outlook - The Daily Hodl",
-   "summary": "UBS Global Wealth Management Boosts S&P 500 Year-End Target to 8,100 on Stronger Profit Outlook &nbsp;&nbsp; The Daily Hodl",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR2d4blh3SWhvTlF6c3ZMZHpaRm1wTTgyeVJPZk5oZ1A2R1dpOUMzQU1mWko2dTd3UlBYcjRGNGhNSHpwS3ZYdWEyTGI3eGJDVmNTemRBcTRScGR2elNqRkZZY1JLMkV1VXE2TFVGZ1g1YzlOQ3AwZmhSVnVkSFhweG9Gb3FZcnRQNzUycFV4cUdwRElNekt3VXdKQ1ZxcFJqMC1iYWZFOUdzLVlKNTAzUHVSUndBbEszSEwzRzV4dlpOTzgwN2fSAcsBQVVfeXFMTWQ4eGFraUN0UnJyN29nVWZ4NVhsaExrcUw0bXBTZmdqbkhJWGVGdTdQZndyZ1pGYl9kSFoxQmd4ZGZDNG5IZFg1LUxISXVzZEtmZlU3bURGS0VjdUJaVGJQbGticmlhMHU0b0FtMXZqR2pDSjl6eHFUZkVmaWNNNnJqNVF4Q1BvWi1xLTlleUdnSVEteWlwdXE2YjQxLWpNdnVMcmU1bWtzYnlnMkxZX0ZLMXVXT3BZa2JNQ1dBanJnNjJSdHpLcG9ad2M?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 196.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 20:56",
-   "title": "Iran lets Iraqi oil tankers pass Hormuz as Trump claims \"total control\"",
+   "time": "2026-08-23 06:30",
+   "title": "Alibaba plans $10 billion Hong Kong share placement to fund AI spending",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/us-iran-trade-warnings-as-new-sanctions-loom-and-hormuz-oil-flows-stall-4872251",
+     "u": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
      "t": "agg"
     }
    ],
-   "heat": 195.6
+   "heat": 208.5
   },
   {
    "cat": "sector",
-   "time": "2026-08-22 05:19",
-   "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
-   "summary": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍 &nbsp;&nbsp; 财联社",
+   "time": "2026-08-23 06:05",
+   "title": "5 big analyst AI moves: Apple upgraded on foldable iPhone push, new AI strategy",
+   "summary": "",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jaGE2dU1GbVBkNnU4dzNkVnRIYTVoQ2FBWklKQnpmcjg3djZPOFVlQldyOE14b0FPX25MMlJLdVdQWGh4VnBoUg?oc=5",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-apple-upgraded-on-foldable-iphone-push-new-ai-strategy-4872396",
+     "t": "agg"
     }
    ],
-   "heat": 195.0
+   "heat": 208.4
   },
   {
    "cat": "stock",
@@ -405,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 92.0
   },
   {
    "cat": "stock",
@@ -419,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.1
+   "heat": 74.4
   },
   {
    "cat": "stock",
@@ -433,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
@@ -447,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.4
+   "heat": 70.7
   },
   {
    "cat": "stock",
@@ -461,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 65.7
+   "heat": 68.9
   },
   {
    "cat": "stock",
@@ -475,21 +475,21 @@
      "t": "sec"
     }
    ],
-   "heat": 65.4
+   "heat": 68.7
   },
   {
    "cat": "stock",
-   "time": "2026-08-22 21:20",
-   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "time": "2026-08-23 06:09",
+   "title": "Korean retail traders chase 40% coupons after historic stock rout - report",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4872390",
+     "u": "https://www.investing.com/news/stock-market-news/korean-retail-traders-chase-40-coupons-after-historic-stock-rout--report-4872421",
      "t": "agg"
     }
    ],
-   "heat": 63.6
+   "heat": 68.4
   },
   {
    "cat": "stock",
@@ -503,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.6
+   "heat": 65.9
   },
   {
    "cat": "stock",
@@ -517,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 61.5
+   "heat": 64.8
   },
   {
    "cat": "stock",
@@ -531,7 +531,21 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 64.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-20 20:36",
+   "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Launches ‘Operation Economic Fur - Benzinga",
+   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Launches ‘Operation Economic Fur &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbUp3Wl92NktDVHhjWllEYmdwMUhaMzBTTHJCZVBXamZISld3aDJrZGFzR19yUGZHUlEzSUJvX1Y4TU1WYlVOWXRneGt4amJWTnU5RHF6bUU3UDdYQUtuSElkeG9BZG00X1MtQ093TkMxSjdoQXlyb2lzaG1ra3pCbkZUYkhzbUlZLWVrUlpPRS1VdEk1VHhDNjBxS2FfaGdrWXpPOUJseDVHblp4dmJrY3V2SGJ2c0dPR0RwYV9jaXIzVmtQN0NzVnRXOWZJejdaRWJBci1rVE45ZldKSi11RG1IcnRubmVtbnoxMVJRZmlzYmQzTEc5cmllNFM5emZOaGtCUGxhSDN3Y3hMMHE0Mg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 64.0
   },
   {
    "cat": "stock",
@@ -545,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 64.0
   },
   {
    "cat": "stock",
@@ -559,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 64.0
   },
   {
    "cat": "stock",
@@ -573,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 64.0
   },
   {
    "cat": "stock",
@@ -587,35 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-18 01:36",
-   "title": "7 Best Materials Stocks for 2026 and How to Invest - The Motley Fool",
-   "summary": "7 Best Materials Stocks for 2026 and How to Invest &nbsp;&nbsp; The Motley Fool",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDYzNDY0xuSk9PeUxZY1RRNG51N2J1ZnB3WmVXa1JMalNBZEFvR19vVmpyNHh2ZlplM05yWmJ1ZDl6bVJCVG5vYjhRVFBzNm5WMEFoSjN0WXlUUkcyaWRUU2l5Z2NmcjJzRXBkRjdXYXlIc2pwY1FPNQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 60.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-22 03:35",
-   "title": "Japanese Yen neutral as it meets resilient US data",
-   "summary": "The US Dollar (USD) is muted against the Japanese Yen (JPY). USD/JPY traded in the low 159.00s at the time of writing on Friday.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/japanese-yen-neutral-as-it-meets-resilient-us-data-202608211935",
-     "t": "sec"
-    }
-   ],
-   "heat": 42.7
+   "heat": 64.0
   },
   {
    "cat": "global",
@@ -629,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.3
+   "heat": 38.6
   },
   {
    "cat": "global",
@@ -643,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.1
+   "heat": 38.4
   },
   {
    "cat": "global",
@@ -657,7 +643,21 @@
      "t": "sec"
     }
    ],
-   "heat": 38.8
+   "heat": 38.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-22 03:35",
+   "title": "Japanese Yen neutral as it meets resilient US data",
+   "summary": "The US Dollar (USD) is muted against the Japanese Yen (JPY). USD/JPY traded in the low 159.00s at the time of writing on Friday.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/japanese-yen-neutral-as-it-meets-resilient-us-data-202608211935",
+     "t": "sec"
+    }
+   ],
+   "heat": 38.0
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.6
+   "heat": 37.8
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.4
+   "heat": 37.7
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.3
+   "heat": 34.6
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "agg"
     }
    ],
-   "heat": 34.8
+   "heat": 34.1
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 34.7
+   "heat": 34.0
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 18.4
+   "heat": 17.7
   },
   {
    "cat": "global",
@@ -755,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 16.1
+   "heat": 15.4
   },
   {
    "cat": "global",
@@ -769,7 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 15.4
+   "heat": 14.7
   },
   {
    "cat": "global",
@@ -783,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 15.1
+   "heat": 14.4
   },
   {
    "cat": "global",
@@ -797,21 +797,21 @@
      "t": "sec"
     }
    ],
-   "heat": 14.6
+   "heat": 13.9
   },
   {
    "cat": "global",
-   "time": "2026-08-22 20:18",
-   "title": "Will Bessent’s intervention mark a turning point for the yen?",
-   "summary": "",
+   "time": "2026-08-23 15:00",
+   "title": "Europe’s Luxury Giants Discern Green Shoots in Key China Market",
+   "summary": "Europe’s biggest luxury firms are turning a little more positive on the crucial Chinese market, as a fragile spending recovery takes shape in the country.",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/forex-news/will-bessents-intervention-mark-a-turning-point-for-the-yen-4872387",
-     "t": "agg"
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-23/europe-s-luxury-giants-discern-green-shoots-in-key-china-market",
+     "t": "sec"
     }
    ],
-   "heat": 11.5
+   "heat": 11.9
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.9
+   "heat": 90.2
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 85.4
+   "heat": 84.7
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 78.6
+   "heat": 77.9
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 78.1
+   "heat": 77.4
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 78.1
+   "heat": 77.3
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 61.7
+   "heat": 61.0
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.1
+   "heat": 58.4
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 57.3
+   "heat": 56.6
   },
   {
    "cat": "crypto",
@@ -937,7 +937,21 @@
      "t": "sec"
     }
    ],
-   "heat": 54.0
+   "heat": 53.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-23 07:02",
+   "title": "Bitcoin surges past $76K with overbought RSI: Live levels",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
+     "t": "agg"
+    }
+   ],
+   "heat": 52.5
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.4
+   "heat": 51.6
   },
   {
    "cat": "crypto",
@@ -965,21 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-22 19:02",
-   "title": "Bitcoin hits RSI 83.7 with MFI maxed out: Live levels",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
-     "t": "agg"
-    }
-   ],
-   "heat": 51.3
+   "heat": 51.5
   },
   {
    "cat": "crypto",
@@ -993,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.8
+   "heat": 50.1
   },
   {
    "cat": "crypto",
@@ -1007,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.7
+   "heat": 50.0
   },
   {
    "cat": "crypto",
@@ -1021,21 +1021,21 @@
      "t": "sec"
     }
    ],
-   "heat": 50.6
+   "heat": 49.9
   },
   {
    "cat": "sector",
-   "time": "2026-08-19 11:27",
-   "title": "08:57:51【中公教育成立陪伴学网络科技公司 含AI业务】",
-   "summary": "08:57:51【中公教育成立陪伴学网络科技公司 含AI业务】 &nbsp;&nbsp; 财联社",
+   "time": "2026-08-22 05:19",
+   "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
+   "summary": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QT281bzJ4VS1yZ0NuNGZ0a1FkbnNseW9tNTRwU21vazVIdWFud0ItS2ZTNlh3RUZwMmUtMlAyd25mczZheGF5aA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jaGE2dU1GbVBkNnU4dzNkVnRIYTVoQ2FBWklKQnpmcjg3djZPOFVlQldyOE14b0FPX25MMlJLdVdQWGh4VnBoUg?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 192.0
+   "heat": 206.3
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 194.2
+   "heat": 205.5
   }
  ]
 }

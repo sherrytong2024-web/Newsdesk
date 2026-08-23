@@ -1,33 +1,61 @@
 {
- "updated": "2026-08-23 11:30",
+ "updated": "2026-08-23 15:47",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-08-23 04:26",
-   "title": "Nvidia customers reportedly warned about AI-related price hikes",
-   "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 202.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-23 02:42",
-   "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
-   "summary": "Some of Nvidia Corp.’s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15% in many cases with memory…",
+   "time": "2026-08-23 15:07",
+   "title": "Humanoid Robot Beats Usain Bolt’s 100m World Record in Beijing",
+   "summary": "A humanoid robot ran 100 meters in 9.39 seconds at the opening ceremony of the second World Humanoid Robot Games in Beijing, beating Usain Bolt’s world record of 9.58 seconds, Xinh…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-23/humanoid-robot-beats-usain-bolt-s-100m-world-record-in-beijing",
      "t": "sec"
     }
    ],
-   "heat": 202.5
+   "heat": 211.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-23 14:13",
+   "title": "Alibaba Seeks $10 Billion From Share Sale for AI Expansion",
+   "summary": "Alibaba Group Holding Ltd. is seeking to raise about HK$80 billion ($10.2 billion) from a share sale, its latest move to compete for global leadership in artificial intelligence.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-23 13:55",
+   "title": "Mystery AI Model Ox Alpha Draws Developers With Free Access",
+   "summary": "A new artificial intelligence model called Ox Alpha is gaining traction among developers after appearing online for free, even as the identity of its creator remains a mystery.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-23 12:54",
+   "title": "Mexican Governor Wanted by US Over Cartel Ties Seeks Leave Again",
+   "summary": "The Mexican governor accused by the US of conspiring with a cartel and abetting drug trafficking has once again requested leave, after returning to his post on Friday.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-23/mexican-governor-wanted-by-us-over-cartel-ties-seeks-leave-again",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.5
   },
   {
    "cat": "sector",
@@ -41,21 +69,35 @@
      "t": "sec"
     }
    ],
-   "heat": 199.7
+   "heat": 211.0
   },
   {
    "cat": "sector",
-   "time": "2026-08-22 20:00",
-   "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
-   "summary": "",
+   "time": "2026-08-23 04:26",
+   "title": "Nvidia customers reportedly warned about AI-related price hikes",
+   "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/nvidia-customers-notified-about-airelated-price-hikes-above-15-bloomberg-news-reports-4872385",
-     "t": "agg"
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+     "t": "sec"
     }
    ],
-   "heat": 199.4
+   "heat": 210.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-23 02:42",
+   "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+   "summary": "Some of Nvidia Corp.’s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15% in many cases with memory…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+     "t": "sec"
+    }
+   ],
+   "heat": 209.8
   },
   {
    "cat": "sector",
@@ -69,21 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 197.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 22:23",
-   "title": "Sanctions Target Iran’s Weakened Regional Network",
-   "summary": "The US is preparing a new campaign of economic pressure on Iran after diplomacy and months of fighting failed to produce a durable settlement, with President Donald Trump warning c…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-22/sanctions-target-iran-s-weakened-regional-network-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 197.8
+   "heat": 209.2
   },
   {
    "cat": "sector",
@@ -97,21 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 197.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 21:37",
-   "title": "MI6 Veteran Warns Against Politicizing Intelligence",
-   "summary": "Former Head of MI6 Sir Richard Dearlove joins Christina Ruffini on Bloomberg This Weekend to discuss the current state of the international intelligence community. Dearlove says th…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-22/mi6-veteran-warns-against-politicizing-intelligence-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 197.7
+   "heat": 209.0
   },
   {
    "cat": "sector",
@@ -125,21 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 197.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 19:27",
-   "title": "Ukrainian drones kill several, hit warehouse of Russian online retailer Ozon",
-   "summary": "The strike is the first on Ozon, Russia's second-largest online retailer, which Ukraine sees as part of a wider campaign against economic infrastructure.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/22/ukrainian-drones-hit-warehouse-of-russian-online-retailer-ozon.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 197.3
+   "heat": 208.7
   }
  ]
 }
