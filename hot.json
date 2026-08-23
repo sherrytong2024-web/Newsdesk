@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23 05:44",
+ "updated": "2026-08-23 11:30",
  "items": [
   {
    "cat": "sector",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.8
+   "heat": 202.8
   },
   {
    "cat": "sector",
@@ -27,7 +27,21 @@
      "t": "sec"
     }
    ],
-   "heat": 203.5
+   "heat": 202.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-23 09:59",
+   "title": "New Zealand Opposition Vows to Restore RBNZ Dual Mandate",
+   "summary": "New Zealand’s main opposition Labour Party pledged to restore the central bank’s dual mandate if it wins office in the Nov. 7 election, saying price stability and sustainable emplo…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-23/new-zealand-labour-opposition-vows-to-restore-rbnz-dual-mandate",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.7
   },
   {
    "cat": "sector",
@@ -41,7 +55,7 @@
      "t": "agg"
     }
    ],
-   "heat": 200.4
+   "heat": 199.4
   },
   {
    "cat": "sector",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 198.9
+   "heat": 197.9
   },
   {
    "cat": "sector",
@@ -69,21 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 198.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 22:00",
-   "title": "Study Shows AI Hitting Paychecks, Not Payrolls",
-   "summary": "Apollo Chief Economist Torsten Slok says early labor-market data suggest AI’s first impact is appearing more in wages than employment. In a study of hundreds of occupations, Slok f…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-22/study-shows-ai-hitting-paychecks-not-payrolls",
-     "t": "sec"
-    }
-   ],
-   "heat": 198.7
+   "heat": 197.8
   },
   {
    "cat": "sector",
@@ -97,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 198.7
+   "heat": 197.7
   },
   {
    "cat": "sector",
@@ -111,21 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 198.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-22 20:00",
-   "title": "Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet",
-   "summary": "Torsten Slok found something surprising when Apollo Global Management Inc. looked at how the adoption of artificial intelligence was playing out in the labor market.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-22/apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet",
-     "t": "sec"
-    }
-   ],
-   "heat": 198.4
+   "heat": 197.7
   },
   {
    "cat": "sector",
@@ -139,7 +125,21 @@
      "t": "sec"
     }
    ],
-   "heat": 198.4
+   "heat": 197.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-22 19:27",
+   "title": "Ukrainian drones kill several, hit warehouse of Russian online retailer Ozon",
+   "summary": "The strike is the first on Ozon, Russia's second-largest online retailer, which Ukraine sees as part of a wider campaign against economic infrastructure.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/22/ukrainian-drones-hit-warehouse-of-russian-online-retailer-ozon.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 197.3
   }
  ]
 }
