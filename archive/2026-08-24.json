@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24 03:01",
+ "updated": "2026-08-24 05:42",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.6
+   "heat": 58.1
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.2
+   "heat": 56.0
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "agg"
     }
    ],
-   "heat": 52.3
+   "heat": 55.8
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.1
+   "heat": 50.6
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.0
+   "heat": 50.5
   },
   {
    "cat": "macro",
@@ -83,21 +83,21 @@
      "t": "sec"
     }
    ],
-   "heat": 50.8
+   "heat": 50.4
   },
   {
    "cat": "macro",
-   "time": "2026-08-23 13:57",
-   "title": "DeepSeek Ends Weekend Peak Pricing for API Users From Today",
-   "summary": "DeepSeek will stop distinguishing between peak and off-peak API pricing on weekends from Aug. 23, with usage on Saturdays and Sundays charged at off-peak rates, the company said in…",
+   "time": "2026-08-23 22:47",
+   "title": "Fed Faces High Stakes Test at Jackson Hole",
+   "summary": "Fed Chair Kevin Warsh heads into Jackson Hole under heightened scrutiny after the Treasury’s intervention in the bond market raised questions about the traditional boundaries betwe…",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-23/deepseek-ends-weekend-peak-pricing-for-api-users-from-today",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-23/fed-faces-high-stakes-test-at-jackson-hole-video",
      "t": "sec"
     }
    ],
-   "heat": 45.8
+   "heat": 46.8
   },
   {
    "cat": "macro",
@@ -115,17 +115,17 @@
   },
   {
    "cat": "macro",
-   "time": "2026-08-23 14:30",
-   "title": "Iran says new sanctions threatened by ’desperate’ US will fail",
-   "summary": "",
+   "time": "2026-08-24 04:00",
+   "title": "Tariff Refunds Leave CFOs With Billions to Spend (ELF, WMT, LOW, HD, TGT, XRX)",
+   "summary": "Finance chiefs have opted to reduce prices, boost margins or lower debt levels. Plus, JPX’s Hiroki Kawai on the surge in Japanese retail trading.",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/commodities-news/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-4872444",
-     "t": "agg"
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-23/tariff-refunds-leave-cfos-with-billions-to-spend-elf-wmt-low-hd-tgt-xrx",
+     "t": "sec"
     }
    ],
-   "heat": 43.9
+   "heat": 35.7
   },
   {
    "cat": "macro",
@@ -139,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.8
+   "heat": 35.4
   },
   {
    "cat": "macro",
@@ -153,35 +153,21 @@
      "t": "sec"
     }
    ],
-   "heat": 43.5
+   "heat": 35.1
   },
   {
    "cat": "macro",
-   "time": "2026-08-23 22:47",
-   "title": "Fed Faces High Stakes Test at Jackson Hole",
-   "summary": "Fed Chair Kevin Warsh heads into Jackson Hole under heightened scrutiny after the Treasury’s intervention in the bond market raised questions about the traditional boundaries betwe…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-23/fed-faces-high-stakes-test-at-jackson-hole-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-22 22:00",
-   "title": "Airbnb's new fee change frustrates hosts—what to know before renting out your home",
-   "summary": "A new Airbnb fee change is one of many costs and considerations that can affect whether running a short-term rental makes money.",
+   "time": "2026-08-22 23:08",
+   "title": "Rising yields rattled the market, but we’re sticking with our favorite AI and retail stocks",
+   "summary": "Stocks took their cue from the bond market this week.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html",
+     "u": "https://www.cnbc.com/2026/08/22/rising-yields-rattled-the-market-but-were-sticking-with-our-favorite-ai-and-retail-stocks.html",
      "t": "sec"
     }
    ],
-   "heat": 43.2
+   "heat": 34.9
   },
   {
    "cat": "macro",
@@ -195,7 +181,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.6
+   "heat": 34.1
   },
   {
    "cat": "macro",
@@ -209,7 +195,21 @@
      "t": "sec"
     }
    ],
-   "heat": 41.9
+   "heat": 33.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-23 13:57",
+   "title": "DeepSeek Ends Weekend Peak Pricing for API Users From Today",
+   "summary": "DeepSeek will stop distinguishing between peak and off-peak API pricing on weekends from Aug. 23, with usage on Saturdays and Sundays charged at off-peak rates, the company said in…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-23/deepseek-ends-weekend-peak-pricing-for-api-users-from-today",
+     "t": "sec"
+    }
+   ],
+   "heat": 33.4
   },
   {
    "cat": "sector",
@@ -223,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 224.2
+   "heat": 231.8
   },
   {
    "cat": "sector",
@@ -237,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.4
+   "heat": 231.0
   },
   {
    "cat": "sector",
@@ -251,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.4
+   "heat": 231.0
   },
   {
    "cat": "sector",
@@ -265,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.3
+   "heat": 230.9
   },
   {
    "cat": "sector",
@@ -279,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.2
+   "heat": 230.8
   },
   {
    "cat": "sector",
@@ -293,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.2
+   "heat": 230.8
   },
   {
    "cat": "sector",
@@ -307,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.2
+   "heat": 230.7
   },
   {
    "cat": "sector",
@@ -321,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.2
+   "heat": 230.7
   },
   {
    "cat": "sector",
@@ -335,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.1
+   "heat": 230.7
   },
   {
    "cat": "sector",
@@ -349,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.0
+   "heat": 230.6
   },
   {
    "cat": "sector",
@@ -363,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 222.8
+   "heat": 230.4
   },
   {
    "cat": "sector",
@@ -377,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 222.8
+   "heat": 230.4
   },
   {
    "cat": "sector",
@@ -391,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 222.4
+   "heat": 230.0
   },
   {
    "cat": "stock",
@@ -405,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.0
+   "heat": 98.5
   },
   {
    "cat": "stock",
@@ -419,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 88.0
+   "heat": 92.0
   },
   {
    "cat": "stock",
@@ -433,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.7
+   "heat": 91.2
   },
   {
    "cat": "stock",
@@ -447,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -461,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -475,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -489,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 78.8
+   "heat": 82.4
   },
   {
    "cat": "stock",
@@ -503,21 +503,35 @@
      "t": "sec"
     }
    ],
-   "heat": 78.7
+   "heat": 82.3
   },
   {
    "cat": "stock",
-   "time": "2026-08-23 14:22",
-   "title": "UBS downgrades Klarna stock rating on guidance cut, executive departures",
+   "time": "2026-08-23 21:20",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/ubs-downgrades-klarna-stock-rating-on-guidance-cut-executive-departures-93CH-4872462",
+     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4872476",
      "t": "agg"
     }
    ],
-   "heat": 75.9
+   "heat": 80.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-23 20:34",
+   "title": "Japan’s stock market setup looks similar to late 2023. Here’s what it means",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/japans-stock-market-setup-looks-similar-to-late-2023-heres-what-it-means-4872475",
+     "t": "agg"
+    }
+   ],
+   "heat": 80.5
   },
   {
    "cat": "stock",
@@ -531,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.8
+   "heat": 78.4
   },
   {
    "cat": "stock",
@@ -545,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 72.0
+   "heat": 76.0
   },
   {
    "cat": "stock",
@@ -559,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 72.0
+   "heat": 76.0
   },
   {
    "cat": "stock",
@@ -573,35 +587,21 @@
      "t": "sec"
     }
    ],
-   "heat": 72.0
+   "heat": 76.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-19 11:17",
-   "title": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus - ",
-   "summary": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus &nbsp;&nbsp; TradingView",
+   "time": "2026-08-20 05:37",
+   "title": "Billionaire investor warns a 2027 recession could punish stocks - thestreet.com",
+   "summary": "Billionaire investor warns a 2027 recession could punish stocks &nbsp;&nbsp; thestreet.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNN190SF9waVpETWluSXVXa3lGVnB0Q0xqblFuZDV5a1RDblRqZEZKMU1HMFIxZXlueUhHalNvb2VndjNMLVBRVzhGNTduYWxzX2Qza2FldTV3X2lTMHN1LXlPZjgyY00yYWhiOUNuUFV1c0piYlFWT2xmLTlIVUZTWTY3VWRHaW5rUVY1VGxybE44WkdtZlE0QXVfdzI1S0xiTndITlVKVlFNNUJQay1xVFZnLXdNeVhXRHhCUGNmOHN6b05mZzVYZmtOUWxRM3ktekFZTDFyQVUwNExzaXliLXEwaG9WZDFYRl9hc3pRRDBBRGMwd19lb0JMR2sxbDVp?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXJQcE5INDgzdm5kUVhCVDc2MEh6aGlLMWZLTjBtdG00U09qNGhQeExIZklrYW9RekIwYi1GX1Nva0kwMHhNcmVtWmRLbGl2clBMR1pxOVQtOEFkZ096NDItZ2JBR3F5WjdIS3JFckc3aDZwdlBESEJJWkIwSldkMzRTcUVQRTAxVDM5bEtmWk4wLV9KSGthcVY4WDNMQQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 72.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-19 01:50",
-   "title": "Stock indices no longer reflect equity reality - The Economist",
-   "summary": "Stock indices no longer reflect equity reality &nbsp;&nbsp; The Economist",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSXh5SmFEc2l3eHhBQnM3akNsNXFPZHptV1JJS1A4OTVtV2M2SGZzMDUyNVFuQ1JHZnJzU25DYy1yRFJWNTh2NlVQSWlxbWdHZFRsTkhHQTR3cXp6V29MSHdTMTNmNXp6am5CcVRoZ1VibWY0b1dKaGUtY1FCV25CMXdnVGJmRlJDSUVkOEhsbmV0Q19uSmU1NEVJZ0VNcVJ0amoza3hGWG4?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 72.0
+   "heat": 76.0
   },
   {
    "cat": "global",
@@ -615,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.9
+   "heat": 46.5
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.7
+   "heat": 40.3
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.6
+   "heat": 40.1
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.2
+   "heat": 40.0
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.1
+   "heat": 40.0
   },
   {
    "cat": "global",
@@ -745,17 +745,17 @@
   },
   {
    "cat": "global",
-   "time": "2026-08-23 20:30",
-   "title": "US Push to Isolate Iran Runs Into China",
-   "summary": "The Trump administration is preparing additional measures to isolate Iran’s economy, but further pressure could mean targeting China, the dominant buyer of Iranian oil. Joining Blo…",
+   "time": "2026-08-23 19:02",
+   "title": "Bitcoin coils in bull flag near $77K: Live levels",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-23/us-push-to-isolate-iran-runs-into-china-video",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
+     "t": "agg"
     }
    ],
-   "heat": 18.9
+   "heat": 16.2
   },
   {
    "cat": "global",
@@ -766,6 +766,20 @@
     {
      "n": "FXStreet(外汇)",
      "u": "https://www.fxstreet.com/news/gold-hits-three-month-peak-above-4-600-as-middle-east-risks-fuel-rally-202608211756",
+     "t": "sec"
+    }
+   ],
+   "heat": 16.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-21 22:23",
+   "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
+   "summary": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4UjR6SG1nNWV4MGxtZVduNDduRlBtanRXRFVHby13dFJDeHR2Q2NaM1FPa1NOemRkbFJUajd6OEhTZXhwTDFWRg?oc=5",
      "t": "sec"
     }
    ],
@@ -800,20 +814,6 @@
    "heat": 14.0
   },
   {
-   "cat": "global",
-   "time": "2026-08-21 18:23",
-   "title": "What to Watch as Capital Rotates Back to Gold?",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/what-to-watch-as-capital-rotates-back-to-gold-200686274",
-     "t": "agg"
-    }
-   ],
-   "heat": 14.0
-  },
-  {
    "cat": "crypto",
    "time": "2026-08-22 04:48",
    "title": "Here’s what happened in crypto today",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 88.3
+   "heat": 84.0
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.4
+   "heat": 83.0
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 82.8
+   "heat": 78.4
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 76.0
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 76.0
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 76.0
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.9
+   "heat": 67.5
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.3
+   "heat": 66.9
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.5
+   "heat": 64.1
   },
   {
    "cat": "crypto",
@@ -951,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.4
+   "heat": 62.9
   },
   {
    "cat": "crypto",
@@ -965,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.1
+   "heat": 62.6
   },
   {
    "cat": "crypto",
@@ -1025,17 +1025,17 @@
   },
   {
    "cat": "sector",
-   "time": "2026-08-22 05:19",
-   "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
-   "summary": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍 &nbsp;&nbsp; 财联社",
+   "time": "2026-08-19 11:27",
+   "title": "08:57:51【中公教育成立陪伴学网络科技公司 含AI业务】",
+   "summary": "08:57:51【中公教育成立陪伴学网络科技公司 含AI业务】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jaGE2dU1GbVBkNnU4dzNkVnRIYTVoQ2FBWklKQnpmcjg3djZPOFVlQldyOE14b0FPX25MMlJLdVdQWGh4VnBoUg?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QT281bzJ4VS1yZ0NuNGZ0a1FkbnNseW9tNTRwU21vazVIdWFud0ItS2ZTNlh3RUZwMmUtMlAyd25mczZheGF5aA?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 216.4
+   "heat": 224.0
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 216.0
+   "heat": 224.0
   }
  ]
 }
