@@ -1,6 +1,20 @@
 {
- "updated": "2026-08-24 05:42",
+ "updated": "2026-08-24 11:32",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-24 08:28",
+   "title": "Nvidia Notifies Customers About AI-Related Price Hikes",
+   "summary": "Nvidia Corp.'s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15% in many cases with memory chip co…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-notifies-customers-about-ai-related-price-hikes-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.5
+  },
   {
    "cat": "sector",
    "time": "2026-08-23 04:26",
@@ -13,77 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-23 23:41",
-   "title": "S&P DJI retains Egypt's emerging market status - Economy - Business - Ahram Online",
-   "summary": "S&P DJI retains Egypt's emerging market status - Economy - Business &nbsp;&nbsp; Ahram Online",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PRnBBeXpsRkVpVndkUVlaZFZZbGVaLVlMT0pkb29YdlNBdkVQYi1FS0UtV294TUdUWHpVVG9wZjZfQmRpaFIwXzlHSlF1NExwVldWeEJPb0Q?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-23 23:27",
-   "title": "Bloomberg This Weekend: AI and the US Open (Podcast)",
-   "summary": "Source: Bloomberg, 42:07",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-23/bloomberg-this-weekend-ai-and-the-us-open-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-23 22:57",
-   "title": "AI Takes Center Court at the US Open",
-   "summary": "IBM and the US Open are expanding their use of AI to give fans real-time match insights, including personalized updates, an AI assistant and win probabilities that change after eve…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-23/ai-takes-center-court-at-the-us-open-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 230.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-23 22:29",
-   "title": "Rep. McCormick Warns Against Slowing AI Buildout",
-   "summary": "Representative Rich McCormick is on Bloomberg This Weekend with David Gura and Christina Ruffini and says the US should continue expanding data centers to support its leadership in…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-23/rep-mccormick-warns-against-slowing-ai-buildout-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 230.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-23 22:14",
-   "title": "Data Center Expansion Tests Voter Patience",
-   "summary": "The rapid expansion of AI data centers is becoming a political issue in Ohio as residents raise concerns about higher electricity bills, tax incentives and secrecy around local dev…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-23/data-center-expansion-tests-voter-patience-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 230.8
+   "heat": 210.8
   },
   {
    "cat": "sector",
@@ -97,49 +41,105 @@
      "t": "sec"
     }
    ],
-   "heat": 230.7
+   "heat": 209.7
   },
   {
    "cat": "sector",
-   "time": "2026-08-23 22:00",
-   "title": "Meta Trial: How Social Media Lawsuits Threaten Big Tech",
-   "summary": "A flood of lawsuits against social media giants claim that by engineering their platforms to be hard to resist, the companies are causing serious harm to young users. In the first …",
+   "time": "2026-08-24 11:27",
+   "title": "Airbus Bets AI Hardware Will Drive Air Cargo Demand",
+   "summary": "Airbus Bets AI Hardware Will Drive Air Cargo Demand &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-23/meta-trial-how-social-media-lawsuits-threaten-big-tech",
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2RVRTE1WE1ObjN5NzJkR2tUMzdiUlpKZkhEYlIzWlNWcG1HQmNMRlVkc1dIOTl0V2FJZzJSZzRaMnNRdElZV0xmTWg5aE9lSTZtbGs4VVBYZUxoR1dIanI1anNXbmlYRV9KaXJkY0k0a0ktT0c5eG9pMV92RXNRdGFKSzVwSGNnOThJN3N6TmlmVFQxN0swT0pjNTFJRVJUdU9GLTAtQUY4dw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 230.7
+   "heat": 208.0
   },
   {
    "cat": "sector",
-   "time": "2026-08-23 21:48",
-   "title": "Alliance Tested as Trump Pulls Out of South Korea Drill",
-   "summary": "The US and South Korea sharply curtailed their annual military exercises after President Donald Trump ordered them scaled back, surprising Seoul as North Korea expands its nuclear …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-23/alliance-tested-as-trump-pulls-out-of-south-korea-drill-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 230.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-23 21:03",
-   "title": "Harry, Meghan Head Back to Britain After Six Years",
-   "summary": "Prince Harry and Meghan Markle plan to return to Britain with Prince Archie and Princess Lilibet after six years in the US, with their children set to begin school there in Septemb…",
+   "time": "2026-08-24 10:35",
+   "title": "India Equity Deals Hit Record While Secondary Market Struggles",
+   "summary": "Domestic mutual funds, insurers and retail investors have all been active buyers.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-23/harry-meghan-head-back-to-britain-after-six-years-video",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-08-24/india-equity-deals-hit-record-while-secondary-market-struggles",
      "t": "sec"
     }
    ],
-   "heat": 230.6
+   "heat": 207.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-24 10:32",
+   "title": "China’s $119 Billion Answer to Sagging Investment Is Coming Late",
+   "summary": "A key funding program announced by China nearly half a year ago to shore up investment has yet to get off the ground, according to Caitong Securities Co., a delay that could blunt …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-24/china-s-119-billion-answer-to-sagging-investment-is-coming-late",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-24 10:25",
+   "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
+   "summary": "The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the six-month war.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-24 09:50",
+   "title": "Pimco Expects Elevated Term Premium, Says Bonds Are Attractive",
+   "summary": "The extra compensation investors demand to hold long-dated government bonds is likely to remain elevated barring an unexpected economic downturn, presenting opportunities to buy at…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-24/pimco-expects-elevated-term-premium-says-bonds-are-attractive",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-24 09:00",
+   "title": "CX Daily: For Chinese EVs in Europe, Success Hinges on Holding Their Value",
+   "summary": "CX Daily: For Chinese EVs in Europe, Success Hinges on Holding Their Value &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVEV1X0xSQ3RuOGJ4amFBb3lBUVJpQ25JbkxOOHJydG9mbHktVVpfVkdnZnAwbmN6NU5POFZERFMyWDY5YWRPOURBMHVzQWdWQ00xN3NtMVF2LWd4cHFzMWxFQ1d4cGxYc1YzQzdSSDY1TEF1aXhlZmhXalFVRVJUaWZiRDRiLXV0TS1NNTRWQ3dFSW93eURmWV9YS3pxdURZeVY3WUZXOExsZHZFWnh1dGxyRndzMmphckVjS000MThMWjJKNmc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-24 08:59",
+   "title": "Partners Group Exits Bubble-Tea Brand Gong Cha After Bain Buyout",
+   "summary": "Partners Group will exit its private credit investment in Gong cha after Bain Capital bought the Taiwanese bubble-tea brand from TA Associates this month.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-24/partners-group-exits-bubble-tea-brand-gong-cha-after-bain-buyout",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.6
   }
  ]
 }
