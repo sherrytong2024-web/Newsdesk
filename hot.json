@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25 03:18",
+ "updated": "2026-08-25 05:57",
  "items": [
   {
    "cat": "sector",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 191.9
+   "heat": 203.4
   },
   {
    "cat": "sector",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 191.9
+   "heat": 203.4
   },
   {
    "cat": "sector",
@@ -41,35 +41,91 @@
      "t": "sec"
     }
    ],
-   "heat": 191.7
+   "heat": 203.2
   },
   {
    "cat": "sector",
-   "time": "2026-08-24 22:12",
-   "title": "Taiwan Indicts Nvidia Manager Following Chip Smuggling Probe",
-   "summary": "Taiwanese prosecutors indicted a senior Nvidia Corp. manager as part of a group that allegedly smuggled advanced AI chips into China, according to people familiar with the matter, …",
+   "time": "2026-08-25 05:38",
+   "title": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
+   "summary": "The unsigned order lifted an injunction covering 23 states and Washington, D.C.; the court’s three liberal justices dissented.",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-24/taiwan-indicts-nvidia-manager-following-chip-smuggling-probe",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
      "t": "sec"
     }
    ],
-   "heat": 191.1
+   "heat": 195.9
   },
   {
    "cat": "sector",
-   "time": "2026-08-25 02:39",
-   "title": "USDA to Reopen Two New Mexico Ports to Mexican Cattle",
-   "summary": "Agriculture Secretary Brooke Rollins said the US will reopen two additional ports to cattle shipments from Mexico in 30-day increments after imports restarted at an Arizona port.",
+   "time": "2026-08-25 05:32",
+   "title": "Bilt CEO, Equinox Exec. Chairman on New Partnership",
+   "summary": "The segment features a discussion with Ankur Jain, CEO of BILT, and Harvey Spevak, Equinox Group Executive Chairman, about the newly launched exclusive partnership between Bilt, a …",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-24/usda-to-reopen-two-new-mexico-ports-to-mexican-cattle",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-24/bilt-ceo-equinox-exec-chairman-on-new-partnership-video",
      "t": "sec"
     }
    ],
-   "heat": 183.9
+   "heat": 195.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-25 05:15",
+   "title": "US to Isolate Iran, SCOTUS Allows Trump's Mail Ballot Curbs",
+   "summary": "Source: Bloomberg, 5:16",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-24/us-to-isolate-iran-scotus-allows-trump-s-mail-ballot-curbs",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-25 05:08",
+   "title": "Bloomberg Businessweek Daily: Economic \"D-Day\" (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-24/bloomberg-businessweek-daily-economic-d-day-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-25 03:57",
+   "title": "Nuclear Power Demand Driven by AI, Hyperscaler Companies, Says TerraPower CEO",
+   "summary": "TerraPower CEO Chris Levesque said that hyperscalers are driving demand for nuclear power companies, as his company is set to announce a deal with a data center customer for a new …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-24/nuclear-power-demand-driven-by-ai-says-terrapower-ceo-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-25 03:44",
+   "title": "Bloomberg Businessweek Daily: Trump National Bank (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-24/bloomberg-businessweek-daily-trump-national-bank-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.6
   },
   {
    "cat": "sector",
@@ -83,63 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 183.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-25 01:23",
-   "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
-   "summary": "California AG Rob Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 183.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-25 01:21",
-   "title": "Broadcom Credit Risk Soars on Mega AI Debt Financing Backstops",
-   "summary": "Bond traders have ramped up measures of credit risk associated with Broadcom Inc. as it backstops mega financing packages for the buildout of artificial intelligence.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-24/broadcom-credit-risk-soars-on-mega-ai-debt-financing-backstops",
-     "t": "sec"
-    }
-   ],
-   "heat": 183.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-25 00:47",
-   "title": "Bloomberg Intelligence: Alibaba Raises $10 Billion (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-24/bloomberg-intelligence-alibaba-raises-10-billion-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 183.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-25 00:37",
-   "title": "Trump's Family Joins the Sprint to Get a National Bank Charter",
-   "summary": "Donald Trump's family has won preliminary approval to start a national bank, riding a wave of deregulation under the Trump administration. Bloomberg's Paige Smith joins Bloomberg I…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-24/trump-s-family-joins-a-rush-to-start-new-banks-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 183.6
+   "heat": 195.4
   }
  ]
 }
