@@ -1,19 +1,75 @@
 {
- "updated": "2026-08-26 01:04",
+ "updated": "2026-08-26 03:19",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-08-25 22:00",
-   "title": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests",
-   "summary": "Jalapeno chip will let OpenAI customers choose models that offer lower cost or faster answers",
+   "time": "2026-08-26 03:01",
+   "title": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?",
+   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-25/openai-claims-its-new-chips-can-outperform-nvidia-processors-in-tests",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/25/openai-says-its-broadcom-chip-is-a-big-advance-what-about-nvidia.html",
      "t": "sec"
     }
    ],
-   "heat": 215.5
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-26 02:46",
+   "title": "Nvidia Earnings, Apple’s AI Macs and OpenAI’s Chip Push | Bloomberg Tech 8/25/2026",
+   "summary": "Bloomberg’s Ed Ludlow breaks down what to expect from Nvidia's earnings report on Wednesday, as the stock is on track to snap its seven-session losing streak. Plus, Apple announces…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-25/bloomberg-tech-8-25-2026-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-26 01:14",
+   "title": "OpenAI Says New Jalapeno Chips Outperformed Nvidia in Testing",
+   "summary": "OpenAI says the new Jalapeno chips performed better than Nvidia Corp.’s current lineup during testing, leading in two categories: the amount of AI work it could handle per unit of …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-25/openai-says-jalapeno-chips-outperformed-nvidia-in-tests-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-26 02:05",
+   "title": "Franklin’s Araghi Says Nvidia Holders Want Map, Not Just a Beat",
+   "summary": "Franklin Templeton’s Sara Araghi said Nvidia Corp. needs to go beyond a headline earnings beat and provide investors with concrete detail on how it plans to deploy capital and sust…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-25/franklin-s-araghi-says-nvidia-holders-want-map-not-just-a-beat",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-26 03:15",
+   "title": "Bloomberg Tech: AI Chip Race Heats Up (Podcast)",
+   "summary": "Source: Bloomberg, 44:15",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-25/bloomberg-tech-ai-chip-race-heats-up-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 232.0
   },
   {
    "cat": "sector",
@@ -27,119 +83,63 @@
      "t": "sec"
     }
    ],
-   "heat": 215.3
+   "heat": 230.9
   },
   {
    "cat": "sector",
-   "time": "2026-08-26 01:00",
-   "title": "Former Google Researchers Want to Keep Humans in AI Driver’s Seat",
-   "summary": "A new nonprofit founded by former Google researchers wants to keep humans at the center of AI development to ensure that the powerful technology is safe and less likely to escape i…",
+   "time": "2026-08-25 12:38",
+   "title": "China’s Advanced Chip Supply to Surge 46% Annually Through 2035, Goldman Says",
+   "summary": "China’s Advanced Chip Supply to Surge 46% Annually Through 2035, Goldman Says &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbVg4VkN2NEE3T1BqU3NMQTdiY0MtSzZOZGpxRHdINUdXYmNUNHBtbnNKM3J5cGpoM1lvRHVBUTFlcXJkQjBYT2dEM2hfM0QwdFVWSmE3TFBDeVVCSU1RVGlnU3Z0dHIxeGhuV3Zncl8zcDdTenNfRFIxUXhBNjlQTURZUlBXTHl4R2J3YWFXV19LVHd5SW02TmxyeU84eEZSX1hxUldYMXo0MGtIYVZnb2s1LXcyU3hpRzk1LS1xX0hWd3RkVmluVQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 229.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-26 03:00",
+   "title": "Are you richer than you think? How to find out—and what experts say to do if you are",
+   "summary": "States are holding billions of dollars in unclaimed property, and some of it may be yours.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/25/how-to-find-missing-money-and-what-to-do-if-you-get-it.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-26 02:54",
+   "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
+   "summary": "Iran and Oman on Tuesday discussed a proposal to establish a jointly managed shipping route through the Strait of Hormuz.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-26 02:43",
+   "title": "Gatik Raises $200 Million to Scale Driverless Trucks",
+   "summary": "Autonomous trucking startup Gatik has raised $200 million in its largest funding round yet as it moves from developing its technology to scaling commercial operations. CEO and co-f…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-25/former-google-researchers-want-to-keep-humans-in-ai-driver-s-seat",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-25/gatik-raises-200-million-to-scale-driverless-trucks-video",
      "t": "sec"
     }
    ],
-   "heat": 212.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-26 01:00",
-   "title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
-   "summary": "HHS plans to name two deputy commissioners for technology and drugs, said two sources familiar with the matter.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 212.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-26 00:46",
-   "title": "Trump goes all in on Sen. Darline Graham in South Carolina, as primary losses pile up",
-   "summary": "Sen. Darline Graham squares off Tuesday against Rep. Ralph Norman in a bid to win the GOP nomination for the a South Carolina Senate seat.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-26 00:30",
-   "title": "United Expands Long-Haul Network With 10 International Cities Routes",
-   "summary": "United Airlines Holdings Inc. will add destinations in Europe and Asia to its network next year, using Airbus SE's new long-range narrow-body planes. The carrier will fly the A321X…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-25/united-expands-long-haul-network-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-26 00:23",
-   "title": "Elite Private Schools Offer Aid to Families Making $500,000",
-   "summary": "Private schools in the US are increasing financial aid and advertising discounts to attract students, as soaring tuition and a declining population of school-age children intensify…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-25/elite-private-schools-offer-aid-to-families-making-500k-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-26 00:22",
-   "title": "In Ukraine this week, Andy Burnham witnessed the horrors of war. Returning home,",
-   "summary": "The Prime Minister’s first step on to the international stage quickly turned back to matters domestic",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-25/in-ukraine-this-week-andy-burnham-witnessed-the-horrors-of-war-returning-home",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-26 00:15",
-   "title": "World Liberty Financial CEO Zach Witkoff says success of stablecoin silences charge of Trump cronyism",
-   "summary": "Zach Witkoff, CEO of Trump-linked World Liberty Financial, said conflict-of-interest concerns related to the Trump family are misplaced.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/25/world-liberty-financial-says-stablecoin-success-refutes-trump-cronyism-charge.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-26 00:02",
-   "title": "Bloomberg Surveillance 8/25/2026",
-   "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions inves…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-25/bloomberg-surveillance-8-25-2026-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.8
+   "heat": 227.9
   }
  ]
 }
