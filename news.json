@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29 14:03",
+ "updated": "2026-08-29 17:03",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 126.7
+   "heat": 110.2
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 117.9
+   "heat": 101.4
   },
   {
    "cat": "macro",
@@ -41,21 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 117.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-29 05:18",
-   "title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/will-warshs-jackson-hole-speech-be-a-course-correction-or-detour-4880496",
-     "t": "agg"
-    }
-   ],
-   "heat": 116.5
+   "heat": 100.6
   },
   {
    "cat": "macro",
@@ -69,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 116.5
+   "heat": 100.0
   },
   {
    "cat": "macro",
@@ -83,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 102.6
+   "heat": 90.1
   },
   {
    "cat": "macro",
@@ -97,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 101.7
+   "heat": 89.2
   },
   {
    "cat": "macro",
@@ -111,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 98.3
+   "heat": 85.8
   },
   {
    "cat": "macro",
@@ -125,21 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-28 17:01",
-   "title": "Gold Faces Rate-Hike Risk as Jackson Hole and Inflation Take Focus",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-faces-ratehike-risk-as-jackson-hole-and-inflation-take-focus-200686724",
-     "t": "agg"
-    }
-   ],
-   "heat": 78.5
+   "heat": 84.0
   },
   {
    "cat": "macro",
@@ -153,21 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-29 09:50",
-   "title": "Trump Teleprompter Pays $170,000 to End Insider Trading Probe",
-   "summary": "A White House teleprompter operator will pay more than $172,000 to end a federal regulator’s probe into alleged well-timed prediction market bets about President Donald Trump’s spe…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-29/trump-teleprompter-pays-170-000-to-end-insider-trading-probe",
-     "t": "sec"
-    }
-   ],
-   "heat": 75.3
+   "heat": 67.1
   },
   {
    "cat": "macro",
@@ -181,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.5
+   "heat": 66.0
   },
   {
    "cat": "macro",
@@ -195,7 +153,21 @@
      "t": "sec"
     }
    ],
-   "heat": 74.5
+   "heat": 66.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-28 17:01",
+   "title": "Gold Faces Rate-Hike Risk as Jackson Hole and Inflation Take Focus",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-faces-ratehike-risk-as-jackson-hole-and-inflation-take-focus-200686724",
+     "t": "agg"
+    }
+   ],
+   "heat": 66.0
   },
   {
    "cat": "macro",
@@ -209,7 +181,35 @@
      "t": "sec"
     }
    ],
-   "heat": 74.1
+   "heat": 65.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-29 00:54",
+   "title": "Walmart settles U.S. government's opioid lawsuit",
+   "summary": "In a 2020 complaint, the Justice Department accused Arkansas-based Walmart of repeatedly violating the federal Controlled Substances Act since 2013.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/28/walmart-settles-us-governments-opioid-lawsuit.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 65.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-28 19:23",
+   "title": "Gold Awaits Jackson Hole: All Eyes on Fed Policy Signals",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/gold-awaits-jackson-hole-all-eyes-on-fed-policy-signals-200686740",
+     "t": "agg"
+    }
+   ],
+   "heat": 62.4
   },
   {
    "cat": "sector",
@@ -223,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.6
+   "heat": 211.1
   },
   {
    "cat": "sector",
@@ -237,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.5
+   "heat": 211.0
   },
   {
    "cat": "sector",
@@ -251,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.4
+   "heat": 210.9
   },
   {
    "cat": "sector",
@@ -265,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.4
+   "heat": 210.9
   },
   {
    "cat": "sector",
@@ -279,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.4
+   "heat": 210.9
   },
   {
    "cat": "sector",
@@ -293,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.9
+   "heat": 210.4
   },
   {
    "cat": "sector",
@@ -307,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.6
+   "heat": 210.1
   },
   {
    "cat": "sector",
@@ -321,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.6
+   "heat": 210.1
   },
   {
    "cat": "sector",
@@ -335,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.5
+   "heat": 210.0
   },
   {
    "cat": "sector",
@@ -349,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.4
+   "heat": 209.9
   },
   {
    "cat": "sector",
@@ -363,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.3
+   "heat": 209.8
   },
   {
    "cat": "sector",
@@ -377,7 +377,21 @@
      "t": "sec"
     }
    ],
-   "heat": 206.2
+   "heat": 209.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 01:47",
+   "title": "China Removes Zhang Youxia and Liu Zhenli From Top Military Posts",
+   "summary": "China Removes Zhang Youxia and Liu Zhenli From Top Military Posts &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXFtTmhMU2Y3Z3VLRjZzbTFNdndrOWttY2hxRVhDbXNraVVITWN4V2c2YUFza3BCa21HX3FjdWI3RV92ZHVYTUQ0cERla0tLWW9iYmRSaEZ0V2xNek5wSW5DZkpWem00OFUtZHpMSWNSdTNENk1KWnVabUpkdXZLcFVDSmF5RkIxTXVvZHZiSzd4SW8wZkl2OWxCc05ON0RZYTdna09aMVlhVkxPcEJmRDRKQUd0Ul85dFpGRw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 209.5
   },
   {
    "cat": "sector",
@@ -391,35 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 205.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-28 23:42",
-   "title": "China Overhauls Real Estate Credit Rules in Shift Away From Presale Model",
-   "summary": "China Overhauls Real Estate Credit Rules in Shift Away From Presale Model &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVS1lZENfeVFNOTMtZk9WT1M4VWVFTTNvdXBtbjRmYUU5Zldqd3ZKNkZha21ua0JZbXUzVmRhU3BPdUszbDVpVUV3dVp5eFh0SGphRmdEc1RGd1k2ZUp0LVIwQzdUbXZPODh6cE1UTDhlbnMxMElmM2FDcFVZRDl3dzlmX3Iwa1JSVGFZWkwyaE92THQ2S2dyNTllSzYtZmg0bE9hZ1VLODdqbXVRQmJBc0hKQ0V0QndrUHhuN2tXUUZuaXhBVUpn?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 205.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-29 08:00",
-   "title": "Indian Bank Stocks Show Widest Exchange Price Gap in Decades",
-   "summary": "Shares of some Indian banks closed at sharply different prices on the country’s two largest exchanges on Thursday, the latest sign of dislocation under the new closing auction syst…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-29/indian-bank-stocks-show-widest-exchange-price-gap-in-decades",
-     "t": "sec"
-    }
-   ],
-   "heat": 115.0
+   "heat": 209.2
   },
   {
    "cat": "stock",
@@ -433,7 +419,21 @@
      "t": "sec"
     }
    ],
-   "heat": 114.4
+   "heat": 117.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-29 08:00",
+   "title": "Indian Bank Stocks Show Widest Exchange Price Gap in Decades",
+   "summary": "Shares of some Indian banks closed at sharply different prices on the country’s two largest exchanges on Thursday, the latest sign of dislocation under the new closing auction syst…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-29/indian-bank-stocks-show-widest-exchange-price-gap-in-decades",
+     "t": "sec"
+    }
+   ],
+   "heat": 114.5
   },
   {
    "cat": "stock",
@@ -443,11 +443,11 @@
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNanVDaUJ3dGYtc0RLWkxGTlRfMW5telZIM2piSG03bEZBdy04Tm5NNTNXZmh5YUpHTWxzVnc4YXRmMHplVnh1U3kxcUk1YUlOVzdrLVpSb3JEVnM1aUxmbG9xZnBDeUo1LW5Zdl8zYUt2ME10QXN6UVdCRVY4OXVXd0EyODJ4djJQNGVScWZGWWQwcmozdGtOMGRWVmEyWUo5ME1zYWxiSUNJNWYxd192aDJHQXB2eUlOUXNjOHJOYnEwcktHZGFxZ05vZzdvdGJwaGwwM0Z1RjfSAdgBQVVfeXFMTWp1Q2lCd3RmLXNES1pMRk5UXzFubXpWSDNqYkhtN2xGQXctOE5uTTUzV2ZoeWFKR01sc1Z3OGF0ZjB6ZVZ4dVN5MXFJNWFJTlc3ay1aUm9yRFZzNWlMZmxvcWZwQ3lKNS1uWXZfM2FLdjBNdEFzelFXQkVWODl1V3dBMjgyeHYyUDRlUnFmRllkMHJqM3RrTjBkVlZhMllKOTBNc2FsYklDSTVmMXdfdmgyR0FwdnlJTlFzYzhyTmJxMHJLR2RhcWdOb2c3b3RicGhsMDNGdUY3?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ2ZOcm1IZ2JTNW4xcHo0Q2VzUnE2bWp4T09wNDg2b2ZEdXh1OEI1N1VWOTliZ3Bqa0lnQ2RqWk82dnE4R3RNaVR5NXNWM3ZyUGc3a0laQUh3SUdpeHdzdE9oV0FWN010ZDJONk1MWHIwMEU3R19uSnBhM2tUcXZGMGFFX1lYVnVJYmQ3U210dDZzZlZpOXVlUUZNYkFaNVRzcEUzR05kQVdJejFrMDdMbjlsRzY5Qm4xZE9QazlJNUhGRmJrMi1veE9UX2RYNm1RUVBj0gHYAUFVX3lxTE1qdUNpQnd0Zi1zREtaTEZOVF8xbm16VkgzamJIbTdsRkF3LThObk01M1dmaHlhSkdNbHNWdzhhdGYwemVWeHVTeTFxSTVhSU5XN2stWlJvckRWczVpTGZsb3FmcEN5SjUtbll2XzNhS3YwTXRBc3pRV0JFVjg5dVd3QTI4Mnh2MlA0ZVJxZkZZZDByajN0a04wZFZWYTJZSjkwTXNhbGJJQ0k1ZjF3X3ZoMkdBcHZ5SU5Rc2M4ck5icTByS0dkYXFnTm9nN290YnBobDAzRnVGNw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 108.0
+   "heat": 112.0
   },
   {
    "cat": "stock",
@@ -461,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 108.0
+   "heat": 112.0
   },
   {
    "cat": "stock",
@@ -475,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 108.0
+   "heat": 112.0
   },
   {
    "cat": "stock",
@@ -489,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 98.5
+   "heat": 102.0
   },
   {
    "cat": "stock",
@@ -503,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 98.0
+   "heat": 101.5
   },
   {
    "cat": "stock",
@@ -517,7 +517,35 @@
      "t": "sec"
     }
    ],
-   "heat": 97.0
+   "heat": 100.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-29 06:46",
+   "title": "Freeport-McMoRan director Lydia Kennard sells $300,470 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/freeportmcmoran-director-lydia-kennard-sells-300470-in-stock-93CH-4881949",
+     "t": "agg"
+    }
+   ],
+   "heat": 100.3
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-29 06:31",
+   "title": "Globalstar director Benjamin Wolff sells $1.64 million in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/globalstar-director-benjamin-wolff-sells-164-million-in-stock-93CH-4881948",
+     "t": "agg"
+    }
+   ],
+   "heat": 100.2
   },
   {
    "cat": "stock",
@@ -531,21 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-29 05:20",
-   "title": "Jobs report, Broadcom results pose next hurdles for stock market rally",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4880854",
-     "t": "agg"
-    }
-   ],
-   "heat": 96.5
+   "heat": 100.1
   },
   {
    "cat": "stock",
@@ -559,21 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-29 04:31",
-   "title": "Airbnb CSO Nathan Blecharczyk sells $3.7 million in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/airbnb-cso-nathan-blecharczyk-sells-37-million-in-stock-93CH-4881936",
-     "t": "agg"
-    }
-   ],
-   "heat": 96.4
+   "heat": 100.0
   },
   {
    "cat": "stock",
@@ -587,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.0
+   "heat": 97.5
   },
   {
    "cat": "stock",
@@ -601,7 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 93.0
+   "heat": 96.5
   },
   {
    "cat": "stock",
@@ -615,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 96.0
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.5
+   "heat": 53.0
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.9
+   "heat": 38.4
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.4
+   "heat": 37.9
   },
   {
    "cat": "global",
@@ -671,7 +671,21 @@
      "t": "sec"
     }
    ],
-   "heat": 33.7
+   "heat": 37.2
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-28 23:54",
+   "title": "Yen Passes 160 Per Dollar to Hit Weakest Level in a Month",
+   "summary": "The yen moved past 160 per US dollar to its weakest level in a month, extending a slide that’s erased more than half of its intervention-fueled gains.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-28/yen-weakens-past-160-per-dollar-eroding-intervention-gain",
+     "t": "sec"
+    }
+   ],
+   "heat": 37.1
   },
   {
    "cat": "global",
@@ -685,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.3
+   "heat": 34.8
   },
   {
    "cat": "global",
@@ -699,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.0
+   "heat": 34.5
   },
   {
    "cat": "global",
@@ -713,7 +727,21 @@
      "t": "agg"
     }
    ],
-   "heat": 30.8
+   "heat": 34.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-29 07:23",
+   "title": "China’s massive oil reserves give Beijing leverage during Iran war",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/chinas-massive-oil-reserves-give-beijing-leverage-during-iran-war-4881952",
+     "t": "agg"
+    }
+   ],
+   "heat": 32.4
   },
   {
    "cat": "global",
@@ -727,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 28.0
+   "heat": 32.0
   },
   {
    "cat": "global",
@@ -741,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 28.0
+   "heat": 32.0
   },
   {
    "cat": "global",
@@ -755,21 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 26.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-29 04:01",
-   "title": "Chinese Yuan: Undervaluation and export gains questioned – Commerzbank",
-   "summary": "Commerzbank’s Volkmar Baur challenges recent internal analysis on CNY undervaluation and exports, arguing that China’s exchange-rate management and gold purchases point to delibera…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/chinese-yuan-undervaluation-and-export-gains-questioned-commerzbank-202608282001",
-     "t": "sec"
-    }
-   ],
-   "heat": 26.3
+   "heat": 30.3
   },
   {
    "cat": "global",
@@ -783,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 26.2
+   "heat": 29.7
   },
   {
    "cat": "global",
@@ -797,7 +811,7 @@
      "t": "agg"
     }
    ],
-   "heat": 26.2
+   "heat": 29.7
   },
   {
    "cat": "global",
@@ -811,21 +825,7 @@
      "t": "agg"
     }
    ],
-   "heat": 26.1
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-28 19:16",
-   "title": "Brent Reclaims $90 as Bulls Target $95, Gold Awaits Warsh",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/brent-reclaims-90-as-bulls-target-95-gold-awaits-warsh-200686744",
-     "t": "agg"
-    }
-   ],
-   "heat": 22.9
+   "heat": 29.6
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.4
+   "heat": 69.9
   },
   {
    "cat": "crypto",
@@ -853,21 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 65.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-28 19:22",
-   "title": "Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO",
-   "summary": "Bitcoin profitability data produced a bear-market reversal signal that was also present at the start of 2023.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-bear-market-over-as-price-metric-copies-2023-recovery-cryptoquant-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 56.9
+   "heat": 69.0
   },
   {
    "cat": "crypto",
@@ -881,35 +867,21 @@
      "t": "sec"
     }
    ],
-   "heat": 51.4
+   "heat": 50.9
   },
   {
    "cat": "crypto",
-   "time": "2026-08-28 20:30",
-   "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
-   "summary": "The issuer of the $4 billion USDe token said it expects real-world asset perpetuals to eclipse crypto derivatives in its backing within 12 to 24 months.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
-     "t": "sec"
-    }
-   ],
-   "heat": 49.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-29 00:17",
-   "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
-   "summary": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by AI computing infrastructure.",
+   "time": "2026-08-29 14:47",
+   "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
+   "summary": "US spot Bitcoin ETFs posted $201.8 million in net outflows Friday, led by ARK 21Shares, as total fund assets slipped back below $100 billion.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 45.7
+   "heat": 43.6
   },
   {
    "cat": "crypto",
@@ -923,7 +895,21 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 43.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-29 00:17",
+   "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
+   "summary": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by AI computing infrastructure.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 41.2
   },
   {
    "cat": "crypto",
@@ -937,21 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-28 21:16",
-   "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
-   "summary": "Polish Olympic Committee president Radosław Piesiewicz faces charges as prosecutors investigate his ties to collapsed cryptocurrency exchange Zondacrypto.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 37.2
+   "heat": 41.1
   },
   {
    "cat": "crypto",
@@ -965,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.9
+   "heat": 40.4
   },
   {
    "cat": "crypto",
@@ -979,49 +951,49 @@
      "t": "sec"
     }
    ],
-   "heat": 36.9
+   "heat": 40.4
   },
   {
    "cat": "crypto",
-   "time": "2026-08-28 19:03",
-   "title": "Bullish backs USD.AI with $100 million in financing to drive GPU-backed loans",
-   "summary": "Cryptocurrency platform Bullish is extending a $100 million debt facility to USD.AI to finance GPU-backed loans for artificial intelligence infrastructure.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing",
-     "t": "sec"
-    }
-   ],
-   "heat": 36.8
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-29 04:45",
-   "title": "Reform UK plays down crypto ties as it courts business, diplomats",
+   "time": "2026-08-29 07:02",
+   "title": "Bitcoin stalls at $77,465 with bearish momentum: Live levels",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/reform-uk-plays-down-crypto-ties-as-it-courts-business-diplomats-4881938",
+     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-below-78500-resistance-live-hourly-levels-93CH-4872743",
      "t": "agg"
     }
    ],
-   "heat": 36.4
+   "heat": 40.3
   },
   {
    "cat": "crypto",
-   "time": "2026-08-29 07:12",
-   "title": "Wall Street Week | Debt & Consequences, Defying Fiscal Gravity, Hollywood Gets Democratized",
-   "summary": "This week, Chrystia Freeland talks with the former finance ministers of the Netherlands and Germany about what it takes to bring spending under control. And, are US deficits now a …",
+   "time": "2026-08-28 20:30",
+   "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
+   "summary": "The issuer of the $4 billion USDe token said it expects real-world asset perpetuals to eclipse crypto derivatives in its backing within 12 to 24 months.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-28/wall-street-week-defying-fiscal-gravity-video",
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
      "t": "sec"
     }
    ],
-   "heat": 26.9
+   "heat": 36.6
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-28 21:16",
+   "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
+   "summary": "Polish Olympic Committee president Radosław Piesiewicz faces charges as prosecutors investigate his ties to collapsed cryptocurrency exchange Zondacrypto.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 28.7
   },
   {
    "cat": "crypto",
@@ -1035,7 +1007,35 @@
      "t": "sec"
     }
    ],
-   "heat": 25.0
+   "heat": 28.5
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-28 19:03",
+   "title": "Bullish backs USD.AI with $100 million in financing to drive GPU-backed loans",
+   "summary": "Cryptocurrency platform Bullish is extending a $100 million debt facility to USD.AI to finance GPU-backed loans for artificial intelligence infrastructure.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing",
+     "t": "sec"
+    }
+   ],
+   "heat": 28.3
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-29 16:01",
+   "title": "Stablecoins not credible for payments at scale, BIS chief says",
+   "summary": "BIS chief Pablo Hernández de Cos said stablecoins lack credibility for payments at scale, while a new FSI study highlights sharp differences in issuer rules.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.8
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 200.0
+   "heat": 204.0
   }
  ]
 }
