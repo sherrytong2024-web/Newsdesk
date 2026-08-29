@@ -1,6 +1,48 @@
 {
- "updated": "2026-08-30 02:04",
+ "updated": "2026-08-30 06:56",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-30 03:55",
+   "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+   "summary": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-30 03:25",
+   "title": "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
+   "summary": "Ukraine President Volodymyr Zelenskyy vowed to punish suspected negligence in the second such incident in two months.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/29/russian-strike-on-kyiv-area-warehouse-causes-detonation-killing-27.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-30 03:06",
+   "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+   "summary": "OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX’s $60 billion acquisition of the coding startup.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.4
+  },
   {
    "cat": "sector",
    "time": "2026-08-29 21:41",
@@ -13,21 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 21:25",
-   "title": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
-   "summary": "Salesforce, CrowdStrike, and Nvidia all faced major tests with investors and crushed expectations.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.2
+   "heat": 210.5
   },
   {
    "cat": "sector",
@@ -41,7 +69,21 @@
      "t": "sec"
     }
    ],
-   "heat": 223.2
+   "heat": 210.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 21:00",
+   "title": "Op-ed: Salesforce just revealed the next battleground in AI — and it's not the models",
+   "summary": "For the past year, markets have vaporized roughly $2 trillion in software value by asking the wrong question about AI.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/29/op-ed-salesforce-revealed-next-battleground-in-ai-its-not-models.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 210.3
   },
   {
    "cat": "sector",
@@ -55,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.1
+   "heat": 210.3
   },
   {
    "cat": "sector",
@@ -69,21 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 20:16",
-   "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
-   "summary": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.0
+   "heat": 210.2
   },
   {
    "cat": "sector",
@@ -97,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 222.9
+   "heat": 210.1
   },
   {
    "cat": "sector",
@@ -111,35 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 222.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 11:39",
-   "title": "Chinese Chipmaker CXMT Sues Pentagon to Get Off US Blacklist",
-   "summary": "CXMT Corp. filed a lawsuit against the US Department of Defense, seeking removal from a blacklist that identified the Chinese chipmaker as a supporter of the Communist country’s mi…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-29/chinese-chipmaker-cxmt-sues-pentagon-to-get-off-us-blacklist",
-     "t": "sec"
-    }
-   ],
-   "heat": 221.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 10:47",
-   "title": "US-Venezuela Oil Deal, Warsh Aims at 2%, More",
-   "summary": "Source: Bloomberg, 5:12",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-29/us-venezuela-oil-deal-warsh-aims-at-2-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 221.5
+   "heat": 209.9
   }
  ]
 }
