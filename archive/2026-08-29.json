@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29 11:03",
+ "updated": "2026-08-29 14:03",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 119.2
+   "heat": 126.7
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 110.4
+   "heat": 117.9
   },
   {
    "cat": "macro",
@@ -41,7 +41,21 @@
      "t": "sec"
     }
    ],
-   "heat": 109.6
+   "heat": 117.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-29 05:18",
+   "title": "Warsh signals Fed may need to hike rates if above-target inflation persists",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/will-warshs-jackson-hole-speech-be-a-course-correction-or-detour-4880496",
+     "t": "agg"
+    }
+   ],
+   "heat": 116.5
   },
   {
    "cat": "macro",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 109.0
+   "heat": 116.5
   },
   {
    "cat": "macro",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 103.1
+   "heat": 102.6
   },
   {
    "cat": "macro",
@@ -83,7 +97,21 @@
      "t": "sec"
     }
    ],
-   "heat": 102.2
+   "heat": 101.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-29 04:08",
+   "title": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
+   "summary": "Investors assessed Federal Reserve Chair Kevin Warsh's hawkish message in his keynote address at Jackson Hole.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 98.3
   },
   {
    "cat": "macro",
@@ -101,17 +129,31 @@
   },
   {
    "cat": "macro",
-   "time": "2026-08-29 04:08",
-   "title": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
-   "summary": "Investors assessed Federal Reserve Chair Kevin Warsh's hawkish message in his keynote address at Jackson Hole.",
+   "time": "2026-08-28 17:01",
+   "title": "Gold Faces Rate-Hike Risk as Jackson Hole and Inflation Take Focus",
+   "summary": "",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-faces-ratehike-risk-as-jackson-hole-and-inflation-take-focus-200686724",
+     "t": "agg"
+    }
+   ],
+   "heat": 78.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-29 11:34",
+   "title": "US-Venezuela Oil Deal, Fed Chair Warsh Aims at 2%, More",
+   "summary": "Source: Bloomberg, 4:53",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-29/us-venezuela-oil-deal-fed-chair-warsh-aims-at-2-more",
      "t": "sec"
     }
    ],
-   "heat": 94.8
+   "heat": 75.6
   },
   {
    "cat": "macro",
@@ -125,21 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-29 05:44",
-   "title": "S&P 500 Edges Lower to 7,711.76 as US-Iran Strait of Hormuz Uncertainty and Fed Hawkishness Cap Tech Rally - BBN Times",
-   "summary": "S&P 500 Edges Lower to 7,711.76 as US-Iran Strait of Hormuz Uncertainty and Fed Hawkishness Cap Tech Rally &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ0pBOWpLeGp3X3FnTENxeEJCYUdpYzRHNXVsM2c2dlQ1RThPOC10cUgtSkg1OFN0QldYcEVhMXJuY2JESHVmdFU1RkZ3VFc3eWJkSGE2V0QxQ25oaXJTSm92T0l5VXhjRUI0VS0tamd4NDFhcFdWUEJYczdUU245bE9NMkVmNnZ3NXNGVmo5ejFZZlY4Q2pJeVVXQTdTLTB0LXFtUWRMTHpFbGptdnB6clpmV0xrRkZGYTBTY1ZlU3BwNXBZSmlnaUpuNThyZkxJYVR0R3p2T0s?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 75.1
+   "heat": 75.3
   },
   {
    "cat": "macro",
@@ -153,7 +181,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.0
+   "heat": 74.5
   },
   {
    "cat": "macro",
@@ -167,7 +195,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.0
+   "heat": 74.5
   },
   {
    "cat": "macro",
@@ -181,35 +209,21 @@
      "t": "sec"
     }
    ],
-   "heat": 74.6
+   "heat": 74.1
   },
   {
-   "cat": "macro",
-   "time": "2026-08-29 01:52",
-   "title": "Jackson Hole, Anthropic’s Court Win and PayPal Deal Collapse | Bloomberg Tech 8/28/2026",
-   "summary": "Bloomberg’s Tim Stenovec zeroes in on Jackson Hole after Federal Reserve Chairman Kevin Warsh delivered his first address at the Symposium. Plus, a US judge rules that the Trump ad…",
+   "cat": "sector",
+   "time": "2026-08-29 11:39",
+   "title": "Chinese Chipmaker CXMT Sues Pentagon to Get Off US Blacklist",
+   "summary": "CXMT Corp. filed a lawsuit against the US Department of Defense, seeking removal from a blacklist that identified the Chinese chipmaker as a supporter of the Communist country’s mi…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-28/bloomberg-tech-8-28-2026-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-29/chinese-chipmaker-cxmt-sues-pentagon-to-get-off-us-blacklist",
      "t": "sec"
     }
    ],
-   "heat": 74.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-29 00:54",
-   "title": "Walmart settles U.S. government's opioid lawsuit",
-   "summary": "In a 2020 complaint, the Justice Department accused Arkansas-based Walmart of repeatedly violating the federal Controlled Substances Act since 2013.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/28/walmart-settles-us-governments-opioid-lawsuit.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 74.3
+   "heat": 207.6
   },
   {
    "cat": "sector",
@@ -223,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 208.0
+   "heat": 207.5
   },
   {
    "cat": "sector",
@@ -237,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.9
+   "heat": 207.4
   },
   {
    "cat": "sector",
@@ -251,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.9
+   "heat": 207.4
   },
   {
    "cat": "sector",
@@ -265,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.9
+   "heat": 207.4
   },
   {
    "cat": "sector",
@@ -279,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.4
+   "heat": 206.9
   },
   {
    "cat": "sector",
@@ -293,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.1
+   "heat": 206.6
   },
   {
    "cat": "sector",
@@ -307,21 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 05:19",
-   "title": "Billionaire Gilinski, GeoPark Said to Be Near Venezuela Oil Deal",
-   "summary": "Colombia’s richest family is nearing a Venezuela oil deal in conjunction with GeoPark Ltd, a Bogota-based oil company in which it is the largest shareholder with a 28% stake, accor…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-28/billionaire-gilinski-geopark-said-to-be-near-venezuela-oil-deal",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.0
+   "heat": 206.6
   },
   {
    "cat": "sector",
@@ -335,21 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 05:00",
-   "title": "The Science Behind The Markets | Masters in Business with David Booth",
-   "summary": "Barry speaks with David Booth, founder and chairman at Dimensional Fund Advisors and author of Stay Calm. They discuss his time at the University of Chicago Booth School of Busines…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-28/masters-in-business-with-david-booth-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.0
+   "heat": 206.5
   },
   {
    "cat": "sector",
@@ -363,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.9
+   "heat": 206.4
   },
   {
    "cat": "sector",
@@ -377,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.8
+   "heat": 206.3
   },
   {
    "cat": "sector",
@@ -391,7 +377,21 @@
      "t": "sec"
     }
    ],
-   "heat": 206.7
+   "heat": 206.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 00:10",
+   "title": "China Raises Threshold for New-Home Presales Under New National Standard",
+   "summary": "China Raises Threshold for New-Home Presales Under New National Standard &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX191eEM1ckZBbTc0dktBNW1fQ1JoSW9QZjF5bW1KckJmN2hELXotY3dvREg1YnZfZ05PLVdyeldubkV3ekdTQk1pcEF6ZV8yQkV5MkY3UXRZTkIwUVl0SGN1VndsTk9pVmhPQjUtbnVqQ1ZHcW9hX1hNNWlMUkRuSHc0U2pSTUdxR29WNWRQNXFvU1ZSWm5ZN2ZuWVBrOE93czZPMHZvYWRYd1BDRktrSEZfTW82Z01Gbm1ZUWhoYmcwZ0VMbVE?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 205.7
   },
   {
    "cat": "sector",
@@ -405,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.1
+   "heat": 205.6
   },
   {
    "cat": "stock",
@@ -419,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 131.5
+   "heat": 115.0
   },
   {
    "cat": "stock",
@@ -433,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 126.9
+   "heat": 114.4
   },
   {
    "cat": "stock",
@@ -447,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 120.0
+   "heat": 108.0
   },
   {
    "cat": "stock",
@@ -461,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 120.0
+   "heat": 108.0
   },
   {
    "cat": "stock",
@@ -475,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 120.0
+   "heat": 108.0
   },
   {
    "cat": "stock",
@@ -489,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 115.0
+   "heat": 98.5
   },
   {
    "cat": "stock",
@@ -503,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 114.5
+   "heat": 98.0
   },
   {
    "cat": "stock",
@@ -517,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 113.5
+   "heat": 97.0
   },
   {
    "cat": "stock",
@@ -531,7 +531,21 @@
      "t": "sec"
     }
    ],
-   "heat": 113.1
+   "heat": 96.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-29 05:20",
+   "title": "Jobs report, Broadcom results pose next hurdles for stock market rally",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4880854",
+     "t": "agg"
+    }
+   ],
+   "heat": 96.5
   },
   {
    "cat": "stock",
@@ -545,77 +559,63 @@
      "t": "sec"
     }
    ],
-   "heat": 113.0
+   "heat": 96.5
   },
   {
    "cat": "stock",
-   "time": "2026-08-29 02:01",
-   "title": "CoreWeave GC Kristen McVeety sells $184,854 in stock",
+   "time": "2026-08-29 04:31",
+   "title": "Airbnb CSO Nathan Blecharczyk sells $3.7 million in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/coreweave-gc-kristen-mcveety-sells-184854-in-stock-93CH-4881921",
+     "u": "https://www.investing.com/news/insider-trading-news/airbnb-cso-nathan-blecharczyk-sells-37-million-in-stock-93CH-4881936",
      "t": "agg"
     }
    ],
-   "heat": 112.5
+   "heat": 96.4
   },
   {
    "cat": "stock",
-   "time": "2026-08-29 02:01",
-   "title": "Optimum Communications director Neil S. Subin buys $2.45m in stock",
-   "summary": "",
+   "time": "2026-08-28 01:49",
+   "title": "US Stocks Open Mixed: S&P 500 and Nasdaq Rise While Dow Slips - CryptoRank",
+   "summary": "US Stocks Open Mixed: S&P 500 and Nasdaq Rise While Dow Slips &nbsp;&nbsp; CryptoRank",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-s-subin-buys-245m-in-stock-93CH-4881920",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmI3SzdoYnEwMU5FRkI0LU1DUWZOUl9OMEd2bFJFdVJEd05oWThhSnc2aEUzRF9IMjRPTF9RTmVVWEVxLTQxNFI1c3h1RExQZ2NtaEpuY0xnQ09Rb1p3OWVFTHhKdFVubjlpZ29IS2xDekp6ZU9taUFSYk1VUVRUNjJ2TUk?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 112.5
+   "heat": 94.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-29 02:01",
-   "title": "Natera president John Fesko sells $2.1m in company stock",
-   "summary": "",
+   "time": "2026-08-27 20:14",
+   "title": "Low-wage S&P 500 companies spent $718 billion on stock buybacks since 2019, report finds - NationofChange",
+   "summary": "Low-wage S&P 500 companies spent $718 billion on stock buybacks since 2019, report finds &nbsp;&nbsp; NationofChange",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/natera-president-john-fesko-sells-21m-in-company-stock-93CH-4881919",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcEJEXzJMbTZRanVfeHhIQ2dXTy00MWItUEZpOVVWblRfU2p6ZG9HZm9uS0xPTGVTNlU2TjRWczhFbzNFdk1DX3FicHQ4UlVDS3R5QzFqUGNCVjktMzJhSGN6cmsxSEpvMzVjbVF0TkVhZ3lEMHN5NjVFS252MFNEVUxLNzF2b2RLUkJKTi1hajRKV24xRXBIbWJmcGdfaHBYc2w4WVY1Y3FJSmdFV2NqRnlLMU1nbERFTDVjOXBXT0dpMkpBcVNZ?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 112.5
+   "heat": 93.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-29 01:45",
-   "title": "TeraWulf CEO Paul Prager sells $2.3m in WULF stock",
-   "summary": "",
+   "time": "2026-08-27 02:34",
+   "title": "7 Best International Stock Funds to Buy for 2026 - US News Money",
+   "summary": "7 Best International Stock Funds to Buy for 2026 &nbsp;&nbsp; US News Money",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/terawulf-ceo-paul-prager-sells-23m-in-wulf-stock-93CH-4881916",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjE5aXBRVmFqb09sdHFIRV90LV9wQWl0bDFsY1JmNFVGUnpiM1lDejA3QllJeUk4V3BIZnE0Ry1yUnJFWkFqcDB3UkJxS0w5bmp0dWhRd0FMeTBIWklZMVBsWjdFSXR6Z0dHaWZBQzJuU2hsZzZSQ3FMdFRVbHZPMldFbGRMc2VSWWY4Vy1RWFY3cVJiRWc?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 112.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-29 01:45",
-   "title": "Precigen director Jeffrey Kindler sells $1.38m in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/precigen-director-jeffrey-kindler-sells-138m-in-stock-93CH-4881915",
-     "t": "agg"
-    }
-   ],
-   "heat": 112.4
+   "heat": 92.0
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.0
+   "heat": 49.5
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.4
+   "heat": 34.9
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.9
+   "heat": 34.4
   },
   {
    "cat": "global",
@@ -671,21 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-28 23:54",
-   "title": "Yen Passes 160 Per Dollar to Hit Weakest Level in a Month",
-   "summary": "The yen moved past 160 per US dollar to its weakest level in a month, extending a slide that’s erased more than half of its intervention-fueled gains.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-28/yen-weakens-past-160-per-dollar-eroding-intervention-gain",
-     "t": "sec"
-    }
-   ],
-   "heat": 38.1
+   "heat": 33.7
   },
   {
    "cat": "global",
@@ -699,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.8
+   "heat": 31.3
   },
   {
    "cat": "global",
@@ -713,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.5
+   "heat": 31.0
   },
   {
    "cat": "global",
@@ -727,21 +713,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-29 05:04",
-   "title": "Warsh Vows to Hit 2% Target, Pentagon In Massive Oil Deal Talks",
-   "summary": "Source: Bloomberg, 5:50",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-28/warsh-vows-to-hit-2-target-pentagon-in-massive-oil-deal-talks",
-     "t": "sec"
-    }
-   ],
-   "heat": 35.0
+   "heat": 30.8
   },
   {
    "cat": "global",
@@ -755,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 28.0
   },
   {
    "cat": "global",
@@ -769,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 28.0
   },
   {
    "cat": "global",
@@ -783,7 +755,21 @@
      "t": "agg"
     }
    ],
-   "heat": 31.3
+   "heat": 26.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-29 04:01",
+   "title": "Chinese Yuan: Undervaluation and export gains questioned – Commerzbank",
+   "summary": "Commerzbank’s Volkmar Baur challenges recent internal analysis on CNY undervaluation and exports, arguing that China’s exchange-rate management and gold purchases point to delibera…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/chinese-yuan-undervaluation-and-export-gains-questioned-commerzbank-202608282001",
+     "t": "sec"
+    }
+   ],
+   "heat": 26.3
   },
   {
    "cat": "global",
@@ -797,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 30.7
+   "heat": 26.2
   },
   {
    "cat": "global",
@@ -811,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 30.7
+   "heat": 26.2
   },
   {
    "cat": "global",
@@ -825,7 +811,21 @@
      "t": "agg"
     }
    ],
-   "heat": 30.6
+   "heat": 26.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-28 19:16",
+   "title": "Brent Reclaims $90 as Bulls Target $95, Gold Awaits Warsh",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/brent-reclaims-90-as-bulls-target-95-gold-awaits-warsh-200686744",
+     "t": "agg"
+    }
+   ],
+   "heat": 22.9
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.9
+   "heat": 66.4
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.0
+   "heat": 65.5
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 53.4
+   "heat": 56.9
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.9
+   "heat": 51.4
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.6
+   "heat": 49.1
   },
   {
    "cat": "crypto",
@@ -909,7 +909,21 @@
      "t": "sec"
     }
    ],
-   "heat": 42.2
+   "heat": 45.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-29 12:30",
+   "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+   "summary": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.7
   },
   {
    "cat": "crypto",
@@ -923,49 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-28 19:43",
-   "title": "Bitcoin is outperforming stocks and correlating with gold just when it matters most",
-   "summary": "Your day-ahead look for Aug. 28, 2026",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/daybook-us/2026/08/28/bitcoin-is-outperforming-stocks-and-correlating-with-gold-just-when-it-matters-most",
-     "t": "sec"
-    }
-   ],
-   "heat": 37.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-28 19:36",
-   "title": "Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in",
-   "summary": "The French Bitcoin treasury firm’s private placement drew support from Adam Back and TOBAM, with warrant exercises potentially unlocking another $158 million.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-blockstreams-adam-back-chipping-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 37.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-28 18:37",
-   "title": "Bitcoin hits highest level in 3 months before pulling back as altcoins consolidate",
-   "summary": "BTC briefly touched $81,455 overnight, its highest since May 15 as Nasdaq futures slipped and gold extended gains heading into the weekend.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/08/28/bitcoin-hits-highest-level-in-3-months-before-pulling-back-as-altcoins-consolidate",
-     "t": "sec"
-    }
-   ],
-   "heat": 37.3
+   "heat": 37.6
   },
   {
    "cat": "crypto",
@@ -979,7 +951,35 @@
      "t": "sec"
     }
    ],
-   "heat": 33.7
+   "heat": 37.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-28 19:43",
+   "title": "Bitcoin is outperforming stocks and correlating with gold just when it matters most",
+   "summary": "Your day-ahead look for Aug. 28, 2026",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/daybook-us/2026/08/28/bitcoin-is-outperforming-stocks-and-correlating-with-gold-just-when-it-matters-most",
+     "t": "sec"
+    }
+   ],
+   "heat": 36.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-28 19:36",
+   "title": "Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in",
+   "summary": "The French Bitcoin treasury firm’s private placement drew support from Adam Back and TOBAM, with warrant exercises potentially unlocking another $158 million.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-blockstreams-adam-back-chipping-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 36.9
   },
   {
    "cat": "crypto",
@@ -993,7 +993,21 @@
      "t": "sec"
     }
    ],
-   "heat": 33.3
+   "heat": 36.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-29 04:45",
+   "title": "Reform UK plays down crypto ties as it courts business, diplomats",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/reform-uk-plays-down-crypto-ties-as-it-courts-business-diplomats-4881938",
+     "t": "agg"
+    }
+   ],
+   "heat": 36.4
   },
   {
    "cat": "crypto",
@@ -1007,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.4
+   "heat": 26.9
   },
   {
    "cat": "crypto",
@@ -1021,21 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 25.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-29 01:46",
-   "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
-   "summary": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming football season.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 22.5
+   "heat": 25.0
   },
   {
    "cat": "sector",
