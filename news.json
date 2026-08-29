@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29 17:03",
+ "updated": "2026-08-29 20:03",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 110.2
+   "heat": 109.7
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 101.4
+   "heat": 100.9
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 100.6
+   "heat": 100.1
   },
   {
    "cat": "macro",
@@ -55,7 +55,21 @@
      "t": "sec"
     }
    ],
-   "heat": 100.0
+   "heat": 99.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-29 07:21",
+   "title": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight",
+   "summary": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight &nbsp;&nbsp; Reuters",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 89.9
   },
   {
    "cat": "macro",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.1
+   "heat": 89.6
   },
   {
    "cat": "macro",
@@ -83,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 89.2
+   "heat": 88.7
   },
   {
    "cat": "macro",
@@ -97,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 85.8
+   "heat": 85.3
   },
   {
    "cat": "macro",
@@ -107,53 +121,11 @@
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXROTTd5a0ZucVhSZmZicGxyX211U0ZYX19lX1YyOFJpVTRlYWNEcHlHTGhkMjk5S050ejVmSk1NSGwxdDl0aXNwbVI3WXZNeU9yeGJWa3h1SVpJd1dOakZ3RHpCSGdBa0J0TF9yRm54SThPZTZqUVRLSkNMQ1RKa3ItQmd1ZlRKS0hJTQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEZacGh5d3kyZXRWOXpMelFNUHRmQml1bHVEbnN4UDZUSFlPclg3SHp3WGhzWjZzRmxfc3REdkt3Rnl3eVYzYjY4MXZuQTdTRzUzT1RHRFpReFMweWNfODNNLVJLVWVZSGxOdTNZSE11MmhkSWo4azFfQWY4WlF0VUJKRmdpNHlNdWp3Sg?oc=5",
      "t": "sec"
     }
    ],
    "heat": 84.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-29 11:34",
-   "title": "US-Venezuela Oil Deal, Fed Chair Warsh Aims at 2%, More",
-   "summary": "Source: Bloomberg, 4:53",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-29/us-venezuela-oil-deal-fed-chair-warsh-aims-at-2-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 67.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-29 05:10",
-   "title": "Odd Lots: What’s Behind the Classic Jackson Hole Photo Op?",
-   "summary": "For years, the Fed chair would give an address in Jackson Hole, Wyoming, and Wall Street and news organizations wouldn't have a recent photo of the chair to accompany stories. In s…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-28/odd-lots-behind-the-classic-jackson-hole-photo-op-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 66.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-29 04:56",
-   "title": "Trump loses bid to transfer New York hush money case to federal court",
-   "summary": "Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in the White House.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 66.0
   },
   {
    "cat": "macro",
@@ -167,17 +139,31 @@
      "t": "agg"
     }
    ],
-   "heat": 66.0
+   "heat": 69.5
   },
   {
    "cat": "macro",
-   "time": "2026-08-29 02:38",
-   "title": "California Sues Over Trump Deal to Cancel Wind Project Lease",
-   "summary": "California sued the Trump administration and Golden State Wind over the federal government’s deal with the company to cancel an offshore wind project lease, alleging the transactio…",
+   "time": "2026-08-29 11:34",
+   "title": "US-Venezuela Oil Deal, Fed Chair Warsh Aims at 2%, More",
+   "summary": "Source: Bloomberg, 4:53",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-28/california-sues-over-trump-deal-to-cancel-wind-project-lease",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-29/us-venezuela-oil-deal-fed-chair-warsh-aims-at-2-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 66.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-29 05:44",
+   "title": "S&P 500 Edges Lower to 7,711.76 as US-Iran Strait of Hormuz Uncertainty and Fed Hawkishness Cap Tech Rally - BBN Times",
+   "summary": "S&P 500 Edges Lower to 7,711.76 as US-Iran Strait of Hormuz Uncertainty and Fed Hawkishness Cap Tech Rally &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ0pBOWpLeGp3X3FnTENxeEJCYUdpYzRHNXVsM2c2dlQ1RThPOC10cUgtSkg1OFN0QldYcEVhMXJuY2JESHVmdFU1RkZ3VFc3eWJkSGE2V0QxQ25oaXJTSm92T0l5VXhjRUI0VS0tamd4NDFhcFdWUEJYczdUU245bE9NMkVmNnZ3NXNGVmo5ejFZZlY4Q2pJeVVXQTdTLTB0LXFtUWRMTHpFbGptdnB6clpmV0xrRkZGYTBTY1ZlU3BwNXBZSmlnaUpuNThyZkxJYVR0R3p2T0s?oc=5",
      "t": "sec"
     }
    ],
@@ -185,31 +171,73 @@
   },
   {
    "cat": "macro",
-   "time": "2026-08-29 00:54",
-   "title": "Walmart settles U.S. government's opioid lawsuit",
-   "summary": "In a 2020 complaint, the Justice Department accused Arkansas-based Walmart of repeatedly violating the federal Controlled Substances Act since 2013.",
+   "time": "2026-08-29 05:10",
+   "title": "Odd Lots: What’s Behind the Classic Jackson Hole Photo Op?",
+   "summary": "For years, the Fed chair would give an address in Jackson Hole, Wyoming, and Wall Street and news organizations wouldn't have a recent photo of the chair to accompany stories. In s…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/28/walmart-settles-us-governments-opioid-lawsuit.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-28/odd-lots-behind-the-classic-jackson-hole-photo-op-video",
      "t": "sec"
     }
    ],
-   "heat": 65.3
+   "heat": 65.5
   },
   {
    "cat": "macro",
-   "time": "2026-08-28 19:23",
-   "title": "Gold Awaits Jackson Hole: All Eyes on Fed Policy Signals",
-   "summary": "",
+   "time": "2026-08-29 04:56",
+   "title": "Trump loses bid to transfer New York hush money case to federal court",
+   "summary": "Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in the White House.",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/gold-awaits-jackson-hole-all-eyes-on-fed-policy-signals-200686740",
-     "t": "agg"
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html",
+     "t": "sec"
     }
    ],
-   "heat": 62.4
+   "heat": 65.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-29 09:06",
+   "title": "Venezuela Confirms US Oil Deal, Warsh Aims for 2% Inflation,More",
+   "summary": "Source: Bloomberg, 6:05",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-29/venezuela-confirms-us-oil-deal-warsh-aims-for-2-inflation-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 62.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 19:16",
+   "title": "Russia Extends Diesel-Export Ban as Ukraine Ramps Up Attacks",
+   "summary": "Russia further extended a ban on diesel exports for producers to keep the domestic market supplied amid intensified Ukrainian attacks on the nation’s refineries.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-29/russia-extends-diesel-export-ban-as-ukraine-ramps-up-attacks",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 18:23",
+   "title": "CFTC fines former White House aide $172,000 for trading on Trump speech information",
+   "summary": "Perez ⁠had access to Trump's speeches before they were delivered and used that information to ‌trade the contracts for his personal benefit, the CFTC said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/29/cftc-fines-ex-white-house-aide-for-trading-on-trump-speech-information.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.7
   },
   {
    "cat": "sector",
@@ -223,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.1
+   "heat": 218.6
   },
   {
    "cat": "sector",
@@ -237,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.0
+   "heat": 218.5
   },
   {
    "cat": "sector",
@@ -251,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.9
+   "heat": 218.4
   },
   {
    "cat": "sector",
@@ -265,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.9
+   "heat": 218.4
   },
   {
    "cat": "sector",
@@ -279,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.9
+   "heat": 218.4
   },
   {
    "cat": "sector",
@@ -293,21 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 05:34",
-   "title": "BMO US President: See growth beyond AI plane",
-   "summary": "BMO US President Aron Levine says they are seeing their clients work through many different scenarios when it comes to the integration of AI, but that there are signs of growth acr…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-28/bmo-us-president-see-growth-beyond-ai-plane-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 210.1
+   "heat": 217.9
   },
   {
    "cat": "sector",
@@ -321,21 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 05:05",
-   "title": "Cisco President Patel Makes the Case for AI in the Classroom",
-   "summary": "Cisco President and Chief Product Officer Jeetu Patel explains how artificial intelligence will benefit the education system on \"Bloomberg The Close.\" (Source: Bloomberg)",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-28/cisco-s-patel-makes-the-case-for-ai-in-the-classroom-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 210.0
+   "heat": 217.6
   },
   {
    "cat": "sector",
@@ -349,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 209.9
+   "heat": 217.4
   },
   {
    "cat": "sector",
@@ -363,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 209.8
+   "heat": 217.3
   },
   {
    "cat": "sector",
@@ -377,35 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 209.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 01:47",
-   "title": "China Removes Zhang Youxia and Liu Zhenli From Top Military Posts",
-   "summary": "China Removes Zhang Youxia and Liu Zhenli From Top Military Posts &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXFtTmhMU2Y3Z3VLRjZzbTFNdndrOWttY2hxRVhDbXNraVVITWN4V2c2YUFza3BCa21HX3FjdWI3RV92ZHVYTUQ0cERla0tLWW9iYmRSaEZ0V2xNek5wSW5DZkpWem00OFUtZHpMSWNSdTNENk1KWnVabUpkdXZLcFVDSmF5RkIxTXVvZHZiSzd4SW8wZkl2OWxCc05ON0RZYTdna09aMVlhVkxPcEJmRDRKQUd0Ul85dFpGRw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 209.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 00:10",
-   "title": "China Raises Threshold for New-Home Presales Under New National Standard",
-   "summary": "China Raises Threshold for New-Home Presales Under New National Standard &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX191eEM1ckZBbTc0dktBNW1fQ1JoSW9QZjF5bW1KckJmN2hELXotY3dvREg1YnZfZ05PLVdyeldubkV3ekdTQk1pcEF6ZV8yQkV5MkY3UXRZTkIwUVl0SGN1VndsTk9pVmhPQjUtbnVqQ1ZHcW9hX1hNNWlMUkRuSHc0U2pSTUdxR29WNWRQNXFvU1ZSWm5ZN2ZuWVBrOE93czZPMHZvYWRYd1BDRktrSEZfTW82Z01Gbm1ZUWhoYmcwZ0VMbVE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 209.2
+   "heat": 217.2
   },
   {
    "cat": "stock",
@@ -419,21 +391,21 @@
      "t": "sec"
     }
    ],
-   "heat": 117.9
+   "heat": 105.4
   },
   {
    "cat": "stock",
-   "time": "2026-08-29 08:00",
-   "title": "Indian Bank Stocks Show Widest Exchange Price Gap in Decades",
-   "summary": "Shares of some Indian banks closed at sharply different prices on the country’s two largest exchanges on Thursday, the latest sign of dislocation under the new closing auction syst…",
+   "time": "2026-08-25 02:27",
+   "title": "US STOCKS-Tech drags S&P 500, Nasdaq lower as more Iran sanctions, Nvidia earnings loom - Devdiscourse",
+   "summary": "US STOCKS-Tech drags S&P 500, Nasdaq lower as more Iran sanctions, Nvidia earnings loom &nbsp;&nbsp; Devdiscourse",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-29/indian-bank-stocks-show-widest-exchange-price-gap-in-decades",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV21XeDhJU0hIRWFGWUNxNVZOa2ltN0xaNkhFV1RMQVE3V1NIbGJKeERHUVVab2hkZHRNMXBSX3NUaWRmQ0cxaUk3aUhRWFFyTmRvOTVweUw4MEI5Z2R1dWc4ZVRpa0JaM1dlYndTekVFZ0FWYWFkNzVwVnhtVV83NUFaUVVWZUNiaE04UTZlVHE3RDVtUkRPRG1GNnFHd0FDdlV4MkZpVnE1N08wcFNJOS1pck9JYTFyak1vcklCUU9mR25Ub3JsendKQzlDZGFCaFB1REFQQmc0M0HSAeABQVVfeXFMTUFnMVpseHBSekgzSDZuVFhJMmZab2owTExKTkdHY2gtcC04MTZjck5uSmRMMjZIMDhIV19BM1VRTG1ydG1Edlk1S1dPcHZieHlTdnRycUt6a2tBUUFGVEUwTHlCLWhNT2JYRWJHT0VqUlJDTFRtT2JMaC1ReWY2ZndmajE2aFA0N2kzZVMxRGVWcTI4WnV2S0xjZEh5MGl1VTZibHVmZk1sTXBpM3lpb0NzTDVOdVg1Z1l5dVRyOUxhVXBrM093dTRRVG1XTm1STlFndnh1VkFzSkRaa2pHWUg?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 114.5
+   "heat": 100.0
   },
   {
    "cat": "stock",
@@ -447,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 112.0
+   "heat": 100.0
   },
   {
    "cat": "stock",
@@ -461,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 112.0
+   "heat": 100.0
   },
   {
    "cat": "stock",
@@ -475,35 +447,21 @@
      "t": "sec"
     }
    ],
-   "heat": 112.0
+   "heat": 100.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-29 05:08",
-   "title": "Stock Movers: Nvidia, PayPal, Salesforce (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-08-29 08:00",
+   "title": "Indian Bank Stocks Show Widest Exchange Price Gap in Decades",
+   "summary": "Shares of some Indian banks closed at sharply different prices on the country’s two largest exchanges on Thursday, the latest sign of dislocation under the new closing auction syst…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-28/stock-movers-nvidia-paypal-salesforce-podcast",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-29/indian-bank-stocks-show-widest-exchange-price-gap-in-decades",
      "t": "sec"
     }
    ],
-   "heat": 102.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-29 02:19",
-   "title": "Stocks making the biggest moves midday: Amazon, Marvell, PayPal, Salesforce & more",
-   "summary": "Here are some of the companies making headlines in midday trading.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/28/stocks-making-the-biggest-moves-midday-amzn-mrvl-pypl-crm.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 101.5
+   "heat": 98.0
   },
   {
    "cat": "stock",
@@ -517,35 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 100.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-29 06:46",
-   "title": "Freeport-McMoRan director Lydia Kennard sells $300,470 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/freeportmcmoran-director-lydia-kennard-sells-300470-in-stock-93CH-4881949",
-     "t": "agg"
-    }
-   ],
-   "heat": 100.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-29 06:31",
-   "title": "Globalstar director Benjamin Wolff sells $1.64 million in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/globalstar-director-benjamin-wolff-sells-164-million-in-stock-93CH-4881948",
-     "t": "agg"
-    }
-   ],
-   "heat": 100.2
+   "heat": 88.0
   },
   {
    "cat": "stock",
@@ -559,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 100.1
+   "heat": 87.6
   },
   {
    "cat": "stock",
@@ -573,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 100.0
+   "heat": 87.5
   },
   {
    "cat": "stock",
@@ -587,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 97.5
+   "heat": 85.0
   },
   {
    "cat": "stock",
@@ -601,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.5
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -615,7 +545,49 @@
      "t": "sec"
     }
    ],
-   "heat": 96.0
+   "heat": 84.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-26 15:00",
+   "title": "Breaking Down the Stock Market Under Trump vs. Biden - SmartAsset.com",
+   "summary": "Breaking Down the Stock Market Under Trump vs. Biden &nbsp;&nbsp; SmartAsset.com",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zZlJOTnBvV3FVQlVCaktjVTloa2kwaVR3RHlxSjdybDdlaUhINEN5ZDAwbjZlUzV6VEw4WWFveF9SNDFjREQ0VEcxQkM2MkN3dnk3blkyQXlKU2VONXdlZ3QxcjI0WENXaGEzTg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-26 01:41",
+   "title": "7 Best Oil Stocks for 2026 and How to Invest - The Motley Fool",
+   "summary": "7 Best Oil Stocks for 2026 and How to Invest &nbsp;&nbsp; The Motley Fool",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdUx1RkJCMzhhNGFoakpWYmtVYnltVjRrdF9uaTZydEt6bVBlUnlhOFhpQy1MeGJVNTY2M2ttbW1YdmcxWnROMWRfSFBsRGtUa0JBSUVxX180cVFEUFF4MEJ4WmlBZ1F0OFZWOWIzc1hOcC1qdTNhT1N5d3ZtTjNqMW1adw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-25 20:28",
+   "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 1000 Futures Advance as Scott Bessent Expands Sanctions on - Benzinga",
+   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 1000 Futures Advance as Scott Bessent Expands Sanctions on &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQVFpqZXFhNEoyNzljUVNoV2FCV25pZm1zUXk2cWdOTlE4RE90UExnMTRtUzhiOF9LMkFEZE5iMVVRRk93bE84Z3FlZGJmWmNvaFZabzRtbV9wUjBDdVFFNkswUVByWnR1TDZOQzFtVmFDeEhJWkF6Q2pMUDlFcWFmbk9nU0dJR3Q0YTljVy1EYW5NRGxrV3dCa19MV0Q2S0t4bm1YM1RYWWZvdi04N09ZQl81WHdHUVJNOUk2cjZOdFlJaTN2aUZYdmpxUDhlRm1mb05sWllTNGVxMkxDaHdmRFlLMU4wRUdCZk84YlNncjI3aHVwbnd6NGFSVUxsb3EtRHVuNUF5UDh1QXVTb3RXcjdYa1JiVUpjdUZKRlZ2NUR4d3IxYjluLWM3bXZEQjhmSURFRFhfdERqd1ZX?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
   },
   {
    "cat": "global",
@@ -629,63 +601,35 @@
      "t": "sec"
     }
    ],
-   "heat": 53.0
+   "heat": 56.5
   },
   {
    "cat": "global",
-   "time": "2026-08-29 07:41",
-   "title": "South Korean Won: BoK tightening supports KRW against US Dollar – Commerzbank",
-   "summary": "Commerzbank’s Charlie Lay reports that the Bank of Korea (BoK) delivered a second consecutive 25 bp hike to 3.0% and kept a tightening bias, supporting KRW after its sharp apprecia…",
+   "time": "2026-08-29 19:37",
+   "title": "US-Venezuela Oil Deal, Russian Strikes Kill Dozens in Kyiv, More",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/south-korean-won-bok-tightening-supports-krw-against-us-dollar-commerzbank-202608282341",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-29/us-venezuela-oil-deal-russian-strikes-kill-dozens-in-kyiv-more",
      "t": "sec"
     }
    ],
-   "heat": 38.4
+   "heat": 39.9
   },
   {
    "cat": "global",
-   "time": "2026-08-29 04:24",
-   "title": "Mexican Peso tumbles as Warsh embarks on inflation fight",
-   "summary": "The Mexican Peso (MXN) depreciates against the US Dollar (USD) on Friday, down by over 0.42% on hawkish remarks by Federal Reserve (Fed) Chair Kevin Warsh at the Jackson Hole Sympo…",
+   "time": "2026-08-29 18:27",
+   "title": "US to Control Bulk of Venezuelan Oil, Trump to Meet Oil Execs",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/mexican-peso-tumbles-as-warsh-embarks-on-inflation-fight-202608282024",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-29/us-to-control-bulk-of-venezuelan-oil-trump-to-meet-oil-execs",
      "t": "sec"
     }
    ],
-   "heat": 37.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-29 00:03",
-   "title": "Australian Dollar retreats from highs as Warsh’s hawkish message lifts US Dollar",
-   "summary": "AUD/USD retreats 0.30% on Friday to trade around 0.7170 at the time of writing, correcting after reaching its highest level since mid-May at 0.7206 earlier in the day.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/australian-dollar-retreats-from-highs-as-warshs-hawkish-message-lifts-us-dollar-202608281603",
-     "t": "sec"
-    }
-   ],
-   "heat": 37.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-28 23:54",
-   "title": "Yen Passes 160 Per Dollar to Hit Weakest Level in a Month",
-   "summary": "The yen moved past 160 per US dollar to its weakest level in a month, extending a slide that’s erased more than half of its intervention-fueled gains.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-28/yen-weakens-past-160-per-dollar-eroding-intervention-gain",
-     "t": "sec"
-    }
-   ],
-   "heat": 37.1
+   "heat": 39.7
   },
   {
    "cat": "global",
@@ -699,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.8
+   "heat": 38.3
   },
   {
    "cat": "global",
@@ -713,35 +657,63 @@
      "t": "sec"
     }
    ],
-   "heat": 34.5
+   "heat": 38.0
   },
   {
    "cat": "global",
-   "time": "2026-08-28 18:37",
-   "title": "US Dollar: All Eyes on Jackson Hole",
-   "summary": "",
+   "time": "2026-08-29 07:41",
+   "title": "South Korean Won: BoK tightening supports KRW against US Dollar – Commerzbank",
+   "summary": "Commerzbank’s Charlie Lay reports that the Bank of Korea (BoK) delivered a second consecutive 25 bp hike to 3.0% and kept a tightening bias, supporting KRW after its sharp apprecia…",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-all-eyes-on-jackson-hole-200686736",
-     "t": "agg"
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/south-korean-won-bok-tightening-supports-krw-against-us-dollar-commerzbank-202608282341",
+     "t": "sec"
     }
    ],
-   "heat": 34.3
+   "heat": 37.9
   },
   {
    "cat": "global",
-   "time": "2026-08-29 07:23",
-   "title": "China’s massive oil reserves give Beijing leverage during Iran war",
-   "summary": "",
+   "time": "2026-08-29 04:24",
+   "title": "Mexican Peso tumbles as Warsh embarks on inflation fight",
+   "summary": "The Mexican Peso (MXN) depreciates against the US Dollar (USD) on Friday, down by over 0.42% on hawkish remarks by Federal Reserve (Fed) Chair Kevin Warsh at the Jackson Hole Sympo…",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/chinas-massive-oil-reserves-give-beijing-leverage-during-iran-war-4881952",
-     "t": "agg"
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/mexican-peso-tumbles-as-warsh-embarks-on-inflation-fight-202608282024",
+     "t": "sec"
     }
    ],
-   "heat": 32.4
+   "heat": 37.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-29 00:03",
+   "title": "Australian Dollar retreats from highs as Warsh’s hawkish message lifts US Dollar",
+   "summary": "AUD/USD retreats 0.30% on Friday to trade around 0.7170 at the time of writing, correcting after reaching its highest level since mid-May at 0.7206 earlier in the day.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/australian-dollar-retreats-from-highs-as-warshs-hawkish-message-lifts-us-dollar-202608281603",
+     "t": "sec"
+    }
+   ],
+   "heat": 36.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-28 23:54",
+   "title": "Yen Passes 160 Per Dollar to Hit Weakest Level in a Month",
+   "summary": "The yen moved past 160 per US dollar to its weakest level in a month, extending a slide that’s erased more than half of its intervention-fueled gains.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-28/yen-weakens-past-160-per-dollar-eroding-intervention-gain",
+     "t": "sec"
+    }
+   ],
+   "heat": 36.6
   },
   {
    "cat": "global",
@@ -755,7 +727,63 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 36.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-28 18:37",
+   "title": "US Dollar: All Eyes on Jackson Hole",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/us-dollar-all-eyes-on-jackson-hole-200686736",
+     "t": "agg"
+    }
+   ],
+   "heat": 33.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-28 15:12",
+   "title": "Oil Markets Shrug Off Tougher Iran Sanctions and Weak Tanker Traffic",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-markets-shrug-off-tougher-iran-sanctions-and-weak-tanker-traffic-200686720",
+     "t": "agg"
+    }
+   ],
+   "heat": 33.2
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-28 15:00",
+   "title": "Crude Oil Imports Show Asia Has Yet to See a Hormuz Flow Rebound",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/crude-oil-imports-show-asia-has-yet-to-see-a-hormuz-flow-rebound-200686721",
+     "t": "agg"
+    }
+   ],
+   "heat": 33.2
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-28 14:44",
+   "title": "Oil Prices Up Even as Hormuz Flows Increase",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-prices-up-even-as-hormuz-flows-increase-200686709",
+     "t": "agg"
+    }
+   ],
+   "heat": 33.1
   },
   {
    "cat": "global",
@@ -772,62 +800,6 @@
    "heat": 32.0
   },
   {
-   "cat": "global",
-   "time": "2026-08-27 18:59",
-   "title": "US Dollar Edges Higher",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-edges-higher-200686665",
-     "t": "agg"
-    }
-   ],
-   "heat": 30.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-28 15:12",
-   "title": "Oil Markets Shrug Off Tougher Iran Sanctions and Weak Tanker Traffic",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-markets-shrug-off-tougher-iran-sanctions-and-weak-tanker-traffic-200686720",
-     "t": "agg"
-    }
-   ],
-   "heat": 29.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-28 15:00",
-   "title": "Crude Oil Imports Show Asia Has Yet to See a Hormuz Flow Rebound",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/crude-oil-imports-show-asia-has-yet-to-see-a-hormuz-flow-rebound-200686721",
-     "t": "agg"
-    }
-   ],
-   "heat": 29.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-28 14:44",
-   "title": "Oil Prices Up Even as Hormuz Flows Increase",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-prices-up-even-as-hormuz-flows-increase-200686709",
-     "t": "agg"
-    }
-   ],
-   "heat": 29.6
-  },
-  {
    "cat": "crypto",
    "time": "2026-08-29 04:42",
    "title": "Here’s what happened in crypto today",
@@ -839,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 69.9
+   "heat": 61.4
   },
   {
    "cat": "crypto",
@@ -853,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 69.0
+   "heat": 60.5
   },
   {
    "cat": "crypto",
@@ -867,35 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-29 14:47",
-   "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
-   "summary": "US spot Bitcoin ETFs posted $201.8 million in net outflows Friday, led by ARK 21Shares, as total fund assets slipped back below $100 billion.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-29 12:30",
-   "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
-   "summary": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.2
+   "heat": 42.4
   },
   {
    "cat": "crypto",
@@ -909,63 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.2
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-28 23:31",
-   "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
-   "summary": "Bitcoin failed to make a decisive break above $80,000 as traders digested Fed Chair Kevin Warsh’s Jackson Hole keynote speech, which remained wary of US inflation trends.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 41.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-28 19:43",
-   "title": "Bitcoin is outperforming stocks and correlating with gold just when it matters most",
-   "summary": "Your day-ahead look for Aug. 28, 2026",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/daybook-us/2026/08/28/bitcoin-is-outperforming-stocks-and-correlating-with-gold-just-when-it-matters-most",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-28 19:36",
-   "title": "Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in",
-   "summary": "The French Bitcoin treasury firm’s private placement drew support from Adam Back and TOBAM, with warrant exercises potentially unlocking another $158 million.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-blockstreams-adam-back-chipping-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-29 07:02",
-   "title": "Bitcoin stalls at $77,465 with bearish momentum: Live levels",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-below-78500-resistance-live-hourly-levels-93CH-4872743",
-     "t": "agg"
-    }
-   ],
-   "heat": 40.3
+   "heat": 40.7
   },
   {
    "cat": "crypto",
@@ -979,7 +867,63 @@
      "t": "sec"
     }
    ],
-   "heat": 36.6
+   "heat": 36.1
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-29 14:47",
+   "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
+   "summary": "US spot Bitcoin ETFs posted $201.8 million in net outflows Friday, led by ARK 21Shares, as total fund assets slipped back below $100 billion.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.1
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-29 12:30",
+   "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+   "summary": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+     "t": "sec"
+    }
+   ],
+   "heat": 34.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-28 23:31",
+   "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
+   "summary": "Bitcoin failed to make a decisive break above $80,000 as traders digested Fed Chair Kevin Warsh’s Jackson Hole keynote speech, which remained wary of US inflation trends.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 32.6
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-28 19:43",
+   "title": "Bitcoin is outperforming stocks and correlating with gold just when it matters most",
+   "summary": "Your day-ahead look for Aug. 28, 2026",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/daybook-us/2026/08/28/bitcoin-is-outperforming-stocks-and-correlating-with-gold-just-when-it-matters-most",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.9
   },
   {
    "cat": "crypto",
@@ -993,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 28.7
+   "heat": 28.2
   },
   {
    "cat": "crypto",
@@ -1007,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 28.5
+   "heat": 28.0
   },
   {
    "cat": "crypto",
@@ -1021,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 28.3
+   "heat": 27.8
   },
   {
    "cat": "crypto",
@@ -1035,21 +979,77 @@
      "t": "sec"
     }
    ],
-   "heat": 27.8
+   "heat": 27.3
   },
   {
-   "cat": "sector",
-   "time": "2026-08-27 03:16",
-   "title": "01:06:15 财联社8月27日电，谷歌推出Gemini 3.5 Transcribe，增强AI语音转录能力。",
-   "summary": "01:06:15 财联社8月27日电，谷歌推出Gemini 3.5 Transcribe，增强AI语音转录能力。 &nbsp;&nbsp; 财联社",
+   "cat": "crypto",
+   "time": "2026-08-29 07:12",
+   "title": "Wall Street Week | Debt & Consequences, Defying Fiscal Gravity, Hollywood Gets Democratized",
+   "summary": "This week, Chrystia Freeland talks with the former finance ministers of the Netherlands and Germany about what it takes to bring spending under control. And, are US deficits now a …",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GNWRwSE1EWFBZUWIycndRdmxzMFdHSDlHRUp3enNSTUJiNHVLV2RDZ2lxcF9QeDRWUDVVaGVwVWdPV1l5S2dpMA?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-28/wall-street-week-defying-fiscal-gravity-video",
      "t": "sec"
     }
    ],
-   "heat": 204.0
+   "heat": 25.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-29 01:46",
+   "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+   "summary": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming football season.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 25.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-26 20:06",
+   "title": "海外研选 | 摩根士丹利：AI投资进入融资时代 科技巨头表外承诺已超3万亿美元",
+   "summary": "海外研选 | 摩根士丹利：AI投资进入融资时代 科技巨头表外承诺已超3万亿美元 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kcUpjc3MwSUtXV1dWYklhRmQ2SlNpa3kwNmlSenpETTVYWktUUi1sR2hXdGFhaWxEa2RCZzc1cjAwQWRzUjhVMw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 212.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 01:47",
+   "title": "China Removes Zhang Youxia and Liu Zhenli From Top Military Posts",
+   "summary": "China Removes Zhang Youxia and Liu Zhenli From Top Military Posts &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXFtTmhMU2Y3Z3VLRjZzbTFNdndrOWttY2hxRVhDbXNraVVITWN4V2c2YUFza3BCa21HX3FjdWI3RV92ZHVYTUQ0cERla0tLWW9iYmRSaEZ0V2xNek5wSW5DZkpWem00OFUtZHpMSWNSdTNENk1KWnVabUpkdXZLcFVDSmF5RkIxTXVvZHZiSzd4SW8wZkl2OWxCc05ON0RZYTdna09aMVlhVkxPcEJmRDRKQUd0Ul85dFpGRw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 217.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 11:09",
+   "title": "CBIZ soars 78% in 4 months after InvestingPro Fair Value signal",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/investment-ideas/cbiz-soars-78-in-4-months-after-investingpro-fair-value-signal-93CH-4881972",
+     "t": "agg"
+    }
+   ],
+   "heat": 216.5
   }
  ]
 }
