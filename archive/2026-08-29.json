@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29 08:02",
+ "updated": "2026-08-29 11:03",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 127.7
+   "heat": 119.2
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 118.9
+   "heat": 110.4
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 118.1
+   "heat": 109.6
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 117.5
+   "heat": 109.0
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.6
+   "heat": 103.1
   },
   {
    "cat": "macro",
@@ -83,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 106.7
+   "heat": 102.2
   },
   {
    "cat": "macro",
@@ -97,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 100.0
+   "heat": 96.0
   },
   {
    "cat": "macro",
@@ -111,35 +111,21 @@
      "t": "sec"
     }
    ],
-   "heat": 95.3
+   "heat": 94.8
   },
   {
    "cat": "macro",
-   "time": "2026-08-29 04:40",
-   "title": "Threat of a Fed Rate Hike Is Changing the Leadership in Markets, Slimmon Says",
-   "summary": "Andrew Slimmon, managing director and head of applied equity advisors at Morgan Stanley, says he's happy with what Federal Reserve Chair Kevin Warsh said during his speech at Jacks…",
+   "time": "2026-08-29 09:50",
+   "title": "Trump Teleprompter Pays $170,000 to End Insider Trading Probe",
+   "summary": "A White House teleprompter operator will pay more than $172,000 to end a federal regulator’s probe into alleged well-timed prediction market bets about President Donald Trump’s spe…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-28/threat-of-rate-hike-is-changing-markets-slimmon-says-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-29/trump-teleprompter-pays-170-000-to-end-insider-trading-probe",
      "t": "sec"
     }
    ],
-   "heat": 91.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-28 17:01",
-   "title": "Gold Faces Rate-Hike Risk as Jackson Hole and Inflation Take Focus",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-faces-ratehike-risk-as-jackson-hole-and-inflation-take-focus-200686724",
-     "t": "agg"
-    }
-   ],
-   "heat": 79.5
+   "heat": 75.8
   },
   {
    "cat": "macro",
@@ -153,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.6
+   "heat": 75.1
   },
   {
    "cat": "macro",
@@ -167,7 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.5
+   "heat": 75.0
   },
   {
    "cat": "macro",
@@ -181,7 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.5
+   "heat": 75.0
   },
   {
    "cat": "macro",
@@ -195,7 +181,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.1
+   "heat": 74.6
   },
   {
    "cat": "macro",
@@ -209,7 +195,77 @@
      "t": "sec"
     }
    ],
-   "heat": 75.0
+   "heat": 74.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-29 00:54",
+   "title": "Walmart settles U.S. government's opioid lawsuit",
+   "summary": "In a 2020 complaint, the Justice Department accused Arkansas-based Walmart of repeatedly violating the federal Controlled Substances Act since 2013.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/28/walmart-settles-us-governments-opioid-lawsuit.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 74.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 10:47",
+   "title": "US-Venezuela Oil Deal, Warsh Aims at 2%, More",
+   "summary": "Source: Bloomberg, 5:12",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-29/us-venezuela-oil-deal-warsh-aims-at-2-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 208.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 10:43",
+   "title": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes",
+   "summary": "Walter's holding company earlier in the week said \"there has been no fraud\" at Delaware Life and its affiliated company, Clear Spring Life and Annuity.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/28/mark-walter-delaware-life-truist-fifth-third-banks.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 10:23",
+   "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+   "summary": "The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 10:16",
+   "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
+   "summary": "OpenAI said it will end its partnership with Cursor after the AI-coding agent’s acquisition by SpaceX, according to a post on X.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.9
   },
   {
    "cat": "sector",
@@ -223,21 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 05:57",
-   "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-   "summary": "The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.7
+   "heat": 207.4
   },
   {
    "cat": "sector",
@@ -251,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.6
+   "heat": 207.1
   },
   {
    "cat": "sector",
@@ -265,7 +307,21 @@
      "t": "sec"
     }
    ],
-   "heat": 203.6
+   "heat": 207.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 05:19",
+   "title": "Billionaire Gilinski, GeoPark Said to Be Near Venezuela Oil Deal",
+   "summary": "Colombia’s richest family is nearing a Venezuela oil deal in conjunction with GeoPark Ltd, a Bogota-based oil company in which it is the largest shareholder with a 28% stake, accor…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-28/billionaire-gilinski-geopark-said-to-be-near-venezuela-oil-deal",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.0
   },
   {
    "cat": "sector",
@@ -279,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.5
+   "heat": 207.0
   },
   {
    "cat": "sector",
@@ -293,21 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 04:42",
-   "title": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes",
-   "summary": "Walter's holding company earlier in the week said \"there has been no fraud\" at Delaware Life and its affiliated company, Clear Spring Life and Annuity.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/28/mark-walter-delaware-life-truist-fifth-third-banks.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.4
+   "heat": 207.0
   },
   {
    "cat": "sector",
@@ -321,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.4
+   "heat": 206.9
   },
   {
    "cat": "sector",
@@ -335,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.3
+   "heat": 206.8
   },
   {
    "cat": "sector",
@@ -349,49 +391,35 @@
      "t": "sec"
     }
    ],
-   "heat": 203.2
+   "heat": 206.7
   },
   {
    "cat": "sector",
-   "time": "2026-08-28 22:59",
-   "title": "S&P 500 Approaches Key Resistance as Markets Await Warsh Speech - CryptoRank",
-   "summary": "S&P 500 Approaches Key Resistance as Markets Await Warsh Speech &nbsp;&nbsp; CryptoRank",
+   "time": "2026-08-28 23:42",
+   "title": "China Overhauls Real Estate Credit Rules in Shift Away From Presale Model",
+   "summary": "China Overhauls Real Estate Credit Rules in Shift Away From Presale Model &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HUGRfQUx2U3VYemlUQnExaWt6U1hDSXJ0SDFyTGpkQkdyeG5lWFd0UUZFQlhOa29XYU5pbDlFcTBoZTJrUDg1QTBrZ05KdFcxd0ZVbVJtUlZXNUFZY3VZUmpqVC1RY0VBcTB3bFhNZXVEbW9tZDhINE1temk?oc=5",
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVS1lZENfeVFNOTMtZk9WT1M4VWVFTTNvdXBtbjRmYUU5Zldqd3ZKNkZha21ua0JZbXUzVmRhU3BPdUszbDVpVUV3dVp5eFh0SGphRmdEc1RGd1k2ZUp0LVIwQzdUbXZPODh6cE1UTDhlbnMxMElmM2FDcFVZRDl3dzlmX3Iwa1JSVGFZWkwyaE92THQ2S2dyNTllSzYtZmg0bE9hZ1VLODdqbXVRQmJBc0hKQ0V0QndrUHhuN2tXUUZuaXhBVUpn?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 202.5
+   "heat": 206.1
   },
   {
-   "cat": "sector",
-   "time": "2026-08-28 20:39",
-   "title": "Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible'",
-   "summary": "Iran said the conflict in the Gaza Strip has to end, Israel has to withdraw from Lebanon and also halt its attacks on Syria.",
+   "cat": "stock",
+   "time": "2026-08-29 08:00",
+   "title": "Indian Bank Stocks Show Widest Exchange Price Gap in Decades",
+   "summary": "Shares of some Indian banks closed at sharply different prices on the country’s two largest exchanges on Thursday, the latest sign of dislocation under the new closing auction syst…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-29/indian-bank-stocks-show-widest-exchange-price-gap-in-decades",
      "t": "sec"
     }
    ],
-   "heat": 202.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-28 19:50",
-   "title": "U.S. Navy blockade slashes Iran oil exports as Trump administration shifts to economic warfare",
-   "summary": "The U.S. has shifted to a campaign of economic warfare, after a dozen waves of airstrikes in July failed to force Tehran to abandon its claim to Hormuz.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/28/navy-blockade-iran-oil-exports-sanctions-trump.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 202.0
+   "heat": 131.5
   },
   {
    "cat": "stock",
@@ -405,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 131.4
+   "heat": 126.9
   },
   {
    "cat": "stock",
@@ -419,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 124.0
+   "heat": 120.0
   },
   {
    "cat": "stock",
@@ -433,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 124.0
+   "heat": 120.0
   },
   {
    "cat": "stock",
@@ -447,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 124.0
+   "heat": 120.0
   },
   {
    "cat": "stock",
@@ -461,21 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 119.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-29 04:22",
-   "title": "Stock Movers: Gap, Affirm, Ulta (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-28/stock-movers-gap-affirm-ulta-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 119.4
+   "heat": 115.0
   },
   {
    "cat": "stock",
@@ -489,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 119.0
+   "heat": 114.5
   },
   {
    "cat": "stock",
@@ -503,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 118.0
+   "heat": 113.5
   },
   {
    "cat": "stock",
@@ -517,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 117.6
+   "heat": 113.1
   },
   {
    "cat": "stock",
@@ -531,77 +545,77 @@
      "t": "sec"
     }
    ],
-   "heat": 117.5
+   "heat": 113.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-28 23:45",
-   "title": "Rocket Lab COO Frank Klein sells $2.37 million of RKLB common stock",
+   "time": "2026-08-29 02:01",
+   "title": "CoreWeave GC Kristen McVeety sells $184,854 in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/rocket-lab-coo-frank-klein-sells-237-million-of-rklb-common-stock-93CH-4881886",
+     "u": "https://www.investing.com/news/insider-trading-news/coreweave-gc-kristen-mcveety-sells-184854-in-stock-93CH-4881921",
      "t": "agg"
     }
    ],
-   "heat": 116.6
+   "heat": 112.5
   },
   {
    "cat": "stock",
-   "time": "2026-08-28 23:31",
-   "title": "Snowflake director Benoit Dageville sells $15.47 million in stock",
+   "time": "2026-08-29 02:01",
+   "title": "Optimum Communications director Neil S. Subin buys $2.45m in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/snowflake-director-benoit-dageville-sells-1547-million-in-stock-93CH-4881883",
+     "u": "https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-s-subin-buys-245m-in-stock-93CH-4881920",
      "t": "agg"
     }
    ],
-   "heat": 116.6
+   "heat": 112.5
   },
   {
    "cat": "stock",
-   "time": "2026-08-28 23:30",
-   "title": "Rockwell Automation director Watson sells $474,569 in company stock",
+   "time": "2026-08-29 02:01",
+   "title": "Natera president John Fesko sells $2.1m in company stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/rockwell-automation-director-watson-sells-474569-in-company-stock-93CH-4881879",
+     "u": "https://www.investing.com/news/insider-trading-news/natera-president-john-fesko-sells-21m-in-company-stock-93CH-4881919",
      "t": "agg"
     }
    ],
-   "heat": 116.6
+   "heat": 112.5
   },
   {
    "cat": "stock",
-   "time": "2026-08-28 23:16",
-   "title": "Consumer portfolio services CEO Charles Bradley Jr. sells $1.18m in stock",
+   "time": "2026-08-29 01:45",
+   "title": "TeraWulf CEO Paul Prager sells $2.3m in WULF stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/consumer-portfolio-services-ceo-charles-bradley-jr-sells-118m-in-stock-93CH-4881875",
+     "u": "https://www.investing.com/news/insider-trading-news/terawulf-ceo-paul-prager-sells-23m-in-wulf-stock-93CH-4881916",
      "t": "agg"
     }
    ],
-   "heat": 116.5
+   "heat": 112.4
   },
   {
    "cat": "stock",
-   "time": "2026-08-28 23:15",
-   "title": "StubHub executive Mark Streams sells $17,406 in company stock",
+   "time": "2026-08-29 01:45",
+   "title": "Precigen director Jeffrey Kindler sells $1.38m in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/stubhub-executive-mark-streams-sells-17406-in-company-stock-93CH-4881874",
+     "u": "https://www.investing.com/news/insider-trading-news/precigen-director-jeffrey-kindler-sells-138m-in-stock-93CH-4881915",
      "t": "agg"
     }
    ],
-   "heat": 116.5
+   "heat": 112.4
   },
   {
    "cat": "global",
@@ -615,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.5
+   "heat": 54.0
   },
   {
    "cat": "global",
@@ -629,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.9
+   "heat": 39.4
   },
   {
    "cat": "global",
@@ -643,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.4
+   "heat": 38.9
   },
   {
    "cat": "global",
@@ -657,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.7
+   "heat": 38.2
   },
   {
    "cat": "global",
@@ -671,21 +685,35 @@
      "t": "sec"
     }
    ],
-   "heat": 38.6
+   "heat": 38.1
   },
   {
    "cat": "global",
-   "time": "2026-08-29 07:21",
-   "title": "Trump: US Secures Some Venezuelan Oil Reserves,Warsh Speaks,More",
-   "summary": "Source: Bloomberg, 5:22",
+   "time": "2026-08-29 10:06",
+   "title": "Venezuela Confirms US Oil Deal, Warsh Speaks, More",
+   "summary": "Source: Bloomberg, 5:38",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-28/trump-us-secures-some-venezuelan-oil-reserves-warsh-speaks-more",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-29/venezuela-confirms-us-oil-deal-warsh-speaks-more",
      "t": "sec"
     }
    ],
-   "heat": 35.9
+   "heat": 35.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-29 08:18",
+   "title": "Trump: US Secures Some Venezuelan Oil Reserves,Warsh Speaks,More",
+   "summary": "Source: Bloomberg, 5:32",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-29/trump-us-secures-some-venezuelan-oil-reserves-warsh-speaks-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.5
   },
   {
    "cat": "global",
@@ -699,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.8
+   "heat": 35.3
   },
   {
    "cat": "global",
@@ -713,21 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-28 23:09",
-   "title": "Trump says U.S. secures control of over 65 billion barrels of Venezuelan oil",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/trump-says-us-secures-control-of-over-65-billion-barrels-of-venezuelan-oil-4881873",
-     "t": "agg"
-    }
-   ],
-   "heat": 32.5
+   "heat": 35.0
   },
   {
    "cat": "global",
@@ -769,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 31.8
+   "heat": 31.3
   },
   {
    "cat": "global",
@@ -783,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 31.2
+   "heat": 30.7
   },
   {
    "cat": "global",
@@ -797,7 +811,7 @@
      "t": "agg"
     }
    ],
-   "heat": 31.2
+   "heat": 30.7
   },
   {
    "cat": "global",
@@ -811,7 +825,7 @@
      "t": "agg"
     }
    ],
-   "heat": 31.1
+   "heat": 30.6
   },
   {
    "cat": "crypto",
@@ -825,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.4
+   "heat": 62.9
   },
   {
    "cat": "crypto",
@@ -839,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.5
+   "heat": 62.0
   },
   {
    "cat": "crypto",
@@ -853,7 +867,21 @@
      "t": "sec"
     }
    ],
-   "heat": 53.9
+   "heat": 53.4
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-29 10:30",
+   "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+   "summary": "An Anthropic model cut the work needed to break a leading post-quantum signature candidate by a factor of 67 million last month, while Bitcoin and Ethereum published their own migr…",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.9
   },
   {
    "cat": "crypto",
@@ -867,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.1
+   "heat": 45.6
   },
   {
    "cat": "crypto",
@@ -881,49 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.7
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-28 18:21",
-   "title": "Visa doubles down on South Korea with Upbit operator Dunamu on stablecoin payments",
-   "summary": "Following a deal with Shinhan Financial, the global payments giant is widening its footprint in Asia’s major crypto hub through South Korea's largest exchange.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/08/28/visa-doubles-down-on-south-korea-with-upbit-operator-dunamu-on-stablecoin-payments",
-     "t": "sec"
-    }
-   ],
-   "heat": 45.7
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-28 21:16",
-   "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
-   "summary": "Polish Olympic Committee president Radosław Piesiewicz faces charges as prosecutors investigate his ties to collapsed cryptocurrency exchange Zondacrypto.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 38.2
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-28 19:03",
-   "title": "Bullish backs USD.AI with $100 million in financing to drive GPU-backed loans",
-   "summary": "Cryptocurrency platform Bullish is extending a $100 million debt facility to USD.AI to finance GPU-backed loans for artificial intelligence infrastructure.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing",
-     "t": "sec"
-    }
-   ],
-   "heat": 37.8
+   "heat": 42.2
   },
   {
    "cat": "crypto",
@@ -937,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.6
+   "heat": 38.1
   },
   {
    "cat": "crypto",
@@ -951,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.9
+   "heat": 37.4
   },
   {
    "cat": "crypto",
@@ -965,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.9
+   "heat": 37.4
   },
   {
    "cat": "crypto",
@@ -979,21 +965,35 @@
      "t": "sec"
     }
    ],
-   "heat": 33.8
+   "heat": 37.3
   },
   {
    "cat": "crypto",
-   "time": "2026-08-28 20:18",
-   "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
-   "summary": "The Japanese financial giant is acquiring a 20% stake in the Indonesian online brokerage to build a cross-border, blockchain-based settlement network.",
+   "time": "2026-08-28 21:16",
+   "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
+   "summary": "Polish Olympic Committee president Radosław Piesiewicz faces charges as prosecutors investigate his ties to collapsed cryptocurrency exchange Zondacrypto.",
    "srcs": [
     {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/08/28/sbi-stakes-usd270-million-in-ajaib-to-expand-yen-stablecoin-in-southeast-asia",
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 30.0
+   "heat": 33.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-28 19:03",
+   "title": "Bullish backs USD.AI with $100 million in financing to drive GPU-backed loans",
+   "summary": "Cryptocurrency platform Bullish is extending a $100 million debt facility to USD.AI to finance GPU-backed loans for artificial intelligence infrastructure.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing",
+     "t": "sec"
+    }
+   ],
+   "heat": 33.3
   },
   {
    "cat": "crypto",
@@ -1007,7 +1007,21 @@
      "t": "sec"
     }
    ],
-   "heat": 27.9
+   "heat": 27.4
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-28 20:18",
+   "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
+   "summary": "The Japanese financial giant is acquiring a 20% stake in the Indonesian online brokerage to build a cross-border, blockchain-based settlement network.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/08/28/sbi-stakes-usd270-million-in-ajaib-to-expand-yen-stablecoin-in-southeast-asia",
+     "t": "sec"
+    }
+   ],
+   "heat": 25.5
   },
   {
    "cat": "crypto",
@@ -1021,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.0
+   "heat": 22.5
   },
   {
    "cat": "sector",
@@ -1035,21 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 196.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-28 19:22",
-   "title": "Chart of the Day: China’s AI Chipmakers Are Turning Self-Reliance Into Sales",
-   "summary": "Chart of the Day: China’s AI Chipmakers Are Turning Self-Reliance Into Sales &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR1J0dDJhSWtEQUpzaFQ3OFAtb05FTFItZUpKUFQ5M05nNzFCSG5sc2l0amdlM0dRa1JmREpQZXVyTllGWnY3Z0pHenhudkhjTDdjN08tcGd3UUZ6bC15bk5kX2RiM2x1Y0RRS2tvOXo4R3RrQTJiVVVCQmJ4d3AySDVQV0w2TmZoUVBzZ3lLRm1mWWMxN2htQkc0Y282ZzNNdV9mUTRNM1VxbkY5QzVmUnktWHdGQmFUNkdIdFRseGpZS3RRLWs4MQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 201.9
+   "heat": 200.0
   }
  ]
 }
