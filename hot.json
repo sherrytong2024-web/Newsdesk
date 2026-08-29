@@ -1,6 +1,34 @@
 {
- "updated": "2026-08-29 05:55",
+ "updated": "2026-08-29 08:02",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-08-29 07:42",
+   "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+   "summary": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 05:57",
+   "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+   "summary": "The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.7
+  },
   {
    "cat": "sector",
    "time": "2026-08-29 05:34",
@@ -13,21 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 05:34",
-   "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-   "summary": "The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.9
+   "heat": 203.6
   },
   {
    "cat": "sector",
@@ -41,21 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 05:19",
-   "title": "Billionaire Gilinski, GeoPark Said to Be Near Venezuela Oil Deal",
-   "summary": "Colombia’s richest family is nearing a Venezuela oil deal in conjunction with GeoPark Ltd, a Bogota-based oil company in which it is the largest shareholder with a 28% stake, accor…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-28/billionaire-gilinski-geopark-said-to-be-near-venezuela-oil-deal",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.9
+   "heat": 203.6
   },
   {
    "cat": "sector",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
+   "heat": 203.5
   },
   {
    "cat": "sector",
@@ -83,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.8
+   "heat": 203.5
   },
   {
    "cat": "sector",
@@ -97,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.8
+   "heat": 203.4
   },
   {
    "cat": "sector",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.7
+   "heat": 203.4
   },
   {
    "cat": "sector",
@@ -125,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.7
+   "heat": 203.3
   },
   {
    "cat": "sector",
@@ -139,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.5
+   "heat": 203.2
   }
  ]
 }
