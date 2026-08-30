@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30 06:56",
+ "updated": "2026-08-30 10:47",
  "items": [
   {
    "cat": "sector",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.5
+   "heat": 198.9
   },
   {
    "cat": "sector",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.4
+   "heat": 198.8
   },
   {
    "cat": "sector",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.4
+   "heat": 198.7
   },
   {
    "cat": "sector",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.5
+   "heat": 197.8
   },
   {
    "cat": "sector",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.4
+   "heat": 197.7
   },
   {
    "cat": "sector",
@@ -83,21 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 20:34",
-   "title": "By The Way: Headlines You Should See",
-   "summary": "Competitive subway speedrunning, fewer novels in schools, and an AI themed Bar: Nathan Hager, Christina Ruffini, and Bailey Lipschultz go over eye catching headlines from this week…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-29/by-the-way-headlines-you-should-see-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 210.3
+   "heat": 197.7
   },
   {
    "cat": "sector",
@@ -111,21 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-29 19:16",
-   "title": "Russia Extends Diesel-Export Ban as Ukraine Ramps Up Attacks",
-   "summary": "Russia further extended a ban on diesel exports for producers to keep the domestic market supplied amid intensified Ukrainian attacks on the nation’s refineries.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-29/russia-extends-diesel-export-ban-as-ukraine-ramps-up-attacks",
-     "t": "sec"
-    }
-   ],
-   "heat": 210.1
+   "heat": 197.6
   },
   {
    "cat": "sector",
@@ -139,7 +111,35 @@
      "t": "sec"
     }
    ],
-   "heat": 209.9
+   "heat": 197.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 23:16",
+   "title": "AI’s memory stack: What investors need to know",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/ais-memory-stack-what-investors-need-to-know-4882003",
+     "t": "agg"
+    }
+   ],
+   "heat": 196.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-29 23:00",
+   "title": "Rival factions stand off in Niger capital after mutineers attack airport, presidency",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/mutinous-soldiers-attack-airport-presidency-in-niger-capital-sources-say-4881969",
+     "t": "agg"
+    }
+   ],
+   "heat": 196.0
   }
  ]
 }
