@@ -1,25 +1,11 @@
 {
- "updated": "2026-08-31 10:40",
+ "updated": "2026-08-31 17:08",
  "items": [
   {
    "cat": "macro",
-   "time": "2026-08-31 07:58",
-   "title": "Gold Holds Biggest Drop in Over Two Months on Fed Rate-Hike Bets",
-   "summary": "Gold steadied after falling more than 3% on Friday as US Federal Reserve Chairman Kevin Warsh’s pledge to fight inflation lifted bets the US central bank will raise interest rates.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-30/gold-steadies-after-tumbling-as-warsh-spurs-fed-rate-hike-bets",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.5
-  },
-  {
-   "cat": "macro",
    "time": "2026-08-31 06:13",
-   "title": "Asian Stocks, Bonds Drop as Rate-Hike Bets Build: Markets Wrap",
-   "summary": "Asian stocks and bonds fell after hawkish comments from Chair Kevin Warsh boosted bets on a Federal Reserve interest-rate hike next month. Oil rose as Middle East tensions flared.",
+   "title": "Treasury Yields Dip, Stocks Steady as Oil Rises: Markets Wrap",
+   "summary": "US Treasury yields ticked lower and stock futures were mixed as traders assessed the outlook for interest rates following Federal Reserve Chairman Kevin Warsh’s hawkish inflation c…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -27,7 +13,105 @@
      "t": "sec"
     }
    ],
-   "heat": 43.3
+   "heat": 86.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-31 07:58",
+   "title": "Gold Extends Decline as Warsh Speech Raises Fed Rate-Hike Bets",
+   "summary": "Gold edged down, after falling more than 3% on Friday, as Federal Reserve Chairman Kevin Warsh’s pledge to fight inflation lifted bets the US central bank will raise interest rates…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-30/gold-steadies-after-tumbling-as-warsh-spurs-fed-rate-hike-bets",
+     "t": "sec"
+    }
+   ],
+   "heat": 78.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-31 16:18",
+   "title": "Warsh Speech Doesn't Change View: Von Rotberg",
+   "summary": "Wolf von Rotberg, equity strategist at J Safra Sarasin, joins Bloomberg's Lizzy Burden on \"Bloomberg Daybreak Europe\" to discuss his thoughts on US Federal Reserve Chair Kevin Wars…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-31/warsh-speech-doesn-t-change-view-von-rotberg-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-31 16:17",
+   "title": "Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy",
+   "summary": "The implications of Fed Chair Kevin Warsh's Jackson Hole speech are pretty clear: Traders expect a rate hike given the hawkish hints littered in his address, largely focused on inf…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-31/tom-barkin-on-the-surprisingly-resilient-real-economy-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-31 16:00",
+   "title": "Odd Lots: Tom Barkin on the Resilient Real Economy (Podcast)",
+   "summary": "The implications of Fed Chair Kevin Warsh’s Jackson Hole speech are pretty clear: Traders expect a rate hike given the hawkish hints littered in his address, largely focused on inf…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-31/odd-lots-tom-barkin-on-the-resilient-real-economy-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-31 11:47",
+   "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
+   "summary": "Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-31 16:16",
+   "title": "Gold Bearish Gap Strengthens Fed Rate-Hike Bets as Downside Risks Build",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-bearish-gap-strengthens-fed-ratehike-bets-as-downside-risks-build-200686795",
+     "t": "agg"
+    }
+   ],
+   "heat": 69.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-31 08:42",
+   "title": "Dollar slips as markets weigh Fed rate outlook; yen hovers near 160",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/dollar-near-twoweek-high-as-warsh-boosts-ratehike-bets-yen-slips-past-160-4882103",
+     "t": "agg"
+    }
+   ],
+   "heat": 68.6
   },
   {
    "cat": "macro",
@@ -41,21 +125,49 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 64.0
   },
   {
    "cat": "macro",
-   "time": "2026-08-31 07:26",
-   "title": "What caused Nvidia's nasty reversal Friday? Look to the Fed for clues",
-   "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer explores the linkage between Nvidia's stock, the oil market, and the Federal Reserve.",
+   "time": "2026-08-31 16:01",
+   "title": "Warsh Restores Some Fed Credibility: 3-Minutes MLIV",
+   "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/30/what-caused-nvidias-nasty-reversal-friday-look-to-the-fed-for-clues.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-31/warsh-restores-some-fed-credibility-3-minutes-mliv-video",
      "t": "sec"
     }
    ],
-   "heat": 31.5
+   "heat": 63.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-31 15:10",
+   "title": "USD/JPY Weekly Outlook: Payrolls May Challenge the Fed’s Hawkish Reset",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/usdjpy-weekly-outlook-payrolls-may-challenge-the-feds-hawkish-reset-200686780",
+     "t": "agg"
+    }
+   ],
+   "heat": 61.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-08-31 14:33",
+   "title": "The Fed Just Changed Everything: What It Means for Your Forex Trades",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/the-fed-just-changed-everything-what-it-means-for-your-forex-trades-200686792",
+     "t": "agg"
+    }
+   ],
+   "heat": 61.6
   },
   {
    "cat": "macro",
@@ -69,105 +181,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-28 17:01",
-   "title": "Gold Faces Rate-Hike Risk as Jackson Hole and Inflation Take Focus",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-faces-ratehike-risk-as-jackson-hole-and-inflation-take-focus-200686724",
-     "t": "agg"
-    }
-   ],
-   "heat": 26.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-30 21:10",
-   "title": "U.S. Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/30/bessent-faces-g20-diplomacy-test-amid-tariffs-iran-war-bond-turmoil.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 25.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-31 02:18",
-   "title": "US Treasury’s Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/forex-news/us-treasurys-bessent-faces-g20-diplomacy-test-amid-tariffs-iran-war-bond-turmoil-4882036",
-     "t": "agg"
-    }
-   ],
-   "heat": 24.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-31 01:53",
-   "title": "Asia chip stocks fall as Warsh revives rate-hike fears, oil adds risk-off pressure",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/asia-chip-stocks-fall-as-warsh-revives-ratehike-fears-oil-adds-riskoff-pressure-4882105",
-     "t": "agg"
-    }
-   ],
-   "heat": 24.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-24 19:30",
-   "title": "S&P 500: Wall Street Closes Down 0.69% Closing at 7,691.76 as Treasury Yields Hit Multi-Decade Highs Amid US-Iran Tensio",
-   "summary": "S&P 500: Wall Street Closes Down 0.69% Closing at 7,691.76 as Treasury Yields Hit Multi-Decade Highs Amid US-Iran Tensions &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNS0xma0xwdGdOWjFtVDJNUDJzYXZQSXEwYWtaUjlObDRfSFlCTFdhcGRGeU4wMTk4VU5venFuUUFYbkRqb05VTlBCOTlvdG1qc1Vfb0ZNdGQ0eS1RQWZ4SnB4TzE2QktGZkV0cy1DYldUT0NPM05fQ2QySGZfUHZ4OFFrcEhaaFVVa01fZjhjNDBjSDRyMEtGQmxjV1R0Z0FYeVhGekgzMUlnTTVuVWJTclF2SFB2Z2xTbFgxTTEwVnJwS1VJUlFDdVllRHVCdU5CWVdJaEFEOHd6czVadnhCUkpabUpMamJIQzlPbzh4elc2Zw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 24.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-31 09:49",
-   "title": "Japan’s Takaichi Holds Steady in Polls Despite Price Concerns",
-   "summary": "Japanese Prime Minister Sanae Takaichi’s popularity remained relatively steady in media polls conducted over the weekend, with inflation remaining a top concern for the public.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-31/japan-s-takaichi-holds-steady-in-polls-despite-price-concerns",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-31 03:40",
-   "title": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
-   "summary": "Trump's attack on NBC comes after the Treasury barred journalists from The New York Times, The Wall Street Journal and Bloomberg from attending the G20.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 22.8
+   "heat": 61.5
   },
   {
    "cat": "macro",
@@ -181,35 +195,21 @@
      "t": "agg"
     }
    ],
-   "heat": 22.0
+   "heat": 54.0
   },
   {
    "cat": "macro",
-   "time": "2026-08-27 17:04",
-   "title": "State-Owned Developer Bucks Property Slump as Prime-City Strategy Pays Off",
-   "summary": "State-Owned Developer Bucks Property Slump as Prime-City Strategy Pays Off &nbsp;&nbsp; Caixin Global",
+   "time": "2026-08-31 16:42",
+   "title": "U.S., Iran exchange strikes for first time since July as Trump threatens strategic oil hub",
+   "summary": "The last major U.S. strikes on Iran were carried out in late July.",
    "srcs": [
     {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMGpiZlBJWlo1cGw1OGtfY21mS0hENkdpcEwxYXRkcHlBeVpQb1k2WGZfdTNGelZ1SVZsTlVQclhhV1loYVJEUVhLZktuRHJXODBfYlgwc1JpNkdxVjVmOXJzNzNJYjlIZzAzWDUzUXI5WmQ5d1BnLTlNck9MSmlTaFU0THdmRTV0ZzdKTWl4R2I1aDRvNlhnUl92VHRaU3F0NWxoLWViLVJRR3ZrVXF0SWc5OGNucGVKazRlNEpjbUhPcGxMdXlyTw?oc=5",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
      "t": "sec"
     }
    ],
-   "heat": 20.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-08-31 10:15",
-   "title": "GPIF Would Be Justified in Buying More Japan Bonds, Analysts Say",
-   "summary": "Japanese bond yields have climbed so sharply that analysts say Government Pension Investment Fund may be justified in eventually raising its domestic debt allocation target from 25…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-31/gpif-would-be-justified-in-buying-more-japan-bonds-say-analysts",
-     "t": "sec"
-    }
-   ],
-   "heat": 19.9
+   "heat": 43.9
   },
   {
    "cat": "sector",
@@ -223,11 +223,67 @@
      "t": "sec"
     }
    ],
-   "heat": 227.1
+   "heat": 202.0
   },
   {
    "cat": "sector",
-   "time": "2026-08-31 09:40",
+   "time": "2026-08-31 15:40",
+   "title": "Binghatti Addresses Debt Concerns as Dubai Projects Grow",
+   "summary": "Dubai developer BinGhatti is under scrutiny from rating agencies over tightening liquidity and elevated debt levels. Chairman Muhammad BinGhatti joined Horizons Middle East and Afr…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-31/binghatti-addresses-debt-concerns-as-dubai-projects-grow-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-31 15:29",
+   "title": "Russia preparing 'massive strikes' on Ukraine's energy sites after deadliest attack of the year",
+   "summary": "Russia's Defense Ministry has announced preparations for \"massive strikes\" on Ukraine's energy infrastructure.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/08/31/russia-massive-strikes-ukraine-energy-infrastructure.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-31 15:21",
+   "title": "Horizons Middle East & Africa 8/31/2026",
+   "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-31/horizons-middle-east-africa-8-31-2026-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-31 13:30",
+   "title": "US Attacks Iran Mine-Launchers, Oil Gains, More",
+   "summary": "Source: Bloomberg, 5:44",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-31/us-attacks-iran-mine-launchers-oil-gains-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-31 11:15",
    "title": "China's factory activity shrinks for second straight month, contracting less than expected",
    "summary": "China's manufacturing activity shrank for a second straight month, keeping pressure on Beijing to support the economy as growth loses momentum.",
    "srcs": [
@@ -237,27 +293,13 @@
      "t": "sec"
     }
    ],
-   "heat": 223.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-31 09:25",
-   "title": "US Strikes Iranian Rocket Launchers",
-   "summary": "The US military on Sunday said it had struck Iranian rocket launchers that were preparing to send mines into the Strait of Hormuz, following weeks of relative calm. Bloomberg's Wen…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-31/us-strikes-iranian-rocket-launchers-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.8
+   "heat": 199.0
   },
   {
    "cat": "sector",
    "time": "2026-08-31 09:24",
-   "title": "SK Hynix Weighs Japan Memory Fab Partnership to Supply AI Boom",
-   "summary": "SK Hynix Inc. is studying the feasibility of a joint venture to make memory chips in Japan, one of several options under consideration to meet surging AI demand while controlling p…",
+   "title": "SK Hynix Weighs Japan Plant Deal to Supply AI Boom",
+   "summary": "SK Hynix Inc. is studying the feasibility of potential sites for memory chip manufacturing expansion in Japan, adding to efforts to meet surging AI demand while controlling product…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
@@ -265,77 +307,21 @@
      "t": "sec"
     }
    ],
-   "heat": 223.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-31 09:16",
-   "title": "Thailand Plans Closer Gold Market Supervision to Curb Misuse",
-   "summary": "Thailand plans to tighten oversight of the gold-trading industry, including online transactions and physical bullion, as the government seeks to curb money laundering, scams and ot…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-31/thailand-plans-closer-gold-market-supervision-to-curb-misuse",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-31 09:12",
-   "title": "U.S., Iran trade attacks as hostilities escalate once again",
-   "summary": "The last major U.S. strikes on Iran were carried out in late July.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.8
+   "heat": 198.7
   },
   {
    "cat": "sector",
    "time": "2026-08-31 09:00",
-   "title": "Indian Billionaire Taps $700 Million Private Credit for Megha Buyout",
-   "summary": "A key shareholder of India’s Megha Engineering &amp; Infrastructures Ltd. is seeking to raise about $700 million from global private credit investors to buy out his uncle’s stake i…",
+   "title": "CX Daily: Chinese Graduates Swarm Grassroots Jobs as Government Hiring Shrinks",
+   "summary": "CX Daily: Chinese Graduates Swarm Grassroots Jobs as Government Hiring Shrinks &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-31/indian-billionaire-taps-700-million-private-credit-for-megha-buyout",
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU05ZZDlMUGo3eVFwbmJlUWU4OEJUczkwbHdKYnZkNVBXQ2RaanphM1M4Y0ZrUV9BODdpNXJWb1MxRGNaSHI0d2JjamowMkswS0JIdzBGSlloZTA5aTFCWTY5TFphSjc4cWJmemVBcHJaZHpZWFU0MUZSS3BIWW1faFF0U01UTllNNmVjczdFOWpXeUR3YklTelJGNzA5V1NQSVJuUUhES2IyN3dNWnEzYkRMQlRhazdGbGN4MWlWLUpnV1JBTUVoNUZIenU?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 223.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-31 08:37",
-   "title": "Grand Canyon Flash Flood Leaves at Least 15 Missing",
-   "summary": "At least 15 people may be missing or unaccounted for after a flash flood in the Grand Canyon, the National Park Service said in a statement on Sunday.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-31/grand-canyon-flash-flood-leaves-at-least-15-missing",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-31 07:00",
-   "title": "Trump’s Iran War Sets Test for Xi and Putin’s Security Club",
-   "summary": "President Donald Trump’s intensifying economic campaign against Iran is testing the limits of the security grouping Xi Jinping and Vladimir Putin have spent years expanding as a co…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-30/trump-s-iran-war-sets-test-for-xi-and-putin-s-security-club",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.4
+   "heat": 198.6
   },
   {
    "cat": "sector",
@@ -349,21 +335,35 @@
      "t": "sec"
     }
    ],
-   "heat": 223.3
+   "heat": 198.2
   },
   {
    "cat": "sector",
-   "time": "2026-08-31 06:14",
-   "title": "Rescuers battle floods and debris as Himalayan disaster death toll nears 800",
-   "summary": "Beijing said 261 foreign nationals from 23 countries were unaccounted for in Tibet, near a key border crossing with Nepal.",
+   "time": "2026-08-31 06:06",
+   "title": "Latest Oil Market News and Analysis for Aug. 31",
+   "summary": "Oil rose as tensions spiked in the Middle East, with the US and Iran exchanging strikes for the first time in about a month and Tehran claiming a tanker was hit by mines in the Str…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/30/rescuers-race-to-find-thousands-after-nepal-china-glacier-collapse.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-30/latest-oil-market-news-and-analysis-for-aug-31",
      "t": "sec"
     }
    ],
-   "heat": 223.3
+   "heat": 198.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-31 16:13",
+   "title": "Gold Downside Risk Deepens if the 4,432–4,454 Support Zone Fails",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-downside-risk-deepens-if-the-44324454-support-zone-fails-200686787",
+     "t": "agg"
+    }
+   ],
+   "heat": 197.8
   },
   {
    "cat": "sector",
@@ -377,7 +377,35 @@
      "t": "sec"
     }
    ],
-   "heat": 222.2
+   "heat": 197.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-08-30 22:55",
+   "title": "Author Explores Cybersecurity Risks of Driverless Cars",
+   "summary": "Former New York City Traffic Commissioner Sam Schwartz joins hosts Christina Ruffini and Bailey Lipschultz on Bloomberg This Weekend and warns that the expansion of autonomous vehi…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-08-30/author-explores-cybersecurity-risks-of-driverless-cars-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 197.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-31 09:55",
+   "title": "Shein Shares Plunge on Gray Market Ahead of Hong Kong Debut",
+   "summary": "Shein Global Holdings Ltd. shares fell as much as 17% in gray market trading ahead of the company’s formal debut on the Hong Kong stock exchange on Tuesday.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-31/shein-at-26-billion-still-stirs-unease-over-growth-outlook",
+     "t": "sec"
+    }
+   ],
+   "heat": 134.8
   },
   {
    "cat": "stock",
@@ -391,35 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 116.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-31 01:57",
-   "title": "Earnings call transcript: Carma posts strong H2 2026 growth as stock edges up",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/transcripts/earnings-call-transcript-carma-posts-strong-h2-2026-growth-as-stock-edges-up-93CH-4882110",
-     "t": "agg"
-    }
-   ],
-   "heat": 104.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-30 21:00",
-   "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals",
-   "summary": "When the U.S.-Canada trade war erupted, the market repriced metals and materials stocks and ETFs, but longer-term investors should be wary.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 101.7
+   "heat": 130.9
   },
   {
    "cat": "stock",
@@ -433,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 100.0
+   "heat": 128.0
   },
   {
    "cat": "stock",
@@ -447,11 +447,11 @@
      "t": "sec"
     }
    ],
-   "heat": 100.0
+   "heat": 128.0
   },
   {
    "cat": "stock",
-   "time": "2026-08-31 10:38",
+   "time": "2026-08-31 16:22",
    "title": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates",
    "summary": "The Dow is up 2.1% in August, on pace for its fifth consecutive monthly advance.",
    "srcs": [
@@ -461,7 +461,63 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 115.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-31 15:19",
+   "title": "Stock Movers: Unimicron, CXMT, Minimax (Podcast)",
+   "summary": "Source: Bloomberg, 4:38",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-31/stock-movers-unimicron-cxmt-minimax-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 115.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-31 14:39",
+   "title": "Stock Movers: Advantest, CXMT, China Construction Bank (Podcast)",
+   "summary": "Source: Bloomberg, 5:01",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-31/stock-movers-advantest-cxmt-china-construction-bank-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 115.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-31 13:58",
+   "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+   "summary": "Stock Market: Will S&P 500 Open Up or Down Today? &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWo2aVdFbGhxSTVkRzRBNE9CLVZNV3NiZjBNck40YklIb1Z5VlNqeVNQbENxNDM2RER5NVpLd2RMU3h4c3o4OTZmOXhRbTZJSUxSU3JBR3R3LWhfcnJxWm0wLTU1REhRcjJ3STFyZG9fal9TR0lqeWgzU1F2TFI5alFsN2hNN3hNMW80aFBrMkVINVlLNjlKYlR1eUhvWURzNURpV2gxTEFEUHVMOUpOSF9nWVBibk0?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 115.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-31 13:28",
+   "title": "Emerging-Market Stocks Set for Best August in Two Decades",
+   "summary": "Emerging-market stocks are heading for their biggest August advance since 2004 as the rally broadens beyond the biggest artificial-intelligence stocks and gets a boost from commodi…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-08-31/emerging-market-stocks-fall-as-warsh-stokes-fed-rate-hike-bets",
+     "t": "sec"
+    }
+   ],
+   "heat": 115.4
   },
   {
    "cat": "stock",
@@ -475,7 +531,49 @@
      "t": "sec"
     }
    ],
-   "heat": 90.0
+   "heat": 113.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-31 09:01",
+   "title": "Why is Bakkafrost stock sliding today?",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/why-is-bakkafrost-stock-sliding-today-93CH-4882318",
+     "t": "agg"
+    }
+   ],
+   "heat": 112.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-31 08:57",
+   "title": "Why is Shandong Gold Mining stock surging today?",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/why-is-shandong-gold-mining-stock-surging-today-93CH-4882312",
+     "t": "agg"
+    }
+   ],
+   "heat": 112.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-08-31 08:56",
+   "title": "UBS upgrades Kaiser Aluminum stock rating on improving fundamentals",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/analyst-ratings/ubs-upgrades-kaiser-aluminum-stock-rating-on-improving-fundamentals-93CH-4882311",
+     "t": "agg"
+    }
+   ],
+   "heat": 112.6
   },
   {
    "cat": "stock",
@@ -489,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 89.7
+   "heat": 112.6
   },
   {
    "cat": "stock",
@@ -503,250 +601,194 @@
      "t": "sec"
     }
    ],
-   "heat": 89.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-29 20:12",
-   "title": "Bank of America says these stocks have upside heading into September",
-   "summary": "Several stocks offer plenty more room to appreciate in September, Bank of America said this week.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/29/bank-of-america-says-these-stocks-have-upside-heading-into-september.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 85.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-28 17:38",
-   "title": "DJIA, Nasdaq and SP 500: US Markets Rally as Nvidia and Software Stocks Ignite Economic Rebound - BBN Times",
-   "summary": "DJIA, Nasdaq and SP 500: US Markets Rally as Nvidia and Software Stocks Ignite Economic Rebound &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR2Q1Rm5tRHVKUGp5dTB1NkhaYkRKb0dtUjhHcDJQUzlYbUxfeW85MDlHanI1SHBQb3dvbDZuemV5SmNfSFItLWtVb281VjVCZDZTZTVaaWgwOEh1Y2JtekV3cmNuRjRWQW8zR1JtLU5PV3NPeW9zUThzaVNFcl9RYVdSZFdJci1qX0dsb2lWMFJPZ1p6RUdMX2J4ajJWcHR0UTR4MHlPVVNoeUZWTG1VMjNMblBNVzJlNjBXOUxZN2hvWVZtbWVJenNBYzRnQQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 84.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-28 16:48",
-   "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Slip Ahead of Kevin Warsh's Jackson Hole Speech — MRVL, PYPL, IREN, GAP ",
-   "summary": "Stock Market Today: S&P 500, Nasdaq 100 Futures Slip Ahead of Kevin Warsh's Jackson Hole Speech — MRVL, PYPL, IREN, GAP in Focus &nbsp;&nbsp; TradingView",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTTRPWXFrb0hwLW9jdUh3SnQ2TnFIV3FPQUpBVkZ2QmhXYUE5d2d5NG1FdlZNMFBBR1RxeFdONzNBYUJEc1FVZk1mNTJsNTZjTDk3Q2pVQlVDenlPVm8xU21QdHM3aDYtbmF5bHBpdmc0N3V6ZmxWVy1JZG1MTHYzRUltSzd6cUtkUUdGWnpwbEpOeHloeU1zMVhNdWk4VXRsQjFuVlRKNms4LWdqcWI3VUhKejNZeWJIUkQ5dGJMMGcyZ1MyX2hQU2tyVXg4eGFYM0VmTE1WYkl3OElfQVJfUkVpcVVreEFEWVFlSlBwQXpBUkVRYlI3ek8xUDA0WUtfeTdKc3phRnZic2I0?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 84.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-28 01:49",
-   "title": "US Stocks Open Mixed: S&P 500 and Nasdaq Rise While Dow Slips - CryptoRank",
-   "summary": "US Stocks Open Mixed: S&P 500 and Nasdaq Rise While Dow Slips &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmI3SzdoYnEwMU5FRkI0LU1DUWZOUl9OMEd2bFJFdVJEd05oWThhSnc2aEUzRF9IMjRPTF9RTmVVWEVxLTQxNFI1c3h1RExQZ2NtaEpuY0xnQ09Rb1p3OWVFTHhKdFVubjlpZ29IS2xDekp6ZU9taUFSYk1VUVRUNjJ2TUk?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 84.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-27 20:14",
-   "title": "Low-wage S&P 500 companies spent $718 billion on stock buybacks since 2019, report finds - NationofChange",
-   "summary": "Low-wage S&P 500 companies spent $718 billion on stock buybacks since 2019, report finds &nbsp;&nbsp; NationofChange",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcEJEXzJMbTZRanVfeHhIQ2dXTy00MWItUEZpOVVWblRfU2p6ZG9HZm9uS0xPTGVTNlU2TjRWczhFbzNFdk1DX3FicHQ4UlVDS3R5QzFqUGNCVjktMzJhSGN6cmsxSEpvMzVjbVF0TkVhZ3lEMHN5NjVFS252MFNEVUxLNzF2b2RLUkJKTi1hajRKV24xRXBIbWJmcGdfaHBYc2w4WVY1Y3FJSmdFV2NqRnlLMU1nbERFTDVjOXBXT0dpMkpBcVNZ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 84.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-08-26 15:00",
-   "title": "Breaking Down the Stock Market Under Trump vs. Biden - SmartAsset.com",
-   "summary": "Breaking Down the Stock Market Under Trump vs. Biden &nbsp;&nbsp; SmartAsset.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zZlJOTnBvV3FVQlVCaktjVTloa2kwaVR3RHlxSjdybDdlaUhINEN5ZDAwbjZlUzV6VEw4WWFveF9SNDFjREQ0VEcxQkM2MkN3dnk3blkyQXlKU2VONXdlZ3QxcjI0WENXaGEzTg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 84.0
+   "heat": 112.3
   },
   {
    "cat": "global",
-   "time": "2026-08-31 10:35",
-   "title": "Canadian Dollar strengthens despite hawkish Fed rhetoric",
-   "summary": "The USD/CAD pair edges lower to around 1.3890 during the Asian trading hours on Monday. Renewed tensions between the US and Iran boost crude oil prices, supporting the commodity-li…",
+   "time": "2026-08-31 13:25",
+   "title": "Indian Rupee drops amid renewed Middle East tensions, hawkish Fed bets",
+   "summary": "The Indian Rupee (INR) opens slightly lower against the US Dollar (USD) at the start of the week. The USD/INR pair ticks up to near 95.43, as higher oil prices due to renewed tensi…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/canadian-dollar-strengthens-despite-hawkish-fed-rhetoric-202608310235",
+     "u": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-renewed-us-iran-tensions-lift-oil-prices-202608310525",
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 103.4
   },
   {
    "cat": "global",
-   "time": "2026-08-31 09:59",
-   "title": "Oil Jumps After US Strikes, US-Canada Trade War Continues, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-31/oil-jumps-after-us-strikes-us-canada-trade-war-continues-more-mtglb4lj",
-     "t": "sec"
-    }
-   ],
-   "heat": 55.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-31 08:54",
-   "title": "Oil Jumps as US Strikes Iran, US-Canada Trade War Heats Up, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-31/oil-jumps-as-us-strikes-iran-us-canada-trade-war-heats-up-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 55.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-31 08:46",
-   "title": "Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island",
-   "summary": "Oil rises Monday, amid heightened concerns over supply disruptions after U.S. forces struck two Iranian rocket launchers on Larak Island on Sunday.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 55.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-31 07:13",
-   "title": "Oil Jumps With US Strikes, US-Canada Trade War Heats Up, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-30/oil-jumps-with-us-strikes-us-canada-trade-war-heats-up-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 55.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-31 05:31",
-   "title": "US to Take Majority Control of Venezuela’s Oil Wealth",
-   "summary": "Get caught up.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-30/us-to-take-majority-control-of-venezuela-s-oil-wealth",
-     "t": "sec"
-    }
-   ],
-   "heat": 55.1
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-31 01:33",
-   "title": "Nepal Warns of More Deadly Floods, Venezuela Defends US Oil Deal",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-08-30/nepal-warns-of-more-deadly-floods-venezuela-defends-us-oil-deal",
-     "t": "sec"
-    }
-   ],
-   "heat": 54.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-30 16:40",
-   "title": "PetroChina Profits Point to Nimbler Future Post-Peak Oil Demand",
-   "summary": "PetroChina Co.’s rising profits from trading and chemicals point to how China’s oil majors are adjusting to a new era of declining demand for gasoline and diesel.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-30/petrochina-first-half-profit-rises-22-on-higher-oil-prices",
-     "t": "sec"
-    }
-   ],
-   "heat": 53.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-31 02:30",
-   "title": "Oil jumps more than 1% after US attack on Iran’s Larak island",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/commodities-news/oil-jumps-more-than-2-after-us-attack-on-irans-larak-island-4882075",
-     "t": "agg"
-    }
-   ],
-   "heat": 52.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-31 09:59",
-   "title": "New Zealand Dollar inches higher as China’s Manufacturing PMI ticks up in August",
-   "summary": "NZD/USD remains subdued for the second successive day, trading around 0.5910 during the Asian hours on Monday. However, the NZD/USD pair pares some of its daily losses as the New Z…",
+   "time": "2026-08-31 16:57",
+   "title": "USD/JPY Price Forecast: US Dollar keeps crawling towards the key 160.00 area",
+   "summary": "The Japanese Yen (JPY) pares some losses on Monday’s European session, as the US Dollar (USD) pulls back against its main peers, with the dust from the Jackson Hole meeting settlin…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/new-zealand-dollar-inches-higher-as-chinas-manufacturing-pmi-ticks-up-in-august-202608310159",
+     "u": "https://www.fxstreet.com/news/usd-jpy-price-forecast-us-dollar-keeps-crawling-towards-the-key-16000-area-202608310857",
      "t": "sec"
     }
    ],
-   "heat": 47.9
+   "heat": 84.0
   },
   {
    "cat": "global",
-   "time": "2026-08-31 09:43",
-   "title": "Australian Dollar moves little following China’s NBS PMI data",
-   "summary": "AUD/USD edges higher after opening at a bearish gap, remaining in the negative territory and trading around 0.7160 during the Asian hours on Monday.",
+   "time": "2026-08-31 16:55",
+   "title": "Euro: Downside risk remains in focus against US Dollar – UOB",
+   "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight an unexpectedly sharp EUR/USD drop to 1.1577, with the pair closing weaker at 1.1584. They see scope for furth…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/australian-dollar-moves-little-following-chinas-nbs-pmi-data-202608310143",
+     "u": "https://www.fxstreet.com/news/euro-downside-risk-remains-in-focus-against-us-dollar-uob-202608310855",
      "t": "sec"
     }
    ],
-   "heat": 47.8
+   "heat": 80.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-31 16:50",
+   "title": "Euro recovers against US Dollar, German CPI accelerates",
+   "summary": "The Euro (EUR) is up 0.15% to near 1.1600 against the US Dollar (USD) during the European trading session on Monday. The major currency pair gains as the US Dollar corrects after a…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/euro-recovers-against-us-dollar-german-cpi-accelerates-202608310850",
+     "t": "sec"
+    }
+   ],
+   "heat": 79.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-31 16:14",
+   "title": "Euro strengthens against Canadian Dollar ahead of Germany’s HICP data",
+   "summary": "EUR/CAD appreciates after two days of losses, trading around 1.6120 during the European hours on Monday.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/euro-strengthens-against-canadian-dollar-ahead-of-germanys-hicp-data-202608310814",
+     "t": "sec"
+    }
+   ],
+   "heat": 79.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-31 16:07",
+   "title": "Swiss Franc edges up from 0.8100 as the US Dollar trims Friday’s gains",
+   "summary": "The Swiss Franc (CHF) shows moderate gains on Monday's early European session, as the US Dollar (USD) loses momentum with the dust of the Jackson Hole summit settling.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/swiss-franc-edges-up-from-08100-as-the-us-dollar-trims-fridays-gains-202608310807",
+     "t": "sec"
+    }
+   ],
+   "heat": 79.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-31 16:52",
+   "title": "Dow Jones futures slip as traders adopt caution amid higher oil prices",
+   "summary": "Dow Jones futures fall by 0.15% to near 53,500 during European hours on Monday. Meanwhile, S&P 500 futures decline by 0.12%, to trade near 7,710, while Nasdaq 100 futures gain by 0…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/dow-jones-futures-slip-as-traders-adopt-caution-amid-higher-oil-prices-202608310852",
+     "t": "sec"
+    }
+   ],
+   "heat": 76.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-31 16:46",
+   "title": "Australian Dollar: RBA hike risks linger – OCBC",
+   "summary": "OCBC FX Strategist Sim Moh Siong and Christopher Wong note that stronger Australian Consumer Price Index (CPI) and resilient household spending have revived expectations of another…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/australian-dollar-rba-hike-risks-linger-ocbc-202608310846",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-31 16:21",
+   "title": "US & Iran Resume Strikes, Yen Breaches 160 Per Dollar, More",
+   "summary": "Source: Bloomberg, 6:22",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-08-31/us-iran-resume-strikes-yen-breaches-160-per-dollar-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-31 17:04",
+   "title": "US Dollar: Hawkish Fed pricing supports Dollar into payrolls – BBH",
+   "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes that Kevin Warsh’s hawkish Jackson Hole speech has sharply increased market-implied odds of a September Federal Reserve rate hike…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-pricing-supports-dollar-into-payrolls-bbh-202608310904",
+     "t": "sec"
+    }
+   ],
+   "heat": 68.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-31 16:36",
+   "title": "New Zealand Dollar: RBNZ set for second hike – BNY",
+   "summary": "BNY’s Geoff Yu expects the Reserve Bank of New Zealand to deliver another 25bp hike to 2.75%, supported by elevated inflation and strong confidence data.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/new-zealand-dollar-rbnz-set-for-second-hike-bny-202608310836",
+     "t": "sec"
+    }
+   ],
+   "heat": 67.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-31 16:13",
+   "title": "Canadian Dollar remains on the front foot vs soft USD; lacks bullish conviction",
+   "summary": "The USD/CAD pair pulls back from an over two-week high, around the 1.3910-1.3915 region, earlier this Monday, stalling the recent goodish recovery from a three-month low. Spot pric…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/canadian-dollar-remains-on-the-front-foot-vs-soft-usd-lacks-bullish-conviction-202608310813",
+     "t": "sec"
+    }
+   ],
+   "heat": 67.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-08-31 16:10",
+   "title": "Canadian Dollar: BoC on hold keeps pair supported – BBH",
+   "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad expects the Bank of Canada (BoC) to keep its policy rate unchanged at 2.25% for a seventh straight meeting, as core inflation near 2% a…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/canadian-dollar-boc-on-hold-keeps-pair-supported-bbh-202608310810",
+     "t": "sec"
+    }
+   ],
+   "heat": 67.8
   },
   {
    "cat": "global",
    "time": "2026-08-31 09:00",
-   "title": "MSCI Rebalancing Threatens to Turn ‘Messy’ in New Indian Auction",
+   "title": "MSCI Rejig Threatens to Turn ‘Messy’ in New Indian Auction",
    "summary": "India’s contentious new closing auction system is about to face its biggest challenge yet as billions of dollars in passive-fund trades flow through it.",
    "srcs": [
     {
@@ -755,53 +797,25 @@
      "t": "sec"
     }
    ],
-   "heat": 47.7
+   "heat": 66.6
   },
   {
    "cat": "global",
-   "time": "2026-08-31 08:51",
-   "title": "Euro edges higher to near 1.1600 ahead of German CPI inflation release",
-   "summary": "The EUR/USD pair gathers strength to around 1.1590 during the early Asian trading hours on Monday. The US Dollar (USD) edges lower against the Euro (EUR) despite hawkish remarks fr…",
+   "time": "2026-08-31 09:06",
+   "title": "U.S. dollar pauses near two-week high amid Warsh hawkishness and data-heavy week",
+   "summary": "",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/euro-edges-higher-to-near-11600-ahead-of-german-cpi-inflation-release-202608310051",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/asian-currencies-mixed-as-yen-hovers-near-160-oil-surge-raises-riskoff-pressures-4882132",
+     "t": "agg"
     }
    ],
-   "heat": 47.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-31 07:32",
-   "title": "Australian Dollar weakens to near 0.7150 as Fed's Warsh signals rate hikes, China's PMI data loom",
-   "summary": "The AUD/USD pair loses traction to near 0.7160 during the early Asian session on Monday.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/australian-dollar-weakens-to-near-07150-as-feds-warsh-signals-rate-hikes-chinas-pmi-data-loom-202608302332",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-08-31 06:52",
-   "title": "Australian Dollar Rally, Bathla Private Credit Woes,, One Nation Victory",
-   "summary": "Get caught up.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-30/australian-dollar-rally-bathla-private-credit-woes-one-nation-victory",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.4
+   "heat": 64.7
   },
   {
    "cat": "crypto",
-   "time": "2026-08-30 20:49",
+   "time": "2026-08-31 13:59",
    "title": "Here’s what happened in crypto today",
    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
    "srcs": [
@@ -811,7 +825,21 @@
      "t": "sec"
     }
    ],
-   "heat": 69.7
+   "heat": 79.5
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-31 16:18",
+   "title": "Live updates: Bitcoin holds $78,000 as yen breaks 160 and rate-hike bets lift the dollar",
+   "summary": "Bitcoin is holding just under $78,000 as August closes. The dollar strength that pushed the yen past its intervention line is the same force capping crypto.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/tech/2026/08/31/live-updates-bitcoin-holds-usd78-000-as-yen-breaks-160-and-rate-hike-bets-lift-the-dollar",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.9
   },
   {
    "cat": "crypto",
@@ -825,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 69.6
+   "heat": 72.5
   },
   {
    "cat": "crypto",
@@ -839,49 +867,49 @@
      "t": "sec"
     }
    ],
-   "heat": 69.2
+   "heat": 72.1
   },
   {
    "cat": "crypto",
-   "time": "2026-08-31 07:36",
-   "title": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
-   "summary": "Bitcoin moves toward a post quantum future, Solana validators agree to curb rampant inflation and the bull case from Bernstein is for Bitcoin to peak at $500K this cycle.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-31 01:59",
-   "title": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
-   "summary": "Michael Saylor’s “We’re Back” post hints Strategy may resume Bitcoin buying after a two-month pause to strengthen its balance sheet.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 46.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-30 23:39",
-   "title": "Michael Saylor hints at first bitcoin purchase in two months",
-   "summary": "Bitcoin rebounds from Friday’s low as Strategy’s valuation expands and bitcoin dominance climbs above 60%.",
+   "time": "2026-08-31 16:22",
+   "title": "U.S. jobs report, Russia’s digital ruble rollout: Crypto Week Ahead",
+   "summary": "Your look at what's coming in the week starting Aug. 31.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
+     "u": "https://www.coindesk.com/markets/2026/08/31/u-s-jobs-report-russia-s-digital-ruble-rollout-crypto-week-ahead",
      "t": "sec"
     }
    ],
-   "heat": 46.2
+   "heat": 51.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-31 13:23",
+   "title": "Zcash private transactions could go from three-second waits to under 200 milliseconds",
+   "summary": "Zakura says a new cryptography stack makes mobile proof generation more than 14 times faster, removing one of the biggest delays users face when sending private ZEC.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/tech/2026/08/31/zcash-private-transactions-could-go-from-three-second-waits-to-under-200-milliseconds",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.4
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-31 11:25",
+   "title": "Cronos halts network after Tectonic exploit involving estimated $75M",
+   "summary": "Crypto.com CEO Kris Marszalek said the company’s app and exchange were unaffected by the Tectonic breach and continued operating normally.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.0
   },
   {
    "cat": "crypto",
@@ -895,77 +923,49 @@
      "t": "sec"
     }
    ],
-   "heat": 43.4
+   "heat": 50.3
   },
   {
    "cat": "crypto",
-   "time": "2026-08-29 23:00",
-   "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
-   "summary": "A new survey suggests some of bitcoin's most familiar sales pitches of changing the world may be poorly suited to a majority of prospective buyers.",
+   "time": "2026-08-31 16:04",
+   "title": "Luke Dashjr exits mining pool Ocean after split over Bitcoin mining’s future",
+   "summary": "The split was mutual, with both parties citing differing views on the future of Bitcoin mining and recent protocol developments.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+     "u": "https://www.coindesk.com/business/2026/08/31/luke-dashjr-exits-mining-pool-ocean-after-split-over-bitcoin-mining-s-future",
      "t": "sec"
     }
    ],
-   "heat": 42.1
+   "heat": 47.8
   },
   {
    "cat": "crypto",
-   "time": "2026-08-29 23:00",
-   "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
-   "summary": "AI agents are coming. They will need to pay each other. Crypto executives agree on the problem but disagree sharply on the solution, and one thinks the answer has not been invented…",
+   "time": "2026-08-31 12:29",
+   "title": "Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower",
+   "summary": "BTC remains August's best-performing asset after the latest escalation in geopolitical tensions.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+     "u": "https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower",
      "t": "sec"
     }
    ],
-   "heat": 42.1
+   "heat": 47.2
   },
   {
    "cat": "crypto",
-   "time": "2026-08-29 14:47",
-   "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
-   "summary": "US spot Bitcoin ETFs posted $201.8 million in net outflows Friday, led by ARK 21Shares, as total fund assets slipped back below $100 billion.",
+   "time": "2026-08-31 07:36",
+   "title": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
+   "summary": "Bitcoin moves toward a post quantum future, Solana validators agree to curb rampant inflation and the bull case from Bernstein is for Bitcoin to peak at $500K this cycle.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 40.7
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-29 12:30",
-   "title": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
-   "summary": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-08-29 10:30",
-   "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
-   "summary": "An Anthropic model cut the work needed to break a leading post-quantum signature candidate by a factor of 67 million last month, while Bitcoin and Ethereum published their own migr…",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.0
+   "heat": 46.4
   },
   {
    "cat": "crypto",
@@ -979,21 +979,35 @@
      "t": "sec"
     }
    ],
-   "heat": 39.5
+   "heat": 46.4
   },
   {
    "cat": "crypto",
-   "time": "2026-08-29 23:00",
-   "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
-   "summary": "Crypto executives say new blockchain payment infrastructure could make Swift obsolete. Bankers say its 11,500-institution network gives it the power to absorb the technology instea…",
+   "time": "2026-08-31 01:59",
+   "title": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
+   "summary": "Michael Saylor’s “We’re Back” post hints Strategy may resume Bitcoin buying after a two-month pause to strengthen its balance sheet.",
    "srcs": [
     {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 38.1
+   "heat": 45.5
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-08-30 23:39",
+   "title": "Michael Saylor hints at first bitcoin purchase in two months",
+   "summary": "Bitcoin rebounds from Friday’s low as Strategy’s valuation expands and bitcoin dominance climbs above 60%.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
+     "t": "sec"
+    }
+   ],
+   "heat": 45.1
   },
   {
    "cat": "crypto",
@@ -1007,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 44.0
   },
   {
    "cat": "sector",
@@ -1021,35 +1035,21 @@
      "t": "sec"
     }
    ],
-   "heat": 216.0
+   "heat": 192.0
   },
   {
    "cat": "sector",
-   "time": "2026-08-24 14:53",
-   "title": "China’s Fiscal Revenue Surges as State Spending Stagnates",
-   "summary": "China’s Fiscal Revenue Surges as State Spending Stagnates &nbsp;&nbsp; Caixin Global",
+   "time": "2026-08-29 06:48",
+   "title": "Caixin Global – Latest China News & Headlines",
+   "summary": "Caixin Global – Latest China News & Headlines &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPclBkR2oxdkNPMVdKYzlHTDU4RFNrYm03STh2M2FUNWhfdW1qOEtacTU0eUFSX3NYRkFMU0F4MnN0dTNoMlJNd1NNMk1HY3hZN2g5QVZfRFRTUVRCQk9DRHVhUndvUVM1T1NMZ1pjaDhRazZMZmdZdXJMNUJVak9JQkRva3lFd3FVUkFkZ1NON1NrNmZraGVWZWUyVzUwV3NuZUoyU21Fd3hpZWNxRHBxQg?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBmam45anlXRlhmbFcxQmFkWjRxX2NFVmdZOXJRS2phRzQ5SC1Pc2hTbXF4QlNIXzhZRWN5b1NIcHItTm8?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 216.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-08-28 14:52",
-   "title": "Natural Gas Storage Crunch Raises Europe’s Winter Supply Risk",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/natural-gas-storage-crunch-raises-europes-winter-supply-risk-200686722",
-     "t": "agg"
-    }
-   ],
-   "heat": 214.0
+   "heat": 192.0
   }
  ]
 }
