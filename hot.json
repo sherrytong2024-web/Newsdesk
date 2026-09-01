@@ -1,53 +1,109 @@
 {
- "updated": "2026-09-02 02:04",
+ "updated": "2026-09-02 06:55",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-02 00:42",
-   "title": "Apple’s Ternus Era Begins After Tim Cook Delivers 2,300% Stock Gain",
-   "summary": "Apple Inc.’s Tim Cook handed over the reins to John Ternus on Tuesday, capping a tenure as chief executive officer that cemented the company as an iconic global brand and turned it…",
+   "time": "2026-09-02 06:04",
+   "title": "Latest Oil Market News and Analysis for Sept. 2",
+   "summary": "Oil climbed for a third session on heightened concerns about prolonged disruptions to energy flows through the vital Strait of Hormuz after an escalation of hostilities between the…",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-01/apple-s-ternus-era-begins-after-tim-cook-s-historic-run-video",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-01/latest-oil-market-news-and-analysis-for-sept-2",
      "t": "sec"
     }
    ],
-   "heat": 239.8
+   "heat": 219.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-02 00:34",
-   "title": "Apple’s Former CFO Maestri Drops Role Running Corporate Services",
-   "summary": "With John Ternus beginning his role as Apple Inc. chief executive officer this week, another mainstay from the Tim Cook era is dropping his late-career responsibilities.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-01/apple-s-former-cfo-maestri-drops-role-running-corporate-services",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-02 00:27",
-   "title": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
-   "summary": "John Ternus' first day as Apple CEO comes at a critical juncture for the iPhone maker, with memory prices soaring and AI challenges looming.",
+   "time": "2026-09-02 05:40",
+   "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
+   "summary": "Kroenke Sports and Entertainment was valued at more than $26 billion in CNBC's most recent list of the world's most valuable sports empires.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+     "u": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
      "t": "sec"
     }
    ],
-   "heat": 239.7
+   "heat": 219.8
   },
   {
    "cat": "sector",
-   "time": "2026-09-02 01:51",
-   "title": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom",
-   "summary": "U.S. Central Command announced new strikes around the Strait of Hormuz following Iranian attacks on ships and U.S. military personnel.",
+   "time": "2026-09-02 05:40",
+   "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+   "summary": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 05:39",
+   "title": "AWS Invests in AI Entertainment",
+   "summary": "Amazon Web Services is working with Amazon MGM Studios on a major new initiative at the intersection of AI and entertainment: A gen AI film fund and a new AI production platform fo…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-01/aws-invests-in-ai-entertainment-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 05:07",
+   "title": "Bloomberg Businessweek Daily: Iran War Escalates (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-01/bloomberg-businessweek-daily-iran-war-escalates-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 05:03",
+   "title": "US, Iran Escalate Attacks, Dell Gains On AI Server Sales, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-01/us-iran-escalate-attacks-dell-gains-on-ai-server-sales-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 04:59",
+   "title": "Big Take: Ukraine Faces a Dangerous, Pivotal Winter (Podcast)",
+   "summary": "Source: Bloomberg, 14:08",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-01/big-take-ukraine-faces-a-dangerous-pivotal-winter-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 04:56",
+   "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
+   "summary": "U.S. Central Command announced new strikes around the Strait of Hormuz following Iranian attacks on ships and U.S. military personnel. Iran said it retaliated.",
    "srcs": [
     {
      "n": "CNBC",
@@ -55,91 +111,35 @@
      "t": "sec"
     }
    ],
-   "heat": 228.0
+   "heat": 219.7
   },
   {
    "cat": "sector",
-   "time": "2026-09-02 01:38",
-   "title": "Nestle Sells Vitamins Business to Private Equity for $1 Billion",
-   "summary": "Nestle SA plans to sell its mainstream vitamins and supplements business to US private equity firm Yellow Wood Partners for $1 billion as Chief Executive Officer Philipp Navratil t…",
+   "time": "2026-09-02 04:52",
+   "title": "Apple Sets Pay Targets at $58 Million for Ternus, $47 Million for Cook",
+   "summary": "Apple Inc. said that new Chief Executive Officer John Ternus will get a compensation package worth about $58 million in fiscal 2027, while Tim Cook’s role as executive chairman wil…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-01/nestle-sells-vitamins-business-to-private-equity-for-1-billion",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-01/apple-sets-pay-targets-at-58-million-for-ternus-47-million-for-cook",
      "t": "sec"
     }
    ],
-   "heat": 227.9
+   "heat": 219.7
   },
   {
    "cat": "sector",
-   "time": "2026-09-02 01:26",
-   "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
-   "summary": "Canadian Prime Minister Mark Carney said \"It's beneath their office' when asked about Trump Cabinet secretaries insulting his nation's military.",
+   "time": "2026-09-02 04:44",
+   "title": "Bloomberg Businessweek Daily: Prediction Addiction (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-01/bloomberg-businessweek-daily-prediction-addiction-podcast",
      "t": "sec"
     }
    ],
-   "heat": 227.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-02 01:09",
-   "title": "US Strikes Targets in Iran Around Strait of Hormuz",
-   "summary": "The US launched strikes against Iranian targets around the Strait of Hormuz, following Iran's attacks on commercial shipping and American forces in the region. Oil prices are spiki…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-01/us-strikes-targets-in-iran-around-strait-of-hormuz-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-02 01:02",
-   "title": "AI token prices are hitting new record lows",
-   "summary": "A closely followed measure of artificial intelligence token prices touched fresh lows.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-02 00:50",
-   "title": "Big Tech Is Incapable of Solving Its Own Problem, Says Mukunda",
-   "summary": "Bill Gates, the billionaire co-founder of Microsoft Corp., published a 6,000-word essay on Aug. 26 saying that he would slow the development of artificial intelligence if he could.…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-01/big-tech-incapable-of-solving-its-own-problem-mukunda-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-02 00:36",
-   "title": "How one of the largest investors in student housing is playing this school year",
-   "summary": "Mike Gordon of Harrison Street Asset Management said funding cuts and enrollment trends are making specialization more vital than ever.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.8
+   "heat": 219.6
   }
  ]
 }
