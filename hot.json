@@ -1,23 +1,37 @@
 {
- "updated": "2026-09-01 21:49",
+ "updated": "2026-09-02 02:04",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-01 20:28",
-   "title": "Here are Tuesday's biggest analyst calls: Nvidia, SpaceX, Microsoft, Robinhood, Apple, Cisco, Airbnb & more",
-   "summary": "Here are the biggest calls on Wall Street on Tuesday.",
+   "time": "2026-09-02 00:42",
+   "title": "Apple’s Ternus Era Begins After Tim Cook Delivers 2,300% Stock Gain",
+   "summary": "Apple Inc.’s Tim Cook handed over the reins to John Ternus on Tuesday, capping a tenure as chief executive officer that cemented the company as an iconic global brand and turned it…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/01/tuesdays-biggest-analyst-calls-include-spacex-nvidia.html",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-01/apple-s-ternus-era-begins-after-tim-cook-s-historic-run-video",
      "t": "sec"
     }
    ],
-   "heat": 227.8
+   "heat": 239.8
   },
   {
    "cat": "sector",
-   "time": "2026-09-01 19:00",
+   "time": "2026-09-02 00:34",
+   "title": "Apple’s Former CFO Maestri Drops Role Running Corporate Services",
+   "summary": "With John Ternus beginning his role as Apple Inc. chief executive officer this week, another mainstay from the Tim Cook era is dropping his late-career responsibilities.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-01/apple-s-former-cfo-maestri-drops-role-running-corporate-services",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 00:27",
    "title": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
    "summary": "John Ternus' first day as Apple CEO comes at a critical juncture for the iPhone maker, with memory prices soaring and AI challenges looming.",
    "srcs": [
@@ -27,67 +41,95 @@
      "t": "sec"
     }
    ],
-   "heat": 227.5
+   "heat": 239.7
   },
   {
    "cat": "sector",
-   "time": "2026-09-01 15:43",
-   "title": "Apple’s Ternus Has ‘Huge Shoes to Fill’ After Cook’s 2,300% Gain",
-   "summary": "Apple Inc.’s Tim Cook handed over the reins to John Ternus on Tuesday, capping a tenure as chief executive officer that cemented the company as an iconic global brand and turned it…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-01/apple-s-2-300--gain-under-cook-is-tough-act-for-ternus-to-follow",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-01 19:02",
-   "title": "Nvidia’s MediaTek Investment Marks the Next AI Chipmaking Champion to Watch",
-   "summary": "Nvidia and Google are investing in Taiwan’s unheralded chipmaker",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-01/nvidia-s-mediatek-investment-marks-the-next-ai-chipmaking-champion-to-watch",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-01 16:00",
-   "title": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal",
-   "summary": "The two companies will work on integrating Nvidia technology with MediaTek's custom AI chip business as well as other areas such as PCs and cars.",
+   "time": "2026-09-02 01:51",
+   "title": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom",
+   "summary": "U.S. Central Command announced new strikes around the Strait of Hormuz following Iranian attacks on ships and U.S. military personnel.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/01/nvidia-deal-mediatek-shares.html",
+     "u": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
      "t": "sec"
     }
    ],
-   "heat": 223.0
+   "heat": 228.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-01 21:40",
-   "title": "Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot",
-   "summary": "Whatnot and TikTok are tapping into its potential livestream shopping in the U.S. after a decade of massive success in China.",
+   "time": "2026-09-02 01:38",
+   "title": "Nestle Sells Vitamins Business to Private Equity for $1 Billion",
+   "summary": "Nestle SA plans to sell its mainstream vitamins and supplements business to US private equity firm Yellow Wood Partners for $1 billion as Chief Executive Officer Philipp Navratil t…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-01/nestle-sells-vitamins-business-to-private-equity-for-1-billion",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 01:26",
+   "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
+   "summary": "Canadian Prime Minister Mark Carney said \"It's beneath their office' when asked about Trump Cabinet secretaries insulting his nation's military.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/01/tiktok-whatnot-livestream-shopping.html",
+     "u": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
      "t": "sec"
     }
    ],
-   "heat": 220.0
+   "heat": 227.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-01 21:00",
+   "time": "2026-09-02 01:09",
+   "title": "US Strikes Targets in Iran Around Strait of Hormuz",
+   "summary": "The US launched strikes against Iranian targets around the Strait of Hormuz, following Iran's attacks on commercial shipping and American forces in the region. Oil prices are spiki…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-01/us-strikes-targets-in-iran-around-strait-of-hormuz-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 01:02",
+   "title": "AI token prices are hitting new record lows",
+   "summary": "A closely followed measure of artificial intelligence token prices touched fresh lows.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 00:50",
+   "title": "Big Tech Is Incapable of Solving Its Own Problem, Says Mukunda",
+   "summary": "Bill Gates, the billionaire co-founder of Microsoft Corp., published a 6,000-word essay on Aug. 26 saying that he would slow the development of artificial intelligence if he could.…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-01/big-tech-incapable-of-solving-its-own-problem-mukunda-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 00:36",
    "title": "How one of the largest investors in student housing is playing this school year",
    "summary": "Mike Gordon of Harrison Street Asset Management said funding cuts and enrollment trends are making specialization more vital than ever.",
    "srcs": [
@@ -97,49 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-01 20:55",
-   "title": "S&P 500, NASDAQ Futures Fall as Investors Await Key US Jobs Data - Analytics Insight",
-   "summary": "S&P 500, NASDAQ Futures Fall as Investors Await Key US Jobs Data &nbsp;&nbsp; Analytics Insight",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUc3MW1hMm9JTUVUTlIxUU1ZY1lSQ2JpNEhrV0FWbmtha3lvT01SMWJtTTlaZUJsamdLWUNaNnY0ZFVTM3U1QmNveWJ5V29PN2QwMDdUVnhqWG9Gbl9Jel82QXRwaElEdHNaNUl4a2hQYzY1Rlgtb2JSS2paOUhuZmVxdWVnZlV4WF9YVUhyUWhtVlliZWxBdkFMOXZJOGl1OWhRYtIBsgFBVV95cUxONlhoTDBxc0VrcjNUUGN5VTd0MVh0ZG1WXzNWN0s3U3dlSkN2cXJSMUtuazVRcWs4SGktclVTY2NyLTJwRXRzRU1PSzdPTU5IaVBBQTRkUnJHSE5kM1hYdVQ5dnNFNTl6QzhBNFZZVS15YmhCaDJ0YTA3c3hGdnV3YkpOMF9ydkVVTlItUWZNNDVEWHlHYU85ckZFUGVyYTFWTmZnVDhpZVRxUU5ZckRaV0hB?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-01 20:50",
-   "title": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
-   "summary": "Last-mile delivery company OneRail is launching a new platform with Nvidia to use AI to help retailers make faster and more efficient delivery decisions.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-01 20:00",
-   "title": "Toyota's hybrid RAV4 is in demand as dealers wait for more supply",
-   "summary": "When Toyota announced the new version of its SUV, it said the RAV4 would only be available as a hybrid and that production would be limited at first.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/01/toyota-rav4-dealer-inventory.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.7
+   "heat": 227.8
   }
  ]
 }
