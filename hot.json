@@ -1,53 +1,53 @@
 {
- "updated": "2026-09-01 08:15",
+ "updated": "2026-09-01 16:09",
  "items": [
   {
-   "cat": "macro",
-   "time": "2026-09-01 07:55",
-   "title": "Gold Holds Decline as Mideast Flare-Up Raises Fed Rate-Hike Bets",
-   "summary": "Gold steadied after a two-day drop as the US and Iran exchanged strikes for the first time in a month, raising the odds of rising energy costs pushing up inflation and pressuring t…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-31/gold-holds-decline-as-mideast-flare-up-raises-fed-rate-hike-bets",
-     "t": "sec"
-    }
-   ],
-   "heat": 95.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-01 04:50",
-   "title": "Trump says U.S. growth could hit 20%. It’s happened only once since WWII",
-   "summary": "Trump argued rapid growth should not prompt Fed rate hikes, even as inflation remains above the central bank’s 2% target.",
+   "cat": "sector",
+   "time": "2026-09-01 16:00",
+   "title": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal",
+   "summary": "The two companies will work on integrating Nvidia technology with MediaTek's custom AI chip business as well as other areas such as PCs and cars.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
+     "u": "https://www.cnbc.com/2026/09/01/nvidia-deal-mediatek-shares.html",
      "t": "sec"
     }
    ],
-   "heat": 95.4
+   "heat": 200.0
   },
   {
-   "cat": "macro",
-   "time": "2026-08-31 06:13",
-   "title": "Stocks Fall as US-Iran Strikes Spur Rally in Oil: Markets Wrap",
-   "summary": "A flare-up in geopolitical risks sent stocks and bonds lower as oil climbed, raising concerns about inflationary pressures that could make the Federal Reserve raise interest rates.",
+   "cat": "sector",
+   "time": "2026-09-01 15:43",
+   "title": "Apple’s 2,275% Gain Under Cook Is Tough Act for Ternus to Follow",
+   "summary": "Apple Inc.’s Tim Cook handed over the reins to John Ternus on Tuesday, capping a tenure as chief executive officer that cemented the company as an iconic global brand and turned it…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-30/stock-market-today-dow-s-p-live-updates",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-01/apple-s-2-275-gain-under-cook-is-tough-act-for-ternus-to-follow",
      "t": "sec"
     }
    ],
-   "heat": 91.7
+   "heat": 199.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-01 09:04",
+   "title": "Nvidia Mega-Deal Ushers MediaTek Into Top AI Chipmaker Club",
+   "summary": "Nvidia Corp.’s $3.5 billion outlay in MediaTek Inc., its largest direct investment outside the US, has thrust a little-known Taiwanese chip designer into the center of the global A…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-01/mediatek-shares-soar-10-after-blockbuster-nvidia-investment",
+     "t": "sec"
+    }
+   ],
+   "heat": 198.8
   },
   {
    "cat": "sector",
    "time": "2026-09-01 05:03",
-   "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
-   "summary": "Apple Inc. escalated its legal battle against OpenAI, claiming in a new court filing that OpenAI is actively destroying crucial evidence and that former iPhone engineer Chang Liu “…",
+   "title": "Apple Accuses OpenAI of Destroying Evidence in Exchange of Barbs",
+   "summary": "Apple Inc. escalated its legal battle against OpenAI, claiming in a court filing that OpenAI is actively destroying crucial evidence and that former iPhone engineer Chang Liu “not …",
    "srcs": [
     {
      "n": "Bloomberg Tech",
@@ -55,91 +55,91 @@
      "t": "sec"
     }
    ],
-   "heat": 87.5
+   "heat": 198.1
   },
   {
    "cat": "sector",
-   "time": "2026-09-01 07:54",
-   "title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda",
-   "summary": "Anthropic PBC agreed to a $35 billion computing deal with Lambda, a cloud provider backed by Nvidia Corp., part of an effort to quickly expand its AI capacity, according to a perso…",
+   "time": "2026-08-31 16:49",
+   "title": "Cover Story: How U.S. Tech Blockade Sparked China’s AI Chip Boom",
+   "summary": "Cover Story: How U.S. Tech Blockade Sparked China’s AI Chip Boom &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTHR3bTZiR3hXN2F6bVE5ZE1DWXJmUTR1OGY1aXdrZHd6c05jV25vTWxfeDJTOVVxRTM1VzlVZDMyNWxUZWNCYk5JdDgxa0o5Ynl4SmFTVDM5MUdyTTFCcnVTclcyVHB4OVBTT1JfWlNYUkNfSFExWkt0VDR6bHQ0dmIwXy1zZ2xKSXJQN1ZRejVNcXk3bk5BTmxzN1dSS1IwQ0VPODJiOXZCRFJfS01hMVp0c0s0UQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 83.9
+   "heat": 196.1
   },
   {
    "cat": "sector",
-   "time": "2026-09-01 05:32",
-   "title": "Nvidia to Invest $3.5 Billion in Taiwan’s MediaTek",
-   "summary": "Get caught up.",
+   "time": "2026-09-01 16:00",
+   "title": "Global Bond Selloff, Spain & Greece Pressed for Munitions, More",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-08-31/nvidia-to-invest-3-5-billion-in-taiwan-s-mediatek",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-01/global-bond-selloff-spain-greece-pressed-for-munitions-more",
      "t": "sec"
     }
    ],
-   "heat": 83.5
+   "heat": 196.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-01 07:38",
-   "title": "Australia’s Beetaloo Shale Gas Could Power Northern Territory AI Data Centers",
-   "summary": "Australia’s Northern Territory started commercial production from the nation’s first shale gas wells, as the sparsely populated region bets on the fossil fuel to power a wave of ne…",
+   "time": "2026-09-01 15:46",
+   "title": "Private Markets Set for Delay in Tapping German Pension Cash",
+   "summary": "Private markets funds are set to wait longer than other asset managers to tap an influx of investors in the wake of Germany’s €500 billion ($580 billion) pension reform.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-31/australia-s-beetaloo-shale-gas-could-power-northern-territory-ai-data-centers",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-01/private-markets-set-for-delay-in-tapping-german-pension-cash",
      "t": "sec"
     }
    ],
-   "heat": 79.9
+   "heat": 195.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-01 07:16",
-   "title": "US Funds Alcoa Gallium Plant in Australia to Cut China Reliance",
-   "summary": "The US Department of War said it will provide $174 million in financing to Alcoa Corp. to build a gallium plant at its alumina refinery in Western Australia, as Washington seeks to…",
+   "time": "2026-09-01 14:41",
+   "title": "China Factory Contraction Slows as Orders Rebound",
+   "summary": "China Factory Contraction Slows as Orders Rebound &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVFIMFA1a0RNc3NEdU5WaWc4RHJJdEw4TWhjZXJ5WGFHalBSenQwZndjYnE3SDQyaFo5VkFBYTB3WjlLTlFFTG5wWV9Ca3JoajZGcDlzNURLNjZWekVFSVRyNkJPazBYNWpWemFSYjVnT3VNLWlUZGx1OUctdTZmQ0JMb3F3aFJ1aE4tdktNSWZrdnZpR1YtX3dhMVBtbVVvdXRTZDNZMA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-01 14:29",
+   "title": "Veritas Capital to Buy UK’s Bodycote for £1.65 Billion",
+   "summary": "Veritas Capital agreed to buy Bodycote Plc for around £1.65 billion ($2.2 billion), after raising its bid to trump CVC Advisers Ltd.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-31/us-funds-alcoa-gallium-plant-in-australia-to-cut-china-reliance",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-01/veritas-capital-agrees-to-buy-uk-s-bodycote-for-1-65-billion",
      "t": "sec"
     }
    ],
-   "heat": 79.8
+   "heat": 195.7
   },
   {
    "cat": "sector",
-   "time": "2026-09-01 06:57",
-   "title": "Airbnb Rolls Out Pilot Program in US to Lower Fees Paid by Hosts to 6% or 10%",
-   "summary": "Airbnb Inc. is testing taking a smaller cut of rental fees from hosts, seeking to fight back against a trend of customers booking directly outside of its platform.",
+   "time": "2026-09-01 13:44",
+   "title": "Anthropic Agrees to $35 Billion Cloud Deal With Lambda",
+   "summary": "Anthropic agreed to a $35 billion computing deal with Lambda, a cloud provider backed by Nvidia, part of an effort to quickly expand its AI capacity, according to a person familiar…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-31/airbnb-rolls-out-pilot-program-in-us-to-lower-fees-paid-by-hosts-to-6-or-10",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-01/anthropic-agrees-to-35-billion-cloud-deal-with-lambda-video",
      "t": "sec"
     }
    ],
-   "heat": 79.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-01 07:00",
-   "title": "Australian Dollar flat as Oil spike, Fed hawkish bets keep traders cautious",
-   "summary": "The Aussie Dollar traded sideways on Monday, unchanged at 0.7165, as a jump in energy prices sparked by the Middle East conflict pushed US Treasury yields higher, but not the Green…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/australian-dollar-flat-as-oil-spike-fed-hawkish-bets-keep-traders-cautious-202608312300",
-     "t": "sec"
-    }
-   ],
-   "heat": 79.8
+   "heat": 195.6
   }
  ]
 }
