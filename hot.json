@@ -1,6 +1,62 @@
 {
- "updated": "2026-09-01 16:09",
+ "updated": "2026-09-01 21:49",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-01 20:28",
+   "title": "Here are Tuesday's biggest analyst calls: Nvidia, SpaceX, Microsoft, Robinhood, Apple, Cisco, Airbnb & more",
+   "summary": "Here are the biggest calls on Wall Street on Tuesday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/01/tuesdays-biggest-analyst-calls-include-spacex-nvidia.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-01 19:00",
+   "title": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+   "summary": "John Ternus' first day as Apple CEO comes at a critical juncture for the iPhone maker, with memory prices soaring and AI challenges looming.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-01 15:43",
+   "title": "Apple’s Ternus Has ‘Huge Shoes to Fill’ After Cook’s 2,300% Gain",
+   "summary": "Apple Inc.’s Tim Cook handed over the reins to John Ternus on Tuesday, capping a tenure as chief executive officer that cemented the company as an iconic global brand and turned it…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-01/apple-s-2-300--gain-under-cook-is-tough-act-for-ternus-to-follow",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-01 19:02",
+   "title": "Nvidia’s MediaTek Investment Marks the Next AI Chipmaking Champion to Watch",
+   "summary": "Nvidia and Google are investing in Taiwan’s unheralded chipmaker",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-01/nvidia-s-mediatek-investment-marks-the-next-ai-chipmaking-champion-to-watch",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.5
+  },
   {
    "cat": "sector",
    "time": "2026-09-01 16:00",
@@ -13,133 +69,77 @@
      "t": "sec"
     }
    ],
-   "heat": 200.0
+   "heat": 223.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-01 15:43",
-   "title": "Apple’s 2,275% Gain Under Cook Is Tough Act for Ternus to Follow",
-   "summary": "Apple Inc.’s Tim Cook handed over the reins to John Ternus on Tuesday, capping a tenure as chief executive officer that cemented the company as an iconic global brand and turned it…",
+   "time": "2026-09-01 21:40",
+   "title": "Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot",
+   "summary": "Whatnot and TikTok are tapping into its potential livestream shopping in the U.S. after a decade of massive success in China.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-01/apple-s-2-275-gain-under-cook-is-tough-act-for-ternus-to-follow",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/01/tiktok-whatnot-livestream-shopping.html",
      "t": "sec"
     }
    ],
-   "heat": 199.9
+   "heat": 220.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-01 09:04",
-   "title": "Nvidia Mega-Deal Ushers MediaTek Into Top AI Chipmaker Club",
-   "summary": "Nvidia Corp.’s $3.5 billion outlay in MediaTek Inc., its largest direct investment outside the US, has thrust a little-known Taiwanese chip designer into the center of the global A…",
+   "time": "2026-09-01 21:00",
+   "title": "How one of the largest investors in student housing is playing this school year",
+   "summary": "Mike Gordon of Harrison Street Asset Management said funding cuts and enrollment trends are making specialization more vital than ever.",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-01/mediatek-shares-soar-10-after-blockbuster-nvidia-investment",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
      "t": "sec"
     }
    ],
-   "heat": 198.8
+   "heat": 219.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-01 05:03",
-   "title": "Apple Accuses OpenAI of Destroying Evidence in Exchange of Barbs",
-   "summary": "Apple Inc. escalated its legal battle against OpenAI, claiming in a court filing that OpenAI is actively destroying crucial evidence and that former iPhone engineer Chang Liu “not …",
+   "time": "2026-09-01 20:55",
+   "title": "S&P 500, NASDAQ Futures Fall as Investors Await Key US Jobs Data - Analytics Insight",
+   "summary": "S&P 500, NASDAQ Futures Fall as Investors Await Key US Jobs Data &nbsp;&nbsp; Analytics Insight",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUc3MW1hMm9JTUVUTlIxUU1ZY1lSQ2JpNEhrV0FWbmtha3lvT01SMWJtTTlaZUJsamdLWUNaNnY0ZFVTM3U1QmNveWJ5V29PN2QwMDdUVnhqWG9Gbl9Jel82QXRwaElEdHNaNUl4a2hQYzY1Rlgtb2JSS2paOUhuZmVxdWVnZlV4WF9YVUhyUWhtVlliZWxBdkFMOXZJOGl1OWhRYtIBsgFBVV95cUxONlhoTDBxc0VrcjNUUGN5VTd0MVh0ZG1WXzNWN0s3U3dlSkN2cXJSMUtuazVRcWs4SGktclVTY2NyLTJwRXRzRU1PSzdPTU5IaVBBQTRkUnJHSE5kM1hYdVQ5dnNFNTl6QzhBNFZZVS15YmhCaDJ0YTA3c3hGdnV3YkpOMF9ydkVVTlItUWZNNDVEWHlHYU85ckZFUGVyYTFWTmZnVDhpZVRxUU5ZckRaV0hB?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 198.1
+   "heat": 219.8
   },
   {
    "cat": "sector",
-   "time": "2026-08-31 16:49",
-   "title": "Cover Story: How U.S. Tech Blockade Sparked China’s AI Chip Boom",
-   "summary": "Cover Story: How U.S. Tech Blockade Sparked China’s AI Chip Boom &nbsp;&nbsp; Caixin Global",
+   "time": "2026-09-01 20:50",
+   "title": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
+   "summary": "Last-mile delivery company OneRail is launching a new platform with Nvidia to use AI to help retailers make faster and more efficient delivery decisions.",
    "srcs": [
     {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTHR3bTZiR3hXN2F6bVE5ZE1DWXJmUTR1OGY1aXdrZHd6c05jV25vTWxfeDJTOVVxRTM1VzlVZDMyNWxUZWNCYk5JdDgxa0o5Ynl4SmFTVDM5MUdyTTFCcnVTclcyVHB4OVBTT1JfWlNYUkNfSFExWkt0VDR6bHQ0dmIwXy1zZ2xKSXJQN1ZRejVNcXk3bk5BTmxzN1dSS1IwQ0VPODJiOXZCRFJfS01hMVp0c0s0UQ?oc=5",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
      "t": "sec"
     }
    ],
-   "heat": 196.1
+   "heat": 219.8
   },
   {
    "cat": "sector",
-   "time": "2026-09-01 16:00",
-   "title": "Global Bond Selloff, Spain & Greece Pressed for Munitions, More",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-09-01 20:00",
+   "title": "Toyota's hybrid RAV4 is in demand as dealers wait for more supply",
+   "summary": "When Toyota announced the new version of its SUV, it said the RAV4 would only be available as a hybrid and that production would be limited at first.",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-01/global-bond-selloff-spain-greece-pressed-for-munitions-more",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/01/toyota-rav4-dealer-inventory.html",
      "t": "sec"
     }
    ],
-   "heat": 196.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-01 15:46",
-   "title": "Private Markets Set for Delay in Tapping German Pension Cash",
-   "summary": "Private markets funds are set to wait longer than other asset managers to tap an influx of investors in the wake of Germany’s €500 billion ($580 billion) pension reform.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-01/private-markets-set-for-delay-in-tapping-german-pension-cash",
-     "t": "sec"
-    }
-   ],
-   "heat": 195.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-01 14:41",
-   "title": "China Factory Contraction Slows as Orders Rebound",
-   "summary": "China Factory Contraction Slows as Orders Rebound &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVFIMFA1a0RNc3NEdU5WaWc4RHJJdEw4TWhjZXJ5WGFHalBSenQwZndjYnE3SDQyaFo5VkFBYTB3WjlLTlFFTG5wWV9Ca3JoajZGcDlzNURLNjZWekVFSVRyNkJPazBYNWpWemFSYjVnT3VNLWlUZGx1OUctdTZmQ0JMb3F3aFJ1aE4tdktNSWZrdnZpR1YtX3dhMVBtbVVvdXRTZDNZMA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 195.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-01 14:29",
-   "title": "Veritas Capital to Buy UK’s Bodycote for £1.65 Billion",
-   "summary": "Veritas Capital agreed to buy Bodycote Plc for around £1.65 billion ($2.2 billion), after raising its bid to trump CVC Advisers Ltd.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-01/veritas-capital-agrees-to-buy-uk-s-bodycote-for-1-65-billion",
-     "t": "sec"
-    }
-   ],
-   "heat": 195.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-01 13:44",
-   "title": "Anthropic Agrees to $35 Billion Cloud Deal With Lambda",
-   "summary": "Anthropic agreed to a $35 billion computing deal with Lambda, a cloud provider backed by Nvidia, part of an effort to quickly expand its AI capacity, according to a person familiar…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-01/anthropic-agrees-to-35-billion-cloud-deal-with-lambda-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 195.6
+   "heat": 219.7
   }
  ]
 }
