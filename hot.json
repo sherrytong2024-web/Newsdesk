@@ -1,11 +1,95 @@
 {
- "updated": "2026-09-02 06:55",
+ "updated": "2026-09-02 10:12",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-02 07:13",
+   "title": "Jim Cramer says Nvidia should do a half-trillion dollar, Apple-style stock buyback",
+   "summary": "CNBC’s Jim Cramer said Nvidia should dramatically increase its stock buyback.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/01/jim-cramer-says-nvidia-should-do-a-half-trillion-dollar-apple-style-stock-buyback.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-01 21:22",
+   "title": "S&P 500 Holds Steady at 7,675.70 as Wall Street Waits for Nvidia's Verdict - BBN Times",
+   "summary": "S&P 500 Holds Steady at 7,675.70 as Wall Street Waits for Nvidia's Verdict &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNanVySm81VmtXLVp3V1p6NDJtUHhLdlUtZVVvNU9mVmlJT0F1Y2pxZmZOMXZjemdsQ0MyT2dORUZxNTB2LUFudjlGRk11Q3M1Ty1La1ViZ3FmYVc5X3lMQXlPWlNsb0s4T1hIQ1Btak5LeFpoamdQQ2pwbmFMMG04dS1pOGZQaEM3QURubjF2eU5NLWp2cWs5bEhlYnRtRWhJdm1pMEJZNHlFMG82U1E?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 229.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 07:00",
+   "title": "Japan’s AI and Chip Gamble Faces Reality Check in Kioxia’s Rural Hub",
+   "summary": "Kioxia’s impact on a small town shows investment’s limits.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/features/2026-09-01/japan-s-ai-and-chip-gamble-faces-reality-check-in-kioxia-s-rural-hub",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 09:34",
+   "title": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes",
+   "summary": "U.S. forces completed another wave of strikes against Iran on Tuesday stateside, hitting multiple Islamic Revolutionary Guard Corps sites across the country.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 08:29",
+   "title": "Strikes Against Iran Complete, Bessent Speaks at G20, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-02/strikes-against-iran-complete-bessent-speaks-at-g20-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 08:29",
+   "title": "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value",
+   "summary": "Artificial intelligence coding startup Cognition AI Inc. is set to close a new round of funding that would vault its valuation to about $47 billion, according to people familiar wi…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.7
+  },
   {
    "cat": "sector",
    "time": "2026-09-02 06:04",
    "title": "Latest Oil Market News and Analysis for Sept. 2",
-   "summary": "Oil climbed for a third session on heightened concerns about prolonged disruptions to energy flows through the vital Strait of Hormuz after an escalation of hostilities between the…",
+   "summary": "Oil advanced for a third session on heightened concerns about prolonged disruptions to energy flows through the Strait of Hormuz after an escalation of hostilities between the US a…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -13,21 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-02 05:40",
-   "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
-   "summary": "Kroenke Sports and Entertainment was valued at more than $26 billion in CNBC's most recent list of the world's most valuable sports empires.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.8
+   "heat": 223.3
   },
   {
    "cat": "sector",
@@ -41,7 +111,21 @@
      "t": "sec"
     }
    ],
-   "heat": 219.8
+   "heat": 223.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 05:40",
+   "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
+   "summary": "Kroenke Sports and Entertainment was valued at more than $26 billion in CNBC's most recent list of the world's most valuable sports empires.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.2
   },
   {
    "cat": "sector",
@@ -55,91 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-02 05:07",
-   "title": "Bloomberg Businessweek Daily: Iran War Escalates (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-01/bloomberg-businessweek-daily-iran-war-escalates-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-02 05:03",
-   "title": "US, Iran Escalate Attacks, Dell Gains On AI Server Sales, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-01/us-iran-escalate-attacks-dell-gains-on-ai-server-sales-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-02 04:59",
-   "title": "Big Take: Ukraine Faces a Dangerous, Pivotal Winter (Podcast)",
-   "summary": "Source: Bloomberg, 14:08",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-01/big-take-ukraine-faces-a-dangerous-pivotal-winter-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-02 04:56",
-   "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
-   "summary": "U.S. Central Command announced new strikes around the Strait of Hormuz following Iranian attacks on ships and U.S. military personnel. Iran said it retaliated.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-02 04:52",
-   "title": "Apple Sets Pay Targets at $58 Million for Ternus, $47 Million for Cook",
-   "summary": "Apple Inc. said that new Chief Executive Officer John Ternus will get a compensation package worth about $58 million in fiscal 2027, while Tim Cook’s role as executive chairman wil…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-01/apple-sets-pay-targets-at-58-million-for-ternus-47-million-for-cook",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-02 04:44",
-   "title": "Bloomberg Businessweek Daily: Prediction Addiction (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-01/bloomberg-businessweek-daily-prediction-addiction-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.6
+   "heat": 223.2
   }
  ]
 }
