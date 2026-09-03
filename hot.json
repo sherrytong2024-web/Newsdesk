@@ -1,43 +1,15 @@
 {
- "updated": "2026-09-04 02:15",
+ "updated": "2026-09-04 06:54",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-04 00:43",
-   "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-   "summary": "Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI for developers and institutions worldwide.\"",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-03 20:11",
-   "title": "Nvidia to Acquire AI Platform Hugging Face for $13 Billion",
-   "summary": "Nvidia Corp. agreed to acquire artificial intelligence startup Hugging Face in a transaction valued at about $13 billion, adding a popular software platform to the chip giant’s AI …",
+   "time": "2026-09-04 06:22",
+   "title": "Apple Headhunter on Ternus Era: Best AI Talent Will Win",
+   "summary": "Jeff Christian, who says he oversaw the last two board searches at Apple under Steve Jobs and argues that the selection of John Ternus signals a strategic shift. The discussion the…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-03/nvidia-agrees-to-13-billion-deal-for-ai-platform-hugging-face",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-04 01:35",
-   "title": "Nvidia Buys Hugging Face | Open Interest 9/3/2026",
-   "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Nvidia makes another massive AI bet, striking a nearly $13 billion deal for Hugging Face. Blac…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-03/open-interest-9-3-2026-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-03/apple-headhunter-on-ternus-era-best-ai-talent-will-win-video",
      "t": "sec"
     }
    ],
@@ -45,41 +17,13 @@
   },
   {
    "cat": "sector",
-   "time": "2026-09-04 01:28",
-   "title": "AI Spending Ripples Across Tech Stack; Nvidia Acquires Hugging Face | Bloomberg Tech 9/03/2026",
-   "summary": "Bloomberg’s Ed Ludlow breaks down what earnings from Broadcom, Snowflake, and HPE tell us about the strength of the AI boom. Plus, Hugging Face co-founder Thomas Wolf joins to disc…",
+   "time": "2026-09-04 06:38",
+   "title": "Crusoe Raises Over $3 Billion in Funding at $30 Billion Valuation",
+   "summary": "Crusoe, a cloud-computing provider and data center developer doing business with OpenAI, Microsoft Corp. and Meta Platforms Inc., has raised over $3 billion in a funding round that…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-03/bloomberg-tech-9-03-2026-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-03 21:52",
-   "title": "Chipmaker Longsys Said to Price Hong Kong Listing at HK$236",
-   "summary": "Shenzhen Longsys Electronics Co. priced its Hong Kong listing below the top end of the marketed range, according to people familiar with the matter, joining a wave of Chinese compa…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-03/chipmaker-longsys-is-said-to-price-hong-kong-listing-at-hk-236",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-04 02:00",
-   "title": "OpenAI Rolls Out GPT-6 Astra Model With Added Cyber Guardrails",
-   "summary": "OpenAI is releasing a new generation of its technology called GPT-6 that the company is positioning as a key milestone in its decade-long push to build so-called artificial general…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-03/openai-rolls-out-gpt-6-astra-model-with-added-cyber-guardrails",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-raises-over-3-billion-in-funding-at-30-billion-valuation",
      "t": "sec"
     }
    ],
@@ -87,41 +31,13 @@
   },
   {
    "cat": "sector",
-   "time": "2026-09-04 01:56",
-   "title": "Options volume erupts in retail trading favorites as Robinhood, Tesla surge",
-   "summary": "Options traders are kicking off the historically worst month for stocks by piling on bullish bets on a handful of retail trading favorites.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/03/options-volume-erupts-in-retail-trading-favorites-as-robinhood-tesla-surge.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-04 01:33",
-   "title": "'No steering wheel, no pedals': Tesla teases fans ahead of long-awaited Cybercab update",
-   "summary": "Tesla first unveiled the Cybercab almost two years ago, and fans of the company have been waiting to hear more.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-04 01:22",
-   "title": "AI Fuels Snowflake’s Accelerating Revenue Growth",
-   "summary": "Snowflake posted a third straight quarter of accelerating product revenue growth and raised its full-year outlook, with CEO Sridhar Ramaswamy saying AI accounted for about half of …",
+   "time": "2026-09-04 06:36",
+   "title": "ValueEdge Chair: SpaceX Needs A Succession Plan",
+   "summary": "Nell Minow, Chair of ValueEdge Advisors, says Anthropic is moving in the opposite direction from SpaceX on governance, but argues its structure is still unusual and potentially pro…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-03/ai-fuels-snowflake-s-accelerating-revenue-growth-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-03/valueedge-chair-spacex-needs-a-succession-plan-video",
      "t": "sec"
     }
    ],
@@ -129,13 +45,97 @@
   },
   {
    "cat": "sector",
-   "time": "2026-09-04 01:00",
-   "title": "Elon Musk starts spending his midterm election millions, revealing his key Senate targets",
-   "summary": "Elon Musk’s America PAC is spending in key Senate races including Texas and Maine, days after Musk met with House Speaker Mike Johnson.",
+   "time": "2026-09-04 06:21",
+   "title": "Bloomberg Businessweek Daily: US Open 2026 (Podcast)",
+   "summary": "Source: Bloomberg, 36:09",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-03/bloomberg-businessweek-daily-us-open-2026-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-04 06:12",
+   "title": "Latest Oil Market News and Analysis for Sept. 4",
+   "summary": "Oil headed for its biggest weekly gain since July as renewed US-Iran hostilities heightened concerns about prolonged disruptions to energy flows through the Strait of Hormuz.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-03/latest-oil-market-news-and-analysis-for-sept-4",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-04 06:10",
+   "title": "India Launches Rocket in Boost to Space Ambitions After Failures",
+   "summary": "India’s space program notched a much-needed success with a rocket launch on Friday, after two consecutive failures of another launcher that had long served as its workhorse rocket.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-03/india-launches-rocket-in-boost-to-space-ambitions-after-failures",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-04 06:03",
+   "title": "DOJ Asks For Mail-In Vote Restrictions, Lululemon Reports, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-03/doj-asks-for-mail-in-vote-restrictions-lululemon-reports-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-04 06:03",
+   "title": "OpenAI’s Altman Unveils Astra as a New Step Toward AGI | The Close 9/3/2026",
+   "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Baring…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-03/the-close-9-3-2026-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-04 05:52",
+   "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
+   "summary": "OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/03/elon-musk-america-pac-election-senate-races.html",
+     "u": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-04 05:25",
+   "title": "Lululemon Needs a Full Product Overhaul, Widlitz Says",
+   "summary": "SW Retail Advisors President and founder Stacey Widlitz discusses Lululemon Athletica lowering its full-year outlook for a second straight quarter on \"Bloomberg The Close.\" (Source…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-03/lululemon-needs-a-full-product-overhaul-widlitz-says-video",
      "t": "sec"
     }
    ],
