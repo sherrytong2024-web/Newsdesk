@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-03 21:08",
+ "updated": "2026-09-04 02:15",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-03 20:58",
+   "time": "2026-09-04 00:43",
    "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
    "summary": "Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI for developers and institutions worldwide.\"",
    "srcs": [
@@ -13,12 +13,96 @@
      "t": "sec"
     }
    ],
-   "heat": 244.0
+   "heat": 247.7
   },
   {
    "cat": "sector",
-   "time": "2026-09-03 20:15",
-   "title": "'No steering wheel, no pedals.' Tesla teases fans ahead of long-awaited Cybercab update",
+   "time": "2026-09-03 20:11",
+   "title": "Nvidia to Acquire AI Platform Hugging Face for $13 Billion",
+   "summary": "Nvidia Corp. agreed to acquire artificial intelligence startup Hugging Face in a transaction valued at about $13 billion, adding a popular software platform to the chip giant’s AI …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-03/nvidia-agrees-to-13-billion-deal-for-ai-platform-hugging-face",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-04 01:35",
+   "title": "Nvidia Buys Hugging Face | Open Interest 9/3/2026",
+   "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Nvidia makes another massive AI bet, striking a nearly $13 billion deal for Hugging Face. Blac…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-03/open-interest-9-3-2026-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-04 01:28",
+   "title": "AI Spending Ripples Across Tech Stack; Nvidia Acquires Hugging Face | Bloomberg Tech 9/03/2026",
+   "summary": "Bloomberg’s Ed Ludlow breaks down what earnings from Broadcom, Snowflake, and HPE tell us about the strength of the AI boom. Plus, Hugging Face co-founder Thomas Wolf joins to disc…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-03/bloomberg-tech-9-03-2026-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-03 21:52",
+   "title": "Chipmaker Longsys Said to Price Hong Kong Listing at HK$236",
+   "summary": "Shenzhen Longsys Electronics Co. priced its Hong Kong listing below the top end of the marketed range, according to people familiar with the matter, joining a wave of Chinese compa…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-03/chipmaker-longsys-is-said-to-price-hong-kong-listing-at-hk-236",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-04 02:00",
+   "title": "OpenAI Rolls Out GPT-6 Astra Model With Added Cyber Guardrails",
+   "summary": "OpenAI is releasing a new generation of its technology called GPT-6 that the company is positioning as a key milestone in its decade-long push to build so-called artificial general…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-03/openai-rolls-out-gpt-6-astra-model-with-added-cyber-guardrails",
+     "t": "sec"
+    }
+   ],
+   "heat": 240.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-04 01:56",
+   "title": "Options volume erupts in retail trading favorites as Robinhood, Tesla surge",
+   "summary": "Options traders are kicking off the historically worst month for stocks by piling on bullish bets on a handful of retail trading favorites.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/03/options-volume-erupts-in-retail-trading-favorites-as-robinhood-tesla-surge.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-04 01:33",
+   "title": "'No steering wheel, no pedals': Tesla teases fans ahead of long-awaited Cybercab update",
    "summary": "Tesla first unveiled the Cybercab almost two years ago, and fans of the company have been waiting to hear more.",
    "srcs": [
     {
@@ -27,59 +111,17 @@
      "t": "sec"
     }
    ],
-   "heat": 243.9
+   "heat": 239.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-03 20:11",
-   "title": "Nvidia Buys AI Platform Hugging Face for $13 Billion",
-   "summary": "Nvidia Corp. has agreed to acquire artificial intelligence startup Hugging Face in a transaction valued at about $13 billion.",
+   "time": "2026-09-04 01:22",
+   "title": "AI Fuels Snowflake’s Accelerating Revenue Growth",
+   "summary": "Snowflake posted a third straight quarter of accelerating product revenue growth and raised its full-year outlook, with CEO Sridhar Ramaswamy saying AI accounted for about half of …",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-03/nvidia-agrees-to-13-billion-deal-for-ai-platform-hugging-face",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-03 13:48",
-   "title": "Broadcom Forecasts Boom in AI Chip Sales",
-   "summary": "Broadcom predicted a surge in artificial intelligence chip sales over the next two years, helping renew optimism that it can challenge Nvidia’s dominance in the lucrative market. T…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-03/broadcom-forecasts-boom-in-ai-chip-sales-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 242.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-03 20:55",
-   "title": "India RBI Faces About $11 Billion Bill on Foreign Deposits Plan",
-   "summary": "India tapped its vast diaspora for a record $127 billion through a special deposit program, a fundraising bonanza that economists say could come with a hefty $10.6 billion bill for…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-03/india-rbi-faces-about-11-billion-bill-on-foreign-deposits-plan",
-     "t": "sec"
-    }
-   ],
-   "heat": 240.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-03 20:43",
-   "title": "Saudi Firm Humain Eyes $2.5 Billion Fund to Build Data Centers",
-   "summary": "Artificial intelligence firm Humain is planning to raise an initial $2.5 billion from global and domestic investors for a fund to invest in data centers in Saudi Arabia, according …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-03/saudi-firm-humain-eyes-2-5-billion-fund-to-build-data-centers",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-03/ai-fuels-snowflake-s-accelerating-revenue-growth-video",
      "t": "sec"
     }
    ],
@@ -87,55 +129,13 @@
   },
   {
    "cat": "sector",
-   "time": "2026-09-03 20:38",
-   "title": "Billionaire family offices back healthcare and biotech startups in August",
-   "summary": "The personal investment firms of titans like Stanley Druckenmiller are backing innovations in gene editing, drug discovery and more.",
+   "time": "2026-09-04 01:00",
+   "title": "Elon Musk starts spending his midterm election millions, revealing his key Senate targets",
+   "summary": "Elon Musk’s America PAC is spending in key Senate races including Texas and Maine, days after Musk met with House Speaker Mike Johnson.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/03/family-offices-health-care-biotech-startups-august.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-03 20:31",
-   "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
-   "summary": "After a slow but extended selloff on Wall Steet, Google began September with renewed momentum, helped by new AI models.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-03 20:29",
-   "title": "Investors Predict More Pain for Brazil Insurer After 90% Wipeout",
-   "summary": "Investors see few reasons to be optimistic about Hapvida, the Brazilian health insurer and hospital operator plagued by rising costs, constant litigation and an escalating debt loa…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-03/investors-predict-more-pain-for-brazil-insurer-after-90-wipeout",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-03 20:00",
-   "title": "Tech Disruptors: Liquid AI Takes Intelligence Beyond the Cloud",
-   "summary": "“Hopefully in three or four years, we will be on 50% of all the devices on the planet,” Ramin Hasani, co-founder and CEO of Liquid AI and a machine-learning scientist at MIT’s Comp…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-03/tech-disruptors-liquid-ai-takes-intelligence-beyond-the-cloud",
+     "u": "https://www.cnbc.com/2026/09/03/elon-musk-america-pac-election-senate-races.html",
      "t": "sec"
     }
    ],
