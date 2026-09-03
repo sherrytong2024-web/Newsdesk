@@ -1,19 +1,61 @@
 {
- "updated": "2026-09-03 10:20",
+ "updated": "2026-09-03 15:33",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-03 04:19",
-   "title": "Broadcom Predicts Surge in AI Chip Sales Over Next Two Years",
-   "summary": "Broadcom Inc. predicted a boom in artificial intelligence chip sales over the next two years, helping renew optimism that it can challenge Nvidia Corp.’s dominance in the lucrative…",
+   "time": "2026-09-03 14:05",
+   "title": "Global Gas Supply Fight, Broadcom AI Chip Surge Forecast, More",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-02/broadcom-forecast-misses-estimates-disappointing-investors",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-03/global-gas-supply-fight-broadcom-ai-chip-surge-forecast-more",
      "t": "sec"
     }
    ],
-   "heat": 215.0
+   "heat": 243.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-03 13:48",
+   "title": "Broadcom Forecasts Boom in AI Chip Sales",
+   "summary": "Broadcom predicted a surge in artificial intelligence chip sales over the next two years, helping renew optimism that it can challenge Nvidia’s dominance in the lucrative market. T…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-03/broadcom-forecasts-boom-in-ai-chip-sales-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-03 12:56",
+   "title": "Trump to Levy More Chip Tariffs to Boost Manufacturing",
+   "summary": "The Trump administration is weighing a fresh round of tariffs on imported semiconductors to lure more manufacturing to the US, Commerce Secretary Howard Lutnick has said. Reporting…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-03/trump-to-levy-more-chip-tariffs-to-boost-manufacturing-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-03 15:24",
+   "title": "US Diesel Hits Four-Year High as Wars Strain Global Supplies",
+   "summary": "US retail diesel prices hit the highest since mid-2022, topping a peak seen during the early stages of the Iran war to approach a record.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-03/us-diesel-hits-four-year-high-as-wars-strain-global-supplies",
+     "t": "sec"
+    }
+   ],
+   "heat": 236.0
   },
   {
    "cat": "sector",
@@ -27,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 208.0
+   "heat": 236.0
   },
   {
    "cat": "sector",
@@ -41,105 +83,63 @@
      "t": "sec"
     }
    ],
-   "heat": 208.0
+   "heat": 236.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-03 09:06",
-   "title": "Pakistan Raises $3 Billion in Two-Part Junk Bond Sale",
-   "summary": "Pakistan raised $3 billion from a two-part junk bond sale, taking advantage of investor interest after securing credit rating upgrades in the past couple of months.",
+   "time": "2026-09-03 15:15",
+   "title": "UK’s Top Earners Save and Buy Second Hand Under Cost-of-Living Pressure",
+   "summary": "Britain’s thrifty rich; Crest Nicholson now sees loss",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-03/pakistan-raises-3-billion-in-two-part-junk-bond-sale",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-03/uk-s-top-earners-save-and-buy-second-hand-under-cost-of-living-pressure",
      "t": "sec"
     }
    ],
-   "heat": 207.8
+   "heat": 235.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-03 08:23",
-   "title": "Congo Ebola Outbreak: Health Worker ‘Ghost’ Pay Disputes Hamper Response",
-   "summary": "Six Ebola checkpoints in northeastern Democratic Republic of Congo stopped reporting last month because the people staffing them hadn’t been paid.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-03/congo-ebola-outbreak-health-worker-ghost-pay-disputes-hamper-response",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-03 08:00",
-   "title": "Dollar Debasement Is Favoring Singapore’s Currency, Analysts Say",
-   "summary": "The Singapore dollar is tracking the US currency in an inverse direction more closely than any other in Asia, which analysts say positions it for stronger gains in the region if th…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-03/dollar-debasement-is-favoring-singapore-s-currency-analysts-say",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-03 06:49",
-   "title": "How Equinix has found a niche in the multitrillion-dollar AI data center boom",
-   "summary": "Nvidia announced a new data center deal with Equinix and Together AI on Wednesday to help enterprise customers with open-model inference.",
+   "time": "2026-09-03 15:12",
+   "title": "Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’",
+   "summary": "DNB said gold stored with the Bank of England is more readily tradable, allowing it to be deployed more quickly in a severe crisis.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html",
+     "u": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
      "t": "sec"
     }
    ],
-   "heat": 207.4
+   "heat": 235.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-03 06:03",
-   "title": "Latest Oil Market News and Analysis for Sept. 3",
-   "summary": "Oil steadied after a three-day rally as President Donald Trump said renewed attacks on Iran would be short-lived, while US officials signaled robust energy flows through the Strait…",
+   "time": "2026-09-03 14:51",
+   "title": "Yen Surges as Traders Remain on Alert for Intervention",
+   "summary": "Get caught up.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-03/yen-surges-as-traders-remain-on-alert-for-intervention",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-03 14:42",
+   "title": "Ghana Cocoa Output May Sink by More Than a Third, Marketer Says",
+   "summary": "Ghana’s cocoa output could tumble by more than a third as adverse weather and disease stresses trees, its state-run exporter said, adding to the strain on global supply of the choc…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-02/latest-oil-market-news-and-analysis-for-sept-3",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-03/ghana-cocoa-output-may-sink-by-more-than-a-third-marketer-says",
      "t": "sec"
     }
    ],
-   "heat": 207.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-03 05:46",
-   "title": "G20 tech takeaways: Lutnick pitches adoption of U.S. AI, pushes data center buildout",
-   "summary": "Follow Day 2 of the G20 Innovation Ministerial in Chapel Hill, North Carolina, with Jensen Huang, Sam Altman, and ministers discussing AI, policy and trade.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-03 05:35",
-   "title": "CJ Desai Says MongoDB’s AI Momentum Is Real, But Guidance Remains Prudent",
-   "summary": "CJ Desai, CEO of MongoDB, says MongoDB feels very good about demand, noting Atlas delivered its fifth straight quarter of 29% growth and that total Atlas dollars continue to rise q…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-02/cj-desai-says-mongodb-s-ai-momentum-is-real-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.2
+   "heat": 235.9
   }
  ]
 }
