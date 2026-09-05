@@ -1,6 +1,76 @@
 {
- "updated": "2026-09-05 06:40",
+ "updated": "2026-09-05 10:16",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-05 09:03",
+   "title": "Trump Eases Processing for Ranchers, Mail Ballot Change Blocked",
+   "summary": "Source: Bloomberg, 6:46",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-05/trump-eases-processing-for-ranchers-mail-ballot-change-blocked",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-05 08:00",
+   "title": "Hong Kong’s Flat Iron Bumbles Foray Into the Sausage Roll Business",
+   "summary": "Steak chain’s new signature pastry falls flat in debut",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-05/hong-kong-s-flat-iron-bumbles-foray-into-the-sausage-roll-business",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-05 07:10",
+   "title": "Bloomberg Businessweek Daily: Lululemon's Bad Streak (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-04/bloomberg-businessweek-daily-lululemon-s-bad-streak-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-05 07:05",
+   "title": "Bloomberg Businessweek Daily: Heineken at the US Open (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-04/bloomberg-businessweek-daily-heineken-at-the-us-open-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-05 06:49",
+   "title": "Bloomberg Businessweek Daily: US Open Fan Experience (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-04/bloomberg-businessweek-daily-us-open-fan-experience-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.4
+  },
   {
    "cat": "sector",
    "time": "2026-09-05 06:30",
@@ -13,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 184.0
+   "heat": 199.4
   },
   {
    "cat": "sector",
@@ -27,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 183.8
+   "heat": 199.2
   },
   {
    "cat": "sector",
@@ -41,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 183.8
+   "heat": 199.2
   },
   {
    "cat": "sector",
@@ -55,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 183.7
+   "heat": 199.1
   },
   {
    "cat": "sector",
@@ -69,77 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 183.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 04:06",
-   "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
-   "summary": "Tesla's long-awaited Cybercab update failed to dazzle investors.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 183.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 02:55",
-   "title": "What Is AGI? OpenAI, Anthropic Race for Artificial General Intelligence",
-   "summary": "AI companies are in a race to create artificial general intelligence, seeing it as the catalyst for an “intelligence explosion” that reshapes the economy and society. If only they …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/features/2026-09-04/what-is-agi-openai-anthropic-race-for-artificial-general-intelligence",
-     "t": "sec"
-    }
-   ],
-   "heat": 183.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 02:27",
-   "title": "Women accounted for almost all of job gains in August. Here's why",
-   "summary": "Women accounted for virtually all of August's payroll gains, the latest sign of their growing power in the labor market.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/04/jobs-report-women-payrolls.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 183.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-04 23:05",
-   "title": "Lululemon’s China Backlash Deepens Sales Slump as Profit Falls",
-   "summary": "Lululemon’s China Backlash Deepens Sales Slump as Profit Falls &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMnNleFJyYXR4dFZpNVRFWnR0RnN3alZFZ3ZRVEJmMk1VV2pqMXhDUXFWaHM3UUU1MVVhZFpUd29CU2JscHF2Z1ZnY1ZVVVRHZnc4cjB6bl9fZWx3aXdaemxHM01QNHRWaGc2UjlMR0N4WEkzSV9XS3ZFSjZ5Yi1SNjU4TnZEMkVVZUF0X3pkUEFVcFQ3amQ5M0ZmQTc1QjJiRGRmVDFzWXE3NzR2Y2xEMk1GOW9WS28?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 182.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-04 20:20",
-   "title": "U.S. 'Economic Outcast’ operation gains momentum as EU joins sanctions; South Korea weighs military backing",
-   "summary": "The EU formally joined the U.S.-led sanctions campaign against Iran, while South Korea said it's weighing a military role to help reopen the Strait of Hormuz.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 182.3
+   "heat": 199.0
   }
  ]
 }
