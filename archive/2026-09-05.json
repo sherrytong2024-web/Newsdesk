@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05 10:16",
+ "updated": "2026-09-05 15:15",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 135.0
+   "heat": 134.2
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 123.0
+   "heat": 118.2
   },
   {
    "cat": "macro",
@@ -41,21 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 119.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-05 06:01",
-   "title": "Ayako Yoshioka Discusses Tech’s Impact on Inflation and Prices",
-   "summary": "Ayako Yoshioka, a Senior Investment Strategist at Wealth Enhancement Group, joins the show to discuss technology’s role in the inflation outlook. The segment frames a client conver…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-04/ayako-yoshioka-on-tech-s-impact-on-inflation-and-prices-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 103.3
+   "heat": 114.9
   },
   {
    "cat": "macro",
@@ -69,77 +55,21 @@
      "t": "sec"
     }
    ],
-   "heat": 102.6
+   "heat": 105.8
   },
   {
    "cat": "macro",
-   "time": "2026-09-05 05:56",
-   "title": "Strong Jobs Report Revives Fed Rate-Hike Bets",
-   "summary": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Kayne Anderson Ru…",
+   "time": "2026-09-05 06:01",
+   "title": "Ayako Yoshioka Discusses Tech’s Impact on Inflation and Prices",
+   "summary": "Ayako Yoshioka, a Senior Investment Strategist at Wealth Enhancement Group, joins the show to discuss technology’s role in the inflation outlook. The segment frames a client conver…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-04/the-close-9-4-2026-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-04/ayako-yoshioka-on-tech-s-impact-on-inflation-and-prices-video",
      "t": "sec"
     }
    ],
-   "heat": 99.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-05 04:16",
-   "title": "Dow tumbles more than 260 points after strong jobs report reignites rate hike fears: Live updates",
-   "summary": "August's hotter-than-expected payrolls reading increased expectations that the Federal Reserve could raise interest rates at its next meeting.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 99.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-05 03:48",
-   "title": "Trump doubles down on threat to halt trade with top partners unless Fed cuts rates",
-   "summary": "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 98.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-04 19:50",
-   "title": "S&P 500 Ends Week Flat as Strong Jobs Growth Fuels Fed-Hike Bets",
-   "summary": "US stocks finished lower on Friday as the American economy ​added more jobs than expected in August, raising expectations that the Federal Reserve may hike interest rates soon.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-04/us-stock-futures-steady-ahead-of-key-august-jobs-data",
-     "t": "sec"
-    }
-   ],
-   "heat": 97.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-04 06:14",
-   "title": "Stocks Fall as Jobs Fuel Bets Fed Will Raise Rates: Markets Wrap",
-   "summary": "A stronger-than-anticipated increase in US jobs drove stocks and short-dated notes lower, with traders boosting their bets the Federal Reserve will raise rates this month.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates",
-     "t": "sec"
-    }
-   ],
-   "heat": 95.3
+   "heat": 102.5
   },
   {
    "cat": "macro",
@@ -153,7 +83,77 @@
      "t": "sec"
     }
    ],
-   "heat": 95.0
+   "heat": 98.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-05 05:56",
+   "title": "Strong Jobs Report Revives Fed Rate-Hike Bets",
+   "summary": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Kayne Anderson Ru…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-04/the-close-9-4-2026-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 94.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-05 04:16",
+   "title": "Dow tumbles more than 260 points after strong jobs report reignites rate hike fears: Live updates",
+   "summary": "August's hotter-than-expected payrolls reading increased expectations that the Federal Reserve could raise interest rates at its next meeting.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 94.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-05 03:48",
+   "title": "Trump doubles down on threat to halt trade with top partners unless Fed cuts rates",
+   "summary": "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 94.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-04 19:50",
+   "title": "S&P 500 Ends Week Flat as Strong Jobs Growth Fuels Fed-Hike Bets",
+   "summary": "US stocks finished lower on Friday as the American economy ​added more jobs than expected in August, raising expectations that the Federal Reserve may hike interest rates soon.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-04/us-stock-futures-steady-ahead-of-key-august-jobs-data",
+     "t": "sec"
+    }
+   ],
+   "heat": 92.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-04 06:14",
+   "title": "Stocks Fall as Jobs Fuel Bets Fed Will Raise Rates: Markets Wrap",
+   "summary": "A stronger-than-anticipated increase in US jobs drove stocks and short-dated notes lower, with traders boosting their bets the Federal Reserve will raise rates this month.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 90.5
   },
   {
    "cat": "macro",
@@ -167,7 +167,7 @@
      "t": "agg"
     }
    ],
-   "heat": 94.7
+   "heat": 89.9
   },
   {
    "cat": "macro",
@@ -181,7 +181,21 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 88.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-05 11:37",
+   "title": "Trump Demands Lower Rates, Trump Eases Processing for Ranchers",
+   "summary": "Source: Bloomberg, 5:57",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-05/trump-demands-lower-rates-trump-eases-processing-for-ranchers",
+     "t": "sec"
+    }
+   ],
+   "heat": 79.4
   },
   {
    "cat": "macro",
@@ -195,35 +209,63 @@
      "t": "sec"
     }
    ],
-   "heat": 79.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-05 04:14",
-   "title": "Wall Street Risk Complex Defies Rate Threat After Jobs Data",
-   "summary": "The global bond selloff is proving no wrecking ball for Wall Street, repricing the cost of money without setting off the usual scramble out of risk assets.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-04/wall-street-risk-complex-defies-rate-threat-after-jobs-blowout",
-     "t": "sec"
-    }
-   ],
-   "heat": 79.0
+   "heat": 78.4
   },
   {
    "cat": "sector",
-   "time": "2026-09-05 09:03",
-   "title": "Trump Eases Processing for Ranchers, Mail Ballot Change Blocked",
-   "summary": "Source: Bloomberg, 6:46",
+   "time": "2026-09-05 13:25",
+   "title": "Malaysia’s PAS Party Wants Nationwide Gambling License Review",
+   "summary": "Parti Islam Se-Malaysia, which leads the country’s main opposition bloc, said the government should review existing gambling licenses and stop giving new ones, its latest effort to…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-05/trump-eases-processing-for-ranchers-mail-ballot-change-blocked",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-05/malaysia-s-pas-party-wants-nationwide-gambling-license-review",
      "t": "sec"
     }
    ],
-   "heat": 199.8
+   "heat": 211.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-05 10:45",
+   "title": "HK’s Lee Says City to Expand Offshore Yuan Usage in 5-Year Plan",
+   "summary": "Hong Kong Chief Executive John Lee said the city’s first five-year plan will focus on areas including expanding offshore yuan usage and cross-border investment with the mainland.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-05/hk-s-lee-says-city-to-expand-offshore-yuan-usage-in-5-year-plan",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-05 10:45",
+   "title": "Trump Eases Processing for Ranchers, Mail Ballot Change Blocked",
+   "summary": "Source: Bloomberg, 6:17",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-05/trump-eases-processing-for-ranchers-mail-ballot-change-blocked-mtns5tlw",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-05 09:31",
+   "title": "Japan Says Progress Made on $550 Billion Investment Pact With US",
+   "summary": "Japanese Trade Minister Ryosei Akazawa said progress was being made on a $550 billion investment initiative set up as part of a trade deal with the US last year.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-05/japan-says-progress-made-on-550-billion-investment-pact-with-us",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.0
   },
   {
    "cat": "sector",
@@ -237,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.6
+   "heat": 210.8
   },
   {
    "cat": "sector",
@@ -251,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.5
+   "heat": 210.7
   },
   {
    "cat": "sector",
@@ -265,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.5
+   "heat": 210.6
   },
   {
    "cat": "sector",
@@ -279,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.4
+   "heat": 210.6
   },
   {
    "cat": "sector",
@@ -293,21 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 05:43",
-   "title": "Bloom Energy, Illumina, Everpure to Join S&P 500 This Month",
-   "summary": "Bloom Energy Corp., Illumina Inc. and Everpure Inc. will join the S&amp;P 500 in the latest quarterly rebalance, S&amp;P Dow Jones Indices said Friday.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-04/bloom-energy-illumina-everpure-to-join-s-p-500-in-september",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.2
+   "heat": 210.5
   },
   {
    "cat": "sector",
@@ -321,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.2
+   "heat": 210.4
   },
   {
    "cat": "sector",
@@ -335,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.1
+   "heat": 210.2
   },
   {
    "cat": "sector",
@@ -349,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.0
+   "heat": 210.2
   },
   {
    "cat": "sector",
@@ -363,49 +391,35 @@
      "t": "sec"
     }
    ],
-   "heat": 199.0
+   "heat": 210.1
   },
   {
-   "cat": "sector",
-   "time": "2026-09-05 02:27",
-   "title": "Women accounted for almost all of job gains in August. Here's why",
-   "summary": "Women accounted for virtually all of August's payroll gains, the latest sign of their growing power in the labor market.",
+   "cat": "stock",
+   "time": "2026-09-05 06:01",
+   "title": "First US Bancshares director Robert Field buys $1,858 in stock",
+   "summary": "",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/04/jobs-report-women-payrolls.html",
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/first-us-bancshares-director-robert-field-buys-1858-in-stock-93CH-4890170",
+     "t": "agg"
+    }
+   ],
+   "heat": 116.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-05 13:23",
+   "title": "Ed Yardeni Raises S&P 500 Target For 2026 After ‘Gangbusters’ Earnings Season – Says He Wasn’t ‘Bullish Enough’ - Stockt",
+   "summary": "Ed Yardeni Raises S&P 500 Target For 2026 After ‘Gangbusters’ Earnings Season – Says He Wasn’t ‘Bullish Enough’ &nbsp;&nbsp; Stocktwits",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzdBZEJJLWZCcTdkcGRwUzJWX2taeFpEeklXaUdfWmFBb0tvaTJOWEx3SkJDeXQzbUFHRkZjeHV6ZWVaNWx2U19BYm1NOWl2T3ZGLS1TMWNMeHg5Ul84ZEQwTThRNGtvN2wwbFRFLXpUVnFCNVhDZmJjNVZoNldvMlk0N1R5NTh5Y3Byd1JNNUJiajRRbmJMdkJGcHpDckVaWmh2aV9XMXptT2RqQ1QwbTh4a0ZWSmtrT3pUUTNkZw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 198.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 02:17",
-   "title": "China Proposes Sweeping Insurance Law Overhaul to Tighten Shareholder Oversight",
-   "summary": "China Proposes Sweeping Insurance Law Overhaul to Tighten Shareholder Oversight &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01nd1lKYnctUzJWRmxUWnppU21pOWtzOVhYMzVHTzJRLVIyUm51UkFXSFJHd2pxYnRvdzRsSmZZRENZMlJTY0FoUW5sX0I0TkpQZU1ZUHQwcDVhU3NmOGhFQ1ozMU9oU3daTlhOR1FFaU1lQTZ4NC1PR3dvWjhfVXhWc0JKaHY1Ym8wbC1qS0gxNjNfSlJLQlBrVWZSaEQ0eHoyYjlXSTlZUWxOX3FPYnVMdC1mSHZvTTM0M3BrNUVsMkV3QkRRQ3Z5cnVmYm8?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 198.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 01:50",
-   "title": "China Proposes Tougher Investor Rules for Private Funds",
-   "summary": "China Proposes Tougher Investor Rules for Private Funds &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcUk4Um5mY2JLM0VKRTRuWEFjQWx3VkZwc25SZmtzTVBtcEh1WjBKaVFWLWpPMzRGSHY4RmR2NTdFaEZ4X05MSUVtYmNUWnB5WW4zZjYwYjNvdU45X0NnNC1tZERwSmY3d0U5YklQZWIzOEVfRVFBeThlamhqd3VzcThOMDZHZUV4dF84MWJKMThIRUtFOFM4cHAwVjdQOWJ3aHprbGFobUdIYUsxY3V3?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 198.6
+   "heat": 115.7
   },
   {
    "cat": "stock",
@@ -419,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 119.6
+   "heat": 114.8
   },
   {
    "cat": "stock",
@@ -433,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 117.7
+   "heat": 112.9
   },
   {
    "cat": "stock",
@@ -447,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 112.3
+   "heat": 108.0
   },
   {
    "cat": "stock",
@@ -461,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.4
+   "heat": 106.5
   },
   {
    "cat": "stock",
@@ -475,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.2
+   "heat": 106.4
   },
   {
    "cat": "stock",
@@ -489,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.0
+   "heat": 106.2
   },
   {
    "cat": "stock",
@@ -503,7 +517,49 @@
      "t": "sec"
     }
    ],
-   "heat": 109.8
+   "heat": 105.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-05 06:46",
+   "title": "Dream Finders Homes director Len Sturm purchases $20,205 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/dream-finders-homes-director-len-sturm-purchases-20205-in-stock-93CH-4890175",
+     "t": "agg"
+    }
+   ],
+   "heat": 104.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-05 06:01",
+   "title": "Pubmatic chairman, chief innovation officer Goel sells $106,526 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/pubmatic-chairman-chief-innovation-officer-goel-sells-106526-in-stock-93CH-4890171",
+     "t": "agg"
+    }
+   ],
+   "heat": 104.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-05 06:00",
+   "title": "Denali Therapeutics director sells $261,928 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/denali-therapeutics-director-sells-261928-in-stock-93CH-4890168",
+     "t": "agg"
+    }
+   ],
+   "heat": 104.5
   },
   {
    "cat": "stock",
@@ -517,77 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 108.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-05 02:01",
-   "title": "BioCardia CEO Peter Altman buys $872 in company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/biocardia-ceo-peter-altman-buys-872-in-company-stock-93CH-4890147",
-     "t": "agg"
-    }
-   ],
-   "heat": 108.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-05 01:30",
-   "title": "Enovis CAO Oliver Engert buys $149,970 in company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/enovis-cao-oliver-engert-buys-149970-in-company-stock-93CH-4890143",
-     "t": "agg"
-    }
-   ],
-   "heat": 108.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-05 01:16",
-   "title": "Veracyte EVP, general counsel Annie McGuire sells over $140,000 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/veracyte-evp-general-counsel-annie-mcguire-sells-over-140000-in-stock-93CH-4890137",
-     "t": "agg"
-    }
-   ],
-   "heat": 108.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-05 01:16",
-   "title": "Veracyte chief scientific & med officer sells over $564k stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/veracyte-chief-scientific--med-officer-sells-over-564k-stock-93CH-4890138",
-     "t": "agg"
-    }
-   ],
-   "heat": 108.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-05 01:01",
-   "title": "Outfront Media EVP Bonanni sells $100,940 in company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/outfront-media-evp-bonanni-sells-100940-in-company-stock-93CH-4890136",
-     "t": "agg"
-    }
-   ],
-   "heat": 108.5
+   "heat": 104.1
   },
   {
    "cat": "stock",
@@ -601,7 +587,7 @@
      "t": "agg"
     }
    ],
-   "heat": 106.7
+   "heat": 101.9
   },
   {
    "cat": "stock",
@@ -615,7 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 106.1
+   "heat": 101.3
   },
   {
    "cat": "global",
@@ -629,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.4
+   "heat": 38.6
   },
   {
    "cat": "global",
@@ -643,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.3
+   "heat": 38.5
   },
   {
    "cat": "global",
@@ -657,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.1
+   "heat": 38.2
   },
   {
    "cat": "global",
@@ -671,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.9
+   "heat": 38.1
   },
   {
    "cat": "global",
@@ -685,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.9
+   "heat": 38.0
   },
   {
    "cat": "global",
@@ -699,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.6
+   "heat": 37.8
   },
   {
    "cat": "global",
@@ -713,7 +699,7 @@
      "t": "agg"
     }
    ],
-   "heat": 33.1
+   "heat": 32.3
   },
   {
    "cat": "global",
@@ -741,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 26.6
+   "heat": 25.8
   },
   {
    "cat": "global",
@@ -755,7 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 24.7
+   "heat": 23.9
   },
   {
    "cat": "global",
@@ -769,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 23.8
+   "heat": 23.0
   },
   {
    "cat": "global",
@@ -783,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.1
+   "heat": 22.2
   },
   {
    "cat": "global",
@@ -797,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 23.0
+   "heat": 22.2
   },
   {
    "cat": "global",
@@ -811,7 +797,7 @@
      "t": "sec"
     }
    ],
-   "heat": 22.9
+   "heat": 22.0
   },
   {
    "cat": "global",
@@ -825,7 +811,7 @@
      "t": "agg"
     }
    ],
-   "heat": 22.7
+   "heat": 21.8
   },
   {
    "cat": "crypto",
@@ -839,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.7
+   "heat": 65.9
   },
   {
    "cat": "crypto",
@@ -853,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.5
+   "heat": 65.6
   },
   {
    "cat": "crypto",
@@ -867,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.5
+   "heat": 61.7
   },
   {
    "cat": "crypto",
@@ -881,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 61.3
+   "heat": 60.4
   },
   {
    "cat": "crypto",
@@ -895,35 +881,21 @@
      "t": "sec"
     }
    ],
-   "heat": 49.9
+   "heat": 53.1
   },
   {
    "cat": "crypto",
-   "time": "2026-09-04 13:10",
-   "title": "One full bitcoin now buys a little more than 18 ounces of gold, the most since January",
-   "summary": "Bitcoin is pulling ahead of gold even as both hard assets rally together, driven by fears that governments will inflate away their debt rather than by bond yields.",
+   "time": "2026-09-05 13:00",
+   "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
+   "summary": "Blockchain investment in Southeast Asia in 2026 has been led by crypto financial services, though funding remains heavily concentrated in Singapore and a handful of companies.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/09/04/one-full-bitcoin-now-buys-a-little-more-than-18-ounces-of-gold-the-most-since-january",
+     "u": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
      "t": "sec"
     }
    ],
-   "heat": 44.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-05 04:30",
-   "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
-   "summary": "The US economy added far more jobs than expected in August, pressuring Bitcoin lower as traders repriced the odds of a Federal Reserve rate cut this month.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.0
+   "heat": 51.6
   },
   {
    "cat": "crypto",
@@ -937,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.8
+   "heat": 46.0
   },
   {
    "cat": "crypto",
@@ -951,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.0
+   "heat": 45.2
   },
   {
    "cat": "crypto",
@@ -965,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.0
+   "heat": 45.2
   },
   {
    "cat": "crypto",
@@ -979,7 +951,21 @@
      "t": "sec"
     }
    ],
-   "heat": 41.9
+   "heat": 45.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-05 04:30",
+   "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
+   "summary": "The US economy added far more jobs than expected in August, pressuring Bitcoin lower as traders repriced the odds of a Federal Reserve rate cut this month.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 38.2
   },
   {
    "cat": "crypto",
@@ -993,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.5
+   "heat": 36.7
   },
   {
    "cat": "crypto",
@@ -1007,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.3
+   "heat": 36.4
   },
   {
    "cat": "crypto",
@@ -1021,35 +1007,49 @@
      "t": "sec"
     }
    ],
-   "heat": 40.9
+   "heat": 36.1
   },
   {
    "cat": "crypto",
-   "time": "2026-09-05 09:00",
-   "title": "Singapore Stablecoin License Leaves Issuers Weighing Benefits",
-   "summary": "The optional regime offers an MAS label, but issuers will have to decide if the extra rules and costs are worth it.",
+   "time": "2026-09-05 03:31",
+   "title": "Pineapple Financial puts $1B in mortgage records on Injective",
+   "summary": "The mortgage lender plans to bring more than $10 billion in historical loans onchain, turning thousands of mortgage files into blockchain-based records.",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-05/singapore-stablecoin-license-leaves-issuers-weighing-benefits",
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 19.8
+   "heat": 22.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-02 09:25",
-   "title": "AI服务器拉动MLCC旺盛需求 三星电机斩获万亿韩元大单",
-   "summary": "AI服务器拉动MLCC旺盛需求 三星电机斩获万亿韩元大单 &nbsp;&nbsp; 财联社",
+   "time": "2026-08-30 15:49",
+   "title": "【明日主题前瞻】PCB高端产品供需偏紧，AI算力需求倒逼技术革新",
+   "summary": "【明日主题前瞻】PCB高端产品供需偏紧，AI算力需求倒逼技术革新 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IT1NMZ05JdnF1UGJ6dEFwOTNYYzBvM2s0UVNIZDJjcXBlZnUxbk5FQnRmQTNhYkw3YVBZazBuM2JLRUdVclNLSQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4aHkzeG1VUDFQS1ZrMUZwVXFLYXc5cHNFNDFWODdfN0NIZ2o3VFVvSGJlNE9oS01sWk9jS2lWMXZYdnhzSTJDUg?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 192.0
+   "heat": 204.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-05 01:50",
+   "title": "China Proposes Tougher Investor Rules for Private Funds",
+   "summary": "China Proposes Tougher Investor Rules for Private Funds &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcUk4Um5mY2JLM0VKRTRuWEFjQWx3VkZwc25SZmtzTVBtcEh1WjBKaVFWLWpPMzRGSHY4RmR2NTdFaEZ4X05MSUVtYmNUWnB5WW4zZjYwYjNvdU45X0NnNC1tZERwSmY3d0U5YklQZWIzOEVfRVFBeThlamhqd3VzcThOMDZHZUV4dF84MWJKMThIRUtFOFM4cHAwVjdQOWJ3aHprbGFobUdIYUsxY3V3?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 209.8
   }
  ]
 }
