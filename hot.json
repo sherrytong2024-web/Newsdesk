@@ -1,6 +1,34 @@
 {
- "updated": "2026-09-07 01:26",
+ "updated": "2026-09-07 03:49",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-07 03:47",
+   "title": "Amazon cargo plane sends up billowing cloud of smoke after overrunning runway at Miami airport",
+   "summary": "An Amazon cargo plane overshot a runway at Miami International Airport on Sunday, pausing flights at the busy travel hub.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/06/amazon-cargo-plane-overrunns-runway-at-miami-international-airport.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 236.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-07 03:41",
+   "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
+   "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 236.0
+  },
   {
    "cat": "sector",
    "time": "2026-09-06 15:55",
@@ -13,7 +41,21 @@
      "t": "agg"
     }
    ],
-   "heat": 232.4
+   "heat": 236.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-07 02:28",
+   "title": "NFL Commissioner Roger Goodell agrees on a 4-year contract extension",
+   "summary": "New England Patriots owner Robert Kraft said in a memo: \"We believe we are very fortunate to have Roger at the helm for the next four years.\"",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/06/nfl-commissioner-roger-goodell-agrees-on-a-4-year-contract-extension.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.8
   },
   {
    "cat": "sector",
@@ -27,21 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-07 00:27",
-   "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
-   "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.8
+   "heat": 235.5
   },
   {
    "cat": "sector",
@@ -55,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.7
+   "heat": 235.3
   },
   {
    "cat": "sector",
@@ -69,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.5
+   "heat": 235.1
   },
   {
    "cat": "sector",
@@ -83,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.4
+   "heat": 235.0
   },
   {
    "cat": "sector",
@@ -97,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.4
+   "heat": 235.0
   },
   {
    "cat": "sector",
@@ -111,35 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-06 21:04",
-   "title": "OPEC+ keeps oil output policy unchanged for October",
-   "summary": "The Iran war continues to ​disrupt oil exports through the Strait of Hormuz, limiting OPEC+'s influence over prices and market ​share.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/06/opec-oil-output-october.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-06 20:58",
-   "title": "S&P 500 Today: Broad Market Trims August Gains as Iran Strikes Rattle Wall Street - BBN Times",
-   "summary": "S&P 500 Today: Broad Market Trims August Gains as Iran Strikes Rattle Wall Street &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV0NsYXNqelROZVpvdV92OFowdzFJMXJGMU1ZM3Uwb1VLNDZuM3FhNXUyNVBmaFBrNGcyYTRKQkVRS040b05FdERUaDNhMVpJRWNSZklpZkZsN0o4eklBNDNwdElYeld6eUtsOENoSHJpWUZUS2x4OTBMaHljZENCeDJkRnhDemFxRkc5SFBCSUpZY1c3T2NGMHVxM29ja21ZYWIyem9YWEJXSW9UOWZUcW5nU0FRT2w5clpXZA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.3
+   "heat": 235.0
   }
  ]
 }
