@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-07 03:49",
+ "updated": "2026-09-07 06:35",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-07 03:47",
-   "title": "Amazon cargo plane sends up billowing cloud of smoke after overrunning runway at Miami airport",
-   "summary": "An Amazon cargo plane overshot a runway at Miami International Airport on Sunday, pausing flights at the busy travel hub.",
+   "time": "2026-09-07 06:34",
+   "title": "At least 5 dead after Amazon cargo plane barreled off runway at Miami airport",
+   "summary": "The aircraft overran the runway around 2 p.m. ET after arriving from San Juan, Puerto Rico.",
    "srcs": [
     {
      "n": "CNBC",
@@ -13,7 +13,63 @@
      "t": "sec"
     }
    ],
-   "heat": 236.0
+   "heat": 252.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-07 06:06",
+   "title": "US Envoys in Kyiv, Amazon Cargo Jet Crash at Miami Airport, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-06/us-envoys-in-kyiv-amazon-cargo-jet-crash-at-miami-airport-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-07 05:19",
+   "title": "Amazon Cargo Plane Overshoots Runway, Closing Miami Airport",
+   "summary": "An Amazon.com Inc. cargo plane overran a runway at Miami International Airport and burst into flames on Sunday, shutting down the airport’s runways and taxiways and prompting an em…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-06/amazon-plane-overshoots-runway-closing-miami-airport-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-07 05:02",
+   "title": "US-Ukraine Talks, Trump's New Appeal on Mail Ballot Fight, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-06/us-ukraine-talks-trump-s-new-appeal-on-mail-ballot-fight-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-07 04:15",
+   "title": "US Envoys in Ukraine, Trump Renews Appeal Over Mail Ballots",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-06/us-envoys-in-ukraine-trump-renews-appeal-over-mail-ballots",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.6
   },
   {
    "cat": "sector",
@@ -27,21 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 236.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-06 15:55",
-   "title": "Lululemon founder Chip Wilson reportedly divorcing wife, adding more uncertainty",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/lululemon-founder-chip-wilson-reportedly-divorcing-wife-adding-more-uncertainty-4890311",
-     "t": "agg"
-    }
-   ],
-   "heat": 236.0
+   "heat": 251.5
   },
   {
    "cat": "sector",
@@ -55,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.8
+   "heat": 251.3
   },
   {
    "cat": "sector",
@@ -69,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.5
+   "heat": 251.1
   },
   {
    "cat": "sector",
@@ -83,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.3
+   "heat": 250.9
   },
   {
    "cat": "sector",
@@ -97,49 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-06 22:01",
-   "title": "Iran Targets Tankers in Hormuz, Trump Envoys in Ukraine, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-06/iran-targets-tankers-in-hormuz-trump-envoys-in-ukraine-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-06 22:00",
-   "title": "'Everyone has an AI secret': This artist has spent a year collecting and sharing hundreds of anonymous AI confessions",
-   "summary": "Through her project \"What We Tell AI,\" Olivia Tai has collected over 350 handwritten secrets about how people use AI to navigate dating, work and life.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/06/artists-ai-secrets-project-collects-hundreds-of-anonymous-confessions.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-06 21:52",
-   "title": "USS Lincoln Sailors Describe Toll of Deployment",
-   "summary": "The USS Abraham Lincoln’s crew received a long-awaited port visit in Thailand after a 286-day deployment that included a modern-era record of 264 consecutive days at sea and months…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-06/uss-lincoln-sailors-describe-toll-of-deployment-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.0
+   "heat": 250.6
   }
  ]
 }
