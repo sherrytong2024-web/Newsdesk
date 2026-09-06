@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06 10:11",
+ "updated": "2026-09-06 15:27",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.8
+   "heat": 58.0
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.2
+   "heat": 57.4
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "agg"
     }
    ],
-   "heat": 50.8
+   "heat": 50.0
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.8
+   "heat": 42.9
   },
   {
    "cat": "macro",
@@ -83,21 +83,21 @@
      "t": "agg"
     }
    ],
-   "heat": 39.3
+   "heat": 38.4
   },
   {
    "cat": "macro",
-   "time": "2026-09-05 04:04",
-   "title": "S&P 500 Falls 0.4% After 162,000 Jobs; Chip Stocks Defy Rate Scare - TechStock²",
-   "summary": "S&P 500 Falls 0.4% After 162,000 Jobs; Chip Stocks Defy Rate Scare &nbsp;&nbsp; TechStock²",
+   "time": "2026-09-04 21:39",
+   "title": "US stocks today: S&P 500, Dow stocks slip as stronger jobs report lifts rate-hike bets - The Economic Times",
+   "summary": "US stocks today: S&P 500, Dow stocks slip as stronger jobs report lifts rate-hike bets &nbsp;&nbsp; The Economic Times",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPelRRcnBqd3A5dU9WaVpMcnFjVllIZ2hTWlVBYnlxd1FHbkFDaVVXOGZDNURteVljWjRSY0hDaXBNbU1MOWM3WmtKYlRvZVhfRDBHQjdLUFoxTXRNOFUyVVozcV95YjY2LWJIMXhaZ3RxZTZielhmbkIwelNUbGdtNmNTakZ3RGRvR3ln?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQXzdFbFZITVZZMDdOSGlzNmFXSWFPb0F2cVBONERHeGpiMWQ3Q096UEVSMzJCdU11dkphRkgxSmVQaVhMTm5pRHdManlRUU9hWlFjU0J2Qm1ic0p3NndMSlliek9aZHp3V0FlX3Zwdy1wdTE1d01Nc0oyYnN2UWRQLVNmNjJZbzktWldKejJoYkN5YTNRR0hSVUlDblU5MS1EYWFCSFRSdDJ1SENBajJzLVl1MkVlVHFwQUlpQnRQMS1RUGhTWVhCbXJiLVRqS283Z0hKVEk4RlE5Y2RrQ0stcVF5YnlzYng3YWlRd01kUDk4REIy0gH6AUFVX3lxTE54bWZaQ3F2UFJ5cFBXTkJJd0FQeW41M3pTMF9nVUZ1N19rOXBBMHFhYjFGc2FGUlUwTGxlQ0dCV0FnRGJfbXdmblZNTlBUR1ZBMUxHN2xXMXpheVBNZHh6cWdhNGh4R1FuSjhjY0J5NzZpREZaNHZENElIdS1wS3Vnc0JTNXNhdmVNQkRVd3NCQkJGd0FPTVF3ajFtMkQ2eks5TzE2S0lJcnAzMlJvX0k1ZVVVbm82LU5mWGRUVFNuS19KRXpxUVdqRkZJWXdEUlVzWWZGYUt3UkYwZUFkVlFyNGdOcmhZNGFUdkFYODctU3ByR19xV2FhVkE?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 39.0
+   "heat": 37.0
   },
   {
    "cat": "macro",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.8
+   "heat": 36.9
   },
   {
    "cat": "macro",
@@ -139,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.5
+   "heat": 32.6
   },
   {
    "cat": "macro",
@@ -153,21 +153,7 @@
      "t": "agg"
     }
    ],
-   "heat": 32.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-04 18:12",
-   "title": "Multi-Front Inflation Tests How High Yields Support the US Dollar",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/multifront-inflation-tests-how-high-yields-support-the-us-dollar-200687132",
-     "t": "agg"
-    }
-   ],
-   "heat": 31.3
+   "heat": 32.0
   },
   {
    "cat": "macro",
@@ -181,7 +167,7 @@
      "t": "agg"
     }
    ],
-   "heat": 31.3
+   "heat": 30.4
   },
   {
    "cat": "macro",
@@ -195,7 +181,21 @@
      "t": "agg"
     }
    ],
-   "heat": 30.9
+   "heat": 30.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-04 18:12",
+   "title": "Multi-Front Inflation Tests How High Yields Support the US Dollar",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/multifront-inflation-tests-how-high-yields-support-the-us-dollar-200687132",
+     "t": "agg"
+    }
+   ],
+   "heat": 26.5
   },
   {
    "cat": "macro",
@@ -209,21 +209,21 @@
      "t": "sec"
     }
    ],
-   "heat": 20.0
+   "heat": 16.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-06 08:44",
-   "title": "Indonesia Halts Jakarta, Lampung Flights on Volcanic Eruptions",
-   "summary": "Indonesia suspended flights at airports in Jakarta and Lampung on Sunday after volcanic ash from Mount Anak Krakatau spread across parts of Java and Sumatra, state-owned airport op…",
+   "time": "2026-09-06 15:03",
+   "title": "HK’s Chan Says More Central Asia State Firms Set to List in City",
+   "summary": "Some Central Asian state-owned infrastructure companies are planning to list in Hong Kong, Financial Secretary Paul Chan said, as the city looks to diversify markets and strengthen…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-06/indonesia-halts-jakarta-lampung-flights-on-volcanic-eruptions",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-06/hk-s-chan-says-more-central-asia-state-firms-set-to-list-in-city",
      "t": "sec"
     }
    ],
-   "heat": 219.8
+   "heat": 215.9
   },
   {
    "cat": "sector",
@@ -237,21 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-06 06:01",
-   "title": "S&P 500 Today: Broad Market Trims August Gains as Iran Strikes Rattle Wall Street - BBN Times",
-   "summary": "S&P 500 Today: Broad Market Trims August Gains as Iran Strikes Rattle Wall Street &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV0NsYXNqelROZVpvdV92OFowdzFJMXJGMU1ZM3Uwb1VLNDZuM3FhNXUyNVBmaFBrNGcyYTRKQkVRS040b05FdERUaDNhMVpJRWNSZklpZkZsN0o4eklBNDNwdElYeld6eUtsOENoSHJpWUZUS2x4OTBMaHljZENCeDJkRnhDemFxRkc5SFBCSUpZY1c3T2NGMHVxM29ja21ZYWIyem9YWEJXSW9UOWZUcW5nU0FRT2w5clpXZA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.3
+   "heat": 214.5
   },
   {
    "cat": "sector",
@@ -265,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.2
+   "heat": 213.3
   },
   {
    "cat": "sector",
@@ -279,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.1
+   "heat": 213.2
   },
   {
    "cat": "sector",
@@ -293,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.0
+   "heat": 213.2
   },
   {
    "cat": "sector",
@@ -307,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.0
+   "heat": 213.1
   },
   {
    "cat": "sector",
@@ -321,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 217.9
+   "heat": 213.0
   },
   {
    "cat": "sector",
@@ -335,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 217.9
+   "heat": 213.0
   },
   {
    "cat": "sector",
@@ -349,21 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 217.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 20:45",
-   "title": "Singapore Government Won’t Interfere in Decisions on Air India",
-   "summary": "The Singapore government said it will not interfere in any decision that Singapore Airlines Ltd. makes in Air India Ltd., which is said to be seeking financial aid from its shareho…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-05/singapore-government-won-t-interfere-in-decisions-on-air-india",
-     "t": "sec"
-    }
-   ],
-   "heat": 217.8
+   "heat": 212.9
   },
   {
    "cat": "sector",
@@ -377,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 217.8
+   "heat": 212.9
   },
   {
    "cat": "sector",
@@ -391,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 217.7
+   "heat": 212.8
   },
   {
    "cat": "sector",
@@ -405,7 +377,21 @@
      "t": "sec"
     }
    ],
-   "heat": 217.7
+   "heat": 212.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-05 20:00",
+   "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+   "summary": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 212.8
   },
   {
    "cat": "stock",
@@ -419,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.5
+   "heat": 91.7
   },
   {
    "cat": "stock",
@@ -433,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 88.0
   },
   {
    "cat": "stock",
@@ -447,13 +433,13 @@
      "t": "sec"
     }
    ],
-   "heat": 87.8
+   "heat": 86.9
   },
   {
    "cat": "stock",
    "time": "2026-09-06 00:12",
-   "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500 - MarketWatch",
-   "summary": "How to invest in a booming stock market that’s way cheaper than the S&P 500 &nbsp;&nbsp; MarketWatch",
+   "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500 - marketwatch.com",
+   "summary": "How to invest in a booming stock market that’s way cheaper than the S&P 500 &nbsp;&nbsp; marketwatch.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -461,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 86.3
+   "heat": 85.5
   },
   {
    "cat": "stock",
@@ -475,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 85.7
+   "heat": 84.8
   },
   {
    "cat": "stock",
@@ -489,7 +475,21 @@
      "t": "sec"
     }
    ],
-   "heat": 85.4
+   "heat": 84.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-06 04:55",
+   "title": "Investors turn to Chinese stocks as alternative to crowded AI trades",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/investors-turn-to-chinese-stocks-as-alternative-to-crowded-ai-trades-4890253",
+     "t": "agg"
+    }
+   ],
+   "heat": 84.2
   },
   {
    "cat": "stock",
@@ -503,21 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-05 21:20",
-   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4890240",
-     "t": "agg"
-    }
-   ],
-   "heat": 83.9
+   "heat": 83.3
   },
   {
    "cat": "stock",
@@ -531,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 81.9
+   "heat": 81.0
   },
   {
    "cat": "stock",
@@ -545,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.9
+   "heat": 80.1
   },
   {
    "cat": "stock",
@@ -556,20 +542,6 @@
     {
      "n": "S&P Global(Google聚合)",
      "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcFBEWmZQNFlFd0sxaXVOSGV3aXF1QTZRUlB2N0pQSmdsdlhGOUVFcnhsVVZmcWkzTGJXanE2c2ExaEFpZXpKVW15MndjMm9QcktJWjZfeWROTjZYejZib1kxMVdKUFU1MVNwblIxNExFakJxQU9lUzhabENTX3V2bkt1SG04aGtEYmZYZjhQOGJOQ2lnQVcxSnVYLURReU5MaXp0Tl9IdDU1aWlmeHBxMGt2dkp5WUh2QlZCVUJhRF9HVC1BUGRKUmN2NzdBaGszZERNZWdZVDR5WDM1MmRUdzVVMmc3Vk1YRktzem13TmdaMHBTLWNlQWJOWW0xcWM4U0ZHbw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 80.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-02 18:59",
-   "title": "China Closes Tax Loopholes on Insider Stock Sales",
-   "summary": "China Closes Tax Loopholes on Insider Stock Sales &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVy14TVlWWkZSYXc5WXpvU0wzTjA2WnFSOGduQVdpdnhkMHk4UHJpRGxqdk1md0xPYXlUM1E5VHg5bDg0ZmlnMVFzdGF4NFZUbGkweEFyZFpFOXp0Z1oybGUxaE9xb2NDOXBMZ0hNalhQSFVfenJidHdpdG8zOEthNTlDbmdjWDdudllXcXhvLU8zNGhjOVJONU1vSnJ6c1g4Wk1WblUzOA?oc=5",
      "t": "sec"
     }
    ],
@@ -618,6 +590,20 @@
    "heat": 80.0
   },
   {
+   "cat": "stock",
+   "time": "2026-09-01 08:21",
+   "title": "US Stocks Close Lower: S&P 500, Nasdaq, Dow All Decline - CryptoRank",
+   "summary": "US Stocks Close Lower: S&P 500, Nasdaq, Dow All Decline &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aUnAzTU9lZGJkNXVBXy1yaTkyY1hxSHdHckNjSTd3aGFDVkN3QW1qZDRvekJteWZBbmFPVmlhdkd3YlFxQUxzcGY1WjlBOXQ1aUU2ZktuQ2ExakRnZDFZUFkyaF9PZTI3STQwSUlaOA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 80.0
+  },
+  {
    "cat": "global",
    "time": "2026-09-05 06:51",
    "title": "Malaysian Ringgit: Range-bound risks and key levels against US Dollar – OCBC",
@@ -629,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.4
+   "heat": 34.6
   },
   {
    "cat": "global",
@@ -643,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.3
+   "heat": 34.4
   },
   {
    "cat": "global",
@@ -657,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.1
+   "heat": 34.2
   },
   {
    "cat": "global",
@@ -671,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.9
+   "heat": 34.1
   },
   {
    "cat": "global",
@@ -685,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.9
+   "heat": 34.0
   },
   {
    "cat": "global",
@@ -699,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.7
+   "heat": 33.8
   },
   {
    "cat": "global",
@@ -731,20 +717,6 @@
   },
   {
    "cat": "global",
-   "time": "2026-09-06 04:24",
-   "title": "German Startup’s Rocket Deploys Satellites in a First for Europe",
-   "summary": "An Isar Aerospace rocket blasted off from a launchpad in Norway and delivered a payload of satellites into orbit, marking a key step in Europe’s efforts to compete with US companie…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-05/german-startup-isar-s-rocket-lifts-off-on-european-space-mission",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.0
-  },
-  {
-   "cat": "global",
    "time": "2026-09-05 02:08",
    "title": "Gold falls as traders increase Fed hawkish bets after stellar NFP",
    "summary": "Gold (XAU/USD) price retreats by about 0.80% on Friday, after registering losses of over 2% following the release of an upbeat US jobs report.",
@@ -755,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 22.7
+   "heat": 21.8
   },
   {
    "cat": "global",
@@ -769,21 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 20.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-06 00:03",
-   "title": "Europe’s satellite launch ambitions take off as German rocket reaches orbit",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/europes-satellite-launch-ambitions-take-off-as-german-rocket-reaches-orbit-4890245",
-     "t": "agg"
-    }
-   ],
-   "heat": 20.3
+   "heat": 19.9
   },
   {
    "cat": "global",
@@ -797,7 +755,21 @@
      "t": "agg"
     }
    ],
-   "heat": 19.8
+   "heat": 19.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-06 04:24",
+   "title": "German Startup’s Rocket Deploys Satellites in a First for Europe",
+   "summary": "An Isar Aerospace rocket blasted off from a launchpad in Norway and delivered a payload of satellites into orbit, marking a key step in Europe’s efforts to compete with US companie…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-05/german-startup-isar-s-rocket-lifts-off-on-european-space-mission",
+     "t": "sec"
+    }
+   ],
+   "heat": 18.2
   },
   {
    "cat": "global",
@@ -811,21 +783,35 @@
      "t": "agg"
     }
    ],
-   "heat": 19.1
+   "heat": 18.2
   },
   {
    "cat": "global",
-   "time": "2026-09-05 02:50",
-   "title": "Eurozone: Inflation above target into 2027 – Nordea",
-   "summary": "Nordea expects Eurozone inflation dynamics to stay persistent, with headline inflation projected above the ECB’s target at least until spring 2027.",
+   "time": "2026-09-04 14:21",
+   "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
+   "summary": "",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/eurozone-inflation-above-target-into-2027-nordea-202609041850",
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101",
+     "t": "agg"
+    }
+   ],
+   "heat": 18.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-05 23:43",
+   "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
+   "summary": "Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central Command reported.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
      "t": "sec"
     }
    ],
-   "heat": 18.8
+   "heat": 17.4
   },
   {
    "cat": "crypto",
@@ -839,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 73.5
+   "heat": 76.6
   },
   {
    "cat": "crypto",
@@ -853,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.6
+   "heat": 73.8
   },
   {
    "cat": "crypto",
@@ -867,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.5
+   "heat": 73.6
   },
   {
    "cat": "crypto",
@@ -881,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.5
+   "heat": 69.7
   },
   {
    "cat": "crypto",
@@ -895,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 65.3
+   "heat": 68.4
   },
   {
    "cat": "crypto",
@@ -909,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.5
+   "heat": 55.6
   },
   {
    "cat": "crypto",
@@ -923,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 53.9
+   "heat": 53.0
   },
   {
    "cat": "crypto",
@@ -937,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 53.4
+   "heat": 52.5
   },
   {
    "cat": "crypto",
@@ -951,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.9
+   "heat": 50.0
   },
   {
    "cat": "crypto",
@@ -965,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.0
+   "heat": 49.2
   },
   {
    "cat": "crypto",
@@ -979,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.0
+   "heat": 49.1
   },
   {
    "cat": "crypto",
@@ -993,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.9
+   "heat": 49.0
   },
   {
    "cat": "crypto",
@@ -1007,7 +993,21 @@
      "t": "sec"
     }
    ],
-   "heat": 41.6
+   "heat": 44.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-06 07:02",
+   "title": "Bitcoin bull flag 80% done, trapped in range: Hourly",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
+     "t": "agg"
+    }
+   ],
+   "heat": 44.6
   },
   {
    "cat": "crypto",
@@ -1021,21 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-05 04:30",
-   "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
-   "summary": "The US economy added far more jobs than expected in August, pressuring Bitcoin lower as traders repriced the odds of a Federal Reserve rate cut this month.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.1
+   "heat": 44.1
   },
   {
    "cat": "sector",
@@ -1049,7 +1035,21 @@
      "t": "sec"
     }
    ],
-   "heat": 217.1
+   "heat": 212.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-05 02:17",
+   "title": "China Proposes Sweeping Insurance Law Overhaul to Tighten Shareholder Oversight",
+   "summary": "China Proposes Sweeping Insurance Law Overhaul to Tighten Shareholder Oversight &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01nd1lKYnctUzJWRmxUWnppU21pOWtzOVhYMzVHTzJRLVIyUm51UkFXSFJHd2pxYnRvdzRsSmZZRENZMlJTY0FoUW5sX0I0TkpQZU1ZUHQwcDVhU3NmOGhFQ1ozMU9oU3daTlhOR1FFaU1lQTZ4NC1PR3dvWjhfVXhWc0JKaHY1Ym8wbC1qS0gxNjNfSlJLQlBrVWZSaEQ0eHoyYjlXSTlZUWxOX3FPYnVMdC1mSHZvTTM0M3BrNUVsMkV3QkRRQ3Z5cnVmYm8?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 209.8
   }
  ]
 }
