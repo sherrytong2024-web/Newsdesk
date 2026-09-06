@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06 15:27",
+ "updated": "2026-09-06 20:29",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.0
+   "heat": 49.1
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 57.4
+   "heat": 48.5
   },
   {
    "cat": "macro",
@@ -37,11 +37,11 @@
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQNnVyWjFXUW9QZk1sYlY2WFFWZ2QxSThITzZYSUJhSm5vbFowRnhqbnVGbEI5UWNGMnhnTEI0NjNlUEk3WlJkZHhhUUR6OHM2Mkd4SllQOWxHNE4xN2RTNS1fcUVudnFaY1hkS0lmS1RMREdqQ3B2TXdlbFJES21fM1BjOEg5TnBxMHdxQy1VQlE0NnB5eFZQWEdJVXFGQnJQWTVydUFlUVhJS0xoWXVjdTZ1ajVXMzFaZ1NXTVlsM3ZhSHlfSDlPMDlxV2JNSFJHT09NakRHYzN4aHZPa3JKZmxNekQ2aUdSTE45Uk5jNE5FZ19oVm92YTN4MElTLXhfZjVvQ1RaSGJTZW1QQWExRi1IYlF0WlNBNTdHQ28zam95TlFz0gGqAkFVX3lxTE01ZnlhVjJvQ3VYaEtqVnMtMTc1ZXZ3QTQ4NkE3eEEtdWNjR2lvNmpHS3hoYmpIbFQxWEFmakZzd3c3cks2MDFRQkJsRFUyVm83MFd4V1hoZFFsMU5hRElkSzljWmpmcXgxcTVzOW1MdUdyR3EzeVhFRzNTQ1FPWFhuZjBXNzE1SVFGSmNGWUFQZTdpVXhTRU1lbGNKYnNLeW1zb00tdEVfZTJlOERjUmotdjBLMDFHWG9sakF0TGNQZUZzOVR2MUhwTDRGUDBNQzBuaVQteWlDSFA2c09tVzB6RTRENllZR3paUHhSN0RRSDh3ODJ1YTZQdUFCRDJ2dDUyN2I4ZnZkNHhWekkxUG94UzF4elFfcVdhOGpuMW1JOFpESFZuRmlTM1E?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQNnVyWjFXUW9QZk1sYlY2WFFWZ2QxSThITzZYSUJhSm5vbFowRnhqbnVGbEI5UWNGMnhnTEI0NjNlUEk3WlJkZHhhUUR6OHM2Mkd4SllQOWxHNE4xN2RTNS1fcUVudnFaY1hkS0lmS1RMREdqQ3B2TXdlbFJES21fM1BjOEg5TnBxMHdxQy1VQlE0NnB5eFZQWEdJVXFGQnJQWTVydUFlUVhJS0xoWXVjdTZ1ajVXMzFaZ1NXTVlsM3ZhSHlfSDlPMDlxV2JNSFJHT09NakRHYzN4aHZPa3JKZmxNekQ2aUdSTE45Uk5jNE5FZ19oVm92YTN4MElTLXhfZjVvQ1RaSGJTZW1QQWExRi1IYlF0WlNBNTdHQ28zam95TlFz?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 44.0
   },
   {
    "cat": "macro",
@@ -55,133 +55,7 @@
      "t": "agg"
     }
    ],
-   "heat": 50.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-06 08:42",
-   "title": "Australia Spring Property Season Begins Sharply Lower Than 2025",
-   "summary": "Australia’s spring property season began with far fewer homes going under the hammer than a year earlier, even as auction clearance rates held broadly steady, according to data fro…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-06/australia-spring-property-season-begins-sharply-lower-than-2025",
-     "t": "sec"
-    }
-   ],
-   "heat": 42.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-05 17:48",
-   "title": "The Gold-Silver Ratio: A Strategy for Growing Your Ounces, Not Your Cash",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/the-goldsilver-ratio-a-strategy-for-growing-your-ounces-not-your-cash-200687145",
-     "t": "agg"
-    }
-   ],
-   "heat": 38.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-04 21:39",
-   "title": "US stocks today: S&P 500, Dow stocks slip as stronger jobs report lifts rate-hike bets - The Economic Times",
-   "summary": "US stocks today: S&P 500, Dow stocks slip as stronger jobs report lifts rate-hike bets &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQXzdFbFZITVZZMDdOSGlzNmFXSWFPb0F2cVBONERHeGpiMWQ3Q096UEVSMzJCdU11dkphRkgxSmVQaVhMTm5pRHdManlRUU9hWlFjU0J2Qm1ic0p3NndMSlliek9aZHp3V0FlX3Zwdy1wdTE1d01Nc0oyYnN2UWRQLVNmNjJZbzktWldKejJoYkN5YTNRR0hSVUlDblU5MS1EYWFCSFRSdDJ1SENBajJzLVl1MkVlVHFwQUlpQnRQMS1RUGhTWVhCbXJiLVRqS283Z0hKVEk4RlE5Y2RrQ0stcVF5YnlzYng3YWlRd01kUDk4REIy0gH6AUFVX3lxTE54bWZaQ3F2UFJ5cFBXTkJJd0FQeW41M3pTMF9nVUZ1N19rOXBBMHFhYjFGc2FGUlUwTGxlQ0dCV0FnRGJfbXdmblZNTlBUR1ZBMUxHN2xXMXpheVBNZHh6cWdhNGh4R1FuSjhjY0J5NzZpREZaNHZENElIdS1wS3Vnc0JTNXNhdmVNQkRVd3NCQkJGd0FPTVF3ajFtMkQ2eks5TzE2S0lJcnAzMlJvX0k1ZVVVbm82LU5mWGRUVFNuS19KRXpxUVdqRkZJWXdEUlVzWWZGYUt3UkYwZUFkVlFyNGdOcmhZNGFUdkFYODctU3ByR19xV2FhVkE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 37.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-04 21:09",
-   "title": "US STOCKS-S&P 500, Dow set for lower open after jobs report fuels rate-hike bets - Devdiscourse",
-   "summary": "US STOCKS-S&P 500, Dow set for lower open after jobs report fuels rate-hike bets &nbsp;&nbsp; Devdiscourse",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSEVyenhpcWJCYXFrdDNYdXVnZzBlSGNqaHgzZ0JKNkRMaXFzLTkxTTI3cVd1ZTNMLTZJNllfbzBYMlNMa0VIU3EzeEV0Ym9EWXJ5bXNJd29XOVRUbW9JREdiOXZpeFc2MVJSV3lMX2g3ZUxPZkFiYnNkQ0s5eUpGWlR2U2Fuak1zOHpqc05ESHNKQkNBa1QxTVRfV1FGT0hfT2pJSVhpc1NwRXJMTC0xeEdSc1BBMmRiUHkzYXFQcEVnQlFqZVFnOHl1MjVDY2FFTmw00gHYAUFVX3lxTE5Hdy16MDN2MnA4SW91UDhNdWpmU2xhOUZVOHZpRXVpeVNNemFTU01zOGFRNVplYndCVWZVdnM5Sm85X0hyRnF0eHlMVmhsWnJZWVd2Q1pOR2N5VkgwQjVxdDdIRTRXYzQwS0VNYmdsZ3ZPUWY3Vm0tV0lDeU11V2tUcFdYS2VHalFDM1BMbExJek9IY055MWlIcnUySVpZRGlIUl8xczBnenM3eGMyOHBFOEFYdC1KVTYwTE1JUllKbWE0UkRWekh1WnBKSmwzS001NTJRRi1teQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 36.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-01 04:39",
-   "title": "Stock Market Today: S&P 500 and Dow Jones Slip as Oil, Rates and September Risk Pressure Wall Street - CryptoRank",
-   "summary": "Stock Market Today: S&P 500 and Dow Jones Slip as Oil, Rates and September Risk Pressure Wall Street &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjBESmJyX0pJdnI3VHVFLTVEdmQzeHlfR0I2Y0lGUGRWam5wYlFIbFh2c2gyc2t5c3VINGRjZUdPeWZHbUdrdkhsVUtVZTlKYndUTGxoMFNlU2xidDQ3VGNINF95azZYcWljZkticGhiM3lsNlVPbjctNHFBbkd2SUZjcFhVRVhQb3ZDOFM5VDJURm5nQm94cmdZQ2dtQXc1T193RHhieTRydTVJSVlqNGpaaHlXakRnT2V6cFZCTzNzdlp6UTViNXdlQTBjWXYx?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 36.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-04 19:00",
-   "title": "THC drinks could soon be harder to find as Congress delays hemp ban again",
-   "summary": "THC drinks are booming as an alcohol alternative, but a looming federal crackdown is squeezing makers, distributors and consumers.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/04/thc-drinks-congress-hemp-ban.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 32.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-05 03:13",
-   "title": "Gold’s Fed Coin Flip Was Over in a Day",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/golds-fed-coin-flip-was-over-in-a-day-200687172",
-     "t": "agg"
-    }
-   ],
-   "heat": 32.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-04 17:51",
-   "title": "NFP Preview: How the Jobs Report Could Force the Fed’s Hike or Hold Decision",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/nfp-preview-how-the-jobs-report-could-force-the-feds-hike-or-hold-decision-200687099",
-     "t": "agg"
-    }
-   ],
-   "heat": 30.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-04 15:25",
-   "title": "FX Outlook: 50/50 Fed Call Keeps Risk Assets in Demand",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/fx-outlook-5050-fed-call-keeps-risk-assets-in-demand-200687117",
-     "t": "agg"
-    }
-   ],
-   "heat": 30.0
+   "heat": 42.0
   },
   {
    "cat": "macro",
@@ -195,21 +69,231 @@
      "t": "agg"
     }
    ],
-   "heat": 26.5
+   "heat": 38.0
   },
   {
    "cat": "macro",
-   "time": "2026-09-03 06:00",
-   "title": "S&P 500: Wall Street's Benchmark Climbs to 7,666.60 as Oil and Yields Cool - BBN Times",
-   "summary": "S&P 500: Wall Street's Benchmark Climbs to 7,666.60 as Oil and Yields Cool &nbsp;&nbsp; BBN Times",
+   "time": "2026-09-05 17:48",
+   "title": "The Gold-Silver Ratio: A Strategy for Growing Your Ounces, Not Your Cash",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/the-goldsilver-ratio-a-strategy-for-growing-your-ounces-not-your-cash-200687145",
+     "t": "agg"
+    }
+   ],
+   "heat": 33.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-04 21:09",
+   "title": "US STOCKS-S&P 500, Dow set for lower open after jobs report fuels rate-hike bets - Devdiscourse",
+   "summary": "US STOCKS-S&P 500, Dow set for lower open after jobs report fuels rate-hike bets &nbsp;&nbsp; Devdiscourse",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLXA0UG5udDd0UHBvWW1EVERLYkNRRWJYRVM0TXhxU011MHlvWUxZWmk3OEctRVpiOU8tYWZhVmFEN1FiNE1IWWlYbDVWUG5Eem1YbEtUWVJTQUdPR1cwUml5a0Q5SzJreVpwSy04cHFTN1ZKcXlGTWppRmhZem1peXJNWkpwNVlHdi1kdVRrVk83VVByM3Q2aUZ5R21JNjI0SFJxeG5hSElKWmtrdWh4ZVVKRQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSEVyenhpcWJCYXFrdDNYdXVnZzBlSGNqaHgzZ0JKNkRMaXFzLTkxTTI3cVd1ZTNMLTZJNllfbzBYMlNMa0VIU3EzeEV0Ym9EWXJ5bXNJd29XOVRUbW9JREdiOXZpeFc2MVJSV3lMX2g3ZUxPZkFiYnNkQ0s5eUpGWlR2U2Fuak1zOHpqc05ESHNKQkNBa1QxTVRfV1FGT0hfT2pJSVhpc1NwRXJMTC0xeEdSc1BBMmRiUHkzYXFQcEVnQlFqZVFnOHl1MjVDY2FFTmw00gHYAUFVX3lxTE5Hdy16MDN2MnA4SW91UDhNdWpmU2xhOUZVOHZpRXVpeVNNemFTU01zOGFRNVplYndCVWZVdnM5Sm85X0hyRnF0eHlMVmhsWnJZWVd2Q1pOR2N5VkgwQjVxdDdIRTRXYzQwS0VNYmdsZ3ZPUWY3Vm0tV0lDeU11V2tUcFdYS2VHalFDM1BMbExJek9IY055MWlIcnUySVpZRGlIUl8xczBnenM3eGMyOHBFOEFYdC1KVTYwTE1JUllKbWE0UkRWekh1WnBKSmwzS001NTJRRi1teQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 16.0
+   "heat": 32.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-03 15:00",
+   "title": "US stocks today: S&P 500, Dow stocks slip as stronger jobs report lifts rate-hike bets - The Economic Times",
+   "summary": "US stocks today: S&P 500, Dow stocks slip as stronger jobs report lifts rate-hike bets &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQXzdFbFZITVZZMDdOSGlzNmFXSWFPb0F2cVBONERHeGpiMWQ3Q096UEVSMzJCdU11dkphRkgxSmVQaVhMTm5pRHdManlRUU9hWlFjU0J2Qm1ic0p3NndMSlliek9aZHp3V0FlX3Zwdy1wdTE1d01Nc0oyYnN2UWRQLVNmNjJZbzktWldKejJoYkN5YTNRR0hSVUlDblU5MS1EYWFCSFRSdDJ1SENBajJzLVl1MkVlVHFwQUlpQnRQMS1RUGhTWVhCbXJiLVRqS283Z0hKVEk4RlE5Y2RrQ0stcVF5YnlzYng3YWlRd01kUDk4REIy0gH6AUFVX3lxTE54bWZaQ3F2UFJ5cFBXTkJJd0FQeW41M3pTMF9nVUZ1N19rOXBBMHFhYjFGc2FGUlUwTGxlQ0dCV0FnRGJfbXdmblZNTlBUR1ZBMUxHN2xXMXpheVBNZHh6cWdhNGh4R1FuSjhjY0J5NzZpREZaNHZENElIdS1wS3Vnc0JTNXNhdmVNQkRVd3NCQkJGd0FPTVF3ajFtMkQ2eks5TzE2S0lJcnAzMlJvX0k1ZVVVbm82LU5mWGRUVFNuS19KRXpxUVdqRkZJWXdEUlVzWWZGYUt3UkYwZUFkVlFyNGdOcmhZNGFUdkFYODctU3ByR19xV2FhVkE?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 32.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-01 04:39",
+   "title": "Stock Market Today: S&P 500 and Dow Jones Slip as Oil, Rates and September Risk Pressure Wall Street - CryptoRank",
+   "summary": "Stock Market Today: S&P 500 and Dow Jones Slip as Oil, Rates and September Risk Pressure Wall Street &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjBESmJyX0pJdnI3VHVFLTVEdmQzeHlfR0I2Y0lGUGRWam5wYlFIbFh2c2gyc2t5c3VINGRjZUdPeWZHbUdrdkhsVUtVZTlKYndUTGxoMFNlU2xidDQ3VGNINF95azZYcWljZkticGhiM3lsNlVPbjctNHFBbkd2SUZjcFhVRVhQb3ZDOFM5VDJURm5nQm94cmdZQ2dtQXc1T193RHhieTRydTVJSVlqNGpaaHlXakRnT2V6cFZCTzNzdlp6UTViNXdlQTBjWXYx?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 32.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-06 10:16",
+   "title": "Turkey expects inflation to drop to 28.4% in 2026",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/turkey-expects-inflation-to-drop-to-284-in-2026-93CH-4890274",
+     "t": "agg"
+    }
+   ],
+   "heat": 28.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-05 03:13",
+   "title": "Gold’s Fed Coin Flip Was Over in a Day",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/golds-fed-coin-flip-was-over-in-a-day-200687172",
+     "t": "agg"
+    }
+   ],
+   "heat": 27.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-04 17:51",
+   "title": "NFP Preview: How the Jobs Report Could Force the Fed’s Hike or Hold Decision",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/nfp-preview-how-the-jobs-report-could-force-the-feds-hike-or-hold-decision-200687099",
+     "t": "agg"
+    }
+   ],
+   "heat": 26.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-04 15:25",
+   "title": "FX Outlook: 50/50 Fed Call Keeps Risk Assets in Demand",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/fx-outlook-5050-fed-call-keeps-risk-assets-in-demand-200687117",
+     "t": "agg"
+    }
+   ],
+   "heat": 26.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-06 10:27",
+   "title": "What is driving Europe’s yield decoupling?",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/what-is-driving-europes-yield-decoupling-4890276",
+     "t": "agg"
+    }
+   ],
+   "heat": 24.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-02 01:26",
+   "title": "Oil prices surge after U.S. renews Iran strikes, heightening inflation fears - NBC News",
+   "summary": "Oil prices surge after U.S. renews Iran strikes, heightening inflation fears &nbsp;&nbsp; NBC News",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1k2M25nYzF5bW1Db3RnMldRZ19jWklIUWthSDVPNkhIRk5QQXZfd2dCMHdvNmdrbU1KMlVwYjJZaEtPZzhEa3R3bTBvTEl4MDJ6Q2dWby1NZlJsYi15TzdnWVZLcmg2TTBkVm1NNWhWYlgtM3VFa3RieUJMN2V6NTBSQTFvck1HVkU5NzQ0aHQ2eXJDNGZIVmVKZVNRZw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 24.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-06 20:13",
+   "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+   "summary": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Face.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 220.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-06 20:05",
+   "title": "Many truckers don't feel like the rest of America about AI data centers as business booms",
+   "summary": "Sprawling data center components from HVAC systems to tubing, wiring and semiconductors arrive primarily by truck, a boon for a business hit hard by trade wars.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-06 20:02",
+   "title": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts",
+   "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-06 20:00",
+   "title": "AI data centers are transforming rural land markets — and fueling a backlash",
+   "summary": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-06 18:27",
+   "title": "Nigeria’s Antitrust Agency Probes Uber’s Exit From Country",
+   "summary": "Nigeria’s antitrust commission said it is probing Uber Technologies Inc.’s abrupt exit from the West African nation, after the ride-hailing platform shut down last week without pri…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-06/nigeria-s-antitrust-agency-probes-uber-s-exit-from-country",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-06 17:56",
+   "title": "Kremlin says Ukraine talks with U.S. envoys were useful; no sign of breakthrough",
+   "summary": "Putin reportedly said Russia was making \"real progress\" on the battlefield, while voicing the need to address \"all the root causes of the conflict.\"",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/06/kremlin-says-ukraine-talks-with-us-envoys-were-useful.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.6
   },
   {
    "cat": "sector",
@@ -223,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 215.9
+   "heat": 219.1
   },
   {
    "cat": "sector",
@@ -237,7 +321,49 @@
      "t": "sec"
     }
    ],
-   "heat": 214.5
+   "heat": 217.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-06 11:15",
+   "title": "The AI Economy: Why cheaper tokens still lead to bigger bills",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/the-ai-economy-why-cheaper-tokens-still-lead-to-bigger-bills-4890281",
+     "t": "agg"
+    }
+   ],
+   "heat": 216.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-06 11:09",
+   "title": "InvestingPro Fair Value delivers 64% return on GoodRx in 5 months",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-delivers-64-return-on-goodrx-in-5-months-93CH-4890279",
+     "t": "agg"
+    }
+   ],
+   "heat": 216.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-06 11:01",
+   "title": "InvestingPro’s Fair Value spotted Argan overvaluation before 41% drop",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-argan-overvaluation-before-41-drop-93CH-4890278",
+     "t": "agg"
+    }
+   ],
+   "heat": 216.4
   },
   {
    "cat": "sector",
@@ -251,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 213.3
+   "heat": 216.4
   },
   {
    "cat": "sector",
@@ -265,133 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 213.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 22:26",
-   "title": "Esper Raises Concern Over Pentagon Leadership Loss",
-   "summary": "On Bloomberg This Weekend Former Defense Secretary Mark Esper calls the Pentagon’s polygraph testing of roughly 50 Joint Staff members unprecedented in scale as officials investiga…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-05/esper-raises-concern-over-pentagon-leadership-loss-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 213.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 21:55",
-   "title": "EU Envoy Urges Maximum Pressure on Russia",
-   "summary": "EU Ambassador to the United States Jovita Neliupšienė joins Bloomberg This Weekend and discusses with hosts Christina Ruffini and Jeff Mason that Europe must keep supporting Ukrain…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-05/eu-envoy-urges-maximum-pressure-on-russia-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 213.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 21:33",
-   "title": "Many truckers don't feel like the rest of America about AI data centers as business booms",
-   "summary": "Sprawling data center components from HVAC systems to tubing, wiring and semiconductors arrive primarily by truck, a boon for a business hit hard by trade wars.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 213.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 21:20",
-   "title": "By The Way: Headlines You Should See",
-   "summary": "Canned cocktails, the science behind the Gen Z stare and the US Open becoming a food fest: Join Bloomberg's Lisa Mateo, Christina Ruffini and Jeff Mason to hear about the headlines…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-05/by-the-way-headlines-you-should-see-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 213.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 20:46",
-   "title": "AI May Transform How Humans Understand Animals",
-   "summary": "Researchers are using AI to analyze vast collections of animal vocalizations, looking for patterns that could help humans better understand how species such as crows communicate. B…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-05/ai-may-transform-how-humans-understand-animals-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 212.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 20:45",
-   "title": "Abel: Two ways Berkshire hopes to cash in on AI",
-   "summary": "Berkshire Hathaway CEO Greg Abel tells CNBC the company is pursuing AI opportunities on two paths.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/05/abel-two-ways-berkshire-hopes-in-cash-in-on-ai.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 212.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 20:20",
-   "title": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom",
-   "summary": "Power demand in the U.S. is rising. Fervo Energy bets that its project in Utah will prove that enhanced geothermal can be part of the power mix going forward.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 212.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 20:13",
-   "title": "Americans hit with record-high Labor Day Weekend gasoline prices",
-   "summary": "The national average gasoline price will probably hit $4.03 on Labor Day, topping the record $3.83 per gallon set in 2012, said GasBuddy's Patrick De Haan.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/05/americans-hit-with-record-high-labor-day-weekend-gasoline-prices.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 212.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-05 20:00",
-   "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
-   "summary": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 212.8
+   "heat": 216.4
   },
   {
    "cat": "stock",
@@ -405,13 +405,13 @@
      "t": "sec"
     }
    ],
-   "heat": 91.7
+   "heat": 98.8
   },
   {
    "cat": "stock",
    "time": "2026-09-03 11:52",
    "title": "Dow, S&P 500, Nasdaq Futures Rise As Investors Look Past Iran Tensions, Focus On Earnings: AVGO, SNOW, DELL, HPE Stocks ",
-   "summary": "Dow, S&P 500, Nasdaq Futures Rise As Investors Look Past Iran Tensions, Focus On Earnings: AVGO, SNOW, DELL, HPE Stocks In Focus &nbsp;&nbsp; TradingView",
+   "summary": "Dow, S&P 500, Nasdaq Futures Rise As Investors Look Past Iran Tensions, Focus On Earnings: AVGO, SNOW, DELL, HPE Stocks In Focus &nbsp;&nbsp; es.tradingview.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -419,7 +419,21 @@
      "t": "sec"
     }
    ],
-   "heat": 88.0
+   "heat": 96.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-06 18:17",
+   "title": "Why did the stock market soar in the first half of 2026? Experts explain - ABC News - Breaking News, Latest News and Vid",
+   "summary": "Why did the stock market soar in the first half of 2026? Experts explain &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMHpHRFBsaldOdE9hQTJsRDFPZ2ZBc1dHQ1hleE1tRl9oWFhpT2hSZ1hWSGZ6d1hneXBVemRaTzlZWXpoMVp2UU4xckFVb0VYWmxtX2Q0OXZmdjB3UVZVS0hwdko3anA3Y3BKTGI4TE1YZXl3N0E5dUh0d0VrLUFoWVIwVDFiTlY2dWJrUDNRLWlNd0RoLUHSAZsBQVVfeXFMT2NHNW9oSDRDeVE1Y1cxb3dMU2hEb3k1eGJNcjVBcHc0X3RwNExjTHFWZHFDUzFTUzNvR0dRZVRxNy1UcGl0eXFnMEpWeEZmR2RZZ2hMck5qb2ZwTTNGTmdETkZZY3RybW4zaU56dG1UNURacmFvUnNyYy1kV2NZVXF4Zmt5SmVFNFY1XzJXalI4OV92Uk5aVE5DTmM?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 95.6
   },
   {
    "cat": "stock",
@@ -433,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 86.9
+   "heat": 94.1
   },
   {
    "cat": "stock",
@@ -447,7 +461,21 @@
      "t": "sec"
     }
    ],
-   "heat": 85.5
+   "heat": 92.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-06 11:22",
+   "title": "Which TSX stocks investors will be watching next week?",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/which-tsx-stocks-investors-will-be-watching-next-week-4890282",
+     "t": "agg"
+    }
+   ],
+   "heat": 92.5
   },
   {
    "cat": "stock",
@@ -461,35 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-05 18:50",
-   "title": "US stocks today: S&P 500, Dow gain as AI strength offsets US-Iran friction - The Economic Times",
-   "summary": "US stocks today: S&P 500, Dow gain as AI strength offsets US-Iran friction &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYVJnWW1QZl9LRnlNbG1FNEdYb21KVWZjWWJscHloclR1UzdmMklRS3ROU3Z6UjBtMGVuREtJVmxnM0xRNUd4em9lMlliTXNCV1Niajl2U3R0VE9ZdnJjX012MDd0TW03N0tqOHN2QUJ6VXFoOVlucEN0UTNXV1FzSUw4R1ZJR3dCOXNOdXVfZGl4eEVoX1FXZEJrX0xCWEdfRlRNYThFX2k1Zl9MbWphMTV5dmZCa3VaS2hZYTVYUXlZbkJ4cUtvclNkVV9VTkFqMDZadlVhTUF3cF9MLXlZekdlWGxRb3NvQWNYbNIB8gFBVV95cUxOcEphVnJ5VnJ4N0pMWmdGeGViU3lLWnF2enFBbDFkZzVtOEVqRFI3aEE2SzlTOFJsUzc0dkc4ZjJiZ2FTYkNMQUN3WVN2cExLb21ScnNFWWpSX2VYVmN4SjJkbTA0MTNzcVJWUzFscklSbTAyemozUmk3UEUyQ3QyVXctWFFqc2dDN3VwTDdSN0JHZkhacGpoT2w3R0Jzb01EMWV5VzRIREZnYXhRRU5TZHVaX09LTWFTSTVhbFhXdXBXd2FPcnpPYk9RQXQzVW5Cc3JpUlJta1J5OG81Q2tjNFNhanVjVFdmLWdMQWNlV19NZw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 84.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-06 04:55",
-   "title": "Investors turn to Chinese stocks as alternative to crowded AI trades",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/investors-turn-to-chinese-stocks-as-alternative-to-crowded-ai-trades-4890253",
-     "t": "agg"
-    }
-   ],
-   "heat": 84.2
+   "heat": 91.9
   },
   {
    "cat": "stock",
@@ -503,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.3
+   "heat": 90.5
   },
   {
    "cat": "stock",
@@ -517,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 81.0
+   "heat": 88.1
   },
   {
    "cat": "stock",
@@ -531,7 +531,35 @@
      "t": "sec"
     }
    ],
-   "heat": 80.1
+   "heat": 88.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-04 15:00",
+   "title": "US stocks today: S&P 500, Dow gain as AI strength offsets US-Iran friction - The Economic Times",
+   "summary": "US stocks today: S&P 500, Dow gain as AI strength offsets US-Iran friction &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYVJnWW1QZl9LRnlNbG1FNEdYb21KVWZjWWJscHloclR1UzdmMklRS3ROU3Z6UjBtMGVuREtJVmxnM0xRNUd4em9lMlliTXNCV1Niajl2U3R0VE9ZdnJjX012MDd0TW03N0tqOHN2QUJ6VXFoOVlucEN0UTNXV1FzSUw4R1ZJR3dCOXNOdXVfZGl4eEVoX1FXZEJrX0xCWEdfRlRNYThFX2k1Zl9MbWphMTV5dmZCa3VaS2hZYTVYUXlZbkJ4cUtvclNkVV9VTkFqMDZadlVhTUF3cF9MLXlZekdlWGxRb3NvQWNYbNIB8gFBVV95cUxOcEphVnJ5VnJ4N0pMWmdGeGViU3lLWnF2enFBbDFkZzVtOEVqRFI3aEE2SzlTOFJsUzc0dkc4ZjJiZ2FTYkNMQUN3WVN2cExLb21ScnNFWWpSX2VYVmN4SjJkbTA0MTNzcVJWUzFscklSbTAyemozUmk3UEUyQ3QyVXctWFFqc2dDN3VwTDdSN0JHZkhacGpoT2w3R0Jzb01EMWV5VzRIREZnYXhRRU5TZHVaX09LTWFTSTVhbFhXdXBXd2FPcnpPYk9RQXQzVW5Cc3JpUlJta1J5OG81Q2tjNFNhanVjVFdmLWdMQWNlV19NZw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 88.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-03 20:39",
+   "title": "Stock Market Today: Nasdaq 100 Futures Fall, Dow Jones Gains Following Trump Comments Saying 'Market Will - Benzinga",
+   "summary": "Stock Market Today: Nasdaq 100 Futures Fall, Dow Jones Gains Following Trump Comments Saying 'Market Will &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYTdtM1N6dFhuWWJhM1NoZnlnWUZMOTZ6RVhMMzVEYVE4WE5DbWozX2dYOHFxNXpYUGgyaEo2VkNNRTI3MkcyOUN0S1VBNGtPRDc2Zmp3cENHNWZHVXlqa013dDd0NF9LZjY4RWJXbWtoRGpmRVN3cWoyRmptU3NBMmlXQjZmaEM4bVo3MUFROGZOV0dBb0xBSjhTeHg3OTVWQ0pIeXo3dVpYS2FWWHZFU0VTSmRjZkZjOUd5SUdJVng4Q2dwbmxNa3pXRTRaeTh5UHNLODB6Vl9mZFZsNnJKYWcxV2xWUG1yWDJ2bjdsVE5FaTdqRkVyY25objlYZkFHLXJxNDh5X2xDeG9YSkdXcw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 88.0
   },
   {
    "cat": "stock",
@@ -545,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 88.0
   },
   {
    "cat": "stock",
@@ -559,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 88.0
   },
   {
    "cat": "stock",
@@ -573,35 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-01 23:06",
-   "title": "Defensive Sectors Outperform as S&P 500 Retreats on Growth-Stock Weakness - Consumer Sentiment Index - vinanet.vn",
-   "summary": "Defensive Sectors Outperform as S&P 500 Retreats on Growth-Stock Weakness - Consumer Sentiment Index &nbsp;&nbsp; vinanet.vn",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVUdudE5qbXBfVWpTVHU0Rk15WG5xV1BiU25CVnZYbzFYbmJVUVJYSVRJcXBFTnhfTl9yaXVlOTJabDczU3F3SUo3bEJydTJEQTRuLWNNbkpNeERkSHZaWFJPN2hBd3FtMmVDOGxqdV9fWlRsenBYN1ZXNXR4MDFYT0lZcXlWZV9ScWlWRHVnZHJqVmdaT1ZfSzhYb09ySVl5SElsSEIzcU5lYlBOb3NQdks5UQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 80.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-01 08:21",
-   "title": "US Stocks Close Lower: S&P 500, Nasdaq, Dow All Decline - CryptoRank",
-   "summary": "US Stocks Close Lower: S&P 500, Nasdaq, Dow All Decline &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aUnAzTU9lZGJkNXVBXy1yaTkyY1hxSHdHckNjSTd3aGFDVkN3QW1qZDRvekJteWZBbmFPVmlhdkd3YlFxQUxzcGY1WjlBOXQ1aUU2ZktuQ2ExakRnZDFZUFkyaF9PZTI3STQwSUlaOA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 80.0
+   "heat": 88.0
   },
   {
    "cat": "global",
@@ -615,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.6
+   "heat": 33.7
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.4
+   "heat": 33.6
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.2
+   "heat": 33.4
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.1
+   "heat": 33.2
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.0
+   "heat": 33.2
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.8
+   "heat": 32.9
   },
   {
    "cat": "global",
@@ -717,6 +717,20 @@
   },
   {
    "cat": "global",
+   "time": "2026-09-06 19:25",
+   "title": "OPEC+ Sticks With Plan to Keep Oil Output Quotas Unchanged",
+   "summary": "Major OPEC+ nations stuck with their plan to keep oil production quotas unchanged, while the Iran war continues to shutter vast swathes of output in the Middle East.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-06/opec-sticks-with-plan-to-keep-oil-production-quotas-unchanged",
+     "t": "sec"
+    }
+   ],
+   "heat": 23.8
+  },
+  {
+   "cat": "global",
    "time": "2026-09-05 02:08",
    "title": "Gold falls as traders increase Fed hawkish bets after stellar NFP",
    "summary": "Gold (XAU/USD) price retreats by about 0.80% on Friday, after registering losses of over 2% following the release of an upbeat US jobs report.",
@@ -727,7 +741,35 @@
      "t": "sec"
     }
    ],
-   "heat": 21.8
+   "heat": 20.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-06 12:06",
+   "title": "OPEC+ keeps oil output policy unchanged for October",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/opec-set-to-keep-oil-output-policy-unchanged-on-sunday-sources-say-4890267",
+     "t": "agg"
+    }
+   ],
+   "heat": 20.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-06 12:05",
+   "title": "OPEC+ pauses oil output policy steady for October",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/opec-set-to-hold-oil-output-policy-steady-for-october--reuters-4890270",
+     "t": "agg"
+    }
+   ],
+   "heat": 20.6
   },
   {
    "cat": "global",
@@ -741,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 19.9
+   "heat": 19.0
   },
   {
    "cat": "global",
@@ -755,21 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 19.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-06 04:24",
-   "title": "German Startup’s Rocket Deploys Satellites in a First for Europe",
-   "summary": "An Isar Aerospace rocket blasted off from a launchpad in Norway and delivered a payload of satellites into orbit, marking a key step in Europe’s efforts to compete with US companie…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-05/german-startup-isar-s-rocket-lifts-off-on-european-space-mission",
-     "t": "sec"
-    }
-   ],
-   "heat": 18.2
+   "heat": 18.1
   },
   {
    "cat": "global",
@@ -783,35 +811,7 @@
      "t": "agg"
     }
    ],
-   "heat": 18.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-04 14:21",
-   "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101",
-     "t": "agg"
-    }
-   ],
    "heat": 18.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-05 23:43",
-   "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
-   "summary": "Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central Command reported.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 17.4
   },
   {
    "cat": "crypto",
@@ -825,21 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-06 02:05",
-   "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
-   "summary": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the cale…",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
-     "t": "sec"
-    }
-   ],
-   "heat": 73.8
+   "heat": 71.8
   },
   {
    "cat": "crypto",
@@ -853,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 73.6
+   "heat": 68.8
   },
   {
    "cat": "crypto",
@@ -867,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 69.7
+   "heat": 64.8
   },
   {
    "cat": "crypto",
@@ -881,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.4
+   "heat": 64.0
   },
   {
    "cat": "crypto",
@@ -895,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.6
+   "heat": 50.8
   },
   {
    "cat": "crypto",
@@ -909,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 53.0
+   "heat": 48.2
   },
   {
    "cat": "crypto",
@@ -923,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.5
+   "heat": 47.7
   },
   {
    "cat": "crypto",
@@ -937,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.0
+   "heat": 45.1
   },
   {
    "cat": "crypto",
@@ -951,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.2
+   "heat": 44.3
   },
   {
    "cat": "crypto",
@@ -965,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.1
+   "heat": 44.3
   },
   {
    "cat": "crypto",
@@ -979,7 +965,21 @@
      "t": "sec"
     }
    ],
-   "heat": 49.0
+   "heat": 44.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-06 02:05",
+   "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
+   "summary": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the cale…",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.9
   },
   {
    "cat": "crypto",
@@ -993,21 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 44.8
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-06 07:02",
-   "title": "Bitcoin bull flag 80% done, trapped in range: Hourly",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
-     "t": "agg"
-    }
-   ],
-   "heat": 44.6
+   "heat": 39.9
   },
   {
    "cat": "crypto",
@@ -1021,21 +1007,35 @@
      "t": "sec"
     }
    ],
-   "heat": 44.1
+   "heat": 39.3
   },
   {
-   "cat": "sector",
-   "time": "2026-09-05 16:55",
-   "title": "B站进一步加码AI：拟发7亿美元可转债，腾讯跟投2亿",
-   "summary": "B站进一步加码AI：拟发7亿美元可转债，腾讯跟投2亿 &nbsp;&nbsp; 财联社",
+   "cat": "crypto",
+   "time": "2026-09-05 04:30",
+   "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
+   "summary": "The US economy added far more jobs than expected in August, pressuring Bitcoin lower as traders repriced the odds of a Federal Reserve rate cut this month.",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SdlhjNE9jOWRNZ1RBMnQwbnBvYjFUME84emE0VzlRbmNkUGEtbk5rUElIb0hQc1puelhvcGhVazlUVlBucmVKTA?oc=5",
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 212.2
+   "heat": 37.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-02 09:25",
+   "title": "AI服务器拉动MLCC旺盛需求 三星电机斩获万亿韩元大单",
+   "summary": "AI服务器拉动MLCC旺盛需求 三星电机斩获万亿韩元大单 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IT1NMZ05JdnF1UGJ6dEFwOTNYYzBvM2s0UVNIZDJjcXBlZnUxbk5FQnRmQTNhYkw3YVBZazBuM2JLRUdVclNLSQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 212.0
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 209.8
+   "heat": 213.0
   }
  ]
 }
