@@ -1,25 +1,11 @@
 {
- "updated": "2026-09-09 21:16",
+ "updated": "2026-09-10 02:12",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-09 13:01",
-   "title": "Zoomex Stock Brings Tesla’s 6% Surge and Nvidia’s Choppy Session Within Reach Through Fair, Rule-Based Derivatives Tradi",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/press-releases/zoomex-stock-brings-teslas-6-surge-and-nvidias-choppy-session-within-reach-through-fair-rulebased-derivatives-trading-4893670",
-     "t": "agg"
-    }
-   ],
-   "heat": 232.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-09 20:26",
-   "title": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
-   "summary": "An Anthropic safety researcher said there is a greater than 10% chance AI could \"kill all humans\" after a former colleague quits over safety concerns.",
+   "time": "2026-09-10 01:43",
+   "title": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
+   "summary": "Jacob Coxon said in a post on X that Anthropic and OpenAI are \"gambling with our lives.\"",
    "srcs": [
     {
      "n": "CNBC",
@@ -27,95 +13,109 @@
      "t": "sec"
     }
    ],
-   "heat": 231.9
+   "heat": 207.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-09 20:15",
-   "title": "Franklin Templeton’s Johnson Says Cost of Capital to Slow Some Activities",
-   "summary": "Jenny Johnson, president and CEO at Franklin Templeton Investments, discusses the rising cost of capital and the impact of the AI buildout on private credit and the US economy. Joh…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-09/jenny-johnson-cost-of-capital-to-slow-some-activities-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-09 20:10",
-   "title": "U.K. defends sanctions on Israeli settlements after 30-day consulate closure order",
-   "summary": "Britain's foreign minister Ed Miliband said the U.K. \"could not simply stand by because we feared Israeli reaction.”",
+   "time": "2026-09-10 01:28",
+   "title": "How much does it cost to move a midterm prediction market? Not much",
+   "summary": "Interested parties could seek to move prediction markets to give a perceived boost to a candidate who is struggling to gain momentum or attention.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/09/uk-israel-jerusalem-consulate-sanctions.html",
+     "u": "https://www.cnbc.com/2026/09/09/prediction-markets-election-kalshi-polymarket.html",
      "t": "sec"
     }
    ],
-   "heat": 231.8
+   "heat": 207.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-09 20:00",
-   "title": "India’s RBI to Introduce Five Currency Pairs on Retail Platform",
-   "summary": "India’s central bank will add five currency pairs to its retail foreign-exchange platform, seeking to give individuals easier access to a wider range of currencies.",
+   "time": "2026-09-10 01:18",
+   "title": "Defense Tech Startup Covenant Emerges From Stealth",
+   "summary": "Covenant, a defense tech startup backed by Andreessen Horowitz, is emerging from stealth after raising over $250 million over three funding rounds. The firm has already signed mili…",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-09/india-s-rbi-to-introduce-five-currency-pairs-on-retail-platform",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-09/defense-tech-startup-covenant-emerges-from-stealth-video",
      "t": "sec"
     }
    ],
-   "heat": 231.8
+   "heat": 207.8
   },
   {
    "cat": "sector",
-   "time": "2026-09-09 20:00",
-   "title": "Sustainability Currents: NYC’s Comptroller and Key Investment",
-   "summary": "New York City faces competing demands for capital as artificial intelligence reshapes the labor market, electricity needs rise, housing remains scarce and physical climate risks in…",
+   "time": "2026-09-10 01:15",
+   "title": "Anthropic Worker Resigns, Warns of AI Risks to Humanity",
+   "summary": "An AI researcher has resigned from Anthropic and called on other staffers to rethink their work. He raises concerns that the company and its top competitor, OpenAI, are acting irre…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-09/anthropic-worker-resigns-warns-of-ai-risks-to-humanity-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-10 01:00",
+   "title": "OpenAI Names US AI Adviser Paul Christiano to Nonprofit Board",
+   "summary": "OpenAI has appointed Paul Christiano, a technical adviser to the US government, to serve on the board of its nonprofit foundation, adding a prominent safety researcher at a moment …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-09/openai-names-us-ai-adviser-paul-christiano-to-nonprofit-board",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-10 00:46",
+   "title": "CoreWeave CEO chalks up public AI pushback to the speed of change: 'And that is frightening'",
+   "summary": "CoreWeave CEO Mike Intrator spoke to CNBC at the Goldman Sachs' Communacopia + Technology Conference this week.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-10 00:29",
+   "title": "Tate Brothers Denied Bail Ahead of Extradition in UK Rape Case",
+   "summary": "Social-media influencers Andrew and Tristan Tate lost their bid to be released on bail while they fight extradition to the UK, where they face rape charges.",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-09/sustainability-currents-nyc-s-comptroller-and-key-investment",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-09/tate-brothers-denied-bail-ahead-of-extradition-in-uk-rape-case",
      "t": "sec"
     }
    ],
-   "heat": 231.8
+   "heat": 207.7
   },
   {
    "cat": "sector",
-   "time": "2026-09-09 19:33",
-   "title": "Ares's Jacobson: Bifurcation in Software Market",
-   "summary": "Blair Jacobson, Co-President of Ares Management, says investors need to be more careful in selection and due diligence in the software market. He speaks to Guy Johnson on \"Bloomber…",
+   "time": "2026-09-10 00:22",
+   "title": "EU and Canada Plan Closer Ties",
+   "summary": "Canada and the EU are exploring an even deeper alliance — as US ties continue to fray under President Trump. Andrea Palasciano explains why Canada's relationship could become close…",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-09/ares-s-jacobson-bifurcation-in-software-market-video",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-09/eu-and-canada-plan-closer-ties-video",
      "t": "sec"
     }
    ],
-   "heat": 231.7
+   "heat": 207.7
   },
   {
    "cat": "sector",
-   "time": "2026-09-09 19:30",
-   "title": "Legal AI Startup Harvey Hits $15.6 Billion Value With $550 Million Round",
-   "summary": "Legal tech startup Harvey is now valued at $15.6 billion after raising $550 million in a new funding round aimed at powering efforts to build its own AI models.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-09 19:26",
+   "time": "2026-09-10 00:17",
    "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
    "summary": "Import bans on motorbikes, alcohol and dairy products are due to come into effect on Sept. 29 as the rift between the countries deepens.",
    "srcs": [
@@ -125,21 +125,21 @@
      "t": "sec"
     }
    ],
-   "heat": 231.7
+   "heat": 207.7
   },
   {
    "cat": "sector",
-   "time": "2026-09-09 19:11",
-   "title": "America’s Distressed Debt Playbook Gaining More Fans In Europe",
-   "summary": "Europe’s direct lenders adopting US‑style workouts as private credit cycle turns",
+   "time": "2026-09-10 00:16",
+   "title": "George Yeo On The Hubris Of Silicon Valley",
+   "summary": "Singapore's former minister for foreign affairs George Yeo points out the hubris of Silicon Valley, particularly Palantir, in its development of technologies with a \"dark side\". He…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-09/america-s-distressed-debt-playbook-gaining-more-fans-in-europe",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-09/george-yeo-on-the-hubris-of-silicon-valley-video",
      "t": "sec"
     }
    ],
-   "heat": 231.7
+   "heat": 207.7
   }
  ]
 }
