@@ -1,80 +1,108 @@
 {
- "updated": "2026-09-10 02:12",
+ "updated": "2026-09-10 06:51",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-10 01:43",
-   "title": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
-   "summary": "Jacob Coxon said in a post on X that Anthropic and OpenAI are \"gambling with our lives.\"",
+   "time": "2026-09-10 06:37",
+   "title": "Why Wall Street Loves Apple’s $1,999 iPhone",
+   "summary": "It’s rare for Apple’s stock to go up after announcing a new product. Bloomberg Opinion columnist Dave Lee explains why the company’s foldable iPhone is different. (Source: Bloomber…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-09/opinion-wall-street-loves-apple-s-1-999-iphone-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 240.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-10 06:33",
+   "title": "Apple’s iPhone Duo, New Watches, iPhone 18 Pro and AirPods 5: Everything to Know",
+   "summary": "Apple Inc. on Wednesday unveiled its first foldable iPhone, the $1,999-and-up iPhone Duo, finally entering a market segment that rivals such as Samsung Electronics Co., Alphabet In…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-09/apple-s-iphone-duo-new-watches-iphone-18-pro-and-airpods-5-everything-to-know",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-10 05:09",
+   "title": "Bloomberg Businessweek Daily: Apple's Foldable iPhone (Podcast)",
+   "summary": "Source: Bloomberg, 43:43",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-09/bloomberg-businessweek-daily-apple-s-foldable-iphone-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-10 05:08",
+   "title": "Apple event 2026: Folding iPhone Duo, iPhone 18 Pro, added AI features and more",
+   "summary": "Apple rolled out the foldable iPhone Duo, iPhone 18 Pro and Max, Watch Series 12 and many other features and updates in its first launch under CEO John Ternus.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
+     "u": "https://www.cnbc.com/2026/09/09/apple-event-today-live-updates.html",
      "t": "sec"
     }
    ],
-   "heat": 207.9
+   "heat": 239.7
   },
   {
    "cat": "sector",
-   "time": "2026-09-10 01:28",
-   "title": "How much does it cost to move a midterm prediction market? Not much",
-   "summary": "Interested parties could seek to move prediction markets to give a perceived boost to a candidate who is struggling to gain momentum or attention.",
+   "time": "2026-09-10 04:12",
+   "title": "Former Apple CEO Sculley 'Excited' About iPhone Duo",
+   "summary": "John Sculley, Zeta Global vice chairman emeritus and former Apple CEO, reacts to Apple's new iPhone Duo, the company's first foldable smartphone, which will have a 7.6-inch display…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-09/former-apple-ceo-sculley-excited-about-iphone-duo-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-10 06:04",
+   "title": "Latest Oil Market News and Analysis for Sept. 10",
+   "summary": "Oil extended gains as Iran vowed it was prepared for a more intense war after hostilities flared across the Middle East, heightening concerns about deeper disruptions to energy flo…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-09/latest-oil-market-news-and-analysis-for-sept-10",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-10 05:45",
+   "title": "Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after he left Google",
+   "summary": "Amazon said Kevin Mandia, the founder and former CEO of cybersecurity company Mandiant, is joining its board of directors.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/09/prediction-markets-election-kalshi-polymarket.html",
+     "u": "https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html",
      "t": "sec"
     }
    ],
-   "heat": 207.9
+   "heat": 215.8
   },
   {
    "cat": "sector",
-   "time": "2026-09-10 01:18",
-   "title": "Defense Tech Startup Covenant Emerges From Stealth",
-   "summary": "Covenant, a defense tech startup backed by Andreessen Horowitz, is emerging from stealth after raising over $250 million over three funding rounds. The firm has already signed mili…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-09/defense-tech-startup-covenant-emerges-from-stealth-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-10 01:15",
-   "title": "Anthropic Worker Resigns, Warns of AI Risks to Humanity",
-   "summary": "An AI researcher has resigned from Anthropic and called on other staffers to rethink their work. He raises concerns that the company and its top competitor, OpenAI, are acting irre…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-09/anthropic-worker-resigns-warns-of-ai-risks-to-humanity-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-10 01:00",
-   "title": "OpenAI Names US AI Adviser Paul Christiano to Nonprofit Board",
-   "summary": "OpenAI has appointed Paul Christiano, a technical adviser to the US government, to serve on the board of its nonprofit foundation, adding a prominent safety researcher at a moment …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-09/openai-names-us-ai-adviser-paul-christiano-to-nonprofit-board",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-10 00:46",
-   "title": "CoreWeave CEO chalks up public AI pushback to the speed of change: 'And that is frightening'",
+   "time": "2026-09-10 05:37",
+   "title": "Conversations from Goldman Sachs' Communacopia: AI blowback, broadband and Disney's free tier",
    "summary": "CoreWeave CEO Mike Intrator spoke to CNBC at the Goldman Sachs' Communacopia + Technology Conference this week.",
    "srcs": [
     {
@@ -83,63 +111,35 @@
      "t": "sec"
     }
    ],
-   "heat": 207.8
+   "heat": 215.8
   },
   {
    "cat": "sector",
-   "time": "2026-09-10 00:29",
-   "title": "Tate Brothers Denied Bail Ahead of Extradition in UK Rape Case",
-   "summary": "Social-media influencers Andrew and Tristan Tate lost their bid to be released on bail while they fight extradition to the UK, where they face rape charges.",
+   "time": "2026-09-10 05:02",
+   "title": "Bloomberg Businessweek Daily: Remembering 9/11 (Podcast)",
+   "summary": "Source: Bloomberg, 18:38",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-09/tate-brothers-denied-bail-ahead-of-extradition-in-uk-rape-case",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-09/bloomberg-businessweek-daily-remembering-9-11-podcast",
      "t": "sec"
     }
    ],
-   "heat": 207.7
+   "heat": 215.7
   },
   {
    "cat": "sector",
-   "time": "2026-09-10 00:22",
-   "title": "EU and Canada Plan Closer Ties",
-   "summary": "Canada and the EU are exploring an even deeper alliance — as US ties continue to fray under President Trump. Andrea Palasciano explains why Canada's relationship could become close…",
+   "time": "2026-09-10 04:50",
+   "title": "Anti-AI Politics Is About to Get Big",
+   "summary": "AI fears and climate change worries aren’t so different.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-09/eu-and-canada-plan-closer-ties-video",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-09/anti-ai-politics-is-about-to-get-big",
      "t": "sec"
     }
    ],
-   "heat": 207.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-10 00:17",
-   "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-   "summary": "Import bans on motorbikes, alcohol and dairy products are due to come into effect on Sept. 29 as the rift between the countries deepens.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-10 00:16",
-   "title": "George Yeo On The Hubris Of Silicon Valley",
-   "summary": "Singapore's former minister for foreign affairs George Yeo points out the hubris of Silicon Valley, particularly Palantir, in its development of technologies with a \"dark side\". He…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-09/george-yeo-on-the-hubris-of-silicon-valley-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.7
+   "heat": 215.7
   }
  ]
 }
