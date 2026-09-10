@@ -1,107 +1,79 @@
 {
- "updated": "2026-09-11 04:31",
+ "updated": "2026-09-11 06:52",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-11 04:27",
-   "title": "Yankees, Vanderbilt on the Evolution of College Sports",
-   "summary": "Randy Levine, President, New York Yankees and Candice Storey Lee, Vice Chancellor for Athletics and University Affairs and Athletic Director at Vanderbilt University discuss the ev…",
+   "time": "2026-09-11 06:45",
+   "title": "Bloomberg Businessweek Daily: Global Leaders in Sports (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-10/bloomberg-businessweek-daily-global-leaders-in-sports-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 224.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-11 06:01",
+   "title": "The Rise of Organized Retail Crime at Big Box Stores",
+   "summary": "If you walk into a local pharmacy in New York City, more likely than not, lots of the merchandise is locked behind closed doors as a measure to mitigate shoplifting. So how big is …",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-10/yankees-vanderbilt-on-the-evolution-of-college-sports-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-10/the-rise-of-organized-retail-crime-at-big-box-stores-video",
      "t": "sec"
     }
    ],
-   "heat": 200.0
+   "heat": 223.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-11 04:15",
-   "title": "Oracle Posts Cloud Sales That Top Estimates on Surging AI Demand",
-   "summary": "Oracle Corp. reported growth in its cloud computing business that topped analysts’ estimates, suggesting the company’s large AI data center projects are helping boost its financial…",
+   "time": "2026-09-11 05:45",
+   "title": "Thoma Bravo Again Rolls Out Sweeteners With Sophos Debt Deal",
+   "summary": "Thoma Bravo has begun making concessions to lenders in a bid to refinance the debt of cybersecurity firm Sophos, marking the private equity firm’s latest effort to assuage creditor…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-10/oracle-posts-cloud-sales-that-top-estimates-on-surging-ai-demand",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-10/thoma-bravo-again-rolls-out-sweeteners-with-sophos-debt-deal",
      "t": "sec"
     }
    ],
-   "heat": 200.0
+   "heat": 223.8
   },
   {
    "cat": "sector",
-   "time": "2026-09-11 04:11",
-   "title": "Adobe Forecast Misses Estimates, Renewing Fears About AI Impact",
-   "summary": "Adobe Inc. gave an outlook for sales that narrowly missed analysts’ estimates, renewing concerns about pressure from artificial intelligence upstarts.",
+   "time": "2026-09-11 05:40",
+   "title": "Strahan and Schwartz-Morini on Athlete Economy",
+   "summary": "Constance Schwartz-Morini, Co-Founder and CEO of SMAC Entertainment and Michael Strahan, Pro Football Hall of Famer, Broadcaster and Entrepreneur discuss turning athlete brands int…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-10/strahan-and-schwartz-morini-on-athlete-economy-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-11 05:34",
+   "title": "SMAC CEO: Women’s Sports Is an Untapped Market",
+   "summary": "Constance Schwartz-Morini, cofounder and CEO of SMAC Entertainment, joins the program to discuss how the business of sports has shifted from simple endorsement deals to the “athlet…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-10/adobe-forecast-misses-estimates-renewing-fears-about-ai-impact",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-10/smac-ceo-women-s-sports-is-an-untapped-market-video",
      "t": "sec"
     }
    ],
-   "heat": 199.9
+   "heat": 223.8
   },
   {
    "cat": "sector",
-   "time": "2026-09-11 04:10",
-   "title": "Silicon Valley Escalates Warnings About Existential Risks of AI",
-   "summary": "For years, some of the leading figures in Silicon Valley have warned that artificial intelligence might pose an existential threat to humanity even as they pushed to develop the te…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-10/silicon-valley-escalates-warnings-about-existential-risks-of-ai-mtvyorsp",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-11 03:08",
-   "title": "Trump announces $500 Obamacare refunds for nearly 1 million people — here's who qualifies",
-   "summary": "Health policy experts said the refunds are unlikely to defray steep premium increases following the lapse of enhanced ACA subsidies.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/10/trump-obamacare-refunds-aca.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-11 03:02",
-   "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-   "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-11 02:47",
-   "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
-   "summary": "Ford Motor on Thursday announced a $1 billion investment to build a new paint shop at its crucial truck plant in Kentucky.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-11 01:52",
+   "time": "2026-09-11 05:22",
    "title": "Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
    "summary": "Nvidia CEO Jensen Huang, Uber CEO Dara Khosrowshahi, and SpaceX CFO Bret Johnsen are set to speak at the Goldman Sachs Communacopia + Technology Conference.",
    "srcs": [
@@ -111,35 +83,63 @@
      "t": "sec"
     }
    ],
-   "heat": 199.6
+   "heat": 223.7
   },
   {
    "cat": "sector",
-   "time": "2026-09-11 01:07",
-   "title": "SCOTUS Rules Against GOP on Missouri Map, Oil Climbs, More",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-09-11 05:08",
+   "title": "Carney, Zelenskyy Sign Deal to Produce Drones for Ukraine",
+   "summary": "Plus: Canada’s investor pitchbook revealed",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-10/scotus-rules-against-gop-on-missouri-map-oil-climbs-more",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-10/carney-zelenskyy-sign-deal-to-produce-drones-for-ukraine",
      "t": "sec"
     }
    ],
-   "heat": 199.4
+   "heat": 223.7
   },
   {
    "cat": "sector",
-   "time": "2026-09-11 01:00",
-   "title": "Moonshot Secretly Routed User Requests Through Claude, Anthropic Says",
-   "summary": "Anthropic PBC accused China’s artificial intelligence champion Moonshot AI of covertly routing thousands of user requests to the US firm’s Claude models and passing off the respons…",
+   "time": "2026-09-11 05:00",
+   "title": "Microsoft AI Focused Data Center Plan to Add 26 Gigawatts of Compute",
+   "summary": "Shortages forced the company to turn away some AI and cloud business. Now it’s planning for 38 gigawatts of data center capacity to meet demand.",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+     "u": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
      "t": "sec"
     }
    ],
-   "heat": 199.4
+   "heat": 223.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-11 05:00",
+   "title": "South Korea Ramps Up Spy Law to Protect Chip Secrets From China",
+   "summary": "South Korea is tightening its defenses against industrial espionage with a revised law on spying taking effect this weekend, as the home of global chip giants Samsung Electronics C…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-10/south-korea-ramps-up-spy-law-to-protect-chip-secrets-from-china",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-11 04:48",
+   "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
+   "summary": "Ford Motor on Thursday announced a $1 billion investment to build a new paint shop at its crucial truck plant in Kentucky.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.7
   }
  ]
 }
