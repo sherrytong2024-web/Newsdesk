@@ -1,33 +1,103 @@
 {
- "updated": "2026-09-11 01:58",
+ "updated": "2026-09-11 04:31",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-11 00:57",
-   "title": "BofA: Apple’s Ternus Era Starts With Innovation, AI",
-   "summary": "Bank of America says John Ternus’s first major product launch as Apple CEO reinforced the company’s focus on product innovation, privacy and increasingly personalized AI. Wamsi Moh…",
+   "time": "2026-09-11 04:27",
+   "title": "Yankees, Vanderbilt on the Evolution of College Sports",
+   "summary": "Randy Levine, President, New York Yankees and Candice Storey Lee, Vice Chancellor for Athletics and University Affairs and Athletic Director at Vanderbilt University discuss the ev…",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-10/bofa-apple-s-ternus-era-starts-with-innovation-ai-video",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-10/yankees-vanderbilt-on-the-evolution-of-college-sports-video",
      "t": "sec"
     }
    ],
-   "heat": 247.8
+   "heat": 200.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-11 01:57",
-   "title": "Home sales fall in August despite the highest supply in over a decade",
-   "summary": "Home sales slowed again despite the highest supply of homes for sale in over a decade. Prices, however, continue to rise.",
+   "time": "2026-09-11 04:15",
+   "title": "Oracle Posts Cloud Sales That Top Estimates on Surging AI Demand",
+   "summary": "Oracle Corp. reported growth in its cloud computing business that topped analysts’ estimates, suggesting the company’s large AI data center projects are helping boost its financial…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/10/home-sales-august-supply.html",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-10/oracle-posts-cloud-sales-that-top-estimates-on-surging-ai-demand",
      "t": "sec"
     }
    ],
-   "heat": 232.0
+   "heat": 200.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-11 04:11",
+   "title": "Adobe Forecast Misses Estimates, Renewing Fears About AI Impact",
+   "summary": "Adobe Inc. gave an outlook for sales that narrowly missed analysts’ estimates, renewing concerns about pressure from artificial intelligence upstarts.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-10/adobe-forecast-misses-estimates-renewing-fears-about-ai-impact",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-11 04:10",
+   "title": "Silicon Valley Escalates Warnings About Existential Risks of AI",
+   "summary": "For years, some of the leading figures in Silicon Valley have warned that artificial intelligence might pose an existential threat to humanity even as they pushed to develop the te…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-10/silicon-valley-escalates-warnings-about-existential-risks-of-ai-mtvyorsp",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-11 03:08",
+   "title": "Trump announces $500 Obamacare refunds for nearly 1 million people — here's who qualifies",
+   "summary": "Health policy experts said the refunds are unlikely to defray steep premium increases following the lapse of enhanced ACA subsidies.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/10/trump-obamacare-refunds-aca.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-11 03:02",
+   "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+   "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-11 02:47",
+   "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
+   "summary": "Ford Motor on Thursday announced a $1 billion investment to build a new paint shop at its crucial truck plant in Kentucky.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.7
   },
   {
    "cat": "sector",
@@ -41,63 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 232.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-11 01:31",
-   "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
-   "summary": "Ford Motor on Thursday announced a $1 billion investment to build a new paint shop at its crucial truck plant in Kentucky.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-11 01:28",
-   "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-   "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling, and pitchbook tasks traditionally handled by junior bankers.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-11 01:14",
-   "title": "Europe’s New Wealth Hubs Lure UK Super Rich",
-   "summary": "The UK is facing new competition from countries such as Greece and Turkey, which offer disaffected ultra-wealthy residents more favorable tax regimes. Nicole Sy explains. (Source: …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-10/europe-s-new-wealth-hubs-lure-uk-super-rich-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-11 01:08",
-   "title": "Nvidia’s Huang Touts Cybersecurity as Next Big Market for AI",
-   "summary": "Cybersecurity is the next big market for artificial intelligence, with advances in the technology set to disrupt an industry geared to defending computer systems, said Nvidia Corp.…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-10/nvidia-s-huang-touts-cybersecurity-as-next-big-market-for-ai",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.9
+   "heat": 199.6
   },
   {
    "cat": "sector",
@@ -111,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.9
+   "heat": 199.4
   },
   {
    "cat": "sector",
@@ -125,21 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-11 00:53",
-   "title": "d-Matrix Joins Nvidia’s AI Inference Push",
-   "summary": "Nvidia is embracing the rise of custom AI chips as demand shifts toward specialized systems built for inference. d-Matrix CEO Sid Sheth discusses the startup’s new partnership with…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-10/d-matrix-joins-nvidia-s-ai-inference-push-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.8
+   "heat": 199.4
   }
  ]
 }
