@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12 10:25",
+ "updated": "2026-09-12 15:30",
  "items": [
   {
    "cat": "macro",
@@ -13,13 +13,13 @@
      "t": "agg"
     }
    ],
-   "heat": 102.7
+   "heat": 105.9
   },
   {
    "cat": "macro",
    "time": "2026-09-07 14:30",
-   "title": "SPX: S&P 500 Braces for Inflation Double Act After Jobs Surprise Revives Fed-Hike Bets - tradingview.com",
-   "summary": "SPX: S&P 500 Braces for Inflation Double Act After Jobs Surprise Revives Fed-Hike Bets &nbsp;&nbsp; tradingview.com",
+   "title": "SPX: S&P 500 Braces for Inflation Double Act After Jobs Surprise Revives Fed-Hike Bets - TradingView",
+   "summary": "SPX: S&P 500 Braces for Inflation Double Act After Jobs Surprise Revives Fed-Hike Bets &nbsp;&nbsp; TradingView",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -27,35 +27,49 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 60.0
   },
   {
    "cat": "macro",
-   "time": "2026-09-05 15:00",
-   "title": "US stocks today: S&P 500 rise as Fed's Waller signals openness to holding rates steady - The Economic Times",
-   "summary": "US stocks today: S&P 500 rise as Fed's Waller signals openness to holding rates steady &nbsp;&nbsp; The Economic Times",
+   "time": "2026-09-12 14:55",
+   "title": "India Regulator Proposes Changes to Closing Auction After Swings",
+   "summary": "India’s markets regulator proposed an overhaul of the closing auction session after sharp swings and concentrated derivatives activity around the new mechanism raised concerns amon…",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbUt5OEtaMTE5dTZLcmZfai1WUlBmUkFSS3RvUTVKQzZBcHlPZnVnUDRoMEtPN3c0U2ZzeFFjWTlLZ01IMDhSdDNtMGxkWGstaWVlZlA1MC13S2FpbnVRc2Q2SXIwY0NjVEFFcG41WmJ0STI0b3o3U0h4eVRxQlJvbXM5NzBsSUNUcnZqd3hiRVNVZzNCMHhpRS12eTJ5V0lPUnpWaEY1RTN3VmJyQUdjcUZjRXFQandkU3hPSnJycUl3VmZTRWtNRG5WUWtzZG01dm9PaHE3MjZQR0x3elg5bjBPeFRoZXFwWE1rWEtmVk5Pcjd3dVFQRVBlWUFpb0otZWd4QkNXbUPSAY4CQVVfeXFMTm16S3FmcUVtaHdCTlhFbzFCTWk2YW4tWDhyU0JYbUVGUXVmaFU0d3duV20zQURMX1VHRHQzcC1yX2dadTBxcDhqcWdKb0dfWEtaZml4VWFTU2prNEYtYktYUVJodUV0dGlURWk4U3ZSTUNEb0Yzc09qMVkwOWFvRjdrdGZMc3BFemUwWm1DTlpVaExveDI0LTZ5MVMxSHZubnBmaWhBZWQ2cmtaUk0yWGtMTUtDbnBqdGNnSmFSWEE1Rl9jSjE0VmF4dzYtdFJpM3FsX2hPZlRGSFRPb20zbmVkVzFCQW5RVEI5ay1aZXRoZHVtcTZEMFN1cVROd0pFTlpydUtPN2kwY1RvWjd3?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-12/india-regulator-proposes-changes-to-closing-auction-after-swings",
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 55.9
   },
   {
    "cat": "macro",
-   "time": "2026-09-12 03:01",
-   "title": "Gold Selloff Shows Why Real Yields Still Dominate Inflation Risk",
-   "summary": "",
+   "time": "2026-09-12 11:39",
+   "title": "Warsh Faces Pressure to Raise Rates, Saudi Pipeline Shut, More",
+   "summary": "Source: Bloomberg, 5:11",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-selloff-shows-why-real-yields-still-dominate-inflation-risk-200687562",
-     "t": "agg"
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-12/warsh-faces-pressure-to-raise-rates-saudi-pipeline-shut-more",
+     "t": "sec"
     }
    ],
-   "heat": 48.8
+   "heat": 55.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-12 10:49",
+   "title": "Saudi Pipeline Shut, Pressure on Chair Warsh to Raise Rates,More",
+   "summary": "Source: Bloomberg, 5:37",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-12/saudi-pipeline-shut-pressure-on-chair-warsh-to-raise-rates-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 55.2
   },
   {
    "cat": "macro",
@@ -69,21 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-12 06:42",
-   "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
-   "summary": "On Sept. 11, 2001, hijackers flew planes into the World Trade Center and the Pentagon, killing thousands. Photos capture those marking the 25th anniversary.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.4
+   "heat": 54.9
   },
   {
    "cat": "macro",
@@ -97,63 +97,21 @@
      "t": "agg"
     }
    ],
-   "heat": 47.4
+   "heat": 54.6
   },
   {
    "cat": "macro",
-   "time": "2026-09-11 05:52",
-   "title": "S&P 500 Today: Wall Street Slips to 7,951.70 as Oil Prices and Yields Surge; Oracle Jumps Late With CPI Inflation Due - ",
-   "summary": "S&P 500 Today: Wall Street Slips to 7,951.70 as Oil Prices and Yields Surge; Oracle Jumps Late With CPI Inflation Due &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNczloZHY0SldSRnlNMGFkRG1uMHBRb3Bpd1ZPSVJnUGl0VGU2S1hoR3FuVDBocEtXRDVrZlRSV2g1dkVZaXdkM0JrTkFwdUJLQUhnTGpDNTBuendhbUtzRFJxS0x5U3c2Q05BNWNxZDdZenVVSG9pWFhhRkFiaENIbk10VHJDZkpFTDJWRks3M1hzN0VxY0NKRUtsWTdsbEhzbmtIZV9neW5jSWRNREN2VlRjTzdyVTFVWk9PWnFTTFUtVXBqN1h6WFdBaXpibFZOazZrNnlhcWNuV1dJejFLalphLTF6eU5OdHFB?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-12 04:35",
-   "title": "Dow rises 500 points to snap 4-day slide as oil cools, traders look past inflation report: Live updates",
-   "summary": "Stocks rose Friday, with investors looking to recover from four straight days of declines, as oil prices retreated.",
+   "time": "2026-09-12 06:42",
+   "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
+   "summary": "On Sept. 11, 2001, hijackers flew planes into the World Trade Center and the Pentagon, killing thousands. Photos capture those marking the 25th anniversary.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html",
+     "u": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
      "t": "sec"
     }
    ],
-   "heat": 47.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-12 02:07",
-   "title": "Social Security COLA for 2027 may be 3.5% to 3.6%, new estimates show — the highest in 3 years",
-   "summary": "New government inflation data points to a higher Social Security cost-of-living adjustment for 2027. Here's what experts estimate the change may be.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/11/social-security-cola-2027-estimate.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 46.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-12 01:14",
-   "title": "Here’s the inflation breakdown for August 2026 — in one chart",
-   "summary": "Inflation remained stubbornly high in August, largely on the back of higher energy prices amid the Iran war, economists said.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 46.5
+   "heat": 54.5
   },
   {
    "cat": "macro",
@@ -167,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.3
+   "heat": 53.5
   },
   {
    "cat": "macro",
@@ -181,35 +139,77 @@
      "t": "sec"
     }
    ],
-   "heat": 46.2
+   "heat": 53.4
   },
   {
    "cat": "macro",
-   "time": "2026-09-11 17:38",
-   "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gains Ahead of August Inflation Data — ORCL, ADBE, RH in Focus - tradingv",
-   "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Gains Ahead of August Inflation Data — ORCL, ADBE, RH in Focus &nbsp;&nbsp; tradingview.com",
+   "time": "2026-09-10 09:30",
+   "title": "Chief Future Officer: Mandy Fields, e.l.f. Beauty",
+   "summary": "Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organizations to meet future challenges. This episode profiles e.l.f. Beauty CFO Man…",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd0Jpei1ON05IT0tleXRIa1JNd0lwbjBsRlVia0dBbnIwOXBoQ2ZkVEV6Vk43UVUwaGRkaGJCNWk4SDJrQ1dSRmo1ZV9xaWYxZEwtY0hPdUI3TnNqNUIxM0V0V1d5WE11UVA5SHpFX0tWVTBHalI2N0tQZkdsVHZXUk9JV1V2dl9SU0pIVWtOejZxNFJ3VXlxRlNkQVJZSml0Mk5vNHpNSjhZcHVIcDQ2V21BYThhSi04Q0Y5OGxoMHp2MHNucUhZNVF4WUxWZHlWUG0ydEFaV0lqcV9UNm1LVlVXSGdRNXAzbzlaLUxGMVYwTUVX?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-10/chief-future-officer-mandy-fields-e-l-f-beauty",
      "t": "sec"
     }
    ],
-   "heat": 45.2
+   "heat": 48.0
   },
   {
    "cat": "macro",
-   "time": "2026-09-12 00:49",
-   "title": "Gold Faces Downside Risk as Shifting US Policy Fuels Energy-Led Inflation",
+   "time": "2026-09-09 17:15",
+   "title": "'The mirror has turned': A strategist lays out a path for the S&P 500 to soar 30% by 2027 - businessinsider.com",
+   "summary": "'The mirror has turned': A strategist lays out a path for the S&P 500 to soar 30% by 2027 &nbsp;&nbsp; businessinsider.com",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlJZYWFuRlhuRnBoUlE2YmlOU1Z5OENpVllpaGdhX1QtNGgwYTFleUQxaFNqWDFrMmx4emtCTnBkbGk3NGJhd0ZTXzkzekhMclY2MGdka3ZsOGZ0R1kwWk1SSkFZNlhqdkRZbEFxRTVHbW9ueDkzTUtQUW9FeWQwUGdzMEg1MEZVX1owWnFNaElkX0lVZmVWSUZBZmFkUQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 48.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-08 15:00",
+   "title": "US stocks today: S&P 500, Dow stocks slip as stronger jobs report lifts rate-hike bets - The Economic Times",
+   "summary": "US stocks today: S&P 500, Dow stocks slip as stronger jobs report lifts rate-hike bets &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQXzdFbFZITVZZMDdOSGlzNmFXSWFPb0F2cVBONERHeGpiMWQ3Q096UEVSMzJCdU11dkphRkgxSmVQaVhMTm5pRHdManlRUU9hWlFjU0J2Qm1ic0p3NndMSlliek9aZHp3V0FlX3Zwdy1wdTE1d01Nc0oyYnN2UWRQLVNmNjJZbzktWldKejJoYkN5YTNRR0hSVUlDblU5MS1EYWFCSFRSdDJ1SENBajJzLVl1MkVlVHFwQUlpQnRQMS1RUGhTWVhCbXJiLVRqS283Z0hKVEk4RlE5Y2RrQ0stcVF5YnlzYng3YWlRd01kUDk4REIy0gH6AUFVX3lxTE54bWZaQ3F2UFJ5cFBXTkJJd0FQeW41M3pTMF9nVUZ1N19rOXBBMHFhYjFGc2FGUlUwTGxlQ0dCV0FnRGJfbXdmblZNTlBUR1ZBMUxHN2xXMXpheVBNZHh6cWdhNGh4R1FuSjhjY0J5NzZpREZaNHZENElIdS1wS3Vnc0JTNXNhdmVNQkRVd3NCQkJGd0FPTVF3ajFtMkQ2eks5TzE2S0lJcnAzMlJvX0k1ZVVVbm82LU5mWGRUVFNuS19KRXpxUVdqRkZJWXdEUlVzWWZGYUt3UkYwZUFkVlFyNGdOcmhZNGFUdkFYODctU3ByR19xV2FhVkE?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 48.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-12 03:01",
+   "title": "Gold Selloff Shows Why Real Yields Still Dominate Inflation Risk",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-faces-downside-risk-as-shifting-us-policy-fuels-energyled-inflation-200687548",
+     "u": "https://www.investing.com/analysis/gold-selloff-shows-why-real-yields-still-dominate-inflation-risk-200687562",
      "t": "agg"
     }
    ],
-   "heat": 44.4
+   "heat": 47.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-11 05:52",
+   "title": "S&P 500 Today: Wall Street Slips to 7,951.70 as Oil Prices and Yields Surge; Oracle Jumps Late With CPI Inflation Due - ",
+   "summary": "S&P 500 Today: Wall Street Slips to 7,951.70 as Oil Prices and Yields Surge; Oracle Jumps Late With CPI Inflation Due &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNczloZHY0SldSRnlNMGFkRG1uMHBRb3Bpd1ZPSVJnUGl0VGU2S1hoR3FuVDBocEtXRDVrZlRSV2g1dkVZaXdkM0JrTkFwdUJLQUhnTGpDNTBuendhbUtzRFJxS0x5U3c2Q05BNWNxZDdZenVVSG9pWFhhRkFiaENIbk10VHJDZkpFTDJWRks3M1hzN0VxY0NKRUtsWTdsbEhzbmtIZV9neW5jSWRNREN2VlRjTzdyVTFVWk9PWnFTTFUtVXBqN1h6WFdBaXpibFZOazZrNnlhcWNuV1dJejFLalphLTF6eU5OdHFB?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 46.4
   },
   {
    "cat": "sector",
@@ -223,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.8
+   "heat": 229.9
   },
   {
    "cat": "sector",
@@ -237,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.6
+   "heat": 229.8
   },
   {
    "cat": "sector",
@@ -251,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.9
+   "heat": 227.0
   },
   {
    "cat": "sector",
@@ -265,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.7
+   "heat": 226.9
   },
   {
    "cat": "sector",
@@ -279,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.5
+   "heat": 226.6
   },
   {
    "cat": "sector",
@@ -293,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.4
+   "heat": 226.6
   },
   {
    "cat": "sector",
@@ -307,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.4
+   "heat": 226.6
   },
   {
    "cat": "sector",
@@ -321,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.4
+   "heat": 226.5
   },
   {
    "cat": "sector",
@@ -335,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.1
+   "heat": 226.3
   },
   {
    "cat": "sector",
@@ -349,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.0
+   "heat": 226.1
   },
   {
    "cat": "sector",
@@ -363,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 230.9
+   "heat": 226.1
   },
   {
    "cat": "sector",
@@ -377,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 230.8
+   "heat": 226.0
   },
   {
    "cat": "sector",
@@ -391,7 +391,21 @@
      "t": "sec"
     }
    ],
-   "heat": 230.8
+   "heat": 225.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-12 11:03",
+   "title": "Best Luxury Stocks of 2026 and How to Invest - fool.com",
+   "summary": "Best Luxury Stocks of 2026 and How to Invest &nbsp;&nbsp; fool.com",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUml2aHVNblEtNS15QjNOQW5ycW9yMG9zU3BjcUFjOVg3TWl1T2VUOVRNclktbXBxbnprRklLUktSU1d2aERlRUNPbG5Wcm4wWjN1TFVRd091QnR6TGpfNk96bUpqZE0wdkZtZ3FRdldJOGllWHREX0RCZjZ5dk9QYWlWODhrc09uaGRoQ092NmczTm11SFBZWVBub2pQRTR6NGZxZw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 83.3
   },
   {
    "cat": "stock",
@@ -405,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.6
+   "heat": 82.7
   },
   {
    "cat": "stock",
@@ -419,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.4
+   "heat": 82.6
   },
   {
    "cat": "stock",
@@ -433,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.1
+   "heat": 82.2
   },
   {
    "cat": "stock",
@@ -447,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.9
+   "heat": 82.1
   },
   {
    "cat": "stock",
@@ -461,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.4
+   "heat": 81.5
   },
   {
    "cat": "stock",
@@ -475,83 +489,55 @@
      "t": "sec"
     }
    ],
-   "heat": 89.9
+   "heat": 81.1
   },
   {
    "cat": "stock",
-   "time": "2026-09-12 02:00",
-   "title": "Fold Holdings director Young buys $11,049 in company stock",
+   "time": "2026-09-11 20:48",
+   "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Gains as August CPI Meets Expectations at 0.4% MoM and 3.4% Y",
+   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Gains as August CPI Meets Expectations at 0.4% MoM and 3.4% YoY — ORCL, ADBE, RH in Focus (UPDATED) &nbsp;&nbsp; TradingV…",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNQVdCNTZmT3R4bV9QNmRLS0wwRHJiUVJPZGpxU1lOMjVIcmU2bklJRU9TWUxvR1BuOUNaNXp3a05Mei1NTm5yMmE5OUtqV0hiWW5laUZudFZYRkJCWnJINVBLOGstaktLSGdmX25DRUNMZlNQZTc1UlV5emRLX2RQQ1B3Z3FSa1RkX1NPdXdkb3dfcGlwVlJ3Tk82RmNRakxXX0FUckh0dlQ0MjVvR0RUTW45MjJld0paakYwUG1EbHNiSmRQZVN4T2ROUUM4MktVbmpScW8tb3U4cUJUN1VyV0lIWG04Tjl0RUxHWkg4dGYtRXBPaFI0ZjU2UVRjU0o4OHRUQUMwVTFvTkpNem1TQ3l2eUVfTGN3TDlVbF84cURXMmNvVjF4ajRvMVcwZm8?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 80.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-12 05:17",
+   "title": "Global funds retreat from Indian stocks as some cut exposure to zero",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/fold-holdings-director-young-buys-11049-in-company-stock-93CH-4898607",
+     "u": "https://www.investing.com/news/stock-market-news/global-funds-retreat-from-indian-stocks-as-some-cut-exposure-to-zero--bloomberg-4898628",
      "t": "agg"
     }
    ],
-   "heat": 88.6
+   "heat": 80.3
   },
   {
    "cat": "stock",
-   "time": "2026-09-12 02:00",
-   "title": "Safe Pro Group CEO Daniyel Erdberg sells $4 million in stock",
+   "time": "2026-09-12 04:31",
+   "title": "NuScale Power CFO Hamady sells $189,800 in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/safe-pro-group-ceo-daniyel-erdberg-sells-4-million-in-stock-93CH-4898606",
+     "u": "https://www.investing.com/news/insider-trading-news/nuscale-power-cfo-hamady-sells-189800-in-stock-93CH-4898624",
      "t": "agg"
     }
    ],
-   "heat": 88.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-12 02:00",
-   "title": "Q2 Holdings general counsel Michael Kerr sells $38,770 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/q2-holdings-general-counsel-michael-kerr-sells-38770-in-stock-93CH-4898605",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-12 01:45",
-   "title": "Crowdstrike CEO George Kurtz sells $4.19m in company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-419m-in-company-stock-93CH-4898601",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-12 01:45",
-   "title": "Snap chief accounting officer sells $106,984 in company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/snap-chief-accounting-officer-sells-106984-in-company-stock-93CH-4898600",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.6
+   "heat": 80.2
   },
   {
    "cat": "stock",
    "time": "2026-09-10 12:52",
-   "title": "US Stocks: S&P 500 ends down as oil tops $100 per barrel - Zawya",
-   "summary": "US Stocks: S&P 500 ends down as oil tops $100 per barrel &nbsp;&nbsp; Zawya",
+   "title": "US Stocks: S&P 500 ends down as oil tops $100 per barrel - zawya.com",
+   "summary": "US Stocks: S&P 500 ends down as oil tops $100 per barrel &nbsp;&nbsp; zawya.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -559,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.4
+   "heat": 76.0
   },
   {
    "cat": "stock",
@@ -573,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 76.0
   },
   {
    "cat": "stock",
@@ -587,13 +573,13 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 76.0
   },
   {
    "cat": "stock",
    "time": "2026-09-10 02:10",
-   "title": "6 Best Space Stocks for 2026 and How to Invest - The Motley Fool",
-   "summary": "6 Best Space Stocks for 2026 and How to Invest &nbsp;&nbsp; The Motley Fool",
+   "title": "6 Best Space Stocks for 2026 and How to Invest - fool.com",
+   "summary": "6 Best Space Stocks for 2026 and How to Invest &nbsp;&nbsp; fool.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -601,7 +587,21 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 76.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-09 06:50",
+   "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500 - MarketWatch",
+   "summary": "How to invest in a booming stock market that’s way cheaper than the S&P 500 &nbsp;&nbsp; MarketWatch",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOU1mQVpmck1RWV9Qbk5RZnpBUjhVa3c1TFBKWU16ZWJVUTZQOWktX04wRTBxYzJ3WVdlZDNNNEVaYWhwR041YTNiRUNvQXdYWWRURlFPX2tLZTJNV2ZiUlUzWjdEMm5JeTlEcXN6aFY5X3pxMmsxaGVHR3NZZXFqaDFMek9CWjVRNmJwaDEwZzhzOVZaalJUZWV3d09NRVBDaWJmY24zWkJhMmU3eXBJSDZtM2xnZ2Vu?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 76.0
   },
   {
    "cat": "global",
@@ -615,105 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-12 06:01",
-   "title": "AUD/USD Price Forecast: Doji high guards bulls as Fed bets bite",
-   "summary": "The AUD/USD ended the day in the green but finished the week 0.45% lower amid growing bets that the Fed will raise rates next week, boosting the US Dollar. Nevertheless, on Friday,…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/aud-usd-price-forecast-doji-high-guards-bulls-as-fed-bets-bite-202609112201",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-12 05:21",
-   "title": "Singapore Dollar: Downside bias capped with 1.2705 against US Dollar – UOB",
-   "summary": "United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann note that USD/SGD has rebounded strongly, with short-term momentum pointing higher but key resistance at 1.270…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/singapore-dollar-downside-bias-capped-with-12705-against-us-dollar-uob-202609112121",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-12 04:41",
-   "title": "Taiwan Dollar: CBC seen on hold before December hike – DBS",
-   "summary": "DBS Group Research expects Taiwan’s central bank to keep its policy rate unchanged on September 17, before raising it to 2.125% in December.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/taiwan-dollar-cbc-seen-on-hold-before-december-hike-dbs-202609112041",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-12 03:56",
-   "title": "Chinese Yuan: Bullish bias fades against dollar – UOB",
-   "summary": "United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann reports that USD/CNH has bounced sharply to 6.7153, with intraday gains likely capped near 6.7200.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/chinese-yuan-bullish-bias-fades-against-dollar-uob-202609111956",
-     "t": "sec"
-    }
-   ],
-   "heat": 38.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-12 03:52",
-   "title": "Forecasting the upcoming week: Fed, BoE and BoJ headline a central bank triple-header",
-   "summary": "The US Dollar Index (DXY) closes the week near the 99.00 zone, little changed on the day and holding the ground it clawed back after a brief wobble on Thursday's US inflation relea…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boe-and-boj-headline-a-central-bank-triple-header-202609111952",
-     "t": "sec"
-    }
-   ],
-   "heat": 38.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-12 02:08",
-   "title": "United States Dollar Index retreats from post-CPI high, all eyes on Fed",
-   "summary": "The US Dollar Index (DXY) reverses earlier gains on Friday as a pullback in longer-dated US Treasury yields outweighs support from the latest US Consumer Price Index (CPI) report, …",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/united-states-dollar-index-retreats-from-post-cpi-high-all-eyes-on-fed-202609111808",
-     "t": "sec"
-    }
-   ],
-   "heat": 38.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-11 23:31",
-   "title": "British Pound shakes off US CPI jolt as UK growth steals spotlight",
-   "summary": "The Pound Sterling (GBP) climbs slightly against the US Dollar (USD) on Friday, up 0.10%, as the latest US consumer inflation report came in line with forecasts, and although money…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/british-pound-shakes-off-us-cpi-jolt-as-uk-growth-steals-spotlight-202609111531",
-     "t": "sec"
-    }
-   ],
-   "heat": 38.2
+   "heat": 74.6
   },
   {
    "cat": "global",
@@ -727,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.2
+   "heat": 46.3
   },
   {
    "cat": "global",
@@ -741,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.0
+   "heat": 46.1
   },
   {
    "cat": "global",
@@ -755,7 +657,49 @@
      "t": "sec"
     }
    ],
-   "heat": 34.4
+   "heat": 45.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-12 07:24",
+   "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping-4898593",
+     "t": "agg"
+    }
+   ],
+   "heat": 44.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-12 06:39",
+   "title": "Houthis seize Red Sea coast as Saudi pipeline shutdown deepens oil risks",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
+     "t": "agg"
+    }
+   ],
+   "heat": 44.5
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-12 04:35",
+   "title": "Saudi Arabia shuts key oil pipeline after Houthi’s drone attack",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/saudi-arabia-shuts-key-oil-pipeline-after-houthis-drone-attack--reuters-4898625",
+     "t": "agg"
+    }
+   ],
+   "heat": 44.2
   },
   {
    "cat": "global",
@@ -769,7 +713,7 @@
      "t": "agg"
     }
    ],
-   "heat": 31.8
+   "heat": 42.9
   },
   {
    "cat": "global",
@@ -783,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 31.8
+   "heat": 42.9
   },
   {
    "cat": "global",
@@ -797,21 +741,77 @@
      "t": "sec"
     }
    ],
-   "heat": 28.0
+   "heat": 40.0
   },
   {
    "cat": "global",
-   "time": "2026-09-12 01:31",
-   "title": "Gold price dodges CPI shock as US yields hand bulls lifeline",
-   "summary": "Gold (XAU/USD) price bounces off daily lows beneath $4,300 on Friday and reclaims the 100-day Simple Moving Average (SMA) of $4,335 following the release of US inflation data, whic…",
+   "time": "2026-09-12 06:01",
+   "title": "AUD/USD Price Forecast: Doji high guards bulls as Fed bets bite",
+   "summary": "The AUD/USD ended the day in the green but finished the week 0.45% lower amid growing bets that the Fed will raise rates next week, boosting the US Dollar. Nevertheless, on Friday,…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/gold-price-dodges-cpi-shock-as-us-yields-hand-bulls-lifeline-202609111731",
+     "u": "https://www.fxstreet.com/news/aud-usd-price-forecast-doji-high-guards-bulls-as-fed-bets-bite-202609112201",
      "t": "sec"
     }
    ],
-   "heat": 18.5
+   "heat": 38.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-12 05:21",
+   "title": "Singapore Dollar: Downside bias capped with 1.2705 against US Dollar – UOB",
+   "summary": "United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann note that USD/SGD has rebounded strongly, with short-term momentum pointing higher but key resistance at 1.270…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/singapore-dollar-downside-bias-capped-with-12705-against-us-dollar-uob-202609112121",
+     "t": "sec"
+    }
+   ],
+   "heat": 38.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-12 04:41",
+   "title": "Taiwan Dollar: CBC seen on hold before December hike – DBS",
+   "summary": "DBS Group Research expects Taiwan’s central bank to keep its policy rate unchanged on September 17, before raising it to 2.125% in December.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/taiwan-dollar-cbc-seen-on-hold-before-december-hike-dbs-202609112041",
+     "t": "sec"
+    }
+   ],
+   "heat": 38.2
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-12 03:56",
+   "title": "Chinese Yuan: Bullish bias fades against dollar – UOB",
+   "summary": "United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann reports that USD/CNH has bounced sharply to 6.7153, with intraday gains likely capped near 6.7200.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/chinese-yuan-bullish-bias-fades-against-dollar-uob-202609111956",
+     "t": "sec"
+    }
+   ],
+   "heat": 38.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-12 03:52",
+   "title": "Forecasting the upcoming week: Fed, BoE and BoJ headline a central bank triple-header",
+   "summary": "The US Dollar Index (DXY) closes the week near the 99.00 zone, little changed on the day and holding the ground it clawed back after a brief wobble on Thursday's US inflation relea…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boe-and-boj-headline-a-central-bank-triple-header-202609111952",
+     "t": "sec"
+    }
+   ],
+   "heat": 38.1
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.2
+   "heat": 78.3
   },
   {
    "cat": "crypto",
@@ -839,21 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-11 20:33",
-   "title": "Bitcoin ETF outflows accelerate as investors pull $449M in three days",
-   "summary": "ARK 21Shares accounted for $164 million of Thursday’s Bitcoin ETF withdrawals, while Ether and Solana funds also recorded net outflows.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 57.7
+   "heat": 74.0
   },
   {
    "cat": "crypto",
@@ -867,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.3
+   "heat": 53.4
   },
   {
    "cat": "crypto",
@@ -881,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.9
+   "heat": 53.0
   },
   {
    "cat": "crypto",
@@ -895,7 +881,35 @@
      "t": "sec"
     }
    ],
-   "heat": 49.9
+   "heat": 53.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-11 20:33",
+   "title": "Bitcoin ETF outflows accelerate as investors pull $449M in three days",
+   "summary": "ARK 21Shares accounted for $164 million of Thursday’s Bitcoin ETF withdrawals, while Ether and Solana funds also recorded net outflows.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 52.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-12 07:02",
+   "title": "Bitcoin consolidates above $76,500 support: Live levels",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
+     "t": "agg"
+    }
+   ],
+   "heat": 52.6
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.5
+   "heat": 52.6
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.4
+   "heat": 52.6
   },
   {
    "cat": "crypto",
@@ -937,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.4
+   "heat": 52.6
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.4
+   "heat": 52.6
   },
   {
    "cat": "crypto",
@@ -965,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.3
+   "heat": 52.5
   },
   {
    "cat": "crypto",
@@ -979,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.7
+   "heat": 33.9
   },
   {
    "cat": "crypto",
@@ -993,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.3
+   "heat": 33.4
   },
   {
    "cat": "crypto",
@@ -1007,27 +1021,13 @@
      "t": "sec"
     }
    ],
-   "heat": 33.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-11 19:35",
-   "title": "UniCredit seeks infrastructure partner for crypto trading, custody: Report",
-   "summary": "The Italian bank is reportedly seeking assistance in launching access to crypto trading, custody and tokenized investment products.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 33.5
+   "heat": 32.7
   },
   {
    "cat": "sector",
    "time": "2026-09-12 01:46",
    "title": "高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战",
-   "summary": "高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战 &nbsp;&nbsp; 财联社",
+   "summary": "高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战 &nbsp;&nbsp; cls.cn",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
@@ -1035,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 230.6
+   "heat": 225.7
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 229.4
+   "heat": 224.5
   }
  ]
 }
