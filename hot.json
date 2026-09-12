@@ -1,19 +1,33 @@
 {
- "updated": "2026-09-13 01:34",
+ "updated": "2026-09-13 03:56",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-12 03:05",
-   "title": "Apple’s Always-Listening Watch AI Tool Could Pose Legal Risks for Users",
-   "summary": "Apple Inc.’s new always-listening artificial intelligence features for the Apple Watch Series 12 and Ultra 4 could put eavesdropping laws to the test, according to legal experts.",
+   "time": "2026-09-13 03:02",
+   "title": "Amodei, Altman & Musk:Slow AI Development,Ellison Ends Sale Plan",
+   "summary": "Source: Bloomberg, 4:57",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-12/amodei-altman-musk-slow-ai-development-ellison-ends-sale-plan",
      "t": "sec"
     }
    ],
-   "heat": 248.3
+   "heat": 235.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-13 01:39",
+   "title": "Conversations that AIs are having in the office that may influence your performance review and pay",
+   "summary": "AI tools can help find the right tone and language for difficult workplace conversations about performance and pay, and managers are already using them.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.6
   },
   {
    "cat": "sector",
@@ -27,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.9
+   "heat": 235.5
   },
   {
    "cat": "sector",
@@ -41,21 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-13 00:17",
-   "title": "Why it might be time to use AI to rehearse pay, performance chats before meeting with your manager",
-   "summary": "AI tools can help find the right tone and language for difficult workplace conversations about performance and pay, and managers are already using them.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.8
+   "heat": 235.5
   },
   {
    "cat": "sector",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.7
+   "heat": 235.3
   },
   {
    "cat": "sector",
@@ -83,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.6
+   "heat": 235.2
   },
   {
    "cat": "sector",
@@ -97,13 +97,13 @@
      "t": "sec"
     }
    ],
-   "heat": 247.5
+   "heat": 235.1
   },
   {
    "cat": "sector",
    "time": "2026-09-12 22:17",
-   "title": "Anthropic CEO Says It’s Time to Slow AI Model Advances",
-   "summary": "Anthropic PBC Chief Executive Officer Dario Amodei said that the artificial intelligence industry needs to slow the pace of development for new models, citing growing concerns abou…",
+   "title": "Amodei, Altman, Musk Call for Slowing Development of AI Models",
+   "summary": "Leaders of the world’s biggest artificial intelligence platforms said it’s time to slow the development pace of their most advanced — and most lucrative — models, citing escalating…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.5
+   "heat": 235.1
   },
   {
    "cat": "sector",
@@ -125,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.3
+   "heat": 234.9
   },
   {
    "cat": "sector",
@@ -139,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.3
+   "heat": 234.9
   }
  ]
 }
