@@ -1,6 +1,20 @@
 {
- "updated": "2026-09-13 03:56",
+ "updated": "2026-09-13 06:43",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-13 04:31",
+   "title": "Altman: OpenAI Not Going Public in ’26, Tesla: Roadster on Oct 1",
+   "summary": "Source: Bloomberg, 5:52",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-12/altman-openai-not-going-public-in-26-tesla-roadster-on-oct-1",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.6
+  },
   {
    "cat": "sector",
    "time": "2026-09-13 03:02",
@@ -13,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.8
+   "heat": 231.4
   },
   {
    "cat": "sector",
@@ -27,21 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-13 01:00",
-   "title": "Anthropic's Amodei proposes plan to 'slow the pace' of advancing AI capabilities",
-   "summary": "Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.5
+   "heat": 231.2
   },
   {
    "cat": "sector",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.5
+   "heat": 231.0
   },
   {
    "cat": "sector",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.3
+   "heat": 230.9
   },
   {
    "cat": "sector",
@@ -83,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.2
+   "heat": 230.7
   },
   {
    "cat": "sector",
@@ -97,12 +97,12 @@
      "t": "sec"
     }
    ],
-   "heat": 235.1
+   "heat": 230.6
   },
   {
    "cat": "sector",
    "time": "2026-09-12 22:17",
-   "title": "Amodei, Altman, Musk Call for Slowing Development of AI Models",
+   "title": "Amodei, Altman, Musk Call for Slowing AI Model Development",
    "summary": "Leaders of the world’s biggest artificial intelligence platforms said it’s time to slow the development pace of their most advanced — and most lucrative — models, citing escalating…",
    "srcs": [
     {
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.1
+   "heat": 230.6
   },
   {
    "cat": "sector",
@@ -125,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.9
+   "heat": 230.5
   },
   {
    "cat": "sector",
@@ -139,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.9
+   "heat": 230.4
   }
  ]
 }

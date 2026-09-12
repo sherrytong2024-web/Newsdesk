@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13 03:56",
+ "updated": "2026-09-13 06:43",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 103.2
+   "heat": 98.7
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "agg"
     }
    ],
-   "heat": 95.8
+   "heat": 91.4
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.1
+   "heat": 66.6
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 63.6
   },
   {
    "cat": "macro",
@@ -83,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.8
+   "heat": 54.3
   },
   {
    "cat": "macro",
@@ -97,49 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-12 23:40",
-   "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-   "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, C…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-12/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-12 23:00",
-   "title": "LIV Golf’s Big Losses Provide Fuel for a Second Act",
-   "summary": "A tax strategy from BC Partners’ playbook could bolster the tour’s comeback attempt",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-12/liv-golf-s-big-losses-provide-fuel-for-a-second-act",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-12 22:17",
-   "title": "Higher Interest Rates May Be the New Normal",
-   "summary": "Joining Bloomberg This Weekend, Bloomberg Economics Chief Economist Tom Orlik says higher interest rates may be the new normal, leaving governments, businesses and households facin…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-12/higher-interest-rates-may-be-the-new-normal-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.1
+   "heat": 51.6
   },
   {
    "cat": "macro",
@@ -153,21 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-10 19:00",
-   "title": "US Dollar Bid Ahead of ECB Rate Hike",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-bid-ahead-of-ecb-rate-hike-200687453",
-     "t": "agg"
-    }
-   ],
-   "heat": 50.0
+   "heat": 49.8
   },
   {
    "cat": "macro",
@@ -181,7 +125,7 @@
      "t": "agg"
     }
    ],
-   "heat": 49.8
+   "heat": 49.4
   },
   {
    "cat": "macro",
@@ -195,21 +139,91 @@
      "t": "agg"
     }
    ],
-   "heat": 49.5
+   "heat": 49.0
   },
   {
    "cat": "macro",
-   "time": "2026-09-12 11:39",
-   "title": "Warsh Faces Pressure to Raise Rates, Saudi Pipeline Shut, More",
-   "summary": "Source: Bloomberg, 5:11",
+   "time": "2026-09-11 21:29",
+   "title": "Diesel Prices Above $6 Signal a New Inflation Threat",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-12/warsh-faces-pressure-to-raise-rates-saudi-pipeline-shut-more",
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/us-diesel-prices-top-6-a-gallon-for-first-time-ever-200687540",
+     "t": "agg"
+    }
+   ],
+   "heat": 48.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-11 05:52",
+   "title": "S&P 500 Today: Wall Street Slips to 7,951.70 as Oil Prices and Yields Surge; Oracle Jumps Late With CPI Inflation Due - ",
+   "summary": "S&P 500 Today: Wall Street Slips to 7,951.70 as Oil Prices and Yields Surge; Oracle Jumps Late With CPI Inflation Due &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNczloZHY0SldSRnlNMGFkRG1uMHBRb3Bpd1ZPSVJnUGl0VGU2S1hoR3FuVDBocEtXRDVrZlRSV2g1dkVZaXdkM0JrTkFwdUJLQUhnTGpDNTBuendhbUtzRFJxS0x5U3c2Q05BNWNxZDdZenVVSG9pWFhhRkFiaENIbk10VHJDZkpFTDJWRks3M1hzN0VxY0NKRUtsWTdsbEhzbmtIZV9neW5jSWRNREN2VlRjTzdyVTFVWk9PWnFTTFUtVXBqN1h6WFdBaXpibFZOazZrNnlhcWNuV1dJejFLalphLTF6eU5OdHFB?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 49.3
+   "heat": 48.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-12 23:40",
+   "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+   "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, C…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-12/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 46.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-12 23:00",
+   "title": "LIV Golf’s Big Losses Provide Fuel for a Second Act",
+   "summary": "A tax strategy from BC Partners’ playbook could bolster the tour’s comeback attempt",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-12/liv-golf-s-big-losses-provide-fuel-for-a-second-act",
+     "t": "sec"
+    }
+   ],
+   "heat": 46.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-12 22:17",
+   "title": "Higher Interest Rates May Be the New Normal",
+   "summary": "Joining Bloomberg This Weekend, Bloomberg Economics Chief Economist Tom Orlik says higher interest rates may be the new normal, leaving governments, businesses and households facin…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-12/higher-interest-rates-may-be-the-new-normal-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 46.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-13 04:31",
+   "title": "Altman: OpenAI Not Going Public in ’26, Tesla: Roadster on Oct 1",
+   "summary": "Source: Bloomberg, 5:52",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-12/altman-openai-not-going-public-in-26-tesla-roadster-on-oct-1",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.6
   },
   {
    "cat": "sector",
@@ -223,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.8
+   "heat": 231.4
   },
   {
    "cat": "sector",
@@ -237,21 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-13 01:00",
-   "title": "Anthropic's Amodei proposes plan to 'slow the pace' of advancing AI capabilities",
-   "summary": "Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.5
+   "heat": 231.2
   },
   {
    "cat": "sector",
@@ -265,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.5
+   "heat": 231.0
   },
   {
    "cat": "sector",
@@ -279,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.3
+   "heat": 230.9
   },
   {
    "cat": "sector",
@@ -293,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.2
+   "heat": 230.7
   },
   {
    "cat": "sector",
@@ -307,12 +307,12 @@
      "t": "sec"
     }
    ],
-   "heat": 235.1
+   "heat": 230.6
   },
   {
    "cat": "sector",
    "time": "2026-09-12 22:17",
-   "title": "Amodei, Altman, Musk Call for Slowing Development of AI Models",
+   "title": "Amodei, Altman, Musk Call for Slowing AI Model Development",
    "summary": "Leaders of the world’s biggest artificial intelligence platforms said it’s time to slow the development pace of their most advanced — and most lucrative — models, citing escalating…",
    "srcs": [
     {
@@ -321,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.1
+   "heat": 230.6
   },
   {
    "cat": "sector",
@@ -335,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.9
+   "heat": 230.5
   },
   {
    "cat": "sector",
@@ -349,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.9
+   "heat": 230.4
   },
   {
    "cat": "sector",
@@ -363,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.9
+   "heat": 230.4
   },
   {
    "cat": "sector",
@@ -377,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.7
+   "heat": 230.2
   },
   {
    "cat": "stock",
@@ -391,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.5
+   "heat": 67.1
   },
   {
    "cat": "stock",
@@ -405,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.4
+   "heat": 67.0
   },
   {
    "cat": "stock",
@@ -419,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.8
+   "heat": 66.3
   },
   {
    "cat": "stock",
@@ -433,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 69.3
+   "heat": 64.8
   },
   {
    "cat": "stock",
@@ -447,21 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-12 03:54",
-   "title": "Kalshi Moves to Expand Into US Stock and Commodity Markets",
-   "summary": "Kalshi Inc. is filing for regulatory approval to offer the first single-stock perpetual futures in the US and is looking to expand the contracts in commodities to include agricultu…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-11/kalshi-moves-to-expand-into-us-stock-and-commodity-markets",
-     "t": "sec"
-    }
-   ],
-   "heat": 68.0
+   "heat": 63.8
   },
   {
    "cat": "stock",
@@ -475,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.8
+   "heat": 62.3
   },
   {
    "cat": "stock",
@@ -489,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 60.0
   },
   {
    "cat": "stock",
@@ -503,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 60.0
   },
   {
    "cat": "stock",
@@ -517,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 60.0
   },
   {
    "cat": "stock",
@@ -531,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 60.0
   },
   {
    "cat": "stock",
@@ -545,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 60.0
   },
   {
    "cat": "stock",
@@ -559,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 60.0
   },
   {
    "cat": "stock",
@@ -573,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 60.0
   },
   {
    "cat": "stock",
@@ -587,7 +573,21 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 60.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-07 09:31",
+   "title": "Market Jitters: S&P 500 Dips Amid US-Iran Tensions and Tech Stock Turmoil - Devdiscourse",
+   "summary": "Market Jitters: S&P 500 Dips Amid US-Iran Tensions and Tech Stock Turmoil &nbsp;&nbsp; Devdiscourse",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWmVpNG5XZFRTOWYtZTZOaGRRWVN4S2tiU1dRSS1CenJjZkMxUkFlakFEWWdJSTdPWEN3ODNOUFZzUWlSOVFod2dLWlhXcVM4MFAwbDhQQlFLdHBmc1dCU2RtYWpGX1BlNGxSc29pMWNUakk3RlQ5WnlJYVFpeXFVRWF1ampDZWR3NndWdWdKcWR1d0R5MDhncU9Ea2ZlNngxU3Ntc282OVRSWDM4X1pWajQtcFRTNVQyamRibDI1eDNaaU3SAcgBQVVfeXFMUGVtREVkTVVPVWR0U1g2VEJRRlBCbTJ1U0hLUldSZTlkazQ1US1oS3V4R2RUcFBsSDRKREVpZG5xbkhpX0tPcjVEN2hIa19qSTBZQVRsY09xQVNFdGRFWkZRR2hveEUwMnhkUU1Dck1sSTlPOWgzS3pQQzBLaVZYTC1BZnEzX3ZNdjE2eHZqbVdLd0pIR1Y2R0dRRWlQQkh0Yzdybmtmc1Q4Z3V5ZTBBenBSZnZLTndLS3dkLXhncHplNElSaklVa0o?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
   },
   {
    "cat": "global",
@@ -601,7 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.7
+   "heat": 43.2
   },
   {
    "cat": "global",
@@ -615,7 +615,7 @@
      "t": "agg"
     }
    ],
-   "heat": 40.6
+   "heat": 40.2
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.3
+   "heat": 39.9
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.2
+   "heat": 39.8
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.1
+   "heat": 39.7
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 39.5
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 39.5
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 39.2
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.3
+   "heat": 38.8
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.8
+   "heat": 38.3
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.6
+   "heat": 38.2
   },
   {
    "cat": "global",
@@ -755,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 32.2
+   "heat": 35.8
   },
   {
    "cat": "global",
@@ -769,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.1
+   "heat": 35.6
   },
   {
    "cat": "global",
@@ -783,7 +783,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.5
+   "heat": 35.0
   },
   {
    "cat": "global",
@@ -797,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 28.9
+   "heat": 32.4
   },
   {
    "cat": "crypto",
@@ -811,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.4
+   "heat": 62.9
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.3
+   "heat": 58.9
   },
   {
    "cat": "crypto",
@@ -839,7 +839,21 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 55.5
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-13 05:09",
+   "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+   "summary": "The company is closing its Copenhagen IT site while maintaining Bratislava and opening a new hub in Vietnam to reduce costs.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.7
   },
   {
    "cat": "crypto",
@@ -850,20 +864,6 @@
     {
      "n": "CoinDesk(加密货币)",
      "u": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.8
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-12 00:05",
-   "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
-   "summary": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt’s fUSD stablecoin through its custody platform.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
@@ -881,7 +881,21 @@
      "t": "sec"
     }
    ],
-   "heat": 39.3
+   "heat": 38.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-12 00:05",
+   "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+   "summary": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt’s fUSD stablecoin through its custody platform.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 38.9
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.8
+   "heat": 38.3
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.4
+   "heat": 37.9
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.8
+   "heat": 35.3
   },
   {
    "cat": "crypto",
@@ -937,21 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-11 21:46",
-   "title": "Metaplanet cuts executive reward pool by 41%, extinguishes $220 million in value",
-   "summary": "The bitcoin treasury firm cut the potential Series 10 share pool to 188.2 million.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/09/11/metaplanet-cuts-executive-reward-pool-by-41-extinguishes-usd220-million-in-value",
-     "t": "sec"
-    }
-   ],
-   "heat": 35.0
+   "heat": 34.9
   },
   {
    "cat": "crypto",
@@ -965,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.0
+   "heat": 34.5
   },
   {
    "cat": "crypto",
@@ -979,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.6
+   "heat": 34.2
   },
   {
    "cat": "crypto",
@@ -993,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 15.3
+   "heat": 14.9
   },
   {
    "cat": "crypto",
@@ -1007,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 15.0
+   "heat": 14.5
   },
   {
    "cat": "sector",
@@ -1021,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.6
+   "heat": 227.2
   },
   {
    "cat": "sector",
@@ -1035,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 230.4
+   "heat": 226.0
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "agg"
     }
    ],
-   "heat": 232.3
+   "heat": 227.8
   }
  ]
 }
