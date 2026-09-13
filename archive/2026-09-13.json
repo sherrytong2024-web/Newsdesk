@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13 07:42",
+ "updated": "2026-09-13 10:23",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.6
+   "heat": 98.1
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "agg"
     }
    ],
-   "heat": 87.2
+   "heat": 90.7
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.5
+   "heat": 70.0
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.4
+   "heat": 67.0
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 64.0
   },
   {
    "cat": "macro",
@@ -83,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.2
+   "heat": 53.7
   },
   {
    "cat": "macro",
@@ -97,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.5
+   "heat": 51.0
   },
   {
    "cat": "macro",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.7
+   "heat": 49.2
   },
   {
    "cat": "macro",
@@ -125,7 +125,7 @@
      "t": "agg"
     }
    ],
-   "heat": 49.2
+   "heat": 48.8
   },
   {
    "cat": "macro",
@@ -139,21 +139,7 @@
      "t": "agg"
     }
    ],
-   "heat": 48.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-11 21:29",
-   "title": "Diesel Prices Above $6 Signal a New Inflation Threat",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/us-diesel-prices-top-6-a-gallon-for-first-time-ever-200687540",
-     "t": "agg"
-    }
-   ],
-   "heat": 48.3
+   "heat": 48.4
   },
   {
    "cat": "macro",
@@ -171,6 +157,34 @@
   },
   {
    "cat": "macro",
+   "time": "2026-09-11 21:29",
+   "title": "Diesel Prices Above $6 Signal a New Inflation Threat",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/us-diesel-prices-top-6-a-gallon-for-first-time-ever-200687540",
+     "t": "agg"
+    }
+   ],
+   "heat": 47.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-13 08:02",
+   "title": "Brazil’s Top Court Gives Police Deadline on Banker’s Phone Data",
+   "summary": "Brazil’s Chief Justice Edson Fachin has given the Federal Police 24 hours to provide information regarding the custody and condition of the data extracted from the mobile phone of …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-13/brazil-s-top-court-gives-police-deadline-on-banker-s-phone-data",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.6
+  },
+  {
+   "cat": "macro",
    "time": "2026-09-12 23:40",
    "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
    "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, C…",
@@ -181,7 +195,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.7
+   "heat": 42.2
   },
   {
    "cat": "macro",
@@ -195,21 +209,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-12 22:17",
-   "title": "Higher Interest Rates May Be the New Normal",
-   "summary": "Joining Bloomberg This Weekend, Bloomberg Economics Chief Economist Tom Orlik says higher interest rates may be the new normal, leaving governments, businesses and households facin…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-12/higher-interest-rates-may-be-the-new-normal-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 42.4
+   "heat": 42.1
   },
   {
    "cat": "sector",
@@ -223,7 +223,21 @@
      "t": "sec"
     }
    ],
-   "heat": 235.5
+   "heat": 243.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-13 08:40",
+   "title": "AI Leaders Call to Slow Development, Elena Rybakina Wins US Open",
+   "summary": "Source: Bloomberg, 5:16",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-13/ai-leaders-call-to-slow-development-elena-rybakina-wins-us-open",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.7
   },
   {
    "cat": "sector",
@@ -237,7 +251,21 @@
      "t": "sec"
     }
    ],
-   "heat": 231.9
+   "heat": 239.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-13 06:59",
+   "title": "Revolut Says Some Customer Data Were Exposed in Email-Based Scam",
+   "summary": "Revolut Ltd. said a “limited number” of customers had sensitive information disclosed in a scam involving an unauthorized third party that used a legitimate government email domain…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-12/revolut-says-some-customer-data-were-exposed-in-email-based-scam",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.4
   },
   {
    "cat": "sector",
@@ -251,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.2
+   "heat": 238.8
   },
   {
    "cat": "sector",
@@ -265,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.0
+   "heat": 238.5
   },
   {
    "cat": "sector",
@@ -279,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 230.9
+   "heat": 238.4
   },
   {
    "cat": "sector",
@@ -293,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 230.7
+   "heat": 238.3
   },
   {
    "cat": "sector",
@@ -307,21 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 230.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-12 22:27",
-   "title": "AI Agents Test the Limits of Human Control",
-   "summary": "Future of Life Institute Chair & Co-Founder Max Tegmark joins Bloomberg This Weekend and says recent incidents involving autonomous AI agents show that loss-of-control risks are no…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-12/ai-agents-test-the-limits-of-human-control-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 230.5
+   "heat": 238.1
   },
   {
    "cat": "sector",
@@ -335,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 230.3
+   "heat": 237.9
   },
   {
    "cat": "sector",
@@ -349,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 230.3
+   "heat": 237.8
   },
   {
    "cat": "sector",
@@ -363,21 +377,21 @@
      "t": "sec"
     }
    ],
-   "heat": 230.3
+   "heat": 237.8
   },
   {
-   "cat": "sector",
-   "time": "2026-09-12 20:00",
-   "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
-   "summary": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage.",
+   "cat": "stock",
+   "time": "2026-09-13 08:00",
+   "title": "Korea Tests Global Investor Appetite With Longer Trading Hours",
+   "summary": "South Korea’s main stock exchange is extending into evening sessions, breaking with Asia’s trading-hour norms to tap what it hopes will be sustained demand from global investors.",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-13/korea-tests-global-investor-appetite-with-longer-trading-hours",
      "t": "sec"
     }
    ],
-   "heat": 230.0
+   "heat": 75.6
   },
   {
    "cat": "stock",
@@ -391,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.9
+   "heat": 74.5
   },
   {
    "cat": "stock",
@@ -405,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.8
+   "heat": 74.4
   },
   {
    "cat": "stock",
@@ -419,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.2
+   "heat": 73.7
   },
   {
    "cat": "stock",
@@ -433,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.7
+   "heat": 72.2
   },
   {
    "cat": "stock",
@@ -447,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.6
+   "heat": 71.2
   },
   {
    "cat": "stock",
@@ -461,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.2
+   "heat": 69.7
   },
   {
    "cat": "stock",
@@ -475,13 +489,13 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
    "time": "2026-09-10 12:52",
-   "title": "US Stocks: S&P 500 ends down as oil tops $100 per barrel - Zawya",
-   "summary": "US Stocks: S&P 500 ends down as oil tops $100 per barrel &nbsp;&nbsp; Zawya",
+   "title": "US Stocks: S&P 500 ends down as oil tops $100 per barrel - zawya.com",
+   "summary": "US Stocks: S&P 500 ends down as oil tops $100 per barrel &nbsp;&nbsp; zawya.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -489,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -503,13 +517,13 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
    "time": "2026-09-10 03:21",
-   "title": "S&P 500 Index(.SPX) Stock Price Today | Quotes & News - Moomoo",
-   "summary": "S&P 500 Index(.SPX) Stock Price Today | Quotes & News &nbsp;&nbsp; Moomoo",
+   "title": "S&P 500 Index(.SPX) Stock Price Today | Quotes & News - moomoo.com",
+   "summary": "S&P 500 Index(.SPX) Stock Price Today | Quotes & News &nbsp;&nbsp; moomoo.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -517,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -531,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -545,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -559,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -573,21 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-07 12:05",
-   "title": "CAPITAL IDEAS: How does the stock market perform after midterms? - The Berkshire Edge",
-   "summary": "CAPITAL IDEAS: How does the stock market perform after midterms? &nbsp;&nbsp; The Berkshire Edge",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNjlDQ25aNkNlb2hvaGNueGN6WjhxMUs4VzdfTWRBOUUtMkxlLVZBWlBucDdnRXo1cVFFRzN1U3diUWJvWXJqOWcyaVYtbWR4WjdiN2htY2FnYTV5bUdvVDlyUmsxbVlYWktOcTVCUkFjZmltQ3NRZlVDQkVycjI3RUlfdzZQRGRxV0lNOG1FYTMwaFVwUndB?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 64.0
+   "heat": 68.0
   },
   {
    "cat": "global",
@@ -601,7 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.0
+   "heat": 42.6
   },
   {
    "cat": "global",
@@ -615,7 +615,7 @@
      "t": "agg"
     }
    ],
-   "heat": 40.0
+   "heat": 39.6
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 39.3
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.6
+   "heat": 39.2
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.5
+   "heat": 39.0
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.4
+   "heat": 38.9
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.4
+   "heat": 38.9
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.1
+   "heat": 38.6
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.6
+   "heat": 38.2
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.2
+   "heat": 37.7
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.0
+   "heat": 37.6
   },
   {
    "cat": "global",
@@ -755,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 31.6
+   "heat": 35.2
   },
   {
    "cat": "global",
@@ -769,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.4
+   "heat": 35.0
   },
   {
    "cat": "global",
@@ -783,21 +783,21 @@
      "t": "sec"
     }
    ],
-   "heat": 30.9
+   "heat": 34.4
   },
   {
    "cat": "global",
-   "time": "2026-09-11 21:09",
-   "title": "Oil Prices Could Top $120 as Middle East Conflict Escalates",
-   "summary": "",
+   "time": "2026-09-09 04:23",
+   "title": "Markets today: Oil prices keep rising and weigh on Wall Street - BNN Bloomberg",
+   "summary": "Markets today: Oil prices keep rising and weigh on Wall Street &nbsp;&nbsp; BNN Bloomberg",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-prices-could-top-120-as-middle-east-conflict-escalates-200687537",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb20zYW9HYm1zVTJ2NXBaYXpnS2lfdUIzNnB1R1BqTmJJR1ZpZTNfQVRuTmtQV3czeVF5a2hyemVEX1NVNWNWNGp4akVsTkhFMU5xejRVWEYxbHo2eVExbGVxYlY3d3NCOHRtNHg5MnEwcVhTcHpVMGI0NTh4RFFKUERtME1xaGtha1lxd2hSWEZVcDhNM1QxWmNvblBLZFVMbmhMTGZicHlObkpCRHRrYUlCVEpFUQ?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 28.2
+   "heat": 32.0
   },
   {
    "cat": "crypto",
@@ -811,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.7
+   "heat": 62.3
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.7
+   "heat": 58.3
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.3
+   "heat": 54.9
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.6
+   "heat": 39.1
   },
   {
    "cat": "crypto",
@@ -864,20 +864,6 @@
     {
      "n": "CoinDesk(加密货币)",
      "u": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.2
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-12 23:50",
-   "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
-   "summary": "Ben Delo, co-founder of BitMEX, donated almost $50 million to Nigel Farage’s Reform UK party, matched a day later by Christopher Harborne.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
@@ -895,7 +881,21 @@
      "t": "sec"
     }
    ],
-   "heat": 38.7
+   "heat": 38.3
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-12 23:50",
+   "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
+   "summary": "Ben Delo, co-founder of BitMEX, donated almost $50 million to Nigel Farage’s Reform UK party, matched a day later by Christopher Harborne.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 38.2
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.1
+   "heat": 37.7
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.7
+   "heat": 37.3
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.2
+   "heat": 34.7
   },
   {
    "cat": "crypto",
@@ -951,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.7
+   "heat": 34.3
   },
   {
    "cat": "crypto",
@@ -965,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.3
+   "heat": 33.9
   },
   {
    "cat": "crypto",
@@ -979,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.0
+   "heat": 33.6
   },
   {
    "cat": "crypto",
@@ -993,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 14.7
+   "heat": 14.3
   },
   {
    "cat": "crypto",
@@ -1007,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 14.4
+   "heat": 13.9
   },
   {
    "cat": "sector",
@@ -1021,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.0
+   "heat": 234.6
   },
   {
    "cat": "sector",
@@ -1035,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 225.8
+   "heat": 233.4
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "agg"
     }
    ],
-   "heat": 227.6
+   "heat": 235.2
   }
  ]
 }
