@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13 10:23",
+ "updated": "2026-09-13 15:51",
  "items": [
   {
    "cat": "sector",
@@ -13,7 +13,35 @@
      "t": "sec"
     }
    ],
-   "heat": 243.0
+   "heat": 246.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-13 15:01",
+   "title": "Obama voices caution on AI, urges Democrats to tackle it, NYT says",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/13/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-nyt-says.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-13 11:29",
+   "title": "China’s Data Regulator Plans Standards Push for Embodied AI",
+   "summary": "China’s data regulator said it plans to develop standards for embodied artificial intelligence and guide local authorities in related work, as demand for high-quality, diverse and …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.3
   },
   {
    "cat": "sector",
@@ -27,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.7
+   "heat": 242.8
   },
   {
    "cat": "sector",
@@ -41,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 242.6
   },
   {
    "cat": "sector",
@@ -55,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.4
+   "heat": 242.5
   },
   {
    "cat": "sector",
@@ -69,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.8
+   "heat": 241.9
   },
   {
    "cat": "sector",
@@ -83,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.5
+   "heat": 241.6
   },
   {
    "cat": "sector",
@@ -97,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.4
+   "heat": 241.5
   },
   {
    "cat": "sector",
@@ -111,35 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-12 23:11",
-   "title": "Number of Vessels Redirected in US Blockade on Iran Reaches 100",
-   "summary": "US forces have redirected 100 commercial vessels over the past 60 days since the blockade against Iran resumed, the Central Command says in an update on X.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-12/number-of-vessels-redirected-in-us-blockade-on-iran-reaches-100",
-     "t": "sec"
-    }
-   ],
-   "heat": 238.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-12 21:30",
-   "title": "College sticker prices keep rising. Why many schools are still under financial strain",
-   "summary": "Even with soaring price tags, a growing number of private colleges are in financial distress.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/12/college-costs-top-100000-as-tuition-discounts-strain-schools.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 237.9
+   "heat": 241.4
   }
  ]
 }

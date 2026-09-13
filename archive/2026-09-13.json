@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13 10:23",
+ "updated": "2026-09-13 15:51",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 98.1
+   "heat": 101.2
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "agg"
     }
    ],
-   "heat": 90.7
+   "heat": 94.0
   },
   {
    "cat": "macro",
@@ -41,7 +41,21 @@
      "t": "sec"
     }
    ],
-   "heat": 70.0
+   "heat": 69.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-13 02:35",
+   "title": "ECB’s Lagarde says Eurozone inflation shock will last longer",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/ecbs-lagarde-says-eurozone-inflation-shock-will-last-longer-4898702",
+     "t": "agg"
+    }
+   ],
+   "heat": 67.8
   },
   {
    "cat": "macro",
@@ -55,13 +69,13 @@
      "t": "sec"
     }
    ],
-   "heat": 67.0
+   "heat": 66.0
   },
   {
    "cat": "macro",
    "time": "2026-09-07 14:30",
-   "title": "SPX: S&P 500 Braces for Inflation Double Act After Jobs Surprise Revives Fed-Hike Bets - TradingView",
-   "summary": "SPX: S&P 500 Braces for Inflation Double Act After Jobs Surprise Revives Fed-Hike Bets &nbsp;&nbsp; TradingView",
+   "title": "SPX: S&P 500 Braces for Inflation Double Act After Jobs Surprise Revives Fed-Hike Bets - tradingview.com",
+   "summary": "SPX: S&P 500 Braces for Inflation Double Act After Jobs Surprise Revives Fed-Hike Bets &nbsp;&nbsp; tradingview.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -83,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 53.7
+   "heat": 56.8
   },
   {
    "cat": "macro",
@@ -97,13 +111,13 @@
      "t": "sec"
     }
    ],
-   "heat": 51.0
+   "heat": 54.1
   },
   {
    "cat": "macro",
    "time": "2026-09-11 17:38",
-   "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gains Ahead of August Inflation Data — ORCL, ADBE, RH in Focus - TradingV",
-   "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Gains Ahead of August Inflation Data — ORCL, ADBE, RH in Focus &nbsp;&nbsp; TradingView",
+   "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gains Ahead of August Inflation Data — ORCL, ADBE, RH in Focus - tradingv",
+   "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Gains Ahead of August Inflation Data — ORCL, ADBE, RH in Focus &nbsp;&nbsp; tradingview.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -111,35 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-12 03:01",
-   "title": "Gold Selloff Shows Why Real Yields Still Dominate Inflation Risk",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-selloff-shows-why-real-yields-still-dominate-inflation-risk-200687562",
-     "t": "agg"
-    }
-   ],
-   "heat": 48.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-12 00:49",
-   "title": "Gold Faces Downside Risk as Shifting US Policy Fuels Energy-Led Inflation",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-faces-downside-risk-as-shifting-us-policy-fuels-energyled-inflation-200687548",
-     "t": "agg"
-    }
-   ],
-   "heat": 48.4
+   "heat": 52.3
   },
   {
    "cat": "macro",
@@ -153,7 +139,35 @@
      "t": "sec"
     }
    ],
-   "heat": 48.0
+   "heat": 52.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-12 03:01",
+   "title": "Gold Selloff Shows Why Real Yields Still Dominate Inflation Risk",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-selloff-shows-why-real-yields-still-dominate-inflation-risk-200687562",
+     "t": "agg"
+    }
+   ],
+   "heat": 51.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-12 00:49",
+   "title": "Gold Faces Downside Risk as Shifting US Policy Fuels Energy-Led Inflation",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-faces-downside-risk-as-shifting-us-policy-fuels-energyled-inflation-200687548",
+     "t": "agg"
+    }
+   ],
+   "heat": 51.5
   },
   {
    "cat": "macro",
@@ -167,21 +181,21 @@
      "t": "agg"
     }
    ],
-   "heat": 47.8
+   "heat": 50.9
   },
   {
    "cat": "macro",
-   "time": "2026-09-13 08:02",
-   "title": "Brazil’s Top Court Gives Police Deadline on Banker’s Phone Data",
-   "summary": "Brazil’s Chief Justice Edson Fachin has given the Federal Police 24 hours to provide information regarding the custody and condition of the data extracted from the mobile phone of …",
+   "time": "2026-09-10 19:00",
+   "title": "US Dollar Bid Ahead of ECB Rate Hike",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-13/brazil-s-top-court-gives-police-deadline-on-banker-s-phone-data",
-     "t": "sec"
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/us-dollar-bid-ahead-of-ecb-rate-hike-200687453",
+     "t": "agg"
     }
    ],
-   "heat": 43.6
+   "heat": 50.0
   },
   {
    "cat": "macro",
@@ -195,21 +209,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-12 23:00",
-   "title": "LIV Golf’s Big Losses Provide Fuel for a Second Act",
-   "summary": "A tax strategy from BC Partners’ playbook could bolster the tour’s comeback attempt",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-12/liv-golf-s-big-losses-provide-fuel-for-a-second-act",
-     "t": "sec"
-    }
-   ],
-   "heat": 42.1
+   "heat": 45.3
   },
   {
    "cat": "sector",
@@ -223,7 +223,35 @@
      "t": "sec"
     }
    ],
-   "heat": 243.0
+   "heat": 246.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-13 15:01",
+   "title": "Obama voices caution on AI, urges Democrats to tackle it, NYT says",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/13/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-nyt-says.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-13 11:29",
+   "title": "China’s Data Regulator Plans Standards Push for Embodied AI",
+   "summary": "China’s data regulator said it plans to develop standards for embodied artificial intelligence and guide local authorities in related work, as demand for high-quality, diverse and …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.3
   },
   {
    "cat": "sector",
@@ -237,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.7
+   "heat": 242.8
   },
   {
    "cat": "sector",
@@ -251,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 242.6
   },
   {
    "cat": "sector",
@@ -265,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.4
+   "heat": 242.5
   },
   {
    "cat": "sector",
@@ -279,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.8
+   "heat": 241.9
   },
   {
    "cat": "sector",
@@ -293,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.5
+   "heat": 241.6
   },
   {
    "cat": "sector",
@@ -307,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.4
+   "heat": 241.5
   },
   {
    "cat": "sector",
@@ -321,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.3
+   "heat": 241.4
   },
   {
    "cat": "sector",
@@ -335,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 238.1
+   "heat": 241.2
   },
   {
    "cat": "sector",
@@ -349,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 237.9
+   "heat": 240.9
   },
   {
    "cat": "sector",
@@ -363,21 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 237.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-12 21:15",
-   "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
-   "summary": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 237.8
+   "heat": 240.9
   },
   {
    "cat": "stock",
@@ -391,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.6
+   "heat": 78.7
   },
   {
    "cat": "stock",
@@ -405,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.5
+   "heat": 77.6
   },
   {
    "cat": "stock",
@@ -419,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.4
+   "heat": 77.4
   },
   {
    "cat": "stock",
@@ -433,7 +447,21 @@
      "t": "sec"
     }
    ],
-   "heat": 73.7
+   "heat": 76.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-13 05:45",
+   "title": "How vulnerable are European stocks to natural gas price shocks?",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/how-vulnerable-are-european-stocks-to-natural-gas-price-shocks-4898709",
+     "t": "agg"
+    }
+   ],
+   "heat": 76.3
   },
   {
    "cat": "stock",
@@ -447,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 72.2
+   "heat": 75.3
   },
   {
    "cat": "stock",
@@ -461,13 +489,13 @@
      "t": "sec"
     }
    ],
-   "heat": 71.2
+   "heat": 74.3
   },
   {
    "cat": "stock",
    "time": "2026-09-11 20:48",
    "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Gains as August CPI Meets Expectations at 0.4% MoM and 3.4% Y",
-   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Gains as August CPI Meets Expectations at 0.4% MoM and 3.4% YoY — ORCL, ADBE, RH in Focus (UPDATED) &nbsp;&nbsp; TradingV…",
+   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Gains as August CPI Meets Expectations at 0.4% MoM and 3.4% YoY — ORCL, ADBE, RH in Focus (UPDATED) &nbsp;&nbsp; tradingv…",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -475,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 69.7
+   "heat": 72.8
   },
   {
    "cat": "stock",
@@ -489,13 +517,13 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
    "time": "2026-09-10 12:52",
-   "title": "US Stocks: S&P 500 ends down as oil tops $100 per barrel - zawya.com",
-   "summary": "US Stocks: S&P 500 ends down as oil tops $100 per barrel &nbsp;&nbsp; zawya.com",
+   "title": "US Stocks: S&P 500 ends down as oil tops $100 per barrel - Zawya",
+   "summary": "US Stocks: S&P 500 ends down as oil tops $100 per barrel &nbsp;&nbsp; Zawya",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -503,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
@@ -517,13 +545,13 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
    "time": "2026-09-10 03:21",
-   "title": "S&P 500 Index(.SPX) Stock Price Today | Quotes & News - moomoo.com",
-   "summary": "S&P 500 Index(.SPX) Stock Price Today | Quotes & News &nbsp;&nbsp; moomoo.com",
+   "title": "S&P 500 Index(.SPX) Stock Price Today | Quotes & News - Moomoo",
+   "summary": "S&P 500 Index(.SPX) Stock Price Today | Quotes & News &nbsp;&nbsp; Moomoo",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -531,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
@@ -545,13 +573,13 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
    "time": "2026-09-09 06:50",
-   "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500 - MarketWatch",
-   "summary": "How to invest in a booming stock market that’s way cheaper than the S&P 500 &nbsp;&nbsp; MarketWatch",
+   "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500 - marketwatch.com",
+   "summary": "How to invest in a booming stock market that’s way cheaper than the S&P 500 &nbsp;&nbsp; marketwatch.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -559,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
@@ -573,21 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-07 19:00",
-   "title": "The Stock Market Is Flashing a Warning Seen Only 6 Times Since 1871, and History Is Crystal Clear That a Disaster Could ",
-   "summary": "The Stock Market Is Flashing a Warning Seen Only 6 Times Since 1871, and History Is Crystal Clear That a Disaster Could Be Heading Toward Wall Street &nbsp;&nbsp; The Motley Fool",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1BkRkRkc2V0TDcwVTJpZUswRGlpbE1NbWl5TE9JcS01dnpXaDgwQVYyV3BzaExPZmxsTEFOTzRETUNVT1RWSE1sMUNNT2dYUm5paVpsV1ZKNzlmUDlpYjN2akZxSVpDSjdTMWJocFZUeGxjSGJ3M293Ym52RUlEWC1xVWRSTHFkRG5NM1BBcHZiOUt2c3hQYg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 68.0
+   "heat": 72.0
   },
   {
    "cat": "global",
@@ -601,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.6
+   "heat": 41.7
   },
   {
    "cat": "global",
@@ -615,7 +629,7 @@
      "t": "agg"
     }
    ],
-   "heat": 39.6
+   "heat": 38.7
   },
   {
    "cat": "global",
@@ -629,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.3
+   "heat": 38.4
   },
   {
    "cat": "global",
@@ -643,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.2
+   "heat": 38.2
   },
   {
    "cat": "global",
@@ -657,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.0
+   "heat": 38.1
   },
   {
    "cat": "global",
@@ -671,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.9
+   "heat": 38.0
   },
   {
    "cat": "global",
@@ -685,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.9
+   "heat": 38.0
   },
   {
    "cat": "global",
@@ -699,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.6
+   "heat": 37.7
   },
   {
    "cat": "global",
@@ -713,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.2
+   "heat": 37.3
   },
   {
    "cat": "global",
@@ -727,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.7
+   "heat": 28.8
   },
   {
    "cat": "global",
@@ -741,21 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-12 17:24",
-   "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/commodities-news/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping-4898593",
-     "t": "agg"
-    }
-   ],
-   "heat": 35.2
+   "heat": 28.7
   },
   {
    "cat": "global",
@@ -769,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.0
+   "heat": 26.1
   },
   {
    "cat": "global",
@@ -783,21 +783,35 @@
      "t": "sec"
     }
    ],
-   "heat": 34.4
+   "heat": 25.5
   },
   {
    "cat": "global",
-   "time": "2026-09-09 04:23",
-   "title": "Markets today: Oil prices keep rising and weigh on Wall Street - BNN Bloomberg",
-   "summary": "Markets today: Oil prices keep rising and weigh on Wall Street &nbsp;&nbsp; BNN Bloomberg",
+   "time": "2026-09-11 21:09",
+   "title": "Oil Prices Could Top $120 as Middle East Conflict Escalates",
+   "summary": "",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb20zYW9HYm1zVTJ2NXBaYXpnS2lfdUIzNnB1R1BqTmJJR1ZpZTNfQVRuTmtQV3czeVF5a2hyemVEX1NVNWNWNGp4akVsTkhFMU5xejRVWEYxbHo2eVExbGVxYlY3d3NCOHRtNHg5MnEwcVhTcHpVMGI0NTh4RFFKUERtME1xaGtha1lxd2hSWEZVcDhNM1QxWmNvblBLZFVMbmhMTGZicHlObkpCRHRrYUlCVEpFUQ?oc=5",
-     "t": "sec"
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-prices-could-top-120-as-middle-east-conflict-escalates-200687537",
+     "t": "agg"
     }
    ],
-   "heat": 32.0
+   "heat": 22.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-11 21:07",
+   "title": "Energy Aspects: Oil Market Has Reached an ’Inflection Point’",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/energy-aspects-oil-market-has-reached-an-inflection-point-200687536",
+     "t": "agg"
+    }
+   ],
+   "heat": 22.9
   },
   {
    "cat": "crypto",
@@ -811,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.3
+   "heat": 61.4
   },
   {
    "cat": "crypto",
@@ -825,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.3
+   "heat": 57.4
   },
   {
    "cat": "crypto",
@@ -839,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.9
+   "heat": 54.0
   },
   {
    "cat": "crypto",
@@ -853,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.1
+   "heat": 38.2
   },
   {
    "cat": "crypto",
@@ -867,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.7
+   "heat": 37.8
   },
   {
    "cat": "crypto",
@@ -881,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.3
+   "heat": 37.4
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.2
+   "heat": 37.3
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.7
+   "heat": 36.8
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.3
+   "heat": 36.4
   },
   {
    "cat": "crypto",
@@ -937,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.7
+   "heat": 33.8
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.3
+   "heat": 33.4
   },
   {
    "cat": "crypto",
@@ -965,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.9
+   "heat": 33.0
   },
   {
    "cat": "crypto",
@@ -979,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.6
+   "heat": 32.7
   },
   {
    "cat": "crypto",
@@ -993,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 14.3
+   "heat": 13.4
   },
   {
    "cat": "crypto",
@@ -1007,13 +1021,13 @@
      "t": "sec"
     }
    ],
-   "heat": 13.9
+   "heat": 13.0
   },
   {
    "cat": "sector",
    "time": "2026-09-12 01:46",
    "title": "高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战",
-   "summary": "高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战 &nbsp;&nbsp; 财联社",
+   "summary": "高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战 &nbsp;&nbsp; cls.cn",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
@@ -1021,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.6
+   "heat": 237.7
   },
   {
    "cat": "sector",
@@ -1035,21 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 233.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-12 17:30",
-   "title": "Russian attacks on Kyiv petrol stations kill two, Ukrainian strikes kill three in Russia",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/russian-air-strikes-injure-two-cause-fire-in-9storey-apartment-building-in-kyiv-officials-say-4897164",
-     "t": "agg"
-    }
-   ],
-   "heat": 235.2
+   "heat": 240.4
   }
  ]
 }
