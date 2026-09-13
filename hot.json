@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14 01:48",
+ "updated": "2026-09-14 04:03",
  "items": [
   {
    "cat": "sector",
@@ -13,7 +13,35 @@
      "t": "sec"
     }
    ],
-   "heat": 296.0
+   "heat": 288.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-14 03:17",
+   "title": "Hormuz Meeting With Iran and Gulf Nations Delayed, Oman Says",
+   "summary": "A planned meeting for Monday between Iran and several Gulf nations on creating a temporary shipping lane through the Strait of Hormuz has been postponed, according to Oman’s foreig…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-13/hormuz-meeting-with-iran-and-gulf-nations-postponed-oman-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 287.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-14 01:48",
+   "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+   "summary": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 287.6
   },
   {
    "cat": "sector",
@@ -27,21 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-14 00:56",
-   "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
-   "summary": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 295.9
+   "heat": 287.5
   },
   {
    "cat": "sector",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.8
+   "heat": 287.4
   },
   {
    "cat": "sector",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.8
+   "heat": 287.4
   },
   {
    "cat": "sector",
@@ -83,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.7
+   "heat": 287.3
   },
   {
    "cat": "sector",
@@ -97,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.6
+   "heat": 287.2
   },
   {
    "cat": "sector",
@@ -111,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.6
+   "heat": 287.2
   },
   {
    "cat": "sector",
@@ -125,21 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-13 22:27",
-   "title": "Jeffries Says Democrats to Meet Tuesday on AI Action: ABC News",
-   "summary": "House Democratic Leader Hakeem Jeffries says Democrats plan a caucus on Tuesday morning on action on artificial intelligence, according to a transcript of his interview with ABC’s …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-13/jeffries-says-democrats-to-meet-tuesday-on-ai-action-abc-news",
-     "t": "sec"
-    }
-   ],
-   "heat": 295.4
+   "heat": 287.1
   }
  ]
 }
