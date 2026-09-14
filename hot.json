@@ -1,79 +1,135 @@
 {
- "updated": "2026-09-14 16:23",
+ "updated": "2026-09-14 23:31",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-14 16:04",
-   "title": "AI CEOs Safety Warning, UK's 'Culture Shift', More",
+   "time": "2026-09-14 23:13",
+   "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
+   "summary": "The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-14 23:08",
+   "title": "What Blockchain Still Needs to Win Wall Street",
+   "summary": "Kaiko CEO Ambre Soubiran joins Bloomberg Open Interest to explain why blockchain adoption on Wall Street is taking longer than expected. She argues the technology is ready, but tok…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-14/what-blockchain-still-needs-to-win-wall-street-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-14 23:07",
+   "title": "Ex-Google DeepMind Insider: Why We MUST Slow Down AI Now",
+   "summary": "Alex Turner, a former Google DeepMind research scientist, joins Bloomberg Open Interest to explain why he left the firm over safety concerns and why he thinks AI progress is moving…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-14/ex-google-deepmind-insider-why-we-must-slow-down-ai-now-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-14 23:01",
+   "title": "Canada’s Carney on Capital Investment, AI, US Trade",
+   "summary": "Canadian Prime Minister Mark Carney talks about efforts to increase foreign investment in the nation, seeking coordination on artificial intelligence safety, and the state of trade…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-14/canada-s-carney-on-capital-investment-ai-us-trade-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-14 23:01",
+   "title": "Prediction market traders think gas prices will hit new highs for the year",
+   "summary": "It comes after oil prices have marched higher in recent weeks, above $100 per barrel, as tensions between the U.S. and Iran have escalated again.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-14 22:52",
+   "title": "Etihad Says Mideast Rivalry Shields Passengers From Higher Fares",
+   "summary": "The fierce competition between Middle East airlines means the rising costs of jet fuel won’t be passed on to customers just yet, Etihad Airways’ chief executive officer said.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-14/etihad-says-mideast-rivalry-shields-passengers-from-higher-fares",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-14 22:52",
+   "title": "AI Bosses Risk Clash With Wall Street Over Safety",
+   "summary": "Anthropic PBC and OpenAI will have to weigh their calls to tap the brakes on artificial intelligence development against forces in the tech industry, financial markets and the Trum…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-14/ai-bosses-risk-clash-with-wall-street-over-safety-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-14 22:37",
+   "title": "Microsoft's AI Manifesto, Trump Attacks Anthropic, More",
    "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-14/ai-ceos-safety-warning-uk-s-culture-shift-more",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-14/microsoft-s-ai-manifesto-trump-attacks-anthropic-more",
      "t": "sec"
     }
    ],
-   "heat": 303.9
+   "heat": 299.8
   },
   {
    "cat": "sector",
-   "time": "2026-09-14 16:00",
-   "title": "OpenAI President Greg Brockman on Doing Business in the Wake of Hugging Face",
-   "summary": "How the firm is thinking about pacing the frontier.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-14/openai-president-greg-brockman-on-doing-business-in-the-wake-of-hugging-face",
-     "t": "sec"
-    }
-   ],
-   "heat": 303.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-14 16:00",
-   "title": "Odd Lots: OpenAI’s Brockman on Pacing the AI Frontier (Podcast)",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-14/odd-lots-openai-s-brockman-on-pacing-the-ai-frontier-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 303.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-14 15:39",
-   "title": "China Rejects AI ‘Fearmongering’ After Amodei Urges Slowdown",
-   "summary": "China criticized dire warnings about AI’s risks after leading US technology executives backed calls to slow the development of advanced models and warned that a Chinese advantage c…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-14/china-rejects-ai-fearmongering-after-amodei-urges-slowdown",
-     "t": "sec"
-    }
-   ],
-   "heat": 303.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-14 15:24",
-   "title": "Iran says it destroys U.S. advanced drone over Hormuz as Middle East conflict intensifies",
-   "summary": "Iran said it downed an advanced American drone over the Strait of Hormuz, as Tehran and Washington trade warnings and strikes with no sign of de-escalation.",
+   "time": "2026-09-14 22:36",
+   "title": "Why the election could make Washington's looming next fiscal crisis harder",
+   "summary": "Some in the GOP are already disavowing raising the debt ceiling absent deep spending cuts as the national debt balloons past $40 trillion.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
+     "u": "https://www.cnbc.com/2026/09/14/election-debt-limit-fiscal-crisis-congress.html",
      "t": "sec"
     }
    ],
-   "heat": 303.8
+   "heat": 299.8
   },
   {
    "cat": "sector",
-   "time": "2026-09-14 15:22",
+   "time": "2026-09-14 22:25",
    "title": "Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record",
    "summary": "U.S. diesel prices have surpassed $6 a gallon for the first time ever as the Ukraine and Iran wars drive broader energy supply concerns.",
    "srcs": [
@@ -83,63 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 303.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-14 15:16",
-   "title": "Burnham Urges ‘Culture Shift’ to Reward Risk Takers",
-   "summary": "Burnham urges culture shift on entrepreneurship; more boomers remain in jobs",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-14/burnham-urges-culture-shift-to-reward-risk-takers",
-     "t": "sec"
-    }
-   ],
-   "heat": 303.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-14 14:42",
-   "title": "AI CEOs Warn on Safety, Oil Prices Rise, More",
-   "summary": "Source: Bloomberg, 8:02",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-14/ai-ceos-warn-on-safety-oil-prices-rise-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 303.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-14 14:25",
-   "title": "Oil Jumps as Saudi Pipeline Attack Deepens Energy Crisis",
-   "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-14/horizons-middle-east-africa-9-14-2026-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 303.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-14 14:09",
-   "title": "Asian Refiners Seek Saudi Updates After Oil Pipeline Closure",
-   "summary": "Asian oil refiners are waiting for clarity on cargoes due to be picked up at Saudi Arabia’s Red Sea port of Yanbu, after the kingdom was forced to close a vital pipeline that serve…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-14/asia-refiners-seek-saudi-updates-after-oil-pipeline-closure",
-     "t": "sec"
-    }
-   ],
-   "heat": 303.6
+   "heat": 299.8
   }
  ]
 }
