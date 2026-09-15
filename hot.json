@@ -1,131 +1,19 @@
 {
- "updated": "2026-09-15 10:43",
+ "updated": "2026-09-15 16:15",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-15 10:12",
-   "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
-   "summary": "China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 10:06",
-   "title": "Court Blocks Mail Ballot Curbs, Investors Weigh AI Worries, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-15/court-blocks-mail-ballot-curbs-investors-weigh-ai-worries-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 09:55",
-   "title": "Oil extends gains following Houthi strikes on Saudi Arabia",
-   "summary": "Oil extended gains amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 09:13",
-   "title": "Court Blocks Trump Mail Ballot Curbs, AI Slowdown Concerns, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-15/court-blocks-trump-mail-ballot-curbs-ai-slowdown-concerns-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 08:54",
-   "title": "Trump Opposes AI Guardrails Amid Chip Selloff",
-   "summary": "Bloomberg's Shery Ahn and Haidi Stroud-Watts break down how President Donald Trump's rejection of artificial intelligence safety guardrails coincides with a sharp selloff across se…",
+   "time": "2026-09-15 10:49",
+   "title": "Trump, China Push Back on Calls to Slow AI",
+   "summary": "Nvidia Chief Executive Officer Jensen Huang took a live phone call from Donald Trump during a panel discussion, where Trump dismissed artificial intelligence dangers as a “hoax.” M…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-15/trump-opposes-ai-guardrails-amid-chip-selloff-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-15/trump-china-push-back-on-calls-to-slow-ai-video",
      "t": "sec"
     }
    ],
-   "heat": 263.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 08:52",
-   "title": "ANZ CEO Warns of AI Risks, Job Cuts After Musk, Altman Alert",
-   "summary": "ANZ Group Holdings Ltd. Chief Executive Officer Nuno Matos warned about unpredictable risks linked to artificial intelligence and declined to rule out large-scale job cuts at the b…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-15/anz-ceo-warns-of-ai-risks-and-job-cuts-after-musk-altman-alert",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 08:48",
-   "title": "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule",
-   "summary": "Justice Brett Kavanaugh said that applying the U.S. Postal Service rule in the 2026 midterm elections \"would be arbitrary and capricious.\"",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 08:23",
-   "title": "Trump’s AI Defense Defies Voter Unease Heading Into Midterms",
-   "summary": "President Donald Trump’s opposition to guardrails on artificial intelligence puts him at odds with a growing number of lawmakers from both parties, with AI safety fears adding to v…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-15/trump-s-ai-defense-defies-voter-unease-heading-into-midterms",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 08:19",
-   "title": "Court Rejects Trump Mail Ballot Curbs, AI Worries Hit Chipmakers",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-15/court-rejects-trump-mail-ballot-curbs-ai-worries-hit-chipmakers",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.6
+   "heat": 287.1
   },
   {
    "cat": "sector",
@@ -139,7 +27,119 @@
      "t": "sec"
     }
    ],
-   "heat": 263.5
+   "heat": 286.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-15 05:32",
+   "title": "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
+   "summary": "President Trump has been using his social media site to sound off on Anthropic CEO Dario Amodei's suggestion that the AI industry slow its pace of development.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 286.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-15 15:55",
+   "title": "AI Slowdown Calls Won’t Halt Fundraising, AllianceBernstein Says",
+   "summary": "Calls for a slowdown in artificial intelligence development won’t stop major technology companies from pressing ahead with fundraising and capital spending, according to AllianceBe…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-15/ai-slowdown-calls-won-t-halt-fundraising-alliancebernstein-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-15 15:45",
+   "title": "Trump Dismisses AI Fears, UK Surprise Jobs Fall, More",
+   "summary": "Source: Bloomberg, 6:33",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-15/trump-dismisses-ai-fears-uk-surprise-jobs-fall-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-15 15:31",
+   "title": "Singapore’s Air Quality Reaches Worst Since 2019",
+   "summary": "Singapore is shrouded in haze, with smoke from wildfires in neighboring Indonesia raising islandwide pollution to levels that pose a health risk. Gabrielle Ng has more. (Source: Bl…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-15/singapore-s-air-quality-reaches-worst-since-2019-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-15 15:05",
+   "title": "U.S. seeks to seize $61 million of crypto it claims are proceeds from Iranian petroleum sales to Chinese buyers",
+   "summary": "Two Chinese companies, are alleged to have used trading accounts in Binance to launder the illicit proceeds and funnel the funds to Tehran or its proxies.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/15/us-attorney-crypto-tether-iran-china-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-15 14:54",
+   "title": "AI Chip Darling Biren Said to Mull $1 Billion Share Sale",
+   "summary": "Shanghai Biren Technology Co. is weighing another share sale to help finance its artificial intelligence ambitions, according to people familiar with the situation.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-ai-chip-darling-biren-said-to-mull-1-billion-share-sale",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-15 14:31",
+   "title": "Innovation or Guardrails? The Debate Over AI's Future Heats Up",
+   "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-15/insight-with-haslinda-amin-9-15-2026-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-15 14:31",
+   "title": "Axa to Focus on Organic Growth, CEO Buberl Says",
+   "summary": "Axa Chief Executive Officer Thomas Buberl says the insurer will prioritize efficiency and shareholder returns over acquisitions after raising its profitability and growth targets f…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-15/axa-to-focus-on-organic-growth-ceo-buberl-says-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.7
   }
  ]
 }

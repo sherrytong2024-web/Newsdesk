@@ -1,19 +1,19 @@
 {
- "updated": "2026-09-15 10:43",
+ "updated": "2026-09-15 16:15",
  "items": [
   {
    "cat": "macro",
-   "time": "2026-09-15 07:08",
-   "title": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
-   "summary": "The 10-year U.S. Treasury note yield moved lower after reaching a multiyear high on Monday ahead of this week's Federal Reserve interest rate decision.",
+   "time": "2026-09-15 16:09",
+   "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
+   "summary": "The sell-off in U.S. government debt is deepening as investors increasingly price in an interest rate hike this week.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+     "u": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
      "t": "sec"
     }
    ],
-   "heat": 115.4
+   "heat": 124.0
   },
   {
    "cat": "macro",
@@ -27,49 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 112.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-14 22:29",
-   "title": "US 10-Year Breaches 5% as Inflation, Supply Worries Mount",
-   "summary": "The US 10-year Treasury yield surpassed 5% for the first time since 2023 on Monday, as mounting inflation angst collided with swelling government and corporate borrowing needs.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-14/us-10-year-yield-breaches-5-as-inflation-supply-worries-mount",
-     "t": "sec"
-    }
-   ],
-   "heat": 102.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-15 10:27",
-   "title": "Stock futures are little changed as traders eye rising oil prices and rates: Live updates",
-   "summary": "The major averages closed lower on Monday as higher bond yields and oil prices kept the market under pressure.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/14/stock-market-today-live-updates.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 100.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-15 06:19",
-   "title": "Oil Gains, Asian Bonds Fall on Inflation Concerns: Markets Wrap",
-   "summary": "Crude oil extended its rally and Asian bonds tracked Treasuries lower as higher energy prices fueled inflation concerns and strengthened bets on a Federal Reserve interest-rate hik…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap",
-     "t": "sec"
-    }
-   ],
-   "heat": 99.3
+   "heat": 119.8
   },
   {
    "cat": "macro",
@@ -83,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.5
+   "heat": 94.6
   },
   {
    "cat": "macro",
@@ -97,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.8
+   "heat": 93.9
   },
   {
    "cat": "macro",
@@ -111,35 +69,77 @@
      "t": "sec"
     }
    ],
-   "heat": 90.8
+   "heat": 93.9
   },
   {
    "cat": "macro",
-   "time": "2026-09-11 14:51",
-   "title": "CPI Preview: The Fed’s 0.3% Rate Hike Trigger for Inflation",
+   "time": "2026-09-15 14:18",
+   "title": "Gold Is Pricing More Than a Rate Decision, It’s Pricing Fed Independence Doubt",
    "summary": "",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/cpi-preview-the-feds-03-rate-hike-trigger-for-inflation-200687490",
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-is-pricing-more-than-a-rate-decision-its-pricing-fed-independence-doubt-200687664",
      "t": "agg"
     }
    ],
-   "heat": 90.0
+   "heat": 93.7
   },
   {
    "cat": "macro",
-   "time": "2026-09-15 06:57",
-   "title": "DOJ Says Millions in Iran Oil Proceeds Laundered on Binance",
-   "summary": "The US Justice Department is seeking forfeiture of $61 million it says was generated from Iranian black-market oil sales and laundered through the cryptocurrency exchange Binance.",
+   "time": "2026-09-15 13:07",
+   "title": "Ten-Year Treasury Yield Rises to Highest Since 2007 as Fed Looms",
+   "summary": "The 10-year US Treasury yield rose to the highest in almost two decades, the latest milestone in a bruising global bond selloff driven by surging energy prices, mounting debt and i…",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-14/doj-says-millions-in-iranian-oil-proceeds-laundered-on-binance",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-15/us-10-year-treasury-yields-rise-to-highest-level-since-2007",
      "t": "sec"
     }
    ],
-   "heat": 75.4
+   "heat": 79.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-15 16:03",
+   "title": "UK Payrolls Drop More Than Expected",
+   "summary": "Britain’s employers shed workers at the fastest rate in nine months, with the number of employees on company payrolls slipping 26,000 in August, according to the Office for Nationa…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-15/uk-payrolls-drop-more-than-expected-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 76.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-15 15:19",
+   "title": "UK Labour Market Downturn Accelerates Ahead of BOE Decision, Burnham’s Budget",
+   "summary": "UK’s jobs market continues to weaken; GSK’s latest oncology deal",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-15/uk-labour-market-downturn-accelerates-ahead-of-boe-decision-burnham-s-budget",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-15 14:31",
+   "title": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
+   "summary": "The department revealed that the Iran war had cost an estimated $33.4 billion as of June 29.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.7
   },
   {
    "cat": "macro",
@@ -153,7 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.9
+   "heat": 74.0
   },
   {
    "cat": "macro",
@@ -167,7 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.5
+   "heat": 73.6
   },
   {
    "cat": "macro",
@@ -181,21 +181,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-14 23:48",
-   "title": "Getty Museums Seek to Raise $270 Million, Leave Rate Swaps on Ice",
-   "summary": "One of California’s most prominent art institutions, the Getty, plans to issue $270 million in tax-exempt bonds this week to refinance its debt and extend the suspension of interes…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-14/getty-museums-seek-to-raise-270-million-leave-rate-swaps-on-ice",
-     "t": "sec"
-    }
-   ],
-   "heat": 74.2
+   "heat": 73.5
   },
   {
    "cat": "macro",
@@ -209,133 +195,35 @@
      "t": "sec"
     }
    ],
-   "heat": 73.7
+   "heat": 72.8
   },
   {
-   "cat": "sector",
-   "time": "2026-09-15 10:12",
-   "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
-   "summary": "China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.",
+   "cat": "macro",
+   "time": "2026-09-15 08:08",
+   "title": "Rio Tinto sets currency exchange rates for interim dividend",
+   "summary": "",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/company-news/rio-tinto-sets-currency-exchange-rates-for-interim-dividend-93CH-4900935",
+     "t": "agg"
     }
    ],
-   "heat": 263.9
+   "heat": 72.6
   },
   {
    "cat": "sector",
-   "time": "2026-09-15 10:06",
-   "title": "Court Blocks Mail Ballot Curbs, Investors Weigh AI Worries, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-15/court-blocks-mail-ballot-curbs-investors-weigh-ai-worries-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 09:55",
-   "title": "Oil extends gains following Houthi strikes on Saudi Arabia",
-   "summary": "Oil extended gains amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 09:13",
-   "title": "Court Blocks Trump Mail Ballot Curbs, AI Slowdown Concerns, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-15/court-blocks-trump-mail-ballot-curbs-ai-slowdown-concerns-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 08:54",
-   "title": "Trump Opposes AI Guardrails Amid Chip Selloff",
-   "summary": "Bloomberg's Shery Ahn and Haidi Stroud-Watts break down how President Donald Trump's rejection of artificial intelligence safety guardrails coincides with a sharp selloff across se…",
+   "time": "2026-09-15 10:49",
+   "title": "Trump, China Push Back on Calls to Slow AI",
+   "summary": "Nvidia Chief Executive Officer Jensen Huang took a live phone call from Donald Trump during a panel discussion, where Trump dismissed artificial intelligence dangers as a “hoax.” M…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-15/trump-opposes-ai-guardrails-amid-chip-selloff-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-15/trump-china-push-back-on-calls-to-slow-ai-video",
      "t": "sec"
     }
    ],
-   "heat": 263.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 08:52",
-   "title": "ANZ CEO Warns of AI Risks, Job Cuts After Musk, Altman Alert",
-   "summary": "ANZ Group Holdings Ltd. Chief Executive Officer Nuno Matos warned about unpredictable risks linked to artificial intelligence and declined to rule out large-scale job cuts at the b…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-15/anz-ceo-warns-of-ai-risks-and-job-cuts-after-musk-altman-alert",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 08:48",
-   "title": "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule",
-   "summary": "Justice Brett Kavanaugh said that applying the U.S. Postal Service rule in the 2026 midterm elections \"would be arbitrary and capricious.\"",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 08:23",
-   "title": "Trump’s AI Defense Defies Voter Unease Heading Into Midterms",
-   "summary": "President Donald Trump’s opposition to guardrails on artificial intelligence puts him at odds with a growing number of lawmakers from both parties, with AI safety fears adding to v…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-15/trump-s-ai-defense-defies-voter-unease-heading-into-midterms",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 08:19",
-   "title": "Court Rejects Trump Mail Ballot Curbs, AI Worries Hit Chipmakers",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-15/court-rejects-trump-mail-ballot-curbs-ai-worries-hit-chipmakers",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.6
+   "heat": 287.1
   },
   {
    "cat": "sector",
@@ -349,105 +237,189 @@
      "t": "sec"
     }
    ],
-   "heat": 263.5
+   "heat": 286.5
   },
   {
    "cat": "sector",
-   "time": "2026-09-15 07:22",
-   "title": "AI Labs Should Make Safe Tech Without Antitrust Help, David Sacks Says",
-   "summary": "Top artificial intelligence companies Anthropic PBC and OpenAI should make safe products — and pace their own progress if necessary — without government intervention, David Sacks, …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-14/ai-labs-should-make-safe-tech-without-antitrust-help-david-sacks-says",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-15 06:43",
-   "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
-   "summary": "Broadcom CEO Hock Tan said demand for AI infrastructure remains strong despite growing concerns about increasingly powerful models.",
+   "time": "2026-09-15 05:32",
+   "title": "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
+   "summary": "President Trump has been using his social media site to sound off on Anthropic CEO Dario Amodei's suggestion that the AI industry slow its pace of development.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
+     "u": "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
      "t": "sec"
     }
    ],
-   "heat": 263.3
+   "heat": 286.2
   },
   {
    "cat": "sector",
-   "time": "2026-09-15 06:18",
-   "title": "AI Worries Hit Chipmakers, Trump Downplays AI Guardrails, More",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-09-15 15:55",
+   "title": "AI Slowdown Calls Won’t Halt Fundraising, AllianceBernstein Says",
+   "summary": "Calls for a slowdown in artificial intelligence development won’t stop major technology companies from pressing ahead with fundraising and capital spending, according to AllianceBe…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-15/ai-slowdown-calls-won-t-halt-fundraising-alliancebernstein-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-15 15:45",
+   "title": "Trump Dismisses AI Fears, UK Surprise Jobs Fall, More",
+   "summary": "Source: Bloomberg, 6:33",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-14/ai-worries-hit-chipmakers-trump-downplays-ai-guardrails-more",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-15/trump-dismisses-ai-fears-uk-surprise-jobs-fall-more",
      "t": "sec"
     }
    ],
-   "heat": 263.3
+   "heat": 283.9
   },
   {
-   "cat": "stock",
-   "time": "2026-09-15 09:39",
-   "title": "Landmark NSE IPO Threatens to Hollow Out India Shadow Market",
-   "summary": "The landmark listing of National Stock Exchange of India Ltd. is set to deliver a major boost to the country’s primary market, but it will be a significant blow to the booming trad…",
+   "cat": "sector",
+   "time": "2026-09-15 15:31",
+   "title": "Singapore’s Air Quality Reaches Worst Since 2019",
+   "summary": "Singapore is shrouded in haze, with smoke from wildfires in neighboring Indonesia raising islandwide pollution to levels that pose a health risk. Gabrielle Ng has more. (Source: Bl…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-15/landmark-nse-ipo-threatens-to-hollow-out-india-shadow-market",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-15/singapore-s-air-quality-reaches-worst-since-2019-video",
      "t": "sec"
     }
    ],
-   "heat": 103.8
+   "heat": 283.9
   },
   {
-   "cat": "stock",
-   "time": "2026-09-15 10:03",
-   "title": "Copper Holds Near $14,000 as New Deliveries Signal Supply Relief",
-   "summary": "Copper steadied after declining to near $14,000 a ton as fresh deliveries of stockpiles to exchange-tracked warehouses signaled an easing of a supply squeeze.",
+   "cat": "sector",
+   "time": "2026-09-15 15:05",
+   "title": "U.S. seeks to seize $61 million of crypto it claims are proceeds from Iranian petroleum sales to Chinese buyers",
+   "summary": "Two Chinese companies, are alleged to have used trading accounts in Binance to launder the illicit proceeds and funnel the funds to Tehran or its proxies.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/15/us-attorney-crypto-tether-iran-china-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-15 14:54",
+   "title": "AI Chip Darling Biren Said to Mull $1 Billion Share Sale",
+   "summary": "Shanghai Biren Technology Co. is weighing another share sale to help finance its artificial intelligence ambitions, according to people familiar with the situation.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-ai-chip-darling-biren-said-to-mull-1-billion-share-sale",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-15 14:31",
+   "title": "Innovation or Guardrails? The Debate Over AI's Future Heats Up",
+   "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show …",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-15/copper-holds-near-14-000-as-new-deliveries-signal-supply-relief",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-15/insight-with-haslinda-amin-9-15-2026-video",
      "t": "sec"
     }
    ],
-   "heat": 95.9
+   "heat": 283.7
   },
   {
-   "cat": "stock",
-   "time": "2026-09-15 09:33",
-   "title": "Volatility Surges in First After-Hours Session on Korea Exchange",
-   "summary": "The first after-hours session on South Korea’s main stock exchange saw erratic and retail-dominated trading, in a sign of the challenges ahead as it seeks to attract more global in…",
+   "cat": "sector",
+   "time": "2026-09-15 14:31",
+   "title": "Axa to Focus on Organic Growth, CEO Buberl Says",
+   "summary": "Axa Chief Executive Officer Thomas Buberl says the insurer will prioritize efficiency and shareholder returns over acquisitions after raising its profitability and growth targets f…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-15/volatility-surges-in-first-after-hours-session-on-korea-exchange",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-15/axa-to-focus-on-organic-growth-ceo-buberl-says-video",
      "t": "sec"
     }
    ],
-   "heat": 95.8
+   "heat": 283.7
   },
   {
-   "cat": "stock",
-   "time": "2026-09-15 09:00",
-   "title": "Bourses and Brokers May Win From India’s Proposed Auction Revamp",
-   "summary": "Stock exchanges and brokers may be among the biggest beneficiaries of the Securities and Exchange Board of India’s proposed changes to the newly launched closing auction system tha…",
+   "cat": "sector",
+   "time": "2026-09-15 14:30",
+   "title": "Saudi Pipeline Stays Offline; Trump Clashes With AI Bosses",
+   "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-15/bourses-and-brokers-may-win-from-india-s-proposed-auction-revamp",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-15/horizons-middle-east-africa-9-15-2026-video",
      "t": "sec"
     }
    ],
-   "heat": 95.7
+   "heat": 283.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-15 14:25",
+   "title": "Trump Dismisses AI Risks as Safety Warnings Mount",
+   "summary": "Get caught up.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-15/trump-dismisses-ai-risks-as-safety-warnings-mount",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-15 13:41",
+   "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+   "summary": "China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-15 08:31",
+   "title": "Indian Tech Stocks Rally as AI Restraint Debate Boosts Outlook",
+   "summary": "Shares of India’s technology services companies rallied on bets that calls to slow the pace of artificial intelligence development will offer a reprieve for the beaten-down sector,…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-15/ai-restraint-debate-lifts-outlook-for-india-tech-services-stocks",
+     "t": "sec"
+    }
+   ],
+   "heat": 94.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-15 14:12",
+   "title": "Stock Movers: Tencent, BHP, Infosys (Podcast)",
+   "summary": "Source: Bloomberg, 5:15",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-15/stock-movers-tencent-bhp-infosys-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 79.7
   },
   {
    "cat": "stock",
@@ -461,49 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-15 08:31",
-   "title": "AI Restraint Debate Boosts Outlook for Indian Tech Stocks",
-   "summary": "Calls to slow the pace of artificial intelligence development may offer a reprieve for India’s beaten-down technology services stocks, among the earliest casualties of the AI boom.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-15/ai-restraint-debate-lifts-outlook-for-india-tech-services-stocks",
-     "t": "sec"
-    }
-   ],
-   "heat": 95.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-15 07:06",
-   "title": "Calls for AI Slowdown Hits Stocks, Trump Downplays Concerns",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-14/calls-for-ai-slowdown-hits-stocks-trump-downplays-concerns",
-     "t": "sec"
-    }
-   ],
-   "heat": 95.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-15 06:17",
-   "title": "Texas Capital CEO on Moving to the Texas Stock Exchange",
-   "summary": "Texas Capital is switching its primary stock listing to the Texas Stock Exchange, joining Energy Transfer and other companies that plan to move starting in early October. In the se…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-14/texas-capital-ceo-on-moving-to-the-texas-stock-exchange-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 95.3
+   "heat": 78.8
   },
   {
    "cat": "stock",
@@ -517,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.1
+   "heat": 78.2
   },
   {
    "cat": "stock",
@@ -531,7 +461,49 @@
      "t": "sec"
     }
    ],
-   "heat": 94.2
+   "heat": 77.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-14 20:37",
+   "title": "Stock Market Today: Dow, S&P 500, Nasdaq Futures Fall After OpenAI, Anthropic’s Appeals Rattle AI Trade - Benzinga",
+   "summary": "Stock Market Today: Dow, S&P 500, Nasdaq Futures Fall After OpenAI, Anthropic’s Appeals Rattle AI Trade &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajc4QXo4bXNBSUZlTk5PSVZ0U0MwVUszTmd6SlBLVjBnMm9vaDZrbGtHcFVEa1k1S2xwSXBsNXA1OE1Ud1RhM0o4T0tmRWZNSFVCWUFzdlhadWU0TGprWXRoQ3B3S1YyekQzMXNEam82WDZYZlpEdEVMdmlOMFFFaXBOZUZPVTIyZEFDU3k5NnJoaGRWbEFpNXladWN1Mk1QOUNTODlyOHI2QTFlajlv?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 76.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-15 08:08",
+   "title": "Deutsche Bank upgrades AstraZeneca stock rating to hold on trial results",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/analyst-ratings/deutsche-bank-upgrades-astrazeneca-stock-rating-to-hold-on-trial-results-93CH-4900936",
+     "t": "agg"
+    }
+   ],
+   "heat": 76.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-15 08:07",
+   "title": "Why is Puig Brands stock sliding today?",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/why-is-puig-brands-stock-sliding-today-93CH-4900934",
+     "t": "agg"
+    }
+   ],
+   "heat": 76.6
   },
   {
    "cat": "stock",
@@ -545,41 +517,13 @@
      "t": "sec"
     }
    ],
-   "heat": 93.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-15 02:15",
-   "title": "VirnetX CEO Kendall Larsen sells $232,292 in common stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/virnetx-ceo-kendall-larsen-sells-232292-in-common-stock-93CH-4900737",
-     "t": "agg"
-    }
-   ],
-   "heat": 92.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-15 02:01",
-   "title": "Shoulder innovations CEO Robert Ball sells $187,706 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/shoulder-innovations-ceo-robert-ball-sells-187706-in-stock-93CH-4900731",
-     "t": "agg"
-    }
-   ],
-   "heat": 92.5
+   "heat": 76.4
   },
   {
    "cat": "stock",
    "time": "2026-09-14 06:06",
-   "title": "Stocks are in a late-stage bubble and poised to crash 21% next year, analyst says - Fortune",
-   "summary": "Stocks are in a late-stage bubble and poised to crash 21% next year, analyst says &nbsp;&nbsp; Fortune",
+   "title": "Stocks are in a late-stage bubble and poised to crash 21% next year, analyst says - fortune.com",
+   "summary": "Stocks are in a late-stage bubble and poised to crash 21% next year, analyst says &nbsp;&nbsp; fortune.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -587,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.2
+   "heat": 74.3
   },
   {
    "cat": "stock",
@@ -601,133 +545,259 @@
      "t": "sec"
     }
    ],
-   "heat": 88.0
+   "heat": 72.0
   },
   {
-   "cat": "global",
-   "time": "2026-09-15 09:12",
-   "title": "Canadian Dollar consolidates near 1.3900 as oil gains offset bullish USD ahead of Fed",
-   "summary": "The USD/CAD pair holds steady near the 1.3900 mark during the Asian session on Tuesday, stalling the previous day's modest pullback from a nearly two-week top.",
+   "cat": "stock",
+   "time": "2026-09-12 05:36",
+   "title": "5 Best Industrial Stocks for 2026 and How to Invest - The Motley Fool",
+   "summary": "5 Best Industrial Stocks for 2026 and How to Invest &nbsp;&nbsp; The Motley Fool",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/canadian-dollar-consolidates-near-13900-as-oil-gains-offset-bullish-usd-ahead-of-fed-202609150112",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KVXRIWmEwZkFkXy0xdzJXbXZPTkFIcndjWGZxbEx4bVlNUVF2bWZIaVp1cThOOFdOYlAzdTdOa2VDV29nMGdiOHRGVXMxcGtHYW5ISVo1WVI4MUs2TUtRNGVXZlJQUmJRU3RzRFVzVngyOV9Gd3JJeGVaVQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 75.7
+   "heat": 72.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-11 20:48",
+   "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Gains as August CPI Meets Expectations at 0.4% MoM and 3.4% Y",
+   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Gains as August CPI Meets Expectations at 0.4% MoM and 3.4% YoY — ORCL, ADBE, RH in Focus (UPDATED) &nbsp;&nbsp; TradingV…",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNQVdCNTZmT3R4bV9QNmRLS0wwRHJiUVJPZGpxU1lOMjVIcmU2bklJRU9TWUxvR1BuOUNaNXp3a05Mei1NTm5yMmE5OUtqV0hiWW5laUZudFZYRkJCWnJINVBLOGstaktLSGdmX25DRUNMZlNQZTc1UlV5emRLX2RQQ1B3Z3FSa1RkX1NPdXdkb3dfcGlwVlJ3Tk82RmNRakxXX0FUckh0dlQ0MjVvR0RUTW45MjJld0paakYwUG1EbHNiSmRQZVN4T2ROUUM4MktVbmpScW8tb3U4cUJUN1VyV0lIWG04Tjl0RUxHWkg4dGYtRXBPaFI0ZjU2UVRjU0o4OHRUQUMwVTFvTkpNem1TQ3l2eUVfTGN3TDlVbF84cURXMmNvVjF4ajRvMVcwZm8?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 72.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-10 03:32",
+   "title": "Midterm mindset seeping into the U.S. stock market - RBC Wealth Management",
+   "summary": "Midterm mindset seeping into the U.S. stock market &nbsp;&nbsp; RBC Wealth Management",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0h1WkxZMnE4bGNQLWkyUHJEMmFCdVNwM2liRVo3RTBsR3ZpdFFhS21xMktPVXpreTdEVWJNQkV6SGdMYzVPQjlyeVNoN1dibkwwN0lELUtnOHRfTW44aEpwNE14Smlhc2hrNC1JT21CX2g4OVMzeTVDblFBVUhKYWs1S1JYRUFVV2R5OE1hX0JaTHZ3Tng0WFdRUW8xemhO?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 72.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-10 03:21",
+   "title": "S&P 500 Index(.SPX) Stock Price Today | Quotes & News - Moomoo",
+   "summary": "S&P 500 Index(.SPX) Stock Price Today | Quotes & News &nbsp;&nbsp; Moomoo",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQTFF6cFd5cXpYZHFXZHpzYl9TQVprdE9UbFpCNW55MGZVeXp4MEttajVEVnMxOVNDY1dRTS1qdHBaXzJYRzgyMkhCdW5xM3pfZ0JkeW9GcXNkaDNMeUN3Q3ZpbUQ2Qk5nQV9QOVpIcFBUNHlrTnl6Ry1ReFNBdW1VYTJGMDZLRm5zeGVaTzlBclo2dXBhLWV6eUpEdUZnUHpqMmlwWDkwUUs1bUhUZzU2cjd5b21UVEJfRUpKcFBMM3VTeXZjQ2t1aWRPZ2REd3JrV1hDWVc4NEwzb1FOQ3hDdjdxUWx1YWwxc0psTXB6TXA5cEhLckJoVlZOekRlcDVsN1ZtbXpaRVIxaVJfVmRPTXRIN1dUSGZWU0R4N1dzQXZfdUVsa1hwU0t3RFZxMVliUEJSaw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 72.0
   },
   {
    "cat": "global",
-   "time": "2026-09-14 22:19",
-   "title": "Gold Tests Critical Thresholds as Oil Uncertainty and Rate Hike Risks Mount",
-   "summary": "",
+   "time": "2026-09-15 16:08",
+   "title": "Australian Dollar hangs near three-week low, above 0.7100 as USD stands firm ahead of Fed",
+   "summary": "The AUD/USD pair sticks to a negative bias for the second consecutive day and trades around the 0.7120 region during the early part of the European session on Tuesday.",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-tests-critical-thresholds-as-oil-uncertainty-and-rate-hike-risks-mount-200687635",
-     "t": "agg"
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/australian-dollar-hangs-near-three-week-low-above-07100-as-usd-stands-firm-ahead-of-fed-202609150808",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-15 15:49",
+   "title": "Euro declines against Canadian Dollar despite ECB rate hike hopes",
+   "summary": "EUR/CAD extends its losses for the second successive day, trading around 1.6040 during European hours on Tuesday. The currency cross depreciates as the commodity-linked Canadian Do…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/euro-declines-against-canadian-dollar-despite-ecb-rate-hike-hopes-202609150749",
+     "t": "sec"
     }
    ],
    "heat": 59.9
   },
   {
    "cat": "global",
-   "time": "2026-09-15 10:40",
-   "title": "United States Dollar Index strengthens above 99.50 as Fed rate hike bets rise",
-   "summary": "The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 99.60 in the Asian trading hours on…",
+   "time": "2026-09-15 15:37",
+   "title": "Euro: 1.150 target in focus against US Dollar – ING",
+   "summary": "ING’s Francesco Pesole says EUR/USD is trading close to its short-term fair value, while expectations for improving German ZEW data and the lingering impact of last week’s hawkish …",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-above-9950-as-fed-rate-hike-bets-rise-202609150240",
+     "u": "https://www.fxstreet.com/news/euro-1150-target-in-focus-against-us-dollar-ing-202609150737",
      "t": "sec"
     }
    ],
-   "heat": 44.0
+   "heat": 59.9
   },
   {
    "cat": "global",
-   "time": "2026-09-15 10:36",
-   "title": "New Zealand Dollar remains subdued following release of China’s economic data",
-   "summary": "NZD/USD extends its losses for the second successive day, trading around 0.5760 during Asian hours on Tuesday. The pair remains as the New Zealand Dollar (NZD) holds losses followi…",
+   "time": "2026-09-15 15:10",
+   "title": "Gold: Fed risk keeps bullion vulnerable – ING",
+   "summary": "ING strategists Warren Patterson and Ewa Manthey say Gold has slipped as higher Oil prices stoke inflation concerns and reinforce expectations of a potential Federal Reserve rate h…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/new-zealand-dollar-remains-subdued-following-release-of-chinas-economic-data-202609150236",
+     "u": "https://www.fxstreet.com/news/gold-fed-risk-keeps-bullion-vulnerable-ing-202609150710",
      "t": "sec"
     }
    ],
-   "heat": 44.0
+   "heat": 59.8
   },
   {
    "cat": "global",
-   "time": "2026-09-15 10:27",
-   "title": "Australian Dollar remains depressed below mid-0.7100s vs bullish USD after Chinese data",
-   "summary": "The AUD/USD pair struggles to capitalize on the previous day's modest bounce from the 0.7100 neighborhood, or an over three-week low, and trades with a negative bias for the second…",
+   "time": "2026-09-15 14:52",
+   "title": "British Pound: Fragile labour market clouds BoE hikes - Commerzbank",
+   "summary": "Commerzbank’s Michael Pfister argues that rising Oil prices have sharply lifted UK rate expectations, with markets now discounting four Bank of England hikes by mid-2027 versus jus…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/australian-dollar-remains-depressed-below-mid-07100s-vs-bullish-usd-after-chinese-data-202609150227",
+     "u": "https://www.fxstreet.com/news/british-pound-fragile-labour-market-clouds-boe-hikes-commerzbank-202609150652",
      "t": "sec"
     }
    ],
-   "heat": 44.0
+   "heat": 55.8
   },
   {
    "cat": "global",
-   "time": "2026-09-15 09:05",
-   "title": "WTI rises above $98.50 amid Middle East supply fears",
-   "summary": "West Texas Intermediate (WTI) oil price extends its gains for the second successive day, trading around $98.60 per barrel during the Asian hours on Tuesday. Crude oil prices apprec…",
+   "time": "2026-09-15 08:06",
+   "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
+   "summary": "",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/wti-rises-above-9850-amid-middle-east-supply-fears-202609150105",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
+     "t": "agg"
     }
    ],
-   "heat": 43.7
+   "heat": 52.6
   },
   {
    "cat": "global",
-   "time": "2026-09-15 08:41",
-   "title": "Japanese Yen weakens as Fed rate hike looms",
-   "summary": "The USD/JPY pair gains ground to near 154.55 during the early Asian session on Tuesday. The US Dollar (USD) strengthens against the Japanese Yen (JPY) as traders ramp up their bets…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/japanese-yen-weakens-as-fed-rate-hike-looms-202609150041",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-15 06:46",
-   "title": "Australian Dollar gets caught between AI selloff and 5% US yields",
-   "summary": "The Aussie Dollar registered losses of over 0.73% on Monday as sentiment soured due to a fall in technology shares, along with heightened tensions in the Middle East, high energy p…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/australian-dollar-gets-caught-between-ai-selloff-and-5-us-yields-202609142246",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-15 06:04",
-   "title": "Latest Oil Market News and Analysis for Sept. 15",
-   "summary": "Oil rose for a second day as traders weighed risks to Middle East supplies, with a critical Saudi Arabian pipeline still offline.",
+   "time": "2026-09-15 06:19",
+   "title": "Stocks Fall as Oil Rally Deepens Bond Selloff: Markets Wrap",
+   "summary": "Stocks fell as elevated oil prices added to pressure on Treasuries, pushing the 10-year yield to levels last seen 19 years ago and keeping risk appetite firmly in check.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-14/latest-oil-market-news-and-analysis-for-sept-15",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap",
      "t": "sec"
     }
    ],
-   "heat": 43.2
+   "heat": 50.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-15 16:01",
+   "title": "USD/JPY Price Forecast: Resistance at 155.20 likely to test bulls",
+   "summary": "The Japanese Yen (JPY) is showing a moderately softer tone against the US Dollar (USD) this week, with all eyes on the monetary policy decisions bu¡y the US Federal Reserve (Fed) a…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/usd-jpy-price-forecast-resistance-at-15520-likely-to-test-bulls-202609150801",
+     "t": "sec"
+    }
+   ],
+   "heat": 48.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-15 15:50",
+   "title": "US Dollar: Rising yields support risk-off tone – MUFG",
+   "summary": "MUFG’s Lee Hardman notes the US Dollar (USD) has strengthened ahead of the FOMC meeting as Fed tightening expectations are repriced higher. The US Dollar Index (DXY) has recovered …",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/us-dollar-rising-yields-support-risk-off-tone-mufg-202609150750",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-15 15:25",
+   "title": "Oil: Supply risks and structural tightness – Rabobank",
+   "summary": "Rabobank’s Senior Market Strategist Benjamin Picton highlights rising Oil market stress as geopolitical risks escalate. He notes higher crude prices, widening Brent spreads and con…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/oil-supply-risks-and-structural-tightness-rabobank-202609150725",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-15 15:22",
+   "title": "BofA Sees Chance of $150 Oil on Critical Infrastructure Risk",
+   "summary": "Francisco Blanch, commodities and derivatives research head at BofA Securities, says Brent oil prices could climb as high as $150 a barrel if critical infrastructure, like Saudi Ar…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-15/bofa-sees-chance-of-150-oil-on-critical-infrastructure-risk",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-15 15:22",
+   "title": "Oil extends gains, Brent crude nears $108 following Houthi strikes on Saudi Arabia",
+   "summary": "Oil extended gains amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-15 13:30",
+   "title": "Indian Rupee plunges again as US Treasury Yields hit 5%",
+   "summary": "The Indian Rupee (INR) extends its previous week’s downfall against the US Dollar (USD) on Tuesday, with the USD/INR rising above 95.90 in the opening session.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/indian-rupee-declines-further-as-us-treasury-yields-extend-rally-202609150530",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.5
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-15 13:44",
+   "title": "WTI Crude Oil: Breakout or Reversal?",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/wti-crude-oil-breakout-or-reversal-200687661",
+     "t": "agg"
+    }
+   ],
+   "heat": 45.6
   },
   {
    "cat": "global",
@@ -741,77 +811,35 @@
      "t": "sec"
     }
    ],
-   "heat": 42.4
+   "heat": 45.5
   },
   {
-   "cat": "global",
-   "time": "2026-09-14 23:56",
-   "title": "Oil Stronger on Saudi Pipeline Shutdown",
-   "summary": "",
+   "cat": "crypto",
+   "time": "2026-09-15 13:39",
+   "title": "Here’s what happened in crypto today",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-stronger-on-saudi-pipeline-shutdown-200687641",
-     "t": "agg"
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
     }
    ],
-   "heat": 40.2
+   "heat": 71.6
   },
   {
-   "cat": "global",
-   "time": "2026-09-14 23:48",
-   "title": "US Dollar’s Turn to Get a Monetary Policy Lift",
-   "summary": "",
+   "cat": "crypto",
+   "time": "2026-09-15 14:37",
+   "title": "Live updates: Bitcoin slides from nearly $80,000 as Senate votes on Clarity Act",
+   "summary": "Senators take a procedural vote on the crypto market structure bill later Tuesday. Bitcoin has given back 3% since touching $79,530 overnight, with XRP and zcash the only majors ga…",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollars-turn-to-get-a-monetary-policy-lift-200687640",
-     "t": "agg"
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
+     "t": "sec"
     }
    ],
-   "heat": 40.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-14 22:05",
-   "title": "Oil Traders Turn Bullish as US Fuel Supply Squeeze Deepens",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-traders-turn-bullish-as-us-fuel-supply-squeeze-deepens-200687634",
-     "t": "agg"
-    }
-   ],
-   "heat": 39.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-14 21:34",
-   "title": "EUR/NZD and GBP/NZD Breakouts Highlight New Zealand Dollar Weakness",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/eurnzd-and-gbpnzd-breakouts-highlight-new-zealand-dollar-weakness-200687632",
-     "t": "agg"
-    }
-   ],
-   "heat": 39.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-14 20:26",
-   "title": "Oil Prices Rise Amid Middle East Supply Disruptions and Bleak Settlement Prospects",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-prices-rise-amid-middle-east-supply-disruptions-and-bleak-settlement-prospects-200687628",
-     "t": "agg"
-    }
-   ],
-   "heat": 39.6
+   "heat": 67.7
   },
   {
    "cat": "crypto",
@@ -825,35 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.7
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-15 04:41",
-   "title": "Here’s what happened in crypto today",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 71.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-15 02:34",
-   "title": "White House crypto adviser says Trump gave up 'historic' ethics powers in compromise",
-   "summary": "President Donald Trump's digital assets adviser spoke at a Washington event the day after a new compromise language was released for the Clarity Act.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
-     "t": "sec"
-    }
-   ],
-   "heat": 70.6
+   "heat": 62.8
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.5
+   "heat": 61.6
   },
   {
    "cat": "crypto",
@@ -881,21 +881,49 @@
      "t": "sec"
     }
    ],
-   "heat": 70.2
+   "heat": 61.3
   },
   {
    "cat": "crypto",
-   "time": "2026-09-15 01:51",
-   "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
-   "summary": "Eight banking groups on Monday said they want tighter limits on stablecoin rewards, keeping the ongoing banks-versus-crypto dispute alive in Congress.",
+   "time": "2026-09-15 13:12",
+   "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
+   "summary": "Prosecutors have filed a civil forfeiture complaint against what they call Iran's illegal crypto proceeds that are used to fund its military.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
+     "u": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
      "t": "sec"
     }
    ],
-   "heat": 62.5
+   "heat": 55.5
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-15 12:19",
+   "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
+   "summary": "CoinEx said falling trading volumes and liquidity, along with rising regulatory and compliance costs, had exceeded “reasonable boundaries,” with withdrawals remaining open until De…",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 55.3
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-15 11:27",
+   "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
+   "summary": "The House Ways and Means Committee published a crypto tax bill addressing de minimis transactions, staking and other issues for which the industry's clamored for policies.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
+     "t": "sec"
+    }
+   ],
+   "heat": 55.2
   },
   {
    "cat": "crypto",
@@ -909,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.5
+   "heat": 54.6
   },
   {
    "cat": "crypto",
@@ -923,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.5
+   "heat": 54.5
   },
   {
    "cat": "crypto",
@@ -937,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.3
+   "heat": 54.4
   },
   {
    "cat": "crypto",
@@ -951,77 +979,49 @@
      "t": "sec"
     }
    ],
-   "heat": 58.8
+   "heat": 53.8
   },
   {
    "cat": "crypto",
-   "time": "2026-09-14 23:57",
-   "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
-   "summary": "The state AGs said they were concerned the crypto legislation might restrict their ability to bring securities and commodities cases tied to online scams.",
+   "time": "2026-09-15 12:34",
+   "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
+   "summary": "Transaction V1 raises Solana’s limit to 4,096 bytes from 1,232, giving developers more room for multi-step trades, company-wallet approvals and privacy proofs.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
+     "u": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
      "t": "sec"
     }
    ],
-   "heat": 58.2
+   "heat": 27.4
   },
   {
    "cat": "crypto",
-   "time": "2026-09-14 23:10",
-   "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
-   "summary": "Kalshi and Polymarket bettors sharply raised the chances of U.S. crypto market structure legislation advancing, with Tuesday's Senate vote the next test.",
+   "time": "2026-09-15 11:23",
+   "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
+   "summary": "Bitcoin pulls back from $79,000 as the Senate prepares to vote on the Clarity Act and oil prices rise.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
+     "u": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
      "t": "sec"
     }
    ],
-   "heat": 58.1
+   "heat": 27.2
   },
   {
    "cat": "crypto",
-   "time": "2026-09-14 19:38",
-   "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
-   "summary": "Crypto wallet providers must submit an early vulnerability report within 24 hours and a full notification within 72 hours of exploits, or risk administrative fines of as much as $1…",
+   "time": "2026-09-15 02:56",
+   "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
+   "summary": "Bitcoin’s price rose toward $80,000 after US President Donald Trump hinted that the US-Iran war would end, pushing oil prices lower.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 57.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-15 09:32",
-   "title": "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
-   "summary": "Sen. Elizabeth Warren will call the latest Clarity Act ethics proposal blessed by Trump a \"weak fig leaf.\"",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/14/warren-clarity-act-senate-key-preliminary-vote.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 35.8
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-15 00:17",
-   "title": "S&P Global backs Kaiko as Series B reaches $110M",
-   "summary": "The investment brings together major financial institutions as Kaiko expands its data infrastructure for tokenized securities and onchain financial markets.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 34.3
+   "heat": 25.8
   },
   {
    "cat": "sector",
@@ -1035,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 256.0
+   "heat": 276.0
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 261.3
+   "heat": 280.4
   }
  ]
 }
