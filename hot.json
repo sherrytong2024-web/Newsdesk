@@ -1,6 +1,34 @@
 {
- "updated": "2026-09-16 20:13",
+ "updated": "2026-09-16 21:56",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-16 21:34",
+   "title": "Apple Is Developing Enterprise Server for AI Age, Report Says",
+   "summary": "Apple Inc. is working on an enterprise server using its own chips and has had discussions with Nvidia Corp. about using its networking equipment, the Information reported.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-16/apple-is-developing-enterprise-server-for-ai-age-report-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 21:42",
+   "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
+   "summary": "The deal could be a big win for Intel which has been looking to gain marquee customers for its manufacturing, or foundry, business.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 256.0
+  },
   {
    "cat": "sector",
    "time": "2026-09-16 19:02",
@@ -13,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.8
+   "heat": 255.5
   },
   {
    "cat": "sector",
@@ -27,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 250.3
+   "heat": 254.0
   },
   {
    "cat": "sector",
@@ -41,105 +69,77 @@
      "t": "sec"
     }
    ],
-   "heat": 249.6
+   "heat": 253.4
   },
   {
    "cat": "sector",
-   "time": "2026-09-16 20:06",
-   "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
-   "summary": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage.",
+   "time": "2026-09-16 21:33",
+   "title": "Novo Will Work With Anthropic AI to Speed Drug Development",
+   "summary": "Novo Nordisk A/S and Anthropic PBC will work together to speed up drug development using artificial intelligence, a key goal as Novo tries to catch up in the cutthroat obesity mark…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-16/novo-will-work-with-anthropic-ai-to-speed-drug-development",
      "t": "sec"
     }
    ],
-   "heat": 248.0
+   "heat": 251.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-16 19:55",
-   "title": "Gender Equality to Take 120 Years Even as Gap Narrows, WEF Says",
-   "summary": "WEF Managing Director Saadia Zahidi speaks to Francine Lacqua after their latest annual report on gender found that global gender parity remains more than a lifetime away for women…",
+   "time": "2026-09-16 21:30",
+   "title": "US Retail Sales Rise 1.2% in August After Dropping in July",
+   "summary": "US retail sales rose broadly in August showing that consumers are still spending despite higher gasoline prices. Twelve of 13 retail categories reported increases, boosted by back-…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-16/wef-says-gender-equality-to-take-120-years-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-16/us-retail-sales-rise-1-2-in-august-after-a-drop-in-july-video",
      "t": "sec"
     }
    ],
-   "heat": 247.9
+   "heat": 251.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-16 19:36",
-   "title": "AI Risk Debate Heats Up, EU Sees Deeper Partnership with Canada",
+   "time": "2026-09-16 21:16",
+   "title": "Your AI interviewer will see you now: How job seekers should navigate the 'jarring' new hiring technology",
+   "summary": "Employers are hoping that AI interviewers will streamline the hiring process. Some experts — and job seekers — aren't so sure.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/16/your-ai-interviewer-will-see-you-now-what-job-seekers-should-know-about-new-hiring-tech.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 21:00",
+   "title": "Next Africa: Kenya’s Court Decisions Are a Thorn in Ruto’s Side",
+   "summary": "President’s grand plans for $39 billion of new infrastucture are key to his campaign for a second term.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-16/next-africa-kenya-s-court-decisions-are-a-thorn-in-ruto-s-side",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 20:52",
+   "title": "AI Risks in Focus, Retail Sales Rebound, More",
    "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-16/ai-risk-debate-heats-up-eu-sees-deeper-partnership-with-canada",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-16/ai-risks-in-focus-retail-sales-rebound-more",
      "t": "sec"
     }
    ],
-   "heat": 247.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 19:36",
-   "title": "SK Hynix Says Exploring Options After Report of Intel Tie-Up",
-   "summary": "SK Hynix Inc. said that it’s exploring options to boost its global competitiveness after a report that it may team up with Intel Corp. to make semiconductors in the US.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/sk-hynix-says-exploring-options-after-report-of-intel-tie-up",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 19:31",
-   "title": "KKR Is Said to Be Preferred Bidder for Portugal’s Logoplaste",
-   "summary": "KKR &amp; Co. has emerged as the preferred bidder to buy Portuguese packaging maker Logoplaste, according to people familiar with the matter.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/kkr-is-said-to-be-preferred-bidder-for-portugal-s-logoplaste",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 19:15",
-   "title": "LNG Buyers Turn to US as Hormuz Crisis Forces Supply Rethink",
-   "summary": "American gas could plug a widening global supply gap, as long as it remains affordable.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-16/lng-buyers-turn-to-us-as-hormuz-crisis-forces-supply-rethink",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 19:00",
-   "title": "Nobel Laureate Michael Kremer Picked as World Bank Top Economist",
-   "summary": "The World Bank Group said that Nobel laureate Michael Kremer will serve as its new chief economist starting Oct. 1, heading research for the institution, according to a statement W…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/nobel-laureate-michael-kremer-picked-as-world-bank-top-economist",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.8
+   "heat": 251.8
   }
  ]
 }
