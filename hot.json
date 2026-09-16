@@ -1,85 +1,57 @@
 {
- "updated": "2026-09-16 21:56",
+ "updated": "2026-09-17 02:34",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-16 21:34",
-   "title": "Apple Is Developing Enterprise Server for AI Age, Report Says",
-   "summary": "Apple Inc. is working on an enterprise server using its own chips and has had discussions with Nvidia Corp. about using its networking equipment, the Information reported.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/apple-is-developing-enterprise-server-for-ai-age-report-says",
-     "t": "sec"
-    }
-   ],
-   "heat": 259.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 21:42",
-   "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
-   "summary": "The deal could be a big win for Intel which has been looking to gain marquee customers for its manufacturing, or foundry, business.",
+   "time": "2026-09-17 02:33",
+   "title": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
+   "summary": "American says a minority of its seats now accounts for half of its revenue.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
+     "u": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
      "t": "sec"
     }
    ],
-   "heat": 256.0
+   "heat": 252.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-16 19:02",
-   "title": "Nvidia’s Jensen Huang Touts Himself as an AI VC Role Model",
-   "summary": "The AI kingmaker also fancies himself a savvy venture capitalist",
+   "time": "2026-09-17 02:18",
+   "title": "AI Is 'Huge Factor' In Success of US Economy, Says Stephen Moore",
+   "summary": "Stephen Moore, former senior economic adviser to President Donald Trump said that the AI industry is a 'huge factor' in the US economy given both the investment pouring into the sp…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-16/nvidia-s-jensen-huang-touts-himself-as-an-ai-vc-role-model",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-16/ai-is-huge-factor-in-us-economy-says-stephen-moore-video",
      "t": "sec"
     }
    ],
-   "heat": 255.5
+   "heat": 252.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-16 09:56",
-   "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
-   "summary": "Meta CEO Mark Zuckerberg's view of artificial intelligence safety is akin to the perspective of Nvidia's Jensen Huang rather than Anthropic chief Dario Amodei.",
+   "time": "2026-09-17 02:18",
+   "title": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
+   "summary": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
+     "u": "https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html",
      "t": "sec"
     }
    ],
-   "heat": 254.0
+   "heat": 252.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-16 06:06",
-   "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
-   "summary": "Jensen Huang appeared to side with Trump as the president pushed back on tech CEOs' warnings about the risks of rapid AI advancement.",
+   "time": "2026-09-17 02:14",
+   "title": "Continental Resources to develop massive oil patch in Venezuela",
+   "summary": "Continental said it undertook an \"independent evaluation of opportunities\" in Venezuela after President Donald Trump called for the industry to invest.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 253.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 21:33",
-   "title": "Novo Will Work With Anthropic AI to Speed Drug Development",
-   "summary": "Novo Nordisk A/S and Anthropic PBC will work together to speed up drug development using artificial intelligence, a key goal as Novo tries to catch up in the cutthroat obesity mark…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/novo-will-work-with-anthropic-ai-to-speed-drug-development",
+     "u": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
      "t": "sec"
     }
    ],
@@ -87,59 +59,87 @@
   },
   {
    "cat": "sector",
-   "time": "2026-09-16 21:30",
-   "title": "US Retail Sales Rise 1.2% in August After Dropping in July",
-   "summary": "US retail sales rose broadly in August showing that consumers are still spending despite higher gasoline prices. Twelve of 13 retail categories reported increases, boosted by back-…",
+   "time": "2026-09-17 02:06",
+   "title": "Bain Capital Ventures Bets $1.6 Billion on AI’s Next Act",
+   "summary": "Bain Capital Ventures has raised a $1.6 billion fund to back early-stage companies built for what it calls “life after AGI.” Partner Slater Stich discusses where the firm sees oppo…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-16/bain-capital-ventures-bets-1-6-billion-on-ai-s-next-act-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 02:04",
+   "title": "OpenAI, Anthropic Safety Talks Stir Startup Concerns",
+   "summary": "AI startups are growing concerned that calls from Anthropic and OpenAI to “pace” frontier development could lead to a new regulatory framework shaped by the industry’s biggest play…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-16/openai-anthropic-safety-talks-stir-startup-concerns-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 02:01",
+   "title": "Meta CEO Weighs In on AI Safety Debate",
+   "summary": "Bloomberg’s Ed Ludlow breaks down Mark Zuckerberg's call for AI labs to rely on independent evaluators and advisers to ensure models are safe. Plus, OpenAI is said to be in early t…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-16/bloomberg-tech-9-16-2026-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 02:01",
+   "title": "The AI Industry Says It Wants To Slow Down. Can It?",
+   "summary": "On today’s Big Take podcast, Sarah Holder and Bloomberg tech editor Sarah Frier break down the many reasons and motivations behind AI leaders’ calls to slow the development of so-c…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-16/the-ai-industry-says-it-wants-to-slow-down-can-it-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 01:58",
+   "title": "OpenAI Looking to Raise More Money Ahead of Public Debut",
+   "summary": "OpenAI is holding early talks with investors about a fresh funding round that would value the ChatGPT creator at more than $1.2 trillion ahead of an initial public offering. Bloomb…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-16/openai-looking-to-raise-more-money-ahead-of-public-debut-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 01:57",
+   "title": "France Extends Fuel Aid for Sectors Impacted by Mideast Conflict",
+   "summary": "France’s government extended targeted aid for sectors most hurt by the latest rise in fuel prices due to the Middle East conflict.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-16/us-retail-sales-rise-1-2-in-august-after-a-drop-in-july-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-16/france-extends-fuel-aid-for-sectors-impacted-by-mideast-conflict",
      "t": "sec"
     }
    ],
    "heat": 251.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 21:16",
-   "title": "Your AI interviewer will see you now: How job seekers should navigate the 'jarring' new hiring technology",
-   "summary": "Employers are hoping that AI interviewers will streamline the hiring process. Some experts — and job seekers — aren't so sure.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/16/your-ai-interviewer-will-see-you-now-what-job-seekers-should-know-about-new-hiring-tech.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 21:00",
-   "title": "Next Africa: Kenya’s Court Decisions Are a Thorn in Ruto’s Side",
-   "summary": "President’s grand plans for $39 billion of new infrastucture are key to his campaign for a second term.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-16/next-africa-kenya-s-court-decisions-are-a-thorn-in-ruto-s-side",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 20:52",
-   "title": "AI Risks in Focus, Retail Sales Rebound, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-16/ai-risks-in-focus-retail-sales-rebound-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.8
   }
  ]
 }
