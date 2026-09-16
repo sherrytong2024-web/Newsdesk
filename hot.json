@@ -1,23 +1,51 @@
 {
- "updated": "2026-09-16 16:08",
+ "updated": "2026-09-16 20:13",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-16 14:59",
-   "title": "LNG Market Faces Extended Hormuz Outage, Japanese Shipper Says",
-   "summary": "Mitsui OSK Lines Ltd., a top Japanese shipping firm, doesn’t expect LNG shipments through the Strait of Hormuz to resume soon, signaling a prolonged disruption that could keep pric…",
+   "time": "2026-09-16 19:02",
+   "title": "Nvidia’s Jensen Huang Touts Himself as an AI VC Role Model",
+   "summary": "The AI kingmaker also fancies himself a savvy venture capitalist",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/lng-market-faces-extended-hormuz-outage-japanese-shipper-says",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-16/nvidia-s-jensen-huang-touts-himself-as-an-ai-vc-role-model",
      "t": "sec"
     }
    ],
-   "heat": 255.8
+   "heat": 251.8
   },
   {
    "cat": "sector",
-   "time": "2026-09-16 14:38",
+   "time": "2026-09-16 09:56",
+   "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+   "summary": "Meta CEO Mark Zuckerberg's view of artificial intelligence safety is akin to the perspective of Nvidia's Jensen Huang rather than Anthropic chief Dario Amodei.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 250.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 06:06",
+   "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
+   "summary": "Jensen Huang appeared to side with Trump as the president pushed back on tech CEOs' warnings about the risks of rapid AI advancement.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 249.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 20:06",
    "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
    "summary": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage.",
    "srcs": [
@@ -27,119 +55,91 @@
      "t": "sec"
     }
    ],
-   "heat": 255.7
+   "heat": 248.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-16 13:57",
-   "title": "Meta CEO Favors Evaluators Over AI Slowdown",
-   "summary": "Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg said artificial intelligence labs should rely on independent evaluators and advisers to ensure that models are safe. Ear…",
+   "time": "2026-09-16 19:55",
+   "title": "Gender Equality to Take 120 Years Even as Gap Narrows, WEF Says",
+   "summary": "WEF Managing Director Saadia Zahidi speaks to Francine Lacqua after their latest annual report on gender found that global gender parity remains more than a lifetime away for women…",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-16/meta-ceo-favors-evaluators-over-ai-slowdown-video",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-16/wef-says-gender-equality-to-take-120-years-video",
      "t": "sec"
     }
    ],
-   "heat": 255.6
+   "heat": 247.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-16 13:56",
-   "title": "TikTok Billionaire Zhang Yiming Overtakes Gautam Adani as Asia’s Richest Person",
-   "summary": "ByteDance’s Zhang Yiming has become Asia’s richest person for the first time, marking a comeback for the TikTok developer as fortunes linked to artificial intelligence surge above …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/bytedance-tiktok-billionaire-zhang-yiming-overtakes-gautam-adani-asia-richest-person",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 12:57",
-   "title": "South Korea Can’t Afford to Slow AI Progress, Deputy PM Says",
-   "summary": "South Korea must continue advancing artificial intelligence without pause or delay, its deputy prime minister said on Wednesday, striking an unequivocal tone in a growing global de…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/south-korea-can-t-afford-to-slow-ai-progress-deputy-pm-says",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 12:49",
-   "title": "SoftBank CDS Hits 3-Year High as OpenAI Risks Stay in Focus",
-   "summary": "SoftBank Group Corp.’s credit default swaps rose to the highest level since 2023 as traders assessed risks surrounding OpenAI, one of SoftBank’s biggest bets.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/softbank-cds-hovers-near-3-year-high-on-openai-funding-concerns",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 12:31",
-   "title": "Grab aims for 'next level' in financial services with purchase of buy-now pay-later platform Atome",
-   "summary": "Grab is betting $1.49 billion on Atome Financial as it looks to expand its consumer lending business in Southeast Asia.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/16/grab-financial-services-atome-purchase-.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 12:21",
-   "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
-   "summary": "Comments from the two tech leaders landed days after Anthropic's Dario Amodei published an essay urging the AI industry to slow the pace of model development.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 12:01",
-   "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
-   "summary": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 11:36",
-   "title": "Trump Officials Meet Anthropic on AI, Crypto Bill Fails, More",
+   "time": "2026-09-16 19:36",
+   "title": "AI Risk Debate Heats Up, EU Sees Deeper Partnership with Canada",
    "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-16/trump-officials-meet-anthropic-on-ai-crypto-bill-fails-more",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-16/ai-risk-debate-heats-up-eu-sees-deeper-partnership-with-canada",
      "t": "sec"
     }
    ],
-   "heat": 255.2
+   "heat": 247.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 19:36",
+   "title": "SK Hynix Says Exploring Options After Report of Intel Tie-Up",
+   "summary": "SK Hynix Inc. said that it’s exploring options to boost its global competitiveness after a report that it may team up with Intel Corp. to make semiconductors in the US.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-16/sk-hynix-says-exploring-options-after-report-of-intel-tie-up",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 19:31",
+   "title": "KKR Is Said to Be Preferred Bidder for Portugal’s Logoplaste",
+   "summary": "KKR &amp; Co. has emerged as the preferred bidder to buy Portuguese packaging maker Logoplaste, according to people familiar with the matter.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-16/kkr-is-said-to-be-preferred-bidder-for-portugal-s-logoplaste",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 19:15",
+   "title": "LNG Buyers Turn to US as Hormuz Crisis Forces Supply Rethink",
+   "summary": "American gas could plug a widening global supply gap, as long as it remains affordable.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-16/lng-buyers-turn-to-us-as-hormuz-crisis-forces-supply-rethink",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 19:00",
+   "title": "Nobel Laureate Michael Kremer Picked as World Bank Top Economist",
+   "summary": "The World Bank Group said that Nobel laureate Michael Kremer will serve as its new chief economist starting Oct. 1, heading research for the institution, according to a statement W…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-16/nobel-laureate-michael-kremer-picked-as-world-bank-top-economist",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.8
   }
  ]
 }
