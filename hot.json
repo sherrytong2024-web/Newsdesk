@@ -1,9 +1,107 @@
 {
- "updated": "2026-09-16 10:38",
+ "updated": "2026-09-16 16:08",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-16 06:17",
+   "time": "2026-09-16 14:59",
+   "title": "LNG Market Faces Extended Hormuz Outage, Japanese Shipper Says",
+   "summary": "Mitsui OSK Lines Ltd., a top Japanese shipping firm, doesn’t expect LNG shipments through the Strait of Hormuz to resume soon, signaling a prolonged disruption that could keep pric…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-16/lng-market-faces-extended-hormuz-outage-japanese-shipper-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 14:38",
+   "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
+   "summary": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 13:57",
+   "title": "Meta CEO Favors Evaluators Over AI Slowdown",
+   "summary": "Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg said artificial intelligence labs should rely on independent evaluators and advisers to ensure that models are safe. Ear…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-16/meta-ceo-favors-evaluators-over-ai-slowdown-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 13:56",
+   "title": "TikTok Billionaire Zhang Yiming Overtakes Gautam Adani as Asia’s Richest Person",
+   "summary": "ByteDance’s Zhang Yiming has become Asia’s richest person for the first time, marking a comeback for the TikTok developer as fortunes linked to artificial intelligence surge above …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-16/bytedance-tiktok-billionaire-zhang-yiming-overtakes-gautam-adani-asia-richest-person",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 12:57",
+   "title": "South Korea Can’t Afford to Slow AI Progress, Deputy PM Says",
+   "summary": "South Korea must continue advancing artificial intelligence without pause or delay, its deputy prime minister said on Wednesday, striking an unequivocal tone in a growing global de…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-16/south-korea-can-t-afford-to-slow-ai-progress-deputy-pm-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 12:49",
+   "title": "SoftBank CDS Hits 3-Year High as OpenAI Risks Stay in Focus",
+   "summary": "SoftBank Group Corp.’s credit default swaps rose to the highest level since 2023 as traders assessed risks surrounding OpenAI, one of SoftBank’s biggest bets.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-16/softbank-cds-hovers-near-3-year-high-on-openai-funding-concerns",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 12:31",
+   "title": "Grab aims for 'next level' in financial services with purchase of buy-now pay-later platform Atome",
+   "summary": "Grab is betting $1.49 billion on Atome Financial as it looks to expand its consumer lending business in Southeast Asia.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/16/grab-financial-services-atome-purchase-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-16 12:21",
    "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
    "summary": "Comments from the two tech leaders landed days after Anthropic's Dario Amodei published an essay urging the AI industry to slow the pace of model development.",
    "srcs": [
@@ -13,133 +111,35 @@
      "t": "sec"
     }
    ],
-   "heat": 303.3
+   "heat": 255.4
   },
   {
    "cat": "sector",
-   "time": "2026-09-16 06:06",
-   "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
-   "summary": "Jensen Huang appeared to side with Trump as the president pushed back on tech CEOs' warnings about the risks of rapid AI advancement.",
+   "time": "2026-09-16 12:01",
+   "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
+   "summary": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html",
+     "u": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
      "t": "sec"
     }
    ],
-   "heat": 303.2
+   "heat": 255.3
   },
   {
    "cat": "sector",
-   "time": "2026-09-16 03:20",
-   "title": "Nvidia’s Huang Says AI Industry Doesn’t Need Any New Laws",
-   "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang dismissed the need for new artificial intelligence security regulations on Tuesday, arguing that market forces will help companies…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-15/nvidia-s-huang-says-ai-industry-doesn-t-need-any-new-laws",
-     "t": "sec"
-    }
-   ],
-   "heat": 302.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 10:07",
-   "title": "Trump Advisors-Anthropic Meet on AI Safety, Crypto Bill Fails",
+   "time": "2026-09-16 11:36",
+   "title": "Trump Officials Meet Anthropic on AI, Crypto Bill Fails, More",
    "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-16/trump-advisors-anthropic-meet-on-ai-safety-crypto-bill-fails",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-16/trump-officials-meet-anthropic-on-ai-crypto-bill-fails-more",
      "t": "sec"
     }
    ],
-   "heat": 299.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 10:01",
-   "title": "Trump Has Few Good Options to Slow China’s Rise as AI Superpower",
-   "summary": "Even as Donald Trump blasts Anthropic PBC’s Dario Amodei over his call to hit the brakes on AI development, the two agree on the need to prevent China from catching the US. But doi…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 09:15",
-   "title": "Trump Advisors Met Anthropic on AI, Crypto Bill Blocked, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-16/trump-advisors-met-anthropic-on-ai-crypto-bill-blocked-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 08:46",
-   "title": "Takaichi Projects Power in Cabinet Reshuffle After Market Unrest",
-   "summary": "Prime Minister Sanae Takaichi is poised to keep her core team in place in a customary reshuffle nearly a year after taking office, showing renewed confidence after weathering marke…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/takaichi-projects-power-in-cabinet-reshuffle-after-market-unrest",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 08:17",
-   "title": "Bloomberg Businessweek Daily: Couples Finance (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-16/bloomberg-businessweek-daily-couples-finance-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 08:14",
-   "title": "House to vote on bill to rein in AI data center utility costs",
-   "summary": "The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-16 08:10",
-   "title": "Shrinking Chinese Fuel Inventories Raise Chance of Export Curbs",
-   "summary": "China’s gasoline and diesel inventories are plunging as refiners grapple with a tightening domestic market, raising the chance the government may move to limit fuel exports again.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/shrinking-chinese-fuel-inventories-raise-chance-of-export-curbs",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.6
+   "heat": 255.2
   }
  ]
 }
