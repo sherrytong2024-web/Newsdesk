@@ -1,145 +1,145 @@
 {
- "updated": "2026-09-17 02:34",
+ "updated": "2026-09-17 07:27",
  "items": [
   {
-   "cat": "sector",
-   "time": "2026-09-17 02:33",
-   "title": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
-   "summary": "American says a minority of its seats now accounts for half of its revenue.",
+   "cat": "macro",
+   "time": "2026-09-17 04:10",
+   "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
+   "summary": "The 10-year yield moved above the 5% mark after a Federal Reserve rate increase and comments from Chairman Kevin Warsh highlighting persistent inflation risks.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
+     "u": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
      "t": "sec"
     }
    ],
-   "heat": 252.0
+   "heat": 207.5
   },
   {
    "cat": "sector",
-   "time": "2026-09-17 02:18",
-   "title": "AI Is 'Huge Factor' In Success of US Economy, Says Stephen Moore",
-   "summary": "Stephen Moore, former senior economic adviser to President Donald Trump said that the AI industry is a 'huge factor' in the US economy given both the investment pouring into the sp…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-16/ai-is-huge-factor-in-us-economy-says-stephen-moore-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 252.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-17 02:18",
-   "title": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
-   "summary": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal.",
+   "time": "2026-09-17 07:05",
+   "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+   "summary": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html",
+     "u": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
      "t": "sec"
     }
    ],
-   "heat": 252.0
+   "heat": 203.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-17 02:14",
-   "title": "Continental Resources to develop massive oil patch in Venezuela",
-   "summary": "Continental said it undertook an \"independent evaluation of opportunities\" in Venezuela after President Donald Trump called for the industry to invest.",
+   "time": "2026-09-17 07:00",
+   "title": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign",
+   "summary": "Huawei Technologies Co. is set to unveil new AI technology this week in defiance of US export control curbs, advancing its ambition to replace Nvidia Corp. in China and compete on …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 06:47",
+   "title": "OpenAI Reports New AI Safety Incidents, Sets Disclosure Process",
+   "summary": "OpenAI shared several undisclosed incidents of its artificial intelligence models misbehaving, and unveiled a new framework for how it plans to track and disclose such incidents go…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-16/openai-reports-new-ai-safety-incidents-sets-disclosure-process",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 06:16",
+   "title": "Apple’s Cook, OpenAI CEO to Attend Trump Dinner With Xi",
+   "summary": "Apple Inc. Executive Chairman Tim Cook and OpenAI Chief Executive Officer Sam Altman are poised to attend a White House state dinner for Chinese President Xi Jinping next week.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 05:57",
+   "title": "AI Doom Hits Tech World",
+   "summary": "Bloomberg Odd Lots hosts Joe Weisenthal and Tracy Alloway react to AI skepticism and recent warnings coming from people in the industry. The pair discuss what the hacking of Huggin…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-16/ai-doom-hits-tech-world-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 05:39",
+   "title": "US Tracking Cyber Threats Against Nearly 20 Ships Worldwide",
+   "summary": "US government agencies are tracking cyber threats against nearly 20 shipping vessels around the world, according to US officials familiar with the situation.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-16/us-tracking-cyber-threats-against-nearly-20-ships-worldwide",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 04:56",
+   "title": "OpenAI’s Brockman on Developing AI in the Wake of Hugging Face",
+   "summary": "According to OpenAI President Greg Brockman, it was no surprise to the company that some of its models were able to break free of the testing environment — but what's happened sinc…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-16/openai-s-brockman-on-ai-in-the-wake-of-hugging-face-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 04:54",
+   "title": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
+   "summary": "Billionaire Leon Black is suing the House Committee on Oversight and Government Reform seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
+     "u": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
      "t": "sec"
     }
    ],
-   "heat": 251.9
+   "heat": 203.6
   },
   {
    "cat": "sector",
-   "time": "2026-09-17 02:06",
-   "title": "Bain Capital Ventures Bets $1.6 Billion on AI’s Next Act",
-   "summary": "Bain Capital Ventures has raised a $1.6 billion fund to back early-stage companies built for what it calls “life after AGI.” Partner Slater Stich discusses where the firm sees oppo…",
+   "time": "2026-09-17 04:27",
+   "title": "Balance of Power: Trump, Lawmakers Clash on AI Safety (Podcast)",
+   "summary": "Source: Bloomberg, 23:10",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-16/bain-capital-ventures-bets-1-6-billion-on-ai-s-next-act-video",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-16/balance-of-power-trump-lawmakers-clash-on-ai-safety-podcast",
      "t": "sec"
     }
    ],
-   "heat": 251.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-17 02:04",
-   "title": "OpenAI, Anthropic Safety Talks Stir Startup Concerns",
-   "summary": "AI startups are growing concerned that calls from Anthropic and OpenAI to “pace” frontier development could lead to a new regulatory framework shaped by the industry’s biggest play…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-16/openai-anthropic-safety-talks-stir-startup-concerns-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-17 02:01",
-   "title": "Meta CEO Weighs In on AI Safety Debate",
-   "summary": "Bloomberg’s Ed Ludlow breaks down Mark Zuckerberg's call for AI labs to rely on independent evaluators and advisers to ensure models are safe. Plus, OpenAI is said to be in early t…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-16/bloomberg-tech-9-16-2026-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-17 02:01",
-   "title": "The AI Industry Says It Wants To Slow Down. Can It?",
-   "summary": "On today’s Big Take podcast, Sarah Holder and Bloomberg tech editor Sarah Frier break down the many reasons and motivations behind AI leaders’ calls to slow the development of so-c…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-16/the-ai-industry-says-it-wants-to-slow-down-can-it-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-17 01:58",
-   "title": "OpenAI Looking to Raise More Money Ahead of Public Debut",
-   "summary": "OpenAI is holding early talks with investors about a fresh funding round that would value the ChatGPT creator at more than $1.2 trillion ahead of an initial public offering. Bloomb…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-16/openai-looking-to-raise-more-money-ahead-of-public-debut-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-17 01:57",
-   "title": "France Extends Fuel Aid for Sectors Impacted by Mideast Conflict",
-   "summary": "France’s government extended targeted aid for sectors most hurt by the latest rise in fuel prices due to the Middle East conflict.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/france-extends-fuel-aid-for-sectors-impacted-by-mideast-conflict",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.9
+   "heat": 203.5
   }
  ]
 }
