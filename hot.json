@@ -1,19 +1,117 @@
 {
- "updated": "2026-09-17 07:27",
+ "updated": "2026-09-17 10:42",
  "items": [
   {
-   "cat": "macro",
-   "time": "2026-09-17 04:10",
-   "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
-   "summary": "The 10-year yield moved above the 5% mark after a Federal Reserve rate increase and comments from Chairman Kevin Warsh highlighting persistent inflation risks.",
+   "cat": "sector",
+   "time": "2026-09-17 09:58",
+   "title": "Myanmar Deports Detained Ex-AmCham Chief to ‘Preserve’ US Ties",
+   "summary": "Myanmar deported American businessman Adam Castillo on Wednesday evening, ending a three-month detention for breach of trust in a move the authorities said was aimed at preserving …",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-17/myanmar-deports-detained-american-to-preserve-us-relations",
      "t": "sec"
     }
    ],
-   "heat": 207.5
+   "heat": 211.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 09:54",
+   "title": "Nvidia Partner GMI Cloud Seeks Loan to Buy Chips for Thai Site",
+   "summary": "GMI Cloud, a Nvidia Corp. partner, is seeking a $300 million loan to buy chips for its facility in Thailand, according to people familiar with the matter, adding to a growing list …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-17/nvidia-partner-gmi-cloud-seeks-loan-to-buy-chips-for-thai-site",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 09:49",
+   "title": "Singapore’s Gold Hub Ambition Gets Lift With DBS Vault Expansion",
+   "summary": "Singapore’s push to become a major gold hub is gaining momentum, with DBS Group Holdings Ltd. adding bullion storage capacity and other banks considering similar moves.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-17/singapore-s-gold-hub-ambition-gets-lift-with-dbs-vault-expansion",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 09:26",
+   "title": "Casinos Posing as Beauty Salons, Bakeries Spur Philippine Digital Payment Review",
+   "summary": "Electronic payment providers need to be more diligent in vetting companies that use their platforms in order to protect people from fraud, the Philippine central bank said.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-17/casinos-posing-as-beauty-salons-bakeries-spur-philippine-digital-payment-review",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 09:13",
+   "title": "Manus Eyes $4 Billion Value in First Round Since Meta Breakup",
+   "summary": "Chinese-founded AI startup Manus is set to double its valuation to $4 billion in its first fundraising since Beijing ordered it to split from Meta Platforms Inc., charting a path t…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-17/manus-eyes-4-billion-value-in-first-round-since-meta-breakup",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 08:08",
+   "title": "House advances bill to rein in AI data center utility costs",
+   "summary": "The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 07:40",
+   "title": "Snap Makes Its Case for Wearing A Computer On Your Face",
+   "summary": "Snap revealed new details and software capabilities for its Specs augmented reality glasses during a presentation led by CEO Evan Spiegel. Mark Gurman and Chris Welch got to try th…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-16/snap-makes-its-case-for-wearing-a-computer-on-your-face",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 07:25",
+   "title": "Bloomberg Businessweek Daily: The Next Investment Boom (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-16/bloomberg-businessweek-daily-the-next-investment-boom-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.5
   },
   {
    "cat": "sector",
@@ -27,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.9
+   "heat": 211.4
   },
   {
    "cat": "sector",
@@ -41,105 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 203.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-17 06:47",
-   "title": "OpenAI Reports New AI Safety Incidents, Sets Disclosure Process",
-   "summary": "OpenAI shared several undisclosed incidents of its artificial intelligence models misbehaving, and unveiled a new framework for how it plans to track and disclose such incidents go…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/openai-reports-new-ai-safety-incidents-sets-disclosure-process",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-17 06:16",
-   "title": "Apple’s Cook, OpenAI CEO to Attend Trump Dinner With Xi",
-   "summary": "Apple Inc. Executive Chairman Tim Cook and OpenAI Chief Executive Officer Sam Altman are poised to attend a White House state dinner for Chinese President Xi Jinping next week.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-17 05:57",
-   "title": "AI Doom Hits Tech World",
-   "summary": "Bloomberg Odd Lots hosts Joe Weisenthal and Tracy Alloway react to AI skepticism and recent warnings coming from people in the industry. The pair discuss what the hacking of Huggin…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-16/ai-doom-hits-tech-world-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-17 05:39",
-   "title": "US Tracking Cyber Threats Against Nearly 20 Ships Worldwide",
-   "summary": "US government agencies are tracking cyber threats against nearly 20 shipping vessels around the world, according to US officials familiar with the situation.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-16/us-tracking-cyber-threats-against-nearly-20-ships-worldwide",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-17 04:56",
-   "title": "OpenAI’s Brockman on Developing AI in the Wake of Hugging Face",
-   "summary": "According to OpenAI President Greg Brockman, it was no surprise to the company that some of its models were able to break free of the testing environment — but what's happened sinc…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-16/openai-s-brockman-on-ai-in-the-wake-of-hugging-face-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-17 04:54",
-   "title": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
-   "summary": "Billionaire Leon Black is suing the House Committee on Oversight and Government Reform seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-17 04:27",
-   "title": "Balance of Power: Trump, Lawmakers Clash on AI Safety (Podcast)",
-   "summary": "Source: Bloomberg, 23:10",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-16/balance-of-power-trump-lawmakers-clash-on-ai-safety-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.5
+   "heat": 211.4
   }
  ]
 }
