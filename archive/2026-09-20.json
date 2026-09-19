@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20 03:49",
+ "updated": "2026-09-20 06:35",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 116.0
+   "heat": 104.0
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.4
+   "heat": 102.9
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.0
+   "heat": 102.5
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.8
+   "heat": 99.3
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.8
+   "heat": 99.3
   },
   {
    "cat": "macro",
@@ -83,7 +83,7 @@
      "t": "agg"
     }
    ],
-   "heat": 105.3
+   "heat": 96.8
   },
   {
    "cat": "macro",
@@ -97,13 +97,13 @@
      "t": "sec"
     }
    ],
-   "heat": 104.0
+   "heat": 96.0
   },
   {
    "cat": "macro",
    "time": "2026-09-17 05:00",
-   "title": "S&P 500 Today: Closes at 7,551.81, Down 0.45% After Fed's First Rate Hike in Three Years - bbntimes.com",
-   "summary": "S&P 500 Today: Closes at 7,551.81, Down 0.45% After Fed's First Rate Hike in Three Years &nbsp;&nbsp; bbntimes.com",
+   "title": "S&P 500 Today: Closes at 7,551.81, Down 0.45% After Fed's First Rate Hike in Three Years - BBN Times",
+   "summary": "S&P 500 Today: Closes at 7,551.81, Down 0.45% After Fed's First Rate Hike in Three Years &nbsp;&nbsp; BBN Times",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.0
+   "heat": 96.0
   },
   {
    "cat": "macro",
@@ -125,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.0
+   "heat": 96.0
   },
   {
    "cat": "macro",
@@ -139,7 +139,7 @@
      "t": "agg"
     }
    ],
-   "heat": 75.6
+   "heat": 71.1
   },
   {
    "cat": "macro",
@@ -153,7 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.3
+   "heat": 70.8
   },
   {
    "cat": "macro",
@@ -167,49 +167,105 @@
      "t": "sec"
     }
    ],
-   "heat": 75.1
+   "heat": 70.6
   },
   {
    "cat": "macro",
-   "time": "2026-09-19 18:14",
-   "title": "Trump calls for plans to form federal ’AI Force’",
+   "time": "2026-09-19 19:46",
+   "title": "Citi expects hawkish Fed to slow non-AI economy",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/trump-calla-for-plans-to-form-federal-ai-force-4908110",
+     "u": "https://www.investing.com/news/economy-news/citi-expects-hawkish-fed-to-slow-nonai-economy-4908117",
      "t": "agg"
     }
    ],
-   "heat": 72.4
+   "heat": 68.2
   },
   {
    "cat": "macro",
-   "time": "2026-09-19 04:33",
-   "title": "Anthropic Sales Near $100 Billion Before November IPO, NYT Says",
-   "summary": "Anthropic PBC is expected to generate more than $100 billion in annualized revenue this year as it continues to prepare for a trading debut as soon as November, according to the Ne…",
+   "time": "2026-09-19 00:45",
+   "title": "Gold Is Breaking Free From the Fed’s Grip — and That Changes the Bull Case",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt",
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-is-breaking-free-from-the-feds-grip--and-that-changes-the-bull-case-200687982",
+     "t": "agg"
+    }
+   ],
+   "heat": 65.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-18 19:31",
+   "title": "Central Banks Are Moving Gold as Geopolitical Risks Reshape Reserve Strategy",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/bring-the-gold-home-200687962",
+     "t": "agg"
+    }
+   ],
+   "heat": 64.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 06:13",
+   "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+   "summary": "Saudi Arabia had sent alerts overnight warning of potential danger around Riyadh, amid an escalation in attacks by the Houthis in the kingdom.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html",
      "t": "sec"
     }
    ],
-   "heat": 72.1
+   "heat": 271.9
   },
   {
-   "cat": "macro",
-   "time": "2026-09-19 15:50",
-   "title": "Why the Fed hiked into a supply shock?",
-   "summary": "",
+   "cat": "sector",
+   "time": "2026-09-20 06:00",
+   "title": "Trump Says He Will Name an AI Czar, Saudi Air-Raid Alerts, More",
+   "summary": "Source: Bloomberg, 5:30",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/why-the-fed-hiked-into-a-supply-shock-4908102",
-     "t": "agg"
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-19/trump-says-he-will-name-an-ai-czar-saudi-air-raid-alerts-more",
+     "t": "sec"
     }
    ],
-   "heat": 72.0
+   "heat": 271.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 05:42",
+   "title": "Trump says he will appoint a new AI adviser, without providing details",
+   "summary": "Trump has repeatedly downplayed concerns about AI and argued that additional regulation is unnecessary.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/19/trump-says-he-will-appoint-a-new-ai-adviser-without-providing-details.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 271.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 04:35",
+   "title": "Trump Says He’ll Name an AI Czar, Saudis Issue Air-Raid Alerts",
+   "summary": "Source: Bloomberg, 5:29",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-19/trump-says-he-ll-name-an-ai-czar-saudis-issue-air-raid-alerts",
+     "t": "sec"
+    }
+   ],
+   "heat": 271.7
   },
   {
    "cat": "sector",
@@ -223,21 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-20 03:08",
-   "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
-   "summary": "Smoke and flames were seen near Riyadh’s main airport after Saudi civil-defense alerts, while Pakistan urged Iran to protect energy supplies and shipping.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 271.9
+   "heat": 271.4
   },
   {
    "cat": "sector",
@@ -251,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.7
+   "heat": 271.2
   },
   {
    "cat": "sector",
@@ -265,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.5
+   "heat": 271.1
   },
   {
    "cat": "sector",
@@ -279,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.3
+   "heat": 270.9
   },
   {
    "cat": "sector",
@@ -293,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.2
+   "heat": 270.7
   },
   {
    "cat": "sector",
@@ -307,41 +349,27 @@
      "t": "sec"
     }
    ],
-   "heat": 271.1
+   "heat": 270.7
   },
   {
    "cat": "sector",
-   "time": "2026-09-19 22:17",
-   "title": "SpaceX’s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
-   "summary": "SpaceX will make up 2.82% of the Nasdaq 100 when the index’s quarterly rebalance takes effect Monday, according to data obtained by Bloomberg, locking in a sharp increase from its …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-19/spacex-s-nasdaq-100-weight-is-confirmed-at-2-82-in-rebalance",
-     "t": "sec"
-    }
-   ],
-   "heat": 271.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 21:52",
-   "title": "MBA Programs Race to Adapt to the AI Era",
-   "summary": "Stanford Graduate School of Business remains atop Bloomberg Businessweek’s US MBA rankings, scoring strongly in areas including compensation, networking and entrepreneurship. Bloom…",
+   "time": "2026-09-19 22:03",
+   "title": "India’s Silicon Valley Is Straining Under Its Own Growth",
+   "summary": "Bangalore helped turn India into a global hub for software services, tech talent and outsourcing, building an ecosystem that now supports multinational firms, domestic startups and…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-19/mba-programs-race-to-adapt-to-the-ai-era-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-19/india-s-silicon-valley-is-straining-under-its-own-growth-video",
      "t": "sec"
     }
    ],
-   "heat": 271.0
+   "heat": 270.6
   },
   {
    "cat": "sector",
    "time": "2026-09-19 21:02",
    "title": "电影《大空头》原型：AI巨头制造“末日恐慌”其实另有图谋！",
-   "summary": "电影《大空头》原型：AI巨头制造“末日恐慌”其实另有图谋！ &nbsp;&nbsp; 财联社",
+   "summary": "电影《大空头》原型：AI巨头制造“末日恐慌”其实另有图谋！ &nbsp;&nbsp; cls.cn",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
@@ -349,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 270.9
+   "heat": 270.4
   },
   {
    "cat": "sector",
@@ -363,35 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 270.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 20:43",
-   "title": "Buffett takes next step in plan to keep Berkshire from straying",
-   "summary": "Warren Buffett steps down as Berkshire Hathaway's chairman, passing the job to his son, Howard.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 270.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 20:00",
-   "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
-   "summary": "As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 270.7
+   "heat": 270.4
   },
   {
    "cat": "stock",
@@ -405,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.2
+   "heat": 62.8
   },
   {
    "cat": "stock",
@@ -419,21 +419,35 @@
      "t": "sec"
     }
    ],
-   "heat": 54.9
+   "heat": 62.4
   },
   {
    "cat": "stock",
-   "time": "2026-09-18 10:46",
-   "title": "加息落地红利防御属性凸显，南方基金旗下红利低波50ETF南方(515450)跟踪标的指数标普中国A股大盘红利低波50指数昨日跌0.14%",
-   "summary": "加息落地红利防御属性凸显，南方基金旗下红利低波50ETF南方(515450)跟踪标的指数标普中国A股大盘红利低波50指数昨日跌0.14% &nbsp;&nbsp; 财联社",
+   "time": "2026-09-19 21:20",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "summary": "",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pSUdfclFGekZrcEZSaWRUdm9vWnFtOGswZS1yYjNBbGNxYUhMdnd4eGI1cU1fbGpQQ21fVS1ONlJ1bWE1dkRoMg?oc=5",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4908121",
+     "t": "agg"
     }
    ],
-   "heat": 53.2
+   "heat": 60.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-19 20:10",
+   "title": "Analyst explains why you should avoid owning Nike stock despite massive pullback",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/analyst-explains-why-you-should-avoid-owning-nike-stock-despite-massive-pullback-4908119",
+     "t": "agg"
+    }
+   ],
+   "heat": 60.3
   },
   {
    "cat": "stock",
@@ -447,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.1
+   "heat": 59.6
   },
   {
    "cat": "stock",
@@ -461,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.9
+   "heat": 59.5
   },
   {
    "cat": "stock",
@@ -475,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.5
+   "heat": 59.0
   },
   {
    "cat": "stock",
@@ -489,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.1
+   "heat": 58.6
   },
   {
    "cat": "stock",
@@ -503,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.1
+   "heat": 56.0
   },
   {
    "cat": "stock",
@@ -517,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.0
+   "heat": 56.0
   },
   {
    "cat": "stock",
@@ -531,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.0
+   "heat": 56.0
   },
   {
    "cat": "stock",
@@ -545,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.0
+   "heat": 56.0
   },
   {
    "cat": "stock",
@@ -559,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.0
+   "heat": 56.0
   },
   {
    "cat": "stock",
@@ -573,35 +587,21 @@
      "t": "sec"
     }
    ],
-   "heat": 48.0
+   "heat": 56.0
   },
   {
    "cat": "stock",
-   "time": "2026-09-19 17:06",
-   "title": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years. - The Globe and ",
-   "summary": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years. &nbsp;&nbsp; The Globe and Mail",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPM19fUU1qQmFNOVdHck9JMVoxUlcyS01seFp4WGxlRE9OTjZQekFsYk1hVzEzNFVjdFRuLTEtWWdGXzlhcUt0MmRUSGRCY3NiSFdBVUZ4VXVnWldxdzdBb2lMRVBtUk1XWDJzYTI1Q2lTeHpmdVpMcmo5Mk9UcDJGa0NZMDJvVUl4RWFzLW1kOHRIcXRUTVVCNmFrdEkwN1dMMno0Y0pPSV9fWlNRZG5ubGtIX2piaXg1azdyRlZ2NXFzSFRfSHZVb0JTLXN5NUFxOWUzVkNIeko2cWxhekVFQlhHTHZnWHVqU1FsajR1UExxWVY0ZS1DSHFOOGVtQ1VqZlFNdUNCazJDbG5NblFnNzRiQVk?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 42.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-18 21:03",
-   "title": "A股成交重返2万亿，成长赛道ETF连涨，却见资金兑现离场",
-   "summary": "A股成交重返2万亿，成长赛道ETF连涨，却见资金兑现离场 &nbsp;&nbsp; 财联社",
+   "time": "2026-09-18 10:46",
+   "title": "加息落地红利防御属性凸显，南方基金旗下红利低波50ETF南方(515450)跟踪标的指数标普中国A股大盘红利低波50指数昨日跌0.14%",
+   "summary": "加息落地红利防御属性凸显，南方基金旗下红利低波50ETF南方(515450)跟踪标的指数标普中国A股大盘红利低波50指数昨日跌0.14% &nbsp;&nbsp; cls.cn",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GS29YRkxJclJPNFdVaHhjS3pDTHJ2aHBxazNuQ1lsckxOUm5yRlk3ZEVPZjdHMzY1cmF4QVc1UkI0dno3WkNjMA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pSUdfclFGekZrcEZSaWRUdm9vWnFtOGswZS1yYjNBbGNxYUhMdnd4eGI1cU1fbGpQQ21fVS1ONlJ1bWE1dkRoMg?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 38.9
+   "heat": 40.7
   },
   {
    "cat": "global",
@@ -615,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.5
+   "heat": 60.1
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.8
+   "heat": 59.4
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.5
+   "heat": 58.1
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.7
+   "heat": 56.2
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.6
+   "heat": 56.2
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.6
+   "heat": 56.1
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.3
+   "heat": 55.9
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.2
+   "heat": 55.8
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.2
+   "heat": 55.8
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.2
+   "heat": 55.7
   },
   {
    "cat": "global",
@@ -755,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.1
+   "heat": 55.7
   },
   {
    "cat": "global",
@@ -769,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 55.6
   },
   {
    "cat": "global",
@@ -783,7 +783,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.9
+   "heat": 55.5
   },
   {
    "cat": "global",
@@ -797,21 +797,21 @@
      "t": "sec"
     }
    ],
-   "heat": 27.9
+   "heat": 19.4
   },
   {
    "cat": "global",
-   "time": "2026-09-19 16:22",
-   "title": "Hormuz oil flows hit 6-month high as U.S. mine clearance pays off, CENTCOM says",
+   "time": "2026-09-18 22:07",
+   "title": "Oil Futures Decline as Optimism Grows About Saudi Supply Recovery",
    "summary": "",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/saudi-alerts-sound-as-yemen-fighting-puts-key-oil-shipping-routes-under-pressure-4908056",
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-futures-decline-as-optimism-grows-about-saudi-supply-recovery-200687972",
      "t": "agg"
     }
    ],
-   "heat": 24.1
+   "heat": 12.6
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.0
+   "heat": 58.6
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.2
+   "heat": 55.7
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.4
+   "heat": 42.9
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.0
+   "heat": 41.5
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.9
+   "heat": 39.4
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.4
+   "heat": 38.9
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.2
+   "heat": 38.8
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.2
+   "heat": 38.8
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.0
+   "heat": 38.6
   },
   {
    "cat": "crypto",
@@ -951,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.9
+   "heat": 31.4
   },
   {
    "cat": "crypto",
@@ -965,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.7
+   "heat": 30.3
   },
   {
    "cat": "crypto",
@@ -979,7 +979,7 @@
      "t": "agg"
     }
    ],
-   "heat": 28.5
+   "heat": 28.1
   },
   {
    "cat": "crypto",
@@ -993,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.3
+   "heat": 26.8
   },
   {
    "cat": "crypto",
@@ -1007,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 19.3
+   "heat": 18.8
   },
   {
    "cat": "crypto",
@@ -1021,7 +1021,21 @@
      "t": "sec"
     }
    ],
-   "heat": 19.0
+   "heat": 18.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-17 01:49",
+   "title": "再添新线索：OpenAI失控智能体5月就已劫持Hugging Face用户账户",
+   "summary": "再添新线索：OpenAI失控智能体5月就已劫持Hugging Face用户账户 &nbsp;&nbsp; cls.cn",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kbnczdXFnRk1qYkxBYjFkUFIxMWRPZ3hfeXRPRW5NTUVJekRBcFE3REVRNUZwZEY0bUg0cC0tMF9Ia3JsTnRiSg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 264.0
   },
   {
    "cat": "sector",
@@ -1035,21 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 267.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-18 21:17",
-   "title": "Saudi Oil Exports Rebound at Hormuz While East-West Pipeline Remains Offline",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/saudi-oil-exports-rebound-at-hormuz-while-eastwest-pipeline-remains-offline-200687968",
-     "t": "agg"
-    }
-   ],
-   "heat": 264.9
+   "heat": 267.3
   }
  ]
 }
