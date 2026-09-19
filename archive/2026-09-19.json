@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19 10:29",
+ "updated": "2026-09-19 15:41",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 100.8
+   "heat": 96.0
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.7
+   "heat": 85.8
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.6
+   "heat": 85.8
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "agg"
     }
    ],
-   "heat": 92.1
+   "heat": 83.3
   },
   {
    "cat": "macro",
@@ -69,77 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 88.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-19 06:15",
-   "title": "Stock Movers: JB Hunt, Generac, Strategy (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-18/stock-movers-jb-hunt-generac-strategy-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 67.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-19 06:06",
-   "title": "S&P 500: Index Edges Up 0.17% to 7,650.50 as Nasdaq Leads and Treasury Yields Hover at 5% - BBN Times",
-   "summary": "S&P 500: Index Edges Up 0.17% to 7,650.50 as Nasdaq Leads and Treasury Yields Hover at 5% &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb2RZNEZ2TkMyNHBFeXFDZjlmLXkzLTJpVjZOd3BxNlFkWUVVakpDUWZGVFNOaEZURTBCYkxPYkdzWDdNMmc0U3hna21WVXQ5YVBwcE9RNEJsUTAtaWt2VzdMbEQ3ak9jelVLOEp3OXF0LTdqOGxpX0xxb1dQaVd2RjVyMzJWNHZRVTJDU1duVEpUenZlODl5NnRyNWNZU2dNWWtMd0JsQldSaFJhNnlwZXdsLXA3bldhT3hxY3ZBRVA3OHox?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 67.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-19 04:33",
-   "title": "Anthropic Sales Near $100 Billion Before November IPO, NYT Says",
-   "summary": "Anthropic PBC is expected to generate more than $100 billion in annualized revenue this year as it continues to prepare for a trading debut as soon as November, according to the Ne…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt",
-     "t": "sec"
-    }
-   ],
-   "heat": 67.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-19 02:26",
-   "title": "Dollar Surges to Best Week Since June on Higher Rate Outlook",
-   "summary": "The dollar staged its biggest weekly advance in more than three months after the US central bank signaled more interest-rate hikes are to come.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-18/dollar-surges-to-best-week-since-june-on-higher-rate-outlook",
-     "t": "sec"
-    }
-   ],
-   "heat": 66.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-19 02:11",
-   "title": "McDonald's is the new 'Value Meal,' says trader Mike Khouw",
-   "summary": "McDonald's announced this week that it is revising its U.S. value strategy after recording its slowest sales growth in more than a year.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/18/mcdonalds-is-the-new-value-meal-says-trader-mike-khouw.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 66.6
+   "heat": 80.0
   },
   {
    "cat": "macro",
@@ -153,49 +83,21 @@
      "t": "sec"
     }
    ],
-   "heat": 63.5
+   "heat": 66.6
   },
   {
    "cat": "macro",
-   "time": "2026-09-18 19:31",
-   "title": "Central Banks Are Moving Gold as Geopolitical Risks Reshape Reserve Strategy",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/bring-the-gold-home-200687962",
-     "t": "agg"
-    }
-   ],
-   "heat": 63.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-18 19:01",
-   "title": "Gold Not Afraid of Higher Interest Rates",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-not-afraid-of-higher-interest-rates-200687958",
-     "t": "agg"
-    }
-   ],
-   "heat": 63.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-18 06:43",
-   "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
-   "summary": "Tech leads Wall St to higher close as oil eases, Treasury yields dip &nbsp;&nbsp; Reuters",
+   "time": "2026-09-19 06:06",
+   "title": "S&P 500: Index Edges Up 0.17% to 7,650.50 as Nasdaq Leads and Treasury Yields Hover at 5% - BBN Times",
+   "summary": "S&P 500: Index Edges Up 0.17% to 7,650.50 as Nasdaq Leads and Treasury Yields Hover at 5% &nbsp;&nbsp; BBN Times",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb2RZNEZ2TkMyNHBFeXFDZjlmLXkzLTJpVjZOd3BxNlFkWUVVakpDUWZGVFNOaEZURTBCYkxPYkdzWDdNMmc0U3hna21WVXQ5YVBwcE9RNEJsUTAtaWt2VzdMbEQ3ak9jelVLOEp3OXF0LTdqOGxpX0xxb1dQaVd2RjVyMzJWNHZRVTJDU1duVEpUenZlODl5NnRyNWNZU2dNWWtMd0JsQldSaFJhNnlwZXdsLXA3bldhT3hxY3ZBRVA3OHox?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 63.4
+   "heat": 66.4
   },
   {
    "cat": "macro",
@@ -209,7 +111,147 @@
      "t": "sec"
     }
    ],
-   "heat": 63.0
+   "heat": 66.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-19 03:52",
+   "title": "Amex launches high-yield savings account to complement business checking",
+   "summary": "Amex Business Savings offers an above-average return, plus no minimum balance requirement or monthly fees.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/select/amex-launches-high-yield-savings-account-for-business-owners/",
+     "t": "sec"
+    }
+   ],
+   "heat": 66.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-18 09:00",
+   "title": "CX Daily: Plunging Yields and Debt Swaps Are Rewiring China’s Credit Market",
+   "summary": "CX Daily: Plunging Yields and Debt Swaps Are Rewiring China’s Credit Market &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaGNxc0N2MTA5ZzgzZkdaSHRaZWdsVVdLQjhzaVlsbnRpT0QtNXk3cmkyTGlwbjM3TEZQVWFGRmh3N2ppU1pGR09kemVPYXF3bnN6TGZHYTh6TVdzSlVnTlk0LTVXTVpGN0k4YkF2QkNiUGowQ01OTWFoY3k5SzBNd0IyTjJ0SHgyeXpFNXY2Q25TLVUtMW50TEtNNG5kWWZLY1BiTVlOZTVqZl9Jd3lsVEFWWndDNDZWRHV6SmdXd2dKTkc0OFBF?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 62.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-18 06:43",
+   "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
+   "summary": "Tech leads Wall St to higher close as oil eases, Treasury yields dip &nbsp;&nbsp; Reuters",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 62.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-18 06:14",
+   "title": "S&P 500 Volume Spikes on $7 Trillion Options Day: Markets Wrap",
+   "summary": "The last stretch of a busy week for markets saw stocks churning as bond yields rose, with investors also facing the expiration of a pile of options that spurred a surge in trading …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-17/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 62.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-19 04:33",
+   "title": "Anthropic Sales Near $100 Billion Before November IPO, NYT Says",
+   "summary": "Anthropic PBC is expected to generate more than $100 billion in annualized revenue this year as it continues to prepare for a trading debut as soon as November, according to the Ne…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt",
+     "t": "sec"
+    }
+   ],
+   "heat": 62.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-18 15:04",
+   "title": "US Dollar Stays Supported as Treasury Rebound Could Precede Higher Yields",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/us-dollar-stays-supported-as-treasury-rebound-could-precede-higher-yields-200687933",
+     "t": "agg"
+    }
+   ],
+   "heat": 61.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-19 02:11",
+   "title": "McDonald's is the new 'Value Meal,' says trader Mike Khouw",
+   "summary": "McDonald's announced this week that it is revising its U.S. value strategy after recording its slowest sales growth in more than a year.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/18/mcdonalds-is-the-new-value-meal-says-trader-mike-khouw.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 61.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 13:54",
+   "title": "California Court Blocks Part of TikTok’s $400 Million Settlement",
+   "summary": "A Los Angeles judge tentatively opposed part of the US government’s agreement with TikTok to resolve allegations of children’s privacy violations, extending uncertainty around the …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-19/california-court-blocks-part-of-tiktok-s-400-million-settlement",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 11:35",
+   "title": "Google Discloses AI Hacks, Trump Says US Has Deal on Greenland",
+   "summary": "Source: Bloomberg, 5:08",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-19/google-discloses-ai-hacks-trump-says-us-has-deal-on-greenland",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 10:48",
+   "title": "US Greenland Deal with Denmark, Google Discloses AI Hacks, More",
+   "summary": "Source: Bloomberg, 6:48",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-19/us-greenland-deal-with-denmark-google-discloses-ai-hacks-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.2
   },
   {
    "cat": "sector",
@@ -223,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.9
+   "heat": 247.1
   },
   {
    "cat": "sector",
@@ -237,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.9
+   "heat": 247.0
   },
   {
    "cat": "sector",
@@ -251,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.8
+   "heat": 246.9
   },
   {
    "cat": "sector",
@@ -265,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.8
+   "heat": 246.9
   },
   {
    "cat": "sector",
@@ -279,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 246.7
   },
   {
    "cat": "sector",
@@ -293,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 246.6
   },
   {
    "cat": "sector",
@@ -307,21 +349,21 @@
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 246.6
   },
   {
    "cat": "sector",
-   "time": "2026-09-19 06:55",
-   "title": "Bloomberg Businessweek Daily: Saudi Pipeline Attack (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-09-19 07:02",
+   "title": "OpenAI Sees Burning Through $278 Billion by 2030: FT",
+   "summary": "OpenAI expects that its negative free cash flow will reach $278 billion from 2026 to the end of 2030, the Financial Times reported, citing a company presentation.",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-18/bloomberg-businessweek-daily-saudi-pipeline-attack-podcast",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-18/openai-projects-burning-through-278-billion-by-2030-ft-says",
      "t": "sec"
     }
    ],
-   "heat": 239.4
+   "heat": 246.6
   },
   {
    "cat": "sector",
@@ -335,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.4
+   "heat": 246.5
   },
   {
    "cat": "sector",
@@ -349,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.4
+   "heat": 246.5
   },
   {
    "cat": "sector",
@@ -363,35 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 05:37",
-   "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
-   "summary": "Anthropic and OpenAI have been under intense scrutiny after researchers warned about the potential for AI to cause catastrophic harm to humanity.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 05:35",
-   "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
-   "summary": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.2
+   "heat": 246.4
   },
   {
    "cat": "stock",
@@ -405,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.1
+   "heat": 66.2
   },
   {
    "cat": "stock",
@@ -419,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.0
+   "heat": 66.1
   },
   {
    "cat": "stock",
@@ -433,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.8
+   "heat": 66.0
   },
   {
    "cat": "stock",
@@ -447,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.7
+   "heat": 65.8
   },
   {
    "cat": "stock",
@@ -461,111 +475,27 @@
      "t": "sec"
     }
    ],
-   "heat": 94.4
+   "heat": 65.5
   },
   {
    "cat": "stock",
-   "time": "2026-09-19 02:01",
-   "title": "Beta bionics CCO Mark Hopman sells $664,550 in company stock",
+   "time": "2026-09-19 07:01",
+   "title": "Metropolitan bank director Fredston sells $178,180 in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/beta-bionics-cco-mark-hopman-sells-664550-in-company-stock-93CH-4908037",
+     "u": "https://www.investing.com/news/insider-trading-news/metropolitan-bank-director-fredston-sells-178180-in-stock-93CH-4908059",
      "t": "agg"
     }
    ],
-   "heat": 92.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-19 02:00",
-   "title": "Corcept Therapeutics president Vieira sells $29,842 of stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/corcept-therapeutics-president-vieira-sells-29842-of-stock-93CH-4908036",
-     "t": "agg"
-    }
-   ],
-   "heat": 92.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-19 01:46",
-   "title": "Tempus AI CEO Eric P. Lefkofsky sells $16.1 million of stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/tempus-ai-ceo-eric-p-lefkofsky-sells-161-million-of-stock-93CH-4908033",
-     "t": "agg"
-    }
-   ],
-   "heat": 92.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-19 01:45",
-   "title": "Tempus AI’s EVP, chief legal officer, sells $221,325 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/tempus-ais-evp-chief-legal-officer-sells-221325-in-stock-93CH-4908032",
-     "t": "agg"
-    }
-   ],
-   "heat": 92.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-19 01:45",
-   "title": "Tempus AI chief accounting officer sells $529,650 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/tempus-ai-chief-accounting-officer-sells-529650-in-stock-93CH-4908030",
-     "t": "agg"
-    }
-   ],
-   "heat": 92.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-19 01:45",
-   "title": "Tempus AI CEO, data Ryan Fukushima sells $49,000 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/tempus-ai-ceo-data-ryan-fukushima-sells-49000-in-stock-93CH-4908031",
-     "t": "agg"
-    }
-   ],
-   "heat": 92.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-19 01:31",
-   "title": "Duolingo co-founder & CEO Luis von Ahn sells $4.25m in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/duolingo-cofounder--ceo-luis-von-ahn-sells-425m-in-stock-93CH-4908029",
-     "t": "agg"
-    }
-   ],
-   "heat": 92.5
+   "heat": 64.6
   },
   {
    "cat": "stock",
    "time": "2026-09-18 04:30",
-   "title": "As the Stock Market Flashes a Warning Seen Only 2 Times in 155 Years, Warren Buffett has a Big Warning for Investors - f",
-   "summary": "As the Stock Market Flashes a Warning Seen Only 2 Times in 155 Years, Warren Buffett has a Big Warning for Investors &nbsp;&nbsp; fool.com",
+   "title": "As the Stock Market Flashes a Warning Seen Only 2 Times in 155 Years, Warren Buffett has a Big Warning for Investors - T",
+   "summary": "As the Stock Market Flashes a Warning Seen Only 2 Times in 155 Years, Warren Buffett has a Big Warning for Investors &nbsp;&nbsp; The Motley Fool",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -573,13 +503,13 @@
      "t": "sec"
     }
    ],
-   "heat": 91.0
+   "heat": 62.1
   },
   {
    "cat": "stock",
    "time": "2026-09-16 23:30",
-   "title": "What History Reveals About Stock Market Crashes During Presidential Transitions - fool.com",
-   "summary": "What History Reveals About Stock Market Crashes During Presidential Transitions &nbsp;&nbsp; fool.com",
+   "title": "What History Reveals About Stock Market Crashes During Presidential Transitions - The Motley Fool",
+   "summary": "What History Reveals About Stock Market Crashes During Presidential Transitions &nbsp;&nbsp; The Motley Fool",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -587,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 88.0
+   "heat": 60.0
   },
   {
    "cat": "stock",
@@ -601,7 +531,91 @@
      "t": "sec"
     }
    ],
-   "heat": 88.0
+   "heat": 60.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-16 02:16",
+   "title": "5 Best Climate Change Stocks for 2026 and How to Invest - The Motley Fool",
+   "summary": "5 Best Climate Change Stocks for 2026 and How to Invest &nbsp;&nbsp; The Motley Fool",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzNyamhoTzBpVDUwOHlwSEtfZjBqOEF5ekRkYjJlTk9KMTZDbTVleTJObmN0ZzZVbWQtSDlCYTBGQ25CMXBQRHNsTjB2OHlpRzdYeHJoOTJjTG95TFh5UmQ1RVR0T3JFRXVSYUd3NzNGZWtXLTFzLVd4bUJjcVdfVnZRRmRGZTRXZ2VZbWZYMnlsdHVVdXpxUlNmZnU?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-15 02:32",
+   "title": "5 Best Wide-Moat Stocks for 2026 and How to Invest - The Motley Fool",
+   "summary": "5 Best Wide-Moat Stocks for 2026 and How to Invest &nbsp;&nbsp; The Motley Fool",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3TE5aM2hLWVFGZjJkaWdPZmdXQnl1YzBGT3JreG5sWE1GY0RqcDNnRTE1Zzl1NTlRaXQzSFJDZEFOS1M2M0NweE5kd1NSMVFvSXhNUDJZVnR5UFI5SklmRGJWc2VrVTliQ1BfSFA1SUF3a0g3dFl4NQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-14 23:54",
+   "title": "'Crazy days' and 'silly season' in the stock market raise the prospect of a 'late-stage' AI bubble finally popping - For",
+   "summary": "'Crazy days' and 'silly season' in the stock market raise the prospect of a 'late-stage' AI bubble finally popping &nbsp;&nbsp; Fortune",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY01SSzBsZFpPOEl4THB6SkNuNklOSVg0NkRCSkZBYXlOOS0wRFZEcnpKajdDMHUxOFhpb3lsV1JWOWk1SzY5TnplVktib0lCSzlmbno1dWd5WVFuQkdXQThtRTdFVmhuZlRwVDdaYk0xV1FWV1pUb05ZZ1pTd3IwMGl2d3ExUnozNGExMHNhWjJNZw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-14 23:43",
+   "title": "5 Best International Stocks to Buy in 2026 - The Motley Fool",
+   "summary": "5 Best International Stocks to Buy in 2026 &nbsp;&nbsp; The Motley Fool",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnIzYnBRbFZHeWU3NjAxd2dodkFrc2dnVDF5OTlaTzZQUVlZNFVTNjVYbS0tVjRkc2xjLXNDNjU0MW5ReVhSWHhoaGJCNUhoSi1KNkotb3I1akZBaDZXbzh1c1dTaW82V0JPZ1owRVJvd3haaDJ6Q3RlcC02aXdkTURtQmNFajNW?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-14 13:53",
+   "title": "Chinese Retail Rush for U.S. Tech Stocks Drains Fresh Offshore Quotas",
+   "summary": "Chinese Retail Rush for U.S. Tech Stocks Drains Fresh Offshore Quotas &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcU5LTzJrMmRNT3BwUE1HRG9OWWxXU2lRVDJzZFFKQmtBckoxVExHZG5JVk83Z2VvTml2ekVMOHIyQnhnOHJvRDFIQlJtVjJVM2F6UE41YndYMnBmMmhvZUpscFBzb0dyUURhTUx3QXdFOXFlRmJITFVkak5LS3JZajAtcnNjWC02ZVdPQlVTRFRlZEttSEdQMGMtWFRGaTdJSElhZmRBZVUweGZYcnBWT0lnMjdPZDBNTXQ3NDBEYw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-14 06:06",
+   "title": "Stocks are in a late-stage bubble and poised to crash 21% next year, analyst says - Fortune",
+   "summary": "Stocks are in a late-stage bubble and poised to crash 21% next year, analyst says &nbsp;&nbsp; Fortune",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU29aRl84bG1Nbkx1N2h0Rk9lS2ozcHB5R3hNNEFBT3JhTk8zLWEtT0ZHM3B6ZlE4YUszbXA3dE5UaTJfVTY0R2JiZnFoQ2pHaWZ1d1RhZjZnZWhKODh2LUVsbzBUdTVvVTc2OUFGa3pJWDZNbTdLeUJUM05HVW9IZXZ0NS0yUHZtVXJqN2I1eWtLY2JfM1dYV0NTckFscHN4ZFJ6WUtZWnVLeUE?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
   },
   {
    "cat": "global",
@@ -615,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.4
+   "heat": 58.6
   },
   {
    "cat": "global",
@@ -629,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.7
+   "heat": 57.8
   },
   {
    "cat": "global",
@@ -643,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.6
+   "heat": 54.7
   },
   {
    "cat": "global",
@@ -657,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.5
+   "heat": 54.6
   },
   {
    "cat": "global",
@@ -671,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.5
+   "heat": 54.6
   },
   {
    "cat": "global",
@@ -685,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.2
+   "heat": 54.4
   },
   {
    "cat": "global",
@@ -699,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.1
+   "heat": 54.3
   },
   {
    "cat": "global",
@@ -713,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.1
+   "heat": 54.3
   },
   {
    "cat": "global",
@@ -727,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.0
+   "heat": 54.2
   },
   {
    "cat": "global",
@@ -741,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.0
+   "heat": 54.2
   },
   {
    "cat": "global",
@@ -755,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.9
+   "heat": 54.0
   },
   {
    "cat": "global",
@@ -769,7 +783,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.8
+   "heat": 53.9
   },
   {
    "cat": "global",
@@ -783,21 +797,21 @@
      "t": "sec"
     }
    ],
-   "heat": 22.7
+   "heat": 25.9
   },
   {
    "cat": "global",
-   "time": "2026-09-19 04:35",
-   "title": "Hedge Funds Turned Bullish on Yen for First Time Since Mid-2025",
-   "summary": "Hedge funds turned positive on the yen for the first time since July 2025, a noteworthy shift in sentiment weeks after US and Japanese authorities intervened in the market to suppo…",
+   "time": "2026-09-19 05:41",
+   "title": "Saudi alerts sound as Yemen fighting puts key oil shipping routes under pressure",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-18/hedge-funds-turned-bullish-on-yen-for-first-time-since-mid-2025",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/saudi-alerts-sound-as-yemen-fighting-puts-key-oil-shipping-routes-under-pressure-4908056",
+     "t": "agg"
     }
    ],
-   "heat": 19.0
+   "heat": 20.3
   },
   {
    "cat": "global",
@@ -811,7 +825,7 @@
      "t": "agg"
     }
    ],
-   "heat": 15.9
+   "heat": 19.1
   },
   {
    "cat": "crypto",
@@ -825,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.1
+   "heat": 66.2
   },
   {
    "cat": "crypto",
@@ -839,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 57.2
+   "heat": 60.4
   },
   {
    "cat": "crypto",
@@ -853,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.6
+   "heat": 44.7
   },
   {
    "cat": "crypto",
@@ -867,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.8
+   "heat": 37.9
   },
   {
    "cat": "crypto",
@@ -881,63 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-18 23:16",
-   "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
-   "summary": "The regulator is moving ahead with crypto market rules as the SEC also opens a new path for tokenized stock trading.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
-     "t": "sec"
-    }
-   ],
-   "heat": 38.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-18 23:06",
-   "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
-   "summary": "Some smaller hedge funds with weaker security controls may have lost funds in the targeted attack, sources said.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
-     "t": "sec"
-    }
-   ],
-   "heat": 38.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-18 22:04",
-   "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
-   "summary": "Banks now represent nearly one in four providers on ESMA’s MiCA register after roughly doubling their presence since late June.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 37.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-18 18:33",
-   "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
-   "summary": "Starknet and arbitrum gained more than 17% while the 10-year Treasury yield slipped back below 5%, with 98 of CoinDesk 100 constituents advancing.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
-     "t": "sec"
-    }
-   ],
-   "heat": 37.3
+   "heat": 37.4
   },
   {
    "cat": "crypto",
@@ -951,7 +909,63 @@
      "t": "sec"
     }
    ],
-   "heat": 34.2
+   "heat": 37.3
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-18 23:16",
+   "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
+   "summary": "The regulator is moving ahead with crypto market rules as the SEC also opens a new path for tokenized stock trading.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+     "t": "sec"
+    }
+   ],
+   "heat": 37.3
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-18 23:06",
+   "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
+   "summary": "Some smaller hedge funds with weaker security controls may have lost funds in the targeted attack, sources said.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
+     "t": "sec"
+    }
+   ],
+   "heat": 37.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-18 22:04",
+   "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
+   "summary": "Banks now represent nearly one in four providers on ESMA’s MiCA register after roughly doubling their presence since late June.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 37.1
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-19 07:02",
+   "title": "Bitcoin hits $82,178 resistance with MFI 100: Live levels",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+     "t": "agg"
+    }
+   ],
+   "heat": 36.6
   },
   {
    "cat": "crypto",
@@ -965,7 +979,21 @@
      "t": "sec"
     }
    ],
-   "heat": 33.4
+   "heat": 36.5
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-18 18:33",
+   "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+   "summary": "Starknet and arbitrum gained more than 17% while the 10-year Treasury yield slipped back below 5%, with 98 of CoinDesk 100 constituents advancing.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
+     "t": "sec"
+    }
+   ],
+   "heat": 36.5
   },
   {
    "cat": "crypto",
@@ -979,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.3
+   "heat": 36.4
   },
   {
    "cat": "crypto",
@@ -993,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.7
+   "heat": 35.9
   },
   {
    "cat": "crypto",
@@ -1007,27 +1035,13 @@
      "t": "sec"
     }
    ],
-   "heat": 17.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-18 15:37",
-   "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
-   "summary": "Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
-     "t": "sec"
-    }
-   ],
-   "heat": 16.9
+   "heat": 16.3
   },
   {
    "cat": "sector",
    "time": "2026-09-18 08:38",
    "title": "电影《大空头》原型：AI巨头制造“末日恐慌”其实另有图谋！",
-   "summary": "电影《大空头》原型：AI巨头制造“末日恐慌”其实另有图谋！ &nbsp;&nbsp; cls.cn",
+   "summary": "电影《大空头》原型：AI巨头制造“末日恐慌”其实另有图谋！ &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
@@ -1035,21 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 02:21",
-   "title": "Evergrande NEV Abandons Car Manufacturing as Delisting Looms",
-   "summary": "Evergrande NEV Abandons Car Manufacturing as Delisting Looms &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUl2RVMwMUhVREFxZ0JvRDZ3OTlzN2g5RzF0U0g3V3JqOHNWOXRLS19INHZXdUVwVHBRcXRSU3ZoT3R4UmwwMW0wZzhGTEdlOG9CblkteEZpVkJVOU50dXNaM3huU1M3THdheWxqQUZIMUlZR2FsM0tmSXVEb0thQlY1WVhlcnpIby1pYnQ1SUxBZ1FzdHpsbkpKM3JmbTN6eERWQlhNT0VmUmczTFBJaTdMUVY2QQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 238.6
+   "heat": 242.8
   }
  ]
 }

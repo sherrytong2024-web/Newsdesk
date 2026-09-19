@@ -1,6 +1,48 @@
 {
- "updated": "2026-09-19 10:29",
+ "updated": "2026-09-19 15:41",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-19 13:54",
+   "title": "California Court Blocks Part of TikTok’s $400 Million Settlement",
+   "summary": "A Los Angeles judge tentatively opposed part of the US government’s agreement with TikTok to resolve allegations of children’s privacy violations, extending uncertainty around the …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-19/california-court-blocks-part-of-tiktok-s-400-million-settlement",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 11:35",
+   "title": "Google Discloses AI Hacks, Trump Says US Has Deal on Greenland",
+   "summary": "Source: Bloomberg, 5:08",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-19/google-discloses-ai-hacks-trump-says-us-has-deal-on-greenland",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 10:48",
+   "title": "US Greenland Deal with Denmark, Google Discloses AI Hacks, More",
+   "summary": "Source: Bloomberg, 6:48",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-19/us-greenland-deal-with-denmark-google-discloses-ai-hacks-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.2
+  },
   {
    "cat": "sector",
    "time": "2026-09-19 10:04",
@@ -13,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.9
+   "heat": 247.1
   },
   {
    "cat": "sector",
@@ -27,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.9
+   "heat": 247.0
   },
   {
    "cat": "sector",
@@ -41,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.8
+   "heat": 246.9
   },
   {
    "cat": "sector",
@@ -55,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.8
+   "heat": 246.9
   },
   {
    "cat": "sector",
@@ -69,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 246.7
   },
   {
    "cat": "sector",
@@ -83,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 246.6
   },
   {
    "cat": "sector",
@@ -97,49 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 06:55",
-   "title": "Bloomberg Businessweek Daily: Saudi Pipeline Attack (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-18/bloomberg-businessweek-daily-saudi-pipeline-attack-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 06:45",
-   "title": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
-   "summary": "Google’s Gemini artificial intelligence model inadvertently hacked into three company systems in May during cybersecurity testing, adding to a string of breaches by AI agents that …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 06:38",
-   "title": "Bloomberg Businessweek Daily: America's Rich (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-18/bloomberg-businessweek-daily-america-s-rich-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.4
+   "heat": 246.6
   }
  ]
 }
