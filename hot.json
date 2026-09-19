@@ -1,6 +1,48 @@
 {
- "updated": "2026-09-20 01:37",
+ "updated": "2026-09-20 03:49",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-20 03:09",
+   "title": "Saudis Issue Air-Raid Alerts, Greenland Security Deal Reached",
+   "summary": "Source: Bloomberg, 5:14",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-19/saudis-issue-air-raid-alerts-greenland-security-deal-reached",
+     "t": "sec"
+    }
+   ],
+   "heat": 271.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 03:08",
+   "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
+   "summary": "Smoke and flames were seen near Riyadh’s main airport after Saudi civil-defense alerts, while Pakistan urged Iran to protect energy supplies and shipping.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 271.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 02:02",
+   "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax",
+   "summary": "President Donald Trump said he would name an artificial intelligence czar as he continued to push tech companies to race ahead with development despite growing fears safety.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
+     "t": "sec"
+    }
+   ],
+   "heat": 271.7
+  },
   {
    "cat": "sector",
    "time": "2026-09-20 01:02",
@@ -13,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 275.9
+   "heat": 271.5
   },
   {
    "cat": "sector",
@@ -27,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 275.7
+   "heat": 271.3
   },
   {
    "cat": "sector",
@@ -41,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 275.5
+   "heat": 271.2
   },
   {
    "cat": "sector",
@@ -55,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 275.5
+   "heat": 271.1
   },
   {
    "cat": "sector",
@@ -69,21 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 275.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 22:03",
-   "title": "India’s Silicon Valley Is Straining Under Its Own Growth",
-   "summary": "Bangalore helped turn India into a global hub for software services, tech talent and outsourcing, building an ecosystem that now supports multinational firms, domestic startups and…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-19/india-s-silicon-valley-is-straining-under-its-own-growth-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 275.4
+   "heat": 271.1
   },
   {
    "cat": "sector",
@@ -97,21 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 275.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 21:48",
-   "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
-   "summary": "Smoke and flames were seen near Riyadh’s main airport after Saudi civil-defense alerts, while Pakistan urged Iran to protect energy supplies and shipping.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 275.4
+   "heat": 271.0
   },
   {
    "cat": "sector",
@@ -125,21 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 275.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 20:50",
-   "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-   "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 275.2
+   "heat": 270.9
   }
  ]
 }
