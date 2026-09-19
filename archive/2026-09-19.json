@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19 15:41",
+ "updated": "2026-09-19 20:47",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.0
+   "heat": 104.0
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 85.8
+   "heat": 92.9
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 85.8
+   "heat": 92.9
   },
   {
    "cat": "macro",
@@ -55,7 +55,21 @@
      "t": "agg"
     }
    ],
-   "heat": 83.3
+   "heat": 90.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-17 21:33",
+   "title": "US Stock Indexes Surge as Oil Prices Retreat and Fed Initiates Rate Hike - Devdiscourse",
+   "summary": "US Stock Indexes Surge as Oil Prices Retreat and Fed Initiates Rate Hike &nbsp;&nbsp; Devdiscourse",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWlp4Y0xVa0xSbU0wT3dJS1BEUlcxeTZGUzVkRWhfV0I2NHdvU3NpbXpHOTc0VVpzSXp3N0Z0bnZocjNxQmVUdE9qX2JuQXZBN2pRT2g2WE4wMkQ1blhqYnJQdGptX09yanNhcW5Ed3NpaVhYQ0g3MWhlejNudnFaYVhHTW1fekFnTGRva0t2SWF4eVBsSUhKNGliRVZPU0M1RmFqcHI0S0dsakhmTmFMU0hKUHZZSWw4T0tVMmVtcGtieHhjU0RaS2pn0gHKAUFVX3lxTFBaWnhjTFVrTFJtTTBPd0lLUERSVzF5NkZTNWRFaF9XQjY0d29Tc2ltekc5NzRVWnNJenc3RnRudmhyM3FCZVR0T2pfYm5BdkE3alFPaDZYTjAyRDVuWGpiclB0am1fT3Jqc2FxbkR3c2lpWFhDSDcxaGV6M252cVphWEdNbV96QWdMZG9rS3ZJYXh5UGxJSEo0aWJFVk9TQzVGYWpwcjRLR2xqSGZOYUxTSEpQdllJbDhPS1UyZW1wa2J4eGNTRFpLamc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 88.1
   },
   {
    "cat": "macro",
@@ -69,105 +83,49 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 88.0
   },
   {
    "cat": "macro",
-   "time": "2026-09-19 07:14",
-   "title": "Stocks face a key hurdle in next week’s U.S.-China summit. Here’s what’s at stake",
-   "summary": "The S&P 500 and the Dow Industrials posted weekly losses as investors grappled with rising yields. Next week's U.S.-China summit could be a wildcard for stocks.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/18/stock-market-next-week-outlook-for-sept-21-25-2026.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 66.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-19 06:06",
-   "title": "S&P 500: Index Edges Up 0.17% to 7,650.50 as Nasdaq Leads and Treasury Yields Hover at 5% - BBN Times",
-   "summary": "S&P 500: Index Edges Up 0.17% to 7,650.50 as Nasdaq Leads and Treasury Yields Hover at 5% &nbsp;&nbsp; BBN Times",
+   "time": "2026-09-17 04:04",
+   "title": "US stocks today: Dow ends 650 pts lower after Fed rate hike, more rate tightening seen - The Economic Times",
+   "summary": "US stocks today: Dow ends 650 pts lower after Fed rate hike, more rate tightening seen &nbsp;&nbsp; The Economic Times",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb2RZNEZ2TkMyNHBFeXFDZjlmLXkzLTJpVjZOd3BxNlFkWUVVakpDUWZGVFNOaEZURTBCYkxPYkdzWDdNMmc0U3hna21WVXQ5YVBwcE9RNEJsUTAtaWt2VzdMbEQ3ak9jelVLOEp3OXF0LTdqOGxpX0xxb1dQaVd2RjVyMzJWNHZRVTJDU1duVEpUenZlODl5NnRyNWNZU2dNWWtMd0JsQldSaFJhNnlwZXdsLXA3bldhT3hxY3ZBRVA3OHox?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNenVvM255SkQ1aUZQckhpcVZBZzBsVlVJUV9RdXoxUTVHYXF3Tmc2eTc4c1lRQklqUERzY2ZmQjA0VWFHYnppS1hRaldab1FUOVpJdEFuQkg3R0JDdnBUaDdYNkNJeFozMEs5Uk9KZG1zVjRzalo4REk5bHNyOEdjNFFadFhvelpxRzVSbFBEU2ZWRVRmSFB0VllWVFZwajlNaXMzOVBja2loSy12cExERTVuUENSVHN0TzlCbEhzYk9pemRDcVlmd0NsSmprMC11UnJfbDctTGNORnhQaFdsNkVfd1pPUlVPVTRPc1RSVzBLeFljZHp4cXN5S21GWE9rdGlfdVUycHVMUEFmRk5TLXBaMTlzdEtjemxKeVhDNkdGNGMxeVdNR2FETG50X25nRXlsS1JFRmJpNVByVUI5Wmo3bW1PSFJ3eVlrZUVoRFdhSEZtM0oxRm9R0gGCAkFVX3lxTFBTdXhFTDF2RTVqR1ZwT1RsSVBlN29IZkRiOVhZTTk4SkpaMnpaVkZxV09nak5Zb25wNURSZnpJeHNEM0lWbFl5d1VXNXhSeXNoZzhLRkc0c0Q5aEJreGdqWXhjWk5fNlZPS3pOSXBjUFY2OHFqTFVuZzhHY3hqcURDS3pSZkVvR3lQUDJoU1FwRTRuN0V3dUVFVTBkY1Bsa0Y4U0JSc2hrLXVFRDUxNF90eFdRRnd4dGR5ZV9xSUtyRXdkMWw4ME92aEFPWDVYQ29NR2s4eHZXWk9obl9QdnpyWGFOOHJkZ0tMTUQ1ek40M1pRNVE4b0FrLU9vN0o4SVJLZw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 66.4
+   "heat": 88.0
   },
   {
    "cat": "macro",
-   "time": "2026-09-19 04:28",
-   "title": "Wall Street drifts lower as bond yields rise and oil prices swing - BNN Bloomberg",
-   "summary": "Wall Street drifts lower as bond yields rise and oil prices swing &nbsp;&nbsp; BNN Bloomberg",
+   "time": "2026-09-18 13:11",
+   "title": "The BoJ Needed to Pole Vault the Fed’s Hawkish Bar - FX Says It Missed the Jump",
+   "summary": "",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0s4MVJTU3MwNXcwMlJPM1ExMlRrZEk0eWZMSC1PbjNPX1pSWmFPd0hlbDBob1MyWUJVQVo5aFJwZmNKZHA3T0tYT3EyazhiTG5YNEJSeFY0cU9JZmYyMzJiTHl3Nk5sN3F6eFRkZTIwOHpmQWdTQTdqLU9Ua3ZNQkVxQ3lSTE15NzQwa0RFalVEQXdGN3lRaWlQVzlWUWFMSU5VTjdDeG40cG8?oc=5",
-     "t": "sec"
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/the-boj-needed-to-pole-vault-the-feds-hawkish-bar--fx-says-it-missed-the-jump-200687922",
+     "t": "agg"
     }
    ],
-   "heat": 66.1
+   "heat": 64.7
   },
   {
    "cat": "macro",
-   "time": "2026-09-19 03:52",
-   "title": "Amex launches high-yield savings account to complement business checking",
-   "summary": "Amex Business Savings offers an above-average return, plus no minimum balance requirement or monthly fees.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/select/amex-launches-high-yield-savings-account-for-business-owners/",
-     "t": "sec"
-    }
-   ],
-   "heat": 66.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-18 09:00",
-   "title": "CX Daily: Plunging Yields and Debt Swaps Are Rewiring China’s Credit Market",
-   "summary": "CX Daily: Plunging Yields and Debt Swaps Are Rewiring China’s Credit Market &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaGNxc0N2MTA5ZzgzZkdaSHRaZWdsVVdLQjhzaVlsbnRpT0QtNXk3cmkyTGlwbjM3TEZQVWFGRmh3N2ppU1pGR09kemVPYXF3bnN6TGZHYTh6TVdzSlVnTlk0LTVXTVpGN0k4YkF2QkNiUGowQ01OTWFoY3k5SzBNd0IyTjJ0SHgyeXpFNXY2Q25TLVUtMW50TEtNNG5kWWZLY1BiTVlOZTVqZl9Jd3lsVEFWWndDNDZWRHV6SmdXd2dKTkc0OFBF?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 62.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-18 06:43",
-   "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
-   "summary": "Tech leads Wall St to higher close as oil eases, Treasury yields dip &nbsp;&nbsp; Reuters",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 62.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-18 06:14",
-   "title": "S&P 500 Volume Spikes on $7 Trillion Options Day: Markets Wrap",
-   "summary": "The last stretch of a busy week for markets saw stocks churning as bond yields rose, with investors also facing the expiration of a pile of options that spurred a surge in trading …",
+   "time": "2026-09-19 08:16",
+   "title": "Mark Walter’s Lieutenants Give Prosecutors Firsthand Accounts",
+   "summary": "Federal prosecutors have collected statements from some of billionaire Mark Walter’s most senior executives as authorities probe dealings at his insurance companies and the investm…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-17/stock-market-today-dow-s-p-live-updates",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-19/mark-walter-s-lieutenants-give-prosecutors-firsthand-accounts",
      "t": "sec"
     }
    ],
-   "heat": 62.4
+   "heat": 61.9
   },
   {
    "cat": "macro",
@@ -181,35 +139,189 @@
      "t": "sec"
     }
    ],
-   "heat": 62.1
+   "heat": 61.3
   },
   {
    "cat": "macro",
-   "time": "2026-09-18 15:04",
-   "title": "US Dollar Stays Supported as Treasury Rebound Could Precede Higher Yields",
-   "summary": "",
+   "time": "2026-09-18 18:43",
+   "title": "China’s Fiscal Pullback Extends to August as Spending Slumps",
+   "summary": "China’s public expenditure declined at a quicker rate in August, indicating the government was still withdrawing fiscal support for the economy despite cooling growth momentum.",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-stays-supported-as-treasury-rebound-could-precede-higher-yields-200687933",
-     "t": "agg"
-    }
-   ],
-   "heat": 61.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-19 02:11",
-   "title": "McDonald's is the new 'Value Meal,' says trader Mike Khouw",
-   "summary": "McDonald's announced this week that it is revising its U.S. value strategy after recording its slowest sales growth in more than a year.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/18/mcdonalds-is-the-new-value-meal-says-trader-mike-khouw.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-18/china-s-fiscal-pullback-stretches-into-august-as-spending-slumps",
      "t": "sec"
     }
    ],
-   "heat": 61.7
+   "heat": 59.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-19 00:45",
+   "title": "Gold Is Breaking Free From the Fed’s Grip — and That Changes the Bull Case",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-is-breaking-free-from-the-feds-grip--and-that-changes-the-bull-case-200687982",
+     "t": "agg"
+    }
+   ],
+   "heat": 58.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-18 19:31",
+   "title": "Central Banks Are Moving Gold as Geopolitical Risks Reshape Reserve Strategy",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/bring-the-gold-home-200687962",
+     "t": "agg"
+    }
+   ],
+   "heat": 57.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-19 07:14",
+   "title": "Stocks face a key hurdle in next week’s U.S.-China summit. Here’s what’s at stake",
+   "summary": "The S&P 500 and the Dow Industrials posted weekly losses as investors grappled with rising yields. Next week's U.S.-China summit could be a wildcard for stocks.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/18/stock-market-next-week-outlook-for-sept-21-25-2026.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 57.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-18 19:01",
+   "title": "Gold Not Afraid of Higher Interest Rates",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-not-afraid-of-higher-interest-rates-200687958",
+     "t": "agg"
+    }
+   ],
+   "heat": 57.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 20:43",
+   "title": "Buffett takes next step in plan to keep Berkshire from straying",
+   "summary": "Warren Buffett steps down as Berkshire Hathaway's chairman, passing the job to his son, Howard.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 264.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 20:28",
+   "title": "AI Agents Test the Limits of Human Oversight",
+   "summary": "OpenAI disclosed six cases of unexpected or concerning model behavior as AI companies grapple with how to monitor increasingly autonomous agents and whether stronger independent ov…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-19/ai-agents-test-the-limits-of-human-oversight-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 20:00",
+   "title": "US, Denmark Reach Greenland Security Deal, Saudi Air-Raid Alerts",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-19/us-denmark-reach-greenland-security-deal-saudi-air-raid-alerts",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 20:00",
+   "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
+   "summary": "As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 18:36",
+   "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+   "summary": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 18:34",
+   "title": "Saudi Arabia Issues Air-Raid Alerts for Riyadh, Denmark Deal",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-19/saudi-arabia-issues-air-raid-alerts-for-riyadh-denmark-deal",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 17:05",
+   "title": "Defense firm Anduril says U.S. delay on Taiwan arms sales affecting its business",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/19/anduril-says-us-delay-on-taiwan-arms-sales-affecting-its-business.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 16:00",
+   "title": "Odd Lots: Goldman’s Sykes on the 2028 Olympics Deal (Podcast)",
+   "summary": "We’re in an era of megadeals, with Goldman Sachs reporting a record year for big deal volumes as companies scramble to compete with AI. Gene Sykes has seen multiple deal cycles com…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-19/odd-lots-goldman-s-sykes-on-the-2028-olympics-deal-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.2
   },
   {
    "cat": "sector",
@@ -223,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.7
+   "heat": 262.9
   },
   {
    "cat": "sector",
@@ -237,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.3
+   "heat": 262.5
   },
   {
    "cat": "sector",
@@ -251,63 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 247.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 10:04",
-   "title": "Security Deal on Greenland, Google Joins in Disclosing AI Hacks",
-   "summary": "Source: Bloomberg, 6:03",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-19/security-deal-on-greenland-google-joins-in-disclosing-ai-hacks-mu7qvanw",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 09:41",
-   "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
-   "summary": "The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 09:12",
-   "title": "US Deal on Greenland with Denmark,Google Discloses AI Hacks,More",
-   "summary": "Source: Bloomberg, 6:48",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-19/us-deal-on-greenland-with-denmark-google-discloses-ai-hacks-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 246.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 09:00",
-   "title": "Indonesia’s New Finance Minister Aims for Stability After Political Drama",
-   "summary": "Indonesia’s new finance minister, Suahasil Nazara, faces global and local challenges.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-19/indonesia-s-new-finance-minister-aims-for-stability-after-political-drama",
-     "t": "sec"
-    }
-   ],
-   "heat": 246.9
+   "heat": 262.3
   },
   {
    "cat": "sector",
@@ -321,105 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 246.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 07:31",
-   "title": "Nvidia CEO Says There’s ‘0% Chance’ That World Will End in 2030",
-   "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang renewed his pushback against AI doomsday scenarios, saying that the technology doesn’t pose an extinction risk to humanity.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-18/nvidia-ceo-says-there-s-0-chance-that-world-will-end-in-2030",
-     "t": "sec"
-    }
-   ],
-   "heat": 246.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 07:28",
-   "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
-   "summary": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 246.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 07:02",
-   "title": "OpenAI Sees Burning Through $278 Billion by 2030: FT",
-   "summary": "OpenAI expects that its negative free cash flow will reach $278 billion from 2026 to the end of 2030, the Financial Times reported, citing a company presentation.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-18/openai-projects-burning-through-278-billion-by-2030-ft-says",
-     "t": "sec"
-    }
-   ],
-   "heat": 246.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 06:45",
-   "title": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
-   "summary": "Google’s Gemini artificial intelligence model inadvertently hacked into three company systems in May during cybersecurity testing, adding to a string of breaches by AI agents that …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
-     "t": "sec"
-    }
-   ],
-   "heat": 246.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 06:38",
-   "title": "Bloomberg Businessweek Daily: America's Rich (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-18/bloomberg-businessweek-daily-america-s-rich-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 246.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 06:17",
-   "title": "Cramer’s week ahead: What to watch as Wall Street navigates a tough September",
-   "summary": "CNBC’s Jim Cramer said investors could be in for a relatively quiet week as Wall Street works its way through a historically difficult September.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/18/jim-cramer-week-ahead-costco-okta.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 246.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-19 05:00",
-   "title": "Own Stocks, Trim Govt Bond Holdings: KKR's McVey",
-   "summary": "Henry McVey, partner, head of global macro and asset allocation and CIO of the KKR's balance sheet, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" (Source: Bloomberg)",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-18/own-stocks-trim-govt-bond-holdings-kkr-s-mcvey",
-     "t": "sec"
-    }
-   ],
-   "heat": 66.2
+   "heat": 261.8
   },
   {
    "cat": "stock",
@@ -433,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.1
+   "heat": 49.3
   },
   {
    "cat": "stock",
@@ -447,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.0
+   "heat": 49.1
   },
   {
    "cat": "stock",
@@ -461,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 65.8
+   "heat": 49.0
   },
   {
    "cat": "stock",
@@ -475,21 +433,21 @@
      "t": "sec"
     }
    ],
-   "heat": 65.5
+   "heat": 48.7
   },
   {
    "cat": "stock",
-   "time": "2026-09-19 07:01",
-   "title": "Metropolitan bank director Fredston sells $178,180 in stock",
-   "summary": "",
+   "time": "2026-09-18 10:46",
+   "title": "加息落地红利防御属性凸显，南方基金旗下红利低波50ETF南方(515450)跟踪标的指数标普中国A股大盘红利低波50指数昨日跌0.14%",
+   "summary": "加息落地红利防御属性凸显，南方基金旗下红利低波50ETF南方(515450)跟踪标的指数标普中国A股大盘红利低波50指数昨日跌0.14% &nbsp;&nbsp; 财联社",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/metropolitan-bank-director-fredston-sells-178180-in-stock-93CH-4908059",
-     "t": "agg"
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pSUdfclFGekZrcEZSaWRUdm9vWnFtOGswZS1yYjNBbGNxYUhMdnd4eGI1cU1fbGpQQ21fVS1ONlJ1bWE1dkRoMg?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 64.6
+   "heat": 46.3
   },
   {
    "cat": "stock",
@@ -503,7 +461,21 @@
      "t": "sec"
     }
    ],
-   "heat": 62.1
+   "heat": 45.3
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-17 10:51",
+   "title": "南方基金旗下科创芯片ETF南方(588890)跟踪标的指数上证科创板芯片指数(000685.SH) 昨日收涨4.99%",
+   "summary": "南方基金旗下科创芯片ETF南方(588890)跟踪标的指数上证科创板芯片指数(000685.SH) 昨日收涨4.99% &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FV2pvT1ExYmx2ZEdqWWc2QTdNUGxJdXJFTHJXWEExaFJsaVhWblp6MURtbFNLamw4UjBZaEYtY19GaDdveTNPMA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 44.0
   },
   {
    "cat": "stock",
@@ -517,35 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-16 17:37",
-   "title": "Analysts warn of the global effects of a hypothetical AI stock crash - EL PAÍS English",
-   "summary": "Analysts warn of the global effects of a hypothetical AI stock crash &nbsp;&nbsp; EL PAÍS English",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUF9OVjNBSGJUaEhMeHZQT2dzb1FTS0lVLWJLbmtYMF9Ea21scGIzQ25GSjRCeXNuWXpRWDExSlV3ZG1mTE9OZ0VTSmhVeDZEVkJVQzFESHpfZmV3emR4MlBGZ05EMEpYTmlPY01tV2gtclc1ZVZGR3ZISGVuWnRURGNEbnJwUnE2UHRnY2YwOWt1RWh1UW9oV1F6bGRDTHdxWDlpcmJRYmJtRTVaLVFMck1pem1rLVlxNG1SVXFJWmNVMTBfekh4YXRXT1_SAeABQVVfeXFMT1dMMzFhdGJObTJHMHQ1TUdPbEoyZnhWZXpiUHJDQlhFbHhhaXBFNmh0bnZzTzVldzg4TnhwQVgyb0F5dDR2eS0wNVZrcmdBTFo3OGNqdDdBWTg3QzFDenotcGRGMXh2Nm5GZURXYXQtdUN0eFpxVGJMbmk0UzA3REEwWlhybVhscGFGRXFYcGhKeklrS3ZfLVhHbVNRNzBsa3IzMUVRbU5MRHpuc2VMYlg3cHVob1lBTDloU256WHhOVzZMcVB3eVpRU1ljdHlHYnhuWGJJYmlKOHMwaVI1THI?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 60.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-16 02:16",
-   "title": "5 Best Climate Change Stocks for 2026 and How to Invest - The Motley Fool",
-   "summary": "5 Best Climate Change Stocks for 2026 and How to Invest &nbsp;&nbsp; The Motley Fool",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzNyamhoTzBpVDUwOHlwSEtfZjBqOEF5ekRkYjJlTk9KMTZDbTVleTJObmN0ZzZVbWQtSDlCYTBGQ25CMXBQRHNsTjB2OHlpRzdYeHJoOTJjTG95TFh5UmQ1RVR0T3JFRXVSYUd3NzNGZWtXLTFzLVd4bUJjcVdfVnZRRmRGZTRXZ2VZbWZYMnlsdHVVdXpxUlNmZnU?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 60.0
+   "heat": 44.0
   },
   {
    "cat": "stock",
@@ -559,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 44.0
   },
   {
    "cat": "stock",
@@ -573,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 44.0
   },
   {
    "cat": "stock",
@@ -587,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 44.0
   },
   {
    "cat": "stock",
@@ -601,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 44.0
   },
   {
    "cat": "stock",
@@ -615,21 +559,35 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 44.0
   },
   {
-   "cat": "global",
-   "time": "2026-09-19 07:07",
-   "title": "Japanese Yen: Dovish BoJ hike weighs on yen – Scotiabank",
-   "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the Japanese Yen (JPY) is down sharply versus the US Dollar (USD) after a dovishly delivered 25 bps Bank of Japan (BoJ) h…",
+   "cat": "stock",
+   "time": "2026-09-19 17:06",
+   "title": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years. - The Globe and ",
+   "summary": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years. &nbsp;&nbsp; The Globe and Mail",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-weighs-on-yen-scotiabank-202609182307",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPM19fUU1qQmFNOVdHck9JMVoxUlcyS01seFp4WGxlRE9OTjZQekFsYk1hVzEzNFVjdFRuLTEtWWdGXzlhcUt0MmRUSGRCY3NiSFdBVUZ4VXVnWldxdzdBb2lMRVBtUk1XWDJzYTI1Q2lTeHpmdVpMcmo5Mk9UcDJGa0NZMDJvVUl4RWFzLW1kOHRIcXRUTVVCNmFrdEkwN1dMMno0Y0pPSV9fWlNRZG5ubGtIX2piaXg1azdyRlZ2NXFzSFRfSHZVb0JTLXN5NUFxOWUzVkNIeko2cWxhekVFQlhHTHZnWHVqU1FsajR1UExxWVY0ZS1DSHFOOGVtQ1VqZlFNdUNCazJDbG5NblFnNzRiQVk?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 58.6
+   "heat": 43.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-18 21:00",
+   "title": "Vanguard S&P 500 ETF Over the Next 10 Years: What History Says About the Road Ahead - finance.yahoo.com",
+   "summary": "Vanguard S&P 500 ETF Over the Next 10 Years: What History Says About the Road Ahead &nbsp;&nbsp; finance.yahoo.com",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGdhZjRaZWpLTlZhXzg3X2Qxa01SN0s0UGd4d0NrQzlyTHR4QWZOcHZQelpENUMzd2M3LU5wZjVzLVJ2SmQxQ0JNMEhKR00tTHZYSU5aclJFemN2dkx4aF9fY0I5ekRGUko5SDB2OFM3SzVTZlV1M2l6dDBqRkJiY3NkeE1iT1EwTlZQX1lKSkd2Zw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.0
   },
   {
    "cat": "global",
@@ -643,7 +601,35 @@
      "t": "sec"
     }
    ],
-   "heat": 57.8
+   "heat": 73.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-19 07:07",
+   "title": "Japanese Yen: Dovish BoJ hike weighs on yen – Scotiabank",
+   "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the Japanese Yen (JPY) is down sharply versus the US Dollar (USD) after a dovishly delivered 25 bps Bank of Japan (BoJ) h…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-weighs-on-yen-scotiabank-202609182307",
+     "t": "sec"
+    }
+   ],
+   "heat": 61.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-19 18:55",
+   "title": "Paramount could settle with states over Warner Bros. as soon as this weekend, sources say",
+   "summary": "A settlement this week could help Paramount avoid paying millions of dollars in fees to Warner Bros. shareholders, Reuters reported.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/19/paramount-could-settle-with-states-over-warner-bros-this-weekend-reuters.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.7
   },
   {
    "cat": "global",
@@ -657,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.7
+   "heat": 57.9
   },
   {
    "cat": "global",
@@ -671,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.6
+   "heat": 57.8
   },
   {
    "cat": "global",
@@ -685,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.6
+   "heat": 57.8
   },
   {
    "cat": "global",
@@ -699,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.4
+   "heat": 57.5
   },
   {
    "cat": "global",
@@ -713,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.3
+   "heat": 57.4
   },
   {
    "cat": "global",
@@ -727,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.3
+   "heat": 57.4
   },
   {
    "cat": "global",
@@ -741,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.2
+   "heat": 57.3
   },
   {
    "cat": "global",
@@ -755,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.2
+   "heat": 57.3
   },
   {
    "cat": "global",
@@ -769,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.0
+   "heat": 57.2
   },
   {
    "cat": "global",
@@ -783,7 +769,21 @@
      "t": "sec"
     }
    ],
-   "heat": 53.9
+   "heat": 57.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-19 20:11",
+   "title": "JPMorgan Sees No Clear Endgame for Oil Markets",
+   "summary": "An attack on Saudi Arabia’s East-West pipeline has disrupted a crucial route around the Strait of Hormuz, threatening crude deliveries to Europe and adding pressure to already tigh…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-19/jpmorgan-sees-no-clear-endgame-for-oil-markets-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.9
   },
   {
    "cat": "global",
@@ -797,35 +797,7 @@
      "t": "sec"
     }
    ],
-   "heat": 25.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-19 05:41",
-   "title": "Saudi alerts sound as Yemen fighting puts key oil shipping routes under pressure",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/saudi-alerts-sound-as-yemen-fighting-puts-key-oil-shipping-routes-under-pressure-4908056",
-     "t": "agg"
-    }
-   ],
-   "heat": 20.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-18 22:07",
-   "title": "Oil Futures Decline as Optimism Grows About Saudi Supply Recovery",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-futures-decline-as-optimism-grows-about-saudi-supply-recovery-200687972",
-     "t": "agg"
-    }
-   ],
-   "heat": 19.1
+   "heat": 41.0
   },
   {
    "cat": "crypto",
@@ -839,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.2
+   "heat": 57.4
   },
   {
    "cat": "crypto",
@@ -853,21 +825,21 @@
      "t": "sec"
     }
    ],
-   "heat": 60.4
+   "heat": 55.5
   },
   {
    "cat": "crypto",
-   "time": "2026-09-18 19:54",
-   "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
-   "summary": "HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against HYPE and Bitcoin collateral.",
+   "time": "2026-09-19 15:50",
+   "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+   "summary": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 44.7
+   "heat": 43.2
   },
   {
    "cat": "crypto",
@@ -881,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.9
+   "heat": 41.1
   },
   {
    "cat": "crypto",
@@ -895,21 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-18 23:35",
-   "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
-   "summary": "Bitcoin price action made swift gains at the start of Friday’s Wall Street trading session as US 30-year bond yields began rising again.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 37.3
+   "heat": 40.5
   },
   {
    "cat": "crypto",
@@ -923,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.3
+   "heat": 40.4
   },
   {
    "cat": "crypto",
@@ -937,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.2
+   "heat": 40.4
   },
   {
    "cat": "crypto",
@@ -951,35 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-19 07:02",
-   "title": "Bitcoin hits $82,178 resistance with MFI 100: Live levels",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-     "t": "agg"
-    }
-   ],
-   "heat": 36.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-18 18:46",
-   "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
-   "summary": "The Fisher Transform indicator produced a rare crossover for only the fourth time in Bitcoin’s history.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 36.5
+   "heat": 40.2
   },
   {
    "cat": "crypto",
@@ -993,7 +923,49 @@
      "t": "sec"
     }
    ],
-   "heat": 36.5
+   "heat": 39.6
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-19 20:13",
+   "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+   "summary": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-18 19:54",
+   "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+   "summary": "HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against HYPE and Bitcoin collateral.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-18 23:35",
+   "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
+   "summary": "Bitcoin price action made swift gains at the start of Friday’s Wall Street trading session as US 30-year bond yields began rising again.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 28.5
   },
   {
    "cat": "crypto",
@@ -1007,35 +979,35 @@
      "t": "sec"
     }
    ],
-   "heat": 36.4
+   "heat": 27.6
   },
   {
    "cat": "crypto",
-   "time": "2026-09-18 14:52",
-   "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
-   "summary": "The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from shi…",
+   "time": "2026-09-19 20:00",
+   "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+   "summary": "JPMorgan and Citi move billions in tokenized deposits, but only among their branches. A U.K. challenger bank is about to do something neither has done.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
+     "u": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
      "t": "sec"
     }
    ],
-   "heat": 35.9
+   "heat": 19.9
   },
   {
    "cat": "crypto",
-   "time": "2026-09-18 17:14",
-   "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
-   "summary": "Dtcpay plans to expand its merchant network and payment products after completing a $25 million Series A backed by Japan’s SBI Group.",
+   "time": "2026-09-19 05:36",
+   "title": "Accenture’s Gramling on Latest Holiday Shopping Survey",
+   "summary": "Kathryn Gramling discusses new Accenture data showing that nearly half of consumers plan to spend the same amount or less than they did last year. She discusses whether that level …",
    "srcs": [
     {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-18/accenture-s-gramling-on-latest-holiday-shopping-survey-video",
      "t": "sec"
     }
    ],
-   "heat": 16.3
+   "heat": 17.5
   },
   {
    "cat": "sector",
@@ -1049,7 +1021,35 @@
      "t": "sec"
     }
    ],
-   "heat": 242.8
+   "heat": 258.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 02:21",
+   "title": "Evergrande NEV Abandons Car Manufacturing as Delisting Looms",
+   "summary": "Evergrande NEV Abandons Car Manufacturing as Delisting Looms &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUl2RVMwMUhVREFxZ0JvRDZ3OTlzN2g5RzF0U0g3V3JqOHNWOXRLS19INHZXdUVwVHBRcXRSU3ZoT3R4UmwwMW0wZzhGTEdlOG9CblkteEZpVkJVOU50dXNaM3huU1M3THdheWxqQUZIMUlZR2FsM0tmSXVEb0thQlY1WVhlcnpIby1pYnQ1SUxBZ1FzdHpsbkpKM3JmbTN6eERWQlhNT0VmUmczTFBJaTdMUVY2QQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 260.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-19 12:36",
+   "title": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
+     "t": "agg"
+    }
+   ],
+   "heat": 260.6
   }
  ]
 }
