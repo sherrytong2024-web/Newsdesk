@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21 04:03",
+ "updated": "2026-09-21 06:49",
  "items": [
   {
    "cat": "macro",
@@ -13,13 +13,13 @@
      "t": "sec"
     }
    ],
-   "heat": 116.0
+   "heat": 107.5
   },
   {
    "cat": "macro",
    "time": "2026-09-21 00:24",
-   "title": "S&P 500 Today: Closes at 7,551.81, Down 0.45% After Fed's First Rate Hike in Three Years - bbntimes.com",
-   "summary": "S&P 500 Today: Closes at 7,551.81, Down 0.45% After Fed's First Rate Hike in Three Years &nbsp;&nbsp; bbntimes.com",
+   "title": "S&P 500 Today: Closes at 7,551.81, Down 0.45% After Fed's First Rate Hike in Three Years - BBN Times",
+   "summary": "S&P 500 Today: Closes at 7,551.81, Down 0.45% After Fed's First Rate Hike in Three Years &nbsp;&nbsp; BBN Times",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 115.4
+   "heat": 106.9
   },
   {
    "cat": "macro",
@@ -41,21 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-18 21:41",
-   "title": "US stocks today: US stocks slip as Treasury yields rise, investors weigh Fed outlook - The Economic Times",
-   "summary": "US stocks today: US stocks slip as Treasury yields rise, investors weigh Fed outlook &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSG9JalFLM3k4WTlLc0hNOTVOQ3lPWWVGVU16UWo0bm1INWRGa3ZMMDJFYk9SQTE0S3V1YzFsQWZtaXdvZG1SSmtmaWVRWlVwc0xfTzgzOG1SVEFqdHpDdnlKWXZpY0d4UHJWb0NZb2w3VS1hMlp6bFRRNzh1dTB3YlY3TGpzZEZQNEZRRzd4RjcybWZUeHZPSUYxanR0cFNwNkRBTjdDMVBzZlpDeVpFM1MtSE5DekFpaFRnOElJaE9sOHYxSndFUkVjWjVwTFN5TUNYaUVyTmVfbVhiNHhPcmpOSErSAeoBQVVfeXFMTUJhUG1SdVdiUm4zZ3Y2Rl83aTc2WnRtRWJQRGZOS1ZyQXJwQjREQVBGWHZuMzk1clZZVFlXWDVPQ25sNGhiTEJjSmZIN3B2MzVpUEJCc0tkOThVQTZiN1RHTXhaNUh4MVNjTGxhdEVRQjcwcy04N1ZyUnlYaWpQU2FrNGRnZDVJYkxZcDNiOVMyOVlLNl80Y3hocW9mdGR2cjVxWjFoS3VkckdCd3M3aXFONDg1SVJuZkgzM2lILVVCSE9MV1k1eDVJYThtYUdLeUFLU1VBMkc4cnpqZEI1Y0ltR290cVZXTXJB?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 108.0
+   "heat": 102.9
   },
   {
    "cat": "macro",
@@ -69,7 +55,21 @@
      "t": "agg"
     }
    ],
-   "heat": 106.0
+   "heat": 98.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-18 21:41",
+   "title": "US stocks today: US stocks slip as Treasury yields rise, investors weigh Fed outlook - The Economic Times",
+   "summary": "US stocks today: US stocks slip as Treasury yields rise, investors weigh Fed outlook &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSG9JalFLM3k4WTlLc0hNOTVOQ3lPWWVGVU16UWo0bm1INWRGa3ZMMDJFYk9SQTE0S3V1YzFsQWZtaXdvZG1SSmtmaWVRWlVwc0xfTzgzOG1SVEFqdHpDdnlKWXZpY0d4UHJWb0NZb2w3VS1hMlp6bFRRNzh1dTB3YlY3TGpzZEZQNEZRRzd4RjcybWZUeHZPSUYxanR0cFNwNkRBTjdDMVBzZlpDeVpFM1MtSE5DekFpaFRnOElJaE9sOHYxSndFUkVjWjVwTFN5TUNYaUVyTmVfbVhiNHhPcmpOSErSAeoBQVVfeXFMTUJhUG1SdVdiUm4zZ3Y2Rl83aTc2WnRtRWJQRGZOS1ZyQXJwQjREQVBGWHZuMzk1clZZVFlXWDVPQ25sNGhiTEJjSmZIN3B2MzVpUEJCc0tkOThVQTZiN1RHTXhaNUh4MVNjTGxhdEVRQjcwcy04N1ZyUnlYaWpQU2FrNGRnZDVJYkxZcDNiOVMyOVlLNl80Y3hocW9mdGR2cjVxWjFoS3VkckdCd3M3aXFONDg1SVJuZkgzM2lILVVCSE9MV1k1eDVJYThtYUdLeUFLU1VBMkc4cnpqZEI1Y0ltR290cVZXTXJB?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 96.0
   },
   {
    "cat": "macro",
@@ -83,21 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 99.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-20 22:20",
-   "title": "MSC Among Suitors for German State-Held Meyer Werft Stake",
-   "summary": "MSC Mediterranean Shipping Co. is in talks to acquire the roughly 80% stake in German cruise-ship builder Meyer Werft GmbH held by the federal government and the state of Lower Sax…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-20/msc-among-suitors-for-german-state-held-meyer-werft-stake",
-     "t": "sec"
-    }
-   ],
-   "heat": 75.0
+   "heat": 87.4
   },
   {
    "cat": "macro",
@@ -111,7 +97,21 @@
      "t": "agg"
     }
    ],
-   "heat": 74.0
+   "heat": 70.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-20 22:20",
+   "title": "MSC Among Suitors for German State-Held Meyer Werft Stake",
+   "summary": "MSC Mediterranean Shipping Co. is in talks to acquire the roughly 80% stake in German cruise-ship builder Meyer Werft GmbH held by the federal government and the state of Lower Sax…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-20/msc-among-suitors-for-german-state-held-meyer-werft-stake",
+     "t": "sec"
+    }
+   ],
+   "heat": 66.6
   },
   {
    "cat": "macro",
@@ -125,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 73.3
+   "heat": 64.8
   },
   {
    "cat": "macro",
@@ -139,35 +139,35 @@
      "t": "agg"
     }
    ],
-   "heat": 72.2
+   "heat": 63.7
   },
   {
    "cat": "macro",
-   "time": "2026-09-20 15:13",
-   "title": "Minneapolis Fed’s Kashkari says inflation remains too high",
-   "summary": "",
+   "time": "2026-09-21 02:37",
+   "title": "Pimco Likes Rates Where They Are, CEO Roman Says",
+   "summary": "Pimco CEO Emmanuel Roman says, “the moment that we get to a better outcome in the Middle East, you’ll see a release of the bond market and rates to go down.” Roman also sees inflat…",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/minneapolis-feds-kashkari-says-inflation-remains-too-high-4908181",
-     "t": "agg"
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-20/pimco-likes-rates-where-they-are-ceo-roman-says-video",
+     "t": "sec"
     }
    ],
-   "heat": 71.9
+   "heat": 63.3
   },
   {
    "cat": "macro",
-   "time": "2026-09-20 14:17",
-   "title": "Who’s who in Fed’s September 2026 dot plot?",
-   "summary": "",
+   "time": "2026-09-20 20:47",
+   "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+   "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/whos-who-in-feds-september-2026-dot-plot-4908178",
-     "t": "agg"
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+     "t": "sec"
     }
    ],
-   "heat": 71.7
+   "heat": 62.3
   },
   {
    "cat": "macro",
@@ -181,7 +181,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 60.0
   },
   {
    "cat": "macro",
@@ -195,7 +195,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 60.0
   },
   {
    "cat": "macro",
@@ -209,7 +209,35 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 60.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-21 05:00",
+   "title": "AI Boom Is Making Diversifying Investments Tough for Wall Street",
+   "summary": "Pensions and sovereign wealth funds with many billions to invest are finding the diversification they once relied on is an illusion.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-21 04:16",
+   "title": "Russia's ruling pro-Putin party on track to win wartime election after drones strike Moscow",
+   "summary": "Russia's ruling party was on track to win a parliamentary ⁠election that Putin has cast as a test of support for the war in Ukraine, partial results showed.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/20/russias-ruling-pro-putin-party-on-track-to-win-wartime-election.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.6
   },
   {
    "cat": "sector",
@@ -223,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.9
+   "heat": 235.4
   },
   {
    "cat": "sector",
@@ -237,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.8
+   "heat": 235.4
   },
   {
    "cat": "sector",
@@ -251,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.8
+   "heat": 235.3
   },
   {
    "cat": "sector",
@@ -265,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.7
+   "heat": 235.3
   },
   {
    "cat": "sector",
@@ -279,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.6
+   "heat": 235.1
   },
   {
    "cat": "sector",
@@ -293,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.5
+   "heat": 235.1
   },
   {
    "cat": "sector",
@@ -307,21 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-21 00:54",
-   "title": "Qatar, Brookfield on Trade, Investment and Competition",
-   "summary": "H.E. Sheikh Faisal bin Thani bin Faisal Al-Thani, Minister of Commerce & Industry for the State of Qatar and Brookfield CEO Bruce Flatt discuss trade, investment and global competi…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-20/qatar-brookfield-on-trade-investment-and-competition-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.5
+   "heat": 235.0
   },
   {
    "cat": "sector",
@@ -335,21 +349,21 @@
      "t": "sec"
     }
    ],
-   "heat": 251.5
+   "heat": 235.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-21 00:14",
-   "title": "General Atlantic CEO Sees Long-Term AI Opportunity",
-   "summary": "General Atlantic CEO Bill Ford says accelerating innovation and entrepreneurship have created one of the strongest environments for growth investing in his three decades in the bus…",
+   "time": "2026-09-21 00:34",
+   "title": "QIA, Apollo & Goldman CEOs on Global Capital",
+   "summary": "Mohammed Saif Al-Sowaidi, CEO of QIA, Marc Rowan, Co-founder, Chairman & CEO of Apollo Global Management and David M. Solomon, Chairman & CEO of Goldman Sachs Group discuss where g…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-20/general-atlantic-ceo-sees-long-term-ai-opportunity-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-20/qia-apollo-goldman-ceos-on-global-capital-video",
      "t": "sec"
     }
    ],
-   "heat": 251.4
+   "heat": 235.0
   },
   {
    "cat": "sector",
@@ -363,21 +377,35 @@
      "t": "sec"
     }
    ],
-   "heat": 251.1
+   "heat": 234.6
   },
   {
-   "cat": "sector",
-   "time": "2026-09-20 22:23",
-   "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
-   "summary": "The State Department urged Americans to reconsider Middle East travel as Houthi attacks intensify and Iran keeps the Strait of Hormuz closed.",
+   "cat": "stock",
+   "time": "2026-09-21 06:35",
+   "title": "Stock futures rise slightly after Dow posts third straight losing week: Live updates",
+   "summary": "Wall Street is coming off a mixed week for the major averages.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
+     "u": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
      "t": "sec"
     }
    ],
-   "heat": 251.1
+   "heat": 76.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-21 06:14",
+   "title": "US Stock Futures Up Ahead of Talks, Dollar Steady: Markets Wrap",
+   "summary": "US equity-index futures edged higher, while the dollar held in a narrow range as traders awaited US-China talks ahead of a leaders summit later this week.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-20/us-stock-futures-up-ahead-of-talks-dollar-steady-markets-wrap",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.9
   },
   {
    "cat": "stock",
@@ -391,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.3
+   "heat": 74.8
   },
   {
    "cat": "stock",
@@ -405,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.7
+   "heat": 74.2
   },
   {
    "cat": "stock",
@@ -419,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.7
+   "heat": 74.2
   },
   {
    "cat": "stock",
@@ -433,21 +461,21 @@
      "t": "sec"
     }
    ],
-   "heat": 70.7
+   "heat": 74.2
   },
   {
    "cat": "stock",
-   "time": "2026-09-20 15:29",
-   "title": "CIBC stands out as the value pick among Canada’s major bank stocks",
+   "time": "2026-09-20 21:20",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/cibc-stands-out-as-the-value-pick-among-canadas-major-bank-stocks-93CH-4908183",
+     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4908195",
      "t": "agg"
     }
    ],
-   "heat": 67.9
+   "heat": 72.4
   },
   {
    "cat": "stock",
@@ -461,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.8
+   "heat": 70.4
   },
   {
    "cat": "stock",
@@ -475,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -489,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -503,13 +531,13 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
    "time": "2026-09-18 22:27",
-   "title": "Stock Market Today: S&P 500 Rises, Nasdaq Gains 0.5% as Oil Fails - Coinpaper",
-   "summary": "Stock Market Today: S&P 500 Rises, Nasdaq Gains 0.5% as Oil Fails &nbsp;&nbsp; Coinpaper",
+   "title": "Stock Market Today: S&P 500 Rises, Nasdaq Gains 0.5% as Oil Fails - coinpaper.com",
+   "summary": "Stock Market Today: S&P 500 Rises, Nasdaq Gains 0.5% as Oil Fails &nbsp;&nbsp; coinpaper.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -517,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -531,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -545,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -559,49 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-14 23:43",
-   "title": "5 Best International Stocks to Buy in 2026 - The Motley Fool",
-   "summary": "5 Best International Stocks to Buy in 2026 &nbsp;&nbsp; The Motley Fool",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnIzYnBRbFZHeWU3NjAxd2dodkFrc2dnVDF5OTlaTzZQUVlZNFVTNjVYbS0tVjRkc2xjLXNDNjU0MW5ReVhSWHhoaGJCNUhoSi1KNkotb3I1akZBaDZXbzh1c1dTaW82V0JPZ1owRVJvd3haaDJ6Q3RlcC02aXdkTURtQmNFajNW?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 64.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-14 13:53",
-   "title": "Chinese Retail Rush for U.S. Tech Stocks Drains Fresh Offshore Quotas",
-   "summary": "Chinese Retail Rush for U.S. Tech Stocks Drains Fresh Offshore Quotas &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcU5LTzJrMmRNT3BwUE1HRG9OWWxXU2lRVDJzZFFKQmtBckoxVExHZG5JVk83Z2VvTml2ekVMOHIyQnhnOHJvRDFIQlJtVjJVM2F6UE41YndYMnBmMmhvZUpscFBzb0dyUURhTUx3QXdFOXFlRmJITFVkak5LS3JZajAtcnNjWC02ZVdPQlVTRFRlZEttSEdQMGMtWFRGaTdJSElhZmRBZVUweGZYcnBWT0lnMjdPZDBNTXQ3NDBEYw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 64.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-21 00:16",
-   "title": "How India Turned Cricket Into A Billion Dollar Business",
-   "summary": "India’s obsession with cricket has helped turn the Indian Premier League into one of the world’s most valuable sports leagues, attracting foreign investors like Blackstone. With on…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-20/how-india-turned-cricket-into-a-billion-dollar-business-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 67.4
+   "heat": 68.0
   },
   {
    "cat": "global",
@@ -615,7 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.7
+   "heat": 62.3
   },
   {
    "cat": "global",
@@ -629,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.5
+   "heat": 60.0
   },
   {
    "cat": "global",
@@ -643,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.0
+   "heat": 60.0
   },
   {
    "cat": "global",
@@ -657,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.5
+   "heat": 58.0
   },
   {
    "cat": "global",
@@ -671,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.6
+   "heat": 56.2
   },
   {
    "cat": "global",
@@ -685,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.6
+   "heat": 56.1
   },
   {
    "cat": "global",
@@ -699,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.6
+   "heat": 56.1
   },
   {
    "cat": "global",
@@ -713,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.3
+   "heat": 56.0
   },
   {
    "cat": "global",
@@ -727,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.2
+   "heat": 56.0
   },
   {
    "cat": "global",
@@ -741,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.2
+   "heat": 56.0
   },
   {
    "cat": "global",
@@ -755,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.1
+   "heat": 56.0
   },
   {
    "cat": "global",
@@ -769,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.1
+   "heat": 56.0
   },
   {
    "cat": "global",
@@ -783,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 56.0
   },
   {
    "cat": "global",
@@ -797,7 +783,21 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 56.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-20 19:52",
+   "title": "Bessent to Meet China's He for Talks, Hormuz Oil Shipments, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-20/bessent-to-meet-china-s-he-for-talks-hormuz-oil-shipments-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 26.2
   },
   {
    "cat": "crypto",
@@ -811,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.7
+   "heat": 54.2
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.0
+   "heat": 50.5
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.2
+   "heat": 48.0
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.1
+   "heat": 42.7
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.3
+   "heat": 38.9
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.0
+   "heat": 37.5
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "agg"
     }
    ],
-   "heat": 28.5
+   "heat": 28.0
   },
   {
    "cat": "crypto",
@@ -951,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.9
+   "heat": 27.4
   },
   {
    "cat": "crypto",
@@ -965,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 26.7
+   "heat": 26.2
   },
   {
    "cat": "crypto",
@@ -979,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 10.9
+   "heat": 10.5
   },
   {
    "cat": "crypto",
@@ -993,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 10.7
+   "heat": 10.2
   },
   {
    "cat": "crypto",
@@ -1007,13 +1007,13 @@
      "t": "sec"
     }
    ],
-   "heat": 10.7
+   "heat": 10.2
   },
   {
    "cat": "sector",
    "time": "2026-09-19 21:02",
    "title": "电影《大空头》原型：AI巨头制造“末日恐慌”其实另有图谋！",
-   "summary": "电影《大空头》原型：AI巨头制造“末日恐慌”其实另有图谋！ &nbsp;&nbsp; cls.cn",
+   "summary": "电影《大空头》原型：AI巨头制造“末日恐慌”其实另有图谋！ &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
@@ -1021,21 +1021,21 @@
      "t": "sec"
     }
    ],
-   "heat": 246.8
+   "heat": 230.4
   },
   {
    "cat": "sector",
-   "time": "2026-09-19 05:44",
-   "title": "Asia New Vision Forum",
-   "summary": "Asia New Vision Forum &nbsp;&nbsp; Caixin Global",
+   "time": "2026-09-17 14:37",
+   "title": "China’s PhD Glut Drives Top Graduates to High School Teaching Jobs",
+   "summary": "China’s PhD Glut Drives Top Graduates to High School Teaching Jobs &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JYU1uYTJ3UVo1S0doRWZPSUdVWDRKUGkzV1F0Wk1WcVdvUFE3b21iQWNvOFU1VG9PQlRuaUdTc3FxZXZxUHdRcUNGSUdtZ0ltb2N2UVMzR1NneVFZQnc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSHBadXlJWmxzSVNvbTBmQVp5TUVzemo3aXY4emk4T2w3XzUxT0hLc0FHemt5dmdFb2dpQUUzTFVnVlBKa0t5Zl9fNUd3aG5xdERrOEEwbmVVS2ZSamJ6bkdKR0FUa1luaVFtOWZiLW9GRjdqSVh0LVR0T053VzRVdkhidXdRS3NWTDNQQk1DQ1NHYlR3WXBaR0Vqa0g3LWVUY0dBNUdjQ3pHVjEzREpRN01oOXVPcTUzelFhSQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 244.3
+   "heat": 228.0
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "agg"
     }
    ],
-   "heat": 242.0
+   "heat": 226.0
   }
  ]
 }
