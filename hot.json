@@ -1,6 +1,62 @@
 {
- "updated": "2026-09-20 06:35",
+ "updated": "2026-09-20 10:40",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-20 09:31",
+   "title": "New Zealand Opposition Vows to Boost Grocery Sector Competition",
+   "summary": "New Zealand’s main opposition Labour Party pledged to increase competition in the grocery sector if it wins office in the Nov. 7 election, with the rising cost of living a key camp…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-20/new-zealand-opposition-vows-to-boost-grocery-sector-competition",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 08:39",
+   "title": "Australia’s Albanese Urges World to Act for Humanity in AI Race",
+   "summary": "Australian Prime Minister Anthony Albanese said middle powers have an important role to play in mitigating the risks posed by artificial intelligence and called for cooperation bet…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-20/australia-s-albanese-urges-world-to-act-for-humanity-in-ai-race",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 08:38",
+   "title": "Trump to Name AI Czar, Bessent & He to Meet in NYC, More",
+   "summary": "Source: Bloomberg, 5:31",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-20/trump-to-name-ai-czar-bessent-he-to-meet-in-nyc-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 07:15",
+   "title": "Bessent – He to Meet Sunday, Trump Says He’ll Name AI Czar, More",
+   "summary": "Source: Bloomberg, 5:42",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-19/bessent-he-to-meet-sunday-trump-says-he-ll-name-ai-czar-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.4
+  },
   {
    "cat": "sector",
    "time": "2026-09-20 06:13",
@@ -13,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.9
+   "heat": 255.3
   },
   {
    "cat": "sector",
@@ -27,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.9
+   "heat": 255.2
   },
   {
    "cat": "sector",
@@ -41,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.9
+   "heat": 255.2
   },
   {
    "cat": "sector",
@@ -55,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.7
+   "heat": 255.0
   },
   {
    "cat": "sector",
@@ -69,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.4
+   "heat": 254.7
   },
   {
    "cat": "sector",
@@ -83,63 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 271.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-20 01:02",
-   "title": "Turkey Detains Top Finance Executives in Funds Scheme, NTV Says",
-   "summary": "Turkish authorities on Saturday detained high-profile finance executives as part of an investigation into a “ponzi-like” funds scheme.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-19/turkey-detains-top-finance-executives-in-funds-scheme-ntv-says",
-     "t": "sec"
-    }
-   ],
-   "heat": 271.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 23:43",
-   "title": "Saudis Issue Air-Raid Alerts, Oil Concerns, Greenland Deal, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-19/saudis-issue-air-raid-alerts-oil-concerns-greenland-deal-more-mu8k4soc",
-     "t": "sec"
-    }
-   ],
-   "heat": 270.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 22:47",
-   "title": "Hormuz Oil Shipments Hit Six-Month High, US Commander Says",
-   "summary": "Oil and liquefied natural gas shipments through the Strait of Hormuz in the past two weeks reached the highest level in six months, signaling that US naval protection and mine clea…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-19/hormuz-oil-shipments-hit-six-month-high-us-commander-says",
-     "t": "sec"
-    }
-   ],
-   "heat": 270.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-19 22:32",
-   "title": "US, Denmark Reach Greenland Security Deal, Saudi Air-Raid Alerts",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-19/us-denmark-reach-greenland-security-deal-saudi-air-raid-alerts-mu8hkoxx",
-     "t": "sec"
-    }
-   ],
-   "heat": 270.7
+   "heat": 254.6
   }
  ]
 }
