@@ -1,6 +1,90 @@
 {
- "updated": "2026-09-20 16:08",
+ "updated": "2026-09-20 21:22",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-20 21:00",
+   "title": "AI’s Wobbly House of Cards Puts Markets and US Economy at Risk",
+   "summary": "The heads of America’s leading AI development labs have started a national conversation about tapping the brakes on a technology that’s offering so much promise for society, while …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-20/ai-s-wobbly-house-of-cards-puts-markets-and-us-economy-at-risk",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 20:39",
+   "title": "Qatar Airways Bets on Fleet and Cargo Growth",
+   "summary": "Joining Bloomberg This Weekend, Qatar Airways Group CEO Hamad Ali Al-Khater says passenger demand remains resilient despite regional conflict and sharply higher jet fuel costs, wit…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-20/qatar-airways-bets-on-fleet-and-cargo-growth-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 20:30",
+   "title": "Global Conflicts Shape High Stakes UN Meetings",
+   "summary": "World leaders are gathering in New York for the UN General Assembly as escalating Middle East tensions, the war in Ukraine and pressure on global energy supplies dominate the diplo…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-20/global-conflicts-shape-high-stakes-un-meetings-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 19:27",
+   "title": "Ukraine launches heavy Moscow drone attack as Russia votes",
+   "summary": "The State Duma vote, the first since Russia launched its full-scale war in Ukraine, is likely to see the ruling United Russia party easily retain its dominance.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/20/ukraine-launches-heavy-moscow-drone-attack-as-russia-votes.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 19:25",
+   "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
+   "summary": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 18:41",
+   "title": "Tata’s Rival Camps Lawyer Up Ahead of Looming Legal Battle",
+   "summary": "The parties fighting for control over India’s Tata Group have retained some of the country’s most prominent law firms and advocates, as they dig in for a protracted and high-profil…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-20/tata-s-rival-camps-lawyer-up-ahead-of-looming-legal-battle",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.6
+  },
   {
    "cat": "sector",
    "time": "2026-09-20 11:53",
@@ -13,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.3
+   "heat": 238.4
   },
   {
    "cat": "sector",
@@ -27,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.3
+   "heat": 238.4
   },
   {
    "cat": "sector",
@@ -41,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.2
+   "heat": 238.4
   },
   {
    "cat": "sector",
@@ -55,91 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-20 09:31",
-   "title": "New Zealand Opposition Vows to Boost Grocery Sector Competition",
-   "summary": "New Zealand’s main opposition Labour Party pledged to increase competition in the grocery sector if it wins office in the Nov. 7 election, with the rising cost of living a key camp…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-20/new-zealand-opposition-vows-to-boost-grocery-sector-competition",
-     "t": "sec"
-    }
-   ],
-   "heat": 250.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-20 08:39",
-   "title": "Australia’s Albanese Urges World to Act for Humanity in AI Race",
-   "summary": "Australian Prime Minister Anthony Albanese said middle powers have an important role to play in mitigating the risks posed by artificial intelligence and called for cooperation bet…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-20/australia-s-albanese-urges-world-to-act-for-humanity-in-ai-race",
-     "t": "sec"
-    }
-   ],
-   "heat": 250.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-20 08:38",
-   "title": "Trump to Name AI Czar, Bessent & He to Meet in NYC, More",
-   "summary": "Source: Bloomberg, 5:31",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-20/trump-to-name-ai-czar-bessent-he-to-meet-in-nyc-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 250.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-20 07:15",
-   "title": "Bessent – He to Meet Sunday, Trump Says He’ll Name AI Czar, More",
-   "summary": "Source: Bloomberg, 5:42",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-19/bessent-he-to-meet-sunday-trump-says-he-ll-name-ai-czar-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 250.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-20 06:13",
-   "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
-   "summary": "Saudi Arabia had sent alerts overnight warning of potential danger around Riyadh, amid an escalation in attacks by the Houthis in the kingdom.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 250.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-20 06:00",
-   "title": "Trump Says He Will Name an AI Czar, Saudi Air-Raid Alerts, More",
-   "summary": "Source: Bloomberg, 5:30",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-19/trump-says-he-will-name-an-ai-czar-saudi-air-raid-alerts-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 250.3
+   "heat": 238.2
   }
  ]
 }
