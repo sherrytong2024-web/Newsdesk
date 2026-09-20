@@ -1,6 +1,62 @@
 {
- "updated": "2026-09-20 10:40",
+ "updated": "2026-09-20 16:08",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-20 11:53",
+   "title": "China to Step Up Curbs Against Malicious Price Competition",
+   "summary": "China will step up scrutiny of malicious price competition, including cost investigations and price inspections of companies that engage in such practices, the State Administration…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-20/china-to-ramp-up-enforcement-against-malicious-price-competition",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 11:51",
+   "title": "Heavy Rain Disrupts Trains in Japan as Tropical Storm Approaches",
+   "summary": "The approaching tropical cyclone Dujuan could cause suspensions and delays on train lines in the greater Tokyo area, with possible disruptions from as early as Sunday evening throu…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-20/heavy-rain-disrupts-trains-in-japan-as-tropical-storm-approaches",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 11:35",
+   "title": "China August Power Use Tops 1 Trillion kWh, Load Hits Record",
+   "summary": "China’s electricity consumption exceeded 1 trillion kilowatt-hours in August as power demand remained robust, the National Energy Administration said on its WeChat account Sunday.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-20/china-august-power-use-tops-1-trillion-kwh-load-hits-record",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 10:23",
+   "title": "China’s Smart-Glasses Sales Double in First Eight Months of Year",
+   "summary": "China’s sales of smart glasses on key platforms more than doubled in the first eight months of the year, while those of electrocardiogram monitors rose 75% and action cameras gaine…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-20/china-s-smart-glasses-sales-double-in-first-eight-months-of-year",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.0
+  },
   {
    "cat": "sector",
    "time": "2026-09-20 09:31",
@@ -13,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.8
+   "heat": 250.9
   },
   {
    "cat": "sector",
@@ -27,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.7
+   "heat": 250.8
   },
   {
    "cat": "sector",
@@ -41,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.7
+   "heat": 250.7
   },
   {
    "cat": "sector",
@@ -55,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.4
+   "heat": 250.5
   },
   {
    "cat": "sector",
@@ -69,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.3
+   "heat": 250.3
   },
   {
    "cat": "sector",
@@ -83,63 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 255.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-20 05:42",
-   "title": "Trump says he will appoint a new AI adviser, without providing details",
-   "summary": "Trump has repeatedly downplayed concerns about AI and argued that additional regulation is unnecessary.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/19/trump-says-he-will-appoint-a-new-ai-adviser-without-providing-details.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-20 04:35",
-   "title": "Trump Says He’ll Name an AI Czar, Saudis Issue Air-Raid Alerts",
-   "summary": "Source: Bloomberg, 5:29",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-19/trump-says-he-ll-name-an-ai-czar-saudis-issue-air-raid-alerts",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-20 03:09",
-   "title": "Saudis Issue Air-Raid Alerts, Greenland Security Deal Reached",
-   "summary": "Source: Bloomberg, 5:14",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-19/saudis-issue-air-raid-alerts-greenland-security-deal-reached",
-     "t": "sec"
-    }
-   ],
-   "heat": 254.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-20 02:02",
-   "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax",
-   "summary": "President Donald Trump said he would name an artificial intelligence czar as he continued to push tech companies to race ahead with development despite growing fears safety.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
-     "t": "sec"
-    }
-   ],
-   "heat": 254.6
+   "heat": 250.3
   }
  ]
 }
