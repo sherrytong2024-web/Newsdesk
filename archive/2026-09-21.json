@@ -1,6 +1,20 @@
 {
- "updated": "2026-09-21 06:49",
+ "updated": "2026-09-21 10:37",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-09-21 07:45",
+   "title": "Gold Steadies as Traders Weigh Inflation and Fed Path for Rates",
+   "summary": "Gold was steady as traders weighed the risk of persistent inflation and the path for interest rates after the Federal Reserve’s first hike since 2023.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-20/gold-steadies-as-traders-weigh-inflation-and-fed-hike-outlook",
+     "t": "sec"
+    }
+   ],
+   "heat": 107.5
+  },
   {
    "cat": "macro",
    "time": "2026-09-21 04:00",
@@ -13,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.5
+   "heat": 102.9
   },
   {
    "cat": "macro",
@@ -27,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 106.9
+   "heat": 102.3
   },
   {
    "cat": "macro",
@@ -41,21 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 102.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-18 23:22",
-   "title": "The Fed’s Rate Hike Could Backfire If Oil Prices Collapse",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/the-feds-rate-hike-could-backfire-if-oil-prices-collapse-200687977",
-     "t": "agg"
-    }
-   ],
-   "heat": 98.0
+   "heat": 98.2
   },
   {
    "cat": "macro",
@@ -73,87 +73,45 @@
   },
   {
    "cat": "macro",
-   "time": "2026-09-21 03:00",
-   "title": "Short-Term Treasuries Emerge as Popular Bet on Fed Inflation Win",
-   "summary": "Investors in the US Treasury market are shifting their focus to owning shorter-dated government bonds, a bet that the Federal Reserve will eventually emerge victorious in its fight…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-20/short-term-treasuries-emerge-as-popular-bet-on-fed-inflation-win",
-     "t": "sec"
-    }
-   ],
-   "heat": 87.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-18 13:11",
-   "title": "The BoJ Needed to Pole Vault the Fed’s Hawkish Bar - FX Says It Missed the Jump",
+   "time": "2026-09-18 23:22",
+   "title": "The Fed’s Rate Hike Could Backfire If Oil Prices Collapse",
    "summary": "",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/the-boj-needed-to-pole-vault-the-feds-hawkish-bar--fx-says-it-missed-the-jump-200687922",
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/the-feds-rate-hike-could-backfire-if-oil-prices-collapse-200687977",
      "t": "agg"
     }
    ],
-   "heat": 70.0
+   "heat": 94.0
   },
   {
    "cat": "macro",
-   "time": "2026-09-20 22:20",
-   "title": "MSC Among Suitors for German State-Held Meyer Werft Stake",
-   "summary": "MSC Mediterranean Shipping Co. is in talks to acquire the roughly 80% stake in German cruise-ship builder Meyer Werft GmbH held by the federal government and the state of Lower Sax…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-20/msc-among-suitors-for-german-state-held-meyer-werft-stake",
-     "t": "sec"
-    }
-   ],
-   "heat": 66.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-20 11:55",
-   "title": "Market Snapshot: S&P 500 Ends Losing Streak Amid Fed and Global Economic Uncertainty - SSBCrack",
-   "summary": "Market Snapshot: S&P 500 Ends Losing Streak Amid Fed and Global Economic Uncertainty &nbsp;&nbsp; SSBCrack",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS3dZWXJnOHRaVl9IeTgyeTN0VUpQa0VDRU9PeXBPSEFGZXdnRE16WFhMXzE1MkJaVWJRTURKNG0zUU8zeVo3S0g2OHlxd3NJQjJBc09aOE55aXBmZENUUnIteGlQZ3pya09BekhFWWhsQzA4TXNJcHk0dE1iN09rZURGZ0RXRnp2MzJYR2x2cGJobmgtZUw3NXJlaWd0Zk1MMGNUWFJlR0NUai0wWHc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 64.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-20 17:12",
-   "title": "Fed’s Kashkari says inflation is still too high in ’all aspects’ of US economy, in Fox News interview",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-to-fox-news-interview-4908180",
-     "t": "agg"
-    }
-   ],
-   "heat": 63.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-21 02:37",
-   "title": "Pimco Likes Rates Where They Are, CEO Roman Says",
-   "summary": "Pimco CEO Emmanuel Roman says, “the moment that we get to a better outcome in the Middle East, you’ll see a release of the bond market and rates to go down.” Roman also sees inflat…",
+   "time": "2026-09-21 09:51",
+   "title": "China’s Selective Crop Buying Tests US Trade Truce Before Summit",
+   "summary": "China is over halfway to meeting its pledge to buy 25 million tons of US soybeans this year, but progress on a separate commitment to spend billions of dollars more on American cro…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-20/pimco-likes-rates-where-they-are-ceo-roman-says-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-21/china-s-selective-crop-buying-tests-us-trade-truce-before-summit",
      "t": "sec"
     }
    ],
-   "heat": 63.3
+   "heat": 71.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-21 08:14",
+   "title": "Rupiah’s Advance at Risk as Fiscal, Rate Pressures Linger",
+   "summary": "The rupiah may struggle to extend its recent rally, as lingering concerns over spending and trade temper optimism over Indonesia’s efforts to bolster policy credibility.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-21/rupiah-s-advance-at-risk-as-fiscal-rate-pressures-linger",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.6
   },
   {
    "cat": "macro",
@@ -167,63 +125,189 @@
      "t": "sec"
     }
    ],
-   "heat": 62.3
+   "heat": 69.7
   },
   {
    "cat": "macro",
-   "time": "2026-09-17 21:49",
-   "title": "Don’t fight the Fed - Opportunity coming up?: Brooke Thackray - BNN Bloomberg",
-   "summary": "Don’t fight the Fed - Opportunity coming up?: Brooke Thackray &nbsp;&nbsp; BNN Bloomberg",
+   "time": "2026-09-19 22:10",
+   "title": "She pays $96 a month to live in Yellowstone National Park: 'Being here has changed my life'",
+   "summary": "Zoe De La Paz quit her corporate job in Chicago and in June moved to Yellowstone to work as a seamstress.",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORjB6ZFBpY0ZTRlRxSFl5c2l3MzY5UFZXcC04SFc5MUQ0bUJvQ3Frckp0eF9oU0VVOGtiQjFxRHlCZWNtU21RNUZLYWpLVGtsYnZvV0JzZmZpLVFjaHIzOHo3cG5JX3dHeGg4bmFBRmlZdVFYYXM4VWNNNVBGSENRcmV6YWdTeXlKSmxVcGd0V3p0NDA4TWpZVVNxUVJiQ0NJRGlGNTZBYk40MzR1RzFFUl81b1Y?oc=5",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/19/living-in-yellowstone-for-96-dollars-a-month.html",
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 65.9
   },
   {
    "cat": "macro",
-   "time": "2026-09-16 11:03",
-   "title": "US Stock Market Ahead Of Fed Policy: Dow Jones, Nasdaq, S&P 500 Crash; Futures Up On Wednesday, What To Expect - Goodret",
-   "summary": "US Stock Market Ahead Of Fed Policy: Dow Jones, Nasdaq, S&P 500 Crash; Futures Up On Wednesday, What To Expect &nbsp;&nbsp; Goodreturns",
+   "time": "2026-09-19 14:27",
+   "title": "How Warren Buffett’s 90/10 Rule Offers a Simple Investment Strategy for Everyday Investors - Investopedia",
+   "summary": "How Warren Buffett’s 90/10 Rule Offers a Simple Investment Strategy for Everyday Investors &nbsp;&nbsp; Investopedia",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYV9PQkZ1VFRKQ0o1Smp4YVdKVzFCYXBham1LRnZTUkU1YVR4MjBLZDlKN0E3RjRjLW9ha09JbjJBN0ZXa00tdzJ0T2J6bk1GOVZKUlVIbmZsM1dJSklhRVBiN0pzcDRBWTNNMGp2MHdQekRhWDNaUkpmbGVjcEFvaDdrOE5RNlJLS2NvNENSeVRxenhFemdKT21oRl92TTBvMTl1TEdYT1VFaXJNcWFfZkk0SnRqVWc2SW9NUTBHNlE2WmdzLTdBWTcwYTJpZ0s0UVlyYS1yLW1XZw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWFESHJhM0dORGVkcUwycVNDclk0WFQ5OE5ta0FEcFJjRGsxUjE1RERVNHVwNDJwcks2SUNhUFdTeVVUb1JuZ0NhT3N1U0c4eWNYMnJvUDl5ZDNpQV90UWwzSzg4RkVTOXJ2SHItR0ZBelZGTnFMLXpCQXFyclhlUVlPZTFyeUVoc2VFcEpVRlVQTTZYVndzSHFHTDV0WllyMWVwSFFZdF9CSGhkWHpMWERvaDZpSmZ6RHA3OUhuYnB0elhYejI4?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 64.6
   },
   {
    "cat": "macro",
-   "time": "2026-09-15 21:45",
-   "title": "Why US markets, Dow Jones are down today: Nasdaq, S&P 500 trade lower as AI stocks steady; focus on Fed ra - The Economi",
-   "summary": "Why US markets, Dow Jones are down today: Nasdaq, S&P 500 trade lower as AI stocks steady; focus on Fed ra &nbsp;&nbsp; The Economic Times",
+   "time": "2026-09-16 22:35",
+   "title": "Hong Kong to Accelerate Push for International Gold Trading Hub",
+   "summary": "Hong Kong to Accelerate Push for International Gold Trading Hub &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOc1U4SVp4by1vaU9YWGo2QjdVanNCanRiaElmYkI1Z09ITFIzQWR2REdOVFJBX3MyOTJUR0FtMUQ5XzVLeE1OZnBveEpRT0ZvdllHRTJqVlZYaXpUdnVFN0R0OFhvd0JPNnpGYm13RVU2eUhfUk90b24zWkdDd0x2ZUNmQnZaYjVUbmZzTEZ6LTV1cmU5aGJ5bDMxcVJiX19zNW1lRm9MS2pzbmcxSy1kTDR0SlRZMnpNWm56QlZXSnZ6blNCSEFBX2xNVjBxVEJ4bGtBWHdwWGl1Tk0xMERUOERPM19ybjd2R1JxM3lfS09UUlpXWVBGdVlGTnlzS0I3LXAtN0dfNmo4cjlKc2doU0Q3azFCTVMx0gGeAkFVX3lxTE9RRFZ4RjZhSTJxbEVrNVNSRWFOSW9EZ3E1SWRKUldMY0ptdU9XbHhsMUo4QkZWX0M3TGhnZTMyeGYzTVdweTZxOEVTbE8tZ3VibTZiM3VEUFhYMTh5WldDSGFmYWx5Wk5lQkYxby1YRGJXUWQzdjFWTEJJOHVyVm1lUnpqMEdEZ0NIMnBtSEVGTExGbk1Ic00tQm4tTXNpOENrUUZzNGk2blY1QXZwdHVhRFVQSU9lSWNuclVpZVhRd0t3WDcxc2dZdS0zS2U3bjJUcXg1SVhUVFJHVnVFbVFDN0tTdFl1MFZLMGhoMWtSTVp3clExdG82bGRxNmFjd3JXRloyM3M5S1ptMmFHQVBUU3ZOanRFUWluZmtpX2c?oc=5",
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaDVqMTIxRlY3dW9MMkpqTUJkX1lieXYxZUxYbHZvUWRvMGZyOTA0VFdCS1d2YkMzNXpTX3ZJMDJtRkV0eGp5SDlfMTctTHljaHRxRFZMeV9NcFZzSXl5ZVdhREpNQmNFZ2pXWV9rNE5wcDEydzRfa2JLanVCTFhqZ3U5Wk5BSXhrOTNqcnFhVXRIRmpTaFBFcFo1MFBFaVM4WElMcW5ZRUpvbEFqRjdGSGJDRzZoTXgySnc?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 64.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-14 21:08",
+   "title": "S&P 500 Investors Adjust To Expectations Of More Rate Hikes (undefined:SPX) - Seeking Alpha",
+   "summary": "S&P 500 Investors Adjust To Expectations Of More Rate Hikes (undefined:SPX) &nbsp;&nbsp; Seeking Alpha",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWVRjWWY0Q0VtTHYzTzJaZmNOeVNJYnVkN056VXFucHhJUnJMVDhleVR3Y2N6US01VFBESzY2cVVKN05HbFdwLXBnU0FfZnpiSXFyYzB1NkZtcmg2czZHNFNQQ1lQNVFZSGJoRVpFdE50MmlGczVqR2tDdU5EOTFtS1R1WHdBWnYySnRySGZKT2daQlV4NVk0?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 64.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-18 19:31",
+   "title": "Central Banks Are Moving Gold as Geopolitical Risks Reshape Reserve Strategy",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/bring-the-gold-home-200687962",
+     "t": "agg"
+    }
+   ],
+   "heat": 62.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-18 19:01",
+   "title": "Gold Not Afraid of Higher Interest Rates",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-not-afraid-of-higher-interest-rates-200687958",
+     "t": "agg"
+    }
+   ],
+   "heat": 62.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-21 05:00",
-   "title": "AI Boom Is Making Diversifying Investments Tough for Wall Street",
-   "summary": "Pensions and sovereign wealth funds with many billions to invest are finding the diversification they once relied on is an illusion.",
+   "time": "2026-09-21 10:30",
+   "title": "Australia to Rely on AI to Spur Growth as Global Tensions Deepen",
+   "summary": "Australia will rely on the rollout and development of Artificial Intelligence to drive economic growth over the next 40 years, a time when the global economy is likely to become ev…",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-21/australia-to-rely-on-ai-to-spur-growth-as-global-tensions-deepen",
      "t": "sec"
     }
    ],
-   "heat": 235.7
+   "heat": 216.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-21 10:07",
+   "title": "If your kid does these 8 things, they're more emotionally mature than most, says psychologist",
+   "summary": "\"They turn into adaptable, reasonable people who can solve problems, sustain satisfying long-term relationships and engage in meaningful work,\" says Lindsay C. Gibson.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/20/signs-parents-raising-emotionally-mature-child-psychologist.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-21 09:29",
+   "title": "SoftBank Seeks Over $11 Billion in Junk Bonds for OpenAI Bet",
+   "summary": "SoftBank Group Corp. is seeking the equivalent of more than $11 billion in what would be one of the biggest junk bond deals ever, people familiar with the matter said Monday, as bi…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-21/softbank-seeks-over-11-billion-in-junk-bond-deal-for-openai-bet",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-21 08:33",
+   "title": "US Diesel Tops $6.50 a Gallon as Wars Worsen Global Crunch",
+   "summary": "US retail diesel prices topped $6.50 a gallon for the first time, extending a war-driven rally that’s rippling through the economy.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-21/us-diesel-tops-6-50-a-gallon-as-wars-worsen-global-fuels-crunch",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-21 07:28",
+   "title": "Albanese’s popularity drops again, Australia seen older, smaller than expected",
+   "summary": "Get caught up.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-20/albanese-s-popularity-drops-again-australia-seen-older-smaller-than-expected",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-21 07:11",
+   "title": "Insurance Australia Says Greensill Settlement Isn’t Finalized",
+   "summary": "Insurance Australia Group Ltd. said a settlement of proceedings brought by Credit Suisse entities over Greensill trade credit insurance policies hasn’t been finalized.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-20/insurance-australia-says-greensill-settlement-isn-t-finalized",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-21 07:07",
+   "title": "ICE agent shoots and wounds man in Austin, Texas, officials say",
+   "summary": "The man was in serious but stable condition at a hospital after being shot once in the torso on the city's north side, Austin Police Chief Lisa Davis said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/20/ice-agent-shoots-and-wounds-man-in-austin-texas-officials-say.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.4
   },
   {
    "cat": "sector",
@@ -237,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.6
+   "heat": 214.9
   },
   {
    "cat": "sector",
@@ -251,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.4
+   "heat": 214.8
   },
   {
    "cat": "sector",
@@ -265,105 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 235.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-21 02:49",
-   "title": "QatarEnergy on Energy Security and Supply",
-   "summary": "H.E. Saad Sherida Al-Kaabi, Minister of State for Energy Affairs for the State of Qatar and President & CEO of QatarEnergy discusses how geopolitics, energy security and investment…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-20/qatarenergy-on-energy-security-and-supply-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-21 02:22",
-   "title": "Qatar on Diplomacy and Global Growth",
-   "summary": "H.E. Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, Prime Minister & Minister of Foreign Affairs for the State of Qatar discusses diplomacy, capital and global growth with Bl…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-20/qatar-on-diplomacy-and-global-growth-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-21 01:43",
-   "title": "Bloomberg This Weekend 9/20/2026",
-   "summary": "CNN Senior National Security Reporter Jennifer Hansler, Qatar Airways Group CEO Hamad Ali Al-Khater, Marsh CEO John Doyle, Oaktree Capital Management Co-Chair Howard Marks, Advisor…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-20/bloomberg-this-weekend-9-20-2026-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-21 01:09",
-   "title": "IMF MD on the Global Economic Outlook",
-   "summary": "IMF Managing Director Kristalina Georgieva discusses the global economic outlook with Bloomberg’s Romaine Bostick at the Qatar Economic Forum UNGA Special Edition in New York in 20…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-20/imf-md-on-the-global-economic-outlook-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-21 00:56",
-   "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
-   "summary": "Scott Bessent and China’s He Lifeng are holding talks on trade, AI and critical minerals ahead of Trump and Xi’s Sept. 24 summit.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-21 00:53",
-   "title": "Citi CEO Sees ‘Tsunami’ of Patching to Secure AI Defense",
-   "summary": "Citigroup CEO Jane Fraser said that companies are racing to build up their defenses on artificial-intelligence models. Speaking on the AI revolution, Fraser said when Mythos came o…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-20/citi-ceo-sees-tsunami-of-patching-to-secure-ai-defense-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-21 00:34",
-   "title": "QIA, Apollo & Goldman CEOs on Global Capital",
-   "summary": "Mohammed Saif Al-Sowaidi, CEO of QIA, Marc Rowan, Co-founder, Chairman & CEO of Apollo Global Management and David M. Solomon, Chairman & CEO of Goldman Sachs Group discuss where g…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-20/qia-apollo-goldman-ceos-on-global-capital-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.0
+   "heat": 214.7
   },
   {
    "cat": "sector",
@@ -377,11 +363,25 @@
      "t": "sec"
     }
    ],
-   "heat": 234.6
+   "heat": 214.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-20 22:23",
+   "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
+   "summary": "The State Department urged Americans to reconsider Middle East travel as Houthi attacks intensify and Iran keeps the Strait of Hormuz closed.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 214.0
   },
   {
    "cat": "stock",
-   "time": "2026-09-21 06:35",
+   "time": "2026-09-21 10:33",
    "title": "Stock futures rise slightly after Dow posts third straight losing week: Live updates",
    "summary": "Wall Street is coming off a mixed week for the major averages.",
    "srcs": [
@@ -395,9 +395,23 @@
   },
   {
    "cat": "stock",
+   "time": "2026-09-21 07:42",
+   "title": "Here are the 3 big things we're watching in the stock market this week",
+   "summary": "The week ahead is light on macroeconomic data, but investors can still expect plenty of market-moving headlines.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/20/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.5
+  },
+  {
+   "cat": "stock",
    "time": "2026-09-21 06:14",
-   "title": "US Stock Futures Up Ahead of Talks, Dollar Steady: Markets Wrap",
-   "summary": "US equity-index futures edged higher, while the dollar held in a narrow range as traders awaited US-China talks ahead of a leaders summit later this week.",
+   "title": "Asian Stocks and US Futures Rise, Oil Extends Drop: Markets Wrap",
+   "summary": "Asian equities and Wall Street stock-index futures advanced after the US described talks with China as “very successful” ahead of a summit between Presidents Donald Trump and Xi Ji…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -405,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.9
+   "heat": 75.3
   },
   {
    "cat": "stock",
@@ -419,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.8
+   "heat": 74.2
   },
   {
    "cat": "stock",
@@ -433,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.2
+   "heat": 73.6
   },
   {
    "cat": "stock",
@@ -447,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.2
+   "heat": 73.6
   },
   {
    "cat": "stock",
@@ -461,35 +475,21 @@
      "t": "sec"
     }
    ],
-   "heat": 74.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-20 21:20",
-   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4908195",
-     "t": "agg"
-    }
-   ],
-   "heat": 72.4
+   "heat": 73.6
   },
   {
    "cat": "stock",
    "time": "2026-09-19 21:02",
    "title": "The S&P 500 just logged another losing week, yet these stocks could be due for a bounce",
-   "summary": "Another losing week has dragged certain individual stocks to levels where they might find some support.",
+   "summary": "The S&P 500 just logged another losing week, yet these stocks could be due for a bounce &nbsp;&nbsp; CNBC",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/19/the-sp-500-just-logged-another-losing-week-these-stocks-could-be-due-for-a-bounce.html",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ201d18xTFM1aDZnWEwwaXNOZnNRVkRaRHVDeTVHLVpuX0ZlTWJicXgtdlQzcDBsSHhTaC1neG1SN0YyZEdFdXl6cG8ySGowcnJaeEJXQWRzNk8yNlJtaDRzQlh3Yk1mZTdneGJyYUh5VUFNR0oyREZfQkE5cDZUX09SdFgxUHAwZk4xRG8tRXV2eXBRdzhyS1hMeEg3TlJyTkJ2Q3FFNEdmZXRweGVsd1d1N1BlYVB3TGc?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 70.4
+   "heat": 69.7
   },
   {
    "cat": "stock",
@@ -528,20 +528,6 @@
     {
      "n": "S&P Global(Google聚合)",
      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHNqVUlGMXB2WDlLU3RlTDBpTDQ0TFZTLTBMWVBoRl9YMURRVml4Sk5EVi1fTVdzb0J4NEpLZXpaRy1wQjVkRi1YeVhHcUJNam8zUnNsbllvandtc3JRUnp2Ymp1TnM5ZEVadFhPNXJJR1pJYkRGT2tTNFJjOTVYWnlaZmxPMXFvc3JMR2IxWjlsQXVyemUwdDl0QzE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 68.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-18 22:27",
-   "title": "Stock Market Today: S&P 500 Rises, Nasdaq Gains 0.5% as Oil Fails - coinpaper.com",
-   "summary": "Stock Market Today: S&P 500 Rises, Nasdaq Gains 0.5% as Oil Fails &nbsp;&nbsp; coinpaper.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONFFfVS0yTTN2eWtkWWR3X01rdEpQMmp2YWczXy1BWlJhdXMwSGJ1OFlQSE1yek12SHlNQ18yTVh0TkdzNXpYMTMxT3RHR3NNM1JYY21zbUN0TFEybDJoRndFMzg4eFN1RXBRZ0N6S1ZlNjlvT2ZvQ3V3WVlweS01dG83THlXNXBZQUQ4WThhYVhQZw?oc=5",
      "t": "sec"
     }
    ],
@@ -590,214 +576,242 @@
    "heat": 68.0
   },
   {
-   "cat": "global",
-   "time": "2026-09-20 20:30",
-   "title": "What’s Happening in EM: Investors Favor Local Bonds (Podcast)",
-   "summary": "This week, Marcus Wong joins Malavika Kaur Makol to discuss how emerging-market investors are favoring local-currency sovereign bonds over dollar-denominated debt from developing n…",
+   "cat": "stock",
+   "time": "2026-09-14 23:43",
+   "title": "5 Best International Stocks to Buy in 2026 - The Motley Fool",
+   "summary": "5 Best International Stocks to Buy in 2026 &nbsp;&nbsp; The Motley Fool",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-20/what-s-happening-in-em-investors-favor-local-bonds-podcast",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnIzYnBRbFZHeWU3NjAxd2dodkFrc2dnVDF5OTlaTzZQUVlZNFVTNjVYbS0tVjRkc2xjLXNDNjU0MW5ReVhSWHhoaGJCNUhoSi1KNkotb3I1akZBaDZXbzh1c1dTaW82V0JPZ1owRVJvd3haaDJ6Q3RlcC02aXdkTURtQmNFajNW?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 62.3
+   "heat": 68.0
   },
   {
    "cat": "global",
-   "time": "2026-09-19 07:07",
-   "title": "Japanese Yen: Dovish BoJ hike weighs on yen – Scotiabank",
-   "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the Japanese Yen (JPY) is down sharply versus the US Dollar (USD) after a dovishly delivered 25 bps Bank of Japan (BoJ) h…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-weighs-on-yen-scotiabank-202609182307",
-     "t": "sec"
-    }
-   ],
-   "heat": 60.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-19 02:44",
-   "title": "Euro: Stabilization after FOMC volatility – Scotiabank",
-   "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report the Euro (EUR) is posting a small gain versus the US Dollar (USD) as EUR/USD extends Thursday’s modest recovery and att…",
+   "time": "2026-09-21 10:31",
+   "title": "Canadian Dollar seems vulnerable near August 7 low amid sliding oil prices, trade tensions",
+   "summary": "The USD/CAD pair attracts some dip-buyers at the start of a new week, stalling Friday's modest pullback from levels beyond the 1.4000 psychological mark, or the highest since Augus…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/euro-stabilization-after-fomc-volatility-scotiabank-202609181844",
+     "u": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-near-august-7-low-amid-sliding-oil-prices-trade-tensions-202609210231",
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 56.0
   },
   {
    "cat": "global",
-   "time": "2026-09-19 18:55",
-   "title": "Paramount could settle with states over Warner Bros. as soon as this weekend, sources say",
-   "summary": "A settlement this week could help Paramount avoid paying millions of dollars in fees to Warner Bros. shareholders, Reuters reported.",
+   "time": "2026-09-21 10:27",
+   "title": "Ukraine attacks on Moscow oil refinery in massive drone and missile attack",
+   "summary": "Ukraine carried out a large-scale overnight drone and missile attack targeting Moscow and the surrounding region on Sunday, BBC reported.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/ukraine-attacks-on-moscow-oil-refinery-in-massive-drone-and-missile-attack-202609210227",
+     "t": "sec"
+    }
+   ],
+   "heat": 44.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-21 10:14",
+   "title": "Oil falls as crude flows remain 'surprisingly strong'",
+   "summary": "Oil fell Monday, as traders keep watch for a recovery in shipments from Saudi Arabia, even as Mideast tensions continue to escalate.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/19/paramount-could-settle-with-states-over-warner-bros-this-weekend-reuters.html",
+     "u": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
      "t": "sec"
     }
    ],
-   "heat": 58.0
+   "heat": 43.9
   },
   {
    "cat": "global",
-   "time": "2026-09-19 07:55",
-   "title": "Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC",
-   "summary": "OCBC strategist Christopher Wong highlights that Taiwan’s CBC kept its policy rate at 2% for a tenth straight quarter with a mildly hawkish tone, sharply raising 2026 growth and in…",
+   "time": "2026-09-21 10:05",
+   "title": "WTI falls to near $93.50 as Middle East diplomacy hopes ease supply fears",
+   "summary": "West Texas Intermediate (WTI) oil price continues its losing streak for the fourth successive day, trading around $93.60 per barrel during the Asian hours on Monday.",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/taiwan-dollar-mildly-hawkish-cbc-but-flows-drive-ocbc-202609182355",
+     "u": "https://www.fxstreet.com/news/wti-falls-to-near-9350-as-middle-east-diplomacy-hopes-ease-supply-fears-202609210205",
      "t": "sec"
     }
    ],
-   "heat": 56.2
+   "heat": 43.9
   },
   {
    "cat": "global",
-   "time": "2026-09-19 07:32",
-   "title": "Taiwan Dollar: CBC holds rates but flags inflation risks – Commerzbank",
-   "summary": "Commerzbank’s Charlie Lay and Henry Hao report that Taiwan’s CBC kept its policy rate at 2.0% for a tenth straight meeting, signalling a patient stance.",
+   "time": "2026-09-21 07:57",
+   "title": "Fed’s Kashkari: Inflation is still too high in “all aspects” of US economy",
+   "summary": "Minneapolis Federal Reserve (Fed) President Neel Kashkari said that inflation is too high across all sectors ‌of the US economy, not just in rising oil prices, Reuters reported on …",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/taiwan-dollar-cbc-holds-rates-but-flags-inflation-risks-commerzbank-202609182332",
+     "u": "https://www.fxstreet.com/news/feds-kashkari-inflation-is-still-too-high-in-all-aspects-of-us-economy-202609202357",
      "t": "sec"
     }
    ],
-   "heat": 56.1
+   "heat": 43.6
   },
   {
    "cat": "global",
-   "time": "2026-09-19 07:27",
-   "title": "South Korean Won: Foreign equity flows keep KRW heavy against US Dollar – OCBC",
-   "summary": "OCBC strategist Christopher Wong notes that the Korean Won remains under pressure as foreign selling of Korean equities persists and elevated US yields after the FOMC continue to w…",
+   "time": "2026-09-21 06:05",
+   "title": "Latest Oil Market News and Analysis for Sept. 21",
+   "summary": "Oil fell for a fourth day, set for the longest losing run since June, as traders tracked diplomatic efforts to end the US-Iran war and signs that cargoes are still getting through …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-20/latest-oil-market-news-and-analysis-for-sept-21",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.2
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-21 02:30",
+   "title": "Oil hits over 1-week low on hopes of boost to diplomacy in Iran war",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
+     "t": "agg"
+    }
+   ],
+   "heat": 40.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-18 22:07",
+   "title": "Oil Futures Decline as Optimism Grows About Saudi Supply Recovery",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-futures-decline-as-optimism-grows-about-saudi-supply-recovery-200687972",
+     "t": "agg"
+    }
+   ],
+   "heat": 34.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-18 17:35",
+   "title": "Oil Prices Head for Weekly Loss as Saudi Export Fears Ease",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-prices-head-for-weekly-loss-as-saudi-export-fears-ease-200687941",
+     "t": "agg"
+    }
+   ],
+   "heat": 34.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-21 09:42",
+   "title": "New Zealand Dollar languishes near two-month low vs USD as bears await break below 0.5700",
+   "summary": "The NZD/USD pair attracts some sellers for the second straight day and trades around the 0.5720-0.5715 zone during the Asian session on Monday, well within striking distance of an …",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/south-korean-won-foreign-equity-flows-keep-krw-heavy-against-us-dollar-ocbc-202609182327",
+     "u": "https://www.fxstreet.com/news/new-zealand-dollar-languishes-near-two-month-low-vs-usd-as-bears-await-break-below-05700-202609210142",
      "t": "sec"
     }
    ],
-   "heat": 56.1
+   "heat": 23.8
   },
   {
    "cat": "global",
-   "time": "2026-09-19 05:49",
-   "title": "Singapore Dollar: Strong NODX but USD still drives USD/SGD – OCBC",
-   "summary": "OCBC’s Christopher Wong highlights that Singapore’s August NODX surged 46.2% year-on-year, far above consensus, with electronics exports jumping on AI-related demand and broad-base…",
+   "time": "2026-09-21 09:10",
+   "title": "British Pound slips as hawkish Fed outlook boosts US Dollar",
+   "summary": "GBP/USD inches lower after registering modest gains in the previous trading day, hovering around 1.3390 during Asian hours on Monday. The pair loses ground as the US Dollar (USD) h…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/singapore-dollar-strong-nodx-but-usd-still-drives-usd-sgd-ocbc-202609182149",
+     "u": "https://www.fxstreet.com/news/british-pound-slips-as-hawkish-fed-outlook-boosts-us-dollar-202609210110",
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 23.8
   },
   {
    "cat": "global",
-   "time": "2026-09-19 05:16",
-   "title": "AUD/USD Price Forecast: Bulls eye 0.7200 after 0.7100 break",
-   "summary": "The Aussie Dollar is poised to end the week on a positive note versus the US Dollar, up 0.21% as improved risk appetite keeps AUD/USD trading near 0.7124, closing near Friday's hig…",
+   "time": "2026-09-21 07:32",
+   "title": "Australian Dollar edges lower as Fed hike bets grow ahead of Trump-Xi summit",
+   "summary": "The AUD/USD pair trades with mild losses around 0.7120 during the early Asian session on Monday. The US dollar (USD) edges higher against the Australian Dollar (AUD) as the US Fede…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07200-after-07100-break-202609182116",
+     "u": "https://www.fxstreet.com/news/australian-dollar-edges-lower-as-fed-hike-bets-grow-ahead-of-trump-xi-summit-202609202332",
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 23.5
   },
   {
    "cat": "global",
-   "time": "2026-09-19 05:12",
-   "title": "Chinese Yuan: Pre-summit support and firmer bias – DBS",
-   "summary": "Chang Wei Liang at DBS Group Research highlights that USD/CNH is easing toward 6.70 despite a stronger Dollar, with the Renminbi (RMB) supported by a lower USD/CNY fixing below 6.7…",
+   "time": "2026-09-21 09:12",
+   "title": "Japanese Yen bulls seem hesitant amid BoJ's dovish rate hike as Fed bets support USD",
+   "summary": "The USD/JPY pair attracts some sellers following a modest Asian session uptick to the 157.10 area and moves away from a two-week high, touched on Friday in reaction to the Bank of …",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/chinese-yuan-pre-summit-support-and-firmer-bias-dbs-202609182112",
+     "u": "https://www.fxstreet.com/news/japanese-yen-bulls-seem-hesitant-amid-bojs-dovish-rate-hike-as-fed-bets-support-usd-202609210112",
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 15.8
   },
   {
    "cat": "global",
-   "time": "2026-09-19 04:44",
-   "title": "NZD/USD Price Forecast: Kiwi reversal puts 0.5700 under pressure",
-   "summary": "The New Zealand Dollar (NZD) turns negative on Friday, down 0.11% against the US Dollar (USD), in a week that saw the Federal Reserve's (Fed) first rate hike in three years, which …",
+   "time": "2026-09-21 10:17",
+   "title": "Houthis claim attacks on Saudi capital, thick smoke seen near Riyadh airport",
+   "summary": "Yemen’s Houthis said that they attacked “sensitive” sites in the Saudi capital Riyadh with missiles and drones, hours after flames and a large plume of smoke were seen near the cit…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-reversal-puts-05700-under-pressure-202609182044",
+     "u": "https://www.fxstreet.com/news/houthis-claim-attacks-on-saudi-capital-thick-smoke-seen-near-riyadh-airport-202609210217",
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 11.9
   },
   {
    "cat": "global",
-   "time": "2026-09-19 04:38",
-   "title": "Singapore Dollar: Range trade persists against US Dollar – UOB",
-   "summary": "United Overseas Bank’s (UOB) Quek Ser Leang notes that USD/SGD has slipped into a short-term range phase after a sharp pullback, with intraday trading expected between 1.2735 and 1…",
+   "time": "2026-09-21 09:15",
+   "title": "PBOC sets USD/CNY reference rate at 6.7487 vs. 6.7521 previous",
+   "summary": "On Monday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7487 compared to Friday's fix of 6.7521 and 6.6951 Reuters estimate.",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/singapore-dollar-range-trade-persists-against-us-dollar-uob-202609182038",
+     "u": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67487-vs-67521-previous-202609210115",
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 11.8
   },
   {
-   "cat": "global",
-   "time": "2026-09-19 03:54",
-   "title": "Malaysian Ringgit: External pressure but scope for reversal – OCBC",
-   "summary": "Christopher Wong at OCBC writes that the Malaysian Ringgit weakened during Thursday’s Asian session on a firmer US Dollar and higher US Treasury yields after the FOMC, with USD/MYR…",
+   "cat": "crypto",
+   "time": "2026-09-21 07:37",
+   "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
+   "summary": "Crypto missed out CLARITY, but tokenized stocks were legalized and the Bitcoin Reserve advanced. Meanwhile Standard Chartered says Arbitrum’s price could increase 70 times by 2030.",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/malaysian-ringgit-external-pressure-but-scope-for-reversal-ocbc-202609181954",
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 56.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-19 03:19",
-   "title": "British Pound: Limited upside after hawkish BoE hold – Scotiabank",
-   "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight that the British Pound (GBP) is only marginally firmer versus the US Dollar (USD) despite stronger-than-expected Aug…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/british-pound-limited-upside-after-hawkish-boe-hold-scotiabank-202609181919",
-     "t": "sec"
-    }
-   ],
-   "heat": 56.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-20 19:52",
-   "title": "Bessent to Meet China's He for Talks, Hormuz Oil Shipments, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-20/bessent-to-meet-china-s-he-for-talks-hormuz-oil-shipments-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 26.2
+   "heat": 55.5
   },
   {
    "cat": "crypto",
@@ -811,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.2
+   "heat": 53.6
   },
   {
    "cat": "crypto",
@@ -825,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.5
+   "heat": 49.9
   },
   {
    "cat": "crypto",
@@ -843,6 +857,20 @@
   },
   {
    "cat": "crypto",
+   "time": "2026-09-21 09:42",
+   "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
+   "summary": "North Korean cyber group WaterPlum targeted developers with fake jobs at crypto, AI and NFT companies, infecting at least 30,000 devices across more than 100 countries.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.8
+  },
+  {
+   "cat": "crypto",
    "time": "2026-09-20 22:54",
    "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
    "summary": "The crypto platform’s market value has fallen to about $753 million, putting fresh attention on the licenses, custody infrastructure and customer relationships a buyer could inheri…",
@@ -853,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.7
+   "heat": 46.0
   },
   {
    "cat": "crypto",
@@ -867,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.9
+   "heat": 42.2
   },
   {
    "cat": "crypto",
@@ -881,21 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-19 03:06",
-   "title": "Binance launches 24/7 FX perps with weekend pricing system",
-   "summary": "Binance is joining a growing number of crypto exchanges offering around-the-clock exposure to foreign exchange markets through perpetual futures.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 36.0
+   "heat": 40.9
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 40.0
   },
   {
    "cat": "crypto",
@@ -923,21 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-20 19:02",
-   "title": "Bitcoin trapped between $78K support and $82K resistance: Live levels",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-     "t": "agg"
-    }
-   ],
-   "heat": 28.0
+   "heat": 40.0
   },
   {
    "cat": "crypto",
@@ -951,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.4
+   "heat": 26.8
   },
   {
    "cat": "crypto",
@@ -965,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 26.2
+   "heat": 25.6
   },
   {
    "cat": "crypto",
@@ -979,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 10.5
+   "heat": 9.8
   },
   {
    "cat": "crypto",
@@ -993,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 10.2
+   "heat": 9.6
   },
   {
    "cat": "crypto",
@@ -1007,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 10.2
+   "heat": 9.6
   },
   {
    "cat": "sector",
@@ -1021,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 230.4
+   "heat": 209.7
   },
   {
    "cat": "sector",
@@ -1035,21 +1035,21 @@
      "t": "sec"
     }
    ],
-   "heat": 228.0
+   "heat": 208.0
   },
   {
    "cat": "sector",
-   "time": "2026-09-18 21:17",
-   "title": "Saudi Oil Exports Rebound at Hormuz While East-West Pipeline Remains Offline",
+   "time": "2026-09-21 02:18",
+   "title": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier",
    "summary": "",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/saudi-oil-exports-rebound-at-hormuz-while-eastwest-pipeline-remains-offline-200687968",
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-launch-talks-on-ai-trade-critical-minerals-4908142",
      "t": "agg"
     }
    ],
-   "heat": 226.0
+   "heat": 212.6
   }
  ]
 }
