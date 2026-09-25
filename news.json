@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25 07:41",
+ "updated": "2026-09-25 10:46",
  "items": [
   {
    "cat": "macro",
@@ -13,41 +13,13 @@
      "t": "sec"
     }
    ],
-   "heat": 191.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-25 04:35",
-   "title": "Dow falls for a third day as bond yields hit fresh highs: Live updates",
-   "summary": "Treasury yields kept marching higher, with traders anticipating further rate hikes from the Federal Reserve.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 187.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-25 05:06",
-   "title": "Bond Yields Soar, Spiking Fed Rate Hike Bets",
-   "summary": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know. Today's guests: Parametric SMA Fixed Income Portfolio Manager Nisha Patel, Citi Head of Global Rates Deir…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-24/real-yield-9-24-2026-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 183.6
+   "heat": 178.5
   },
   {
    "cat": "macro",
    "time": "2026-09-25 07:16",
    "title": "US Treasury Yields Hit 5% as Wall Street Faces New Rate Regime",
-   "summary": "As yields on US Treasuries soar past one high after the next, a reality is sinking in deeper across Wall Street and Washington: More than merely a slump, this might just be a funda…",
+   "summary": "As yields on US Treasuries soar past one high after the next, a reality is sinking in deeper across Wall Street and Washington: More than merely a bond-market slump, this might jus…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
@@ -55,21 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 175.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-25 04:57",
-   "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
-   "summary": "The 10-year Treasury note yield is spiking to levels not seen in years, and that may be a bad omen for financial markets.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 175.5
+   "heat": 167.4
   },
   {
    "cat": "macro",
@@ -83,11 +41,39 @@
      "t": "sec"
     }
    ],
-   "heat": 171.9
+   "heat": 167.4
   },
   {
    "cat": "macro",
-   "time": "2026-09-25 05:40",
+   "time": "2026-09-25 04:57",
+   "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
+   "summary": "The 10-year Treasury note yield is spiking to levels not seen in years, and that may be a bad omen for financial markets.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 167.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-24 16:16",
+   "title": "Surging US Yields Push Spreads With Asia Toward Extremes",
+   "summary": "The surge in Treasury yields has pushed yield gaps with emerging Asia bonds toward record levels, raising the risk of capital outflows from the region, according to strategists.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-24/treasury-yield-surge-pushes-spreads-versus-asia-near-extremes",
+     "t": "sec"
+    }
+   ],
+   "heat": 164.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-25 10:38",
    "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
    "summary": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
    "srcs": [
@@ -97,21 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 167.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-25 02:38",
-   "title": "Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy",
-   "summary": "Elevated Treasury yields will complicate both Federal Reserve policy and Treasury financing.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 167.2
+   "heat": 140.0
   },
   {
    "cat": "macro",
@@ -125,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 156.0
+   "heat": 132.0
   },
   {
    "cat": "macro",
@@ -139,49 +111,35 @@
      "t": "sec"
     }
    ],
-   "heat": 151.9
+   "heat": 123.4
   },
   {
    "cat": "macro",
-   "time": "2026-09-25 06:13",
-   "title": "Asian Bond Losses to Extend as Oil Fans Inflation: Markets Wrap",
-   "summary": "A global bond selloff was set to deepen in Asia as elevated oil prices stoked inflation concerns, pushing long-term Treasury yields to multi-decade highs and fueling expectations f…",
+   "time": "2026-09-25 09:52",
+   "title": "Stock futures are little changed as Dow heads for fourth straight losing week: Live updates",
+   "summary": "Bond yields continued their climb on Thursday while the Nasdaq and S&P 500 were flat.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-24/stock-market-today-dow-s-p-live-updates",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
      "t": "sec"
     }
    ],
-   "heat": 151.8
+   "heat": 119.8
   },
   {
    "cat": "macro",
-   "time": "2026-09-25 05:23",
-   "title": "Principal CIO on Inflation Concerns, Rising Bond Yields",
-   "summary": "George Maris of Principal Asset Management discusses the growing pressure on equities from the bond market. The conversation focuses on whether the recent rise in yields, both over…",
+   "time": "2026-09-25 09:47",
+   "title": "Goldman’s Moe Says He’s in ‘Stronger-for-Longer Camp’ on AI",
+   "summary": "Artificial intelligence-related stocks remain attractive despite rising government bond yields, Goldman Sachs Group Inc.’s Timothy Moe said.",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-24/principal-cio-on-inflation-concerns-rising-bond-yields-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-25/goldman-s-moe-says-he-s-in-stronger-for-longer-camp-on-ai",
      "t": "sec"
     }
    ],
-   "heat": 147.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-24 16:37",
-   "title": "Bond Selloff Deepens After 30-Year Yield Hits Highest Since 2004",
-   "summary": "Yields on the US’s longest-dated bonds climbed to the highest level in more than two decades, the latest milestone in a global selloff driven by inflation fears and concern about g…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-24/us-30-year-yield-hits-highest-since-2004-as-bond-selloff-deepens",
-     "t": "sec"
-    }
-   ],
-   "heat": 145.5
+   "heat": 119.8
   },
   {
    "cat": "macro",
@@ -195,7 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 143.9
+   "heat": 119.4
   },
   {
    "cat": "macro",
@@ -209,7 +167,175 @@
      "t": "sec"
     }
    ],
-   "heat": 143.8
+   "heat": 119.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-25 06:13",
+   "title": "Bonds Stabilize as Oil Declines, Stocks Edge Up: Markets Wrap",
+   "summary": "A global bond selloff that drove yields to multi-decade highs began to stabilize in Asia as oil snapped a two-day surge, offering investors some respite after a bruising stretch fo…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-24/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 119.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-25 05:15",
+   "title": "US 30-Year Yield Hits Highest Since 2004",
+   "summary": "Get caught up.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-24/us-30-year-yield-hits-highest-since-2004",
+     "t": "sec"
+    }
+   ],
+   "heat": 119.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-25 03:51",
+   "title": "Bond yields keep rising. How income investors can best take advantage of the moves",
+   "summary": "As Treasury yields reach multiyear highs, income investors should employ these winning moves.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/24/bond-yields-keep-rising-how-income-investors-can-best-take-advantage.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 118.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-25 10:43",
+   "title": "Trump and Xi Tackle AI, Xi Taiwan Independence Warning, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-25/trump-and-xi-tackle-ai-xi-taiwan-independence-warning-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 220.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-25 10:07",
+   "title": "Australia Demands More AI Safeguards After Revealing OpenAI Hack",
+   "summary": "Australian Prime Minister Anthony Albanese used his trip to the United Nations to call for greater controls on artificial intelligence, pointing to the revelation that OpenAI had h…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-25/australia-demands-more-ai-safeguards-after-revealing-openai-hack",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-25 09:51",
+   "title": "Trump-Xi Talk AI, Xi Calls for US to Oppose Taiwan Independence",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-25/trump-xi-talk-ai-xi-calls-for-us-to-oppose-taiwan-independence",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-25 09:40",
+   "title": "Grains Drop With Trump-Xi Summit Yet to Offer Farm Trade Details",
+   "summary": "Chicago grains fell at the open as traders were left waiting for concrete news on agricultural trade with China from the presidential summit in Washington.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-25/grains-drop-with-trump-xi-summit-yet-to-offer-farm-trade-details",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-25 08:47",
+   "title": "Why US-China AI Talks Are About Risk Management",
+   "summary": "Former US official Sarah Beran contends that US-China AI engagement will center on risk reduction rather than deep collaboration. She highlights guardrails and threat-reporting cha…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-25/why-us-china-ai-talks-are-about-risk-management-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-25 08:41",
+   "title": "Trump-Xi on AI, Xi Pushes Trump to Oppose Taiwan Independence",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-25/trump-xi-on-ai-xi-pushes-trump-to-oppose-taiwan-independence",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-25 08:17",
+   "title": "Polymarket countersues New York state over ‘unregulated gambling’ allegation",
+   "summary": "State attorney general Letitia James claims Polymarket has violated the state's gambling laws.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-25 08:13",
+   "title": "Lula to Ban Online Betting, Offer Debt Relief Before Election",
+   "summary": "President Luiz Inácio Lula da Silva will sign two provisional measures on Friday, one banning online betting and another aimed at renegotiating individual debts, according to two p…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-25/lula-to-ban-online-betting-offer-debt-relief-before-election",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-25 07:50",
+   "title": "Trump and Xi Tackle AI, Xi Presses Trump on Taiwan, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-24/trump-and-xi-tackle-ai-xi-presses-trump-on-taiwan-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.5
   },
   {
    "cat": "sector",
@@ -223,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.9
+   "heat": 219.4
   },
   {
    "cat": "sector",
@@ -237,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.9
+   "heat": 219.4
   },
   {
    "cat": "sector",
@@ -251,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.9
+   "heat": 219.4
   },
   {
    "cat": "sector",
@@ -265,119 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-25 06:05",
-   "title": "Latest Oil Market News and Analysis for DATE",
-   "summary": "Oil steadied as US and Iranian negotiators were said to be exploring a phased deal that would see Tehran reopen the Strait of Hormuz.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-24/latest-oil-market-news-and-analysis-for-date",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-25 06:01",
-   "title": "Global Citizen CEO on Mission To End Extreme Poverty",
-   "summary": "Global Citizen CEO Hugh Evans sat down with Bloomberg's Romaine Bostick to discuss the organization's upcoming Global Citizen Festival in New York City, the mission to end extreme …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-24/global-citizen-ceo-on-mission-to-end-extreme-poverty-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-25 05:57",
-   "title": "Apple Store Creator on New Book and Retail’s AI Future",
-   "summary": "Ron Johnson, Creator of the Apple Store and author of the new book \"Shop Different: How Retail Revealed Apple's Genius\" takes a look at the strategy behind the iconic Apple Store a…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-24/apple-store-creator-on-new-book-and-retail-s-ai-future-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-25 05:56",
-   "title": "Savor CEO on Producing Fats & Oils From Carbon Sources",
-   "summary": "Savor CEO Kathleen Alexander explains how the company builds fats and oils molecule by molecule from carbon-based inputs, aiming to reduce reliance on traditional agriculture while…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-24/savor-ceo-on-producing-fats-oils-from-carbon-sources-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-25 05:51",
-   "title": "Bloomberg Businessweek Daily: US-China AI Arms Race (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-24/bloomberg-businessweek-daily-us-china-ai-arms-race-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-25 05:44",
-   "title": "CFOs Face a Tougher Call on When to Borrow",
-   "summary": "It’s been a good year for CFOs looking to borrow. Credit markets have largely remained open despite the war in Iran, spreads have been low and investors have been eager to buy. Moz…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-24/cfos-face-a-tougher-call-on-when-to-borrow-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-25 05:42",
-   "title": "Live Nation Has Received $420 Million in Subsidies From US Cities: Study",
-   "summary": "A new report digs into the subsidies that local governments provide the entertainment giant",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-24/live-nation-has-received-420-million-in-subsidies-from-us-cities-study",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-25 05:39",
-   "title": "MSCI CEO: Investors Are Putting Money Everywhere",
-   "summary": "Henry Fernandez, Chairman and CEO at MSCI, discusses Oracle’s force majeure notice in the context of heavy borrowing and large investments tied to the long-term AI story. He goes o…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-24/msci-ceo-investors-are-putting-money-everywhere-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.7
+   "heat": 219.3
   },
   {
    "cat": "stock",
@@ -391,35 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-25 04:31",
-   "title": "Meta’s Best Month Since 2013 Has It on Cusp of $2 Trillion Level",
-   "summary": "Meta Platforms Inc. is finally seeing the stock breakout that beleaguered bulls had been banking on.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-24/meta-s-best-month-since-2013-has-it-on-cusp-of-2-trillion-level",
-     "t": "sec"
-    }
-   ],
-   "heat": 67.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-25 04:18",
-   "title": "Stocks Close Mixed, Xi Urges Trump to Oppose Taiwan Independence",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-24/stocks-close-mixed-xi-urges-trump-to-oppose-taiwan-independence",
-     "t": "sec"
-    }
-   ],
-   "heat": 67.4
+   "heat": 71.1
   },
   {
    "cat": "stock",
@@ -433,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.4
+   "heat": 70.9
   },
   {
    "cat": "stock",
@@ -447,7 +433,21 @@
      "t": "sec"
     }
    ],
-   "heat": 67.2
+   "heat": 70.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-24 23:52",
+   "title": "Why US stock market crashes today? 3 reasons Dow Jones, Nasdaq and S&P 500 are in deep red as tech stocks - The Economic",
+   "summary": "Why US stock market crashes today? 3 reasons Dow Jones, Nasdaq and S&P 500 are in deep red as tech stocks &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNVnhwMjhaZHFYY0RkQjdGaW1XVGxqYTQ5eHduZzlJLUhBMzM0T3A0bERhMXBCYTRXZEJpSllsRndxTnozLU1jT2JWUUFia1E4LVFIUVpEdm1vMm1mSnduR2lrU2RvY2xSUjVjZGFEeHJYTGxEc0xzczQ1aFZXRklnelVfQ1dmYW1NZk9YQ3N4aVlSYl9hNzdoZWV2VktoMl91WS1oQ1hmYjVwTFdnRThuY0hjU2Rqd0V1QktjSkgyWkZad2FDRWk0a244YnB1TV9xYnVSc1ROSjNrMlhkcDN1MnNjZmRBTktYbkt0MHFNUTBleTM0c1RtQU5NdVFEbnY0d05GZFBmdVI1cEhwcnNiQm9KTUR4TF9MYnZoV29hTUJyOHJmeXhn0gGsAkFVX3lxTE10dTk5cXNBN2U5aDgybFZ4ZzV3MmZwaDZNcGNSeE1PNG50WE11SkdraXdYRTYxSXhjMVlUazgyRk12ZDl6NExKOTQ2WHRtTk80VE5LR3Y0OGdqREtZQzZma3Nhcm5LOEl6eEhjOUlXV001bFkyd0RGQmh3Q1hFT2w0Y0VzSmJmWEx5TDRnekdfT3VNWmpnMXNVR1A2TmxSU2p3VGVQUkZSX0QyS1p0Z040SmxQS2FUdDgtX2trdC1MUUVRVkdmYzZPRWIzdE5VbU5wVzNWby1YaU5paVZnTGNPRm0yRTMxRkplY3Y1Mjd3Zm52aXZsek80NWpwNm1VVGM0T25oazRhbmJON0N5anBMZldKRjZEZmRLLXpLbUZjNGg5VWFqUEQyZnYzWQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 70.2
   },
   {
    "cat": "stock",
@@ -461,7 +461,49 @@
      "t": "sec"
     }
    ],
-   "heat": 65.6
+   "heat": 69.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-25 02:00",
+   "title": "Photronics director Lee Kang Jyh sells $297,000 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/photronics-director-lee-kang-jyh-sells-297000-in-stock-93CH-4916529",
+     "t": "agg"
+    }
+   ],
+   "heat": 68.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-25 01:46",
+   "title": "Workday director David Duffield sells $19.1m in WDAY stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/workday-director-david-duffield-sells-191m-in-wday-stock-93CH-4916525",
+     "t": "agg"
+    }
+   ],
+   "heat": 68.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-25 01:31",
+   "title": "Wood River Capital sells $58.1 million of Aspen Aerogels stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/wood-river-capital-sells-581-million-of-aspen-aerogels-stock-93CH-4916517",
+     "t": "agg"
+    }
+   ],
+   "heat": 68.5
   },
   {
    "cat": "stock",
@@ -475,21 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 65.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-23 20:51",
-   "title": "US markets today: Dow, S&P 500, Nasdaq futures indicate positive open; Maplebear, Worthington, other stocks to watch - U",
-   "summary": "US markets today: Dow, S&P 500, Nasdaq futures indicate positive open; Maplebear, Worthington, other stocks to watch &nbsp;&nbsp; Upstox",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWkVyYklTZ0VoVldCZzRfMmxOSks5WjZjUlp4SkRIS0xIN3IzTDh6UEVPR2l2OUo0M1VsRXVwbGtXbmV4YzhIbTdfcmU5RkZSQ3dvY0t2UFAzTk9jcmVmN3ZLYmNkQWwxZ3lKakVyanNxV1FZQ3BHbDQteVVYTlQ3WHRwcTNVRDYtRXp5S3VRcGwtOFZ6V1JlN0RvVTgyUHdKTzNYRmcwOElVZUhDMU10T3JoMlo5UTlwOGozVk5zZDZIUVlzVWtWcGdNbTh6YkVJMWlyRjNMRUJHYWJ5RFEtQzNueEZxcGlWZGEzS2xnb1ZMMGNndEJRSlNDb1ZWNTdaUEFiYVhiaw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 62.2
+   "heat": 68.5
   },
   {
    "cat": "stock",
@@ -503,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.1
+   "heat": 65.6
   },
   {
    "cat": "stock",
@@ -517,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 64.0
   },
   {
    "cat": "stock",
@@ -531,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 64.0
   },
   {
    "cat": "stock",
@@ -545,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 64.0
   },
   {
    "cat": "stock",
@@ -559,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 64.0
   },
   {
    "cat": "stock",
@@ -573,21 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-19 01:01",
-   "title": "Best Dividend Stocks to Buy for Dependable Dividend Growth - Kiplinger",
-   "summary": "Best Dividend Stocks to Buy for Dependable Dividend Growth &nbsp;&nbsp; Kiplinger",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHNqVUlGMXB2WDlLU3RlTDBpTDQ0TFZTLTBMWVBoRl9YMURRVml4Sk5EVi1fTVdzb0J4NEpLZXpaRy1wQjVkRi1YeVhHcUJNam8zUnNsbllvandtc3JRUnp2Ymp1TnM5ZEVadFhPNXJJR1pJYkRGT2tTNFJjOTVYWnlaZmxPMXFvc3JMR2IxWjlsQXVyemUwdDl0QzE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 60.0
+   "heat": 64.0
   },
   {
    "cat": "global",
@@ -601,35 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-25 06:55",
-   "title": "Australian Dollar tests 200-day SMA amid soaring US yields",
-   "summary": "The Aussie Dollar fell for the third straight day, down 0.37% against the US Dollar, which remained boosted by elevated US yields, which jumped as Oil prices rose and as inflation …",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/australian-dollar-tests-200-day-sma-amid-soaring-us-yields-202609242255",
-     "t": "sec"
-    }
-   ],
-   "heat": 59.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-25 06:39",
-   "title": "Mexican Peso : Range view with downside risks against US Dollar – Rabobank",
-   "summary": "Rabobank’s USD/MXN analysis highlights recent moves driven by Oil-related Dollar strength and heavy speculative long-MXN positioning.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/mexican-peso-range-view-with-downside-risks-against-us-dollar-rabobank-202609242239",
-     "t": "sec"
-    }
-   ],
-   "heat": 59.8
+   "heat": 67.4
   },
   {
    "cat": "global",
@@ -643,21 +629,49 @@
      "t": "agg"
     }
    ],
-   "heat": 56.7
+   "heat": 64.2
   },
   {
    "cat": "global",
-   "time": "2026-09-25 06:30",
-   "title": "New Zealand Dollar grinds lower as US bond yields climb to new highs",
-   "summary": "The Reserve Bank of New Zealand (RBNZ) has its Official Cash Rate (OCR) at 2.75%, and markets now price at least a 75% chance that it goes to 3% on October 28, against about 30% ri…",
+   "time": "2026-09-25 10:00",
+   "title": "Canadian Dollar weakens amid falling oil prices, stronger US Dollar",
+   "summary": "USD/CAD extends its gains for the fifth consecutive day, trading around 1.4140 during Asian hours on Friday. The pair appreciates as the commodity-linked Canadian Dollar (CAD) face…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/new-zealand-dollar-grinds-lower-as-us-bond-yields-climb-to-new-highs-202609242230",
+     "u": "https://www.fxstreet.com/news/canadian-dollar-weakens-amid-falling-oil-prices-stronger-us-dollar-202609250200",
      "t": "sec"
     }
    ],
-   "heat": 47.8
+   "heat": 63.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-25 06:55",
+   "title": "Australian Dollar tests 200-day SMA amid soaring US yields",
+   "summary": "The Aussie Dollar fell for the third straight day, down 0.37% against the US Dollar, which remained boosted by elevated US yields, which jumped as Oil prices rose and as inflation …",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/australian-dollar-tests-200-day-sma-amid-soaring-us-yields-202609242255",
+     "t": "sec"
+    }
+   ],
+   "heat": 63.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-25 06:39",
+   "title": "Mexican Peso : Range view with downside risks against US Dollar – Rabobank",
+   "summary": "Rabobank’s USD/MXN analysis highlights recent moves driven by Oil-related Dollar strength and heavy speculative long-MXN positioning.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/mexican-peso-range-view-with-downside-risks-against-us-dollar-rabobank-202609242239",
+     "t": "sec"
+    }
+   ],
+   "heat": 63.3
   },
   {
    "cat": "global",
@@ -671,7 +685,105 @@
      "t": "sec"
     }
    ],
-   "heat": 43.1
+   "heat": 50.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-25 02:24",
+   "title": "Asian stocks weather bond storm, oil retreats slightly",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/asian-stocks-weather-bond-storm-oil-retreats-slightly-4916537",
+     "t": "agg"
+    }
+   ],
+   "heat": 48.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-25 09:06",
+   "title": "WTI drops to near $92.50 on potential US-Iran deal",
+   "summary": "West Texas Intermediate (WTI) oil price declines after two days of gains, trading around $92.60 per barrel during Asian hours on Friday.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/wti-drops-to-near-9250-on-potential-us-iran-deal-202609250106",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-25 03:12",
+   "title": "Oil Supply Risks Deepen as Hormuz and Red Sea Routes Come Under Pressure",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-supply-risks-deepen-as-hormuz-and-red-sea-routes-come-under-pressure-200688354",
+     "t": "agg"
+    }
+   ],
+   "heat": 44.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-25 06:30",
+   "title": "New Zealand Dollar grinds lower as US bond yields climb to new highs",
+   "summary": "The Reserve Bank of New Zealand (RBNZ) has its Official Cash Rate (OCR) at 2.75%, and markets now price at least a 75% chance that it goes to 3% on October 28, against about 30% ri…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/new-zealand-dollar-grinds-lower-as-us-bond-yields-climb-to-new-highs-202609242230",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-23 04:21",
+   "title": "Dow, S&P 500 slip as oil hovers near $100 despite Nasdaq’s record close - The Economic Times",
+   "summary": "Dow, S&P 500 slip as oil hovers near $100 despite Nasdaq’s record close &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMHlvek9SbDF0SXExODAxNTNnRTZVeW5kcjFMNTFTM05QbTBRczdhRmxYekxFQkxpQ2RMR2hlMGhaUUpHNkVocTllNlZYVjFRc2FHZmpTSVY3Zzc0R1F5WGlkWTZ1czRKZlUzRmZWOTFWd1RwYkdhWW4tUC1ZT1dSeFNfSU5nT1BVVTVENW8zM3ZkUWVWZ2pjOWt5YVlEajRDTUxZVnpQUFBBUm1IcUdBOHczV253cVhXQU9fb0F6Z3NWZnZ0R0tGajBDMmlIYmM5OHA3RHhDSGdrMjBjSkNEMmFEMHBZb3pLLVZHWEtB0gHzAUFVX3lxTE41OWdYaEZHY3pwcF9pVWNTeTN5SUNrazJ2MlZJMTNoSkc1RVVZTDBVcXJuZm9NM0wySnc0Rks0d0VkVzhma2JNNk4tSHFmLXdYcnFUbUV4S2tUSERrTGRibExjb2p1RXRSUlM4elRpWDBaaWhOeGdvZ29kT1QzQ2NWbjZZYmV4QlpIMTR6ZWl6UmlaOTBtNG4yRW5XbVJvalpLNFFOLXhLU21MOFpXN3pyWWFldy1qdWkyejBXc2RhMEdaTG5lTHR2dm16aFJTdWRnZTBUSl80eW5rOFhTS0I5NmFKM09jUzI2b01sTi1DVW1oWQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-25 10:24",
+   "title": "Australian Dollar flatlines near 0.7000 as traders assess Trump-Xi summit",
+   "summary": "The AUD/USD pair holds steady around 0.7010 during the early Asian trading hours on Friday. Traders continue to assess the developments surrounding the US President Donald Trump an…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/australian-dollar-flatlines-near-07000-as-traders-assess-trump-xi-summit-202609250224",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-25 09:23",
+   "title": "Euro posts modest lossess on rising Fed hike odds, Middle East tensions",
+   "summary": "The EUR/USD pair trades with mild losses near 1.1375 during the early Asian trading hours on Friday. The US Dollar (USD) strengthens against the Euro (EUR) amid hawkish signals fro…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/euro-posts-modest-lossess-on-rising-fed-hike-odds-middle-east-tensions-202609250123",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.8
   },
   {
    "cat": "global",
@@ -685,7 +797,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.9
+   "heat": 35.4
   },
   {
    "cat": "global",
@@ -699,105 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-25 05:00",
-   "title": "Hedge Fund With 235% Return Says Gold Price Decline Is Temporary",
-   "summary": "Australian hedge fund manager Raphael Lamm, whose long-short gold fund has delivered a net return of more than 200% to investors since its launch last year, sees the recent decline…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-24/hedge-fund-with-235-return-says-gold-price-decline-is-temporary",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-25 04:12",
-   "title": "Mexican Peso slides to April lows as Banxico shrugs off Fed gap",
-   "summary": "The Mexican Peso (MXN) extends its losses against the US Dollar (USD) on Thursday after the Bank of Mexico (Banxico) held the benchmark interest rate unchanged at 6.50%, disregardi…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/mexican-peso-slides-to-april-lows-as-banxico-shrugs-off-fed-gap-202609242012",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-25 03:04",
-   "title": "US Dollar Index extends its winning streak as Fed speakers line up behind hikes",
-   "summary": "The Dollar Index has won back about 90% of what it lost between the late-July top and the August low. It reached 101.40 on Thursday, its highest since late July, and is heading for…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/us-dollar-index-extends-its-winning-streak-as-fed-speakers-line-up-behind-hikes-202609241904",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-25 02:38",
-   "title": "Singapore Dollar: Inflation keeps MAS cautious – Commerzbank",
-   "summary": "Commerzbank’s Dr. Henry Hao and Moses Lim note that Singapore’s August headline and core inflation both climbed to the upper half of the Monetary Authority of Singapore’s 2026 fore…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/singapore-dollar-inflation-keeps-mas-cautious-commerzbank-202609241838",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-25 02:32",
-   "title": "Forex Today: Fedspeak takes centre stage",
-   "summary": "The US Dollar (USD) has traded with gains for the fourth consecutive day on Thursday, managing to revisit levels last seen in late July.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/forex-today-fedspeak-takes-centre-stage-202609241832",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.1
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-24 18:06",
-   "title": "Gold Is Falling, but Not Nearly Fast Enough for These Financial Conditions",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-is-falling-but-not-nearly-fast-enough-for-these-financial-conditions-200688290",
-     "t": "agg"
-    }
-   ],
-   "heat": 35.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-24 15:58",
-   "title": "Gold Bulls Need $4,242 to Hold — or the Summer Rally Starts to Look Vulnerable",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-bulls-need-4242-to-hold--or-the-summer-rally-starts-to-look-vulnerable-200688280",
-     "t": "agg"
-    }
-   ],
-   "heat": 35.4
+   "heat": 35.1
   },
   {
    "cat": "crypto",
@@ -811,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.4
+   "heat": 62.8
   },
   {
    "cat": "crypto",
@@ -825,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.9
+   "heat": 54.4
   },
   {
    "cat": "crypto",
@@ -839,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.7
+   "heat": 54.2
   },
   {
    "cat": "crypto",
@@ -853,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.5
+   "heat": 54.0
   },
   {
    "cat": "crypto",
@@ -867,13 +881,13 @@
      "t": "sec"
     }
    ],
-   "heat": 47.7
+   "heat": 47.2
   },
   {
    "cat": "crypto",
    "time": "2026-09-25 07:27",
-   "title": "Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express",
-   "summary": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $351M loss and OpenAI forgets to mention its agents hacked the Australian Government.",
+   "title": "Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express",
+   "summary": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $352M loss and OpenAI forgets to mention its agents hacked the Australian Government.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
@@ -881,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 39.4
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 39.2
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 39.2
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.2
+   "heat": 38.7
   },
   {
    "cat": "crypto",
@@ -937,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.9
+   "heat": 38.4
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.5
+   "heat": 35.0
   },
   {
    "cat": "crypto",
@@ -965,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.7
+   "heat": 34.2
   },
   {
    "cat": "crypto",
@@ -979,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.6
+   "heat": 34.1
   },
   {
    "cat": "crypto",
@@ -993,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.4
+   "heat": 26.9
   },
   {
    "cat": "crypto",
@@ -1007,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 19.8
+   "heat": 19.3
   },
   {
    "cat": "sector",
@@ -1021,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 208.2
+   "heat": 215.7
   },
   {
    "cat": "sector",
@@ -1035,21 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 208.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-24 23:36",
-   "title": "Analysis-Oracle, Blue Owl project delay sends ripples through AI financing, sources say",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/analysisoracle-blue-owl-project-delaysends-ripples-through-ai-financing-sources-say-4916397",
-     "t": "agg"
-    }
-   ],
-   "heat": 208.7
+   "heat": 216.2
   }
  ]
 }
