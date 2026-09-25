@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26 03:03",
+ "updated": "2026-09-26 07:43",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,21 @@
      "t": "sec"
     }
    ],
-   "heat": 116.3
+   "heat": 131.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-26 03:31",
+   "title": "Gold Faces a 5.2% Treasury Yield Wall as Fed Hike Odds Climb",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-faces-a-52-treasury-yield-wall-as-fed-hike-odds-climb-200688438",
+     "t": "agg"
+    }
+   ],
+   "heat": 109.3
   },
   {
    "cat": "macro",
@@ -27,7 +41,21 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 104.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-26 04:48",
+   "title": "Wall Street’s ‘80/20’ Shift Finds Fresh Fuel in Stock Bounceback",
+   "summary": "Wall Street spent another week watching yields hit multi-decade highs, oil hold above $100 and the case for tighter Federal Reserve policy harden. Once again, risk assets refused t…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-25/wall-street-s-80-20-shift-finds-fresh-fuel-in-stock-bounceback",
+     "t": "sec"
+    }
+   ],
+   "heat": 103.5
   },
   {
    "cat": "macro",
@@ -41,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 86.6
+   "heat": 97.8
   },
   {
    "cat": "macro",
@@ -55,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 81.1
+   "heat": 92.3
   },
   {
    "cat": "macro",
@@ -69,12 +97,12 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 92.0
   },
   {
    "cat": "macro",
-   "time": "2026-09-26 02:16",
-   "title": "S&P 500 rises, heads for winning week despite Treasury yield surge: Live updates",
+   "time": "2026-09-26 06:41",
+   "title": "Dow jumps more than 470 points Friday; stocks notch winning week despite Treasury yield surge",
    "summary": "Wall Street gets set to wrap up a volatile week of trading, with a surge in Treasury yields rippling through financial markets.",
    "srcs": [
     {
@@ -83,119 +111,35 @@
      "t": "sec"
     }
    ],
-   "heat": 67.9
+   "heat": 79.8
   },
   {
    "cat": "macro",
-   "time": "2026-09-26 00:40",
-   "title": "10-year Treasury yield hit a 19-year high—and some investors see opportunity to buy bonds",
-   "summary": "The 10-year Treasury yield hit its highest level since 2007. Here’s what higher yields can mean for bond investors and borrowers.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/treasury-yield-buy-bonds.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 67.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-25 06:17",
-   "title": "Dow Jones Today: DJIA Falls to 51,349.98 as 5% Treasury Yields and $106 Brent Weigh on Blue Chips - BBN Times",
-   "summary": "Dow Jones Today: DJIA Falls to 51,349.98 as 5% Treasury Yields and $106 Brent Weigh on Blue Chips &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSzR2QWQwT093YXBOS1J5SDF1b0JoaVhZVE1RX0JCLWZta214c2xlclpPZ1o3em9BaDJZXzNVcFllc2tTZTVkMHhGUW1KLXRsSkdvMHZHdUxlYUNueUlCbHI3UlctTVRDNUJGQTNmQnNUY3BlcFFQOEhmRHlsNWJsSXg4ZWhyM2RKMU1ZNVc3aUg4VmhZeEhwZGZYY0o1azM1V1hhZzM4WU5SRVNLMzQwbkxfSUtiV0VNZEQ4T2FtcmZXUTFWemFTU1Q1bXQ2ekk?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 64.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-26 01:57",
-   "title": "Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw",
-   "summary": "With a brilliant hardware funnel and an options market pricing in juicy short-term premiums, Meta looks primed for a powerful breakout into 2027.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/-metas-powerful-breakout-sets-up-a-unique-trading-strategy-says-mike-khouw.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-26 01:23",
-   "title": "The Love-Hate Relationship With AI Unfolding on Social Media",
-   "summary": "It has been a head-spinning time of change for social media content creators as AI slop proliferates all over the Internet. On this episode of the Odd Lots podcast recorded live at…",
+   "time": "2026-09-26 05:52",
+   "title": "Markets Rise as AI, Oil & Treasury Yields Drive the Week",
+   "summary": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Morgan Stanley Pr…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-25/the-love-hate-relationship-with-ai-unfolding-on-social-media",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-25/the-close-9-25-2026-video",
      "t": "sec"
     }
    ],
-   "heat": 63.7
+   "heat": 79.7
   },
   {
    "cat": "macro",
-   "time": "2026-09-26 00:37",
-   "title": "Prospect Capital Junk-Bond Sale Comes With 8% Yield Whisper",
-   "summary": "Prospect Capital Corp. is discussing a yield of about 8% on its first junk-bond offering since 2021, underscoring the rising costs of funding for private-credit funds.",
+   "time": "2026-09-24 18:51",
+   "title": "Stock Market Today (Sept. 24, 2026): S&P 500, Dow stagnate as higher treasury yields and oil weigh on sentiment - AOL.co",
+   "summary": "Stock Market Today (Sept. 24, 2026): S&P 500, Dow stagnate as higher treasury yields and oil weigh on sentiment &nbsp;&nbsp; AOL.com",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-25/prospect-capital-junk-bond-sale-comes-with-8-yield-whisper",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSQ193YkQ4Q3JuNVNEanloamsxcV9iNDNQdEJ4bzM0c044dGtCcHRJaFQyX0x6RzhWejJqNmRKZjlqbUltRng1WktTeV9WQUFSd0wtcDFUem0tYnREUVh5ckt4Y3hCMUd2T01XOHlBRjZfSjdDOEJUSWp3?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 63.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-25 23:51",
-   "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-   "summary": "With Microsoft still searching for a winning AI strategy, the company its updating its Copilot app to combine more capabilities.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-25 09:12",
-   "title": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
-   "summary": "Chinese President Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 61.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-25 19:10",
-   "title": "US Dollar Steadies on Softer US Rates as US-Japan Coordination Snaps Yen Slide",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-steadies-on-softer-us-rates-as-usjapan-coordination-snaps-yen-slide-200688408",
-     "t": "agg"
-    }
-   ],
-   "heat": 60.7
+   "heat": 73.9
   },
   {
    "cat": "macro",
@@ -209,63 +153,231 @@
      "t": "sec"
     }
    ],
-   "heat": 60.7
+   "heat": 72.0
   },
   {
-   "cat": "sector",
-   "time": "2026-09-26 02:05",
-   "title": "Accel Sees AI Opportunity Shifting to Applications",
-   "summary": "The AI spending boom is showing no signs of slowing down, but as billions pour into models, chips and data centers, investors are asking where the biggest returns will actually be.…",
+   "cat": "macro",
+   "time": "2026-09-24 00:58",
+   "title": "S&P 500 Falls as 10-Year Treasury Yield Tops 5% After Five-Year PMI High - CryptoRank",
+   "summary": "S&P 500 Falls as 10-Year Treasury Yield Tops 5% After Five-Year PMI High &nbsp;&nbsp; CryptoRank",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-25/accel-sees-ai-opportunity-shifting-to-applications-video",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWElOdlZ6cHE2dnZ6b3llQzhrRm1NRXgxNnNtRUZzaktQVUpMUWkzemdYTFBhOE9LVXF5STJic0ZjOXNuVElJaUN1QmVMVGNTZm9yaFp6SmQ2R19tMmFsNlJ1aFY3UU1Ec3lYdkI3aWJSb0V3U01zRE4xbl9FVXQ4dHAxLUs5V2lrQmtJZFh4NlNWQTk5U3RFSWxrQmpjNjN6eEZmYmZPTVN2amJR?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 191.8
+   "heat": 72.0
   },
   {
-   "cat": "sector",
-   "time": "2026-09-26 02:22",
-   "title": "Odd Lots: Why Is the Entertainment Industry Leaving LA?",
-   "summary": "For Hollywood, business has been declining since the pandemic. Fewer shoots are taking place in Los Angeles while movie productions are happening elsewhere in the world. On this ep…",
+   "cat": "macro",
+   "time": "2026-09-26 06:30",
+   "title": "Trump Pulls Out All the Stops for Xi But Summit Yields Few Results",
+   "summary": "The Washington summit featured plenty of pageantry and a panda announcement but few concrete outcomes",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-25/trump-pulls-out-all-the-stops-for-xi-but-summit-yields-few-results",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-26 04:39",
+   "title": "Great Bond Shakeout Locks In a 5% World ‘Until Something Breaks’",
+   "summary": "As yields on US Treasuries soar past one high after the next, a reality is sinking in deeper across Wall Street and Washington: More than merely a bond-market slump, this might jus…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-25/odd-lots-why-is-the-entertainment-industry-leaving-la-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-25/great-bond-shakeout-locks-in-a-5-world-video",
      "t": "sec"
     }
    ],
-   "heat": 187.9
+   "heat": 71.5
   },
   {
-   "cat": "sector",
-   "time": "2026-09-26 02:16",
-   "title": "Cocoa Market Supply Disruptions to Linger as Ghana Raises Price",
-   "summary": "Ghana has raised the price paid to cocoa farmers for the 2026-27 season as futures rebounded, diverging from neighboring Ivory Coast, which left its farmgate price unchanged earlie…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-25/cocoa-market-supply-disruptions-to-linger-as-ghana-raises-price",
-     "t": "sec"
-    }
-   ],
-   "heat": 187.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 02:04",
-   "title": "Anthropic Goes Big on Compute, Microsoft Rethinks AI",
-   "summary": "Bloomberg’s Tim Stenovec breaks down Anthropic's $11.6 billion contract with Akamai for AI computing power, the largest deal in Akamai's history. Plus, President Donald Trump calls…",
+   "cat": "macro",
+   "time": "2026-09-26 05:24",
+   "title": "Patterson: AI Is Crowding Out Demand for US Treasuries",
+   "summary": "Rebecca Patterson, Former Chief Investment Strategist at Bridgewater and Senior Fellow at the Council on Foreign Relations, discusses her broad read on market action. The discussio…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-25/bloomberg-tech-9-25-2026-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-25/patterson-ai-is-crowding-out-demand-for-us-treasuries-video",
      "t": "sec"
     }
    ],
-   "heat": 187.8
+   "heat": 67.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 06:47",
+   "title": "Alabama Says TikTok to Pay Up to $300 Million Over Child Safety",
+   "summary": "Alabama’s attorney general said TikTok has agreed to pay up to $300 million and adopt new user protection measures to settle the state’s child-safety lawsuit that was set for a jur…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-25/alabama-says-tiktok-to-pay-up-to-300-million-over-child-safety",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 06:43",
+   "title": "Lula Plans $28 Billion Debt Buyout to Aid Consumers Before Vote",
+   "summary": "Brazil’s government plans to spend 15 billion reais to buy as much as 150 billion reais ($28 billion) of delinquent consumer debt from banks, part of President Luiz Inácio Lula da …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-25/lula-plans-28-billion-debt-buyout-to-aid-consumers-before-vote",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 06:02",
+   "title": "Bloomberg Businessweek Daily: The Tiny Magnet Maker (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-25/bloomberg-businessweek-daily-the-tiny-magnet-maker-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 05:59",
+   "title": "Supreme Court Rejects Missouri’s Republican-Drawn Voting Map",
+   "summary": "The US Supreme Court said Missouri can’t use a Republican-drawn congressional map in the November midterm elections, resolving a complicated legal fight that has caused confusion a…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-25/supreme-court-rejects-missouri-s-republican-drawn-voting-map",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 05:38",
+   "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+   "summary": "President Trump and Chinese leader Xi went heavy on the ceremony and light on deliverables as they danced around Taiwan and Iran during two days in Washington.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 05:33",
+   "title": "Keeneland CEO on Annual Yearling Sale",
+   "summary": "Shannon Arvin says Keeneland’s yearling sale is running ahead of last year’s pace and is on track to top $550 million, making it the largest horse sale in the world. She said the a…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-25/keeneland-ceo-on-annual-yearling-sale-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 05:27",
+   "title": "Jev, an AI Model That Can’t Chat, Takes On Bigger Rivals",
+   "summary": "Jev, an AI model built by a former OpenAI researcher, went viral over the past week with the promise of a cheaper and faster alternative to large language models. (Source: Bloomber…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-25/jev-an-ai-model-that-can-t-chat-takes-on-bigger-rivals-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 05:02",
+   "title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
+   "summary": "Coca-Cola is trying to maintain growth as consumers face higher gas and grocery prices.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 04:52",
+   "title": "How recent grads and college students should be thinking about AI, the CV, and the job market",
+   "summary": "It is getting harder for college students and recent graduates to be seen in the job market as AI is used as a hiring tool and demanded by employers as a skill.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/25/ai-jobs-recent-graduates-college-degrees.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 04:34",
+   "title": "OpenAI Says Its Models May Have Interfered With Government Sites",
+   "summary": "OpenAI said it has notified “dozens” of organizations, including governments and universities, whose websites may have been hampered by visits from its artificial intelligence mode…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-25/openai-says-its-models-may-have-interfered-with-government-sites",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 04:26",
+   "title": "Microsoft Rises as It Unifies Copilot AI | Closing Bell",
+   "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Isabelle Lee, Carol Massar and Tim Stenov…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-25/microsoft-rises-as-it-unifies-copilot-ai-closing-bell-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 03:59",
+   "title": "Airlines waive change fees ahead of nor'easter as flight delays trickle in",
+   "summary": "Flight disruptions were minimal for Saturday as of Friday morning.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 195.4
   },
   {
    "cat": "sector",
@@ -279,137 +391,39 @@
      "t": "sec"
     }
    ],
-   "heat": 187.8
+   "heat": 195.1
   },
   {
-   "cat": "sector",
-   "time": "2026-09-26 01:41",
-   "title": "EU vows to defend its stand against X after the US backs a court challenge from Elon Musk",
-   "summary": "The European Union’s executive arm said Friday it’s prepared to defend a 120 million euro ($137 million) fine against the social media platform X after the U.S. government threw it…",
+   "cat": "stock",
+   "time": "2026-09-26 03:40",
+   "title": "What we want to see next week from one of Jim Cramer's 6 stocks to buy",
+   "summary": "Micron has all the leverage heading into earnings as memory supply constraints persist. But how long will this favorable cycle last?",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/eu-vows-to-defend-its-stand-against-x-after-the-us-backs-a-court-challenge-from-elon-musk.html",
+     "u": "https://www.cnbc.com/2026/09/25/what-we-want-to-see-next-week-from-one-of-jim-cramers-6-stocks-to-buy.html",
      "t": "sec"
     }
    ],
-   "heat": 187.8
+   "heat": 91.3
   },
   {
-   "cat": "sector",
-   "time": "2026-09-26 01:33",
-   "title": "Supreme Court restores Trump's mass voter verification system",
-   "summary": "The Supreme Court revived an expanded immigration database the Trump admin said targets voting by noncitizens but critics say could disenfranchise voters.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/supreme-court-restores-trumps-mass-voter-verification-system.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 187.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 01:00",
-   "title": "Odd Lots: Hollywood Was Cooked Before AI. Now It’s Getting Worse",
-   "summary": "Is Hollywood just screwed? The American entertainment business has been on a steady decline since the pandemic and now AI has entered the picture. On this episode of the Odd Lots p…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-25/odd-lots-hollywood-was-cooked-before-ai-now-it-s-getting-worse",
-     "t": "sec"
-    }
-   ],
-   "heat": 187.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 00:58",
-   "title": "Polymarket Wagers on Bank Failures Trigger FDIC Concerns",
-   "summary": "Polymarket bets on the likelihood that some of the biggest names in banking, including Wells Fargo &amp; Co., JPMorgan Chase &amp; Co. and Bank of America Corp., will fail are draw…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-25/polymarket-wagers-on-bank-failures-trigger-fdic-concerns",
-     "t": "sec"
-    }
-   ],
-   "heat": 187.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 00:42",
-   "title": "Bloomberg Tech: Anthropic’s AI Spending Surges (Podcast)",
+   "cat": "stock",
+   "time": "2026-09-26 05:24",
+   "title": "Stock Movers: Meta, Gen Digital, Moderna (Podcast)",
    "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-25/bloomberg-tech-anthropic-s-ai-spending-surges-podcast",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-25/stock-movers-meta-gen-digital-moderna-podcast",
      "t": "sec"
     }
    ],
-   "heat": 187.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 00:39",
-   "title": "US Sanctions Are Stifling Cuban Economic Reform Efforts, Minister Says",
-   "summary": "Cuba Deputy Minister of Foreign Affairs Carlos Fernández De Cossío says sanctions are hobbling the island’s efforts to overhaul its economy and embrace capitalist reforms. He also …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-25/us-sanctions-stifling-cuban-economic-reform-minister-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 187.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 00:20",
-   "title": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
-   "summary": "Top White House trade official Jamieson Greer said the two days of talks between President Trump and Chinese leader Xi brought some trade matter agreements.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 187.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-25 23:01",
-   "title": "New study reveals the estate-planning choices that are likely to pit heirs against each other",
-   "summary": "The study identified contested trust disputes by examining thousands of civil filings that were scheduled to come before San Francisco Superior Court.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/study-estate-planning-heirs-legal-battles.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 187.3
+   "heat": 79.6
   },
   {
    "cat": "stock",
-   "time": "2026-09-26 02:38",
-   "title": "Microsoft gives Copilot a much-needed overhaul, and the stock deservedly soars",
-   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/microsoft-gives-copilot-a-much-needed-overhaul-and-the-stock-deservedly-soars.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 75.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-26 02:28",
+   "time": "2026-09-26 03:24",
    "title": "SpaceX has a 'cash cow' hiding in plain sight. Here’s why I’m buying the stock",
    "summary": "Elon Musk's SpaceX is growing Starlink rapidly, while its reusable rockets and next-generation Starship could widen its advantage in space.",
    "srcs": [
@@ -419,21 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-26 02:27",
-   "title": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
-   "summary": "These are the stocks posting the largest moves midday.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-midday-akam-geni-ppli.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 75.9
+   "heat": 79.3
   },
   {
    "cat": "stock",
@@ -447,91 +447,91 @@
      "t": "sec"
     }
    ],
-   "heat": 75.7
+   "heat": 78.9
   },
   {
    "cat": "stock",
-   "time": "2026-09-26 00:24",
-   "title": "One key part of the AI trade has decoupled from the rest. Why that is, and whether it can come back",
-   "summary": "After falling sharply over the past few months, industrials stocks could be poised for a rebound.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/industrials-have-decoupled-from-rest-of-ai-trade-heres-why.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 75.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-25 23:48",
-   "title": "Stock Movers: Comcast, People, Marathon Petroleum (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-25/stock-movers-comcast-people-marathon-petroleum-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 75.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-25 18:48",
-   "title": "Dycom Industries stock hits 52-week low at 272.0 USD",
+   "time": "2026-09-25 22:46",
+   "title": "Cypherpunk technologies director Oei Khing Djien sells $661,500 in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/company-news/dycom-industries-stock-hits-52week-low-at-2720-usd-93CH-4917969",
+     "u": "https://www.investing.com/news/insider-trading-news/cypherpunk-technologies-director-oei-khing-djien-sells-661500-in-stock-93CH-4918282",
      "t": "agg"
     }
    ],
-   "heat": 72.6
+   "heat": 76.5
   },
   {
    "cat": "stock",
-   "time": "2026-09-25 18:47",
-   "title": "Rivian vs Lucid: which EV stock has the stronger risk-reward",
+   "time": "2026-09-25 22:31",
+   "title": "Bakkt COO Nicholas Baes sells $10,951 in BKKT stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/rivian-vs-lucid-which-ev-stock-has-the-stronger-riskreward-93CH-4917968",
+     "u": "https://www.investing.com/news/insider-trading-news/bakkt-coo-nicholas-baes-sells-10951-in-bkkt-stock-93CH-4918267",
      "t": "agg"
     }
    ],
-   "heat": 72.6
+   "heat": 76.5
   },
   {
    "cat": "stock",
-   "time": "2026-09-25 18:33",
-   "title": "Why is Humana stock surging today?",
+   "time": "2026-09-25 22:31",
+   "title": "Nutanix president and CCO Tarkan Maner sells $4.76m in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/why-is-humana-stock-surging-today-93CH-4917965",
+     "u": "https://www.investing.com/news/insider-trading-news/nutanix-president-and-cco-tarkan-maner-sells-476m-in-stock-93CH-4918266",
      "t": "agg"
     }
    ],
-   "heat": 72.6
+   "heat": 76.5
   },
   {
    "cat": "stock",
-   "time": "2026-09-25 06:13",
-   "title": "Stocks Climb as Oil Retreats on US-Iran Deal Hopes: Markets Wrap",
-   "summary": "Hopes for a diplomatic way to the end the war in Iran drove oil prices lower, fueling a rebound in stocks and easing a selloff in Treasuries that had roiled financial markets aroun…",
+   "time": "2026-09-25 22:31",
+   "title": "Rush Street Interactive director Jack Markell buys $29,025 in stock",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-24/stock-market-today-dow-s-p-live-updates",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/rush-street-interactive-director-jack-markell-buys-29025-in-stock-93CH-4918265",
+     "t": "agg"
     }
    ],
-   "heat": 72.5
+   "heat": 76.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-25 22:16",
+   "title": "Klaviyo director Ed Hallen sells $22,126 in company stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/klaviyo-director-ed-hallen-sells-22126-in-company-stock-93CH-4918254",
+     "t": "agg"
+    }
+   ],
+   "heat": 76.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-25 22:15",
+   "title": "Qualcomm president & CEO Amon sells $2 million in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/qualcomm-president--ceo-amon-sells-2-million-in-stock-93CH-4918253",
+     "t": "agg"
+    }
+   ],
+   "heat": 76.4
   },
   {
    "cat": "stock",
@@ -545,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.5
+   "heat": 74.7
   },
   {
    "cat": "stock",
@@ -559,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.9
+   "heat": 74.2
   },
   {
    "cat": "stock",
@@ -573,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 69.8
+   "heat": 73.0
   },
   {
    "cat": "stock",
@@ -587,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
@@ -601,7 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 72.0
   },
   {
    "cat": "global",
@@ -615,35 +615,21 @@
      "t": "sec"
     }
    ],
-   "heat": 67.8
+   "heat": 59.0
   },
   {
    "cat": "global",
-   "time": "2026-09-25 19:06",
-   "title": "Gold struggles below $4,300, heads for weekly decline on hawkish Fed outlook",
-   "summary": "Gold (XAU/USD) reverses earlier intraday gains on Friday, failing to capitalize on a modest pullback in the US Dollar as growing expectations that the Federal Reserve (Fed) may rai…",
+   "time": "2026-09-26 05:41",
+   "title": "South Korean Won: Export strength supports KRW – Societe Generale",
+   "summary": "Societe Generale notes the Korean Won has been one of Asia’s standout performers, with USD/KRW slipping from around 1,390 to 1,360 as local exporters sold Dollars ahead of the Chus…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/gold-gains-as-us-dollar-and-yields-pause-but-weekly-loss-remains-in-sight-202609251106",
+     "u": "https://www.fxstreet.com/news/south-korean-won-export-strength-supports-krw-societe-generale-202609252141",
      "t": "sec"
     }
    ],
-   "heat": 58.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-25 23:01",
-   "title": "Euro: Correction seen near key averages against US Dollar – Societe Generale",
-   "summary": "Societe Generale’s Morning Briefing reports EUR/USD traded between 1.1359 and 1.1387 overnight and is on course for a second weekly drop. The defence of the 100‑week moving average…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/euro-correction-seen-near-key-averages-against-us-dollar-societe-generale-202609251501",
-     "t": "sec"
-    }
-   ],
-   "heat": 55.3
+   "heat": 35.7
   },
   {
    "cat": "global",
@@ -657,91 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 44.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-26 02:25",
-   "title": "Bonds Stabilize as Oil Retreats",
-   "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Bonds stabilize after a brutal week, oil retreats as the U.S. and Iran explore a deal to reope…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-25/open-interest-9-25-2026-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-26 02:05",
-   "title": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
-   "summary": "Silver (XAG/USD) holds firm on Friday, supported by a modest pullback in the US Dollar after its strong weekly rally. At the time of writing, Silver trades around $64.30 but remain…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-lacks-direction-as-rsi-adx-signal-weak-momentum-202609251805",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-26 01:43",
-   "title": "Swiss Franc remains under pressure as Fed-SNB interest rate gap widens",
-   "summary": "USD/CHF holds firm on Friday even as the US Dollar (USD) pulls back slightly after a strong weekly rally. The move has done little to lift the Swiss franc (CHF), with the pair hove…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-as-fed-snb-interest-rate-gap-widens-202609251743",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-26 01:38",
-   "title": "Swiss Franc: Further losses seem capped against US Dollar – UOB",
-   "summary": "UOB’s Quek Ser Leang and Lee Sue Ann note that USD/CHF has surged over the past two days, with strong momentum pointing to further Dollar strength. However, they stress that deeply…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/swiss-franc-further-losses-seem-capped-against-us-dollar-uob-202609251738",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-26 00:58",
-   "title": "New Zealand Dollar holds steady as US Dollar retreats",
-   "summary": "NZD/USD trades around 0.5665 on Friday at the time of writing, virtually unchanged on the day, as the New Zealand Dollar (NZD) struggles to capitalize on a moderate decline in the …",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-as-us-dollar-retreats-202609251658",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-25 23:14",
-   "title": "Canadian Dollar: Undervalued near 1.41 against US Dollar – Scotiabank",
-   "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note that the Canadian Dollar (CAD) is flat versus the US Dollar (USD) and lagging most G10 peers. They highlight that wider U…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/canadian-dollar-undervalued-near-141-against-us-dollar-scotiabank-202609251514",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.4
+   "heat": 35.2
   },
   {
    "cat": "global",
@@ -755,7 +657,77 @@
      "t": "sec"
     }
    ],
-   "heat": 39.9
+   "heat": 35.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-26 02:05",
+   "title": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
+   "summary": "Silver (XAG/USD) holds firm on Friday, supported by a modest pullback in the US Dollar (USD) after its strong weekly rally. At the time of writing, Silver trades around $64.30 but …",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-lacks-direction-as-rsi-adx-signal-weak-momentum-202609251805",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-26 01:43",
+   "title": "Swiss Franc remains under pressure as Fed-SNB interest rate gap widens",
+   "summary": "USD/CHF holds firm on Friday even as the US Dollar (USD) pulls back slightly after a strong weekly rally. The move has done little to lift the Swiss franc (CHF), with the pair hove…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-as-fed-snb-interest-rate-gap-widens-202609251743",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-26 01:38",
+   "title": "Swiss Franc: Further losses seem capped against US Dollar – UOB",
+   "summary": "UOB’s Quek Ser Leang and Lee Sue Ann note that USD/CHF has surged over the past two days, with strong momentum pointing to further Dollar strength. However, they stress that deeply…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/swiss-franc-further-losses-seem-capped-against-us-dollar-uob-202609251738",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-26 00:58",
+   "title": "New Zealand Dollar holds steady as US Dollar retreats",
+   "summary": "NZD/USD trades around 0.5665 on Friday at the time of writing, virtually unchanged on the day, as the New Zealand Dollar (NZD) struggles to capitalize on a moderate decline in the …",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-as-us-dollar-retreats-202609251658",
+     "t": "sec"
+    }
+   ],
+   "heat": 34.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-26 03:38",
+   "title": "U.S. crude oil falls nearly 8% for the week after Tehran and Washington hold talks at the U.N.",
+   "summary": "Iran has asked the U.S. to meet the same conditions laid out in the June 17 memorandum of understanding, Iran's foreign minister said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/25/oil-falls-as-potential-diplomatic-solution-to-iran-conflict-arises.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.3
   },
   {
    "cat": "global",
@@ -769,7 +741,21 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 31.2
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-26 03:59",
+   "title": "Oil Risk Premium Could Unwind Fast if Hormuz Traffic Recovers",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-risk-premium-could-unwind-fast-if-hormuz-traffic-recovers-200688440",
+     "t": "agg"
+    }
+   ],
+   "heat": 29.4
   },
   {
    "cat": "global",
@@ -783,35 +769,49 @@
      "t": "agg"
     }
    ],
-   "heat": 33.0
+   "heat": 28.3
   },
   {
    "cat": "global",
-   "time": "2026-09-25 06:05",
-   "title": "Latest Oil Market News and Analysis for DATE",
-   "summary": "Oil fell on tentative signs that talks between the US and Iranian to reopen the world’s most important energy shipping route were progressing.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-24/latest-oil-market-news-and-analysis-for-date",
-     "t": "sec"
-    }
-   ],
-   "heat": 32.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-25 13:12",
-   "title": "Oil Market Daily: Tehran Talks Deal, Crude Trades the Threat",
+   "time": "2026-09-26 01:24",
+   "title": "Gold Miners Are Printing Record Profits, and Almost Nobody Is Paying Attention",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-market-daily-tehran-talks-deal-crude-trades-the-threat-200688372",
+     "u": "https://www.investing.com/analysis/gold-miners-are-printing-record-profits-and-almost-nobody-is-paying-attention-200688427",
      "t": "agg"
     }
    ],
-   "heat": 31.7
+   "heat": 24.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-26 00:19",
+   "title": "Gold’s Resistance Break May Be a Bull Trap With $4,243 Back in Play",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/golds-resistance-break-may-be-a-bull-trap-with-4243-back-in-play-200688420",
+     "t": "agg"
+    }
+   ],
+   "heat": 24.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-25 22:05",
+   "title": "Gold’s Final Bullish Wave Could Be the Most Explosive — If $4,163 Holds",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/golds-final-bullish-wave-could-be-the-most-explosive--if-4163-holds-200688418",
+     "t": "agg"
+    }
+   ],
+   "heat": 24.4
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.9
+   "heat": 71.2
   },
   {
    "cat": "crypto",
@@ -839,119 +839,35 @@
      "t": "sec"
     }
    ],
-   "heat": 47.3
+   "heat": 54.5
   },
   {
    "cat": "crypto",
-   "time": "2026-09-26 00:34",
-   "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
-   "summary": "Strategy’s proposal would move STRC and its three other preferred stocks to daily dividend payments, following a similar move by Bitcoin treasury firm Strive.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-25 19:54",
-   "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
-   "summary": "Bond volatility is at its highest since March, while the bitcoin VIX, BVIV and Wall Street's VIX remain near its yearly low.",
+   "time": "2026-09-26 04:01",
+   "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
+   "summary": "The trade group will be run again by its original CEO, Kristin Smith, when Summer Mersinger leaves at the end of a long congressional tussle.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
+     "u": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
      "t": "sec"
     }
    ],
-   "heat": 42.8
+   "heat": 47.4
   },
   {
    "cat": "crypto",
-   "time": "2026-09-25 19:29",
-   "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
-   "summary": "Your day-ahead look for Sept. 25, 2026",
+   "time": "2026-09-26 06:17",
+   "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+   "summary": "The long-anticipated exit of the commissioner sometimes known as Crypto Mom is Oct. 2, announced as the agency was sending out its latest crypto work.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
+     "u": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
      "t": "sec"
     }
    ],
-   "heat": 42.7
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-25 19:11",
-   "title": "IBIT options price trading more calmly after Bitcoin rebound",
-   "summary": "IBIT’s expected volatility sits near the bottom of its 12-month range, according to Saxo Bank’s analysis of options data from Sept. 23.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 42.7
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-25 17:59",
-   "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-   "summary": "Quant jumped 39% over 24 hours and 93 of 100 CoinDesk 100 constituents rose, with the altcoin season index at its highest in more than three months.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
-     "t": "sec"
-    }
-   ],
-   "heat": 42.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-25 17:13",
-   "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
-   "summary": "At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
-     "t": "sec"
-    }
-   ],
-   "heat": 42.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-25 15:41",
-   "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
-   "summary": "US spot Bitcoin ETFs drew $191 million Thursday as daily inflows slowed for a third day, lifting year-to-date net flows to $787 million.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 42.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-25 15:09",
-   "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
-   "summary": "Separate reports from Axios and CBS suggest some positive movement in U.S.-Iran negotiations.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
-     "t": "sec"
-    }
-   ],
-   "heat": 42.0
+   "heat": 43.8
   },
   {
    "cat": "crypto",
@@ -965,21 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-25 23:59",
-   "title": "Bitget Hack Pushes North Korean Crypto Haul Past $1 Billion",
-   "summary": "A $357 million hack of crypto exchange Bitget on Thursday was likely carried out by North Korea-linked hackers, pushing the nation-state’s haul from digital-asset thefts above $1 b…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-25/bitget-hack-pushes-north-korean-crypto-haul-past-1-billion",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.5
+   "heat": 43.1
   },
   {
    "cat": "crypto",
@@ -993,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.5
+   "heat": 42.7
   },
   {
    "cat": "crypto",
@@ -1007,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.1
+   "heat": 42.3
   },
   {
    "cat": "crypto",
@@ -1021,7 +923,105 @@
      "t": "sec"
     }
    ],
-   "heat": 38.9
+   "heat": 42.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-25 20:19",
+   "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
+   "summary": "The analyzed Safari sample targets iOS 18.4–18.6.2 using previously patched flaws, while its effectiveness on iOS 26.5 remains unverified.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 42.1
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-26 00:34",
+   "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
+   "summary": "Strategy’s proposal would move STRC and its three other preferred stocks to daily dividend payments, following a similar move by Bitcoin treasury firm Strive.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 34.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-25 19:54",
+   "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
+   "summary": "Bond volatility is at its highest since March, while the bitcoin VIX, BVIV and Wall Street's VIX remain near its yearly low.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
+     "t": "sec"
+    }
+   ],
+   "heat": 34.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-25 19:29",
+   "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
+   "summary": "Your day-ahead look for Sept. 25, 2026",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
+     "t": "sec"
+    }
+   ],
+   "heat": 34.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-25 19:11",
+   "title": "IBIT options price trading more calmly after Bitcoin rebound",
+   "summary": "IBIT’s expected volatility sits near the bottom of its 12-month range, according to Saxo Bank’s analysis of options data from Sept. 23.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 33.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-25 17:59",
+   "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
+   "summary": "Quant jumped 39% over 24 hours and 93 of 100 CoinDesk 100 constituents rose, with the altcoin season index at its highest in more than three months.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
+     "t": "sec"
+    }
+   ],
+   "heat": 33.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-25 17:13",
+   "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
+   "summary": "At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
+     "t": "sec"
+    }
+   ],
+   "heat": 33.6
   },
   {
    "cat": "sector",
@@ -1035,21 +1035,21 @@
      "t": "sec"
     }
    ],
-   "heat": 181.0
+   "heat": 188.2
   },
   {
    "cat": "sector",
-   "time": "2026-09-25 13:19",
-   "title": "U.K. Climate Envoy Sees Room for Deeper Carbon-Market Cooperation With China - caixinglobal.com",
-   "summary": "U.K. Climate Envoy Sees Room for Deeper Carbon-Market Cooperation With China &nbsp;&nbsp; caixinglobal.com",
+   "time": "2026-09-25 20:34",
+   "title": "Asia New Vision Forum",
+   "summary": "Asia New Vision Forum &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcUJrNURYaFB0SnQzUDlLb2p6RzlQRnRmSExBX1dFQVFPOFBWQktJQzdpQVJoVmZqd0xkTlZETmJHbF94V2ZiMXRQaUw3WHM2MkhRVGRnc3MtTU5IQkUtdDVxb0F4OW40ODB5X0ZQX21scFA0UjJUcnR5bFZ1OXNmRUZwbjJaX3FEc0dzSjJRRnNWbkVfX0lVSmxUdkJvNS1Ebk5IWmo4TG94Yl9fT3hCTHdjNGhIc1JMYUV3M0VIMkIta1NUSDZ3Wg?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnREh6WldUWThGci1fWC0weXcyY2FTNTQ1ckV3X19rWnJKZzV6bnhzMVNLZy0zNmNnNjJDdDFnVVJRYWV6YVRYaUdyZW5vSmNkaTJGTFhlSEVXSXVFcEE?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 185.7
+   "heat": 194.1
   }
  ]
 }
