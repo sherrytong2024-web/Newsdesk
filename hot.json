@@ -1,6 +1,48 @@
 {
- "updated": "2026-09-26 10:49",
+ "updated": "2026-09-26 16:10",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-26 12:52",
+   "title": "US Says China to Buy 10 Million Tons of Coal in 2027, 2028",
+   "summary": "China agreed to import at least 10 million metric tons of coal from the US next year and again in 2028, according to the White House, in a sign of further progress in easing trade …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-26/us-says-china-to-buy-10-million-tons-of-coal-in-2027-and-2028",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 12:29",
+   "title": "Another OpenAI Sandbox Failed, AI Agent Gained Internet Access",
+   "summary": "OpenAI said another agentic AI system that was being trained in what was supposed to be a secured, internet-free environment was able to gain access to the web to reach an external…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-26/another-openai-sandbox-failed-ai-agent-gained-internet-access",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 10:49",
+   "title": "CNN Blocked from Air Force One, WSJ: Trump Rejects Ceasefire",
+   "summary": "Source: Bloomberg, 6:22",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-26/cnn-blocked-from-air-force-one-wsj-trump-rejects-ceasefire",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.1
+  },
   {
    "cat": "sector",
    "time": "2026-09-26 08:05",
@@ -13,7 +55,21 @@
      "t": "sec"
     }
    ],
-   "heat": 191.5
+   "heat": 206.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 06:53",
+   "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+   "summary": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 206.5
   },
   {
    "cat": "sector",
@@ -27,21 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 191.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 06:43",
-   "title": "Lula Plans $28 Billion Debt Buyout to Aid Consumers Before Vote",
-   "summary": "Brazil’s government plans to spend 15 billion reais to buy as much as 150 billion reais ($28 billion) of delinquent consumer debt from banks, part of President Luiz Inácio Lula da …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-25/lula-plans-28-billion-debt-buyout-to-aid-consumers-before-vote",
-     "t": "sec"
-    }
-   ],
-   "heat": 191.3
+   "heat": 206.4
   },
   {
    "cat": "sector",
@@ -55,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 191.2
+   "heat": 206.3
   },
   {
    "cat": "sector",
@@ -69,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 191.1
+   "heat": 206.2
   },
   {
    "cat": "sector",
@@ -83,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 191.1
+   "heat": 206.2
   },
   {
    "cat": "sector",
@@ -97,49 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 191.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 05:02",
-   "title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
-   "summary": "Coca-Cola is trying to maintain growth as consumers face higher gas and grocery prices.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 191.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 04:52",
-   "title": "How recent grads and college students should be thinking about AI, the CV, and the job market",
-   "summary": "It is getting harder for college students and recent graduates to be seen in the job market as AI is used as a hiring tool and demanded by employers as a skill.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/ai-jobs-recent-graduates-college-degrees.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 191.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 04:34",
-   "title": "OpenAI’s Models Accessed Public US Census, SEC Data",
-   "summary": "OpenAI’s artificial intelligence models accessed publicly available information from US government websites, including those of the Census Bureau and the Securities and Exchange Co…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-25/openai-says-its-models-may-have-interfered-with-government-sites",
-     "t": "sec"
-    }
-   ],
-   "heat": 191.0
+   "heat": 206.2
   }
  ]
 }

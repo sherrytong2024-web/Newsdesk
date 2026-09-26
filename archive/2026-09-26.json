@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26 10:49",
+ "updated": "2026-09-26 16:10",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 123.0
+   "heat": 114.1
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "agg"
     }
    ],
-   "heat": 96.8
+   "heat": 95.9
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.0
+   "heat": 94.1
   },
   {
    "cat": "macro",
@@ -55,21 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 85.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-24 09:39",
-   "title": "October Fed Rate Hike Odds Jump To Nearly 70% As Fed's Barr Says More Tightening Is 'Likely' - es.tradingview.com",
-   "summary": "October Fed Rate Hike Odds Jump To Nearly 70% As Fed's Barr Says More Tightening Is 'Likely' &nbsp;&nbsp; es.tradingview.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMWtMLTB4VllvRjJac01zXzlTQTNGZUhxVEVwOE1pSHZZbi1GQXptN2NySWFSY1BoSUdnc3ZseEVLRVhIS0lZRzdCRFVvUDlmR0ZiSFM3bF9McmhtQkVhOG1Pa3Q4MFI5Z200dnFXQ3pYaHdJTTIyWjVTLUFjS29fOVJ1c1BveWx3NVFQZTZNRTFCb21oQW1ENFFjeXlEeEdpT3N1VlkxQ0I3S0RtMHBYN2Z1TmM2T2F6akpzTmg4TjBna1dBNXdXd1ZTTGdkMlJWRi04bHJlS0lVUzJUbEJtMFNfNA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 80.0
+   "heat": 76.4
   },
   {
    "cat": "macro",
@@ -83,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.3
+   "heat": 74.4
   },
   {
    "cat": "macro",
@@ -97,7 +83,63 @@
      "t": "sec"
     }
    ],
-   "heat": 75.2
+   "heat": 74.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-24 09:39",
+   "title": "October Fed Rate Hike Odds Jump To Nearly 70% As Fed's Barr Says More Tightening Is 'Likely' - TradingView",
+   "summary": "October Fed Rate Hike Odds Jump To Nearly 70% As Fed's Barr Says More Tightening Is 'Likely' &nbsp;&nbsp; TradingView",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMWtMLTB4VllvRjJac01zXzlTQTNGZUhxVEVwOE1pSHZZbi1GQXptN2NySWFSY1BoSUdnc3ZseEVLRVhIS0lZRzdCRFVvUDlmR0ZiSFM3bF9McmhtQkVhOG1Pa3Q4MFI5Z200dnFXQ3pYaHdJTTIyWjVTLUFjS29fOVJ1c1BveWx3NVFQZTZNRTFCb21oQW1ENFFjeXlEeEdpT3N1VlkxQ0I3S0RtMHBYN2Z1TmM2T2F6akpzTmg4TjBna1dBNXdXd1ZTTGdkMlJWRi04bHJlS0lVUzJUbEJtMFNfNA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 72.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-26 06:30",
+   "title": "Trump Pulls Out All the Stops for Xi But Summit Yields Few Results",
+   "summary": "The Washington summit featured plenty of pageantry and a panda announcement but few concrete outcomes",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-25/trump-pulls-out-all-the-stops-for-xi-but-summit-yields-few-results",
+     "t": "sec"
+    }
+   ],
+   "heat": 70.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-25 06:17",
+   "title": "Dow Jones Today: DJIA Falls to 51,349.98 as 5% Treasury Yields and $106 Brent Weigh on Blue Chips - BBN Times",
+   "summary": "Dow Jones Today: DJIA Falls to 51,349.98 as 5% Treasury Yields and $106 Brent Weigh on Blue Chips &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSzR2QWQwT093YXBOS1J5SDF1b0JoaVhZVE1RX0JCLWZta214c2xlclpPZ1o3em9BaDJZXzNVcFllc2tTZTVkMHhGUW1KLXRsSkdvMHZHdUxlYUNueUlCbHI3UlctTVRDNUJGQTNmQnNUY3BlcFFQOEhmRHlsNWJsSXg4ZWhyM2RKMU1ZNVc3aUg4VmhZeEhwZGZYY0o1azM1V1hhZzM4WU5SRVNLMzQwbkxfSUtiV0VNZEQ4T2FtcmZXUTFWemFTU1Q1bXQ2ekk?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 70.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-26 04:39",
+   "title": "Great Bond Shakeout Locks In a 5% World ‘Until Something Breaks’",
+   "summary": "As yields on US Treasuries soar past one high after the next, a reality is sinking in deeper across Wall Street and Washington: More than merely a bond-market slump, this might jus…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-25/great-bond-shakeout-locks-in-a-5-world-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 70.1
   },
   {
    "cat": "macro",
@@ -111,7 +153,21 @@
      "t": "sec"
     }
    ],
-   "heat": 69.3
+   "heat": 68.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-26 05:04",
+   "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
+     "t": "agg"
+    }
+   ],
+   "heat": 68.1
   },
   {
    "cat": "macro",
@@ -143,73 +199,59 @@
   },
   {
    "cat": "macro",
-   "time": "2026-09-26 06:30",
-   "title": "Trump Pulls Out All the Stops for Xi But Summit Yields Few Results",
-   "summary": "The Washington summit featured plenty of pageantry and a panda announcement but few concrete outcomes",
+   "time": "2026-09-24 17:18",
+   "title": "S&P 500 and TSX end slightly lower as investors focus on U.S.-Iran war and bond yields reaching fresh multi-year highs -",
+   "summary": "S&P 500 and TSX end slightly lower as investors focus on U.S.-Iran war and bond yields reaching fresh multi-year highs &nbsp;&nbsp; The Globe and Mail",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-25/trump-pulls-out-all-the-stops-for-xi-but-summit-yields-few-results",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUjZVRnlsNjNhMW03ZzVoQ2tFTC1LbF9oZWUwNWRaUEFwbTNJV2tab2Q1R0FWTHJBWjNzTU5rdDJ2MW9KNXZhamMzNk1TLTJBYmUyRmc5a1JnQU01SExUdXdIMU5ieHRKX1Q5WjBYdzM5OTN4NUpEanQtMlhQU19pYzBaUndoekRWaDBMNjRJU284cHZhNXNMTWZ4RGlJaGRVd1AzTEpwbkEyaUEtQmUyeTZVWTBwZkFyZFV0ZE45dFZJVWpvaElXZWxFLV9zN0xHMlJvTG9tcTJIWG5yNmlNb3ktTmY4SEFNMlRBeA?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 67.3
+   "heat": 64.2
   },
   {
-   "cat": "macro",
-   "time": "2026-09-26 04:39",
-   "title": "Great Bond Shakeout Locks In a 5% World ‘Until Something Breaks’",
-   "summary": "As yields on US Treasuries soar past one high after the next, a reality is sinking in deeper across Wall Street and Washington: More than merely a bond-market slump, this might jus…",
+   "cat": "sector",
+   "time": "2026-09-26 12:52",
+   "title": "US Says China to Buy 10 Million Tons of Coal in 2027, 2028",
+   "summary": "China agreed to import at least 10 million metric tons of coal from the US next year and again in 2028, according to the White House, in a sign of further progress in easing trade …",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-25/great-bond-shakeout-locks-in-a-5-world-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-26/us-says-china-to-buy-10-million-tons-of-coal-in-2027-and-2028",
      "t": "sec"
     }
    ],
-   "heat": 67.0
+   "heat": 207.4
   },
   {
-   "cat": "macro",
-   "time": "2026-09-26 10:07",
-   "title": "Deel Dealt Fresh Setbacks in Rippling Case Over Alleged Spying",
-   "summary": "Deel Inc. was hit with new setbacks in Rippling Inc.’s corporate espionage litigation against the HR startup.",
+   "cat": "sector",
+   "time": "2026-09-26 12:29",
+   "title": "Another OpenAI Sandbox Failed, AI Agent Gained Internet Access",
+   "summary": "OpenAI said another agentic AI system that was being trained in what was supposed to be a secured, internet-free environment was able to gain access to the web to reach an external…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-26/deel-dealt-fresh-setbacks-in-rippling-case-over-alleged-spying",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-26/another-openai-sandbox-failed-ai-agent-gained-internet-access",
      "t": "sec"
     }
    ],
-   "heat": 63.9
+   "heat": 207.4
   },
   {
-   "cat": "macro",
-   "time": "2026-09-26 05:24",
-   "title": "Patterson: AI Is Crowding Out Demand for US Treasuries",
-   "summary": "Rebecca Patterson, Former Chief Investment Strategist at Bridgewater and Senior Fellow at the Council on Foreign Relations, discusses her broad read on market action. The discussio…",
+   "cat": "sector",
+   "time": "2026-09-26 10:49",
+   "title": "CNN Blocked from Air Force One, WSJ: Trump Rejects Ceasefire",
+   "summary": "Source: Bloomberg, 6:22",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-25/patterson-ai-is-crowding-out-demand-for-us-treasuries-video",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-26/cnn-blocked-from-air-force-one-wsj-trump-rejects-ceasefire",
      "t": "sec"
     }
    ],
-   "heat": 63.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-26 04:16",
-   "title": "Bond market alarms are ringing on Wall Street. Here's what's ahead",
-   "summary": "The chance that higher rates are here to stay is unnerving those who fear that eventually something will break.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/stock-market-next-week-outlook-for-sept-28-oct-2-2026.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 62.9
+   "heat": 207.1
   },
   {
    "cat": "sector",
@@ -223,7 +265,21 @@
      "t": "sec"
     }
    ],
-   "heat": 191.5
+   "heat": 206.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 06:53",
+   "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+   "summary": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 206.5
   },
   {
    "cat": "sector",
@@ -237,21 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 191.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 06:43",
-   "title": "Lula Plans $28 Billion Debt Buyout to Aid Consumers Before Vote",
-   "summary": "Brazil’s government plans to spend 15 billion reais to buy as much as 150 billion reais ($28 billion) of delinquent consumer debt from banks, part of President Luiz Inácio Lula da …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-25/lula-plans-28-billion-debt-buyout-to-aid-consumers-before-vote",
-     "t": "sec"
-    }
-   ],
-   "heat": 191.3
+   "heat": 206.4
   },
   {
    "cat": "sector",
@@ -265,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 191.2
+   "heat": 206.3
   },
   {
    "cat": "sector",
@@ -279,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 191.1
+   "heat": 206.2
   },
   {
    "cat": "sector",
@@ -293,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 191.1
+   "heat": 206.2
   },
   {
    "cat": "sector",
@@ -307,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 191.1
+   "heat": 206.2
   },
   {
    "cat": "sector",
@@ -321,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 191.0
+   "heat": 206.1
   },
   {
    "cat": "sector",
@@ -335,35 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 191.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 04:34",
-   "title": "OpenAI’s Models Accessed Public US Census, SEC Data",
-   "summary": "OpenAI’s artificial intelligence models accessed publicly available information from US government websites, including those of the Census Bureau and the Securities and Exchange Co…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-25/openai-says-its-models-may-have-interfered-with-government-sites",
-     "t": "sec"
-    }
-   ],
-   "heat": 191.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 04:26",
-   "title": "Microsoft Rises as It Unifies Copilot AI | Closing Bell",
-   "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Isabelle Lee, Carol Massar and Tim Stenov…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-25/microsoft-rises-as-it-unifies-copilot-ai-closing-bell-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 190.9
+   "heat": 206.1
   },
   {
    "cat": "sector",
@@ -377,21 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 190.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 01:41",
-   "title": "EU vows to defend its stand against X after the US backs a court challenge from Elon Musk",
-   "summary": "The European Union’s executive arm said Friday it’s prepared to defend a 120 million euro ($137 million) fine against the social media platform X after the U.S. government threw it…",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/eu-vows-to-defend-its-stand-against-x-after-the-us-backs-a-court-challenge-from-elon-musk.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 190.5
+   "heat": 206.0
   },
   {
    "cat": "stock",
@@ -405,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 82.8
+   "heat": 69.9
   },
   {
    "cat": "stock",
@@ -419,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.8
+   "heat": 53.9
   },
   {
    "cat": "stock",
@@ -433,63 +433,49 @@
      "t": "sec"
     }
    ],
-   "heat": 66.4
+   "heat": 53.5
   },
   {
    "cat": "stock",
-   "time": "2026-09-26 02:01",
-   "title": "Lyft CFO Erin Brewer sells $219,631 in company stock",
+   "time": "2026-09-26 06:30",
+   "title": "Proto Labs CFO Daniel Schumacher sells $476,604 in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/lyft-cfo-erin-brewer-sells-219631-in-company-stock-93CH-4918390",
+     "u": "https://www.investing.com/news/insider-trading-news/proto-labs-cfo-daniel-schumacher-sells-476604-in-stock-93CH-4918493",
      "t": "agg"
     }
    ],
-   "heat": 64.5
+   "heat": 52.4
   },
   {
    "cat": "stock",
-   "time": "2026-09-26 02:01",
-   "title": "Natera director Sheena’s trusts dispose of $7.0m in NTRA stock",
+   "time": "2026-09-26 05:16",
+   "title": "Medpace CEO August Troendle sells $27.4m in company stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/natera-director-sheenas-trusts-dispose-of-70m-in-ntra-stock-93CH-4918389",
+     "u": "https://www.investing.com/news/insider-trading-news/medpace-ceo-august-troendle-sells-274m-in-company-stock-93CH-4918460",
      "t": "agg"
     }
    ],
-   "heat": 64.5
+   "heat": 52.2
   },
   {
    "cat": "stock",
-   "time": "2026-09-26 01:31",
-   "title": "Lumentum president Wupen Yuen sells $928k in company stock",
-   "summary": "",
+   "time": "2026-09-25 04:11",
+   "title": "US stocks: S&P 500 ends nearly flat as US-Iran talks help stocks pare losses - The Economic Times",
+   "summary": "US stocks: S&P 500 ends nearly flat as US-Iran talks help stocks pare losses &nbsp;&nbsp; The Economic Times",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/lumentum-president-wupen-yuen-sells-928k-in-company-stock-93CH-4918378",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTXg0eldFZ1FTRk9VNjI5UDJycVh1dmwzbmdPbUFPanVtWmVDb0R5MmxicnYzQXktUDlOSXFkM3d4a2FFM2dvM294OXhXVExmdUhNRkJMSUduMmNkUl9XdlpLMGdENmgyYXhCS3l0ekxZVGthc3o2OWJPMzcwdEo2NllvWll1S3JMTlJCRHFzQUIwdG1rWHZ2VThtSS1VUUxqZ1VMYnVMWnN5RTBrRDZUWG9PSHl3MFZtbmFfTDNpbGxQNmtfWXAxeGxEM3pzUmhzT0NTWGJ1X2NXLTAwNGpURlhfa1NDUUFMQkxEcHpWZy1ZUnpMdXp3?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 64.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-26 00:46",
-   "title": "AJB Investment Fund II, 10% owner, buys $18,523 in JCTC stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-10-owner-buys-18523-in-jctc-stock-93CH-4918360",
-     "t": "agg"
-    }
-   ],
-   "heat": 64.3
+   "heat": 50.0
   },
   {
    "cat": "stock",
@@ -503,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.2
+   "heat": 49.3
   },
   {
    "cat": "stock",
@@ -517,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 61.7
+   "heat": 48.8
   },
   {
    "cat": "stock",
@@ -531,21 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-23 20:51",
-   "title": "US markets today: Dow, S&P 500, Nasdaq futures indicate positive open; Maplebear, Worthington, other stocks to watch - u",
-   "summary": "US markets today: Dow, S&P 500, Nasdaq futures indicate positive open; Maplebear, Worthington, other stocks to watch &nbsp;&nbsp; upstox.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWkVyYklTZ0VoVldCZzRfMmxOSks5WjZjUlp4SkRIS0xIN3IzTDh6UEVPR2l2OUo0M1VsRXVwbGtXbmV4YzhIbTdfcmU5RkZSQ3dvY0t2UFAzTk9jcmVmN3ZLYmNkQWwxZ3lKakVyanNxV1FZQ3BHbDQteVVYTlQ3WHRwcTNVRDYtRXp5S3VRcGwtOFZ6V1JlN0RvVTgyUHdKTzNYRmcwOElVZUhDMU10T3JoMlo5UTlwOGozVk5zZDZIUVlzVWtWcGdNbTh6YkVJMWlyRjNMRUJHYWJ5RFEtQzNueEZxcGlWZGEzS2xnb1ZMMGNndEJRSlNDb1ZWNTdaUEFiYVhiaw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 60.0
+   "heat": 48.0
   },
   {
    "cat": "stock",
@@ -559,21 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-22 15:00",
-   "title": "US stocks: S&P 500 ends nearly flat as US-Iran talks help stocks pare losses - The Economic Times",
-   "summary": "US stocks: S&P 500 ends nearly flat as US-Iran talks help stocks pare losses &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTXg0eldFZ1FTRk9VNjI5UDJycVh1dmwzbmdPbUFPanVtWmVDb0R5MmxicnYzQXktUDlOSXFkM3d4a2FFM2dvM294OXhXVExmdUhNRkJMSUduMmNkUl9XdlpLMGdENmgyYXhCS3l0ekxZVGthc3o2OWJPMzcwdEo2NllvWll1S3JMTlJCRHFzQUIwdG1rWHZ2VThtSS1VUUxqZ1VMYnVMWnN5RTBrRDZUWG9PSHl3MFZtbmFfTDNpbGxQNmtfWXAxeGxEM3pzUmhzT0NTWGJ1X2NXLTAwNGpURlhfa1NDUUFMQkxEcHpWZy1ZUnpMdXp30gH8AUFVX3lxTE5iazN1NnQ3MFZIZ2prVUwyVjN2TlVpcXF0SnY0aHR0R3ZWY1VDUWRGUkxPTm15WlVUTlJvb2FYWVpmbzZXWU5wVmpBVjBqMWhTeUh1NEx3VG5EcXNoZ3hVMFFnVjZpZnhad0Y5SVpoS3Z1OUI5a3FfZExnZzBSYThhSmNlNFhDaFVqTWxwQnFUVGdFR2dyUUdnTE45bDc5THBKXzZTdURQbUJCanhieDNjS1k2bWZNRm4zem4za1p6WHhNeENVQWFodUNldk1ySTlOSEhUdkM1VklUTFE4aWs5MHdRM2tJYTVSLUY2TVFqRmhra3JqRTNVTUF3Nw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 60.0
+   "heat": 48.0
   },
   {
    "cat": "stock",
@@ -587,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 48.0
   },
   {
    "cat": "stock",
@@ -601,7 +559,49 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 48.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-26 10:42",
+   "title": "Billionaire Charoen’s Asset World Targets $1 Billion REIT IPO",
+   "summary": "Asset World Corp Pcl’s new Thai Real Estate Investment Trust aims to raise at least $1 billion through a listing as it seeks funds to expand its hotel and commercial property busin…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-26/billionaire-charoen-s-asset-world-targets-1-billion-reit-ipo",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-26 01:05",
+   "title": "SK Hynix’s Solidigm Is Said to Weigh US IPO as Soon as 2027",
+   "summary": "SK Hynix Inc.’s Solidigm is considering a US initial public offering as soon as next year, according to people familiar with the matter.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-25/sk-hynix-s-solidigm-is-said-to-weigh-us-ipo-as-soon-as-2027",
+     "t": "sec"
+    }
+   ],
+   "heat": 25.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-26 05:53",
+   "title": "Ellison Pledges $9.2 Billion More in Oracle Shares for Loans",
+   "summary": "Larry Ellison, a key figure behind Paramount Skydance Corp.’s deal to buy Warner Bros. Discovery Inc., has pledged 67 million more shares of Oracle Corp. as collateral for personal…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-25/ellison-pledges-9-2-billion-more-in-oracle-shares-as-collateral",
+     "t": "sec"
+    }
+   ],
+   "heat": 22.3
   },
   {
    "cat": "global",
@@ -615,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.5
+   "heat": 57.6
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.1
+   "heat": 34.3
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.7
+   "heat": 33.8
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.6
+   "heat": 33.7
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.5
+   "heat": 33.7
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.5
+   "heat": 33.6
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.5
+   "heat": 33.6
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.4
+   "heat": 33.5
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.8
+   "heat": 29.9
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.7
+   "heat": 29.8
   },
   {
    "cat": "global",
@@ -755,7 +755,35 @@
      "t": "agg"
     }
    ],
-   "heat": 28.9
+   "heat": 28.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-25 21:20",
+   "title": "Oil Shipping Crunch Deepens as Hormuz Tanker Traffic Falls to Single Digits",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-shipping-crunch-deepens-as-hormuz-tanker-traffic-falls-to-single-digits-200688413",
+     "t": "agg"
+    }
+   ],
+   "heat": 26.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-23 04:21",
+   "title": "Dow, S&P 500 slip as oil hovers near $100 despite Nasdaq’s record close - The Economic Times",
+   "summary": "Dow, S&P 500 slip as oil hovers near $100 despite Nasdaq’s record close &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMHlvek9SbDF0SXExODAxNTNnRTZVeW5kcjFMNTFTM05QbTBRczdhRmxYekxFQkxpQ2RMR2hlMGhaUUpHNkVocTllNlZYVjFRc2FHZmpTSVY3Zzc0R1F5WGlkWTZ1czRKZlUzRmZWOTFWd1RwYkdhWW4tUC1ZT1dSeFNfSU5nT1BVVTVENW8zM3ZkUWVWZ2pjOWt5YVlEajRDTUxZVnpQUFBBUm1IcUdBOHczV253cVhXQU9fb0F6Z3NWZnZ0R0tGajBDMmlIYmM5OHA3RHhDSGdrMjBjSkNEMmFEMHBZb3pLLVZHWEtB0gHzAUFVX3lxTE41OWdYaEZHY3pwcF9pVWNTeTN5SUNrazJ2MlZJMTNoSkc1RVVZTDBVcXJuZm9NM0wySnc0Rks0d0VkVzhma2JNNk4tSHFmLXdYcnFUbUV4S2tUSERrTGRibExjb2p1RXRSUlM4elRpWDBaaWhOeGdvZ29kT1QzQ2NWbjZZYmV4QlpIMTR6ZWl6UmlaOTBtNG4yRW5XbVJvalpLNFFOLXhLU21MOFpXN3pyWWFldy1qdWkyejBXc2RhMEdaTG5lTHR2dm16aFJTdWRnZTBUSl80eW5rOFhTS0I5NmFKM09jUzI2b01sTi1DVW1oWQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 24.0
   },
   {
    "cat": "global",
@@ -769,21 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 28.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-26 00:52",
-   "title": "Goldcana closes C$2M private placement for exploration",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/company-news/goldcana-closes-c2m-private-placement-for-exploration-93CH-4918364",
-     "t": "agg"
-    }
-   ],
-   "heat": 28.3
+   "heat": 23.5
   },
   {
    "cat": "global",
@@ -797,21 +811,7 @@
      "t": "agg"
     }
    ],
-   "heat": 28.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-25 22:05",
-   "title": "Gold’s Final Bullish Wave Could Be the Most Explosive — If $4,163 Holds",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/golds-final-bullish-wave-could-be-the-most-explosive--if-4163-holds-200688418",
-     "t": "agg"
-    }
-   ],
-   "heat": 27.9
+   "heat": 23.4
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.6
+   "heat": 69.8
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.0
+   "heat": 57.1
   },
   {
    "cat": "crypto",
@@ -853,7 +853,21 @@
      "t": "sec"
     }
    ],
-   "heat": 46.9
+   "heat": 54.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-26 14:59",
+   "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+   "summary": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.8
   },
   {
    "cat": "crypto",
@@ -867,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.2
+   "heat": 46.4
   },
   {
    "cat": "crypto",
@@ -881,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.6
+   "heat": 45.7
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.2
+   "heat": 45.3
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.8
+   "heat": 44.9
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.7
+   "heat": 44.8
   },
   {
    "cat": "crypto",
@@ -937,7 +951,21 @@
      "t": "sec"
     }
    ],
-   "heat": 41.6
+   "heat": 44.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-26 12:02",
+   "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+   "summary": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.3
   },
   {
    "cat": "crypto",
@@ -951,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.3
+   "heat": 25.4
   },
   {
    "cat": "crypto",
@@ -965,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.5
+   "heat": 24.6
   },
   {
    "cat": "crypto",
@@ -979,63 +1007,35 @@
      "t": "sec"
     }
    ],
-   "heat": 33.4
+   "heat": 24.6
   },
   {
    "cat": "crypto",
-   "time": "2026-09-25 19:11",
-   "title": "IBIT options price trading more calmly after Bitcoin rebound",
-   "summary": "IBIT’s expected volatility sits near the bottom of its 12-month range, according to Saxo Bank’s analysis of options data from Sept. 23.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 33.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-25 17:59",
-   "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-   "summary": "Quant jumped 39% over 24 hours and 93 of 100 CoinDesk 100 constituents rose, with the altcoin season index at its highest in more than three months.",
+   "time": "2026-09-26 13:00",
+   "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+   "summary": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
+     "u": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
      "t": "sec"
     }
    ],
-   "heat": 33.2
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-25 17:13",
-   "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
-   "summary": "At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
-     "t": "sec"
-    }
-   ],
-   "heat": 33.1
+   "heat": 23.5
   },
   {
    "cat": "sector",
-   "time": "2026-09-21 15:40",
-   "title": "15:40:07【阳光电源新设能源科技公司 含AI相关业务】",
-   "summary": "15:40:07【阳光电源新设能源科技公司 含AI相关业务】 &nbsp;&nbsp; 财联社",
+   "time": "2026-09-24 14:59",
+   "title": "AI基建正成200多年来美国经济最大“豪赌”",
+   "summary": "AI基建正成200多年来美国经济最大“豪赌” &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43NlBSbE1PdkUwOU9ULS1tNURvRXQzdkk0allkR3JkenJpYzA2dmdDR3A0WGV4bXlFLWxPR1VpREprTGdydWgzVg?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VcUtENUsyeGRpd3VOTFgwWm4wNUlDR1R5bko4Z0JSRENnSk4yaThnTmJVM25zMUVlODBqSU5uaVkxOWpZYzc4Vg?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 184.0
+   "heat": 200.0
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 189.6
+   "heat": 204.7
   }
  ]
 }
