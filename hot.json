@@ -1,33 +1,47 @@
 {
- "updated": "2026-09-27 02:11",
+ "updated": "2026-09-27 07:17",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-27 00:57",
-   "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
-   "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
+   "time": "2026-09-27 03:47",
+   "title": "Hurricane Nolo expected to unleash powerful winds, flash flooding on Hawaii",
+   "summary": "Heavy rain and powerful winds are expected to bring flash floods and extreme surf as Hurricane Nolo bears down on areas still recovering from previous storms.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+     "u": "https://www.cnbc.com/2026/09/26/hurricane-nolo-to-unleash-powerful-winds-flash-flooding-on-hawaii.html",
      "t": "sec"
     }
    ],
-   "heat": 215.8
+   "heat": 211.4
   },
   {
    "cat": "sector",
-   "time": "2026-09-26 21:43",
-   "title": "Bank of America says Nvidia and these other stocks are on sale",
-   "summary": "Bank of America named several stocks that it said are undervalued.",
+   "time": "2026-09-27 03:23",
+   "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+   "summary": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/26/nvidia-and-these-other-stocks-are-on-sale-bank-of-america-says.html",
+     "u": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
      "t": "sec"
     }
    ],
-   "heat": 215.3
+   "heat": 211.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 02:21",
+   "title": "Bangladesh Targets Up to $1 Billion in Debut Sovereign Bond Sale",
+   "summary": "Bangladesh is preparing to raise between $500 million and $1 billion through its maiden foreign-currency sovereign bond sale within the next three months, a senior government offic…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-26/bangladesh-targets-up-to-1-billion-in-debut-sovereign-bond-sale",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.2
   },
   {
    "cat": "sector",
@@ -41,7 +55,21 @@
      "t": "sec"
     }
    ],
-   "heat": 211.8
+   "heat": 211.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 00:57",
+   "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+   "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 210.9
   },
   {
    "cat": "sector",
@@ -55,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.5
+   "heat": 210.7
   },
   {
    "cat": "sector",
@@ -69,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.5
+   "heat": 210.6
   },
   {
    "cat": "sector",
@@ -83,7 +111,21 @@
      "t": "sec"
     }
    ],
-   "heat": 211.3
+   "heat": 210.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-26 21:43",
+   "title": "Bank of America says Nvidia and these other stocks are on sale",
+   "summary": "Bank of America named several stocks that it said are undervalued.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/26/nvidia-and-these-other-stocks-are-on-sale-bank-of-america-says.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 210.4
   },
   {
    "cat": "sector",
@@ -97,49 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 21:30",
-   "title": "Mexico Stresses Sovereignty in US Cooperation",
-   "summary": "Mexico’s foreign minister Roberto Velasco Álvarez tells Bloomberg This Weekend that the country maintains a strong relationship with the US while insisting cooperation on security …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-26/mexico-stresses-sovereignty-in-us-cooperation-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 21:30",
-   "title": "Many homeowners have a big insurance coverage gap — and don't even know it",
-   "summary": "Many consumers have a gap in their homeowners insurance coverage. This puts them at financial risk, and they are likely unaware, experts said.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 21:19",
-   "title": "AI Gives Tech Firms New National Security Power",
-   "summary": "Author Sharon Weinberger tells Bloomberg This Weekend that Silicon Valley’s relationship with the defense industry has transformed as technology companies and investors increasingl…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-26/ai-gives-tech-firms-new-national-security-power-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.2
+   "heat": 210.4
   }
  ]
 }
