@@ -1,10 +1,24 @@
 {
- "updated": "2026-09-26 07:43",
+ "updated": "2026-09-26 10:49",
  "items": [
   {
    "cat": "sector",
+   "time": "2026-09-26 08:05",
+   "title": "Bloomberg Businessweek Daily: Trump-Xi Summit Wraps (Podcast)",
+   "summary": "Source: Bloomberg, 30:06",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-26/bloomberg-businessweek-daily-trump-xi-summit-wraps-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 191.5
+  },
+  {
+   "cat": "sector",
    "time": "2026-09-26 06:47",
-   "title": "Alabama Says TikTok to Pay Up to $300 Million Over Child Safety",
+   "title": "Alabama Says TikTok to Pay Up to $300 Million for Kid Safety",
    "summary": "Alabama’s attorney general said TikTok has agreed to pay up to $300 million and adopt new user protection measures to settle the state’s child-safety lawsuit that was set for a jur…",
    "srcs": [
     {
@@ -13,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 195.8
+   "heat": 191.3
   },
   {
    "cat": "sector",
@@ -27,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 195.8
+   "heat": 191.3
   },
   {
    "cat": "sector",
@@ -41,21 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 195.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 05:59",
-   "title": "Supreme Court Rejects Missouri’s Republican-Drawn Voting Map",
-   "summary": "The US Supreme Court said Missouri can’t use a Republican-drawn congressional map in the November midterm elections, resolving a complicated legal fight that has caused confusion a…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-25/supreme-court-rejects-missouri-s-republican-drawn-voting-map",
-     "t": "sec"
-    }
-   ],
-   "heat": 195.7
+   "heat": 191.2
   },
   {
    "cat": "sector",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 195.7
+   "heat": 191.1
   },
   {
    "cat": "sector",
@@ -83,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 195.6
+   "heat": 191.1
   },
   {
    "cat": "sector",
@@ -97,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 195.6
+   "heat": 191.1
   },
   {
    "cat": "sector",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 195.6
+   "heat": 191.0
   },
   {
    "cat": "sector",
@@ -125,13 +125,13 @@
      "t": "sec"
     }
    ],
-   "heat": 195.5
+   "heat": 191.0
   },
   {
    "cat": "sector",
    "time": "2026-09-26 04:34",
-   "title": "OpenAI Says Its Models May Have Interfered With Government Sites",
-   "summary": "OpenAI said it has notified “dozens” of organizations, including governments and universities, whose websites may have been hampered by visits from its artificial intelligence mode…",
+   "title": "OpenAI’s Models Accessed Public US Census, SEC Data",
+   "summary": "OpenAI’s artificial intelligence models accessed publicly available information from US government websites, including those of the Census Bureau and the Securities and Exchange Co…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
@@ -139,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 195.5
+   "heat": 191.0
   }
  ]
 }
