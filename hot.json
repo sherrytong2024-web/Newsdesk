@@ -1,6 +1,62 @@
 {
- "updated": "2026-09-27 22:27",
+ "updated": "2026-09-28 02:48",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-26 21:43",
+   "title": "Bank of America says Nvidia and these other stocks are on sale",
+   "summary": "Bank of America named several stocks that it said are undervalued.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/26/nvidia-and-these-other-stocks-are-on-sale-bank-of-america-says.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-21 12:13",
+   "title": "CXMT Begins Mass Production of Fifth-Generation Memory Chips",
+   "summary": "CXMT Begins Mass Production of Fifth-Generation Memory Chips &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0NaLWgycnpvaG9pMkt0VU8zcDEyR1l4QWszbS1QOVJWZlNOS1h1cjU0M2RGNXdvazhtQkl4OHBhOWx6SHMyTElLcHVPYWRielVzSENQRTRRWUt2UWlrZ3QydWt0NjRHWEJaVWRvUi11azhCZVktOW5DaldQV3R2bnVISTItaWF2LWlDRWVwcG9xeDVhTEdfdHNoVUZFSFA3dVJmZnN1ZEV5dUpLb21EZ081Y2lGQQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 204.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 02:43",
+   "title": "Nor'easter delays hundreds of flights, airlines waive change fees",
+   "summary": "Flight disruptions were rising in Boston over the weekend.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 200.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 00:47",
+   "title": "Trump says men arrested at UK air base used by U.S. forces were looking to do 'big damage'",
+   "summary": "British counterterrorism detectives said police received a call about three suspicious vehicles that appeared to be traveling towards RAF Fairford early Sunday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/27/police-declare-major-incident-at-uk-air-base-used-by-us-forces.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.7
+  },
   {
    "cat": "sector",
    "time": "2026-09-27 00:57",
@@ -13,81 +69,11 @@
      "t": "sec"
     }
    ],
-   "heat": 212.4
+   "heat": 199.7
   },
   {
    "cat": "sector",
-   "time": "2026-09-27 21:39",
-   "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
-   "summary": "Flight disruptions were rising in Boston over the weekend.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 21:30",
-   "title": "Iran's foreign minister keeps indirect talks with the U.S. open; Iranian navy claims capture of underwater drone",
-   "summary": "Iran's foreign minister says talks are the only way to break the deadlock, while its navy says it's analyzing data from a captured U.S. underwater drone.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 21:00",
-   "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
-   "summary": "Microsoft Corp. co-founder Bill Gates said government safeguards against potentially catastrophic artificial intelligence risks won’t hamper the US in its competition with China, c…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 20:56",
-   "title": "Northeast Storm Brings Wind, Rain and Flooding",
-   "summary": "Bloomberg News Meteorologist Craig Allen tells Bloomberg This Weekend that the slow-moving nor’easter is weakening but will continue bringing rain and flooding risks to parts of th…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-27/northeast-storm-brings-wind-rain-and-flooding-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 20:37",
-   "title": "IAEA Says Iran Nuclear Oversight Can Resume Fast",
-   "summary": "IAEA Director General Rafael Mariano Grossi sat down with David Gura and said that Iran retains a significant amount of uranium enriched to 60%, while inspectors have lost access n…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-27/iaea-says-iran-nuclear-oversight-can-resume-fast-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 20:00",
+   "time": "2026-09-27 23:22",
    "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
    "summary": "The NFL told CNBC it recorded 10,852 drone violations over stadiums between 2021 and 2025. The Jaguars became the first team to sign a drone defense firm.",
    "srcs": [
@@ -97,49 +83,63 @@
      "t": "sec"
     }
    ],
-   "heat": 211.6
+   "heat": 199.4
   },
   {
    "cat": "sector",
-   "time": "2026-09-27 19:17",
-   "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
-   "summary": "The heads of artificial intelligence firms OpenAI and Anthropic PBC have been called on to appear before an Australian Senate inquiry to answer questions after the recent revelatio…",
+   "time": "2026-09-27 22:52",
+   "title": "Paramount Warner Deal Tests Hollywood’s Future",
+   "summary": "Bloomberg entertainment reporter Lucas Shaw is on Bloomberg This Weekend examining Paramount Skydance’s acquisition of Warner Bros. Discovery and the challenge of turning two legac…",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-27/paramount-warner-deal-tests-hollywood-s-future-video",
      "t": "sec"
     }
    ],
-   "heat": 211.5
+   "heat": 199.3
   },
   {
    "cat": "sector",
-   "time": "2026-09-27 19:06",
-   "title": "Men arrested in major incident at UK air base used by U.S. forces",
-   "summary": "The British government gave authorization to the U.S. to use RAF Fairford to carry out strikes on Iranian missile sites.",
+   "time": "2026-09-27 22:37",
+   "title": "Bloomberg This Weekend: Congress and AI Safety (Podcast)",
+   "summary": "Source: Bloomberg, 45:39",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-27/bloomberg-this-weekend-congress-and-ai-safety-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 22:36",
+   "title": "Kennedy Center Musicians Find New Stages",
+   "summary": "Bloomberg News Washington breaking news Editor Brian K. Sullivan is on Bloomberg This Weekend discussing uncertainty surrounding the Kennedy Center’s renovation, possible demolitio…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-27/kennedy-center-musicians-find-new-stages-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 22:33",
+   "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+   "summary": "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/27/police-declare-major-incident-at-uk-air-base-used-by-us-forces.html",
+     "u": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
      "t": "sec"
     }
    ],
-   "heat": 211.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 15:13",
-   "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
-   "summary": "The Australian Medicare breach is one of the highest-profile incidents of AI agents accessing external systems outside the U.S.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 210.8
+   "heat": 199.3
   }
  ]
 }
