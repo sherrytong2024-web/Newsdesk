@@ -1,6 +1,104 @@
 {
- "updated": "2026-09-27 10:50",
+ "updated": "2026-09-27 16:47",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-27 15:13",
+   "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+   "summary": "The Australian Medicare breach is one of the highest-profile incidents of AI agents accessing external systems outside the U.S.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 14:27",
+   "title": "NZ Political Parties Court Squeezed Voters as Election Race Heats Up",
+   "summary": "New Zealand’s two main parties launched their election campaigns on Sunday, with Christopher Luxon’s National and Chris Hipkins’ Labour both pledging to restore the idea that hard-…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/nz-political-parties-court-squeezed-voters-as-election-race-heats-up",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 13:00",
+   "title": "How AI Is Helping African Farmers Prepare for El Niño",
+   "summary": "Opportunity International's Tim Strong explains how a WhatsApp-based AI tool gives smallholder farmers locally relevant advice on what and when to plant. The technology is designed…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-27/how-ai-is-helping-african-farmers-prepare-for-el-nino-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 13:00",
+   "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
+   "summary": "Consumers are spending more on hobbies like arts and crafts and outdoor sports, as it gets more expensive to travel due to increased airfare.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 12:16",
+   "title": "Australia’s Deputy PM Defends Data Security After OpenAI Hack",
+   "summary": "Australia’s sensitive government data is kept in a “fortress,” Deputy Prime Minister Richard Marles said Sunday, seeking to reassure the public after revelations last week that an …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/australia-s-deputy-pm-defends-data-security-after-openai-hack",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 12:12",
+   "title": "China Dispatches Pair of Pandas to Atlanta Zoo: CCTV Reports",
+   "summary": "China’s giant pandas Pingping and Fushuang departed Chengdu for Zoo Atlanta early Sunday on a chartered flight, beginning a 10-year stay in the US, China Central Television reporte…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/china-dispatches-pair-of-pandas-to-atlanta-zoo-cctv-reports",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 11:45",
+   "title": "Thai PM Anutin’s Support Drops in Latest Poll as Pressures Rise",
+   "summary": "Public support for Thai Prime Minister Anutin Charnvirakul and his Bhumjaithai Party has plunged, according to an opinion poll, as his government confronts rising oil prices and a …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/thai-pm-anutin-s-support-drops-in-latest-poll-as-pressures-rise",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.2
+  },
   {
    "cat": "sector",
    "time": "2026-09-27 03:47",
@@ -13,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 214.8
+   "heat": 225.8
   },
   {
    "cat": "sector",
@@ -27,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 214.8
+   "heat": 225.8
   },
   {
    "cat": "sector",
@@ -41,105 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 214.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 01:10",
-   "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
-   "summary": "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 214.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 00:57",
-   "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
-   "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 214.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 23:21",
-   "title": "Exxon Signs Shale Deal With Azerbaijan for Middle Kura Basin",
-   "summary": "ExxonMobil Holdings Corp. agreed to pump oil and natural gas from Azerbaijan’s shale fields as the Texas energy giant takes its fracking expertise overseas.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-26/exxon-signs-shale-deal-with-azerbaijan-for-middle-kura-basin",
-     "t": "sec"
-    }
-   ],
-   "heat": 214.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 23:04",
-   "title": "US and China Seek Common Ground on AI",
-   "summary": "Bloomberg News Chief North Asia Correspondent Stephen Engle and ABC News State Department reporter Shannon Kingston tell Bloomberg This Weekend that President Donald Trump and Chin…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-26/us-and-china-seek-common-ground-on-ai-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 214.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 22:16",
-   "title": "The blue-collar AI job market is booming. Will data center backlash make it go bust?",
-   "summary": "The public has soured on AI data centers and states are slowing development, but for HVAC, plumbing, welding, and electrical workers, it's been a jobs boom.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/26/blue-collar-jobs-ai-data-center-backlash.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 213.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 21:43",
-   "title": "Bank of America says Nvidia and these other stocks are on sale",
-   "summary": "Bank of America named several stocks that it said are undervalued.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/26/nvidia-and-these-other-stocks-are-on-sale-bank-of-america-says.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 213.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-26 21:36",
-   "title": "Birding Apps Bring More People Into the Wild",
-   "summary": "On Bloomberg This Weekend, writer and photographer Alexandra Marvar explains how apps such as Merlin are making birding easier and more accessible, helping draw new people to a hob…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-26/birding-apps-bring-more-people-into-the-wild-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 213.8
+   "heat": 225.6
   }
  ]
 }
