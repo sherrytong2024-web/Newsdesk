@@ -1,6 +1,48 @@
 {
- "updated": "2026-09-28 02:48",
+ "updated": "2026-09-28 07:31",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-09-25 04:57",
+   "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
+   "summary": "The 10-year Treasury note yield is spiking to levels not seen in years, and that may be a bad omen for financial markets.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 72.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-23 12:00",
+   "title": "Implications of rising bond yields - Vanguard Corporate",
+   "summary": "Implications of rising bond yields &nbsp;&nbsp; Vanguard Corporate",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXo5d0VnU1A4OXRGQlNjM3hjR01hV21aX0VCb29oU3FadkdiRmtCdllON0VETHdnck9RLU42YTJxaHpoMEdSU29mNl9DUWVETG1YZHR3VElJYTFPVzktNEJNSGNVWW45OGhjSzF2WUJBUzhkbFAxSEk2UV9rcEh3NGkwc0w3OE5OWmhtUjlHN3p4b2FPeEZkRDBxZkc5Vy1FUTJYdVBhNXZzejJD?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 72.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-28 03:00",
+   "title": "The Bond Market Is Getting Closer to Sounding Alarm on Economy",
+   "summary": "The bond market is on the brink of signaling that a series of Federal Reserve interest-rate hikes will start shifting the narrative toward the risk that the US economy stalls out.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/the-bond-market-is-getting-closer-to-sounding-alarm-on-economy",
+     "t": "sec"
+    }
+   ],
+   "heat": 67.2
+  },
   {
    "cat": "macro",
    "time": "2026-09-26 03:31",
@@ -13,21 +55,35 @@
      "t": "agg"
     }
    ],
-   "heat": 62.1
+   "heat": 66.0
   },
   {
    "cat": "macro",
-   "time": "2026-09-24 09:39",
-   "title": "October Fed Rate Hike Odds Jump To Nearly 70% As Fed's Barr Says More Tightening Is 'Likely' - TradingView",
-   "summary": "October Fed Rate Hike Odds Jump To Nearly 70% As Fed's Barr Says More Tightening Is 'Likely' &nbsp;&nbsp; TradingView",
+   "time": "2026-09-26 21:30",
+   "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+   "summary": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMWtMLTB4VllvRjJac01zXzlTQTNGZUhxVEVwOE1pSHZZbi1GQXptN2NySWFSY1BoSUdnc3ZseEVLRVhIS0lZRzdCRFVvUDlmR0ZiSFM3bF9McmhtQkVhOG1Pa3Q4MFI5Z200dnFXQ3pYaHdJTTIyWjVTLUFjS29fOVJ1c1BveWx3NVFQZTZNRTFCb21oQW1ENFFjeXlEeEdpT3N1VlkxQ0I3S0RtMHBYN2Z1TmM2T2F6akpzTmg4TjBna1dBNXdXd1ZTTGdkMlJWRi04bHJlS0lVUzJUbEJtMFNfNA?oc=5",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 58.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-28 03:46",
+   "title": "Dow Jones (DJIA) Today: Industrial Average Closes at 52,048.83, Up 0.71%, After Worst Week Since March as Oil Falls and ",
+   "summary": "Dow Jones (DJIA) Today: Industrial Average Closes at 52,048.83, Up 0.71%, After Worst Week Since March as Oil Falls and Yields Ease &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb2pWaG5wcjJGU1JCMGs4NEcyMzNxUFJ2cDdPUHZHdDQ2Q1F5dmxuSTh1bVJrR2lRbkN2OGNIVEtSRDV6MEhULTZNNnNWWmdjQjdsNmFfS2hFMWV0SUlOdjhJeUJNZGk0MFpMdjlMQVA0bXY4M3JXNmMtbkpKc0dGMnhGcm84cU1xTHVZWEpRaW42QWd1VWZZaW42bXB2XzU2ZDBxcklZTTdYQTA5YmZYd1VmYVZycmFIMi1TUVBZNGpVeW0tdVl2Z0QzQkNyNUNkQVBhWHgtSy1PN3EtOXg1VzRmY1FrTzhIdEo3TmFKMnN5T01TZGFnUQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.4
   },
   {
    "cat": "macro",
@@ -41,105 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-27 20:30",
-   "title": "Emerging Market Investors Shun Riskiest Bonds as US Yields Soar",
-   "summary": "Emerging-market investors from Aegon USA Investment Management to JPMorgan Asset Management are dialing back their riskiest bond bets as the deepening selloff in global credit mark…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/emerging-market-investors-shun-riskiest-bonds-as-us-yields-soar",
-     "t": "sec"
-    }
-   ],
-   "heat": 46.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-27 20:30",
-   "title": "What’s Happening in EM: Bond Investors Dial Down Risk (Podcast)",
-   "summary": "This week, Maria Elena Vizcaino and Carolina Wilson discuss how emerging-market bonds have held up surprisingly well even as US Treasury yields have surged and oil has climbed abov…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-27/what-s-happening-in-em-bond-investors-dial-down-risk-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 46.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-25 15:00",
-   "title": "Market Movers blog: US Treasuries sell-off continues as yields hit two-decade highs - Investment Week",
-   "summary": "Market Movers blog: US Treasuries sell-off continues as yields hit two-decade highs &nbsp;&nbsp; Investment Week",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-24 18:51",
-   "title": "Stock Market Today (Sept. 24, 2026): S&P 500, Dow stagnate as higher treasury yields and oil weigh on sentiment - AOL.co",
-   "summary": "Stock Market Today (Sept. 24, 2026): S&P 500, Dow stagnate as higher treasury yields and oil weigh on sentiment &nbsp;&nbsp; AOL.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSQ193YkQ4Q3JuNVNEanloamsxcV9iNDNQdEJ4bzM0c044dGtCcHRJaFQyX0x6RzhWejJqNmRKZjlqbUltRng1WktTeV9WQUFSd0wtcDFUem0tYnREUVh5ckt4Y3hCMUd2T01XOHlBRjZfSjdDOEJUSWp3?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-24 17:18",
-   "title": "S&P 500 and TSX end slightly lower as investors focus on U.S.-Iran war and bond yields reaching fresh multi-year highs -",
-   "summary": "S&P 500 and TSX end slightly lower as investors focus on U.S.-Iran war and bond yields reaching fresh multi-year highs &nbsp;&nbsp; The Globe and Mail",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUjZVRnlsNjNhMW03ZzVoQ2tFTC1LbF9oZWUwNWRaUEFwbTNJV2tab2Q1R0FWTHJBWjNzTU5rdDJ2MW9KNXZhamMzNk1TLTJBYmUyRmc5a1JnQU01SExUdXdIMU5ieHRKX1Q5WjBYdzM5OTN4NUpEanQtMlhQU19pYzBaUndoekRWaDBMNjRJU284cHZhNXNMTWZ4RGlJaGRVd1AzTEpwbkEyaUEtQmUyeTZVWTBwZkFyZFV0ZE45dFZJVWpvaElXZWxFLV9zN0xHMlJvTG9tcTJIWG5yNmlNb3ktTmY4SEFNMlRBeA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-24 07:31",
-   "title": "S&P 500 Drops 0.75% to 7,706.03 as 10-Year Treasury Yield Hits Highest Level Since 2007 - BBN Times",
-   "summary": "S&P 500 Drops 0.75% to 7,706.03 as 10-Year Treasury Yield Hits Highest Level Since 2007 &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnlDWXVUbklDajRXLXRjekZwRmIzblpFdnJPQ2I5NWg2aGI2ZTk4cHpGY202SjlrWVNRZ1p5MFNMVzhQTEgyZW5yR3lsYkl4TUg4MGdqaTFmS2VJcjZmT2VmcktWMzgydThnd2dnZGd2c3MwN2xQTG5CdEhYUGI3MW9IMExPTFVPMF9ZWTlxMHFUU1g4QkdvdG85azkyaU8wb2poM1BlT0RzRGlLNFRGdjNZZjd4ZGh1bTA5N1FB?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-24 00:58",
-   "title": "S&P 500 Falls as 10-Year Treasury Yield Tops 5% After Five-Year PMI High - CryptoRank",
-   "summary": "S&P 500 Falls as 10-Year Treasury Yield Tops 5% After Five-Year PMI High &nbsp;&nbsp; CryptoRank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWElOdlZ6cHE2dnZ6b3llQzhrRm1NRXgxNnNtRUZzaktQVUpMUWkzemdYTFBhOE9LVXF5STJic0ZjOXNuVElJaUN1QmVMVGNTZm9yaFp6SmQ2R19tMmFsNlJ1aFY3UU1Ec3lYdkI3aWJSb0V3U01zRE4xbl9FVXQ4dHAxLUs5V2lrQmtJZFh4NlNWQTk5U3RFSWxrQmpjNjN6eEZmYmZPTVN2amJR?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.0
+   "heat": 50.7
   },
   {
    "cat": "macro",
@@ -153,7 +111,77 @@
      "t": "sec"
     }
    ],
-   "heat": 39.2
+   "heat": 46.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-25 15:00",
+   "title": "Market Movers blog: US Treasuries sell-off continues as yields hit two-decade highs - Investment Week",
+   "summary": "Market Movers blog: US Treasuries sell-off continues as yields hit two-decade highs &nbsp;&nbsp; Investment Week",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 44.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-24 18:51",
+   "title": "Stock Market Today (Sept. 24, 2026): S&P 500, Dow stagnate as higher treasury yields and oil weigh on sentiment - AOL.co",
+   "summary": "Stock Market Today (Sept. 24, 2026): S&P 500, Dow stagnate as higher treasury yields and oil weigh on sentiment &nbsp;&nbsp; AOL.com",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSQ193YkQ4Q3JuNVNEanloamsxcV9iNDNQdEJ4bzM0c044dGtCcHRJaFQyX0x6RzhWejJqNmRKZjlqbUltRng1WktTeV9WQUFSd0wtcDFUem0tYnREUVh5ckt4Y3hCMUd2T01XOHlBRjZfSjdDOEJUSWp3?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 44.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-24 17:18",
+   "title": "S&P 500 and TSX end slightly lower as investors focus on U.S.-Iran war and bond yields reaching fresh multi-year highs -",
+   "summary": "S&P 500 and TSX end slightly lower as investors focus on U.S.-Iran war and bond yields reaching fresh multi-year highs &nbsp;&nbsp; The Globe and Mail",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUjZVRnlsNjNhMW03ZzVoQ2tFTC1LbF9oZWUwNWRaUEFwbTNJV2tab2Q1R0FWTHJBWjNzTU5rdDJ2MW9KNXZhamMzNk1TLTJBYmUyRmc5a1JnQU01SExUdXdIMU5ieHRKX1Q5WjBYdzM5OTN4NUpEanQtMlhQU19pYzBaUndoekRWaDBMNjRJU284cHZhNXNMTWZ4RGlJaGRVd1AzTEpwbkEyaUEtQmUyeTZVWTBwZkFyZFV0ZE45dFZJVWpvaElXZWxFLV9zN0xHMlJvTG9tcTJIWG5yNmlNb3ktTmY4SEFNMlRBeA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 44.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-24 00:58",
+   "title": "S&P 500 Falls as 10-Year Treasury Yield Tops 5% After Five-Year PMI High - CryptoRank",
+   "summary": "S&P 500 Falls as 10-Year Treasury Yield Tops 5% After Five-Year PMI High &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWElOdlZ6cHE2dnZ6b3llQzhrRm1NRXgxNnNtRUZzaktQVUpMUWkzemdYTFBhOE9LVXF5STJic0ZjOXNuVElJaUN1QmVMVGNTZm9yaFp6SmQ2R19tMmFsNlJ1aFY3UU1Ec3lYdkI3aWJSb0V3U01zRE4xbl9FVXQ4dHAxLUs5V2lrQmtJZFh4NlNWQTk5U3RFSWxrQmpjNjN6eEZmYmZPTVN2amJR?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 44.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-28 06:24",
+   "title": "Another rate hike coming in Australia, AI hacks continue to reverberate globally",
+   "summary": "Get caught up.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-27/another-rate-hike-coming-in-australia-ai-hacks-continue-to-reverberate-globally",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.8
   },
   {
    "cat": "macro",
@@ -167,21 +195,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-27 20:31",
-   "title": "Trump Rejects Iran Plan to Reopen Hormuz",
-   "summary": "Bloomberg News Middle East reporter Dan Williams and Bloomberg Intelligence senior commodity strategist Mike McGlone are on Bloomberg This Weekend discussing President Donald Trump…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-27/trump-rejects-iran-plan-to-reopen-hormuz-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.0
+   "heat": 42.3
   },
   {
    "cat": "macro",
@@ -195,21 +209,7 @@
      "t": "agg"
     }
    ],
-   "heat": 38.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-28 00:16",
-   "title": "Here are the 4 big things we're watching in the stock market in the week ahead",
-   "summary": "Both sides of the Fed's dual mandate are in focus. Plus, Micron reports and Eli Lilly delivers updates on its obesity pipeline.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/27/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 35.6
+   "heat": 42.0
   },
   {
    "cat": "sector",
@@ -223,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 207.2
+   "heat": 218.4
   },
   {
    "cat": "sector",
@@ -237,7 +237,105 @@
      "t": "sec"
     }
    ],
-   "heat": 204.0
+   "heat": 216.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 07:01",
+   "title": "JCB Succession Underway After Making Founder’s Grandson Co-Chair",
+   "summary": "J.C. Bamford Excavators Ltd. said that George Bamford will become joint chairman of the company alongside his father, marking the first change at the top of one of the UK’s biggest…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/jcb-succession-underway-after-making-founder-s-grandson-co-chair",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 06:58",
+   "title": "Northern Star Rejects ‘Opportunistic’ Proposal From Gold Fields",
+   "summary": "Australia’s biggest gold miner Northern Star Resources Ltd. said it rejected a “highly opportunistic” takeover offer from South Africa’s Gold Fields Ltd.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/northern-star-rejects-opportunistic-proposal-from-gold-fields",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 06:03",
+   "title": "Latest Oil Market News and Analysis for Sept. 28",
+   "summary": "Oil rose as Iran stuck to a seven-day proposal for reopening the crucial Strait of Hormuz rejected by US President Donald Trump, threatening further delays in the reopening of the …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/latest-oil-market-news-and-analysis-for-sept-28",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 05:55",
+   "title": "Trump Says He’s ‘Very Seriously’ Looking at Diesel Export Ban",
+   "summary": "President Donald Trump said he is still looking “very seriously” at implementing a US ban on diesel exports to combat high prices, even as others in his administration continue to …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/trump-says-he-s-very-seriously-looking-at-diesel-export-ban",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 05:00",
+   "title": "From Geisha Face Paint to Servers, Sakai Chemical Emerges as AI Linchpin",
+   "summary": "Sakai Chemical Industry Co.’s century-old expertise in producing fine powders for face makeup used by geisha is finding a lucrative new use — powering the artificial intelligence b…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/from-geisha-face-paint-to-servers-sakai-chemical-emerges-as-ai-linchpin",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 04:50",
+   "title": "Axios: Trump Expects Iran Talks This Week, UK Air Base Arrests",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-27/axios-trump-expects-iran-talks-this-week-uk-air-base-arrests",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 04:04",
+   "title": "Iran Won't Soften Demands, UK Air Base Incident, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-27/iran-won-t-soften-demands-uk-air-base-incident-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.4
   },
   {
    "cat": "sector",
@@ -251,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 200.0
+   "heat": 215.2
   },
   {
    "cat": "sector",
@@ -265,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.7
+   "heat": 214.9
   },
   {
    "cat": "sector",
@@ -279,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.7
+   "heat": 214.9
   },
   {
    "cat": "sector",
@@ -293,119 +391,77 @@
      "t": "sec"
     }
    ],
-   "heat": 199.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 22:52",
-   "title": "Paramount Warner Deal Tests Hollywood’s Future",
-   "summary": "Bloomberg entertainment reporter Lucas Shaw is on Bloomberg This Weekend examining Paramount Skydance’s acquisition of Warner Bros. Discovery and the challenge of turning two legac…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-27/paramount-warner-deal-tests-hollywood-s-future-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 22:37",
-   "title": "Bloomberg This Weekend: Congress and AI Safety (Podcast)",
-   "summary": "Source: Bloomberg, 45:39",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-27/bloomberg-this-weekend-congress-and-ai-safety-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 22:36",
-   "title": "Kennedy Center Musicians Find New Stages",
-   "summary": "Bloomberg News Washington breaking news Editor Brian K. Sullivan is on Bloomberg This Weekend discussing uncertainty surrounding the Kennedy Center’s renovation, possible demolitio…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-27/kennedy-center-musicians-find-new-stages-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 22:33",
-   "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-   "summary": "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 20:56",
-   "title": "Northeast Storm Brings Wind, Rain and Flooding",
-   "summary": "Bloomberg News Meteorologist Craig Allen tells Bloomberg This Weekend that the slow-moving nor’easter is weakening but will continue bringing rain and flooding risks to parts of th…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-27/northeast-storm-brings-wind-rain-and-flooding-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 20:37",
-   "title": "IAEA Says Iran Nuclear Oversight Can Resume Fast",
-   "summary": "IAEA Director General Rafael Mariano Grossi sat down with David Gura and said that Iran retains a significant amount of uranium enriched to 60%, while inspectors have lost access n…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-27/iaea-says-iran-nuclear-oversight-can-resume-fast-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 15:13",
-   "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
-   "summary": "The Australian Medicare breach is one of the highest-profile incidents of AI agents accessing external systems outside the U.S.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 198.1
+   "heat": 214.6
   },
   {
    "cat": "stock",
-   "time": "2026-09-27 18:00",
-   "title": "Stock yards bancorp Sr. VP Michael Woods sells $10,983 in shares",
-   "summary": "",
+   "time": "2026-09-28 07:00",
+   "title": "Shein Faces First Public Earnings Test as Growth Woes Mount",
+   "summary": "Shein Global Holdings Ltd. reports its first earnings as a public company this week, with investors watching whether it can steady a stock that’s already down nearly 28% since list…",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/stock-yards-bancorp-sr-vp-michael-woods-sells-10983-in-shares-93CH-4919075",
-     "t": "agg"
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/shein-faces-first-public-earnings-test-as-growth-woes-mount",
+     "t": "sec"
     }
    ],
-   "heat": 84.5
+   "heat": 119.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-28 07:29",
+   "title": "Stock futures slip after winning week on Wall Street: Live updates",
+   "summary": "The Dow eked out a 0.3% advance last week, snapping a three-week slide.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 100.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-28 07:25",
+   "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
+   "summary": "Let's unpack this.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/27/jim-cramer-apple-microsoft-and-meta-prove-stock-picking-for-individuals-is-not-a-fools-errand.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 100.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-28 06:15",
+   "title": "Oil Gains, Stock Futures Dip as Trump Rebuffs Iran: Markets Wrap",
+   "summary": "Oil advanced and US equity-index futures slipped after President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, reigniting Middle East tensions that h…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 99.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-28 03:03",
+   "title": "Merryn Talks Money: Stocks That Could Beat an AI Bust (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-27/merryn-talks-money-stocks-that-could-beat-an-ai-bust-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 99.3
   },
   {
    "cat": "stock",
@@ -419,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.0
+   "heat": 98.2
   },
   {
    "cat": "stock",
@@ -433,91 +489,63 @@
      "t": "sec"
     }
    ],
-   "heat": 82.8
+   "heat": 98.0
   },
   {
    "cat": "stock",
-   "time": "2026-09-27 19:32",
-   "title": "Wall Street money takes back over from small investors as driving force of the stock market",
-   "summary": "One firm sees a \"reasonably constructive signal for risk appetite\" among institutional investors.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 82.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-27 19:27",
-   "title": "This key part of the stock market could be headed for a meaningful breakout",
-   "summary": "The Technology Select SPDR (XLK) has an opportunity to turn a bounce into a more meaningful breakout, says Frank Cappelleri.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/27/this-key-part-of-the-stock-market-could-be-headed-for-a-meaningful-breakout.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 82.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-27 18:15",
-   "title": "Kaltura officer Eynav Azaria sells $5,771 in common stock",
+   "time": "2026-09-27 22:16",
+   "title": "Dell CFO David Kennedy sells $14 million in company stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/kaltura-officer-eynav-azaria-sells-5771-in-common-stock-93CH-4919078",
+     "u": "https://www.investing.com/news/insider-trading-news/dell-cfo-david-kennedy-sells-14-million-in-company-stock-93CH-4919182",
      "t": "agg"
     }
    ],
-   "heat": 80.6
+   "heat": 96.5
   },
   {
    "cat": "stock",
-   "time": "2026-09-27 17:46",
-   "title": "Exponent group VP Souri buys $12,593 in EXPO common stock",
+   "time": "2026-09-27 21:45",
+   "title": "Equitable Holdings director Bertram Scott sells $151k in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/exponent-group-vp-souri-buys-12593-in-expo-common-stock-93CH-4919069",
+     "u": "https://www.investing.com/news/insider-trading-news/equitable-holdings-director-bertram-scott-sells-151k-in-stock-93CH-4919167",
      "t": "agg"
     }
    ],
-   "heat": 80.5
+   "heat": 96.4
   },
   {
    "cat": "stock",
-   "time": "2026-09-27 16:16",
-   "title": "Neostellar capital chairman Klein buys $39,550 in common stock",
+   "time": "2026-09-27 21:20",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/neostellar-capital-chairman-klein-buys-39550-in-common-stock-93CH-4919056",
+     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4919147",
      "t": "agg"
     }
    ],
-   "heat": 80.2
+   "heat": 96.3
   },
   {
    "cat": "stock",
-   "time": "2026-09-27 16:01",
-   "title": "BCB Bancorp CEO Thomas O’Brien purchases $1.24m in company stock",
+   "time": "2026-09-27 21:16",
+   "title": "Real REMAX director Liniger sells $1.01 million of company stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/bcb-bancorp-ceo-thomas-obrien-purchases-124m-in-company-stock-93CH-4919051",
+     "u": "https://www.investing.com/news/insider-trading-news/real-remax-director-liniger-sells-101-million-of-company-stock-93CH-4919145",
      "t": "agg"
     }
    ],
-   "heat": 80.2
+   "heat": 96.3
   },
   {
    "cat": "stock",
@@ -531,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.5
+   "heat": 92.0
   },
   {
    "cat": "stock",
@@ -545,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 92.0
   },
   {
    "cat": "stock",
@@ -559,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 92.0
   },
   {
    "cat": "stock",
@@ -573,35 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-24 20:44",
-   "title": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Drop as Bessent Says Iranian Aviation Restrict - Benzinga",
-   "summary": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Drop as Bessent Says Iranian Aviation Restrict &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSENfYk5YNEt0ZEsyN0YwX0JDYjVWalZ3Yi1oUU1tWlFJM3hfVFZ1VVhNNThhb0RHTnZsd0J3QXJxQ2pFUGVOekx6RTRQaW1rTVRKVFlSQXRqNTZ3b2RHYnVMUkFpMElwWnp5V1g3VXotY2h5cV90UmI4ZnRwa1g4ZjM5bERLQnRqdnIta1lLLXJrbEdkaVE4WF84RlpWRTExclF4Rmw4bDFNYWpVOXZJR0tQMTAxR3JINDRVZDhETFVadFJwa1BxaURPaG1VU3FPcV9ndEtYZFZQWld0UkNoWm5fem9IYmxicUl4ZThJdG5rUmE0T05RLWZlZWpGbUsxeTU3R0l4NHpPNDBsdUpwQlp3N1RmVms?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 76.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-24 13:45",
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-   "summary": "Stock Market: Will S&P 500 Open Up or Down Today? &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeEsySWdBSFhLcGF3aUJhdU11azNQZXdDX29wdFhPZkpOX190SS1FQXRNWDAxWmFyWjNiX3REeDdzdHV1NXh4WHF0X25lUEFMR0F3SEZLSlhJa2Q2LUJKclZoazFJZjFBdnIzUi1NWkprMHRCdXR3NWMzMTFVRmNIQTJuRWJtLWQzRXl0Wk9EczB2MHQwV3E3cEZwWTZmY0hlQnhBRTFKdWt6RkdlLVphelNDVTNQOHM?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 76.0
+   "heat": 92.0
   },
   {
    "cat": "global",
@@ -615,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 72.0
+   "heat": 56.0
   },
   {
    "cat": "global",
@@ -629,21 +629,21 @@
      "t": "sec"
     }
    ],
-   "heat": 47.2
+   "heat": 46.4
   },
   {
    "cat": "global",
-   "time": "2026-09-26 03:01",
-   "title": "Why the Bond Market May Be the Stock Market's Biggest Risk - Goldman Sachs",
-   "summary": "Why the Bond Market May Be the Stock Market's Biggest Risk &nbsp;&nbsp; Goldman Sachs",
+   "time": "2026-09-28 07:23",
+   "title": "Australian Dollar softens to near 0.7000 on hawkish Fed signals, RBA rate decision looms",
+   "summary": "The AUD/USD pair loses momentum to near 0.7010 during the early Asian session on Monday. The US Dollar (USD) strengthens against the Australian Dollar (AUD) on rising US Treasury y…",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMGdYOU9aZlIwcm91ZWtBZlJteDJSTkJZTU1oNExfWmVzdkdSY2ZuYWxRY1ZaUlNsSUstcVk2b09OeFR4Ymx6OVpsanE5TERNYTJCdDhjNTE1bEVGLWtNV1luZGY2ZmF3QUNzTFozaHd2SGdhZzdJaFM4TFpIdVB0VHpuREpON0g4Z1p5QjBRb05mN0NaNUx5NFhQbkF4dVZZWmdKc1czNU9OZWM?oc=5",
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/australian-dollar-softens-to-near-07000-on-hawkish-fed-signals-rba-rate-decision-looms-202609272323",
      "t": "sec"
     }
    ],
-   "heat": 44.0
+   "heat": 36.0
   },
   {
    "cat": "global",
@@ -657,21 +657,63 @@
      "t": "sec"
     }
    ],
-   "heat": 39.0
+   "heat": 34.2
   },
   {
    "cat": "global",
-   "time": "2026-09-27 19:34",
-   "title": "Barrick Mining Reaches Deal With Mali Unions, Averting Strikes",
-   "summary": "Barrick Mining Corp. has reached an agreement with unions representing workers at its Loulo-Gounkoto gold mining operation in western Mali, averting strikes planned to begin on Mon…",
+   "time": "2026-09-27 22:18",
+   "title": "Oil rebounds after Trump rejects Iran peace deal",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/barrick-mining-reaches-deal-with-mali-unions-averting-strikes",
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/oil-rebounds-after-trump-rejects-iran-peace-deal-4919183",
+     "t": "agg"
+    }
+   ],
+   "heat": 32.5
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-27 21:52",
+   "title": "Trump: Oil prices will plummet after war ends ‘very soon’",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/iran-says-it-wont-soften-hormuz-demands-after-trump-rejects-proposal-4918887",
+     "t": "agg"
+    }
+   ],
+   "heat": 32.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-26 03:01",
+   "title": "Why the Bond Market May Be the Stock Market's Biggest Risk - goldmansachs.com",
+   "summary": "Why the Bond Market May Be the Stock Market's Biggest Risk &nbsp;&nbsp; goldmansachs.com",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMGdYOU9aZlIwcm91ZWtBZlJteDJSTkJZTU1oNExfWmVzdkdSY2ZuYWxRY1ZaUlNsSUstcVk2b09OeFR4Ymx6OVpsanE5TERNYTJCdDhjNTE1bEVGLWtNV1luZGY2ZmF3QUNzTFozaHd2SGdhZzdJaFM4TFpIdVB0VHpuREpON0g4Z1p5QjBRb05mN0NaNUx5NFhQbkF4dVZZWmdKc1czNU9OZWM?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 34.8
+   "heat": 32.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-26 02:22",
+   "title": "Asian FX: Higher yields and Oil weigh – OCBC",
+   "summary": "OCBC strategists Sim Moh Siong and Christopher Wong report that Asian FX traded broadly softer as higher Oil prices and rising US Treasury yields hurt risk sentiment, with Indonesi…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822",
+     "t": "sec"
+    }
+   ],
+   "heat": 32.0
   },
   {
    "cat": "global",
@@ -685,21 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-27 17:04",
-   "title": "What are the bond yield effects on European equities? UBS answers",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/what-are-the-bond-yield-effects-on-european-equities-ubs-answers-4919062",
-     "t": "agg"
-    }
-   ],
-   "heat": 32.4
+   "heat": 28.0
   },
   {
    "cat": "global",
@@ -713,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 28.0
   },
   {
    "cat": "global",
@@ -727,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 28.0
   },
   {
    "cat": "global",
@@ -741,45 +769,31 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 28.0
   },
   {
    "cat": "global",
-   "time": "2026-09-26 01:38",
-   "title": "Swiss Franc: Further losses seem capped against US Dollar – UOB",
-   "summary": "UOB’s Quek Ser Leang and Lee Sue Ann note that USD/CHF has surged over the past two days, with strong momentum pointing to further Dollar strength. However, they stress that deeply…",
+   "time": "2026-09-23 04:21",
+   "title": "Dow, S&P 500 slip as oil hovers near $100 despite Nasdaq’s record close - The Economic Times",
+   "summary": "Dow, S&P 500 slip as oil hovers near $100 despite Nasdaq’s record close &nbsp;&nbsp; The Economic Times",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/swiss-franc-further-losses-seem-capped-against-us-dollar-uob-202609251738",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMHlvek9SbDF0SXExODAxNTNnRTZVeW5kcjFMNTFTM05QbTBRczdhRmxYekxFQkxpQ2RMR2hlMGhaUUpHNkVocTllNlZYVjFRc2FHZmpTSVY3Zzc0R1F5WGlkWTZ1czRKZlUzRmZWOTFWd1RwYkdhWW4tUC1ZT1dSeFNfSU5nT1BVVTVENW8zM3ZkUWVWZ2pjOWt5YVlEajRDTUxZVnpQUFBBUm1IcUdBOHczV253cVhXQU9fb0F6Z3NWZnZ0R0tGajBDMmlIYmM5OHA3RHhDSGdrMjBjSkNEMmFEMHBZb3pLLVZHWEtB?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 28.0
   },
   {
    "cat": "global",
-   "time": "2026-09-26 00:58",
-   "title": "New Zealand Dollar holds steady as US Dollar retreats",
-   "summary": "NZD/USD trades around 0.5665 on Friday at the time of writing, virtually unchanged on the day, as the New Zealand Dollar (NZD) struggles to capitalize on a moderate decline in the …",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-as-us-dollar-retreats-202609251658",
-     "t": "sec"
-    }
-   ],
-   "heat": 32.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-26 01:24",
-   "title": "Gold Miners Are Printing Record Profits, and Almost Nobody Is Paying Attention",
+   "time": "2026-09-26 03:59",
+   "title": "Oil Risk Premium Could Unwind Fast if Hormuz Traffic Recovers",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-miners-are-printing-record-profits-and-almost-nobody-is-paying-attention-200688427",
+     "u": "https://www.investing.com/analysis/oil-risk-premium-could-unwind-fast-if-hormuz-traffic-recovers-200688440",
      "t": "agg"
     }
    ],
@@ -787,45 +801,17 @@
   },
   {
    "cat": "global",
-   "time": "2026-09-26 00:19",
-   "title": "Gold’s Resistance Break May Be a Bull Trap With $4,243 Back in Play",
+   "time": "2026-09-25 21:20",
+   "title": "Oil Shipping Crunch Deepens as Hormuz Tanker Traffic Falls to Single Digits",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/golds-resistance-break-may-be-a-bull-trap-with-4243-back-in-play-200688420",
+     "u": "https://www.investing.com/analysis/oil-shipping-crunch-deepens-as-hormuz-tanker-traffic-falls-to-single-digits-200688413",
      "t": "agg"
     }
    ],
    "heat": 26.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-25 22:05",
-   "title": "Gold’s Final Bullish Wave Could Be the Most Explosive — If $4,163 Holds",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/golds-final-bullish-wave-could-be-the-most-explosive--if-4163-holds-200688418",
-     "t": "agg"
-    }
-   ],
-   "heat": 26.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-26 20:17",
-   "title": "Here’s what happened in crypto today",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 54.9
   },
   {
    "cat": "crypto",
@@ -839,7 +825,21 @@
      "t": "sec"
     }
    ],
-   "heat": 51.2
+   "heat": 54.4
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-26 20:17",
+   "title": "Here’s what happened in crypto today",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 54.1
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.0
+   "heat": 52.0
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.3
+   "heat": 50.5
   },
   {
    "cat": "crypto",
@@ -881,7 +881,21 @@
      "t": "sec"
     }
    ],
-   "heat": 44.2
+   "heat": 44.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-28 05:38",
+   "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
+   "summary": "TV ads featuring Trump are expanding nationally, prompting bipartisan questions over whether they comply with restrictions on taxpayer-funded publicity.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.7
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.4
+   "heat": 33.6
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.0
+   "heat": 33.2
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.6
+   "heat": 32.0
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.1
+   "heat": 30.3
   },
   {
    "cat": "crypto",
@@ -965,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.0
+   "heat": 30.2
   },
   {
    "cat": "crypto",
@@ -979,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 24.0
+   "heat": 28.0
   },
   {
    "cat": "crypto",
@@ -993,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 21.7
+   "heat": 20.9
   },
   {
    "cat": "crypto",
@@ -1007,21 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 20.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-27 17:57",
-   "title": "Riot Platforms repays $200M credit facility, releases collateral",
-   "summary": "The Bitcoin miner has continued to expand its data-center business as well.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 18.5
+   "heat": 20.0
   },
   {
    "cat": "sector",
@@ -1035,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 192.0
+   "heat": 208.0
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 192.0
+   "heat": 208.0
   }
  ]
 }
