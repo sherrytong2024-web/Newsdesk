@@ -1,6 +1,132 @@
 {
- "updated": "2026-09-27 16:47",
+ "updated": "2026-09-27 22:27",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-27 00:57",
+   "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+   "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 212.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 21:39",
+   "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
+   "summary": "Flight disruptions were rising in Boston over the weekend.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 21:30",
+   "title": "Iran's foreign minister keeps indirect talks with the U.S. open; Iranian navy claims capture of underwater drone",
+   "summary": "Iran's foreign minister says talks are the only way to break the deadlock, while its navy says it's analyzing data from a captured U.S. underwater drone.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 21:00",
+   "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
+   "summary": "Microsoft Corp. co-founder Bill Gates said government safeguards against potentially catastrophic artificial intelligence risks won’t hamper the US in its competition with China, c…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 20:56",
+   "title": "Northeast Storm Brings Wind, Rain and Flooding",
+   "summary": "Bloomberg News Meteorologist Craig Allen tells Bloomberg This Weekend that the slow-moving nor’easter is weakening but will continue bringing rain and flooding risks to parts of th…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-27/northeast-storm-brings-wind-rain-and-flooding-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 20:37",
+   "title": "IAEA Says Iran Nuclear Oversight Can Resume Fast",
+   "summary": "IAEA Director General Rafael Mariano Grossi sat down with David Gura and said that Iran retains a significant amount of uranium enriched to 60%, while inspectors have lost access n…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-27/iaea-says-iran-nuclear-oversight-can-resume-fast-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 20:00",
+   "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
+   "summary": "The NFL told CNBC it recorded 10,852 drone violations over stadiums between 2021 and 2025. The Jaguars became the first team to sign a drone defense firm.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 19:17",
+   "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
+   "summary": "The heads of artificial intelligence firms OpenAI and Anthropic PBC have been called on to appear before an Australian Senate inquiry to answer questions after the recent revelatio…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-27 19:06",
+   "title": "Men arrested in major incident at UK air base used by U.S. forces",
+   "summary": "The British government gave authorization to the U.S. to use RAF Fairford to carry out strikes on Iranian missile sites.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/27/police-declare-major-incident-at-uk-air-base-used-by-us-forces.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.4
+  },
   {
    "cat": "sector",
    "time": "2026-09-27 15:13",
@@ -13,133 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 14:27",
-   "title": "NZ Political Parties Court Squeezed Voters as Election Race Heats Up",
-   "summary": "New Zealand’s two main parties launched their election campaigns on Sunday, with Christopher Luxon’s National and Chris Hipkins’ Labour both pledging to restore the idea that hard-…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/nz-political-parties-court-squeezed-voters-as-election-race-heats-up",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 13:00",
-   "title": "How AI Is Helping African Farmers Prepare for El Niño",
-   "summary": "Opportunity International's Tim Strong explains how a WhatsApp-based AI tool gives smallholder farmers locally relevant advice on what and when to plant. The technology is designed…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-27/how-ai-is-helping-african-farmers-prepare-for-el-nino-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 13:00",
-   "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
-   "summary": "Consumers are spending more on hobbies like arts and crafts and outdoor sports, as it gets more expensive to travel due to increased airfare.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 12:16",
-   "title": "Australia’s Deputy PM Defends Data Security After OpenAI Hack",
-   "summary": "Australia’s sensitive government data is kept in a “fortress,” Deputy Prime Minister Richard Marles said Sunday, seeking to reassure the public after revelations last week that an …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/australia-s-deputy-pm-defends-data-security-after-openai-hack",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 12:12",
-   "title": "China Dispatches Pair of Pandas to Atlanta Zoo: CCTV Reports",
-   "summary": "China’s giant pandas Pingping and Fushuang departed Chengdu for Zoo Atlanta early Sunday on a chartered flight, beginning a 10-year stay in the US, China Central Television reporte…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/china-dispatches-pair-of-pandas-to-atlanta-zoo-cctv-reports",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 11:45",
-   "title": "Thai PM Anutin’s Support Drops in Latest Poll as Pressures Rise",
-   "summary": "Public support for Thai Prime Minister Anutin Charnvirakul and his Bhumjaithai Party has plunged, according to an opinion poll, as his government confronts rising oil prices and a …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/thai-pm-anutin-s-support-drops-in-latest-poll-as-pressures-rise",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 03:47",
-   "title": "Hurricane Nolo expected to unleash powerful winds, flash flooding on Hawaii",
-   "summary": "Heavy rain and powerful winds are expected to bring flash floods and extreme surf as Hurricane Nolo bears down on areas still recovering from previous storms.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/26/hurricane-nolo-to-unleash-powerful-winds-flash-flooding-on-hawaii.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 225.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 03:23",
-   "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
-   "summary": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 225.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-27 02:21",
-   "title": "Bangladesh Targets Up to $1 Billion in Debut Sovereign Bond Sale",
-   "summary": "Bangladesh is preparing to raise between $500 million and $1 billion through its maiden foreign-currency sovereign bond sale within the next three months, a senior government offic…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-26/bangladesh-targets-up-to-1-billion-in-debut-sovereign-bond-sale",
-     "t": "sec"
-    }
-   ],
-   "heat": 225.6
+   "heat": 210.8
   }
  ]
 }
