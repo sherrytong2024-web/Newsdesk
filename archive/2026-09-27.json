@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27 07:17",
+ "updated": "2026-09-27 10:50",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,21 @@
      "t": "sec"
     }
    ],
-   "heat": 102.2
+   "heat": 97.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-25 04:57",
+   "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
+   "summary": "The 10-year Treasury note yield is spiking to levels not seen in years, and that may be a bad omen for financial markets.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 88.0
   },
   {
    "cat": "macro",
@@ -27,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.4
+   "heat": 69.8
   },
   {
    "cat": "macro",
@@ -41,7 +55,7 @@
      "t": "agg"
     }
    ],
-   "heat": 69.4
+   "heat": 64.8
   },
   {
    "cat": "macro",
@@ -55,27 +69,13 @@
      "t": "sec"
     }
    ],
-   "heat": 64.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-25 18:30",
-   "title": "The S&P 500’s ‘biggest risk’ is companies’ ‘debt refi wall’ as bond yields top 5% - Fortune",
-   "summary": "The S&P 500’s ‘biggest risk’ is companies’ ‘debt refi wall’ as bond yields top 5% &nbsp;&nbsp; Fortune",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc1pqQ0R2dnE0MDVwWTV6OGNxR2tNa3U3cFdoUFVsRGt1X3U2aUF4UFF5aEhXeElEYnJlX2dOY3RkWFA2MjlRRXdlUnRtLW1Zc3RHRm5tRy1Sck82eDZObkpnVnlScGRCVTllOEVpMVJjYmhJc1cxaksxS291YVEwTVA0S0pBdDNIYjlsZU8wTVd3UQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 57.9
+   "heat": 64.3
   },
   {
    "cat": "macro",
    "time": "2026-09-25 15:00",
-   "title": "Market Movers blog: US Treasuries sell-off continues as yields hit two-decade highs - investmentweek.co.uk",
-   "summary": "Market Movers blog: US Treasuries sell-off continues as yields hit two-decade highs &nbsp;&nbsp; investmentweek.co.uk",
+   "title": "Market Movers blog: US Treasuries sell-off continues as yields hit two-decade highs - Investment Week",
+   "summary": "Market Movers blog: US Treasuries sell-off continues as yields hit two-decade highs &nbsp;&nbsp; Investment Week",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -83,13 +83,13 @@
      "t": "sec"
     }
    ],
-   "heat": 57.3
+   "heat": 56.7
   },
   {
    "cat": "macro",
    "time": "2026-09-25 06:17",
-   "title": "Dow Jones Today: DJIA Falls to 51,349.98 as 5% Treasury Yields and $106 Brent Weigh on Blue Chips - bbntimes.com",
-   "summary": "Dow Jones Today: DJIA Falls to 51,349.98 as 5% Treasury Yields and $106 Brent Weigh on Blue Chips &nbsp;&nbsp; bbntimes.com",
+   "title": "Dow Jones Today: DJIA Falls to 51,349.98 as 5% Treasury Yields and $106 Brent Weigh on Blue Chips - BBN Times",
+   "summary": "Dow Jones Today: DJIA Falls to 51,349.98 as 5% Treasury Yields and $106 Brent Weigh on Blue Chips &nbsp;&nbsp; BBN Times",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -130,12 +130,26 @@
   {
    "cat": "macro",
    "time": "2026-09-24 07:31",
-   "title": "S&P 500 Drops 0.75% to 7,706.03 as 10-Year Treasury Yield Hits Highest Level Since 2007 - bbntimes.com",
-   "summary": "S&P 500 Drops 0.75% to 7,706.03 as 10-Year Treasury Yield Hits Highest Level Since 2007 &nbsp;&nbsp; bbntimes.com",
+   "title": "S&P 500 Drops 0.75% to 7,706.03 as 10-Year Treasury Yield Hits Highest Level Since 2007 - BBN Times",
+   "summary": "S&P 500 Drops 0.75% to 7,706.03 as 10-Year Treasury Yield Hits Highest Level Since 2007 &nbsp;&nbsp; BBN Times",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnlDWXVUbklDajRXLXRjekZwRmIzblpFdnJPQ2I5NWg2aGI2ZTk4cHpGY202SjlrWVNRZ1p5MFNMVzhQTEgyZW5yR3lsYkl4TUg4MGdqaTFmS2VJcjZmT2VmcktWMzgydThnd2dnZGd2c3MwN2xQTG5CdEhYUGI3MW9IMExPTFVPMF9ZWTlxMHFUU1g4QkdvdG85azkyaU8wb2poM1BlT0RzRGlLNFRGdjNZZjd4ZGh1bTA5N1FB?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 56.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-09-24 01:27",
+   "title": "US stocks slip after bond yields jump on higher oil prices and a strong economic report - ABC Columbia",
+   "summary": "US stocks slip after bond yields jump on higher oil prices and a strong economic report &nbsp;&nbsp; ABC Columbia",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZDl1YWxWOHZGN0dEWWRHQnFDRmtsREhfbjRfanNpY1ZoN1VMVGtJdURaMGRCWVlqdkZub2RnbzN1ZmlsNExMNkl6OTg4eGNrQlJzdFF5LXprTGNyMzdmZy1VcnJMNTVUVzVqZENPaUxyVk9raERYODZYN1Q1V1BkX3N5VXZaczdTWGJWeEs4djRUNVNwRHVJcnBMN2dPSUF5c0hISnVhZ3F0YU9LVzVyRWFRa3Bta1I4YTlBaU9kQkE5YTFJY1E?oc=5",
      "t": "sec"
     }
    ],
@@ -171,34 +185,6 @@
   },
   {
    "cat": "macro",
-   "time": "2026-09-22 05:18",
-   "title": "Dow Jones (DJIA) Today: Industrial Average Closes at 52,048.83, Up 0.71%, After Worst Week Since March as Oil Falls and ",
-   "summary": "Dow Jones (DJIA) Today: Industrial Average Closes at 52,048.83, Up 0.71%, After Worst Week Since March as Oil Falls and Yields Ease &nbsp;&nbsp; bbntimes.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb2pWaG5wcjJGU1JCMGs4NEcyMzNxUFJ2cDdPUHZHdDQ2Q1F5dmxuSTh1bVJrR2lRbkN2OGNIVEtSRDV6MEhULTZNNnNWWmdjQjdsNmFfS2hFMWV0SUlOdjhJeUJNZGk0MFpMdjlMQVA0bXY4M3JXNmMtbkpKc0dGMnhGcm84cU1xTHVZWEpRaW42QWd1VWZZaW42bXB2XzU2ZDBxcklZTTdYQTA5YmZYd1VmYVZycmFIMi1TUVBZNGpVeW0tdVl2Z0QzQkNyNUNkQVBhWHgtSy1PN3EtOXg1VzRmY1FrTzhIdEo3TmFKMnN5T01TZGFnUQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 56.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-26 21:00",
-   "title": "McDonald’s Selloff Hits 30% as Big Mac Inflation Spurs Pushback",
-   "summary": "McDonald’s Corp. faces a key challenge as it fights to reinvigorate a sagging stock price: Winning back the cost-conscious diners who believe its menu has become too expensive.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-26/mcdonald-s-sell-off-hits-30-as-big-mac-inflation-spurs-pushback",
-     "t": "sec"
-    }
-   ],
-   "heat": 54.3
-  },
-  {
-   "cat": "macro",
    "time": "2026-09-25 02:02",
    "title": "EUR/USD Slide Shows How US Real Yields Are Overpowering Euro Strength",
    "summary": "",
@@ -212,6 +198,20 @@
    "heat": 54.0
   },
   {
+   "cat": "macro",
+   "time": "2026-09-26 21:00",
+   "title": "McDonald’s Selloff Hits 30% as Big Mac Inflation Spurs Pushback",
+   "summary": "McDonald’s Corp. faces a key challenge as it fights to reinvigorate a sagging stock price: Winning back the cost-conscious diners who believe its menu has become too expensive.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-26/mcdonald-s-sell-off-hits-30-as-big-mac-inflation-spurs-pushback",
+     "t": "sec"
+    }
+   ],
+   "heat": 53.7
+  },
+  {
    "cat": "sector",
    "time": "2026-09-27 03:47",
    "title": "Hurricane Nolo expected to unleash powerful winds, flash flooding on Hawaii",
@@ -223,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.4
+   "heat": 214.8
   },
   {
    "cat": "sector",
@@ -237,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.3
+   "heat": 214.8
   },
   {
    "cat": "sector",
@@ -251,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.2
+   "heat": 214.6
   },
   {
    "cat": "sector",
@@ -265,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.0
+   "heat": 214.4
   },
   {
    "cat": "sector",
@@ -279,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.9
+   "heat": 214.4
   },
   {
    "cat": "sector",
@@ -293,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.7
+   "heat": 214.1
   },
   {
    "cat": "sector",
@@ -307,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.6
+   "heat": 214.0
   },
   {
    "cat": "sector",
@@ -321,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.5
+   "heat": 213.9
   },
   {
    "cat": "sector",
@@ -335,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.4
+   "heat": 213.8
   },
   {
    "cat": "sector",
@@ -349,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.4
+   "heat": 213.8
   },
   {
    "cat": "sector",
@@ -363,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.4
+   "heat": 213.8
   },
   {
    "cat": "sector",
@@ -377,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.4
+   "heat": 213.8
   },
   {
    "cat": "sector",
@@ -391,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 210.3
+   "heat": 213.7
   },
   {
    "cat": "stock",
@@ -405,35 +405,105 @@
      "t": "sec"
     }
    ],
-   "heat": 71.4
+   "heat": 90.8
   },
   {
    "cat": "stock",
-   "time": "2026-09-26 22:46",
-   "title": "Civista Bancshares president Charles Parcher buys $10,700 in stock",
+   "time": "2026-09-27 08:00",
+   "title": "China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight",
+   "summary": "Under the shadow of Beijing’s single-minded focus on artificial intelligence, China’s consumer stocks are trapped in a lost decade.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/china-s-consumer-stocks-face-lost-decade-as-ai-steals-spotlight",
+     "t": "sec"
+    }
+   ],
+   "heat": 79.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-27 01:46",
+   "title": "United Therapeutics chairperson & CEO sells $4.7m in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/civista-bancshares-president-charles-parcher-buys-10700-in-stock-93CH-4918663",
+     "u": "https://www.investing.com/news/insider-trading-news/united-therapeutics-chairperson--ceo-sells-47m-in-stock-93CH-4918698",
      "t": "agg"
     }
    ],
-   "heat": 56.6
+   "heat": 76.5
   },
   {
    "cat": "stock",
-   "time": "2026-09-26 21:25",
-   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "time": "2026-09-27 01:46",
+   "title": "Hershey Trust Co. sells $5.05 million in Hershey Co. stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4918646",
+     "u": "https://www.investing.com/news/insider-trading-news/hershey-trust-co-sells-505-million-in-hershey-co-stock-93CH-4918695",
      "t": "agg"
     }
    ],
-   "heat": 56.4
+   "heat": 76.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-27 01:46",
+   "title": "OnKure Therapeutics president and CEO Saccomano sells $258 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/onkure-therapeutics-president-and-ceo-saccomano-sells-258-in-stock-93CH-4918696",
+     "t": "agg"
+    }
+   ],
+   "heat": 76.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-27 01:31",
+   "title": "OnKure Therapeutics CFO Jason Leverone sells $898 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/onkure-therapeutics-cfo-jason-leverone-sells-898-in-stock-93CH-4918690",
+     "t": "agg"
+    }
+   ],
+   "heat": 76.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-27 00:33",
+   "title": "China consumer stocks near decade lows as investors pile into AI",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/china-consumer-stocks-near-decade-lows-as-investors-pile-into-ai-4918679",
+     "t": "agg"
+    }
+   ],
+   "heat": 76.3
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-27 00:16",
+   "title": "Horizon Kinetics buys $352 in Texas Pacific Land (TPL) stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-352-in-texas-pacific-land-tpl-stock-93CH-4918675",
+     "t": "agg"
+    }
+   ],
+   "heat": 76.2
   },
   {
    "cat": "stock",
@@ -447,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.4
+   "heat": 74.8
   },
   {
    "cat": "stock",
@@ -461,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.0
+   "heat": 74.4
   },
   {
    "cat": "stock",
@@ -475,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
@@ -489,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
@@ -503,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
@@ -517,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
@@ -531,77 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-22 17:08",
-   "title": "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. - The Glob",
-   "summary": "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next. &nbsp;&nbsp; The Globe and Mail",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVC15c1l1T3dvQUpOZ285SW5VNmw1RUFKVUZkbUJjclZfMnJHQ0I0anhlMWtfQlJmM1U2Rm9BdDZlcUQ3VDRqVzV3V1o2ZF9GU0NFYkZTcUVYQlpTVFRQRmpRaUhZemV1MFpLTDlrOVptTVN0MGJTZEVkVk9wRGFNemlwVjR4Qm45c2ExeUlsREZ4UTF5X2NVTXZFZTRETWs3U251dERoeWNkcUl0Rk4yXzhtOUhQaEU2eG80aDI3Z2NrSkZRc2s2UWFmdzJMWmtKcTR1NGRkVFBES1JFNFZSeE9uY3ZYaHV0M0hiOUNWcXZ2V1F3NGVuQ0Y2MzZkWE92UUw4SF9SVEM5eExuMmJKZ0tYUQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 52.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-21 18:02",
-   "title": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Gain as Trump Issues Fresh Warning to Iran — M - Benzinga",
-   "summary": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Gain as Trump Issues Fresh Warning to Iran — M &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSDJvcWtPWFlmSjRUQWE5anpJa3lNbnR4NkxuaS1mUGktTVh2M2wyTlUwaWc2a2pyd2JOb05hb29sNHJ5bXNQaS1XS0x5cjVPcVE1MjZYY0w2OE4xN3duY1lHRHpIVzlNdVBVUDdUQi1YRERyaFR6S01McXBUV2p5Um0xblljODZweThmb0dkb0g5NGFocVVVeDZBclc3UmlyTm8yMWV2b1pZN2NRRnctMXdVRjZBbHprR2FPNHVDSU56bWVXalVKWnNSUkxLemJITEUtbDliak8ycDRaeGN3RjJWQzdsLVg2Y2NFYWlnUm9iSU9KcXV1YVJqaw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 52.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-20 13:00",
-   "title": "Are global stock markets heading for a crash? - The Guardian",
-   "summary": "Are global stock markets heading for a crash? &nbsp;&nbsp; The Guardian",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTHc2YlptSXlySkpublJrRVZzcXh1b1ZyYXVCZW1seDZKdGdRVmpqSEgtVjFKS2s5MjUzZi1uNlhjTWtHaU5qQldoc2dMUDdVYThkQk1YZjZFUXJGZFN0QU5pWlQ2dWFKSnJOUF92bTJzR0p3d3dFNEdMakpuUFRHLVBRd01qWElKNHBBa0hNb3FWLW5tb2htcUl6eXltTjdtay1iTFA1T2g?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 52.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-24 03:01",
-   "title": "Can AI Investment Drive S&P 500 Earnings Even Higher? - Goldman Sachs",
-   "summary": "Can AI Investment Drive S&P 500 Earnings Even Higher? &nbsp;&nbsp; Goldman Sachs",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemRqUVUwRkM4NkE3ajl3bVRncjNRY2s0b0dDWkhTLV9XcDhZQ1ljNXNNTV9OaVZjcS1Cek5rWUgybTlBYThmS015WmpyTHBWQnp5OE5JT0Fmd2RiR0FWTmlNRXQ2LUtjb0dnOHVFM2FwRkpJbS0xSmFzZHRwNjFLdko5OWl4TmlqSXRaaGNSeU5lQXd6aDBDT2Y0eEZFUUloZzN0NVVn?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-22 20:35",
-   "title": "Good News for S&P 500 Earnings: 86% of Companies Beat Expectations in 2026 - The Globe and Mail",
-   "summary": "Good News for S&P 500 Earnings: 86% of Companies Beat Expectations in 2026 &nbsp;&nbsp; The Globe and Mail",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQmRCZ2NjOU1wNUJTYlZXdmtDNWp6U1psVFdOYkdUY3RXYXJDaTdkeE1rQTJSQlRoLXFmUGlfOVpQbS1KbXYxUFZzMUtmeFRtLXlnbzJwSjk1bHYzeHNHZnprV2NEeGdHRkJSTWxtcm9WZko3TkMwNUNmN2NTT3ZfQUpQdFFkY1E0NERIdUFnVTcwTTBjbmRDQW1vd3RsNlgtVHFRSG1GdTlIRDRjbTVSeUZwazd0MTEtcXlQejlXM3JrQUZEZ0FfWU5KcTNOcHlxaFRucXh1MTNiVm1BTkRzcGREVnpjcm1QNFRpcnhn?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.0
+   "heat": 72.0
   },
   {
    "cat": "global",
@@ -615,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.1
+   "heat": 54.5
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.7
+   "heat": 31.1
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.3
+   "heat": 30.7
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.1
+   "heat": 30.5
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.1
+   "heat": 30.5
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.1
+   "heat": 30.5
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.9
+   "heat": 30.4
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.2
+   "heat": 22.6
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 21.0
+   "heat": 20.4
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 20.8
+   "heat": 20.2
   },
   {
    "cat": "global",
@@ -755,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 20.5
+   "heat": 19.9
   },
   {
    "cat": "global",
@@ -769,7 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 19.2
+   "heat": 18.6
   },
   {
    "cat": "global",
@@ -783,21 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 17.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-25 21:20",
-   "title": "Oil Shipping Crunch Deepens as Hormuz Tanker Traffic Falls to Single Digits",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-shipping-crunch-deepens-as-hormuz-tanker-traffic-falls-to-single-digits-200688413",
-     "t": "agg"
-    }
-   ],
-   "heat": 16.3
+   "heat": 16.9
   },
   {
    "cat": "global",
@@ -814,6 +800,20 @@
    "heat": 16.0
   },
   {
+   "cat": "global",
+   "time": "2026-09-25 21:20",
+   "title": "Oil Shipping Crunch Deepens as Hormuz Tanker Traffic Falls to Single Digits",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-shipping-crunch-deepens-as-hormuz-tanker-traffic-falls-to-single-digits-200688413",
+     "t": "agg"
+    }
+   ],
+   "heat": 15.7
+  },
+  {
    "cat": "crypto",
    "time": "2026-09-26 22:00",
    "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
@@ -825,21 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-26 20:17",
-   "title": "Here’s what happened in crypto today",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 66.2
+   "heat": 65.9
   },
   {
    "cat": "crypto",
@@ -853,7 +839,21 @@
      "t": "sec"
     }
    ],
-   "heat": 62.6
+   "heat": 62.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-09-26 20:17",
+   "title": "Here’s what happened in crypto today",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 61.6
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.5
+   "heat": 50.9
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.8
+   "heat": 46.2
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.6
+   "heat": 45.0
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.3
+   "heat": 44.7
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.8
+   "heat": 43.2
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.2
+   "heat": 42.6
   },
   {
    "cat": "crypto",
@@ -951,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.4
+   "heat": 41.8
   },
   {
    "cat": "crypto",
@@ -965,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.3
+   "heat": 37.7
   },
   {
    "cat": "crypto",
@@ -979,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.3
+   "heat": 33.7
   },
   {
    "cat": "crypto",
@@ -993,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.0
+   "heat": 32.4
   },
   {
    "cat": "crypto",
@@ -1007,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.3
+   "heat": 30.7
   },
   {
    "cat": "crypto",
@@ -1021,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.5
+   "heat": 29.9
   },
   {
    "cat": "sector",
@@ -1035,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 204.0
+   "heat": 208.0
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 206.2
+   "heat": 209.6
   }
  ]
 }
