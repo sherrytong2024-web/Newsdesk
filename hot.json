@@ -1,6 +1,48 @@
 {
- "updated": "2026-09-28 10:51",
+ "updated": "2026-09-28 17:11",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-09-28 17:00",
+   "title": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry",
+   "summary": "Nvidia Corp. introduced a new double-layered artificial intelligence security system that it says would’ve prevented the recent high-profile breach of Hugging Face by OpenAI’s AI m…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
+     "t": "sec"
+    }
+   ],
+   "heat": 212.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 17:00",
+   "title": "Nvidia releases software platform to stop AI agents from misbehaving",
+   "summary": "Nvidia says its news software could have prevented OpenAI's HuggingFace incident.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 212.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 13:27",
+   "title": "TSMC Affiliate Plans Second Singapore Chip Plant in Asia Push",
+   "summary": "A venture by Taiwan Semiconductor Manufacturing Co.’s smaller affiliate Vanguard International Semiconductor Corp. is considering a second chipmaking plant in Singapore to meet gro…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-28/tsmc-affiliate-plans-second-singapore-chip-plant-in-asia-push",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.4
+  },
   {
    "cat": "sector",
    "time": "2026-09-26 21:43",
@@ -13,133 +55,91 @@
      "t": "sec"
     }
    ],
-   "heat": 217.8
+   "heat": 204.8
   },
   {
    "cat": "sector",
-   "time": "2026-09-21 12:13",
-   "title": "CXMT Begins Mass Production of Fifth-Generation Memory Chips",
-   "summary": "CXMT Begins Mass Production of Fifth-Generation Memory Chips &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0NaLWgycnpvaG9pMkt0VU8zcDEyR1l4QWszbS1QOVJWZlNOS1h1cjU0M2RGNXdvazhtQkl4OHBhOWx6SHMyTElLcHVPYWRielVzSENQRTRRWUt2UWlrZ3QydWt0NjRHWEJaVWRvUi11azhCZVktOW5DaldQV3R2bnVISTItaWF2LWlDRWVwcG9xeDVhTEdfdHNoVUZFSFA3dVJmZnN1ZEV5dUpLb21EZ081Y2lGQQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 216.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-28 10:18",
-   "title": "UK Police Investigate Potential Terror Incident",
-   "summary": "UK police are investigating a potential terrorism incident after five men were arrested near an air base used in US strikes on Iran. (Source: Bloomberg)",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-28/uk-police-investigate-potential-terror-incident-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-28 09:30",
-   "title": "HSBC Makes Big Push for Affluent Clients in India to Fuel Growth",
-   "summary": "HSBC Holdings Plc is aiming to challenge India’s private-sector banks, betting that the country’s swelling pool of affluent customers and globally connected citizens can fuel its n…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-28/hsbc-makes-big-push-for-affluent-clients-in-india-to-fuel-growth",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-28 08:56",
-   "title": "Oil Rises After Trump Rebuffs Iran, UK Air Bases Incident, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-28/oil-rises-after-trump-rebuffs-iran-uk-air-bases-incident-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-28 08:54",
-   "title": "Seoul Demands Ukraine Apology Over North Korea POW Disclosure",
-   "summary": "Seoul demanded an official apology and explanation from Kyiv, accusing Ukraine of violating an agreement to keep confidential the transfer of North Korean prisoners of war to South…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-28/seoul-demands-ukraine-apology-over-north-korea-pow-disclosure",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-28 08:48",
-   "title": "David Perdue: US Taiwan Policy Unchanged After Talks",
-   "summary": "US Ambassador to China David Perdue has stated that Washington’s Taiwan policy remains unchanged following high-level talks between Donald Trump and Xi Jinping, despite hopes from …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-28/david-perdue-us-taiwan-policy-unchanged-after-talks-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-28 08:32",
-   "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
-   "summary": "Oil prices jumped on Monday after U.S. President Donald Trump rejected an Iranian peace proposal aimed at ending the conflict.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-28 07:27",
-   "title": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief",
-   "summary": "Global anxiety over artificial intelligence risks has intensified following fresh disclosures about a far wider range of breaches by advanced AI models, setting the stage for a hig…",
+   "time": "2026-09-28 16:43",
+   "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
+   "summary": "China has expanded overseas travel restrictions for top AI professionals in private firms to include the families of key personnel, further tightening measures designed to prevent …",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
      "t": "sec"
     }
    ],
-   "heat": 215.4
+   "heat": 203.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-28 07:26",
-   "title": "Ingenia Board to Review Higher Takeover Bid from Warburg Pincus",
-   "summary": "Ingenia Communities Group will assess a a new, higher takeover bid from private equity group Warburg Pincus and its affiliates, the company said Monday.",
+   "time": "2026-09-28 16:32",
+   "title": "Imran Khan’s Son Fears He May Never See His Father Again",
+   "summary": "Imran Khan’s son says he’s losing hope of ever seeing his father again, more than three years after the former Pakistani prime minister was put behind bars, according to an intervi…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/ingenia-board-to-review-higher-takeover-bid-from-warburg-pincus",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-28/imran-khan-s-son-fears-he-may-never-see-his-father-again",
      "t": "sec"
     }
    ],
-   "heat": 215.4
+   "heat": 203.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 16:10",
+   "title": "Police 'investigate Iran link' to suspected bomb plot at UK air base used by U.S.",
+   "summary": "U.K. counter-terrorism police are understood to be investigating a potential link with Iran after an alleged bomb threat against an air base hosting U.S. forces",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 16:08",
+   "title": "Qatar Extends LNG Force Majeure as Hormuz Disruptions Drag On",
+   "summary": "Qatar has extended force majeure on liquefied natural gas shipments to Asia and Europe by another month as disruptions continue to hamper energy flows through the critical Strait o…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-28/qatar-extends-lng-force-majeure-as-hormuz-disruptions-drag-on",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 16:00",
+   "title": "Sushiro's New Chapter in the American Market",
+   "summary": "Sushiro is betting that the US appetite for raw fish is big enough to accommodate the casual, mass-market model that made the chain a giant in Japan. But headwinds abound, includin…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-28/sushiro-s-new-chapter-in-the-american-market-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 15:59",
+   "title": "Hong Kong Regulator Defends HK$1 Billion PwC Settlement Over Evergrande Audits",
+   "summary": "Hong Kong Regulator Defends HK$1 Billion PwC Settlement Over Evergrande Audits &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOXUtZHJpcl9rZkNiaVdiVjdNWkRZZWZXTS1MdTNIZGlxdHRubnZoYkpLdDVFeDdoSnlNYVdfUjlMSHE0Z1dQeWR2RlRDZm02VUdpeERuQ3dOT0M0bUVzd25Bb3hOSTdvRmFTcW4xUnNodkJZemVUdGtUclpNaWNycFRRa0l2aUFEQXJlRU50bkFJNjBNWGQxWE1rUE80YUp1NkQtbFBjQ1Racm9EZzZFLV9xT3k4dUxRNVBlRFJfQTdMUllCeDBJWjRFemw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.8
   }
  ]
 }
