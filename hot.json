@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28 07:31",
+ "updated": "2026-09-28 10:51",
  "items": [
   {
    "cat": "sector",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 218.4
+   "heat": 217.8
   },
   {
    "cat": "sector",
@@ -31,13 +31,13 @@
   },
   {
    "cat": "sector",
-   "time": "2026-09-28 07:01",
-   "title": "JCB Succession Underway After Making Founder’s Grandson Co-Chair",
-   "summary": "J.C. Bamford Excavators Ltd. said that George Bamford will become joint chairman of the company alongside his father, marking the first change at the top of one of the UK’s biggest…",
+   "time": "2026-09-28 10:18",
+   "title": "UK Police Investigate Potential Terror Incident",
+   "summary": "UK police are investigating a potential terrorism incident after five men were arrested near an air base used in US strikes on Iran. (Source: Bloomberg)",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/jcb-succession-underway-after-making-founder-s-grandson-co-chair",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-28/uk-police-investigate-potential-terror-incident-video",
      "t": "sec"
     }
    ],
@@ -45,27 +45,13 @@
   },
   {
    "cat": "sector",
-   "time": "2026-09-28 06:58",
-   "title": "Northern Star Rejects ‘Opportunistic’ Proposal From Gold Fields",
-   "summary": "Australia’s biggest gold miner Northern Star Resources Ltd. said it rejected a “highly opportunistic” takeover offer from South Africa’s Gold Fields Ltd.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/northern-star-rejects-opportunistic-proposal-from-gold-fields",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-28 06:03",
-   "title": "Latest Oil Market News and Analysis for Sept. 28",
-   "summary": "Oil rose as Iran stuck to a seven-day proposal for reopening the crucial Strait of Hormuz rejected by US President Donald Trump, threatening further delays in the reopening of the …",
+   "time": "2026-09-28 09:30",
+   "title": "HSBC Makes Big Push for Affluent Clients in India to Fuel Growth",
+   "summary": "HSBC Holdings Plc is aiming to challenge India’s private-sector banks, betting that the country’s swelling pool of affluent customers and globally connected citizens can fuel its n…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/latest-oil-market-news-and-analysis-for-sept-28",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-28/hsbc-makes-big-push-for-affluent-clients-in-india-to-fuel-growth",
      "t": "sec"
     }
    ],
@@ -73,13 +59,13 @@
   },
   {
    "cat": "sector",
-   "time": "2026-09-28 05:55",
-   "title": "Trump Says He’s ‘Very Seriously’ Looking at Diesel Export Ban",
-   "summary": "President Donald Trump said he is still looking “very seriously” at implementing a US ban on diesel exports to combat high prices, even as others in his administration continue to …",
+   "time": "2026-09-28 08:56",
+   "title": "Oil Rises After Trump Rebuffs Iran, UK Air Bases Incident, More",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/trump-says-he-s-very-seriously-looking-at-diesel-export-ban",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-28/oil-rises-after-trump-rebuffs-iran-uk-air-bases-incident-more",
      "t": "sec"
     }
    ],
@@ -87,41 +73,55 @@
   },
   {
    "cat": "sector",
-   "time": "2026-09-28 05:00",
-   "title": "From Geisha Face Paint to Servers, Sakai Chemical Emerges as AI Linchpin",
-   "summary": "Sakai Chemical Industry Co.’s century-old expertise in producing fine powders for face makeup used by geisha is finding a lucrative new use — powering the artificial intelligence b…",
+   "time": "2026-09-28 08:54",
+   "title": "Seoul Demands Ukraine Apology Over North Korea POW Disclosure",
+   "summary": "Seoul demanded an official apology and explanation from Kyiv, accusing Ukraine of violating an agreement to keep confidential the transfer of North Korean prisoners of war to South…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-28/seoul-demands-ukraine-apology-over-north-korea-pow-disclosure",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 08:48",
+   "title": "David Perdue: US Taiwan Policy Unchanged After Talks",
+   "summary": "US Ambassador to China David Perdue has stated that Washington’s Taiwan policy remains unchanged following high-level talks between Donald Trump and Xi Jinping, despite hopes from …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-28/david-perdue-us-taiwan-policy-unchanged-after-talks-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 08:32",
+   "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+   "summary": "Oil prices jumped on Monday after U.S. President Donald Trump rejected an Iranian peace proposal aimed at ending the conflict.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-28 07:27",
+   "title": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief",
+   "summary": "Global anxiety over artificial intelligence risks has intensified following fresh disclosures about a far wider range of breaches by advanced AI models, setting the stage for a hig…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-27/from-geisha-face-paint-to-servers-sakai-chemical-emerges-as-ai-linchpin",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-28 04:50",
-   "title": "Axios: Trump Expects Iran Talks This Week, UK Air Base Arrests",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-27/axios-trump-expects-iran-talks-this-week-uk-air-base-arrests",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-28 04:04",
-   "title": "Iran Won't Soften Demands, UK Air Base Incident, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-27/iran-won-t-soften-demands-uk-air-base-incident-more",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
      "t": "sec"
     }
    ],
@@ -129,17 +129,17 @@
   },
   {
    "cat": "sector",
-   "time": "2026-09-28 02:43",
-   "title": "Nor'easter delays hundreds of flights, airlines waive change fees",
-   "summary": "Flight disruptions were rising in Boston over the weekend.",
+   "time": "2026-09-28 07:26",
+   "title": "Ingenia Board to Review Higher Takeover Bid from Warburg Pincus",
+   "summary": "Ingenia Communities Group will assess a a new, higher takeover bid from private equity group Warburg Pincus and its affiliates, the company said Monday.",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-27/ingenia-board-to-review-higher-takeover-bid-from-warburg-pincus",
      "t": "sec"
     }
    ],
-   "heat": 215.2
+   "heat": 215.4
   }
  ]
 }
