@@ -1,24 +1,66 @@
 {
- "updated": "2026-09-30 01:22",
+ "updated": "2026-09-30 05:42",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-09-30 01:22",
-   "title": "OpenAI reveals Dots AI agents as protestors rally outside DevDay venue: Live updates",
-   "summary": "Follow CNBC’s live coverage of OpenAI DevDay 2026, including Sam Altman’s 12 p.m. ET interview, keynote and developer announcements.",
+   "time": "2026-09-30 04:59",
+   "title": "Bloomberg Businessweek Daily: Ternus Eyes Apple Revamp (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-29/bloomberg-businessweek-daily-ternus-eyes-apple-revamp-podcast",
      "t": "sec"
     }
    ],
-   "heat": 244.0
+   "heat": 251.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-30 01:20",
-   "title": "Tech leaders arrive at White House for AI luncheon with Trump",
+   "time": "2026-09-30 05:35",
+   "title": "Alaska Air CEO on Premium Offerings and New Lounges",
+   "summary": "Alaska Airlines CEO Ben Minicucci sits down with Bloomberg's Romaine Bostick during the company's investor day to discuss the airline's foray into plush seats, new lounges in Seatt…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-29/alaska-air-ceo-on-premium-offerings-and-new-lounges-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 248.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-30 05:33",
+   "title": "Torani CEO Melanie Dulbecco on Manufacturing, Company Culture",
+   "summary": "Torani CEO Melanie Dulbecco joins Businessweek Daily in celebration of National Coffee Day. The 101-year-old flavor company has surpassed $800 million in annual revenue, continues …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-29/torani-ceo-on-manufacturing-company-culture-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 248.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-30 05:31",
+   "title": "Bloomberg Businessweek Daily: OpenAI Dev Day (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-29/bloomberg-businessweek-daily-openai-dev-day-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 248.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-30 05:18",
+   "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
    "summary": "The artificial intelligence luncheon comes as calls for a slowdown and regulation reach a fever pitch",
    "srcs": [
     {
@@ -27,119 +69,77 @@
      "t": "sec"
     }
    ],
-   "heat": 244.0
+   "heat": 247.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-30 01:15",
-   "title": "How the Rise of Prediction Markets Impacts Sportsbooks",
-   "summary": "Bloomberg's Romaine Bostick reports on how the rise of prediction markets is impacting sports betting and if more regulation is needed. Executives from BetMGM, DraftKings, FanDuel,…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-29/how-the-rise-of-prediction-markets-impacts-sportsbooks-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 244.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-30 01:08",
-   "title": "OpenAI Unveils Always-On AI Agent Dots, New $500 Paid Tier",
-   "summary": "OpenAI has unveiled an always-on artificial intelligent agent that’s designed to proactively tackle work on a user’s behalf, competing with firms like Meta Platforms Inc. in a grow…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier",
-     "t": "sec"
-    }
-   ],
-   "heat": 244.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-30 01:05",
-   "title": "Exchange Income, AirBoss of America on Canadian Defense",
-   "summary": "Mike Pyle, CEO, Exchange Income and Gren Schoch, Chairman & CEO, AirBoss of America, discuss how rising defense spending and changing procurement priorities are reshaping Canada’s …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-29/exchange-income-airboss-of-america-on-canadian-defense-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 244.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-30 00:55",
-   "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
-   "summary": "Trump called the new website, America.gov, \"a restoration of America's founding promise.\"",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-30 00:51",
-   "title": "Susquehanna Says It Will Settle With Alleged Insider Traders",
-   "summary": "Susquehanna International Group and Citadel Securities said they would drop a lawsuit alleging they lost tens of millions of dollars to insider traders as the firms finalize settle…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-29/susquehanna-says-it-will-settle-with-alleged-insider-traders",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-30 00:47",
-   "title": "El Pollo Loco to open first New York restaurant as it aims to become national chicken chain",
-   "summary": "El Pollo Loco will open its first New York City restaurant next year in Queens as it aims to become a national chicken chain.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/29/el-pollo-loco-opens-first-new-york-restaurant.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-30 00:41",
-   "title": "Bloomberg Tech: AI Takes Center Stage (Podcast)",
+   "time": "2026-09-30 05:07",
+   "title": "Stock Movers: Nvidia, Paramount Skydance, Fair Isaac (Podcast)",
    "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-29/bloomberg-tech-ai-takes-center-stage-podcast",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-29/stock-movers-nvidia-paramount-skydance-fair-isaac-podcast",
      "t": "sec"
     }
    ],
-   "heat": 243.9
+   "heat": 247.9
   },
   {
    "cat": "sector",
-   "time": "2026-09-30 00:37",
-   "title": "OpenAI Scraps Debut of AI Model as It Sets New Guardrails",
-   "summary": "OpenAI is holding back a version of its Astra model while it establishes stronger safeguards for artificial intelligence development, flagging heightened risks after a spate of rec…",
+   "time": "2026-09-30 05:02",
+   "title": "Trump, AI Heads Sign Accord, Court Allows 3rd Country Removals",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-29/openai-scraps-debut-of-ai-model-sets-new-guardrails-video",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-29/trump-ai-heads-sign-accord-court-allows-3rd-country-removals",
      "t": "sec"
     }
    ],
-   "heat": 243.9
+   "heat": 247.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-30 04:43",
+   "title": "OpenAI CFO Friar on New AI Assistant, Capital Raise",
+   "summary": "OpenAI CFO Sarah Friar discusses the company's new proactive assistant Dots. Speaking with Ed Ludlow on \"Bloomberg The Close,\" Friar also says OpenAI is \"really well capitalized.\" …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-29/openai-cfo-friar-on-new-ai-assistant-capital-raise-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-30 04:37",
+   "title": "Future of Derivatives Markets Being Laid: Shahrawat",
+   "summary": "D. Shahrawat with Bloomberg Intelligence joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" They discuss new regulations being made after the Clarity Act failed, and how top …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-29/future-of-equities-markets-being-laid-out-shahrawat-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-09-30 03:16",
+   "title": "Trump government ads were funded by Homeland Security, WSJ reports",
+   "summary": "CBP funded government-paid Trump TV ads as Democratic appropriators say DHS dedicated $20 million to the campaign ahead of the midterm election.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/29/trump-ads-cbp-dhs-taxpayer-funding-election.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.6
   }
  ]
 }
