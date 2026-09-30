@@ -1,61 +1,19 @@
 {
- "updated": "2026-10-01 01:20",
+ "updated": "2026-10-01 05:43",
  "items": [
   {
    "cat": "macro",
-   "time": "2026-09-30 20:48",
-   "title": "US Long-Bond Yields Renew 24-Year High on Resilient US Spending",
-   "summary": "Long-dated Treasury yields rose to fresh multi-decade highs as resilient US spending bolstered expectations that the US economy can handle higher interest rates.",
+   "time": "2026-09-30 08:18",
+   "title": "Dollar Wraps Best Month Since March on Fed’s Inflation Fight",
+   "summary": "The dollar wrapped up its best month since March after the Federal Reserve’s renewed focus on taming inflation pushed interest-rate expectations and US bond yields higher.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-30/traders-pull-back-on-october-fed-hike-bets-after-cool-pce-data",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-30/dollar-powers-to-best-month-since-june-on-fed-s-inflation-fight",
      "t": "sec"
     }
    ],
-   "heat": 131.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-30 07:58",
-   "title": "Gold Wavers as Soft Inflation Eases Fed Bets Amid High Yields",
-   "summary": "Gold swung as softer inflation data tempered bets on further Federal Reserve tightening, while elevated bond yields kept the precious metal vulnerable to renewed selling.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-29/gold-steady-as-traders-weigh-lower-oil-against-higher-yields",
-     "t": "sec"
-    }
-   ],
-   "heat": 129.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-30 19:53",
-   "title": "US Stocks Rise as Traders Trim Rate-Hike Bets After PCE Data",
-   "summary": "US stocks advanced on Wednesday after the Federal Reserve’s preferred inflation gauge accelerated less than expected, reinforcing speculation that the central bank will not increas…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-30/us-stock-futures-hold-steady-ahead-of-pce-data-micron-earnings",
-     "t": "sec"
-    }
-   ],
-   "heat": 127.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-30 06:12",
-   "title": "Stocks Rise as Inflation Surprise Curbs Fed Bets: Markets Wrap",
-   "summary": "Wall Street traders drove stocks higher after slower-than-anticipated inflation data reinforced bets the Federal Reserve will refrain from raising interest rates in October.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-29/stock-market-today-dow-s-p-live-updates",
-     "t": "sec"
-    }
-   ],
-   "heat": 124.8
+   "heat": 156.4
   },
   {
    "cat": "macro",
@@ -69,13 +27,13 @@
      "t": "agg"
     }
    ],
-   "heat": 104.9
+   "heat": 120.2
   },
   {
    "cat": "macro",
    "time": "2026-09-24 18:21",
-   "title": "Fed rate hike cycles have a history of denting US stock prices",
-   "summary": "Fed rate hike cycles have a history of denting US stock prices &nbsp;&nbsp; Reuters",
+   "title": "Fed rate hike cycles have a history of denting US stock prices - reuters.com",
+   "summary": "Fed rate hike cycles have a history of denting US stock prices &nbsp;&nbsp; reuters.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -83,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 100.0
+   "heat": 116.0
   },
   {
    "cat": "macro",
@@ -97,63 +55,35 @@
      "t": "sec"
     }
    ],
-   "heat": 100.0
+   "heat": 116.0
   },
   {
    "cat": "macro",
-   "time": "2026-10-01 00:00",
-   "title": "Euro Area Inflation Surge Puts Another ECB Rate Hike in Focus",
-   "summary": "Get Caught Up.",
+   "time": "2026-09-30 19:53",
+   "title": "S&P 500 Suffers Worst Month Since June as Rate Worries Persist",
+   "summary": "US stocks ended September with a decline, rounding out a month during which investors worried about inflation and higher interest rates.",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-30/euro-area-inflation-surge-puts-another-ecb-rate-hike-in-focus",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-30/us-stock-futures-hold-steady-ahead-of-pce-data-micron-earnings",
      "t": "sec"
     }
    ],
-   "heat": 99.8
+   "heat": 106.4
   },
   {
    "cat": "macro",
-   "time": "2026-10-01 00:36",
-   "title": "10-year Treasury yield turns higher as traders look past inflation data, await jobs report",
-   "summary": "Treasury yields were lower on Wednesday following the release of lighter-than-expected U.S. inflation data.",
+   "time": "2026-10-01 05:26",
+   "title": "UMich’s Stevenson on Fed Report, Inflation Reading",
+   "summary": "Betsey Stevenson said the Inspector General’s report finding no criminal wrongdoing in the Fed renovations confirms what many already suspected: the investigation was about a presi…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-30/umich-s-stevenson-on-fed-report-inflation-reading-video",
      "t": "sec"
     }
    ],
-   "heat": 95.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-01 00:37",
-   "title": "Stocks Jump on inflation Surprise, Apple's Smart-Home Push",
-   "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Yields fall and stocks jump on an inflation surprise, with Micron facing a key earnings test. …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-30/open-interest-9-30-2026-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-30 16:49",
-   "title": "Stocks rise, 2-year US bond yield eases after soft US inflation data",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/bonds-set-for-bruising-september-stocks-fare-better-4924015",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.6
+   "heat": 92.0
   },
   {
    "cat": "macro",
@@ -167,119 +97,259 @@
      "t": "sec"
     }
    ],
-   "heat": 86.7
+   "heat": 90.0
   },
   {
    "cat": "macro",
-   "time": "2026-10-01 00:00",
-   "title": "TPG Gets $10 Billion for Climate PE Fund; to Close for New Cash",
-   "summary": "TPG Inc. has raised $10 billion in investor capital for a second private equity fund dedicated to climate strategies, according to people familiar with the matter.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-30/tpg-gets-10-billion-for-climate-pe-fund-to-close-for-new-cash",
-     "t": "sec"
-    }
-   ],
-   "heat": 71.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-30 23:17",
-   "title": "Bitcoin Rides Risk Roller Coaster as Speculative Bets Wind Down",
-   "summary": "Bitcoin enjoyed a brief respite along with other risk assets such as stocks amid the expectation that another rate hike is unlikely next month.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-30/bitcoin-rides-risk-roller-coaster-as-sepeculative-bets-wind-down",
-     "t": "sec"
-    }
-   ],
-   "heat": 71.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-30 20:50",
-   "title": "U.S. futures dragged lower as oil prices and Treasury yields climb - BNN Bloomberg",
-   "summary": "U.S. futures dragged lower as oil prices and Treasury yields climb &nbsp;&nbsp; BNN Bloomberg",
+   "time": "2026-09-30 00:46",
+   "title": "$700B Wiped From the S&P 500 as Iran Talks Stall and Fed Governor Expects Higher AI Inflation - inkl",
+   "summary": "$700B Wiped From the S&P 500 as Iran Talks Stall and Fed Governor Expects Higher AI Inflation &nbsp;&nbsp; inkl",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSlBfQUdZT3JZeWItX1RzZU5GUTVsR1JrQWpCM1N6dW1raXZsSDJIZ1MzdmN3S0lyMmlHVzBRM2tBMUl5QWVmX1FvVE9tVTBOMldnbnZjQ2g2Q2ljVnM3S3pJZjA3VlRaVDRpY2R1SVJIWVZ2UjdsQkgxLXplLXVhSE1KR3BjQ1NUNWpfc01sNUp0SG5Fc1o2RXpscndvOEVPQVM2Y04yYmQtdC1uWHVPbEdn?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYlFfek5kMGtuVzEyeWE3LUVMUURVRWRKYUlqZ3RvOHBmTVZTVDktWTBnRTFFMFZnZDBBNDMwTkljaVNCcmVYX2JERzU2amltQVRoQlh6VWxXR1huMDlUWmtIWnJwM28wSE1hMndrTURMMFg3dmVxbGp1TG12a3RveEM5M21ETXphcDVMME1nMHhqTTcxeC14dzVlZ21pWkNfQ0VuUXNVQVE5X2trYnIyNU9BSkhWQzVkaWc?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 71.2
+   "heat": 87.2
   },
   {
-   "cat": "sector",
-   "time": "2026-10-01 00:16",
-   "title": "FlyDubai Pilot Attack, Apple to Join Smart Home Market, More",
-   "summary": "Source: Bloomberg, 0:00",
+   "cat": "macro",
+   "time": "2026-09-25 15:00",
+   "title": "US stocks: Nasdaq rises while S&P, Dow dip as softer inflation cools Fed hike bets - The Economic Times",
+   "summary": "US stocks: Nasdaq rises while S&P, Dow dip as softer inflation cools Fed hike bets &nbsp;&nbsp; The Economic Times",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-30/flydubai-pilot-attack-apple-to-join-smart-home-market-more",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVVVvLW55aGdlSmc2WDk3RzBuQ2tVQ3o3eW9qQmF3eUJiNUtrUzZzaUlpWHJlRHpsenctYXhkV0RWdWNaMkNWczhvclJCRjh6MnhaSnhqZWN2a3N5elhJSkUwVzFEd0Z3cVhnMUtBWjNTdXo1SXhuRzZRaE9SaHI3V1I1ODU1VzRRX3huY2hUQlNoWHNuNC1UQkdlNm51RjdDZm5WLTBVcUxKRHRkQ0RaQ2N4SEpvQ09OcG42cEhocW5TWU5Fa0xVQnNkMlN4X0xzbTZVSnN0eXdJc2ZMTldZZjFaUzMxSmFYQ19DTDdvZVNtV3hwRHhzeGhkYVV1QdIBgwJBVV95cUxNalVjR1V3eGdyYXVtdmdVZEtkaEh4ZzdQSks0cVV4c3lNRGVRYzU4U1Q0Z3ZEQkxpUEs3RU94dEREU0gxcmc1UllPWEhLV0ZoVlFkNWt5eGp6MDFIRll6c09PSXJoYlRvdnc5VDZhMDRlTkktWUNwc0IzNWNJYjV2QTdycVl2bXNEcENrWHE3MGpIZ3BXZks4NWFQdnpQVk95Qm1BUWZwdFpuODh4aEViUjduUkttSTdTSHlna3FwcVc0NmNZSEgzdk1GTlRwQlZlZzRLRVdOWVRBeFFpRTgzNmczTEhMYnNtdE56V3hfZWZpdmluRkZ1Z0l3T3lJa2ZNNTgw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 227.8
+   "heat": 84.0
   },
   {
-   "cat": "sector",
-   "time": "2026-09-30 23:31",
-   "title": "FlyDubai Pilot Attack Probe, Apple To Join Smart Home Market",
-   "summary": "Source: Bloomberg, 0:00",
+   "cat": "macro",
+   "time": "2026-10-01 05:05",
+   "title": "GBP/USD Outlook Hinges on Fed Hike Risks and BoE Tightening Signals",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-09-30/flydubai-pilot-attack-probe-apple-to-join-smart-home-market",
-     "t": "sec"
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/gbpusd-outlook-hinges-on-fed-hike-risks-and-boe-tightening-signals-200688722",
+     "t": "agg"
     }
    ],
-   "heat": 227.7
+   "heat": 77.9
   },
   {
-   "cat": "sector",
-   "time": "2026-10-01 01:05",
-   "title": "Convicted Insider Trader Arrested in Dubai After Fleeing France",
-   "summary": "A trader convicted of insider dealing was arrested in Dubai on Wednesday after French authorities issued an arrest warrant to force him to serve a three year jail sentence, accordi…",
+   "cat": "macro",
+   "time": "2026-10-01 05:19",
+   "title": "Why American Homeowners Are Stuck",
+   "summary": "The gap between today’s mortgage rates and the low rates many homeowners locked in before 2022 is reducing moves and home sales. This is limiting the supply of homes for sale and c…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-30/convicted-insider-trader-arrested-in-dubai-after-fleeing-france",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-30/opinion-why-american-homeowners-are-stuck-video",
      "t": "sec"
     }
    ],
-   "heat": 224.0
+   "heat": 75.9
   },
   {
-   "cat": "sector",
-   "time": "2026-10-01 00:54",
-   "title": "Musk’s SpaceXAI Considers Overhaul of Pricing for Grok, X Users",
-   "summary": "SpaceXAI, the artificial intelligence unit of Elon Musk’s SpaceX, is considering an overhaul of its subscription pricing options for users of its Grok chatbot and X social network.",
+   "cat": "macro",
+   "time": "2026-10-01 04:24",
+   "title": "Ackman on AI & IPOs, Climate Costs, Paramount's Debt Raise",
+   "summary": "A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: Pershing Squ…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-30/musk-s-spacexai-considers-overhaul-of-pricing-for-grok-x-users",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-30/bloomberg-deals-9-30-2026-video",
      "t": "sec"
     }
    ],
-   "heat": 223.9
+   "heat": 75.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-01 03:03",
+   "title": "Senate Democrats sink 'toothless' stock trading ban, data center bill in last act before election recess",
+   "summary": "Two separate proposals to ban member stock trading while in office and address data center-related utility costs failed Wednesday amid Democratic opposition.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-01 02:49",
+   "title": "This driverless trucking stock could be a double or more. Here’s why I’m buying despite the risks",
+   "summary": "Aurora Innovation is scaling its driverless trucking business rapidly, while a shift to an asset-light model could accelerate growth.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/30/this-driverless-trucking-stock-could-be-a-double-or-more-heres-why-im-buying-despite-the-risks.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-01 02:05",
+   "title": "Ford’s 45% Rally Wiped Out as Hopes for AI Windfall Fizzle",
+   "summary": "A runaway rally in shares of Ford Motor Co. has evaporated due to the growing economic pressure on US automakers and fading hopes that the company will reap a windfall from the AI …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-30/ford-s-45-rally-wiped-out-as-hopes-for-an-ai-windfall-fizzle",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.4
   },
   {
    "cat": "sector",
-   "time": "2026-10-01 00:36",
-   "title": "JPMorgan’s Sundar Sees ‘Healthy’ Tumult of Two AI Cycles at Once",
-   "summary": "JPMorgan Chase &amp; Co.’s Sitara Sundar urged investors to diversify their bets on artificial intelligence because the industry is caught in the “healthy” volatility of two cycles…",
+   "time": "2026-10-01 05:39",
+   "title": "Passengers Avert Crash on Flight From Dubai to Tel Aviv",
+   "summary": "Get caught up.",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-30/jpmorgan-s-sundar-sees-healthy-tumult-of-two-ai-cycles-at-once",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-09-30/passengers-avert-crash-on-flight-from-dubai-to-tel-aviv",
      "t": "sec"
     }
    ],
-   "heat": 223.9
+   "heat": 208.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-01 05:17",
+   "title": "Bloomberg Businessweek Daily: HPE Boosts Forecast (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-30/bloomberg-businessweek-daily-hpe-boosts-forecast-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-01 05:13",
+   "title": "FlyDubai Pilot Attack, Trump Calls For Powell's Resignation",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-30/flydubai-pilot-attack-trump-calls-for-powell-s-resignation",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-01 05:00",
+   "title": "The Elusive Power Players Behind the Rise of Jane Street",
+   "summary": "As the elite and elusive executives at Jane Street break industry records, the question of who wields power there remains one of its enduring enigmas. Bloomberg's Max Abelson and K…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-30/the-elusive-power-players-behind-the-rise-of-jane-street",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-01 04:56",
+   "title": "Micron Forecast Tops Estimates on Booming AI Memory Demand",
+   "summary": "Micron Technology Inc., the largest US maker of memory chips, gave a sales forecast for the current quarter that shattered estimates after the AI building frenzy fueled unprecedent…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-30/micron-forecast-beats-on-booming-ai-memory-demand-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-01 04:51",
+   "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+   "summary": "A Senate subcommittee on Wednesday is examining rogue AI, after a series of AI cyberattacks and increasing warnings about the risks of the technology.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-01 04:36",
+   "title": "Dow Drops 444, Nasdaq Gains 64, S&P 500 Loses 19 - TV News Check",
+   "summary": "Dow Drops 444, Nasdaq Gains 64, S&P 500 Loses 19 &nbsp;&nbsp; TV News Check",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdlVVbGJtQ3FMSVZOZnppakVMd2R5cE9OZkktSXBpY0hWZXEtaVU0ajZnTU1JQmpTQjV0VEJubFc2RmV1LWxaRFhkVkoxZHhMOFQweWtMeVJSXzhVSUZOMWIyRDNaVzAzMEE2NjhYM1BXQmVKc0NjbEI1VzFPV2NqcG9iTFZ5c0J3dlo5STl2OEM?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-01 04:17",
+   "title": "Micron Beats Estimates as AI Data Center Revenue Surges | Closing Bell",
+   "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Emily Graffeo, Christina Ruffini and Davi…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-09-30/micron-beats-estimates-closing-bell-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-01 03:52",
+   "title": "Google Grapples With Employee Skepticism About New Gemini 4",
+   "summary": "Alphabet Inc.’s Google has begun rolling out Gemini 4 Argon, its long-awaited flagship artificial intelligence model, but the company is grappling with internal skepticism over how…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-30/google-grapples-with-employee-skepticism-about-new-gemini-model",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-01 03:49",
+   "title": "Record Midterm Spending Pits GOP PACs Against Democrat Surge",
+   "summary": "With US midterms set to break spending records, who has the financial edge in newly competitive Senate races?&nbsp;",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-09-30/record-midterm-spending-pits-gop-pacs-against-democrat-surge",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.7
   },
   {
    "cat": "sector",
@@ -293,21 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-01 00:33",
-   "title": "Marshall Wace Says Citadel Has ‘Burdensome’ Demand in Shatz Case",
-   "summary": "Marshall Wace, a UK hedge fund firm, said that Citadel was demanding too much information as part of an ongoing legal battle over the British company’s recruitment of a former Cita…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-30/marshall-wace-says-citadel-has-burdensome-demand-in-shatz-case",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.9
+   "heat": 207.1
   },
   {
    "cat": "sector",
@@ -321,35 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-01 00:28",
-   "title": "Andy Burnham Raises Prospect of UK Rejoining the EU a Decade After Brexit",
-   "summary": "The PM is trying to unite the left of British politics while the right remains divided.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-30/andy-burnham-raises-prospect-of-uk-rejoining-the-eu-a-decade-after-brexit",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-01 00:03",
-   "title": "These two chip stocks could join the elite $2 trillion tech giant club, says top analyst",
-   "summary": "Resurgent CPUs and efficiency gains from memory could propel more chipmakers to a $2 trillion market cap.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/30/these-chip-stocks-could-join-the-2-trillion-tech-giant-club-says-top-analyst.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.8
+   "heat": 207.1
   },
   {
    "cat": "sector",
@@ -363,91 +391,175 @@
      "t": "sec"
     }
    ],
-   "heat": 223.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-30 23:36",
-   "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
-   "summary": "Following Trump's lunch with artificial intelligence leaders at the White House, the industry remains largely unchanged on AI safety.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-09-30 23:16",
-   "title": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
-   "summary": "A media report this week said President Donald Trump stated that Clayton, the director of national intelligence, would make a good AI czar.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.7
+   "heat": 207.0
   },
   {
    "cat": "stock",
-   "time": "2026-09-30 16:49",
-   "title": "GameStop shares rise as CEO Ryan Cohen buys $10.6 million in stock",
+   "time": "2026-10-01 04:25",
+   "title": "Stock Movers: Micron Earnings (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-30/stock-movers-micron-earnings-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-01 05:32",
+   "title": "US Stocks End September on Mixed Signals: S&P 500 and Nasdaq Rise, Dow Falls - mezha.net",
+   "summary": "US Stocks End September on Mixed Signals: S&P 500 and Nasdaq Rise, Dow Falls &nbsp;&nbsp; mezha.net",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yaGF1bTQyTFNKTlJUM3A5ak4tcDRITDRIN2RjcklDeERNbGswVDVjU0FjLXVsRmoxY2lCcTYtejk2OEt0TGdfWk5DdHk1c0ZuUG1CaDhTdXBKaTQwc0RN?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 88.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-01 05:08",
+   "title": "Stock Movers: Micron, Northrop Grumman, Moderna (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-30/stock-movers-micron-northrop-grumman-moderna-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 87.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-01 04:34",
+   "title": "Toronto Stock Exchange Today: S&P/TSX Composite Extends Slide Near 35,380 as Banks Weigh - BBN Times",
+   "summary": "Toronto Stock Exchange Today: S&P/TSX Composite Extends Slide Near 35,380 as Banks Weigh &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZmFNaGNGdk0wX1JpYlhJeEVpY3JxeTg3RW9Od2dJMVd4MHd2ckNNZDFQTjg5ZllvY2NCbUJwTDd0UTVEWWxHVlVZQ1NWN25IdVBhOUliZkZIVDhhTVRvT2pCX19xZF8zYjZYTnFEODlZd3pXcmFNVzR6bW9EUDhOY21CVzhPbUloR2toNEgtQVJtc1h3RnZMeGpZZDVwU2lzZjVkaHpwd2tMV0xCeGdURERQOFMtRmxCVy03bXo5cXZId1RDN0E?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 87.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-01 04:15",
+   "title": "Stocks Close Mixed, FlyDubai Pilot Attack Investigation, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-09-30/stocks-close-mixed-flydubai-pilot-attack-investigation-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 87.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-01 04:03",
+   "title": "Broken market: 75% of S&P 500 stocks had a lousy September",
+   "summary": "The S&P 500 appears strong at the index level, but most of its individual stocks had a poor month.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/30/broken-market-75percent-of-sp-500-stocks-had-a-lousy-september-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 87.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-01 02:47",
+   "title": "Two trades that just happened in 'Magnificent Seven' stocks point to big gains ahead",
+   "summary": "Options volume was more than 50% above the 30-day average in both names Wednesday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/30/two-trades-that-just-happened-in-magnificent-seven-stocks-point-to-big-gains-ahead.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 87.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-30 21:30",
+   "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 1.38%",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/gamestop-shares-rise-as-ceo-ryan-cohen-buys-106-million-in-stock-4925635",
+     "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-138-4925972",
      "t": "agg"
     }
    ],
-   "heat": 68.6
+   "heat": 84.6
   },
   {
    "cat": "stock",
-   "time": "2026-10-01 01:04",
-   "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
-   "summary": "These are the stocks posting the largest moves midday.",
+   "time": "2026-09-30 21:25",
+   "title": "Colombia stocks lower at close of trade; COLCAP down 0.38%",
+   "summary": "",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-038-4925970",
+     "t": "agg"
     }
    ],
-   "heat": 60.0
+   "heat": 84.6
   },
   {
    "cat": "stock",
-   "time": "2026-10-01 00:09",
-   "title": "The market search for balance sheet 'cash cows' and 'quality' stocks is changing",
-   "summary": "With AI spending consuming the cash of the market's richest companies, balance sheet metrics led by free cash flow are getting more investing attention.",
+   "time": "2026-09-30 21:20",
+   "title": "Immix Biopharma closes $117.1m stock offering",
+   "summary": "",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/company-news/immix-biopharma-closes-1171m-stock-offering-93CH-4925966",
+     "t": "agg"
     }
    ],
-   "heat": 59.8
+   "heat": 84.6
   },
   {
    "cat": "stock",
-   "time": "2026-09-30 23:19",
-   "title": "Senate expected to vote on stock trading ban, data center bill before election recess",
-   "summary": "The Senate will vote on bills that would ban members from trading stocks while in office, and to address data center-related utility costs, amid Democratic opposition.",
+   "time": "2026-09-30 21:20",
+   "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.22%",
+   "summary": "",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-022-4925965",
+     "t": "agg"
     }
    ],
-   "heat": 59.7
+   "heat": 84.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-30 21:18",
+   "title": "RBC Capital initiates Digital Turbine stock with outperform rating",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/analyst-ratings/rbc-capital-initiates-digital-turbine-stock-with-outperform-rating-93CH-4925964",
+     "t": "agg"
+    }
+   ],
+   "heat": 84.6
   },
   {
    "cat": "stock",
@@ -461,41 +573,27 @@
      "t": "sec"
     }
    ],
-   "heat": 57.2
+   "heat": 84.4
   },
   {
    "cat": "stock",
-   "time": "2026-09-30 17:00",
-   "title": "Freedom Broker raises IDT stock price target to $85 on strong results",
-   "summary": "",
+   "time": "2026-09-30 06:22",
+   "title": "Toronto Stock Exchange: S&P/TSX Composite Slips Toward 35,400 as Canada’s Economy Stalls in July - BBN Times",
+   "summary": "Toronto Stock Exchange: S&P/TSX Composite Slips Toward 35,400 as Canada’s Economy Stalls in July &nbsp;&nbsp; BBN Times",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/freedom-broker-raises-idt-stock-price-target-to-85-on-strong-results-93CH-4925641",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPalJlT2pYeHEtd3RMOTRuYmhnRWVFZDZxSjNwYWdheFNaLUxDVjNXRUpWUUpjR3NRVmRRVkZoRmJlTWZNQkNCdmFzc2NKcEdLX0lNN2stV1VzY0tIMC1kam9EREJQV1dxdHZKRU1Vcl8wcml4UnhSLWhqaEZJbDQ4UnZ3WmY3UnMzak5PMzZBMUM2UF9ZTVNiTTREb3ZXQUllM2wzU3VxWWwtTzZQZ0xmTGxadEZBUG1BcTFTeEFYT3ZLQWpGdTFwQ3ZB?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 56.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-30 16:49",
-   "title": "Assured Guaranty stock hits 52-week low at $67.99",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/company-news/assured-guaranty-stock-hits-52week-low-at-6799-93CH-4925634",
-     "t": "agg"
-    }
-   ],
-   "heat": 56.6
+   "heat": 84.1
   },
   {
    "cat": "stock",
    "time": "2026-09-29 00:41",
-   "title": "Nearly Half of S&P 500 Stocks Are Zigging When the Index Zags - Briefs Finance",
-   "summary": "Nearly Half of S&P 500 Stocks Are Zigging When the Index Zags &nbsp;&nbsp; Briefs Finance",
+   "title": "Nearly Half of S&P 500 Stocks Move Opposite Index - Briefs Finance",
+   "summary": "Nearly Half of S&P 500 Stocks Move Opposite Index &nbsp;&nbsp; Briefs Finance",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -503,105 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-28 23:15",
-   "title": "Why are the Dow Jones, S&P 500 and Nasdaq falling today? The reasons behind the selloff from tech stocks t - The Economi",
-   "summary": "Why are the Dow Jones, S&P 500 and Nasdaq falling today? The reasons behind the selloff from tech stocks t &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNc2ZfTUloVlQwZ3hkZUlZRHFma2dkbm5LM1FuZi1KcXdWTExwYVp0UkpBQThHcUdMYS0wRDBMSzNXU0gzM2h6WTY4TnRaZGhfUnllWXk5cjNsMXUxTlhObkNtZ2dhTEs3aVhfZUhBcFphWmVJUnRiUVVQQjJ2S3otbDgzUXBTTGN6Rm96OWNDMmR3YWNVT0xwQmI5RXU0RGtqcDRUTHJFeVNjajBFS2IyanA1elJ2YnNGZVhyVmNpdFhHamdBNTQ2OWUySHlDV3NFUXlfZUJCT2kzM3RPM2pfUHVzd2QwNk5pYy1NNDZxQ08xV3MzN3p6cXY5T3psZXRnS2ZFeXlneG5vRTZsRzhrMVlXdkxUZ2p3RjBnQlBNTG9DM2ZNNWh1b21CQTBLd1dGVDBUdkhmNmR6MGpPT3EzZjByUU1pUG9pRHfSAc8CQVVfeXFMUGNpOGl4bHFkM0w1VVI4TUx0NS1BbDNkb2VYWUZZYzZFVHNHcXlGRllJT0V3Uk14Tm1UZmp6V1F1R2lROHNVRG1OM3pHREtsUEc4WUllcnRPRmVIM1MwYlQ2a28ycVdoSXQ5OERIVGR1U1FERDEyVzhlallCVkhLYS00R0FXMHpxVFJ5VkNqdkpCbGc0QjRjbldYelczM2M2NTlFZEo3QlZxQ1ZGbThaM3U1aUVtTEMtNnZhWW9XTlBFbDRmOVJMM1QxTE91SVRMMzlxZXRiSzNfWWllSWFlaWk2a2tfZzJOZU1hNnVtVFc1NWtSTERSTDlCTjVnMnR1T1R3ak9FNmVUMk9McVhXazhhMXMwSWpUUEtkUjduVS04YkhiSDNuMEZrSHRkQTd6QTFPWkQyeHhSTVY2d2ZEanpmNzdJcVZhOGtMMEUzUUk?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 52.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-26 01:14",
-   "title": "Wall Street edges higher as AI stocks gain, oil prices ease; Dow up 177 points, S&P 500 gains 0.2% - The Times of India",
-   "summary": "Wall Street edges higher as AI stocks gain, oil prices ease; Dow up 177 points, S&P 500 gains 0.2% &nbsp;&nbsp; The Times of India",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOYWxwTmRkaFVYcmNjaW5jd1A3am8waV9ZVW84TkZNVmM5NV9QSUVRXzU4Z1Z4Yk4xQm41c3ZBVWR2R3VsUHJ0ZnlDeEV6N2ppLWdjSFE4TXZwWUNIM0twZG9jalA4cVhLMnlRTE1TZ0ZWcE9idEtnb1Qxck5FMW9DcDlhTnIzSm15SW1KR1BOeEsyV09MY0lfaTNnT2RzcnQxNHM5aUs4T2RXM2JqbUtjQzF4M0RXU1FCV2RNOHFHYzhvdm5xSGRMUDhabnZKWnM5cTBNamp5Qnh3S2FyLUFYLUVKMW5TNW96Z2ktRnNMZ1JvMzV6blFwVTFONUU4Z2lVQVFXYV85Uk00cUwyYmhmdC03LXdjd9IBmwJBVV95cUxNZFBwUlVGR0VQN0Y1RGQ5M182dWlTMHNmT25mc1BMajZwS3ZzVzhOU2hFRGdfZ2ZXOFFEOUtxSzVzODVCWE9sbVFoUV9ZdWZyYmlSVFM4enM2QnR4NkJsSmlzM2h4ekxuMnc3T0VRYkp3Mi1rcWdRODRWV3MyTGZQaC1MQ2JmRDZvZzdsVlFmOUN2cUlqZlRUMlR6U2V0Ty1lOWlLLUdzM05ELWVQQ1VOS01Yd0txcDk0ODhuN19Jdm9ZaWFvUTRSU1J6Y0RFeDA1Ykh3Zm5kVnptdzlQNXpMM1BCMnNpVjJsQWM1UFhsWV9YNEZrcnVqT2FJYXp1bGlELWF4UjZXXzZhSzRfRlJtU1hTaVN5VXBJcFA0?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 52.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-25 04:11",
-   "title": "US stocks: S&P 500 ends nearly flat as US-Iran talks help stocks pare losses - The Economic Times",
-   "summary": "US stocks: S&P 500 ends nearly flat as US-Iran talks help stocks pare losses &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTXg0eldFZ1FTRk9VNjI5UDJycVh1dmwzbmdPbUFPanVtWmVDb0R5MmxicnYzQXktUDlOSXFkM3d4a2FFM2dvM294OXhXVExmdUhNRkJMSUduMmNkUl9XdlpLMGdENmgyYXhCS3l0ekxZVGthc3o2OWJPMzcwdEo2NllvWll1S3JMTlJCRHFzQUIwdG1rWHZ2VThtSS1VUUxqZ1VMYnVMWnN5RTBrRDZUWG9PSHl3MFZtbmFfTDNpbGxQNmtfWXAxeGxEM3pzUmhzT0NTWGJ1X2NXLTAwNGpURlhfa1NDUUFMQkxEcHpWZy1ZUnpMdXp30gH8AUFVX3lxTE5iazN1NnQ3MFZIZ2prVUwyVjN2TlVpcXF0SnY0aHR0R3ZWY1VDUWRGUkxPTm15WlVUTlJvb2FYWVpmbzZXWU5wVmpBVjBqMWhTeUh1NEx3VG5EcXNoZ3hVMFFnVjZpZnhad0Y5SVpoS3Z1OUI5a3FfZExnZzBSYThhSmNlNFhDaFVqTWxwQnFUVGdFR2dyUUdnTE45bDc5THBKXzZTdURQbUJCanhieDNjS1k2bWZNRm4zem4za1p6WHhNeENVQWFodUNldk1ySTlOSEhUdkM1VklUTFE4aWs5MHdRM2tJYTVSLUY2TVFqRmhra3JqRTNVTUF3Nw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 52.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-24 20:44",
-   "title": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Drop as Bessent Says Iranian Aviation Restrict - Benzinga",
-   "summary": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Drop as Bessent Says Iranian Aviation Restrict &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSENfYk5YNEt0ZEsyN0YwX0JDYjVWalZ3Yi1oUU1tWlFJM3hfVFZ1VVhNNThhb0RHTnZsd0J3QXJxQ2pFUGVOekx6RTRQaW1rTVRKVFlSQXRqNTZ3b2RHYnVMUkFpMElwWnp5V1g3VXotY2h5cV90UmI4ZnRwa1g4ZjM5bERLQnRqdnIta1lLLXJrbEdkaVE4WF84RlpWRTExclF4Rmw4bDFNYWpVOXZJR0tQMTAxR3JINDRVZDhETFVadFJwa1BxaURPaG1VU3FPcV9ndEtYZFZQWld0UkNoWm5fem9IYmxicUl4ZThJdG5rUmE0T05RLWZlZWpGbUsxeTU3R0l4NHpPNDBsdUpwQlp3N1RmVms?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 52.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-09-24 13:45",
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-   "summary": "Stock Market: Will S&P 500 Open Up or Down Today? &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeEsySWdBSFhLcGF3aUJhdU11azNQZXdDX29wdFhPZkpOX190SS1FQXRNWDAxWmFyWjNiX3REeDdzdHV1NXh4WHF0X25lUEFMR0F3SEZLSlhJa2Q2LUJKclZoazFJZjFBdnIzUi1NWkprMHRCdXR3NWMzMTFVRmNIQTJuRWJtLWQzRXl0Wk9EczB2MHQwV3E3cEZwWTZmY0hlQnhBRTFKdWt6RkdlLVphelNDVTNQOHM?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 52.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-01 00:47",
-   "title": "AI Infrastructure Firm Accelevation Edges Down 2.5% After IPO",
-   "summary": "Shares of Accelevation Holdings Corp., a data center infrastructure company, declined 2.5% after the company and its private equity backer raised $540 million in an initial public …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-30/ai-infrastructure-firm-accelevation-edges-down-2-5-after-ipo",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-01 00:51",
-   "title": "Ackman Talks Howard Hughes Plans, IPOs and Anthropic",
-   "summary": "Pershing Square founder and CEO Bill Ackman discusses his plans for Howard Hughes, the state of the IPO market and his views on AI and Anthropic. Speaking with Dani Burger on \"Bloo…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-09-30/ackman-talks-howard-hughes-plans-ipos-and-anthropic-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 27.9
+   "heat": 80.0
   },
   {
    "cat": "global",
@@ -615,21 +615,21 @@
      "t": "agg"
     }
    ],
-   "heat": 45.8
+   "heat": 53.0
   },
   {
    "cat": "global",
-   "time": "2026-09-30 23:21",
-   "title": "British Pound catches second wind as soft PCE knocks Fed hike bets",
-   "summary": "The Pound Sterling (GBP) posts solid gains versus the US Dollar (USD) on Wednesday, edging up 0.42% as the latest US inflation figures were below estimates, reaffirming New York Fe…",
+   "time": "2026-10-01 02:10",
+   "title": "EUR/USD Price Forecast: Monthly outlook mixed, daily chart remains bearish",
+   "summary": "EUR/USD remains on the defensive on Wednesday as a broadly stronger US Dollar (USD) weighs on the pair, leaving the Euro on track for a loss of more than 2% in September. At the ti…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/the-british-pound-catches-second-wind-as-soft-pce-knocks-fed-hike-bets-202609301521",
+     "u": "https://www.fxstreet.com/news/eur-usd-price-forecast-monthly-outlook-mixed-daily-chart-remains-bearish-202609301810",
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 51.4
   },
   {
    "cat": "global",
@@ -643,7 +643,35 @@
      "t": "agg"
     }
    ],
-   "heat": 37.3
+   "heat": 44.5
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-01 02:30",
+   "title": "Forex Today: Fedspeak, Jobless Claims and ISM data steal the show",
+   "summary": "The US Dollar (USD) has traded with marginal gains, coming under pressure following daily tops near 101.50 as investors evaluated softer-than-expected PCE data in August and trimme…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/forex-today-fedspeak-claims-and-the-ism-data-steal-the-show-202609301830",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.5
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-01 02:02",
+   "title": "Gold can’t catch a PCE break as long US yields keep climbing",
+   "summary": "Gold prices (XAU/USD) retreated on Wednesday, down 0.6%, after US inflation data came in above the Federal Reserve’s (Fed) 2% goal but below estimates, prompting investors to price…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/gold-cant-catch-a-pce-break-as-long-us-yields-keep-climbing-202609301802",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.4
   },
   {
    "cat": "global",
@@ -657,21 +685,21 @@
      "t": "sec"
     }
    ],
-   "heat": 35.7
+   "heat": 35.0
   },
   {
    "cat": "global",
-   "time": "2026-09-30 23:00",
-   "title": "Stripe, Visa-Backed Consortium Launches Dollar Stablecoin",
-   "summary": "Open Standard, a company backed by more than 100 corporations, including Visa Inc., Stripe Inc., and Mastercard Inc., issued a US dollar-pegged stablecoin on Wednesday, marking one…",
+   "time": "2026-09-30 23:21",
+   "title": "British Pound catches second wind as soft PCE knocks Fed hike bets",
+   "summary": "The Pound Sterling (GBP) posts solid gains versus the US Dollar (USD) on Wednesday, edging up 0.42% as the latest US inflation figures were below estimates, reaffirming New York Fe…",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-30/stripe-visa-backed-consortium-launches-dollar-stablecoin",
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/the-british-pound-catches-second-wind-as-soft-pce-knocks-fed-hike-bets-202609301521",
      "t": "sec"
     }
    ],
-   "heat": 35.6
+   "heat": 34.9
   },
   {
    "cat": "global",
@@ -685,21 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-30 21:16",
-   "title": "Canadian Dollar gains as US inflation cools Fed October rate hike bets",
-   "summary": "USD/CAD declines 0.08% on Wednesday and trades around 1.4180 at the time of writing, after touching a daily low of 1.4155 in the wake of US inflation data. The pair recovered some …",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/canadian-dollar-gains-as-us-inflation-cools-fed-october-rate-hike-bets-202609301316",
-     "t": "sec"
-    }
-   ],
-   "heat": 35.3
+   "heat": 34.7
   },
   {
    "cat": "global",
@@ -713,7 +727,21 @@
      "t": "sec"
     }
    ],
-   "heat": 35.0
+   "heat": 34.2
+  },
+  {
+   "cat": "global",
+   "time": "2026-09-30 21:31",
+   "title": "Gold prices to snap two-month winning streak with a September loss of more than 6%",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/gold-steadies-after-16-gain-as-oil-drop-offsets-elevated-treasury-yields-4923962",
+     "t": "agg"
+    }
+   ],
+   "heat": 32.6
   },
   {
    "cat": "global",
@@ -727,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 32.6
+   "heat": 31.9
   },
   {
    "cat": "global",
@@ -741,7 +769,21 @@
      "t": "agg"
     }
    ],
-   "heat": 32.6
+   "heat": 31.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-01 04:16",
+   "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+   "summary": "It is unclear how long the recovery can be sustained given that it relies on the U.S. military protecting tankers in the Persian Gulf.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.8
   },
   {
    "cat": "global",
@@ -755,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 32.5
+   "heat": 31.8
   },
   {
    "cat": "global",
@@ -769,53 +811,11 @@
      "t": "agg"
     }
    ],
-   "heat": 32.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-30 15:08",
-   "title": "Gold Approaches a Critical Juncture Ahead of US PCE Data, Prompting Selling",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-approaches-a-critical-juncture-ahead-of-us-pce-data-prompting-selling-200688662",
-     "t": "agg"
-    }
-   ],
-   "heat": 32.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-09-30 14:55",
-   "title": "Gold Reacts at the 4H FVG: Will $4,200 Come Into Play?",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-reacts-at-the-4h-fvg-will-4200-come-into-play-200688659",
-     "t": "agg"
-    }
-   ],
-   "heat": 32.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-01 00:25",
-   "title": "ECB’s Lagarde warns France needs a credible path to rein in debt",
-   "summary": "The European Central Bank (ECB) Christine Lagarde said that France’s debt situation is “serious at 120% of GDP and without a path to lowering it,” at an interview with La Croix.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/ecbs-lagarde-warns-france-needs-a-credible-path-to-rein-in-debt-202609301625",
-     "t": "sec"
-    }
-   ],
    "heat": 31.8
   },
   {
    "cat": "crypto",
-   "time": "2026-09-30 21:18",
+   "time": "2026-10-01 03:37",
    "title": "Here’s what happened in crypto today",
    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
    "srcs": [
@@ -825,21 +825,21 @@
      "t": "sec"
     }
    ],
-   "heat": 67.3
+   "heat": 67.6
   },
   {
    "cat": "crypto",
-   "time": "2026-09-30 18:11",
-   "title": "Crypto hardware wallets compared for 2026",
-   "summary": "From touchscreen and QR-code devices to NFC cards and Bitcoin-only models, this guide compares hardware wallets by security, connectivity, usability and recovery options to help us…",
+   "time": "2026-09-30 18:18",
+   "title": "Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021",
+   "summary": "Crypto prices rose early Wednesday after better-than-forecast inflation data, but gave up those gains as interest rates continued to surge.",
    "srcs": [
     {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/magazine/crypto-hardware-wallets-compared-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
      "t": "sec"
     }
    ],
-   "heat": 58.8
+   "heat": 66.1
   },
   {
    "cat": "crypto",
@@ -853,7 +853,21 @@
      "t": "sec"
     }
    ],
-   "heat": 54.9
+   "heat": 62.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-01 03:11",
+   "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
+   "summary": "The organization’s endorsements in the House and Senate came as many polls showed Democrats favored to regain control of both chambers in 2027.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.6
   },
   {
    "cat": "crypto",
@@ -867,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.0
+   "heat": 51.3
   },
   {
    "cat": "crypto",
@@ -881,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.6
+   "heat": 50.9
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.5
+   "heat": 50.7
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.4
+   "heat": 50.6
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.3
+   "heat": 50.5
   },
   {
    "cat": "crypto",
@@ -937,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.1
+   "heat": 50.4
   },
   {
    "cat": "crypto",
@@ -951,49 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-30 18:12",
-   "title": "Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red",
-   "summary": "Ether ETFs shed $3 million Tuesday after seven days of inflows, following an $8 million outflow from Zcash funds at the start of the week.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-etf-streak-9-day-ether-zcash-flip-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 34.8
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-30 19:20",
-   "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
-   "summary": "Your day-ahead look for Sept. 30, 2026",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
-     "t": "sec"
-    }
-   ],
-   "heat": 27.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-09-30 18:18",
-   "title": "Live updates: Bitcoin returns to $84,000, giving up early gains",
-   "summary": "Core PCE prices rose just 0.2% in August versus the 0.3% forecast, and were higher by 3% year-over-year versus the 3.3% estimate.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
-     "t": "sec"
-    }
-   ],
-   "heat": 26.8
+   "heat": 50.3
   },
   {
    "cat": "crypto",
@@ -1007,35 +979,63 @@
      "t": "sec"
     }
    ],
-   "heat": 23.7
+   "heat": 31.0
   },
   {
    "cat": "crypto",
-   "time": "2026-09-30 23:19",
-   "title": "U.S. CFTC seeks event contract definitions that may defy states' gambling claims",
-   "summary": "As it battles with states over prediction markets, the CFTC sent two related rules on swaps definitions for White House review.",
+   "time": "2026-10-01 05:21",
+   "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
+   "summary": "Pete Hegseth, in remarks about the state of the military, announced a project led by two GOP-supporting tech executives to examine military capabilities.",
    "srcs": [
     {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html",
      "t": "sec"
     }
    ],
-   "heat": 15.7
+   "heat": 27.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-01 04:57",
+   "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+   "summary": "The bank also expects Ethena’s ENA token to rise roughly sevenfold to $2 by the end of 2028 as USDe scales and token buybacks increase.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-01 02:49",
+   "title": "Bloomberg brings onchain stablecoin data to its Terminal",
+   "summary": "Bloomberg’s Allium-powered dashboard gives Terminal users hourly data on stablecoin supply, issuance, transfers and activity across blockchain networks.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 23.5
   },
   {
    "cat": "sector",
-   "time": "2026-09-24 10:18",
-   "title": "10:18:57【谷歌即将发布旗舰AI模型Gemini 4】",
-   "summary": "10:18:57【谷歌即将发布旗舰AI模型Gemini 4】 &nbsp;&nbsp; 财联社",
+   "time": "2026-09-29 20:11",
+   "title": "海外研选 | 德银：Muse打开AI消费入口 2030年收入最高或超360亿美元",
+   "summary": "海外研选 | 德银：Muse打开AI消费入口 2030年收入最高或超360亿美元 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCUVRrY1BhQUVMV2hsYXpveERMTVZQRmpvZE1lV0dMVGJlVU9FOGw0SVpJTm9iajd4d05pWUFLRnE3VVVRajBHNw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCWE01dnctQWJIcU1IZGRHWlZsS2h3Qjc0OFI4allRcnBmak91WWZONzhQT29XZmFkUWdjb2xSc0ZzRG84TnQzcw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 216.0
+   "heat": 202.4
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.6
+   "heat": 206.8
   }
  ]
 }
