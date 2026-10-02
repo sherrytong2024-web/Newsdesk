@@ -1,61 +1,131 @@
 {
- "updated": "2026-10-03 01:09",
+ "updated": "2026-10-03 05:38",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-10-02 23:32",
-   "title": "Tesla Sales Top Estimates for Third Quarter",
-   "summary": "Elon Musk's Tesla delivered 486,532 vehicles in the third quarter topping the estimate of 463,761. Sales are still down from a year ago. Bloomberg's Craig Trudell reports. (Source:…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-02/tesla-sales-top-estimates-for-third-quarter-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-03 00:55",
-   "title": "Nvidia just hit a record high. Here’s why the stock still looks cheap to me",
-   "summary": "Nvidia looks historically cheap despite strong AI demand and expectations for continued revenue growth.",
+   "time": "2026-10-03 05:03",
+   "title": "Anthropic to invest $100 million to train AI engineer talent",
+   "summary": "Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/02/nvidia-is-a-best-in-breed-stock-on-sale-heres-why-im-buying.html",
+     "u": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
      "t": "sec"
     }
    ],
-   "heat": 212.0
+   "heat": 187.9
   },
   {
    "cat": "sector",
-   "time": "2026-10-03 00:38",
-   "title": "France’s Bond Crisis Deepens",
-   "summary": "Investors are heading for the exit as France's bond crisis deepens and political gridlock sets in. Georgia Hall explains. (Source: Bloomberg)",
+   "time": "2026-10-03 04:50",
+   "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
+   "summary": "Apple Inc. said it plans to introduce new privacy controls for Mac users, warning of the growing risks around granting broad data access to third-party software, including artifici…",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-02/france-s-bond-crisis-deepens-video",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
      "t": "sec"
     }
    ],
-   "heat": 211.9
+   "heat": 187.9
   },
   {
    "cat": "sector",
-   "time": "2026-10-03 00:35",
-   "title": "Putin Views Military Drills Against Aggression on Land, Caspian",
-   "summary": "Vladimir Putin observed military exercises involving thousands of troops under the aegis of the Russia-led Collective Security Treaty Organization.",
+   "time": "2026-10-03 04:10",
+   "title": "Hedge Funds Are Rebuilding Short Bets Against Japan’s Yen",
+   "summary": "Hedge funds rebuilt a short wager against the Japanese yen as the currency remains under pressure.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-02/putin-views-military-drills-against-aggression-on-land-caspian",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-02/hedge-funds-are-rebuilding-short-bets-against-japan-s-yen",
      "t": "sec"
     }
    ],
-   "heat": 211.9
+   "heat": 187.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-03 02:49",
+   "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+   "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-03 01:38",
+   "title": "Men are losing ground in the labor market. Here's why",
+   "summary": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-03 01:37",
+   "title": "Lockheed Taps OpenAI to Solve F-35 Challenges",
+   "summary": "Lockheed Martin is taking a model-agnostic approach to AI, using 55 different large language models across its business while applying the technology to everything from internal op…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-02/lockheed-taps-openai-to-solve-f-35-challenges-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-03 01:36",
+   "title": "Bloomberg Defense Tech Special 10/02/2026",
+   "summary": "Bloomberg’s Ed Ludlow is live from Skunk Works, Lockheed Martin's advanced aircraft development facility in Southern California. Lockheed Martin's OJ Sanchez and Sarah Hiza weigh i…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-02/bloomberg-defense-tech-special-10-02-2026-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-03 01:33",
+   "title": "Lockheed Backs Fortem’s Counter-Drone Push",
+   "summary": "Fortem has raised $50 million in Series B funding, with Lockheed Martin participating as the counter-drone company looks to rapidly expand manufacturing and bookings. CEO Jon Gruen…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-02/lockheed-backs-fortem-s-counter-drone-push-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-03 01:20",
+   "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
+   "summary": "Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.3
   },
   {
    "cat": "sector",
@@ -69,77 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-03 00:09",
-   "title": "Men are losing ground in the labor market. Here's why",
-   "summary": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-03 00:06",
-   "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
-   "summary": "Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 23:55",
-   "title": "US Job Growth Falls Short of Forecasts as Firms Remain Cautious",
-   "summary": "The US added fewer jobs than expected in September and wage growth slowed, signaling some caution among employers amid rising costs. Nonfarm payrolls increased 29,000 last month af…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-02/us-job-growth-falls-short-of-forecasts-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 23:45",
-   "title": "Manchester City Crisis Could Be Andy Burnham’s Biggest Test Yet",
-   "summary": "The Manchester City crisis pits the Prime Minister’s bid for UK investment against many English football fans.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-02/manchester-city-crisis-could-be-andy-burnham-s-biggest-test-yet",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 23:34",
-   "title": "The sector in the cross hairs of the bond sell-off looks poised for a bounce, says Mike Khouw",
-   "summary": "An interesting tug of war is happening in one of the market's hottest sectors: utilities.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/02/the-sector-in-the-cross-hairs-of-the-bond-sell-off-looks-poised-for-a-bounce-says-mike-khouw.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.7
+   "heat": 187.1
   }
  ]
 }
