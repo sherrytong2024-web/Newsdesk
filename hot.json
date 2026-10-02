@@ -1,38 +1,136 @@
 {
- "updated": "2026-10-02 04:00",
+ "updated": "2026-10-02 08:22",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-10-02 01:26",
-   "title": "New York City's 'click to cancel' subscription rule takes effect, joining states with similar laws",
-   "summary": "The Big Apple joins a growing number of jurisdictions adopting 'click to cancel' rules as the future of a federal standard remains unsettled.",
+   "time": "2026-10-02 06:18",
+   "title": "Software roared back last quarter. Cramer says these stocks can keep climbing",
+   "summary": "Software stocks bounced back from their AI-driven sell-off, while chip stocks cooled after a massive first-half run.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/01/new-york-city-click-to-cancel-subscription-rule-in-effect.html",
+     "u": "https://www.cnbc.com/2026/10/01/jim-cramer-software-stocks-q3.html",
      "t": "sec"
     }
    ],
-   "heat": 239.6
+   "heat": 243.7
   },
   {
    "cat": "sector",
-   "time": "2026-10-01 23:48",
-   "title": "Trump’s AI lunch included every major tech company. Except Apple",
-   "summary": "Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests.",
+   "time": "2026-10-02 05:00",
+   "title": "Nvidia Faces Questions Over China AI Chip Smuggling Cases",
+   "summary": "Nvidia’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases",
      "t": "sec"
     }
    ],
-   "heat": 239.3
+   "heat": 243.4
   },
   {
    "cat": "sector",
-   "time": "2026-10-02 03:55",
-   "title": "CNBC AI Forum live updates: How companies are scaling and securing AI",
+   "time": "2026-10-02 08:08",
+   "title": "What Do Entertainment Industry Leaders Look for in a Pitch?",
+   "summary": "Entertainment industry leaders share what they look for in order to greenlight a pitch today on the sidelines of the Bloomberg Screentime event in Los Angeles. (Source: Bloomberg)",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-02/what-do-entertainment-leaders-look-for-in-a-pitch-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 240.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 07:30",
+   "title": "SoftBank Investors Look Past Credit Risks to Gauge AI Upside",
+   "summary": "SoftBank Group Corp.’s equity investors are shrugging off worries about the Japanese company’s higher borrowing costs and focusing on potential returns from its bets on AI.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-01/softbank-investors-look-past-credit-risks-to-gauge-ai-upside",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 07:22",
+   "title": "RedBird's Cardinale on Paramount Future & Investing",
+   "summary": "RedBird Capital Partners Founder & Managing Partner, Gerry Cardinale discusses investment across sports, media and entertainment. Plus, the future of a Paramount Skydance, Warner B…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-01/redbird-s-cardinale-on-paramount-future-investing-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 07:01",
+   "title": "Getting Oil and Gas Through Hormuz Strait Is Dangerous Job for Ship Captains",
+   "summary": "A tanker captain’s first-hand&nbsp;account&nbsp;shows&nbsp;why flows&nbsp;from the Middle East are rising, despite the dangers&nbsp;of Iranian drones and&nbsp;missiles.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-01/getting-oil-and-gas-through-hormuz-strait-is-dangerous-job-for-ship-captains",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 07:01",
+   "title": "Stripe Expands Hiring in Dublin Helping Offset AI Job Losses",
+   "summary": "Stripe Inc. is expanding operations at its Dublin office, a boost to a city hit by a spate of artificial intelligence-related job cuts.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-01/stripe-expands-hiring-in-dublin-helping-offset-ai-job-losses",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 07:00",
+   "title": "Singapore Money-Laundering Case: Luxury Condos Find Few Buyers at Auction",
+   "summary": "Over 80 properties confiscated in the city state’s biggest money-laundering case are being auctioned off. Yet interest in the scandal is&nbsp;failing to translate into sales.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-01/singapore-money-laundering-case-luxury-condos-find-few-buyers-at-auction",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 06:46",
+   "title": "Suno's Mikey Shulman on the AI Music Landscape",
+   "summary": "Suno Co-Founder & CEO, Mikey Shulman discusses AI tools for music production, copyright disputes and emerging licensing models with Bloomberg’s Ashley Carman and Lucas Shaw at Bloo…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-01/suno-s-mikey-shulman-on-the-ai-music-landscape-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 06:45",
+   "title": "CNBC AI Forum takeaways: AI costs, security and scale in focus",
    "summary": "Follow CNBC AI Forum 2026 live updates from Dallas on enterprise AI, agents, security, costs, governance and the global technology race.",
    "srcs": [
     {
@@ -41,105 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 236.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 03:43",
-   "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
-   "summary": "Google is promising major advances in coding and cybersecurity, but the company is quickly falling behind in personal agents.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 236.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 03:37",
-   "title": "Amazon Jet Lacked Wind Data Before Deadly Miami Crash, NTSB Says",
-   "summary": "An air traffic controller didn’t provide an Amazon.com Inc. cargo plane with wind information prior to it crashing at Miami International Airport last month, killing five people on…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-01/amazon-plane-lacked-wind-data-prior-to-miami-crash-ntsb-says",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 03:21",
-   "title": "Worried about losing your points or miles? Here are 4 ways to keep your airline and hotel rewards from expiring",
-   "summary": "If you're worried about expiring rewards, there are plenty of ways to keep them alive. CNBC Select covers how to prevent airline and hotel rewards from expiring.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/select/how-to-keep-miles-and-points-from-expiring/",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 03:18",
-   "title": "United Airlines gets aggressive in battle for top Delta, American flyers",
-   "summary": "United Airlines launched an aggressive status match program for Delta and American's top frequent flyer elites.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 02:39",
-   "title": "Nike's new Caitlin Clark shoes are already almost sold out",
-   "summary": "Nike's Caitlin 1s, the first signature shoe for Indiana Fever basketball star Caitlin Clark, have nearly sold out less than two hours after their U.S. release.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/01/nikes-new-caitlin-clark-shoes-are-already-almost-sold-out.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 02:34",
-   "title": "CFPB Cuts May Leave Personal Financial Data at Risk, Report Says",
-   "summary": "US government databases containing sensitive financial information for millions of Americans may have been placed at risk after the Trump administration gutted the Consumer Financi…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-01/cfpb-cuts-may-leave-personal-financial-data-at-risk-report-says",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 02:27",
-   "title": "OpenAI Parts Ways With 3 Workers Over Mishandling Information",
-   "summary": "OpenAI has parted ways with three employees for violating company policies on how private information should be handled, including for allegedly sharing it with an outside group.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-01/openai-parts-ways-with-3-workers-over-mishandling-information",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.7
+   "heat": 239.7
   }
  ]
 }

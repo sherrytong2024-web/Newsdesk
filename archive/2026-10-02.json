@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02 04:00",
+ "updated": "2026-10-02 08:22",
  "items": [
   {
    "cat": "macro",
@@ -13,91 +13,63 @@
      "t": "agg"
     }
    ],
-   "heat": 147.6
+   "heat": 142.9
   },
   {
    "cat": "macro",
-   "time": "2026-10-02 03:55",
-   "title": "Paramount Fundamentally Hard Story to Invest In: Lloyd",
-   "summary": "Annie Seelaus, CEO of R. Seelaus, and John Lloyd, global head of multi-sector and corporate credit at Janus Henderson, join Emily Graffeo on \"Bloomberg Real Yield.\" This week Param…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-01/paramount-fundamentally-hard-story-to-invest-in-lloyd-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 124.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-02 03:24",
-   "title": "See 'Skittishness' Around Credit: Annie Seelaus",
-   "summary": "Annie Seelaus, CEO of R. Seelaus, and John Lloyd, global head of multi-sector and corporate credit at Janus Henderson, join Emily Graffeo on \"Bloomberg Real Yield.\" The spread on t…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-01/see-skittishness-around-credit-annie-seelaus-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 123.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-02 03:18",
-   "title": "Economy 'Running Firm', Not Overheating: Roth",
-   "summary": "Stephanie Roth, chief economist at Wolfe Research, and Guneet Dhingra, head of US rates strategy at BNP Paribas join Emily Graffeo on \"Bloomberg Real Yield.\" US Treasuries rebounde…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-01/economy-running-firm-not-overheating-roth-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 123.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-02 01:27",
-   "title": "Macro Matters: Rabobank’s Lawrence on Rates and Global Markets",
-   "summary": "With global bond yields at multi-decade highs and markets pricing further central-bank tightening, investors are reassessing the relative value of rates, equities and currencies. C…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-01/macro-matters-rabobank-s-lawrence-on-rates-and-global-markets",
-     "t": "sec"
-    }
-   ],
-   "heat": 123.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-01 06:19",
-   "title": "Stocks Rise as Yields Drop From Multi-Decade Highs: Markets Wrap",
-   "summary": "A rally in Treasuries brought relief to Wall Street, spurring gains in stocks and overshadowing concerns about inflationary pressures stemming from elevated energy costs.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-30/stock-market-today-dow-s-p-live-updates",
-     "t": "sec"
-    }
-   ],
-   "heat": 108.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-02 02:25",
-   "title": "Stocks rise in choppy first October session as Treasury yields ease from multidecade highs: Live updates",
-   "summary": "Stocks seesawed Thursday, with traders closely watching neck-breaking moves in Treasury yields, while a blockbuster earnings report failed to boost Micron shares.",
+   "time": "2026-10-02 07:09",
+   "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+   "summary": "Stocks posted modest gains on Thursday as October's trading kicked off. Treasury yields popped to multiyear highs before retreating later in the day.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html",
+     "u": "https://www.cnbc.com/2026/10/01/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
      "t": "sec"
     }
    ],
-   "heat": 103.7
+   "heat": 83.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-02 05:17",
+   "title": "Treasury yields fall from multiyear highs",
+   "summary": "Treasury yields were higher on Thursday as investors kept selling government debt.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 83.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-02 04:30",
+   "title": "Rising Yields Are Wreaking Havoc on Stocks Outside the AI Trade",
+   "summary": "After the 10-year Treasury yield rose as high as 5.34% for the first time since 2002, stock traders are fiercely debating when the selloff in bonds will start to trigger pain for a…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-01/rising-yields-are-wreaking-havoc-on-stocks-outside-the-ai-trade",
+     "t": "sec"
+    }
+   ],
+   "heat": 83.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-02 01:44",
+   "title": "Stock Market Today: S&P 500, Nasdaq Hold Up as Treasury Yields Surge - CryptoRank",
+   "summary": "Stock Market Today: S&P 500, Nasdaq Hold Up as Treasury Yields Surge &nbsp;&nbsp; CryptoRank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaVlMdjAxLURCRjdmbDVjSzk4LW5MMFA4Wkw1ZFhXMHNsNnpWcERKVXY2aFJBSTJiY1Zad0lEZ1VaLWlHUTFJRWZxMGJodDBDM2twbXc1aDYtS1BTSGNNdEhCTDktaS1tU3oyZHp1dTZTVnlKZU5XV1NRUV9qV1JxYUItcUhFWXZTVFlwc2pXMmxTZEZaWUVrSm9kOURBNUFCMTZndlBR?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 82.9
   },
   {
    "cat": "macro",
@@ -111,13 +83,13 @@
      "t": "sec"
     }
    ],
-   "heat": 102.9
+   "heat": 82.2
   },
   {
    "cat": "macro",
    "time": "2026-10-01 17:18",
-   "title": "S&P 500 turns higher as Treasury yields drop from highs - The Globe and Mail",
-   "summary": "S&P 500 turns higher as Treasury yields drop from highs &nbsp;&nbsp; The Globe and Mail",
+   "title": "U.S. stocks rebound to close higher as surging Treasury yields recede - The Globe and Mail",
+   "summary": "U.S. stocks rebound to close higher as surging Treasury yields recede &nbsp;&nbsp; The Globe and Mail",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -125,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 102.2
+   "heat": 81.5
   },
   {
    "cat": "macro",
@@ -139,7 +111,21 @@
      "t": "sec"
     }
    ],
-   "heat": 101.4
+   "heat": 80.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-01 23:36",
+   "title": "Equities rebound to close higher as surging Treasury yields recede",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/dow-futures-hit-threemonth-low-as-yields-surge-micron-earnings-offer-support-4926657",
+     "t": "agg"
+    }
+   ],
+   "heat": 80.5
   },
   {
    "cat": "macro",
@@ -153,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 98.8
+   "heat": 78.1
   },
   {
    "cat": "macro",
@@ -167,82 +153,194 @@
      "t": "sec"
     }
    ],
-   "heat": 96.0
+   "heat": 76.0
   },
   {
    "cat": "macro",
-   "time": "2026-10-02 03:37",
-   "title": "Muni 30-Year Yield Highest Since at Least 2011",
-   "summary": "Bloomberg's Shruti Singh and Aashna Shah join Emily Graffeo on \"Bloomberg Real Yield.\" A painful fixed-income selloff is eroding returns in state and local government debt, driving…",
+   "time": "2026-10-02 07:43",
+   "title": "Australia-US Bond Yield Gap Nears Zero as Policy Paths Diverge",
+   "summary": "Australia’s benchmark bond yield looks poised to fall below its US counterpart for the first time in over a year, as expectations for monetary policy in the two economies diverge.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-01/muni-30-year-yield-highest-since-at-least-2011-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-01/australia-us-bond-yield-gap-nears-zero-as-policy-paths-diverge",
      "t": "sec"
     }
    ],
-   "heat": 95.9
+   "heat": 75.9
   },
   {
    "cat": "macro",
-   "time": "2026-10-02 03:20",
-   "title": "US Yields Erases EM Bond Gains",
-   "summary": "Tara Hariharan, Co-CIO with NWI Management, joins Emily Graffeo on \"Bloomberg Real Yield.\" Dollar debt from countries in the emerging world has turned negative for the year, after …",
+   "time": "2026-10-02 07:13",
+   "title": "S&P 500 futures are little changed as September jobs report looms: Live updates",
+   "summary": "The major averages are heading for a losing week as the latest leg higher in yields keeps stocks under pressure.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-02 03:24",
+   "title": "Gold Holds Above $4,150 as Rising Yields Test the Market Ahead of US Payrolls",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-holds-above-4150-as-rising-yields-test-the-market-ahead-of-us-payrolls-200688796",
+     "t": "agg"
+    }
+   ],
+   "heat": 73.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-01 23:52",
+   "title": "Fed’s Logan says more rate hikes needed to curb sticky inflation",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/feds-logan-says-more-rate-hikes-needed-to-curb-sticky-inflation-4928700",
+     "t": "agg"
+    }
+   ],
+   "heat": 72.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 06:18",
+   "title": "Software roared back last quarter. Cramer says these stocks can keep climbing",
+   "summary": "Software stocks bounced back from their AI-driven sell-off, while chip stocks cooled after a massive first-half run.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/01/jim-cramer-software-stocks-q3.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 05:00",
+   "title": "Nvidia Faces Questions Over China AI Chip Smuggling Cases",
+   "summary": "Nvidia’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 08:08",
+   "title": "What Do Entertainment Industry Leaders Look for in a Pitch?",
+   "summary": "Entertainment industry leaders share what they look for in order to greenlight a pitch today on the sidelines of the Bloomberg Screentime event in Los Angeles. (Source: Bloomberg)",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-01/us-yields-erases-em-bond-gains-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-02/what-do-entertainment-leaders-look-for-in-a-pitch-video",
      "t": "sec"
     }
    ],
-   "heat": 95.9
+   "heat": 240.0
   },
   {
-   "cat": "macro",
-   "time": "2026-10-02 00:17",
-   "title": "US Bond Yields at 6% and a Debt Binge Pose a Threat for Risky Borrowers",
-   "summary": "Massive debt supply and high government bond yields is a dangerous mix for the riskiest borrowers.",
+   "cat": "sector",
+   "time": "2026-10-02 07:30",
+   "title": "SoftBank Investors Look Past Credit Risks to Gauge AI Upside",
+   "summary": "SoftBank Group Corp.’s equity investors are shrugging off worries about the Japanese company’s higher borrowing costs and focusing on potential returns from its bets on AI.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-01/softbank-investors-look-past-credit-risks-to-gauge-ai-upside",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 07:22",
+   "title": "RedBird's Cardinale on Paramount Future & Investing",
+   "summary": "RedBird Capital Partners Founder & Managing Partner, Gerry Cardinale discusses investment across sports, media and entertainment. Plus, the future of a Paramount Skydance, Warner B…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-01/redbird-s-cardinale-on-paramount-future-investing-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 07:01",
+   "title": "Getting Oil and Gas Through Hormuz Strait Is Dangerous Job for Ship Captains",
+   "summary": "A tanker captain’s first-hand&nbsp;account&nbsp;shows&nbsp;why flows&nbsp;from the Middle East are rising, despite the dangers&nbsp;of Iranian drones and&nbsp;missiles.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-01/getting-oil-and-gas-through-hormuz-strait-is-dangerous-job-for-ship-captains",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 07:01",
+   "title": "Stripe Expands Hiring in Dublin Helping Offset AI Job Losses",
+   "summary": "Stripe Inc. is expanding operations at its Dublin office, a boost to a city hit by a spate of artificial intelligence-related job cuts.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-01/stripe-expands-hiring-in-dublin-helping-offset-ai-job-losses",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 07:00",
+   "title": "Singapore Money-Laundering Case: Luxury Condos Find Few Buyers at Auction",
+   "summary": "Over 80 properties confiscated in the city state’s biggest money-laundering case are being auctioned off. Yet interest in the scandal is&nbsp;failing to translate into sales.",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-01/us-bond-yields-at-6-and-a-debt-binge-pose-a-threat-for-risky-borrowers",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-01/singapore-money-laundering-case-luxury-condos-find-few-buyers-at-auction",
      "t": "sec"
     }
    ],
-   "heat": 95.4
+   "heat": 239.8
   },
   {
    "cat": "sector",
-   "time": "2026-10-02 01:26",
-   "title": "New York City's 'click to cancel' subscription rule takes effect, joining states with similar laws",
-   "summary": "The Big Apple joins a growing number of jurisdictions adopting 'click to cancel' rules as the future of a federal standard remains unsettled.",
+   "time": "2026-10-02 06:46",
+   "title": "Suno's Mikey Shulman on the AI Music Landscape",
+   "summary": "Suno Co-Founder & CEO, Mikey Shulman discusses AI tools for music production, copyright disputes and emerging licensing models with Bloomberg’s Ashley Carman and Lucas Shaw at Bloo…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/01/new-york-city-click-to-cancel-subscription-rule-in-effect.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-01/suno-s-mikey-shulman-on-the-ai-music-landscape-video",
      "t": "sec"
     }
    ],
-   "heat": 239.6
+   "heat": 239.7
   },
   {
    "cat": "sector",
-   "time": "2026-10-01 23:48",
-   "title": "Trump’s AI lunch included every major tech company. Except Apple",
-   "summary": "Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 03:55",
-   "title": "CNBC AI Forum live updates: How companies are scaling and securing AI",
+   "time": "2026-10-02 06:45",
+   "title": "CNBC AI Forum takeaways: AI costs, security and scale in focus",
    "summary": "Follow CNBC AI Forum 2026 live updates from Dallas on enterprise AI, agents, security, costs, governance and the global technology race.",
    "srcs": [
     {
@@ -251,133 +349,77 @@
      "t": "sec"
     }
    ],
-   "heat": 236.0
+   "heat": 239.7
   },
   {
    "cat": "sector",
-   "time": "2026-10-02 03:43",
-   "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
-   "summary": "Google is promising major advances in coding and cybersecurity, but the company is quickly falling behind in personal agents.",
+   "time": "2026-10-02 06:03",
+   "title": "Latest Oil Market News and Analysis for Oct. 2",
+   "summary": "Oil steadied after a two-day gain as the US mulled sending another aircraft carrier group to the Middle East, potentially escalating the war with Iran and threatening to hamper a r…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-01/latest-oil-market-news-and-analysis-for-oct-2",
      "t": "sec"
     }
    ],
-   "heat": 236.0
+   "heat": 239.6
   },
   {
    "cat": "sector",
-   "time": "2026-10-02 03:37",
-   "title": "Amazon Jet Lacked Wind Data Before Deadly Miami Crash, NTSB Says",
-   "summary": "An air traffic controller didn’t provide an Amazon.com Inc. cargo plane with wind information prior to it crashing at Miami International Airport last month, killing five people on…",
+   "time": "2026-10-02 06:02",
+   "title": "'Shameless' Actor Noel Fisher on AI in Hollywood",
+   "summary": "Noel Fisher, actor & founder of Prototype Productions, joins Bloomberg Businessweek Daily to discuss the economics of streaming and artificial intelligence's growing presence in th…",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-01/amazon-plane-lacked-wind-data-prior-to-miami-crash-ntsb-says",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-01/-shameless-actor-noel-fisher-on-ai-in-hollywood-video",
      "t": "sec"
     }
    ],
-   "heat": 235.9
+   "heat": 239.6
   },
   {
    "cat": "sector",
-   "time": "2026-10-02 03:21",
-   "title": "Worried about losing your points or miles? Here are 4 ways to keep your airline and hotel rewards from expiring",
-   "summary": "If you're worried about expiring rewards, there are plenty of ways to keep them alive. CNBC Select covers how to prevent airline and hotel rewards from expiring.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/select/how-to-keep-miles-and-points-from-expiring/",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 03:18",
-   "title": "United Airlines gets aggressive in battle for top Delta, American flyers",
-   "summary": "United Airlines launched an aggressive status match program for Delta and American's top frequent flyer elites.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 02:39",
-   "title": "Nike's new Caitlin Clark shoes are already almost sold out",
-   "summary": "Nike's Caitlin 1s, the first signature shoe for Indiana Fever basketball star Caitlin Clark, have nearly sold out less than two hours after their U.S. release.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/01/nikes-new-caitlin-clark-shoes-are-already-almost-sold-out.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 02:34",
-   "title": "CFPB Cuts May Leave Personal Financial Data at Risk, Report Says",
-   "summary": "US government databases containing sensitive financial information for millions of Americans may have been placed at risk after the Trump administration gutted the Consumer Financi…",
+   "time": "2026-10-02 05:43",
+   "title": "EY-Parthenon’s Guerzoni on Latest CEO Outlook Survey",
+   "summary": "In an exclusive interview on Bloomberg The Close, Andrea Guerzoni, EY Global Vice Chair, discusses a pullback in EY Parthenon’s latest CEO outlook survey. Guerzoni points to the su…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-01/cfpb-cuts-may-leave-personal-financial-data-at-risk-report-says",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-01/ey-parthenon-s-guerzoni-on-latest-ceo-outlook-survey-video",
      "t": "sec"
     }
    ],
-   "heat": 235.8
+   "heat": 239.6
   },
   {
-   "cat": "sector",
-   "time": "2026-10-02 02:27",
-   "title": "OpenAI Parts Ways With 3 Workers Over Mishandling Information",
-   "summary": "OpenAI has parted ways with three employees for violating company policies on how private information should be handled, including for allegedly sharing it with an outside group.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-01/openai-parts-ways-with-3-workers-over-mishandling-information",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 02:07",
-   "title": "FlyDubai Pilot Probe, Anthropic Could Go Public by Thanksgiving",
+   "cat": "stock",
+   "time": "2026-10-02 06:00",
+   "title": "Stock Movers: Entertainment Stocks Fall, Nike Falls (Podcast)",
    "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-01/flydubai-pilot-probe-anthropic-could-go-public-by-thanksgiving",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-01/stock-movers-entertainment-stocks-fall-nike-falls-podcast",
      "t": "sec"
     }
    ],
-   "heat": 235.7
+   "heat": 71.6
   },
   {
-   "cat": "sector",
-   "time": "2026-10-02 01:45",
-   "title": "AI Folks Don't Really Understand Intelligence Says Mukunda",
-   "summary": "A vast majority of Americans favor requiring artificial intelligence companies to meet independent safety benchmarks for their models, even if those standards mean slowing developm…",
+   "cat": "stock",
+   "time": "2026-10-02 04:50",
+   "title": "Stock Movers: Disney, Mattel, Elf Beauty (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-01/ai-folks-don-t-really-understand-intelligence-mukunda-video",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-01/stock-movers-disney-mattel-elf-beauty-podcast",
      "t": "sec"
     }
    ],
-   "heat": 235.6
+   "heat": 71.4
   },
   {
    "cat": "stock",
@@ -391,13 +433,13 @@
      "t": "sec"
     }
    ],
-   "heat": 71.9
+   "heat": 71.2
   },
   {
    "cat": "stock",
    "time": "2026-10-01 23:18",
-   "title": "US Stock Market predictions for Quarter 4: November midterm elections 2026, list of factors, concerns that - The Economi",
-   "summary": "US Stock Market predictions for Quarter 4: November midterm elections 2026, list of factors, concerns that &nbsp;&nbsp; The Economic Times",
+   "title": "US Stock Market predictions for Quarter 4: November midterm elections 2026, list of factors, concerns that - economictim",
+   "summary": "US Stock Market predictions for Quarter 4: November midterm elections 2026, list of factors, concerns that &nbsp;&nbsp; economictimes.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -405,13 +447,41 @@
      "t": "sec"
     }
    ],
-   "heat": 71.2
+   "heat": 70.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-01 20:41",
+   "title": "U.S. stock futures point to a positive open for Wall Street to kick off October By Investing.com - Investing.com South A",
+   "summary": "U.S. stock futures point to a positive open for Wall Street to kick off October By Investing.com &nbsp;&nbsp; Investing.com South Africa",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUg4YVlicHFuVXdDdHZUUlFqUE1XajVGakVMYUpEeTNEQU5XNE9QQkpjeHlhZVB5RWllQThWOHhRVTlycWtoTVRrYW53Z0RJUHA5a1owWkpCOVJ0UGUtYXBVYk1FYktkeUp1bTJFQTFtTC1Sa195dmg5aUNqSUN6Ml9GNU43RDRBMzVFUndtcXpQOVFVaUNCOGJCS0gxXzdLeVhIQXIzQ0p4bUVxMkJr?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 70.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-01 23:46",
+   "title": "Reddit CEO Steve Huffman sells $2.5m in stock, exercises options",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/reddit-ceo-steve-huffman-sells-25m-in-stock-exercises-options-93CH-4928697",
+     "t": "agg"
+    }
+   ],
+   "heat": 68.6
   },
   {
    "cat": "stock",
    "time": "2026-10-01 08:19",
-   "title": "U.S. Stock Market prediction for Thursday, October 1: Check Wall Street sectors, key factors that will dri - The Economi",
-   "summary": "U.S. Stock Market prediction for Thursday, October 1: Check Wall Street sectors, key factors that will dri &nbsp;&nbsp; The Economic Times",
+   "title": "U.S. Stock Market prediction for Thursday, October 1: Check Wall Street sectors, key factors that will dri - economictim",
+   "summary": "U.S. Stock Market prediction for Thursday, October 1: Check Wall Street sectors, key factors that will dri &nbsp;&nbsp; economictimes.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -419,49 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-01 19:40",
-   "title": "Bassett Furniture stock rating upgraded to Buy at Freedom Broker",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/bassett-furniture-stock-rating-upgraded-to-buy-at-freedom-broker-93CH-4928177",
-     "t": "agg"
-    }
-   ],
-   "heat": 68.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-01 19:32",
-   "title": "Dynatrace stock hits 52-week high at 59.41 USD",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/company-news/dynatrace-stock-hits-52week-high-at-5941-usd-93CH-4928171",
-     "t": "agg"
-    }
-   ],
-   "heat": 68.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-01 19:31",
-   "title": "Twilio stock hits 52-week high at $304.85",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/company-news/twilio-stock-hits-52week-high-at-30485-93CH-4928170",
-     "t": "agg"
-    }
-   ],
-   "heat": 68.6
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -475,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.3
+   "heat": 67.5
   },
   {
    "cat": "stock",
@@ -489,13 +517,13 @@
      "t": "sec"
     }
    ],
-   "heat": 68.1
+   "heat": 67.4
   },
   {
    "cat": "stock",
    "time": "2026-09-30 08:20",
-   "title": "U.S. Stock Market Prediction for Wednesday, September 30: S&P 500, Dow Jones, Nasdaq, Russell 2000 look to - The Economi",
-   "summary": "U.S. Stock Market Prediction for Wednesday, September 30: S&P 500, Dow Jones, Nasdaq, Russell 2000 look to &nbsp;&nbsp; The Economic Times",
+   "title": "U.S. Stock Market Prediction for Wednesday, September 30: S&P 500, Dow Jones, Nasdaq, Russell 2000 look to - economictim",
+   "summary": "U.S. Stock Market Prediction for Wednesday, September 30: S&P 500, Dow Jones, Nasdaq, Russell 2000 look to &nbsp;&nbsp; economictimes.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -503,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 64.7
+   "heat": 64.0
   },
   {
    "cat": "stock",
@@ -536,8 +564,8 @@
   {
    "cat": "stock",
    "time": "2026-09-28 23:15",
-   "title": "Why are the Dow Jones, S&P 500 and Nasdaq falling today? The reasons behind the selloff from tech stocks t - The Economi",
-   "summary": "Why are the Dow Jones, S&P 500 and Nasdaq falling today? The reasons behind the selloff from tech stocks t &nbsp;&nbsp; The Economic Times",
+   "title": "Why are the Dow Jones, S&P 500 and Nasdaq falling today? The reasons behind the selloff from tech stocks t - economictim",
+   "summary": "Why are the Dow Jones, S&P 500 and Nasdaq falling today? The reasons behind the selloff from tech stocks t &nbsp;&nbsp; economictimes.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -576,20 +604,6 @@
    "heat": 64.0
   },
   {
-   "cat": "stock",
-   "time": "2026-09-26 01:14",
-   "title": "Wall Street edges higher as AI stocks gain, oil prices ease; Dow up 177 points, S&P 500 gains 0.2% - The Times of India",
-   "summary": "Wall Street edges higher as AI stocks gain, oil prices ease; Dow up 177 points, S&P 500 gains 0.2% &nbsp;&nbsp; The Times of India",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOYWxwTmRkaFVYcmNjaW5jd1A3am8waV9ZVW84TkZNVmM5NV9QSUVRXzU4Z1Z4Yk4xQm41c3ZBVWR2R3VsUHJ0ZnlDeEV6N2ppLWdjSFE4TXZwWUNIM0twZG9jalA4cVhLMnlRTE1TZ0ZWcE9idEtnb1Qxck5FMW9DcDlhTnIzSm15SW1KR1BOeEsyV09MY0lfaTNnT2RzcnQxNHM5aUs4T2RXM2JqbUtjQzF4M0RXU1FCV2RNOHFHYzhvdm5xSGRMUDhabnZKWnM5cTBNamp5Qnh3S2FyLUFYLUVKMW5TNW96Z2ktRnNMZ1JvMzV6blFwVTFONUU4Z2lVQVFXYV85Uk00cUwyYmhmdC03LXdjd9IBmwJBVV95cUxNZFBwUlVGR0VQN0Y1RGQ5M182dWlTMHNmT25mc1BMajZwS3ZzVzhOU2hFRGdfZ2ZXOFFEOUtxSzVzODVCWE9sbVFoUV9ZdWZyYmlSVFM4enM2QnR4NkJsSmlzM2h4ekxuMnc3T0VRYkp3Mi1rcWdRODRWV3MyTGZQaC1MQ2JmRDZvZzdsVlFmOUN2cUlqZlRUMlR6U2V0Ty1lOWlLLUdzM05ELWVQQ1VOS01Yd0txcDk0ODhuN19Jdm9ZaWFvUTRSU1J6Y0RFeDA1Ykh3Zm5kVnptdzlQNXpMM1BCMnNpVjJsQWM1UFhsWV9YNEZrcnVqT2FJYXp1bGlELWF4UjZXXzZhSzRfRlJtU1hTaVN5VXBJcFA0?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 64.0
-  },
-  {
    "cat": "global",
    "time": "2026-10-02 02:59",
    "title": "Dollar Index breaks its June peak as the Euro sinks on dearer Crude Oil",
@@ -601,7 +615,21 @@
      "t": "sec"
     }
    ],
-   "heat": 99.8
+   "heat": 87.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-02 06:15",
+   "title": "Asian Stocks Fall, Bonds in Focus After Rally: Markets Wrap",
+   "summary": "Asian stocks declined as oil surged on the prospect of renewed US-Iran conflict, reviving inflation concerns. Bonds will be in focus after Treasuries rebounded in the New York sess…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-01/asian-stocks-to-fall-on-oil-rally-bonds-in-focus-markets-wrap",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.6
   },
   {
    "cat": "global",
@@ -615,63 +643,35 @@
      "t": "agg"
     }
    ],
-   "heat": 80.1
+   "heat": 67.4
   },
   {
    "cat": "global",
-   "time": "2026-10-01 23:08",
-   "title": "Euro hits fresh yearly low as strong US data keeps Fed tightening in play",
-   "summary": "EUR/USD extends its decline on Thursday, falling to its lowest level since May 2025 and setting a fresh year-to-date low as the US Dollar (USD) remains firmly supported by elevated…",
+   "time": "2026-10-02 04:41",
+   "title": "Europe’s winter energy crunch may already be underway. Two U.S. stocks that may benefit",
+   "summary": "BP's largest oil discovery in 25 years. What it means for the stock.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/01/europes-winter-energy-crunch-may-already-be-underway-two-us-stocks-that-may-benefit.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-02 06:32",
+   "title": "The Euro sells off hard as the French-German bond gap widens",
+   "summary": "France unveiled a 2027 budget on Thursday aimed at reassuring the investors who lend it money, and EUR/USD is heading for its biggest one-day loss since June 17. Those investors al…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/euro-hits-fresh-yearly-low-as-strong-us-data-keeps-fed-tightening-in-play-202610011508",
+     "u": "https://www.fxstreet.com/news/the-euro-sells-off-hard-as-the-french-german-bond-gap-widens-202610012232",
      "t": "sec"
     }
    ],
-   "heat": 63.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-01 20:35",
-   "title": "Paramount’s $41 Billion of M&A Bonds Slump as Trading Begins",
-   "summary": "Just hours after Paramount Skydance Corp. issued $52 billion of debt to fund the biggest Hollywood buyout ever, investors were nursing hundreds of millions of dollars in losses, tr…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-01/paramount-s-41-billion-of-m-a-bonds-slump-as-trading-begins",
-     "t": "sec"
-    }
-   ],
-   "heat": 62.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-02 01:04",
-   "title": "Forex Today: US NFP takes centre stage",
-   "summary": "The US Dollar (USD) has advanced further on Thursday, trading in levels last seen in early April 2025 on the back of the marked improvement in the sentiment surrounding the US Doll…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/forex-today-us-nfp-takes-centre-stage-202610011704",
-     "t": "sec"
-    }
-   ],
-   "heat": 55.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-01 19:25",
-   "title": "Gold struggles as elevated US Treasury yields outweigh dovish Fed repricing",
-   "summary": "Gold (XAU/USD) treads water on Thursday as a stronger US Dollar (USD) and elevated US Treasury yields limit the upside.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/gold-struggles-as-rising-us-treasury-yields-outweigh-dovish-fed-repricing-202610011125",
-     "t": "sec"
-    }
-   ],
-   "heat": 54.6
+   "heat": 51.7
   },
   {
    "cat": "global",
@@ -685,49 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-02 02:17",
-   "title": "US Dollar Index Price Forecast: DXY reaches fresh yearly high, but RSI turns overbought",
-   "summary": "The US Dollar Index (DXY) rally gathers pace on Thursday, climbing to a fresh year-to-date high as resilient US economic growth, a firm labour market and stubborn inflation support…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-reaches-fresh-yearly-high-but-rsi-turns-overbought-202610011817",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-02 00:09",
-   "title": "Japanese Yen recovers as intervention risk offsets US Dollar strength",
-   "summary": "USD/JPY reverses its earlier gains on Thursday as traders hesitate to push the pair higher amid the risk of intervention by Japanese authorities. This allows the Japanese Yen (JPY)…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/japanese-yen-recovers-as-intervention-risk-offsets-us-dollar-strength-202610011609",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-02 00:09",
-   "title": "Australian Dollar weakens as robust US data, rising US yields overshadow RBA rate hike",
-   "summary": "AUD/USD falls to around 0.6910 on Thursday at the time of writing, down 0.48% on the day. The Australian Dollar (AUD) loses ground against the US Dollar (USD) despite the Reserve B…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/australian-dollar-weakens-as-robust-us-data-rising-us-yields-overshadow-rba-rate-hike-202610011609",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.4
+   "heat": 51.2
   },
   {
    "cat": "global",
@@ -741,49 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-01 22:17",
-   "title": "Canadian Dollar steadies as Fed pause bets clash with resilient US economy",
-   "summary": "USD/CAD trades around 1.4240 at the time of writing on Thursday, little changed on the day with a modest 0.07% gain.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-fed-pause-bets-clash-with-resilient-us-economy-202610011417",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-01 19:04",
-   "title": "US Dollar Is on a Roll",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-is-on-a-roll-200688745",
-     "t": "agg"
-    }
-   ],
-   "heat": 48.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-01 06:02",
-   "title": "Latest Oil Market News and Analysis for Oct. 1",
-   "summary": "Oil rose back over the $100 mark as investors weighed a potential return to active conflict between the US and Iran, a prospect that could further tighten crude oil and refined pro…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-09-30/latest-oil-market-news-and-analysis-for-oct-1",
-     "t": "sec"
-    }
-   ],
-   "heat": 48.3
+   "heat": 50.6
   },
   {
    "cat": "global",
@@ -797,11 +713,109 @@
      "t": "agg"
     }
    ],
-   "heat": 45.0
+   "heat": 44.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-01 21:09",
+   "title": "Oil Prices Slide as Gulf Flows Return Toward Pre-War Levels",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-prices-slide-as-gulf-flows-return-toward-prewar-levels-200688771",
+     "t": "agg"
+    }
+   ],
+   "heat": 44.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-02 07:49",
+   "title": "Gold recovers above $4,150 as US yields retreat ahead of US September jobs data",
+   "summary": "Gold price (XAU/USD) rises to near $4,180 during the early Asian session on Friday. The precious metal rebounds as US Treasury bond yields retreat from multi-decade highs.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/gold-recovers-above-4-150-as-us-yields-retreat-ahead-of-us-september-jobs-data-202610012349",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-02 05:03",
+   "title": "Gold defies US Dollar surge as US yield slide revives Bullion demand",
+   "summary": "Gold price drifted higher, posting modest gains of over 0.40% on Thursday as US Treasury yields dove after Wednesday's inflation data, triggering a trimming of hawkish Fed bets for…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/gold-defies-us-dollar-surge-as-us-yield-slide-revives-bullion-demand-202610012103",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-01 16:49",
+   "title": "Oil Falls as Middle East Supply Fears Ease",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-falls-as-middle-east-supply-fears-ease-200688746",
+     "t": "agg"
+    }
+   ],
+   "heat": 43.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-01 16:30",
+   "title": "Oil Futures Surge Amid Renewed Focus on the Absence of the Settlement in the ME",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-futures-surge-amid-renewed-focus-on-the-absence-of-the-settlement-in-the-me-200688743",
+     "t": "agg"
+    }
+   ],
+   "heat": 43.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-02 04:22",
+   "title": "Gold’s Failed Rally Reveals the Real Market Driver: US Dollar Strength",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/golds-failed-rally-reveals-the-real-market-driver-us-dollar-strength-200688798",
+     "t": "agg"
+    }
+   ],
+   "heat": 41.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-02 07:17",
+   "title": "Australian Dollar drifts toward 0.69 as USD shrugs off Fed patience",
+   "summary": "The Aussie Dollar drifts lower, down 0.26% against the US Dollar, as the latter extends its gains for the fourth straight day amid continued trimming of Fed-hawkish bets, while Fed…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/australian-dollar-drifts-toward-069-as-usd-shrugs-off-fed-patience-202610012317",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.8
   },
   {
    "cat": "crypto",
-   "time": "2026-10-01 21:08",
+   "time": "2026-10-02 04:07",
    "title": "Here’s what happened in crypto today",
    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
    "srcs": [
@@ -811,7 +825,21 @@
      "t": "sec"
     }
    ],
-   "heat": 66.9
+   "heat": 71.3
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-02 04:56",
+   "title": "Three reasons why bitcoin's recent bounce could be the start of a bigger bullish move",
+   "summary": "Frank Cappelleri takes you through multiple charts on the cryptocurrency's recent move.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/01/three-reasons-why-bitcoins-recent-bounce-could-be-the-start-of-a-bigger-bullish-move.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 63.4
   },
   {
    "cat": "crypto",
@@ -825,35 +853,35 @@
      "t": "sec"
     }
    ],
-   "heat": 58.6
+   "heat": 61.9
   },
   {
    "cat": "crypto",
-   "time": "2026-10-01 18:30",
-   "title": "Bitcoin trapped below $86K as PCE changes cloud inflation reading",
-   "summary": "Bitcoin erased its post-PCE gains as analysts cautioned that methodology changes complicated the lower-than-expected inflation reading.",
+   "time": "2026-10-02 07:17",
+   "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
+   "summary": "Singapore’s crypto economy grows 55%, South Korea set to make crypto market makers legal, and Chinese spy ministry warns would-be foreign spies it’s watching the blockchain.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 50.4
+   "heat": 51.8
   },
   {
    "cat": "crypto",
-   "time": "2026-10-01 17:59",
-   "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-   "summary": "Citi also raised its 12-month target for ether from from $2,240 to $3,028.",
+   "time": "2026-10-02 04:20",
+   "title": "SEC proposes new crypto custody rules for investment advisers and funds",
+   "summary": "The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
+     "u": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
      "t": "sec"
     }
    ],
-   "heat": 50.3
+   "heat": 51.3
   },
   {
    "cat": "crypto",
@@ -867,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 50.9
   },
   {
    "cat": "crypto",
@@ -881,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.4
+   "heat": 50.6
   },
   {
    "cat": "crypto",
@@ -895,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.2
+   "heat": 50.4
   },
   {
    "cat": "crypto",
@@ -909,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.0
+   "heat": 50.3
   },
   {
    "cat": "crypto",
@@ -923,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.9
+   "heat": 50.2
   },
   {
    "cat": "crypto",
@@ -937,7 +965,21 @@
      "t": "sec"
     }
    ],
-   "heat": 38.7
+   "heat": 49.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-01 17:59",
+   "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+   "summary": "Citi also raised its 12-month target for ether from from $2,240 to $3,028.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
+     "t": "sec"
+    }
+   ],
+   "heat": 45.6
   },
   {
    "cat": "crypto",
@@ -951,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.8
+   "heat": 31.1
   },
   {
    "cat": "crypto",
@@ -965,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.3
+   "heat": 30.6
   },
   {
    "cat": "crypto",
@@ -979,49 +1021,21 @@
      "t": "sec"
     }
    ],
-   "heat": 34.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-01 18:38",
-   "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
-   "summary": "Prices briefly topped $85,000 on Wednesday after weaker-than-expected U.S. inflation cooled bets on Fed rate hikes, But bulls couldn’t hold the move and spot ETFs didn’t help.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
-     "t": "sec"
-    }
-   ],
-   "heat": 34.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-01 12:15",
-   "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
-   "summary": "A cooler-than-expected PCE report sent bitcoin briefly above $85,000 on Wednesday. Treasury yields held near their highest since 2002 and the gains drained away.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
-     "t": "sec"
-    }
-   ],
-   "heat": 33.4
+   "heat": 30.2
   },
   {
    "cat": "sector",
-   "time": "2026-10-01 06:52",
-   "title": "06:52:21 财联社10月1日电，白宫AI主管Sacks称，众多AI企业近日围绕新版内部控制、审计达成共识。",
-   "summary": "06:52:21 财联社10月1日电，白宫AI主管Sacks称，众多AI企业近日围绕新版内部控制、审计达成共识。 &nbsp;&nbsp; 财联社",
+   "time": "2026-09-29 12:17",
+   "title": "12:17:09【麦肯锡：AI或迫使1100万美国劳动者转向新职业】",
+   "summary": "12:17:09【麦肯锡：AI或迫使1100万美国劳动者转向新职业】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43eXBQd2dLX01raHF2SEJYX2NYazBVWTVtTGw5YUhSSDRKbmVmMXhYNW9qQzVZbVFxeGtJSzI5QXNxS1VxQTFnWQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfZVFSSmpqM0pVZlpyYkhsVHNvWFJCSGJQSnRMZU9XRHBPMXVtaUhMcHI1cmpsck9ua2VCUVhzMzZfWGkwM25jVw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 232.5
+   "heat": 232.0
   },
   {
    "cat": "sector",
@@ -1035,21 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 234.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-02 01:42",
-   "title": "Oil Above $100 Signals the Market Is Pricing Fuel Scarcity Again",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-above-100-signals-the-market-is-pricing-fuel-scarcity-again-200688791",
-     "t": "agg"
-    }
-   ],
-   "heat": 233.6
+   "heat": 237.3
   }
  ]
 }
