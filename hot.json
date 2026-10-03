@@ -1,6 +1,104 @@
 {
- "updated": "2026-10-03 11:08",
+ "updated": "2026-10-03 18:53",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-10-03 18:35",
+   "title": "Iran Pressure Builds Amid US Troop Boost, FlyDubai Terror Attack",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-03/iran-pressure-builds-amid-us-troop-boost-flydubai-terror-attack",
+     "t": "sec"
+    }
+   ],
+   "heat": 103.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-03 16:11",
+   "title": "War, Cyber Attack May Spark Next Financial Crisis, RBI Says",
+   "summary": "The next financial crisis could originate from a source outside the world of finance, Reserve Bank of India Governor Sanjay Malhotra said Saturday.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-03/war-cyber-attack-could-trigger-next-financial-crisis-rbi-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 103.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-03 15:38",
+   "title": "Flydubai co-pilot attacked pilot with axe, attempted 'terrorist' attack, UAE says",
+   "summary": "The co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 103.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-03 15:32",
+   "title": "Malaysia Eyes $245 Million Naval Missile System, Star Reports",
+   "summary": "Malaysia’s defense minister said the government is considering spending more than 1 billion ringgit ($245 million) on a new naval strike missile system after a deal with Norway col…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-03/malaysia-eyes-245-million-naval-missile-system-star-reports",
+     "t": "sec"
+    }
+   ],
+   "heat": 103.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-03 14:00",
+   "title": "Top McKinsey executive reveals Asian owner-CEOs' secrets to success",
+   "summary": "Gautam Kumra, Asia chairman at consultancy McKinsey & Co., researched the qualities of Asia's best owner-CEOs.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/03/mckinsey-asian-leaders-success-ambani-mahindra.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 103.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-03 13:00",
+   "title": "America’s data center fight is a preview of what's to come for the rest of the world",
+   "summary": "America’s fight over data centers is going global. Communities across Europe and Asia are pushing back over the rising costs of the AI infrastructure boom.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 103.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-03 11:27",
+   "title": "Taiwan Foreign Minister to Visit Arizona to Deepen Economic Ties",
+   "summary": "Taiwan’s foreign minister is set to visit Arizona for meetings with local officials and semiconductor companies, underscoring Taipei’s effort to deepen economic ties with the US as…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-03/taiwan-foreign-minister-to-visit-arizona-to-deepen-economic-ties",
+     "t": "sec"
+    }
+   ],
+   "heat": 102.8
+  },
   {
    "cat": "sector",
    "time": "2026-10-03 10:25",
@@ -13,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 195.9
+   "heat": 102.6
   },
   {
    "cat": "sector",
@@ -27,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 195.6
+   "heat": 102.4
   },
   {
    "cat": "sector",
@@ -41,105 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 195.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-03 07:12",
-   "title": "Wall Street Week | Your Brain on AI, Rare Earth Race, College Enrollment Cliff",
-   "summary": "This week, National Economic Council Director Kevin Hassett says AI’s productivity boost may be much larger than official economic data currently indicate. And, AI companies are la…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-02/wall-street-week-rare-earth-race-enrollment-cliff-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 195.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-03 06:15",
-   "title": "NYU's Gary Marcus on AI development concerns",
-   "summary": "Gary Marcus, Robust AI Inc. co-founder and former CEO, argues that developers, including OpenAI, lack sufficient safeguards for systems they can't reliably control. He speaks with …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-02/nyu-s-gary-marcus-on-ai-development-concerns-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 195.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-03 06:01",
-   "title": "Apple iPhone 18 Pro Max AT&T Glitch Requires Device Replacements",
-   "summary": "Apple Inc. said “a small number” of AT&amp;T Inc. customers who recently upgraded to the company’s iPhone 18 Pro Max will need to replace their devices after a bug caused them to l…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-02/apple-iphone-18-pro-max-at-t-glitch-requires-device-replacements",
-     "t": "sec"
-    }
-   ],
-   "heat": 195.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-03 05:47",
-   "title": "Pam Bondi’s Secret DOJ Email Address Revealed",
-   "summary": "A FOIA request has uncovered another little-known feature of life at the top of the Justice Department: attorneys general have used alternate email addresses to conduct government …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-02/pam-bondi-s-secret-doj-email-address-revealed-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 195.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-03 05:45",
-   "title": "Bloomberg Businessweek Daily: Pam Bondi’s Secret Email (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-02/bloomberg-businessweek-daily-pam-bondi-s-secret-email-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 195.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-03 05:03",
-   "title": "Anthropic to invest $100 million to train AI engineer talent",
-   "summary": "Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 195.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-03 04:50",
-   "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
-   "summary": "Apple Inc. said it plans to introduce new privacy controls for Mac users, warning of the growing risks around granting broad data access to third-party software, including artifici…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
-     "t": "sec"
-    }
-   ],
-   "heat": 194.9
+   "heat": 102.1
   }
  ]
 }
