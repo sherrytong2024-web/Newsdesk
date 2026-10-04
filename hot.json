@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05 00:14",
+ "updated": "2026-10-05 04:43",
  "items": [
   {
    "cat": "sector",
@@ -13,7 +13,49 @@
      "t": "sec"
     }
    ],
-   "heat": 255.5
+   "heat": 102.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-05 04:00",
+   "title": "AI Riches Come With Concentration Risks (ARM, AKAM, SNPS, P)",
+   "summary": "At what point does benefiting from AI leave a company exposed to it? Plus, Nielsen’s Jennifer Holscott on PE-ownership, the company’s DoubleVerify deal and measuring the creator ec…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-10-04/ai-riches-come-with-concentration-risks-arm-akam-snps-p",
+     "t": "sec"
+    }
+   ],
+   "heat": 99.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-05 04:00",
+   "title": "AI Whistleblowers, Google, OpenAI, Meta to Face New York City Council",
+   "summary": "Former Anthropic researcher Jacob Coxon, who warned that artificial intelligence could become too powerful for humans to control, will testify Monday at a New York City Council hea…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-04/ai-whistleblowers-google-openai-meta-to-face-new-york-city-council",
+     "t": "sec"
+    }
+   ],
+   "heat": 99.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-05 01:53",
+   "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
+   "summary": "The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination by President Donald Trump.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 99.5
   },
   {
    "cat": "sector",
@@ -27,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.9
+   "heat": 99.2
   },
   {
    "cat": "sector",
@@ -41,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.8
+   "heat": 99.1
   },
   {
    "cat": "sector",
@@ -55,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.8
+   "heat": 99.0
   },
   {
    "cat": "sector",
@@ -69,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.6
+   "heat": 98.8
   },
   {
    "cat": "sector",
@@ -83,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.4
+   "heat": 98.7
   },
   {
    "cat": "sector",
@@ -97,49 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-04 20:03",
-   "title": "Can America Break China’s Grip on Rare Earths?",
-   "summary": "China spent decades building a dominant position across rare-earth mining, processing and magnet manufacturing, leaving the US dependent on a foreign supply chain for materials ess…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-04/can-america-break-china-s-grip-on-rare-earths-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-04 17:32",
-   "title": "SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety",
-   "summary": "SoftBank Group Corp. chief Masayoshi Son — one of AI’s fervent believers — said that even he’s worried about safety risks as machines quickly gain more abilities.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-04/softbank-s-masayoshi-son-has-rare-cautionary-note-on-ai-safety",
-     "t": "sec"
-    }
-   ],
-   "heat": 250.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-04 15:47",
-   "title": "Ethiopia Retakes Tigray Airport as Northern Rebels Retreat",
-   "summary": "Ethiopian forces seized control of the airport and other parts of Mekelle, the capital of the northern Tigray region, as leaders of the Tigray People’s Liberation Front retreated f…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-04/ethiopia-recaptures-tigray-airport-as-northern-rebels-retreat",
-     "t": "sec"
-    }
-   ],
-   "heat": 250.6
+   "heat": 98.7
   }
  ]
 }
