@@ -1,20 +1,6 @@
 {
- "updated": "2026-10-04 07:26",
+ "updated": "2026-10-04 11:36",
  "items": [
-  {
-   "cat": "macro",
-   "time": "2026-10-02 21:48",
-   "title": "Treasury Sec. Bessent, IRS crack down on ETF strategy the wealthy are using to avoid capital gains taxes",
-   "summary": "The IRS and Treasury issued a warning this week on an ETF strategy wealthy investors have been using to shield capital gains income from taxes.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/02/treasury-irs-capital-gains-income-tax-section-351-warning.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 74.4
-  },
   {
    "cat": "macro",
    "time": "2026-10-01 07:40",
@@ -27,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 72.0
+   "heat": 80.0
   },
   {
    "cat": "macro",
@@ -41,7 +27,21 @@
      "t": "sec"
     }
    ],
-   "heat": 71.8
+   "heat": 79.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-02 21:48",
+   "title": "Treasury Sec. Bessent, IRS crack down on ETF strategy the wealthy are using to avoid capital gains taxes",
+   "summary": "The IRS and Treasury issued a warning this week on an ETF strategy wealthy investors have been using to shield capital gains income from taxes.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/02/treasury-irs-capital-gains-income-tax-section-351-warning.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 73.7
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.1
+   "heat": 62.4
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.8
+   "heat": 62.1
   },
   {
    "cat": "macro",
@@ -83,7 +83,21 @@
      "t": "sec"
     }
    ],
-   "heat": 58.3
+   "heat": 61.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-04 03:24",
+   "title": "Trump’s new AI czar outlines U.S. strategy for AI risks and leadership, WSJ says",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/trumps-new-ai-czar-outlines-us-strategy-for-ai-risks-and-leadership-wsj-says-4930900",
+     "t": "agg"
+    }
+   ],
+   "heat": 60.6
   },
   {
    "cat": "macro",
@@ -97,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 57.3
+   "heat": 60.6
   },
   {
    "cat": "macro",
@@ -111,21 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-02 19:23",
-   "title": "US Dollar Faces Test as Jobs Report Meets Softer Short-Term Rates",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-faces-test-as-jobs-report-meets-softer-shortterm-rates-200688846",
-     "t": "agg"
-    }
-   ],
-   "heat": 52.0
+   "heat": 58.5
   },
   {
    "cat": "macro",
@@ -139,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 56.0
   },
   {
    "cat": "macro",
@@ -153,7 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 56.0
   },
   {
    "cat": "macro",
@@ -167,7 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 56.0
   },
   {
    "cat": "macro",
@@ -181,7 +181,21 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 56.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-02 19:23",
+   "title": "US Dollar Faces Test as Jobs Report Meets Softer Short-Term Rates",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/us-dollar-faces-test-as-jobs-report-meets-softer-shortterm-rates-200688846",
+     "t": "agg"
+    }
+   ],
+   "heat": 55.3
   },
   {
    "cat": "macro",
@@ -195,21 +209,63 @@
      "t": "sec"
     }
    ],
-   "heat": 51.5
+   "heat": 46.8
   },
   {
-   "cat": "macro",
-   "time": "2026-10-02 01:44",
-   "title": "Stock Market Today: S&P 500, Nasdaq Hold Up as Treasury Yields Surge - CryptoRank",
-   "summary": "Stock Market Today: S&P 500, Nasdaq Hold Up as Treasury Yields Surge &nbsp;&nbsp; CryptoRank",
+   "cat": "sector",
+   "time": "2026-10-04 08:57",
+   "title": "Bessent Criticizes A.I Alarmists, More on FlyDubai Suspect, More",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaVlMdjAxLURCRjdmbDVjSzk4LW5MMFA4Wkw1ZFhXMHNsNnpWcERKVXY2aFJBSTJiY1Zad0lEZ1VaLWlHUTFJRWZxMGJodDBDM2twbXc1aDYtS1BTSGNNdEhCTDktaS1tU3oyZHp1dTZTVnlKZU5XV1NRUV9qV1JxYUItcUhFWXZTVFlwc2pXMmxTZEZaWUVrSm9kOURBNUFCMTZndlBR?oc=5",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-04/bessent-criticizes-a-i-alarmists-more-on-flydubai-suspect-more",
      "t": "sec"
     }
    ],
-   "heat": 48.0
+   "heat": 263.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-04 08:19",
+   "title": "Latest on FlyDubai Terror Attack, More A.I Safety Concerns, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-04/latest-on-flydubai-terror-attack-more-a-i-safety-concerns-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-04 07:37",
+   "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+   "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-04 07:24",
+   "title": "Mexico Says Its Troops Sent to Border in Conjunction With US",
+   "summary": "The US and Mexico have jointly deployed military personnel in a border area in Texas as part of “mirror operations,” the Mexican government said Saturday.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-03/mexico-says-its-troops-sent-to-border-in-conjunction-with-us",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.3
   },
   {
    "cat": "sector",
@@ -223,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 268.0
+   "heat": 263.3
   },
   {
    "cat": "sector",
@@ -237,13 +293,13 @@
      "t": "sec"
     }
    ],
-   "heat": 267.9
+   "heat": 263.2
   },
   {
    "cat": "sector",
    "time": "2026-10-04 06:35",
-   "title": "Lula, Bolsonaro in Dead Heat as Brazil Prepares to Vote",
-   "summary": "President Luiz Inácio Lula da Silva and right-wing challenger Flávio Bolsonaro remain locked in a tight race as Brazil prepares to vote in Sunday’s election, according to a pair of…",
+   "title": "Lula, Bolsonaro in Tight Race as Brazil Prepares to Vote",
+   "summary": "President Luiz Inácio Lula da Silva and right-wing challenger Flávio Bolsonaro remain locked in a tight race as Brazil prepares to vote in Sunday’s election, according to three new…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -251,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 267.9
+   "heat": 263.2
   },
   {
    "cat": "sector",
@@ -265,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 267.8
+   "heat": 263.1
   },
   {
    "cat": "sector",
@@ -279,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 267.6
+   "heat": 262.9
   },
   {
    "cat": "sector",
@@ -293,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 267.5
+   "heat": 262.8
   },
   {
    "cat": "sector",
@@ -307,21 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 267.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-04 02:19",
-   "title": "Latest on FlyDubai Terror Attack, More A.I Safety Concerns, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-03/latest-on-flydubai-terror-attack-more-a-i-safety-concerns-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 267.1
+   "heat": 262.6
   },
   {
    "cat": "sector",
@@ -335,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 266.9
+   "heat": 262.3
   },
   {
    "cat": "sector",
@@ -349,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 266.8
+   "heat": 262.1
   },
   {
    "cat": "sector",
@@ -363,35 +405,21 @@
      "t": "sec"
     }
    ],
-   "heat": 266.8
+   "heat": 262.1
   },
   {
-   "cat": "sector",
-   "time": "2026-10-03 23:25",
-   "title": "US Military Buildup Raises Iran Escalation Risk",
-   "summary": "Washington Institute research director Dana Stroul tells Bloomberg This Weekend that the US military buildup in the Middle East, including a third aircraft carrier, is expanding Pr…",
+   "cat": "stock",
+   "time": "2026-10-04 08:00",
+   "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
+   "summary": "Bankers in Hong Kong skipped the summer break as an artificial intelligence-fueled rush for capital sent share sales to a record, defying a bruising selloff in the city’s stocks.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-03/us-military-buildup-raises-iran-escalation-risk-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
      "t": "sec"
     }
    ],
-   "heat": 266.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-03 23:15",
-   "title": "Fake Jobs Put Job Seekers at Risk of Identity Theft",
-   "summary": "Fraud investigator Jay Jones, known online as “The Profiler,” tells Bloomberg This Weekend that AI is helping scammers create increasingly convincing fake recruiters and job listin…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-03/fake-jobs-put-job-seekers-at-risk-of-identity-theft-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 266.6
+   "heat": 99.4
   },
   {
    "cat": "stock",
@@ -405,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.6
+   "heat": 97.9
   },
   {
    "cat": "stock",
@@ -419,21 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-03 20:57",
-   "title": "Global stock indices S&P 500, Nasdaq and STOXX 600 rise after weak US jobs data - Beinsure",
-   "summary": "Global stock indices S&P 500, Nasdaq and STOXX 600 rise after weak US jobs data &nbsp;&nbsp; Beinsure",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLW1oS2M0SktHUFY0djZwczA5TmVwWXZyTXJzSXZxT1E3Mzk2a2FuQzhiSDFaRFlEb09qQ1AwSk42dWZ4QXVuWFlvSnVqbU5RWjNLU1dyVFlTODZWLTh3MGRnMjVuUTRrcXAyUjA5TG1OMGNIdTRpWlZDTkVUTHRSTUhB?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 90.3
+   "heat": 97.6
   },
   {
    "cat": "stock",
@@ -447,7 +461,7 @@
      "t": "agg"
     }
    ],
-   "heat": 88.3
+   "heat": 95.6
   },
   {
    "cat": "stock",
@@ -461,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.4
+   "heat": 94.7
   },
   {
    "cat": "stock",
@@ -475,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.3
+   "heat": 94.6
   },
   {
    "cat": "stock",
@@ -489,13 +503,13 @@
      "t": "sec"
     }
    ],
-   "heat": 86.2
+   "heat": 93.5
   },
   {
    "cat": "stock",
    "time": "2026-10-02 16:06",
-   "title": "US Stock Market Today: S&P 500 Futures Steady As Traders Weigh Global Factory Strength - Yahoo Finance",
-   "summary": "US Stock Market Today: S&P 500 Futures Steady As Traders Weigh Global Factory Strength &nbsp;&nbsp; Yahoo Finance",
+   "title": "US Stock Market Today: S&P 500 Futures Steady As Traders Weigh Global Factory Strength - finance.yahoo.com",
+   "summary": "US Stock Market Today: S&P 500 Futures Steady As Traders Weigh Global Factory Strength &nbsp;&nbsp; finance.yahoo.com",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -503,21 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 85.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-02 20:31",
-   "title": "WTI Sinks Nearly 4% as EU Weighs Emergency Stockpile Release",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/wti-sinks-nearly-4-as-eu-weighs-emergency-stockpile-release-200688853",
-     "t": "agg"
-    }
-   ],
-   "heat": 84.2
+   "heat": 92.7
   },
   {
    "cat": "stock",
@@ -531,7 +531,35 @@
      "t": "sec"
     }
    ],
-   "heat": 84.2
+   "heat": 92.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-02 07:33",
+   "title": "Bond market swings rattle global stocks as AI optimism lifts Wall Street - CommBank",
+   "summary": "Bond market swings rattle global stocks as AI optimism lifts Wall Street &nbsp;&nbsp; CommBank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWdrMkpwUERncGZUeW5nNFFHT1FaY1dWdHVhbzFFZU5yRmlaTzdtOWtERkUzRG9uWm5YMEc4NmxfN3F0eU40M1BxMEY3OWVRTG13MHY2RXVNaVh3QXdMUHFqc1REV2lxRm5wLXhZLS1QODJ5SEZoX1dNclNYMEUwcklKZHMtcW41SUd6bTczUTlwNldVNHpkMjlfVTdrdWJJbWRWRVpUZ0Vfd0ZQNmF2dkVURjVGNWotOFNwS0phcVAzdjI3VENV?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 92.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-02 04:25",
+   "title": "Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street - BNN Bloomberg",
+   "summary": "Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street &nbsp;&nbsp; BNN Bloomberg",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWnJSdk9NYWJlMXZnbnRvY3pjc096TGlXb2UzNTRYT2JTams4d2RLZVJDTDJQa2xYSTRFUmtHc3Z1MzBNdHVtd2ZsVmZKRzJJMGh3Tlh6V25XS09sTEdDR1hQMlBTeFZaWGl6UjdNeDM4d2xFTWtocDcyY0dJa0JIeTUwOFlkT2Y1Q2NqQlR6LTQ2VHkzVDg1Z3Z5WldzS2tXLTBRR3E0UXVqeDJrbkMzV1g0U3A3YkJPSDRzSGFfSUo1eHRNUGRQbW50MGdwRmE2VXYzaFVfd1k?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 92.0
   },
   {
    "cat": "stock",
@@ -545,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 92.0
   },
   {
    "cat": "stock",
@@ -559,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 92.0
   },
   {
    "cat": "stock",
@@ -573,7 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 92.0
   },
   {
    "cat": "stock",
@@ -587,21 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-01 05:32",
-   "title": "US Stocks End September on Mixed Signals: S&P 500 and Nasdaq Rise, Dow Falls - Межа. Новини України.",
-   "summary": "US Stocks End September on Mixed Signals: S&P 500 and Nasdaq Rise, Dow Falls &nbsp;&nbsp; Межа. Новини України.",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yaGF1bTQyTFNKTlJUM3A5ak4tcDRITDRIN2RjcklDeERNbGswVDVjU0FjLXVsRmoxY2lCcTYtejk2OEt0TGdfWk5DdHk1c0ZuUG1CaDhTdXBKaTQwc0RN?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 84.0
+   "heat": 92.0
   },
   {
    "cat": "global",
@@ -615,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.6
+   "heat": 45.9
   },
   {
    "cat": "global",
@@ -629,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.3
+   "heat": 45.6
   },
   {
    "cat": "global",
@@ -643,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.5
+   "heat": 37.8
   },
   {
    "cat": "global",
@@ -657,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.4
+   "heat": 34.8
   },
   {
    "cat": "global",
@@ -671,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.8
+   "heat": 34.1
   },
   {
    "cat": "global",
@@ -685,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.8
+   "heat": 34.1
   },
   {
    "cat": "global",
@@ -699,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.7
+   "heat": 34.1
   },
   {
    "cat": "global",
@@ -713,35 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-03 18:45",
-   "title": "London Gold Body’s Legal Fight Exposes Threat to Bullion Market",
-   "summary": "The industry body that sets the rules for the world’s biggest gold market faces an existential legal battle in a London courtroom next week, in a case that could have far-reaching …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-03/london-gold-body-s-legal-fight-exposes-threat-to-bullion-market",
-     "t": "sec"
-    }
-   ],
-   "heat": 21.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-03 00:25",
-   "title": "Gold’s Real Problem Isn’t the Fed, It’s the Long End of the Bond Market",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/golds-real-problem-isnt-the-fed-its-the-long-end-of-the-bond-market-200688866",
-     "t": "agg"
-    }
-   ],
-   "heat": 20.8
+   "heat": 33.8
   },
   {
    "cat": "global",
@@ -755,21 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 19.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-03 02:03",
-   "title": "Gold fails at $4,200 despite NFP miss as US yields climb",
-   "summary": "Gold prices dropped on Friday, with the yellow metal struggling to decisively break the $4,200 milestone. The precious metal is down nearly 1% as US Treasury yields edge higher fol…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/gold-fails-at-4-200-despite-nfp-miss-as-us-yields-climb-202610021803",
-     "t": "sec"
-    }
-   ],
-   "heat": 19.1
+   "heat": 19.0
   },
   {
    "cat": "global",
@@ -783,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 18.5
+   "heat": 17.8
   },
   {
    "cat": "global",
@@ -797,21 +769,63 @@
      "t": "sec"
     }
    ],
-   "heat": 18.3
+   "heat": 17.6
   },
   {
    "cat": "global",
-   "time": "2026-10-02 23:42",
-   "title": "Gold’s Selloff May Be Setting Up the Next Winter Rally",
+   "time": "2026-10-03 00:25",
+   "title": "Gold’s Real Problem Isn’t the Fed, It’s the Long End of the Bond Market",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/golds-selloff-may-be-setting-up-the-next-winter-rally-200688864",
+     "u": "https://www.investing.com/analysis/golds-real-problem-isnt-the-fed-its-the-long-end-of-the-bond-market-200688866",
      "t": "agg"
     }
    ],
-   "heat": 16.7
+   "heat": 16.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-01 01:07",
+   "title": "Global stocks weather third-quarter AI, bond and crude maelstrom",
+   "summary": "Global stocks weather third-quarter AI, bond and crude maelstrom &nbsp;&nbsp; Reuters",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEZjWFpDMnhINXNrdUFFQm50Rjhwc1dLMTRFMTJnU0VSNzgtbDdkS18wTWNGUklqNHAtWnNEM0R0VzYySlR1a3RqZGFMd0pRSnVUd0NzeWREUDFhQVFsVTY4ZVRSNWVuNklsUjJzYTRObHl0NUo0WkRwNFBvUGNNdTBZUlo?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 16.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-02 23:06",
+   "title": "The Energy Report: Europe’s Diesel Release Buys Time",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/the-energy-report-europes-diesel-release-buys-time-200688863",
+     "t": "agg"
+    }
+   ],
+   "heat": 15.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-02 19:44",
+   "title": "Oil Falls as ME Crude Exports Rebound While Signs of Escalation Loom",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-falls-as-me-crude-exports-rebound-while-signs-of-escalation-loom-200688849",
+     "t": "agg"
+    }
+   ],
+   "heat": 15.4
   },
   {
    "cat": "crypto",
@@ -825,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.8
+   "heat": 62.1
   },
   {
    "cat": "crypto",
@@ -839,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.1
+   "heat": 53.5
   },
   {
    "cat": "crypto",
@@ -853,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.2
+   "heat": 50.5
   },
   {
    "cat": "crypto",
@@ -867,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.7
+   "heat": 42.0
   },
   {
    "cat": "crypto",
@@ -881,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.3
+   "heat": 41.6
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.7
+   "heat": 41.0
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 39.0
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.5
+   "heat": 38.8
   },
   {
    "cat": "crypto",
@@ -937,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.0
+   "heat": 38.3
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 19.2
+   "heat": 18.5
   },
   {
    "cat": "crypto",
@@ -965,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 18.7
+   "heat": 18.0
   },
   {
    "cat": "crypto",
@@ -979,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 18.3
+   "heat": 17.6
   },
   {
    "cat": "crypto",
@@ -993,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 18.3
+   "heat": 17.6
   },
   {
    "cat": "crypto",
@@ -1007,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 18.2
+   "heat": 17.5
   },
   {
    "cat": "crypto",
@@ -1021,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 10.8
+   "heat": 10.1
   },
   {
    "cat": "sector",
@@ -1035,21 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 265.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-03 22:59",
-   "title": "White House forms AI task force to assess technology risks",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/white-house-forms-ai-task-force-to-assess-technology-risks--wsj-4930893",
-     "t": "agg"
-    }
-   ],
-   "heat": 264.6
+   "heat": 260.9
   }
  ]
 }
