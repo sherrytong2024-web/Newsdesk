@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-04 11:36",
+ "updated": "2026-10-04 19:35",
  "items": [
   {
    "cat": "macro",
-   "time": "2026-10-01 07:40",
-   "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
-   "summary": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise &nbsp;&nbsp; Reuters",
+   "time": "2026-10-02 21:48",
+   "title": "Treasury Sec. Bessent, IRS crack down on ETF strategy the wealthy are using to avoid capital gains taxes",
+   "summary": "The IRS and Treasury issued a warning this week on an ETF strategy wealthy investors have been using to shield capital gains income from taxes.",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/02/treasury-irs-capital-gains-income-tax-section-351-warning.html",
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 80.4
   },
   {
    "cat": "macro",
@@ -27,21 +27,77 @@
      "t": "sec"
     }
    ],
-   "heat": 79.1
+   "heat": 73.7
   },
   {
    "cat": "macro",
-   "time": "2026-10-02 21:48",
-   "title": "Treasury Sec. Bessent, IRS crack down on ETF strategy the wealthy are using to avoid capital gains taxes",
-   "summary": "The IRS and Treasury issued a warning this week on an ETF strategy wealthy investors have been using to shield capital gains income from taxes.",
+   "time": "2026-10-01 07:40",
+   "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
+   "summary": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise &nbsp;&nbsp; Reuters",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/02/treasury-irs-capital-gains-income-tax-section-351-warning.html",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 73.7
+   "heat": 72.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-04 17:44",
+   "title": "In crude Ohio rally speech, Trump says he may not help if Democrats win",
+   "summary": "Ohio's is among eight U.S. Senate races rated competitive. The state has turned into a campaign battlefield over data centers and culture war issues.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/04/in-ohio-rally-speech-trump-says-he-may-not-help-if-democrats-win.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 67.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-04 15:00",
+   "title": "Britain’s Reliance on US Cloud Giants Alarms Its Politicians",
+   "summary": "The UK’s dependence on big American cloud providers poses “a strategic and economic vulnerability” to the country, politicians warned, as US authorities have the power to switch of…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-04/britain-s-reliance-on-us-cloud-giants-alarms-its-politicians",
+     "t": "sec"
+    }
+   ],
+   "heat": 67.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-04 13:00",
+   "title": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
+   "summary": "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine’s expanding use of robotic systems is reshaping frontline warfare.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 66.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-04 12:50",
+   "title": "Japan Calls US Envoy After Marine Arrest Over Okinawa Murder",
+   "summary": "Japan urged the US to fully cooperate with a probe and enforce strict discipline among military personnel after the arrest of a US Marine alleged to be connected to a robbery and m…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-04/japan-calls-us-envoy-after-marine-arrest-over-okinawa-murder",
+     "t": "sec"
+    }
+   ],
+   "heat": 66.9
   },
   {
    "cat": "macro",
@@ -55,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.4
+   "heat": 65.1
   },
   {
    "cat": "macro",
@@ -69,35 +125,21 @@
      "t": "sec"
     }
    ],
-   "heat": 62.1
+   "heat": 64.8
   },
   {
    "cat": "macro",
-   "time": "2026-10-03 21:00",
-   "title": "Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges",
-   "summary": "As Paramount Skydance Corp. and Oracle Corp. vault into the ranks of corporate America’s biggest borrowers, their links to the same man — billionaire Larry Ellison — are starting t…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-03/larry-ellison-risk-exposed-by-paramount-and-oracle-debt-binges",
-     "t": "sec"
-    }
-   ],
-   "heat": 61.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-04 03:24",
-   "title": "Trump’s new AI czar outlines U.S. strategy for AI risks and leadership, WSJ says",
+   "time": "2026-10-04 11:07",
+   "title": "Why has e-Commerce accelerated and who is gaining?",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/trumps-new-ai-czar-outlines-us-strategy-for-ai-risks-and-leadership-wsj-says-4930900",
+     "u": "https://www.investing.com/news/stock-market-news/why-has-ecommerce-accelerated-and-who-is-gaining-4930926",
      "t": "agg"
     }
    ],
-   "heat": 60.6
+   "heat": 64.6
   },
   {
    "cat": "macro",
@@ -111,7 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.6
+   "heat": 63.3
   },
   {
    "cat": "macro",
@@ -125,35 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-30 19:26",
-   "title": "Retail Export Strategies Give Way to Integrated China-ASEAN Supply Chains",
-   "summary": "Retail Export Strategies Give Way to Integrated China-ASEAN Supply Chains &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMmF5TU9ma2Nvb0VHOWxBSFJKMzZoanNkOHc2QXM2VVBmVHFGdUQzcXZYM2RyUFhDOXVlNVpFbllGUDZPaVQzbThJelhkRFgwVnczMUVFbm95X3BpdWZudDJ5TG9IRW9CV2V6SHg1NDU5MldGZUtYdi1qZmo4RG9peGxadnFoSzNGYWdOWjJjNktDX1E2Wm1TQ3NvQjRBaEZMdl8yR1FHVDUtQ0FfWHBwdGZFZnFVX05rb0Jpal9ZTnFCd1RxWXJN?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 56.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-09-30 17:53",
-   "title": "‘Triple Crisis’ Forces Overhaul of Global Energy Transition Strategies, Experts Warn",
-   "summary": "‘Triple Crisis’ Forces Overhaul of Global Energy Transition Strategies, Experts Warn &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaF8xekhjVnRRWFMzM2pXbzRwTkVfQWlLSElzdF85bXp6T2tSNmhjbm0xYkxockh1Q2JBb3NndTl5OUlKZE00cFNZRXBaRTJRSGsxZ3Z2REFtS2I0Y1BMdVRnLXQ1cDdPR2xSYlZtMG1QcGFNaXRrOXVHQlBiYWEyNjIza1BqOER0ZHR4Q2hjMmpjSHlXdE9tMVZXUWFfZXM5aVRZZ3NOS2RVQXc0WWtpZldES3NJU2JrcHdOeUVGLW5ZSEVqbEVOVU5HMlh4VDllN2c?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 56.0
+   "heat": 61.2
   },
   {
    "cat": "macro",
@@ -167,7 +181,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 60.0
   },
   {
    "cat": "macro",
@@ -181,7 +195,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 60.0
   },
   {
    "cat": "macro",
@@ -195,21 +209,91 @@
      "t": "agg"
     }
    ],
-   "heat": 55.3
+   "heat": 58.0
   },
   {
-   "cat": "macro",
-   "time": "2026-10-03 04:10",
-   "title": "Here's how high the 10-year Treasury yield needs to rise before income investors should worry, according to UBS",
-   "summary": "UBS lays out the levels where the income cushion doesn't protect investors from capital losses anymore.",
+   "cat": "sector",
+   "time": "2026-10-04 17:32",
+   "title": "SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety",
+   "summary": "SoftBank Group Corp. chief Masayoshi Son — one of AI’s fervent believers — said that even he’s worried about safety risks as machines quickly gain more abilities.",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/02/heres-how-high-the-10-year-treasury-yield-needs-to-rise-before-income-investors-should-worry-according-to-ubs.html",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-04/softbank-s-masayoshi-son-has-rare-cautionary-note-on-ai-safety",
      "t": "sec"
     }
    ],
-   "heat": 46.8
+   "heat": 259.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-04 17:25",
+   "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
+   "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-04 15:47",
+   "title": "Ethiopia Retakes Tigray Airport as Northern Rebels Retreat",
+   "summary": "Ethiopian forces seized control of the airport and other parts of Mekelle, the capital of the northern Tigray region, as leaders of the Tigray People’s Liberation Front retreated f…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-04/ethiopia-recaptures-tigray-airport-as-northern-rebels-retreat",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-04 15:02",
+   "title": "15:02:03【特朗普“AI沙皇”人选曝光：现任美国国家情报总监 明确反对暂停AI开发】",
+   "summary": "15:02:03【特朗普“AI沙皇”人选曝光：现任美国国家情报总监 明确反对暂停AI开发】 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpNGJVTkREWFpCbkxRd1JKSWx4cExWZzdFbF9CN1VYMWVTT3BzelEtZUktNUxHV0ZMRUFONDFxa3dHVmx4dzN4YQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-04 14:27",
+   "title": "Tens of thousands protest across Spain over housing crisis",
+   "summary": "Spanish media say Prime Minister Pedro Sanchez might call a snap election for November after proposed housing legislation failed in parliament.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/04/tens-of-thousands-protest-across-spain-over-housing-crisis.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-04 13:09",
+   "title": "Singapore debuts a state-backed dating app for young government workers as it works to slow a demographic crisis",
+   "summary": "Singapore's government is playing matchmaker for young public officials against a backdrop of ultra-low fertility.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/04/government-dating-app-fertility-singapore-asia.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 258.9
   },
   {
    "cat": "sector",
@@ -223,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 263.6
+   "heat": 258.2
   },
   {
    "cat": "sector",
@@ -237,21 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 263.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-04 07:37",
-   "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
-   "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.3
+   "heat": 258.1
   },
   {
    "cat": "sector",
@@ -265,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 263.3
+   "heat": 258.0
   },
   {
    "cat": "sector",
@@ -279,21 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 263.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-04 06:44",
-   "title": "Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskyy says",
-   "summary": "Driving the shift in policy, Zelenskyy said, was Putin's desire to appear strong at a time when his military was losing ground in a key frontline region.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/03/ukraine-to-hit-refineries-in-response-to-russian-airstrikes-zelenskyy.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.2
+   "heat": 258.0
   },
   {
    "cat": "sector",
@@ -307,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 263.2
+   "heat": 257.8
   },
   {
    "cat": "sector",
@@ -321,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 263.1
+   "heat": 257.8
   },
   {
    "cat": "sector",
@@ -335,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 262.9
+   "heat": 257.6
   },
   {
    "cat": "sector",
@@ -349,77 +405,35 @@
      "t": "sec"
     }
    ],
-   "heat": 262.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-04 03:12",
-   "title": "FlyDubai Terror Attack Latest, Iran Facing War Pressures, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-03/flydubai-terror-attack-latest-iran-facing-war-pressures-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 262.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-04 01:07",
-   "title": "FlyDubai’s Survival Puts Focus on Jet Design, Oil Release, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-03/flydubai-s-survival-puts-focus-on-jet-design-oil-release-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 262.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-04 00:27",
-   "title": "By The Way: Headlines You May Have Missed",
-   "summary": "People starting to speak like AI chatbots, AI anxiety spilling into therapists' offices, NYC's AI office boom a bust for young job hunters and Tinder rolls out group dating for you…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-03/by-the-way-headlines-you-may-have-missed",
-     "t": "sec"
-    }
-   ],
-   "heat": 262.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-04 00:18",
-   "title": "FlyDubai Terror Attack, Bessent Downplays Iran Price Pressures",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-03/flydubai-terror-attack-bessent-downplays-iran-price-pressures",
-     "t": "sec"
-    }
-   ],
-   "heat": 262.1
+   "heat": 257.5
   },
   {
    "cat": "stock",
-   "time": "2026-10-04 08:00",
-   "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
-   "summary": "Bankers in Hong Kong skipped the summer break as an artificial intelligence-fueled rush for capital sent share sales to a record, defying a bruising selloff in the city’s stocks.",
+   "time": "2026-10-04 15:19",
+   "title": "Toronto Stock Exchange Today: S&P/TSX Composite Extends Slide Near 35,380 as Banks Weigh - BBN Times",
+   "summary": "Toronto Stock Exchange Today: S&P/TSX Composite Extends Slide Near 35,380 as Banks Weigh &nbsp;&nbsp; BBN Times",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZmFNaGNGdk0wX1JpYlhJeEVpY3JxeTg3RW9Od2dJMVd4MHd2ckNNZDFQTjg5ZllvY2NCbUJwTDd0UTVEWWxHVlVZQ1NWN25IdVBhOUliZkZIVDhhTVRvT2pCX19xZF8zYjZYTnFEODlZd3pXcmFNVzR6bW9EUDhOY21CVzhPbUloR2toNEgtQVJtc1h3RnZMeGpZZDVwU2lzZjVkaHpwd2tMV0xCeGdURERQOFMtRmxCVy03bXo5cXZId1RDN0E?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 99.4
+   "heat": 91.3
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-04 11:09",
+   "title": "InvestingPro Fair Value models spotted 62% gain in TaskUs stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-models-spotted-62-gain-in-taskus-stock-93CH-4930927",
+     "t": "agg"
+    }
+   ],
+   "heat": 88.6
   },
   {
    "cat": "stock",
@@ -433,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 97.9
+   "heat": 88.6
   },
   {
    "cat": "stock",
@@ -447,35 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 97.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-03 21:20",
-   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4930887",
-     "t": "agg"
-    }
-   ],
-   "heat": 95.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-03 04:04",
-   "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
-   "summary": "The G7 will deploy 100 million barrels of reserves over the next four months, the group's leaders said in a joint statement.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 94.7
+   "heat": 88.3
   },
   {
    "cat": "stock",
@@ -489,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.6
+   "heat": 85.3
   },
   {
    "cat": "stock",
@@ -503,13 +489,13 @@
      "t": "sec"
     }
    ],
-   "heat": 93.5
+   "heat": 84.2
   },
   {
    "cat": "stock",
    "time": "2026-10-02 16:06",
-   "title": "US Stock Market Today: S&P 500 Futures Steady As Traders Weigh Global Factory Strength - finance.yahoo.com",
-   "summary": "US Stock Market Today: S&P 500 Futures Steady As Traders Weigh Global Factory Strength &nbsp;&nbsp; finance.yahoo.com",
+   "title": "US Stock Market Today: S&P 500 Futures Steady As Traders Weigh Global Factory Strength - Yahoo Finance",
+   "summary": "US Stock Market Today: S&P 500 Futures Steady As Traders Weigh Global Factory Strength &nbsp;&nbsp; Yahoo Finance",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -517,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 92.7
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -531,21 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-02 07:33",
-   "title": "Bond market swings rattle global stocks as AI optimism lifts Wall Street - CommBank",
-   "summary": "Bond market swings rattle global stocks as AI optimism lifts Wall Street &nbsp;&nbsp; CommBank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWdrMkpwUERncGZUeW5nNFFHT1FaY1dWdHVhbzFFZU5yRmlaTzdtOWtERkUzRG9uWm5YMEc4NmxfN3F0eU40M1BxMEY3OWVRTG13MHY2RXVNaVh3QXdMUHFqc1REV2lxRm5wLXhZLS1QODJ5SEZoX1dNclNYMEUwcklKZHMtcW41SUd6bTczUTlwNldVNHpkMjlfVTdrdWJJbWRWRVpUZ0Vfd0ZQNmF2dkVURjVGNWotOFNwS0phcVAzdjI3VENV?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 92.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -559,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -573,21 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-01 20:41",
-   "title": "U.S. stock futures point to a positive open for Wall Street to kick off October By Investing.com - Investing.com South A",
-   "summary": "U.S. stock futures point to a positive open for Wall Street to kick off October By Investing.com &nbsp;&nbsp; Investing.com South Africa",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUg4YVlicHFuVXdDdHZUUlFqUE1XajVGakVMYUpEeTNEQU5XNE9QQkpjeHlhZVB5RWllQThWOHhRVTlycWtoTVRrYW53Z0RJUHA5a1owWkpCOVJ0UGUtYXBVYk1FYktkeUp1bTJFQTFtTC1Sa195dmg5aUNqSUN6Ml9GNU43RDRBMzVFUndtcXpQOVFVaUNCOGJCS0gxXzdLeVhIQXIzQ0p4bUVxMkJr?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 92.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -601,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -615,21 +573,35 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 84.0
   },
   {
-   "cat": "global",
-   "time": "2026-10-02 23:02",
-   "title": "US Dollar: Fading rallies as Fed pricing peaks – TD Securities",
-   "summary": "TD Securities' Macro Research’s FX team notes the softer US payrolls data is only marginally negative for the Dollar, with the labor market still described as buoyant and neither o…",
+   "cat": "stock",
+   "time": "2026-10-01 05:32",
+   "title": "US Stocks End September on Mixed Signals: S&P 500 and Nasdaq Rise, Dow Falls - Межа. Новини України.",
+   "summary": "US Stocks End September on Mixed Signals: S&P 500 and Nasdaq Rise, Dow Falls &nbsp;&nbsp; Межа. Новини України.",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/us-dollar-fading-rallies-as-fed-pricing-peaks-td-securities-202610021502",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yaGF1bTQyTFNKTlJUM3A5ak4tcDRITDRIN2RjcklDeERNbGswVDVjU0FjLXVsRmoxY2lCcTYtejk2OEt0TGdfWk5DdHk1c0ZuUG1CaDhTdXBKaTQwc0RN?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 45.9
+   "heat": 84.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-09-30 15:00",
+   "title": "Nasdaq, S&P 500, Dow: Comparing Key U.S. Stock Indexes - Investopedia",
+   "summary": "Nasdaq, S&P 500, Dow: Comparing Key U.S. Stock Indexes &nbsp;&nbsp; Investopedia",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XcDBGNmhneU96bGZPTlpCY0NkNXQ1NC1Bc1JvYTdnb1ViMC1sSjBwOWQzaHJjcU96UnIyYzdxUXNiT0ZzeEtHdHIzTHMwNEU4YWZlMTRwMkZ6R1Z6ZWd1SERCZ1NKb3NBZFRj?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
   },
   {
    "cat": "global",
@@ -643,7 +615,49 @@
      "t": "sec"
     }
    ],
-   "heat": 45.6
+   "heat": 52.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-02 23:02",
+   "title": "US Dollar: Fading rallies as Fed pricing peaks – TD Securities",
+   "summary": "TD Securities' Macro Research’s FX team notes the softer US payrolls data is only marginally negative for the Dollar, with the labor market still described as buoyant and neither o…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/us-dollar-fading-rallies-as-fed-pricing-peaks-td-securities-202610021502",
+     "t": "sec"
+    }
+   ],
+   "heat": 44.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-04 19:15",
+   "title": "Whispers of Contagion Risk Are Returning to Europe’s Bond Market",
+   "summary": "Traders are on the alert for signs of contagion in Europe’s government bond market after a selloff triggered memories of the region’s debt crisis 15 years ago.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-04/whispers-of-contagion-risk-are-returning-to-europe-s-bond-market",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-04 18:09",
+   "title": "Iraq Shifts Oil Strategy by Arranging Tanker to Move Past Hormuz",
+   "summary": "Iraq’s state tanker company arranged a very large crude carrier to transport 2 million barrels beyond the Strait of Hormuz, marking a move toward offering oil outside the Persian G…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-04/iraq-shifts-oil-strategy-by-arranging-tanker-to-move-past-hormuz",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.8
   },
   {
    "cat": "global",
@@ -657,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 37.8
+   "heat": 36.5
   },
   {
    "cat": "global",
@@ -671,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.8
+   "heat": 33.4
   },
   {
    "cat": "global",
@@ -685,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.1
+   "heat": 32.8
   },
   {
    "cat": "global",
@@ -699,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.1
+   "heat": 32.8
   },
   {
    "cat": "global",
@@ -713,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.1
+   "heat": 32.7
   },
   {
    "cat": "global",
@@ -727,91 +741,21 @@
      "t": "sec"
     }
    ],
-   "heat": 33.8
+   "heat": 32.5
   },
   {
    "cat": "global",
-   "time": "2026-10-02 17:29",
-   "title": "Q4 Could Flip the FX Script as Yen, Sterling and Aussie Find Their Footing",
-   "summary": "",
+   "time": "2026-10-04 15:49",
+   "title": "OPEC+ Agrees to Keep Oil Output Targets Steady in November",
+   "summary": "Major OPEC+ nations agreed to keep oil production quotas unchanged next month, as conflict in the Middle East continues to shutter swaths of the group’s output.",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/q4-could-flip-the-fx-script-as-yen-sterling-and-aussie-find-their-footing-200688828",
-     "t": "agg"
-    }
-   ],
-   "heat": 19.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-02 22:28",
-   "title": "RBI to keep tightening risks alive – MUFG",
-   "summary": "MUFG analysts Lin Li, Michael Wan, Lloyd Chan and Khang Sek Lee highlight that Asia FX will be driven by the Reserve Bank of India’s (RBI) finely balanced decision on 7 October.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/rbi-to-keep-tightening-risks-alive-mufg-202610021428",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-04/opec-has-deal-outline-for-steady-november-quotas-delegates-say",
      "t": "sec"
     }
    ],
-   "heat": 17.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-02 21:02",
-   "title": "Euro: October ECB hike odds seen limited – Standard Chartered",
-   "summary": "Standard Chartered Global Research team discusses Euro area monetary policy, noting that core inflation has only edged up slightly since January and that higher yields pose downsid…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/euro-october-ecb-hike-odds-seen-limited-standard-chartered-202610021302",
-     "t": "sec"
-    }
-   ],
-   "heat": 17.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-03 00:25",
-   "title": "Gold’s Real Problem Isn’t the Fed, It’s the Long End of the Bond Market",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/golds-real-problem-isnt-the-fed-its-the-long-end-of-the-bond-market-200688866",
-     "t": "agg"
-    }
-   ],
-   "heat": 16.1
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-01 01:07",
-   "title": "Global stocks weather third-quarter AI, bond and crude maelstrom",
-   "summary": "Global stocks weather third-quarter AI, bond and crude maelstrom &nbsp;&nbsp; Reuters",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEZjWFpDMnhINXNrdUFFQm50Rjhwc1dLMTRFMTJnU0VSNzgtbDdkS18wTWNGUklqNHAtWnNEM0R0VzYySlR1a3RqZGFMd0pRSnVUd0NzeWREUDFhQVFsVTY4ZVRSNWVuNklsUjJzYTRObHl0NUo0WkRwNFBvUGNNdTBZUlo?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 16.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-02 23:06",
-   "title": "The Energy Report: Europe’s Diesel Release Buys Time",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/the-energy-report-europes-diesel-release-buys-time-200688863",
-     "t": "agg"
-    }
-   ],
-   "heat": 15.9
+   "heat": 31.4
   },
   {
    "cat": "global",
@@ -825,7 +769,49 @@
      "t": "agg"
     }
    ],
-   "heat": 15.4
+   "heat": 30.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-04 10:36",
+   "title": "US Supreme Court to kick off term with bid by Big Oil to toss climate suits",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/us-supreme-court-to-kick-off-term-with-bid-by-big-oil-to-toss-climate-suits-4930919",
+     "t": "agg"
+    }
+   ],
+   "heat": 28.5
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-04 10:30",
+   "title": "OPEC+ agrees in principle to keep November oil output targets steady, sources say",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/opec-agrees-in-principle-to-keep-november-oil-output-targets-steady-sources-say-4930923",
+     "t": "agg"
+    }
+   ],
+   "heat": 28.5
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-04 10:30",
+   "title": "Revolut’s rise to become Europe’s $115 billion big bank rival",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/revoluts-rise-to-become-europes-115-billion-big-bank-rival-4930922",
+     "t": "agg"
+    }
+   ],
+   "heat": 28.5
   },
   {
    "cat": "crypto",
@@ -839,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.1
+   "heat": 64.7
   },
   {
    "cat": "crypto",
@@ -853,7 +839,21 @@
      "t": "sec"
     }
    ],
-   "heat": 53.5
+   "heat": 56.1
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-04 17:39",
+   "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+   "summary": "Efforts will continue to reduce the state’s involvement in Bitcoin-related activities and to strengthen crypto‑asset regulation and governance, the IMF said.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 55.7
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.5
+   "heat": 49.2
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.0
+   "heat": 44.7
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.6
+   "heat": 44.2
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.0
+   "heat": 43.6
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.0
+   "heat": 41.6
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.8
+   "heat": 41.5
   },
   {
    "cat": "crypto",
@@ -951,21 +951,21 @@
      "t": "sec"
     }
    ],
-   "heat": 38.3
+   "heat": 40.9
   },
   {
    "cat": "crypto",
-   "time": "2026-10-03 02:24",
-   "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
-   "summary": "Once among Ethereum’s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown.",
+   "time": "2026-10-04 15:16",
+   "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+   "summary": "Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 18.5
+   "heat": 23.3
   },
   {
    "cat": "crypto",
@@ -979,35 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 18.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-02 21:30",
-   "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
-   "summary": "The furious debate over Bitget’s $387.7M of hacked funds comes down to whether ideals around “permissionless and decentralized” tech means never intervening — even if you could.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 17.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-02 21:22",
-   "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
-   "summary": "It is incumbent upon us to continue Commissioner Peirce’s mission, writes Will Schwartz, policy associate at the Blockchain Association.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
-     "t": "sec"
-    }
-   ],
-   "heat": 17.6
+   "heat": 20.6
   },
   {
    "cat": "crypto",
@@ -1021,21 +993,35 @@
      "t": "sec"
     }
    ],
-   "heat": 17.5
+   "heat": 20.2
   },
   {
    "cat": "crypto",
-   "time": "2026-10-04 00:00",
-   "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
-   "summary": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology.",
+   "time": "2026-10-03 02:24",
+   "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
+   "summary": "Once among Ethereum’s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown.",
    "srcs": [
     {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 10.1
+   "heat": 17.1
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-02 21:22",
+   "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
+   "summary": "It is incumbent upon us to continue Commissioner Peirce’s mission, writes Will Schwartz, policy associate at the Blockchain Association.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
+     "t": "sec"
+    }
+   ],
+   "heat": 16.3
   },
   {
    "cat": "sector",
@@ -1049,7 +1035,21 @@
      "t": "sec"
     }
    ],
-   "heat": 260.9
+   "heat": 255.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-02 20:31",
+   "title": "WTI Sinks Nearly 4% as EU Weighs Emergency Stockpile Release",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/wti-sinks-nearly-4-as-eu-weighs-emergency-stockpile-release-200688853",
+     "t": "agg"
+    }
+   ],
+   "heat": 82.2
   }
  ]
 }
