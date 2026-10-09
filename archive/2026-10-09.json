@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09 18:36",
+ "updated": "2026-10-09 18:37",
  "items": [
   {
    "cat": "macro",
@@ -223,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 224.0
+   "heat": 232.0
   },
   {
    "cat": "sector",
@@ -237,7 +237,21 @@
      "t": "sec"
     }
    ],
-   "heat": 224.0
+   "heat": 232.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-09 18:19",
+   "title": "Montenegro Police Detains Head of Russian War Blog Rybar",
+   "summary": "Montenegrin police detained Mikhail Zvinchuk, head of the Russian military focused Telegram channel Rybar, which covers the Kremlin’s invasion of Ukraine.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-09/montenegro-police-detains-head-of-russian-war-blog-rybar",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -251,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.9
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -265,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.9
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -279,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.9
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -293,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.9
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -307,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.9
+   "heat": 231.9
   },
   {
    "cat": "sector",
@@ -321,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.9
+   "heat": 231.8
   },
   {
    "cat": "sector",
@@ -335,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.8
+   "heat": 231.8
   },
   {
    "cat": "sector",
@@ -349,21 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-09 16:44",
-   "title": "Indian Tech Workers Face New Uncertainty in US Visa Crackdown",
-   "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The s…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-09/insight-with-haslinda-amin-10-9-2026-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.7
+   "heat": 231.8
   },
   {
    "cat": "sector",
@@ -377,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.7
+   "heat": 231.7
   },
   {
    "cat": "sector",
@@ -391,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.7
+   "heat": 231.7
   },
   {
    "cat": "sector",
@@ -405,21 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 223.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-09 15:32",
-   "title": "Airtel Money's London Listing, NYC ICE Shooting Backlash, More",
-   "summary": "Source: Bloomberg, 6:44",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-09/airtel-money-s-london-listing-nyc-ice-shooting-backlash-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.5
+   "heat": 231.6
   },
   {
    "cat": "stock",
@@ -433,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 159.8
+   "heat": 155.7
   },
   {
    "cat": "stock",
@@ -447,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 159.4
+   "heat": 155.4
   },
   {
    "cat": "stock",
@@ -461,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 157.5
+   "heat": 153.5
   },
   {
    "cat": "stock",
@@ -475,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 144.0
+   "heat": 139.9
   },
   {
    "cat": "stock",
@@ -489,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 142.0
+   "heat": 138.0
   },
   {
    "cat": "stock",
@@ -503,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 141.5
+   "heat": 137.5
   },
   {
    "cat": "stock",
@@ -517,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 136.0
+   "heat": 132.0
   },
   {
    "cat": "stock",
@@ -531,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 127.8
+   "heat": 123.8
   },
   {
    "cat": "stock",
@@ -545,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 127.6
+   "heat": 123.6
   },
   {
    "cat": "stock",
@@ -559,7 +545,21 @@
      "t": "sec"
     }
    ],
-   "heat": 127.6
+   "heat": 123.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-09 06:05",
+   "title": "Stocks Bounce as Oil Falls and AI Worries Ease: Markets Wrap",
+   "summary": "The S&amp;P 500 is set to bounce back from two days of losses as oil prices fell and worries over the sustainability of the artificial-intelligence investment boom receded.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-08/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 121.9
   },
   {
    "cat": "stock",
@@ -573,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 125.5
+   "heat": 121.5
   },
   {
    "cat": "stock",
@@ -587,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 125.0
+   "heat": 121.0
   },
   {
    "cat": "stock",
@@ -601,7 +601,7 @@
      "t": "agg"
     }
    ],
-   "heat": 124.6
+   "heat": 120.6
   },
   {
    "cat": "stock",
@@ -615,7 +615,7 @@
      "t": "agg"
     }
    ],
-   "heat": 124.6
+   "heat": 120.6
   },
   {
    "cat": "global",
@@ -1038,18 +1038,18 @@
    "heat": 55.3
   },
   {
-   "cat": "stock",
-   "time": "2026-10-08 18:34",
-   "title": "18:34:48【资金流向价值风格，价值ETF易方达（159263）今日获3100万份净申购】",
-   "summary": "18:34:48【资金流向价值风格，价值ETF易方达（159263）今日获3100万份净申购】 &nbsp;&nbsp; 财联社",
+   "cat": "sector",
+   "time": "2026-10-08 20:40",
+   "title": "20:40:54【英伟达支持的AI制药公司Lambic寻求美国上市 拟融资至多1.59亿美元】",
+   "summary": "20:40:54【英伟达支持的AI制药公司Lambic寻求美国上市 拟融资至多1.59亿美元】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBSbzdFOWdncHFCR2Q3eDQwX1VfazBlX3ptQy1rZFdlaWpXRnVnbndZaC1VTm90cnMtbElHUDNuTmVjX1E3ejhTdQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WczVfSkxnQWhkeUhnbkVyT0FOeHp6X1ExdVFwNkF1Wm9ka0ItRTRVbnFTam1rbmdxeGhhRDRQb2lxa0JqSWdRYQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 16.0
+   "heat": 228.3
   }
  ]
 }
