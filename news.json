@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10 11:38",
+ "updated": "2026-10-10 19:40",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.9
+   "heat": 73.5
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.6
+   "heat": 53.3
   },
   {
    "cat": "macro",
@@ -41,21 +41,21 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 48.0
   },
   {
    "cat": "macro",
-   "time": "2026-10-10 05:55",
-   "title": "Bank of Canada Rate Hike Bets Fade After Worst Year-to-Date Job Loss Since 2020",
-   "summary": "Plus: Aritzia’s banner day",
+   "time": "2026-10-10 19:02",
+   "title": "Poland Central Bank Faces Meeting Hurdles Without Glapinski: PAP",
+   "summary": "The potential suspension of Polish central bank governor Adam Glapinski could make it difficult to convene meetings of the rate-setting panel, a policymaker said, as an “unpreceden…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-09/bank-of-canada-rate-hike-bets-fade-after-worst-year-to-date-job-loss-since-2020",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-10/poland-central-bank-faces-meeting-hurdles-without-glapinski-pap",
      "t": "sec"
     }
    ],
-   "heat": 47.0
+   "heat": 47.9
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.6
+   "heat": 45.3
   },
   {
    "cat": "macro",
@@ -83,35 +83,21 @@
      "t": "sec"
     }
    ],
-   "heat": 46.5
+   "heat": 45.2
   },
   {
    "cat": "macro",
-   "time": "2026-10-10 01:49",
-   "title": "Oracle Trucking Gas to Keep Data Centers on Track",
-   "summary": "Oracle is using a new power strategy to keep many of its data centers on track: trucking natural gas directly to the server farms. The company is considering using this approach to…",
+   "time": "2026-10-10 08:34",
+   "title": "Venezuela authorises Elon Musk’s Starlink to operate nationwide",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-09/oracle-trucking-gas-to-keep-data-centers-on-track-video",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/company-news/venezuela-authorises-elon-musks-starlink-to-operate-nationwide-4942048",
+     "t": "agg"
     }
    ],
-   "heat": 46.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-09 21:09",
-   "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
-   "summary": "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 45.6
+   "heat": 44.1
   },
   {
    "cat": "macro",
@@ -125,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.5
+   "heat": 44.1
   },
   {
    "cat": "macro",
@@ -139,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.1
+   "heat": 40.0
   },
   {
    "cat": "macro",
@@ -153,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.4
+   "heat": 40.0
   },
   {
    "cat": "macro",
@@ -167,21 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-09 13:30",
-   "title": "US PPI: How Inflation Data Can Influence USD and Fed Expectations",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-ppi-how-inflation-data-can-influence-usd-and-fed-expectations-200689235",
-     "t": "agg"
-    }
-   ],
-   "heat": 34.3
+   "heat": 37.5
   },
   {
    "cat": "macro",
@@ -195,7 +167,7 @@
      "t": "agg"
     }
    ],
-   "heat": 32.6
+   "heat": 35.3
   },
   {
    "cat": "macro",
@@ -212,6 +184,174 @@
    "heat": 32.0
   },
   {
+   "cat": "macro",
+   "time": "2026-10-07 21:59",
+   "title": "US stocks: S&P 500, Nasdaq retreat from records as oil and Treasury yields rebound - The Economic Times",
+   "summary": "US stocks: S&P 500, Nasdaq retreat from records as oil and Treasury yields rebound &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOenNoZ2NNVkVycWo0OEpnZGhtWTgtUVhqcWNwenZGUUl4eFVWSU9IUzVfbHJhZU9ISldCUXAtaEloMktMNlE0UkF2XzFNWTNjWERnZ0NrTnpXZHh5TTJLUFBGRDRzSndWaWN0T1c5U2J1MkxwbU5rRF8tWTJpQ0JQZEx0dVlzeEhFUnVySVJXQnN5REFDM0R5NGlzNTFfMnlrZ1JtZzJ2eElSSDJjR1hjbWtBNnZEQ2pmV2VjYUZpbHcyYThsajJiYm9qNWJ6MU5wWW5HdzM1dFEydUNMTE11WXB6elBKYzFnakwwejhHN3VEU2NoWmExTjVRS2k0d9IBgwJBVV95cUxONUsxYUMtcExVdzU4RmhnaDBWZWlvMVNWUEE3YnRFOTlyb0NqNmFpdk5TSXhZSnNqVEhkSW1naV9nWWEzMjltMzNyYnR4SHVmamJqMEdUTUpGb000QkllbFVBUFpBamlwTWpjMk9BNDRYOHdWUHo3Q3RVeWJ4cmlJMUlzcEpSaWRiVGQ3dzY1cHNzNl9IeHJDMVV0Z0dKOFlZQlRaQUtWeGo0aHBFWTF1N2JFbEhjVkhRajlqTk9BMzl1aXVsNzVEaXBrUDVoTjFlNkl1cklwaFlOcE1OcVBrNTJ6a2M5YTVIM1VDR1hlbFE5S2tiamVhdzB2Z1BzZTZhcXkw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 32.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-07 20:36",
+   "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Fall as 30-Year Treasury Yield Hits 2002 High; Iran Mock - Benzinga",
+   "summary": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Fall as 30-Year Treasury Yield Hits 2002 High; Iran Mock &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMingJBVV95cUxQbERJUmRRcVU3MU5HYk5HNE5xNHR1UGE0a2dtRkV3VWs0OUcya3NUcGxWdlU4LTRsVm5tR0RjVHpUU3o4bUpLQlMxTWZIWUU3M0hEVExnYUt0ai1PUGJHR25RMjMzTi02aG12SDh1bDUwWnRmRE5YV0FCdGQtdlB1MkpTcVFNS2kxYXZWUExYYnRyN0MzSVljUkxQVEJtcUtzU3RVakhDSkszbDNldHJFTnZlR2tVNGtPdVA4RGg4UTZjT1dOZEZnaWtBSmZueXJHQWRsUld4Z1F5R3ZpQXVnemZmbW5mQkFHcXQ5SWstcGxCOFhKb1EzWjRFMmhpRENZVUMyRFFSMm54anh0SjRtczluWkFGQjZHRy02amRB?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 32.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-10 02:50",
+   "title": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
+   "summary": "Bears continued to build up positions against the semiconductor group on Friday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 309.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-10 18:35",
+   "title": "Isaias weakens to post-tropical cyclone after Florida landfall, NHC says",
+   "summary": "More than 430,000 people in Florida and nearly 297,000 in Alabama lost power as the storm hit shore, according to power outage tracking firm PowerOutage.us.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 307.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-10 18:29",
+   "title": "Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize",
+   "summary": "Each year of his presidency, Trump has expressed disappointment that he failed to win the prize.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/10/trump-norway-has-indelible-stain-nobel-peace-prize-snub.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 307.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-10 17:53",
+   "title": "China Passenger Vehicle Retail Sales Drop 24% in September",
+   "summary": "China’s passenger vehicle retail sales fell 24% in September from a year earlier to 1.702 million units, while new-energy vehicle sales declined 12% to 1.141 million units, accordi…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-10/china-passenger-vehicle-retail-sales-drop-24-in-september",
+     "t": "sec"
+    }
+   ],
+   "heat": 307.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-10 17:32",
+   "title": "Isaias Leaves Thousands Without Power After Striking Gulf Coast",
+   "summary": "More than 800,000 customers were without power Saturday as communities across the US Gulf Coast began assessing the damage left by Hurricane Isaias, which brought destructive winds…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-10/isaias-leaves-thousands-without-power-after-striking-gulf-coast",
+     "t": "sec"
+    }
+   ],
+   "heat": 307.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-10 17:00",
+   "title": "AI's Supercharging a Scam Economy Bigger Than the Cocaine Trade",
+   "summary": "As the Chinese scam industry spreads beyond Asia’s fortified compounds, it’s become cheaper and easier to run — thanks to AI — and harder to kill.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/",
+     "t": "sec"
+    }
+   ],
+   "heat": 307.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-10 13:00",
+   "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
+   "summary": "Cash-strapped farmers have no incentive to sow for 2027 with exports remaining trapped, as analysts say commodity markets could \"flip fast.\"",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/10/ukraine-grain-exports-russia-harvest.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 306.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-10 13:00",
+   "title": "AI is changing how lawyers work — and putting the billable hour under pressure",
+   "summary": "AI adoption is forcing the legal profession to rethink the billable hour and how lawyers build expertise.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 306.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-10 11:43",
+   "title": "China Targets AI-Linked Jobs With New Employment Initiative",
+   "summary": "China will launch an employment initiative aimed at adapting skills to the development of artificial intelligence, human-resources officials said at a State Council Information Off…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-10/china-targets-ai-linked-jobs-with-new-employment-initiative",
+     "t": "sec"
+    }
+   ],
+   "heat": 306.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-10 11:35",
+   "title": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks",
+   "summary": "Taiwanese President Lai Ching-te called on democracies in the region to unite against threats to stability, as the island faces pressure from Beijing and concerns that US President…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
+     "t": "sec"
+    }
+   ],
+   "heat": 306.7
+  },
+  {
    "cat": "sector",
    "time": "2026-10-10 11:33",
    "title": "Trump-Putin Diesel Deal, Anthropic Cites New AI Misbehavior,More",
@@ -223,21 +363,35 @@
      "t": "sec"
     }
    ],
-   "heat": 252.0
+   "heat": 306.6
   },
   {
    "cat": "sector",
-   "time": "2026-10-10 10:47",
-   "title": "Trump-Putin Diesel Deal, CAT 2 Isaias Makes Landfall, More",
-   "summary": "Source: Bloomberg, 6:37",
+   "time": "2026-10-10 11:23",
+   "title": "India Detains Student Leaders in Major Crackdown on Protests",
+   "summary": "Indian authorities detained leaders of a youth-led protest movement and their allies on Saturday and imposed sweeping restrictions in central Delhi to stop crowds from gathering fo…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-10/trump-putin-diesel-deal-cat-2-isaias-makes-landfall-more-mv1snvbs",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-10/india-masses-police-in-new-delhi-as-cockroach-protest-looms",
      "t": "sec"
     }
    ],
-   "heat": 251.9
+   "heat": 306.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-10 11:23",
+   "title": "Takaichi Says Japan ‘Deeply Concerned’ by US Sanctions on ICC",
+   "summary": "Japanese Prime Minister Sanae Takaichi said US sanctions against the International Criminal Court are incompatible with her country’s position and expressed deep concern over the m…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-10/takaichi-says-japan-deeply-concerned-by-us-sanctions-on-icc",
+     "t": "sec"
+    }
+   ],
+   "heat": 306.6
   },
   {
    "cat": "sector",
@@ -251,161 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 10:09",
-   "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-   "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 10:00",
-   "title": "Safari Park Plan Sparks Fresh Wave of Resident Angst in Vietnam",
-   "summary": "In the rolling hills of Ba Vi mountain range just outside Hanoi, the planned construction of a new safari park is causing consternation among residents and has sparked a backlash a…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-10/safari-park-plan-sparks-fresh-wave-of-resident-angst-in-vietnam",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 09:40",
-   "title": "Hurricane Isaias Slams Florida With Fierce Winds, Heavy Rain",
-   "summary": "Hurricane Isaias barreled into the Florida Panhandle Friday night with damaging winds and a storm surge that threatened to inundate beachfront communities.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-10/hurricane-isaias-slams-florida-with-dangerous-winds-heavy-rain",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 09:14",
-   "title": "Trump-Putin Diesel Deal, CAT 2 Isaias Making Landfall on Gulf",
-   "summary": "Source: Bloomberg, 6:35",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-10/trump-putin-diesel-deal-cat-2-isaias-making-landfall-on-gulf",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 08:15",
-   "title": "Trump-Putin Diesel Deal, CAT 2 Isaias Making Landfall, More",
-   "summary": "Source: Bloomberg, 6:22",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-10/trump-putin-diesel-deal-cat-2-isaias-making-landfall-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 08:08",
-   "title": "Anthropic Cites New AI Misbehavior, Some on Government Sites",
-   "summary": "Anthropic PBC said its Claude AI model carried out additional unintended actions on the digital systems of outside organizations, including some US government agencies’ websites, p…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-10/anthropic-shares-new-ai-misbehavior-some-on-government-sites",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 07:25",
-   "title": "Cirrus Logic Is Said to Have Bid for Synaptics After Onsemi Deal",
-   "summary": "Semiconductor company Cirrus Logic Inc. made an unsolicited acquisition offer for Synaptics Inc. last month as it looked to spoil a previously announced deal with On Semiconductor …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-09/cirrus-logic-is-said-to-have-bid-for-synaptics-after-onsemi-deal",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 07:13",
-   "title": "Wall Street Week | Michigan Manufacturing, AI Debt Investments, Baby Bonds, Canadian Coal Fight",
-   "summary": "This week, Ford, JPMorgan and the state of Michigan team up to help domestic manufacturers turn new technology into factories and supply chains. And, hyperscalers and data centers …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-week-baby-bonds-canadian-coal-fight-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 07:10",
-   "title": "Logitech CEO Hanneke Faber on AI Agents & The Great Tech Divide",
-   "summary": "Logitech CEO Hanneke Faber joins Bloomberg Businessweek Daily to discuss the findings of the company's CTRL Tomorrow study on how tech impacts its users, finding opportunity in the…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-09/logitech-ceo-on-ai-agents-the-great-tech-divide-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 06:22",
-   "title": "Cramer’s week ahead: Earnings kick off as banks and chipmakers face big tests",
-   "summary": "CNBC’s Jim Cramer said next week’s earnings reports will give investors a clearer picture of corporate performance and the strength of the AI trade.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.1
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-07 15:00",
-   "title": "How the Largest Stock ETFs in Canada Performed - Morningstar",
-   "summary": "How the Largest Stock ETFs in Canada Performed &nbsp;&nbsp; Morningstar",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNem93TEtPVHJya3hnT3YzNy1lSVM3eFZrV2VDMndHRXFSNENyODNOclZpNTVFbGw1WF8xRmtORHJiRHNBRF9HeTU5MGZBRExqQTNQWHdNb2lCNE9pakZpTFhuSnluWXVBV2lrczNnQmR0NjNtZG9YOWVCTWRTYTJ3Q0QxeFV0NWs1?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 132.0
+   "heat": 306.5
   },
   {
    "cat": "stock",
@@ -419,7 +419,35 @@
      "t": "sec"
     }
    ],
-   "heat": 128.0
+   "heat": 116.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-07 15:00",
+   "title": "How the Largest Stock ETFs in Canada Performed - Morningstar",
+   "summary": "How the Largest Stock ETFs in Canada Performed &nbsp;&nbsp; Morningstar",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNem93TEtPVHJya3hnT3YzNy1lSVM3eFZrV2VDMndHRXFSNENyODNOclZpNTVFbGw1WF8xRmtORHJiRHNBRF9HeTU5MGZBRExqQTNQWHdNb2lCNE9pakZpTFhuSnluWXVBV2lrczNnQmR0NjNtZG9YOWVCTWRTYTJ3Q0QxeFV0NWs1?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 112.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-10 14:00",
+   "title": "Banking Stock Swoon in Europe Is a Sign of Caution, Not Panic",
+   "summary": "A selloff in banking stocks is rarely comforting. But after three years of strong gains, the latest pullback in European lenders looks more like a reset than a crash.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-10/banking-stock-swoon-in-europe-is-a-sign-of-caution-not-panic",
+     "t": "sec"
+    }
+   ],
+   "heat": 103.1
   },
   {
    "cat": "stock",
@@ -433,21 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 119.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-10 05:25",
-   "title": "SpaceX’s Wireless Threat Rises With Spectrum Deal",
-   "summary": "SpaceX investors are finally getting some reprieve after months of being whipsawed by volatility as the Elon Musk-led company’s stock breaks above the level it’s been stuck below s…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-09/spacex-s-wireless-threat-rises-with-spectrum-deal-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 119.0
+   "heat": 102.5
   },
   {
    "cat": "stock",
@@ -461,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 118.9
+   "heat": 101.5
   },
   {
    "cat": "stock",
@@ -475,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 118.8
+   "heat": 101.4
   },
   {
    "cat": "stock",
@@ -489,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 118.7
+   "heat": 101.3
   },
   {
    "cat": "stock",
@@ -503,7 +517,21 @@
      "t": "sec"
     }
    ],
-   "heat": 118.6
+   "heat": 101.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-10 11:01",
+   "title": "Where could stocks and bonds collide? Here’s what to watch",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/where-could-stocks-and-bonds-collide-heres-what-to-watch-4942081",
+     "t": "agg"
+    }
+   ],
+   "heat": 100.6
   },
   {
    "cat": "stock",
@@ -517,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 117.9
+   "heat": 100.6
   },
   {
    "cat": "stock",
@@ -531,21 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 117.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-09 21:07",
-   "title": "Tech stocks' resilience has puzzled investors. The options market could hold some clues",
-   "summary": "In the options pits, traders are the most prepared for a tech pullback since early Summer.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/09/tech-stocks-resilience-has-puzzled-investors-the-options-market-could-hold-some-clues.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 117.6
+   "heat": 100.3
   },
   {
    "cat": "stock",
@@ -559,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 117.6
+   "heat": 100.2
   },
   {
    "cat": "stock",
@@ -573,35 +587,35 @@
      "t": "sec"
     }
    ],
-   "heat": 117.2
+   "heat": 99.9
   },
   {
    "cat": "stock",
-   "time": "2026-10-10 02:00",
-   "title": "Onemednet CEO Aaron Green sells $47,762 in stock",
-   "summary": "",
+   "time": "2026-10-08 17:39",
+   "title": "Hong Kong’s Hang Seng Tech Index to Expand to 50 Stocks",
+   "summary": "Hong Kong’s Hang Seng Tech Index to Expand to 50 Stocks &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/onemednet-ceo-aaron-green-sells-47762-in-stock-93CH-4941935",
-     "t": "agg"
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDZpbW90V3JMNmRkcGx6M0ZCTElkcHF0MXZKei1CV0lwM0pnMlNPZGxvaWhuWjgwbmFDaTJ6X1MxNVdDTks4S1BhQkZ4ZmpyQXhSOUViUUNJNVdjOEVfNXpienlUbE1lOGJzZVRRQmhGeGVRX3hVajFyOW04T1JubFI0ZnU5QmZfZjBFaDF0eDFxNFZ4WnQxcS1Ydm0zVDFSVFlzT1FfdTQ4bGRiQXc?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 116.4
+   "heat": 96.0
   },
   {
    "cat": "stock",
-   "time": "2026-10-10 01:31",
-   "title": "Optimum communications director Neil Subin acquires $2.45m in stock",
-   "summary": "",
+   "time": "2026-10-08 05:33",
+   "title": "Stocks fall worldwide as Wall Street retreats from its record - CommBank",
+   "summary": "Stocks fall worldwide as Wall Street retreats from its record &nbsp;&nbsp; CommBank",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-subin-acquires-245m-in-stock-93CH-4941916",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenoxMDNRUGR3VVRTRzJmN0QwNFpGWVZwV2U5VUJCYXZ2SElMcW1LVnJwYnJtb09Eck5IWjZtNUxkRTBPdUtiR0FwbFZscm4tcXdzbjh4VnVsTmVtbDJSbThRWTluNnpwbkhwbmttV051SFI0MXhTYkpyQi0xRmJJN000ZHhKTkhiZHpIVUNZVnRmRHJ2YWNLa0JnMzRzZGdkYTdiVzkxRm5fVXdjUjFyc3p6M29XRnc?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 116.3
+   "heat": 96.0
   },
   {
    "cat": "global",
@@ -615,7 +629,7 @@
      "t": "agg"
     }
    ],
-   "heat": 72.5
+   "heat": 71.1
   },
   {
    "cat": "global",
@@ -629,7 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 71.6
+   "heat": 70.2
   },
   {
    "cat": "global",
@@ -643,21 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-09 23:56",
-   "title": "Drones Help Tackle Shell’s Million-Dollar Hurricane Problem",
-   "summary": "When hurricanes sweep through the Gulf of Mexico, oil companies can lose millions of dollars waiting for the all-clear to restart production. Shell Plc thinks a fleet of drones can…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-09/tiny-drones-help-tackle-shell-s-million-dollar-hurricane-problem",
-     "t": "sec"
-    }
-   ],
-   "heat": 66.0
+   "heat": 61.1
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.2
+   "heat": 56.9
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.1
+   "heat": 49.8
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.8
+   "heat": 49.5
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.7
+   "heat": 49.4
   },
   {
    "cat": "global",
@@ -727,7 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.6
+   "heat": 49.2
   },
   {
    "cat": "global",
@@ -741,7 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 47.6
+   "heat": 46.3
   },
   {
    "cat": "global",
@@ -755,7 +755,21 @@
      "t": "agg"
     }
    ],
-   "heat": 46.6
+   "heat": 45.2
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-06 18:27",
+   "title": "A Rising US Dollar Becomes a Headwind",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/a-rising-us-dollar-becomes-a-headwind-200689015",
+     "t": "agg"
+    }
+   ],
+   "heat": 42.0
   },
   {
    "cat": "global",
@@ -769,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.3
+   "heat": 34.0
   },
   {
    "cat": "global",
@@ -783,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.1
+   "heat": 33.7
   },
   {
    "cat": "global",
@@ -797,7 +811,7 @@
      "t": "agg"
     }
    ],
-   "heat": 34.9
+   "heat": 33.5
   },
   {
    "cat": "global",
@@ -811,7 +825,7 @@
      "t": "agg"
     }
    ],
-   "heat": 34.7
+   "heat": 33.3
   },
   {
    "cat": "crypto",
@@ -825,21 +839,35 @@
      "t": "sec"
     }
    ],
-   "heat": 89.9
+   "heat": 76.5
   },
   {
    "cat": "crypto",
-   "time": "2026-10-09 18:16",
-   "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-   "summary": "Thailand’s new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible.",
+   "time": "2026-10-10 19:00",
+   "title": "Bitcoin's $19 billion wake-up call: One-year later, has crypto learned anything?",
+   "summary": "One year after a flash crash wiped out billions in leveraged crypto bets, traders have better tools to spot risks. But the forces behind the selloff remain.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+     "u": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
      "t": "sec"
     }
    ],
-   "heat": 89.1
+   "heat": 67.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-10 13:43",
+   "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+   "summary": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+     "t": "sec"
+    }
+   ],
+   "heat": 67.0
   },
   {
    "cat": "crypto",
@@ -853,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.5
+   "heat": 65.1
   },
   {
    "cat": "crypto",
@@ -867,21 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 73.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-09 21:30",
-   "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
-   "summary": "French authorities recorded 90 crypto-related cases involving kidnapping, extortion, threats and violent theft in seven months. What makes France such a hotspot?",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 73.6
+   "heat": 64.6
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 73.3
+   "heat": 63.9
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.6
+   "heat": 62.2
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.8
+   "heat": 61.5
   },
   {
    "cat": "crypto",
@@ -937,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.8
+   "heat": 61.4
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.2
+   "heat": 60.9
   },
   {
    "cat": "crypto",
@@ -965,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.1
+   "heat": 60.8
   },
   {
    "cat": "crypto",
@@ -979,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.0
+   "heat": 60.7
   },
   {
    "cat": "crypto",
@@ -993,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 65.9
+   "heat": 60.5
   },
   {
    "cat": "crypto",
@@ -1007,49 +1021,35 @@
      "t": "sec"
     }
    ],
-   "heat": 65.7
+   "heat": 60.4
   },
   {
    "cat": "crypto",
-   "time": "2026-10-09 18:14",
-   "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-   "summary": "Britain said the crypto platforms and two payment services may have helped Russia evade financial sanctions, with two handling transactions involving the Kremlin-backed A7 network.",
+   "time": "2026-10-10 15:10",
+   "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+   "summary": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
    "srcs": [
     {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 65.1
+   "heat": 35.2
   },
   {
    "cat": "sector",
-   "time": "2026-10-08 02:10",
-   "title": "Anthropic发布最新AI模型Claude Haiku 5.5，用于执行那些对成本敏感的任务",
-   "summary": "Anthropic发布最新AI模型Claude Haiku 5.5，用于执行那些对成本敏感的任务 &nbsp;&nbsp; 财联社",
+   "time": "2026-10-10 06:52",
+   "title": "06:52:37【特朗普政府要求AI公司在发生安全事件后立即上报】",
+   "summary": "06:52:37【特朗普政府要求AI公司在发生安全事件后立即上报】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GcF9lQ1FXQk9hOWw4V0dueGh2Tk5pdUY5Zk8yV0RjeVhOMzBEdHlCUTlVaGJDTTBLZ21hMTA0ZWthZmNzclRDWQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjSVIySDZnTXFfcFVtZVRVSDd1Q0ZxVjVGcWhySUV5UllaZzZfaEpsM19obDBEVTZhSWlkbDg1S25JZnlacW04QQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 244.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 00:10",
-   "title": "Taikang Life’s Leadership Change Highlights Divergent Fortunes of China’s Insurers",
-   "summary": "Taikang Life’s Leadership Change Highlights Divergent Fortunes of China’s Insurers &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcnlOVXJvaW5XOUlZMWtNUGw5cUJXcjQ1dDRHRG1hMkZZamZPQ2lyZ2JmTGN5VElaby0ydVlBMm1icnRqel9LZTJ0Q1NsSnV2NDVWbWpIMnM2bmhfTnZ6cHlyUkpWYzNDYi1pOFA0cVlBVzl0eHFva0VvV2FRNDNGR2VBRDNhTWJ2RjRISndLVVBrX0tGeW5DQmNmMWVteV8yMDVxMjBNZVp4ZzdmdEtzaXd2Nkt5Z0RTaXlENWJkb212SWUycVllVmhDTUpncEtR?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 250.1
+   "heat": 305.9
   }
  ]
 }
