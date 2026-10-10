@@ -1,10 +1,52 @@
 {
- "updated": "2026-10-11 00:41",
+ "updated": "2026-10-11 04:57",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-10-11 00:38",
-   "title": "Missile strikes passenger terminal at Riyadh airport and many are wounded, official says",
+   "time": "2026-10-11 02:52",
+   "title": "Nvidia Explores Deal Options With Reflection AI, Financial Times Says",
+   "summary": "Nvidia Corp. is in talks to boost its investment in Reflection AI or offer the startup computing power, a move that would strengthen ties with a key developer of open-weight models…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-10/nvidia-is-in-talks-to-acquire-reflection-ai-the-ft-reports",
+     "t": "sec"
+    }
+   ],
+   "heat": 171.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-10 19:36",
+   "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports-4942221",
+     "t": "agg"
+    }
+   ],
+   "heat": 168.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 04:31",
+   "title": "Trump: Ukraine Needs New Leader, Riyadh Airport Ops Suspended",
+   "summary": "Source: Bloomberg, 5:25",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-10/trump-ukraine-needs-new-leader-riyadh-airport-ops-suspended",
+     "t": "sec"
+    }
+   ],
+   "heat": 167.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 03:47",
+   "title": "Trump weighs joining the fight against Houthis after Saudi capital's airport is struck again",
    "summary": "The airport has been targeted multiple times in the week since a Saudi-led coalition launched a military offensive against Houthi rebels in neighboring Yemen.",
    "srcs": [
     {
@@ -13,7 +55,77 @@
      "t": "sec"
     }
    ],
-   "heat": 300.0
+   "heat": 167.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 03:19",
+   "title": "Trump says Ukraine should get a new president as he blames Zelenskyy for U.S. diesel prices",
+   "summary": "Ukrainian and European officials on Saturday reacted to Trump's Russian diesel deal with dismay, saying it will help pay for Putin's war efforts.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 167.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 03:07",
+   "title": "Trump Says Ukraine Needs New Leader,Riyadh Airport Ops Suspended",
+   "summary": "Source: Bloomberg, 5:14",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-10/trump-says-ukraine-needs-new-leader-riyadh-airport-ops-suspended",
+     "t": "sec"
+    }
+   ],
+   "heat": 167.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 02:35",
+   "title": "Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI",
+   "summary": "Microsoft Corp. Chief Executive Officer Satya Nadella said companies should treat powerful artificial intelligence models as potential insider threats, assume they could be comprom…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
+     "t": "sec"
+    }
+   ],
+   "heat": 167.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 02:21",
+   "title": "Isaias kills two, leaves thousands without power after landfall",
+   "summary": "About 800,000 Florida, Alabama and Georgia residents were without power after Hurricane Isaias made landfall early on Saturday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 167.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 01:02",
+   "title": "By The Way: Headlines You May Have Missed",
+   "summary": "The growing debate over video calls on airplanes, premium California wines selling at steep discounts under supermarket private labels, a new rivalry between New York diners featur…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-10/by-the-way-headlines-you-may-have-missed-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 167.3
   },
   {
    "cat": "sector",
@@ -27,119 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-11 00:03",
-   "title": "Russian Diesel Deal Unlikely to Lower US Prices",
-   "summary": "Bloomberg Economics Economic Statecraft Lead Chris Kennedy tells Bloomberg This Weekend that President Donald Trump's agreement to obtain Russian diesel is unlikely to significantl…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-10/russian-diesel-deal-unlikely-to-lower-us-prices-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 23:55",
-   "title": "Bloomberg This Weekend | Diesel Deal Struck with Putin, Isaias Makes Landfall",
-   "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-10/bloomberg-this-weekend-10-10-2026-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 23:03",
-   "title": "Jefferies Says It Found Fraud in $900 Million of Radiant Deals",
-   "summary": "A Jefferies-run fund said in court proceedings that it has evidence of alleged fraudulent conduct by iron ore traders Radiant World and Sapphire Minmetals in receivables-financing …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-10/jefferies-says-it-found-fraud-in-900-million-of-radiant-deals",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 22:54",
-   "title": "Russia to Supply US Diesel, Isaias Weakens, Rinaldo Suspended",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-10/russia-to-supply-us-diesel-isaias-weakens-rinaldo-suspended",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 22:22",
-   "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
-   "summary": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 22:19",
-   "title": "Trump’s AI Liability Push Opens Blame Game for Models Gone Rogue",
-   "summary": "The Trump administration’s embrace of legal liability to enforce artificial intelligence safety sets the stage for future conflicts over who foots the bill when AI models go rogue:…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-10/trump-s-ai-liability-push-opens-blame-game-for-models-gone-rogue",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 21:41",
-   "title": "The Race for AI Supremacy Raises Safety Concerns",
-   "summary": "Technology Journalist and Author Kevin Roose tells Bloomberg This Weekend that a relatively small group of researchers and executives at OpenAI, Anthropic and Google DeepMind has d…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-10/the-race-for-ai-supremacy-raises-safety-concerns-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 21:00",
-   "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
-   "summary": "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.4
+   "heat": 167.2
   }
  ]
 }

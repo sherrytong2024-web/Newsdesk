@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-11 00:41",
+ "updated": "2026-10-11 04:57",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-10-10 03:19",
+   "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+   "summary": "Trump’s bid to fire the Fed's Lisa Cook follows a Supreme Court ruling and could affect Jerome Powell, central bank independence and interest rates.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-11 01:18",
+   "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+   "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, C…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-10/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.4
+  },
   {
    "cat": "macro",
    "time": "2026-10-11 00:19",
@@ -13,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.9
+   "heat": 31.2
   },
   {
    "cat": "macro",
@@ -27,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.8
+   "heat": 31.1
   },
   {
    "cat": "macro",
@@ -41,77 +69,49 @@
      "t": "sec"
     }
    ],
-   "heat": 39.2
+   "heat": 30.5
   },
   {
    "cat": "macro",
-   "time": "2026-10-10 19:02",
-   "title": "Poland Central Bank Faces Meeting Hurdles Without Glapinski: PAP",
-   "summary": "The potential suspension of Polish central bank governor Adam Glapinski could make it difficult to convene meetings of the rate-setting panel, a policymaker said, as an “unpreceden…",
+   "time": "2026-10-10 03:27",
+   "title": "Phenomenal Time To Be Investor, Not Consumer: Amoroso",
+   "summary": "Anastasia Amoroso, chief investment strategist with Partners Group, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the bullish sentiment in the stock market, the…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-10/poland-central-bank-faces-meeting-hurdles-without-glapinski-pap",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-09/phenomenal-time-to-be-investor-not-consumer-amoroso-video",
      "t": "sec"
     }
    ],
-   "heat": 39.1
+   "heat": 27.7
   },
   {
    "cat": "macro",
-   "time": "2026-10-10 03:18",
-   "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-   "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+   "time": "2026-10-11 03:00",
+   "title": "AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals",
+   "summary": "When financing gets more expensive, companies usually slow down their bond sales. Tech companies have instead been ramping up this year, and talk this week of potential big financi…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly",
      "t": "sec"
     }
    ],
-   "heat": 36.4
+   "heat": 19.7
   },
   {
    "cat": "macro",
-   "time": "2026-10-08 06:20",
-   "title": "S&P 500 Slips 0.22% to 7,801.77 From Record as Fed Minutes Point to Another Rate Hike - BBN Times",
-   "summary": "S&P 500 Slips 0.22% to 7,801.77 From Record as Fed Minutes Point to Another Rate Hike &nbsp;&nbsp; BBN Times",
+   "time": "2026-10-10 18:48",
+   "title": "Bitcoin rebounds above $83,000 after weekly slide as oil, yields and security fear",
+   "summary": "",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMUZORnJmZS1hWHl2OG5qM2JwR1pIWVVndEdHV2tGQUhFbzdkMkotZDlOdzJvM2pwZG1qcGN2dzVLRUFJc0dHWEs3VEYtcWp0OFlOWk5hTm80aGV4dElJNnNlV2dnVGdfYmhsRmNndG1fRjJuUWNRSEE0UzFndmpFcHZ5VzZISGpKT1I1T294MWdCMFNlNTZyWGpqWC1qNkRZUk56RWlRT1FPRFN1RU5aS094Q2h0cXFDalV1cWNKVTIxdw?oc=5",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+     "t": "agg"
     }
    ],
-   "heat": 36.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-08 18:18",
-   "title": "Porsche Overhauls Strategy as China Sales Plunge",
-   "summary": "Porsche Overhauls Strategy as China Sales Plunge &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR2FsUlEzdUVfMHJVaUl2cUFoRGVzdkliNl9FVW1CM1pWem1rRkkzLXZnYlE5TnBXaXZ3bkFxQnktNDRYZlNHV2tMemQ1cjJ6UXJtUDFDT2l4aUlqNW1yWDZLZnNCOFVzdkdSVlhycE56OVVYRDlUYjNfT2ZQSjJiUDl6OHRFY2JONm53VWJ4REsya05hWXk4TlFwWDQyRWxXV1lXUHRn?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 32.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-08 14:16",
-   "title": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says - Yahoo Finance UK",
-   "summary": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says &nbsp;&nbsp; Yahoo Finance UK",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fa1huMUlSaThkT0d3dXNyUHRYU1dsZUdjYXRST3lOU01lOFUzbWxVc1JzZm0tb2Uyb2FIVm5KRlpob2FhR1RqYy13Zk40LWdkMlFYZUVmYTRMVHYxNXpCVzFiUnNBa0ZxNTY2Wl82Ylo4dVg4RFl1OExwQmU?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 32.0
+   "heat": 16.3
   },
   {
    "cat": "macro",
@@ -125,96 +125,82 @@
      "t": "agg"
     }
    ],
-   "heat": 22.4
+   "heat": 13.7
   },
   {
    "cat": "macro",
-   "time": "2026-10-07 23:11",
-   "title": "Why is the US stock market down today? Dow Jones, Nasdaq and S&P 500 in deep red — rising Treasury yields, - The Economi",
-   "summary": "Why is the US stock market down today? Dow Jones, Nasdaq and S&P 500 in deep red — rising Treasury yields, &nbsp;&nbsp; The Economic Times",
+   "time": "2026-10-09 13:30",
+   "title": "US PPI: How Inflation Data Can Influence USD and Fed Expectations",
+   "summary": "",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQSXVLUFB1YVZUdkNKNGp2VHJaMXBzRS1YNmt1amUwRllKOHVJNXl0U0VEa0l6c2hTMFB1eVhldkFWRi1ieE82aTJLS04tU09xQ0RkYmY4RlNUTUhXSGtGaHdmWkZ1a21ZZkptSVVsUDBhOWlQUkVZWlpBUzl3Y3lPY2lkMFBQb2hKbzFlZDhSeFp1V1JsYUZvc3p3cktucFUwdmFCYjhLMDJHVGhpMmxYcEpUY3RzRWs0VEpjMEU0UTVHUUNkZmE5c3lBNWJSZVVjMGxNZDQ5Mmloc0U1ZFp5SHRyTTMwa0d1ZjJGMkV3d2lwWEE5N2RUQlN6S3Vvdll4bGlkNGlURzlrcFNFd1hFa3NjODJ6aDVOc2xPcHByaTQ3djM1SmJuc2E0N0hhYTF4TVNXa1VUd1dVZEQ3RFMwNGNyaW9zcnMyVDRTUld6bmRmYW1NUWlCVi1ISEXSAeICQVVfeXFMTVg1TUZ0RTNUNjZ2OVZ2VU9mVnY0VU96M2NsZTZCalpFOU9QLS1ZbUlRN0E1Q2NTZEt2ZG91dzl1X2Ntd2tjSkhxWVNkRV96OFdCZG5UWS1uVi1SWm53dnRLYWhfLUlWeTNPb1ZEWGVqTzN0LXVXVHA5VjYtaDY5NmlTUlRkbkFDWHFMcU12dDVQQVdrellMN3FFNGhBc0xsbFI3QXl2SGtlZjl2R2x0bVBPV25JSU0yYlRkbGVlbm9aa3YxTE4tV0pFMG1fMThMN1F0NDVUamdKNEI5WmFuTXk3QkMzSFVkbjZ0TFk2VENaUTJwY29PNzdHRnBaVzRoMDN2RGZNZnpHTk5tM3g4TWJRZHhvaVY5bXFtdFVmdFhOWFhndHlNbWQ0SmFYbzdEdV92bTAyZTJ5Wk92N3h3eGlIUWVuWFdBZERleGoxRU9sZXo1OWNJVW1acmlqaThNb0xn?oc=5",
-     "t": "sec"
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/us-ppi-how-inflation-data-can-influence-usd-and-fed-expectations-200689235",
+     "t": "agg"
     }
    ],
-   "heat": 20.0
+   "heat": 11.4
   },
   {
    "cat": "macro",
-   "time": "2026-10-07 21:59",
-   "title": "US stocks: S&P 500, Nasdaq retreat from records as oil and Treasury yields rebound - The Economic Times",
-   "summary": "US stocks: S&P 500, Nasdaq retreat from records as oil and Treasury yields rebound &nbsp;&nbsp; The Economic Times",
+   "time": "2026-10-09 22:57",
+   "title": "Gold Struggles as Inflation Risks and Iran Uncertainty Drain Momentum",
+   "summary": "",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOenNoZ2NNVkVycWo0OEpnZGhtWTgtUVhqcWNwenZGUUl4eFVWSU9IUzVfbHJhZU9ISldCUXAtaEloMktMNlE0UkF2XzFNWTNjWERnZ0NrTnpXZHh5TTJLUFBGRDRzSndWaWN0T1c5U2J1MkxwbU5rRF8tWTJpQ0JQZEx0dVlzeEhFUnVySVJXQnN5REFDM0R5NGlzNTFfMnlrZ1JtZzJ2eElSSDJjR1hjbWtBNnZEQ2pmV2VjYUZpbHcyYThsajJiYm9qNWJ6MU5wWW5HdzM1dFEydUNMTE11WXB6elBKYzFnakwwejhHN3VEU2NoWmExTjVRS2k0d9IBgwJBVV95cUxONUsxYUMtcExVdzU4RmhnaDBWZWlvMVNWUEE3YnRFOTlyb0NqNmFpdk5TSXhZSnNqVEhkSW1naV9nWWEzMjltMzNyYnR4SHVmamJqMEdUTUpGb000QkllbFVBUFpBamlwTWpjMk9BNDRYOHdWUHo3Q3RVeWJ4cmlJMUlzcEpSaWRiVGQ3dzY1cHNzNl9IeHJDMVV0Z0dKOFlZQlRaQUtWeGo0aHBFWTF1N2JFbEhjVkhRajlqTk9BMzl1aXVsNzVEaXBrUDVoTjFlNkl1cklwaFlOcE1OcVBrNTJ6a2M5YTVIM1VDR1hlbFE5S2tiamVhdzB2Z1BzZTZhcXkw?oc=5",
-     "t": "sec"
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-struggles-as-inflation-risks-and-iran-uncertainty-drain-momentum-200689284",
+     "t": "agg"
     }
    ],
-   "heat": 20.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-07 20:36",
-   "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Fall as 30-Year Treasury Yield Hits 2002 High; Iran Mock - Benzinga",
-   "summary": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Fall as 30-Year Treasury Yield Hits 2002 High; Iran Mock &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMingJBVV95cUxQbERJUmRRcVU3MU5HYk5HNE5xNHR1UGE0a2dtRkV3VWs0OUcya3NUcGxWdlU4LTRsVm5tR0RjVHpUU3o4bUpLQlMxTWZIWUU3M0hEVExnYUt0ai1PUGJHR25RMjMzTi02aG12SDh1bDUwWnRmRE5YV0FCdGQtdlB1MkpTcVFNS2kxYXZWUExYYnRyN0MzSVljUkxQVEJtcUtzU3RVakhDSkszbDNldHJFTnZlR2tVNGtPdVA4RGg4UTZjT1dOZEZnaWtBSmZueXJHQWRsUld4Z1F5R3ZpQXVnemZmbW5mQkFHcXQ5SWstcGxCOFhKb1EzWjRFMmhpRENZVUMyRFFSMm54anh0SjRtczluWkFGQjZHRy02amRB?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-06 16:47",
-   "title": "S&P 500 Outlook: Can AI Earnings Offset Higher Yields? - TradingView",
-   "summary": "S&P 500 Outlook: Can AI Earnings Offset Higher Yields? &nbsp;&nbsp; TradingView",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPck9kV25QejVRdkZGMHRQSmF4d2tpS2E4bTNXaUlwci1GZmwxZk1BMnFBeFR6U2Z5TzZPd1RRVllseVJSTDYwRUZERjlaQVZZU2xEVE1aRDBnTGotUllCN2RfM1NRLWQ5NXdYUzBMdmREd2ZLU3p3ZGlENVB4UXRaWEE1MmZXTExNYzdwMEtjV0ZKX3MyT0FrZnotcGpWRWtpeHB0emVoejI1NEItN1c4b19XN2U0UWx4YkE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-07 01:12",
-   "title": "01:12:17 财联社10月7日电，美国3年期国债中标利率为4.932%，创2006年以来最高拍卖收益率。",
-   "summary": "01:12:17 财联社10月7日电，美国3年期国债中标利率为4.932%，创2006年以来最高拍卖收益率。 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fUGJzZlp6M01xZDRvcXpISXlBdmtKNDVLaXRacnJZMHlJbWFLYW9ybjR3SlB1ZkJqUDc1b1EzOXduNTFQeWhsRQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 16.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-09 23:05",
-   "title": "法国债务逼近GDP的120% 诺奖得主警告：或“大到无法救助”",
-   "summary": "法国债务逼近GDP的120% 诺奖得主警告：或“大到无法救助” &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xa292RG1VdWk1X2J3Wi00QTdvWjBhcEJBWGE5RnV2NmsxMnNubGpsNnRwMWJoXy1RMnRWZHdfNk05Y1JpU0ZCNw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 15.7
+   "heat": 9.0
   },
   {
    "cat": "sector",
-   "time": "2026-10-11 00:38",
-   "title": "Missile strikes passenger terminal at Riyadh airport and many are wounded, official says",
+   "time": "2026-10-11 02:52",
+   "title": "Nvidia Explores Deal Options With Reflection AI, Financial Times Says",
+   "summary": "Nvidia Corp. is in talks to boost its investment in Reflection AI or offer the startup computing power, a move that would strengthen ties with a key developer of open-weight models…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-10/nvidia-is-in-talks-to-acquire-reflection-ai-the-ft-reports",
+     "t": "sec"
+    }
+   ],
+   "heat": 171.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-10 19:36",
+   "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports-4942221",
+     "t": "agg"
+    }
+   ],
+   "heat": 168.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 04:31",
+   "title": "Trump: Ukraine Needs New Leader, Riyadh Airport Ops Suspended",
+   "summary": "Source: Bloomberg, 5:25",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-10/trump-ukraine-needs-new-leader-riyadh-airport-ops-suspended",
+     "t": "sec"
+    }
+   ],
+   "heat": 167.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 03:47",
+   "title": "Trump weighs joining the fight against Houthis after Saudi capital's airport is struck again",
    "summary": "The airport has been targeted multiple times in the week since a Saudi-led coalition launched a military offensive against Houthi rebels in neighboring Yemen.",
    "srcs": [
     {
@@ -223,7 +209,77 @@
      "t": "sec"
     }
    ],
-   "heat": 300.0
+   "heat": 167.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 03:19",
+   "title": "Trump says Ukraine should get a new president as he blames Zelenskyy for U.S. diesel prices",
+   "summary": "Ukrainian and European officials on Saturday reacted to Trump's Russian diesel deal with dismay, saying it will help pay for Putin's war efforts.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 167.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 03:07",
+   "title": "Trump Says Ukraine Needs New Leader,Riyadh Airport Ops Suspended",
+   "summary": "Source: Bloomberg, 5:14",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-10/trump-says-ukraine-needs-new-leader-riyadh-airport-ops-suspended",
+     "t": "sec"
+    }
+   ],
+   "heat": 167.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 02:35",
+   "title": "Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI",
+   "summary": "Microsoft Corp. Chief Executive Officer Satya Nadella said companies should treat powerful artificial intelligence models as potential insider threats, assume they could be comprom…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
+     "t": "sec"
+    }
+   ],
+   "heat": 167.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 02:21",
+   "title": "Isaias kills two, leaves thousands without power after landfall",
+   "summary": "About 800,000 Florida, Alabama and Georgia residents were without power after Hurricane Isaias made landfall early on Saturday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 167.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 01:02",
+   "title": "By The Way: Headlines You May Have Missed",
+   "summary": "The growing debate over video calls on airplanes, premium California wines selling at steep discounts under supermarket private labels, a new rivalry between New York diners featur…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-10/by-the-way-headlines-you-may-have-missed-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 167.3
   },
   {
    "cat": "sector",
@@ -237,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.9
+   "heat": 167.2
   },
   {
    "cat": "sector",
@@ -251,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.9
+   "heat": 167.2
   },
   {
    "cat": "sector",
@@ -265,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.9
+   "heat": 167.2
   },
   {
    "cat": "sector",
@@ -279,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.7
+   "heat": 167.0
   },
   {
    "cat": "sector",
@@ -293,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.7
+   "heat": 167.0
   },
   {
    "cat": "sector",
@@ -307,91 +363,21 @@
      "t": "sec"
     }
    ],
-   "heat": 299.6
+   "heat": 166.9
   },
   {
-   "cat": "sector",
-   "time": "2026-10-10 22:19",
-   "title": "Trump’s AI Liability Push Opens Blame Game for Models Gone Rogue",
-   "summary": "The Trump administration’s embrace of legal liability to enforce artificial intelligence safety sets the stage for future conflicts over who foots the bill when AI models go rogue:…",
+   "cat": "stock",
+   "time": "2026-10-11 01:37",
+   "title": "Strong Earnings Keep US Stocks in Favor",
+   "summary": "PNC Asset Management Chief Investment Officer Amanda Agati tells Bloomberg This Weekend that strong corporate fundamentals and resilient consumer spending could support US stocks a…",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-10/trump-s-ai-liability-push-opens-blame-game-for-models-gone-rogue",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-10/strong-earnings-keep-us-stocks-in-favor-video",
      "t": "sec"
     }
    ],
-   "heat": 299.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 21:41",
-   "title": "The Race for AI Supremacy Raises Safety Concerns",
-   "summary": "Technology Journalist and Author Kevin Roose tells Bloomberg This Weekend that a relatively small group of researchers and executives at OpenAI, Anthropic and Google DeepMind has d…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-10/the-race-for-ai-supremacy-raises-safety-concerns-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 21:00",
-   "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
-   "summary": "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 20:41",
-   "title": "Isaias brings flood, tornado threats, power outages across U.S. Southeast after Florida landfall",
-   "summary": "More than 430,000 people in Florida and nearly 297,000 in Alabama lost power as the storm hit shore, according to power outage tracking firm PowerOutage.us.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 20:24",
-   "title": "Russia to Supply Diesel Ahead of Midterms, Isaias Weakens, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-10/russia-to-supply-diesel-ahead-of-midterms-isaias-weakens-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 20:20",
-   "title": "Isaias Lashes Southeast, Trump's Diesel Deal with Russia, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-10/isaias-lashes-southeast-trump-s-diesel-deal-with-russia-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.3
+   "heat": 51.4
   },
   {
    "cat": "stock",
@@ -405,35 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 115.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-05 15:00",
-   "title": "US stocks today: S&P 500 edges down with Iran and earnings season in focus - The Economic Times",
-   "summary": "US stocks today: S&P 500 edges down with Iran and earnings season in focus &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMXB6MnctZGZYSm9WUFRhcWo4X3J5S2h5R1VBWjVfSGRFbDZycjR2QlFoNVpndXBHdlFKTnpEUWd4WTlubGNwQTQ3bDNRaS1fai1Scm9Ia1hsalVUTVZObktaUDdCUERoelYwRkMxYXpVSE5wdlpPNlp0eXE5LTJMVm50Nm5oZm5GRko1alZURjVHR29QdUU2Y2RXNlVLcld1cEN5QjF3b054azRUZVRzbmpEdjM2dHliOUd6NWdwX2xkMWpTTGxzSjdwRHZNMDkwM1Rrekh2ZC02WEtoTXdFbGZic9IB6AFBVV95cUxOeEdlUWlkaWx2Tml4RUE5Uk5zTmRZekpTRWUyN2JBVTVaTkkwcHMxUGRhWkRjOFdMRTdqX1Robk5tdEdYSEh2akF2MlJmdVNySDdOX216Uk1PdGFtRTN1d3JuVERROVNqZjd2TVFQaVhleFhwcXVTNkVOaThmbzhwUkR3SncyS0JtanBXNlR6VU9nbmxmV3A1VmRtU3d2akpUb29yd3FhcUlXeWRuUGpOMWJtdzdya3JuRUhTUy1LcDM1SVFVR3RaZVhDT0tJZTJUUDZmeVNYdFVFNk9KaGNmQWhZRGxQWnh0?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 108.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-07 15:00",
-   "title": "How the Largest Stock ETFs in Canada Performed - Morningstar",
-   "summary": "How the Largest Stock ETFs in Canada Performed &nbsp;&nbsp; Morningstar",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNem93TEtPVHJya3hnT3YzNy1lSVM3eFZrV2VDMndHRXFSNENyODNOclZpNTVFbGw1WF8xRmtORHJiRHNBRF9HeTU5MGZBRExqQTNQWHdNb2lCNE9pakZpTFhuSnluWXVBV2lrczNnQmR0NjNtZG9YOWVCTWRTYTJ3Q0QxeFV0NWs1?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 104.0
+   "heat": 50.5
   },
   {
    "cat": "stock",
@@ -447,35 +405,77 @@
      "t": "sec"
     }
    ],
-   "heat": 95.2
+   "heat": 46.5
   },
   {
    "cat": "stock",
-   "time": "2026-10-10 04:53",
-   "title": "Toronto Stock Exchange: S&P/TSX Composite Rises 0.37% to About 35,650 as Utilities, Telecoms and Atco Lead - BBN Times",
-   "summary": "Toronto Stock Exchange: S&P/TSX Composite Rises 0.37% to About 35,650 as Utilities, Telecoms and Atco Lead &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc1B6Ml9WdWlINFYzUGZvQTBVVm5vVktXb0Jaa25pV3JfUnk2ZkRhcWNpRzFjQUprWmNHZk9jNjBRTEx5MDVPejJNMjQyTVczSGNFb3ZXZjFiTlBDenRuQUlvZjdCbVVNRzVNSXlGT2N6REEyX0tmYW9jOGlWRHFVVnZnSnBsUVN2SG1hSlF5cU8wTjJJZEs4VE4yR0x1bUs5X1RrcnJnaWkzcmFaNUpLOFBwNTRKaW1fNlliU0x6N3BtSElIRFIwcjBnTjU1TTVrdXY5ODFleU4tSVE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 92.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-10 15:46",
-   "title": "908 devices CFO Joseph Griffith sells $65,150 in common stock",
+   "time": "2026-10-10 20:15",
+   "title": "Neogen CEO Mikheal Nassif buys $6,034 in company stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/908-devices-cfo-joseph-griffith-sells-65150-in-common-stock-93CH-4942136",
+     "u": "https://www.investing.com/news/insider-trading-news/neogen-ceo-mikheal-nassif-buys-6034-in-company-stock-93CH-4942234",
      "t": "agg"
     }
    ],
-   "heat": 92.5
+   "heat": 44.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-10 19:31",
+   "title": "Pacira BioSciences SVP Lauren Riker sells $217,920 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/pacira-biosciences-svp-lauren-riker-sells-217920-in-stock-93CH-4942219",
+     "t": "agg"
+    }
+   ],
+   "heat": 44.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-10 19:16",
+   "title": "Zymeworks EVP Adam Schayowitz sells $357,557 in ZYME stock for taxes",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/zymeworks-evp-adam-schayowitz-sells-357557-in-zyme-stock-for-taxes-93CH-4942216",
+     "t": "agg"
+    }
+   ],
+   "heat": 44.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-10 18:30",
+   "title": "SkyAI 10% owner Bastion Trading buys $78,262 in SKYA stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/skyai-10-owner-bastion-trading-buys-78262-in-skya-stock-93CH-4942210",
+     "t": "agg"
+    }
+   ],
+   "heat": 44.3
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-10 18:16",
+   "title": "Appian CEO Matthew Calkins sells $1.69m in company stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/appian-ceo-matthew-calkins-sells-169m-in-company-stock-93CH-4942204",
+     "t": "agg"
+    }
+   ],
+   "heat": 44.2
   },
   {
    "cat": "stock",
@@ -489,35 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 92.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-09 23:13",
-   "title": "Stock bull market nears 4-year anniversary driven by AI spending — but there are looming risks - New York Post",
-   "summary": "Stock bull market nears 4-year anniversary driven by AI spending — but there are looming risks &nbsp;&nbsp; New York Post",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2ZjMWp2aVJlLUpudlFNXzBGZzVVSlBCSF9UejVwWFFuMUsyLUJZeS1YSlJYUWM3N0FhMkdndDQ2ODVwUFhobDRNelJrWkk2eENUdnZJWnpRMGppdlI3Tk9xaWNSdS1pY19MbEUxbHo1UU5wbWsyTGhDZWN4eDZLcURrNVNiRGJ0Slp4ZEQ3Zy1uU2Y0cUZYUV9MQmRHaWxyak1VcDd1VQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-09 21:21",
-   "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Gain as Scott Bessent Says US Is Starving Iran - Benzinga",
-   "summary": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Gain as Scott Bessent Says US Is Starving Iran &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVE1VSjdmVE9LTVBQUFJ5bjR6bkdvY2ZEQThDdmRmN2lzU0VDR0lRbFdvc1dwODBxbEZzMFpzcVNubFRJbE1ib29XbFl2ZE5QazNnSTZyOTlTdUlwVldrT2FiYzJPYnBRZmZnT3loWC1Gd2VnSVNHT01iNV9YMnpDZlNCNHY2ZzQ0N2UxNkJUaGFMc3J0a1o1dGMwTThienZGYVJ2S2Zya05pN3AxNVh3aHZFRURMV3EzWHctZnphRDBCbnBWMV9HbjM1aE8yM2xLeVNjSnVfYU5ReXZKdFNiam5jbThxTFViMTVFOWpRSGM0SS1oell0WUM4UHAzX2pHOXg3N3dTcDNnYjh2eThBeko4bjZvNms?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.4
+   "heat": 43.7
   },
   {
    "cat": "stock",
@@ -531,77 +503,21 @@
      "t": "sec"
     }
    ],
-   "heat": 91.4
+   "heat": 42.7
   },
   {
    "cat": "stock",
-   "time": "2026-10-09 18:59",
-   "title": "US Stock Market prediction for Friday: S&P 500, Dow Jones, Nasdaq, Russell 2000 eye green openings, Stocks - The Economi",
-   "summary": "US Stock Market prediction for Friday: S&P 500, Dow Jones, Nasdaq, Russell 2000 eye green openings, Stocks &nbsp;&nbsp; The Economic Times",
+   "time": "2026-10-10 20:09",
+   "title": "Caledonia Mining earnings beat by $0.10, revenue topped estimates",
+   "summary": "",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQc2VQZl9xVkFVZklGbi1oaEJPeXhmN2Q3c3loNGNLX1VjVDIwd01JdjZIemZHOXdxMDY5eGpOaE5uanhLcnFJQ3piLXZaY0dXcEtyME40ODhIRUZXQWFDNUxPekswcWF3R190SXkwdTMzRVRiOUpNTzV6Z3VOTjNYRzdjeXpHUXpSZC1LdWp2MEVzaGlqRmwtejM0X3k4dk1Qb2l3NEM1TjFON2dSZlNlRC00Uy1LakRZMFkwMHdPb0tRVUMzeUhsUHZxQmtmM0o3djB0c2o0aXhtT1dlTWljdG5XYk9ycTF2OU1EeFZTZE8ySkJVUEswenRxQXNWeVBScnU0SDdLMFR1Nm9TVnloZ09iT3pxaXFjNjFZT0phREZaNTFiSmh0WHRydUFPZXZCaUd0cWFudGFYMWhWRFFHaHd1UDdNNkxwcVBmU0x0M2g1Y1pZTmlrZW5uTdIB4AJBVV95cUxPaWRPcGVaeDF3Q3J2OTNMTHMtOC02dWN3N25pSkJ0TC1zWURNSVZ5ajZpRkJBWnNrOTVveUVUM3dUc1JuWncwdzg1Y3FVQ3hVZG40U0szdEgxMGNwZHVwNHFhVjlaZk5KRS15MXE3WGJmTS00R004UHhOd3p5VExBTjE2VWJBdEJscC1acER3YW0xN0IxajdtM2xGSEY4bTFhLThVLVhPVHBpbms4eGtKa1Q2bktRSnExRUtlZnpIQ2xiN1RYOV91NWVZU01CbzllMkZOZGpzRWJVYjJIV3VFeDRVMjR1cDV2Z0o2MmJiRExtWlEtbFkyU0thRFh6MDAteTVVUGtZbGozM2xxbndqX3hRMUVIOUZObndMZGVUR0RLSS1iNm9vN0VfaTA1MlkyOWUtOEJxRk9DMjZjbnFqZUZ3c3laNmg0RC0xSU11UTl4TXdLeWp5ZThwYkFVVlpn?oc=5",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/earnings/caledonia-mining-earnings-beat-by-010-revenue-topped-estimates-4942229",
+     "t": "agg"
     }
    ],
-   "heat": 91.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-08 17:39",
-   "title": "Hong Kong’s Hang Seng Tech Index to Expand to 50 Stocks",
-   "summary": "Hong Kong’s Hang Seng Tech Index to Expand to 50 Stocks &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDZpbW90V3JMNmRkcGx6M0ZCTElkcHF0MXZKei1CV0lwM0pnMlNPZGxvaWhuWjgwbmFDaTJ6X1MxNVdDTks4S1BhQkZ4ZmpyQXhSOUViUUNJNVdjOEVfNXpienlUbE1lOGJzZVRRQmhGeGVRX3hVajFyOW04T1JubFI0ZnU5QmZfZjBFaDF0eDFxNFZ4WnQxcS1Ydm0zVDFSVFlzT1FfdTQ4bGRiQXc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 88.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-08 05:33",
-   "title": "Stocks fall worldwide as Wall Street retreats from its record - CommBank",
-   "summary": "Stocks fall worldwide as Wall Street retreats from its record &nbsp;&nbsp; CommBank",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenoxMDNRUGR3VVRTRzJmN0QwNFpGWVZwV2U5VUJCYXZ2SElMcW1LVnJwYnJtb09Eck5IWjZtNUxkRTBPdUtiR0FwbFZscm4tcXdzbjh4VnVsTmVtbDJSbThRWTluNnpwbkhwbmttV051SFI0MXhTYkpyQi0xRmJJN000ZHhKTkhiZHpIVUNZVnRmRHJ2YWNLa0JnMzRzZGdkYTdiVzkxRm5fVXdjUjFyc3p6M29XRnc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 88.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-08 00:30",
-   "title": "Toronto Stock Exchange Today: S&P/TSX Composite Extends Slide Near 35,380 as Banks Weigh - BBN Times",
-   "summary": "Toronto Stock Exchange Today: S&P/TSX Composite Extends Slide Near 35,380 as Banks Weigh &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZmFNaGNGdk0wX1JpYlhJeEVpY3JxeTg3RW9Od2dJMVd4MHd2ckNNZDFQTjg5ZllvY2NCbUJwTDd0UTVEWWxHVlVZQ1NWN25IdVBhOUliZkZIVDhhTVRvT2pCX19xZF8zYjZYTnFEODlZd3pXcmFNVzR6bW9EUDhOY21CVzhPbUloR2toNEgtQVJtc1h3RnZMeGpZZDVwU2lzZjVkaHpwd2tMV0xCeGdURERQOFMtRmxCVy03bXo5cXZId1RDN0E?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 88.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-06 21:00",
-   "title": "Most US bank stocks trade lower in September",
-   "summary": "Most US bank stocks trade lower in September &nbsp;&nbsp; S&P Global",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM2JRTWozV2VjZmVwOHZKWExoVk9qZ1dBMGdSNXNuRDNNdEVRQnYwUXpMLVlBWjJFUTR1N2xsb1VqQ2RFZHp3d29XaThTZ1JiNTlGTDBqcEI5ZzZDNWIwXzBPcDRyb0diVFRPMDJjMVd3TmYtb1c5eEctV3pxcjlVLVFHa2xzTXBpbWJ3YW1wbjV2UmdvZGhKeEpVRU4wM1loOUtBWmp1YjlDU2V3VnNvS2RiTEc3WmVjNFMyLWZIN192U0tSSzRrNEdFeGFRdw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 88.0
+   "heat": 16.5
   },
   {
    "cat": "global",
@@ -615,7 +531,7 @@
      "t": "agg"
     }
    ],
-   "heat": 70.3
+   "heat": 65.6
   },
   {
    "cat": "global",
@@ -629,7 +545,7 @@
      "t": "agg"
     }
    ],
-   "heat": 69.4
+   "heat": 64.7
   },
   {
    "cat": "global",
@@ -643,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.3
+   "heat": 55.6
   },
   {
    "cat": "global",
@@ -657,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.1
+   "heat": 55.3
   },
   {
    "cat": "global",
@@ -671,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.9
+   "heat": 48.2
   },
   {
    "cat": "global",
@@ -685,7 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.6
+   "heat": 47.9
   },
   {
    "cat": "global",
@@ -699,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.5
+   "heat": 47.8
   },
   {
    "cat": "global",
@@ -713,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.4
+   "heat": 47.7
   },
   {
    "cat": "global",
@@ -727,7 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 45.4
+   "heat": 44.7
   },
   {
    "cat": "global",
@@ -741,7 +657,7 @@
      "t": "agg"
     }
    ],
-   "heat": 44.4
+   "heat": 43.7
   },
   {
    "cat": "global",
@@ -769,7 +685,7 @@
      "t": "agg"
     }
    ],
-   "heat": 33.1
+   "heat": 28.4
   },
   {
    "cat": "global",
@@ -783,7 +699,7 @@
      "t": "agg"
     }
    ],
-   "heat": 32.9
+   "heat": 28.2
   },
   {
    "cat": "global",
@@ -797,7 +713,7 @@
      "t": "agg"
     }
    ],
-   "heat": 32.7
+   "heat": 28.0
   },
   {
    "cat": "global",
@@ -811,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 32.5
+   "heat": 27.8
   },
   {
    "cat": "crypto",
@@ -825,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.7
+   "heat": 67.0
   },
   {
    "cat": "crypto",
@@ -839,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.3
+   "heat": 66.6
   },
   {
    "cat": "crypto",
@@ -853,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.1
+   "heat": 66.3
   },
   {
    "cat": "crypto",
@@ -867,7 +783,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.2
+   "heat": 65.5
   },
   {
    "cat": "crypto",
@@ -881,7 +797,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.8
+   "heat": 63.1
   },
   {
    "cat": "crypto",
@@ -895,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.2
+   "heat": 54.5
   },
   {
    "cat": "crypto",
@@ -909,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.7
+   "heat": 51.9
   },
   {
    "cat": "crypto",
@@ -923,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.6
+   "heat": 51.9
   },
   {
    "cat": "crypto",
@@ -937,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.1
+   "heat": 51.3
   },
   {
    "cat": "crypto",
@@ -951,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.9
+   "heat": 51.2
   },
   {
    "cat": "crypto",
@@ -965,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.9
+   "heat": 51.1
   },
   {
    "cat": "crypto",
@@ -979,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.7
+   "heat": 51.0
   },
   {
    "cat": "crypto",
@@ -993,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.2
+   "heat": 42.5
   },
   {
    "cat": "crypto",
@@ -1007,49 +923,21 @@
      "t": "sec"
     }
    ],
-   "heat": 34.4
+   "heat": 37.7
   },
   {
    "cat": "crypto",
-   "time": "2026-10-10 03:04",
-   "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
-   "summary": "Chad Barraford, technical co-founder of the network, said that the funds were frozen and then unfrozen without explanation.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 16.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-08 20:40",
-   "title": "20:40:54【英伟达支持的AI制药公司Lambic寻求美国上市 拟融资至多1.59亿美元】",
-   "summary": "20:40:54【英伟达支持的AI制药公司Lambic寻求美国上市 拟融资至多1.59亿美元】 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WczVfSkxnQWhkeUhnbkVyT0FOeHp6X1ExdVFwNkF1Wm9ka0ItRTRVbnFTam1rbmdxeGhhRDRQb2lxa0JqSWdRYQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 292.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-10 15:35",
-   "title": "Saudi conferences to proceed despite deadly Riyadh airport attacks, Reuters report",
+   "time": "2026-10-10 19:02",
+   "title": "Bitcoin stuck in $81,200-$87,300 chop zone: Live levels",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/saudi-conferences-to-proceed-despite-deadly-riyadh-airport-attacks-reuters-report-4942133",
+     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
      "t": "agg"
     }
    ],
-   "heat": 296.5
+   "heat": 36.3
   }
  ]
 }
