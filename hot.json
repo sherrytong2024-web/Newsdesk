@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11 04:57",
+ "updated": "2026-10-11 08:04",
  "items": [
   {
    "cat": "sector",
@@ -13,21 +13,91 @@
      "t": "sec"
     }
    ],
-   "heat": 171.7
+   "heat": 271.1
   },
   {
    "cat": "sector",
-   "time": "2026-10-10 19:36",
-   "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+   "time": "2026-10-10 23:45",
+   "title": "Nvidia in talks to acquire Reflection AI or increase investment, FT reports",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports-4942221",
+     "u": "https://www.investing.com/news/company-news/nvidia-in-talks-to-acquire-reflection-ai-or-increase-investment-ft-reports-4942324",
      "t": "agg"
     }
    ],
-   "heat": 168.4
+   "heat": 268.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 07:16",
+   "title": "12 Killed 309 Injured in Riyadh, Trump: Ukraine Needs New Leader",
+   "summary": "Source: Bloomberg, 5:29",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-10/12-killed-309-injured-in-riyadh-trump-ukraine-needs-new-leader",
+     "t": "sec"
+    }
+   ],
+   "heat": 267.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 07:13",
+   "title": "Attack on Riyadh airport killed 12 people and wounded more than 300, Saudi authorities say",
+   "summary": "The airport has been targeted multiple times in the week since a Saudi-led coalition launched a military offensive against Houthi rebels in neighboring Yemen.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/10/the-airport-in-the-saudi-capital-has-been-attacked-again-officials.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 267.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 06:02",
+   "title": "Trump: Ukraine Needs New Leader,NYT: 12 Killed at Riyadh Airport",
+   "summary": "Source: Bloomberg, 5:18",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-10/trump-ukraine-needs-new-leader-nyt-12-killed-at-riyadh-airport",
+     "t": "sec"
+    }
+   ],
+   "heat": 267.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 05:08",
+   "title": "Isaias kills four and leaves about 670,000 without power after landfall",
+   "summary": "About 420,000 customers in Florida, 190,000 in Alabama, 43,000 in Georgia and 17,000 in Mississippi had no power, according to tracking firm PowerOutage.us.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 267.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-11 04:59",
+   "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+   "summary": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 267.5
   },
   {
    "cat": "sector",
@@ -41,21 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 167.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-11 03:47",
-   "title": "Trump weighs joining the fight against Houthis after Saudi capital's airport is struck again",
-   "summary": "The airport has been targeted multiple times in the week since a Saudi-led coalition launched a military offensive against Houthi rebels in neighboring Yemen.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/10/the-airport-in-the-saudi-capital-has-been-attacked-again-officials.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 167.8
+   "heat": 267.4
   },
   {
    "cat": "sector",
@@ -69,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 167.7
+   "heat": 267.2
   },
   {
    "cat": "sector",
@@ -83,63 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 167.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-11 02:35",
-   "title": "Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI",
-   "summary": "Microsoft Corp. Chief Executive Officer Satya Nadella said companies should treat powerful artificial intelligence models as potential insider threats, assume they could be comprom…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
-     "t": "sec"
-    }
-   ],
-   "heat": 167.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-11 02:21",
-   "title": "Isaias kills two, leaves thousands without power after landfall",
-   "summary": "About 800,000 Florida, Alabama and Georgia residents were without power after Hurricane Isaias made landfall early on Saturday.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 167.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-11 01:02",
-   "title": "By The Way: Headlines You May Have Missed",
-   "summary": "The growing debate over video calls on airplanes, premium California wines selling at steep discounts under supermarket private labels, a new rivalry between New York diners featur…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-10/by-the-way-headlines-you-may-have-missed-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 167.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-11 00:11",
-   "title": "Russia Plague Scare Raises Public Health Questions",
-   "summary": "Baylor College of Medicine Tropical Medicine Expert Dr. Peter Hotez tells Bloomberg This Weekend that the unexplained death of a researcher at a Russian plague institute raises que…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-10/russia-plague-scare-raises-public-health-questions-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 167.2
+   "heat": 267.2
   }
  ]
 }
