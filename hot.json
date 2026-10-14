@@ -1,10 +1,24 @@
 {
- "updated": "2026-10-15 03:05",
+ "updated": "2026-10-15 07:34",
  "items": [
   {
    "cat": "sector",
+   "time": "2026-10-15 05:33",
+   "title": "Nvidia, Anthropic Weigh In On AI Safeguards",
+   "summary": "Nvidia CEO Jensen Huang said he would halt the supply of chips to a customer that was developing unsafe AI software, though he doesn’t believe that the current level of concern abo…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-14/nvidia-anthropic-weigh-in-on-ai-safeguards-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.7
+  },
+  {
+   "cat": "sector",
    "time": "2026-10-15 01:34",
-   "title": "Nvidia CEO Says He Would Cut Off Customers Who Build Unsafe AI",
+   "title": "Nvidia CEO Says He Would Cut Off Buyers Who Build Unsafe AI",
    "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang said he would halt the supply of chips to a customer that was developing unsafe AI software, though he doesn’t believe that the cu…",
    "srcs": [
     {
@@ -13,133 +27,119 @@
      "t": "sec"
     }
    ],
-   "heat": 215.7
+   "heat": 251.0
   },
   {
    "cat": "sector",
-   "time": "2026-10-15 01:34",
-   "title": "AI Boom Drives ASML Higher as Nvidia Bets on Europe",
-   "summary": "Bloomberg’s Ed Ludlow breaks down ASML's earnings after the company raised its sales forecast for 2026 and said it aims to increase production of its chip-making machines to keep u…",
+   "time": "2026-10-14 18:30",
+   "title": "OpenAI Vows Not to Use Trade Secrets Allegedly Taken From Apple",
+   "summary": "OpenAI agreed not to use trade secrets that Apple Inc. claims were stolen by employees who defected from the iPhone maker to the artificial intelligence startup while a legal fight…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-14/bloomberg-tech-10-14-2026-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight",
      "t": "sec"
     }
    ],
-   "heat": 215.7
+   "heat": 249.8
   },
   {
    "cat": "sector",
-   "time": "2026-10-15 03:02",
-   "title": "Bumble Said to Near $1B Sale to Ithaca",
-   "summary": "Bloomberg's Liana Baker joins Scarlet Fu on \"Bloomberg Deals.\" Dating-app provider Bumble is in talks to be sold to upstart investment firm Ithaca Holdings for around $1 billion, a…",
+   "time": "2026-10-15 07:07",
+   "title": "Ukraine Starlink Constraints, Anthropic Sees $17B 3Q Revenue",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-14/ukraine-starlink-constraints-anthropic-sees-17b-3q-revenue",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-15 06:46",
+   "title": "Susan Collins Wasn’t the Check on Trump That Was Needed, Says Poersch",
+   "summary": "In discussion with Bloomberg Government reporter Jonathan Tamari, Senate Majority PAC president JB Poersch explains why Susan Collins wasn't the check on Trump that the Democrats n…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-14/bumble-said-to-near-1b-sale-to-ithaca-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-14/susan-collins-wasn-t-the-check-on-trump-says-poersch-video",
      "t": "sec"
     }
    ],
-   "heat": 208.0
+   "heat": 247.9
   },
   {
    "cat": "sector",
-   "time": "2026-10-15 02:52",
-   "title": "Arrested OpenAI Engineer Booked a One-Way Ticket to Saudi Arabia",
-   "summary": "The OpenAI employee who was arrested and charged with allegedly using a hidden recording device in one of the ChatGPT maker’s San Francisco offices had a one-way ticket to Saudi Ar…",
+   "time": "2026-10-15 06:09",
+   "title": "Huel CEO on Danone Deal and Expansion to US Retail",
+   "summary": "Huel CEO James McMaster discusses Danone’s roughly $1.2 billion acquisition of the UK-based meal-replacement and protein-shake maker. He says Huel established local manufacturing a…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-14/huel-ceo-on-danone-deal-and-expansion-to-us-retail-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-15 06:05",
+   "title": "Loop Capital CEO on Expanding Athlete Wealth Platform",
+   "summary": "Loop Capital is buying $450 million in client assets from Lifeline Capital to expand its wealth management business and serve more athletes and entertainers. Founder, Chairman and …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-14/loop-capital-ceo-on-expanding-athlete-wealth-platform-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-15 06:02",
+   "title": "Latest Oil Market News and Analysis for Oct. 15",
+   "summary": "Oil held a gain as a flare-up in attacks from Russia to the Middle East threatened supply that only recently recovered to near pre-war levels.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-14/latest-oil-market-news-and-analysis-for-oct-15",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-15 05:55",
+   "title": "CAIS Summit Panel on AI Buildout",
+   "summary": "At a forum in Beverly Hills, the discussion focused on obstacles to expanding AI data centers, including rising energy costs and weakening public support for construction. Blacksto…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-14/cais-summit-panel-on-ai-buildout-video",
      "t": "sec"
     }
    ],
-   "heat": 208.0
+   "heat": 247.7
   },
   {
    "cat": "sector",
-   "time": "2026-10-15 02:48",
-   "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-   "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
+   "time": "2026-10-15 05:49",
+   "title": "Janus Henderson CEO on Going Private, M&A Deals",
+   "summary": "Janus Henderson CEO Ali Dibadj said the firm is energized by its move to private ownership and is using the flexibility to invest in people, technology including AI, new products a…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-14/janus-henderson-ceo-on-going-private-m-a-deals-video",
      "t": "sec"
     }
    ],
-   "heat": 208.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-15 02:42",
-   "title": "BofA Takes US Regulatory Fines Seriously, CEO Moynihan Says",
-   "summary": "Bank of America Corp. Chief Executive Officer Brian Moynihan addresses the $1.2 billion in fines levied against the company by the US government. He says the bank takes the fines s…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-14/bofa-takes-us-regulatory-fines-seriously-moynihan-says-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-15 02:38",
-   "title": "Cargo Ship Sinks in Strait of Hormuz After Strike Triggers Fire",
-   "summary": "A cargo ship sank in the Strait of Hormuz after a strike that sparked a fire and the evacuation of crew members, the Maritime and Port Authority of Singapore said.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-14/cargo-ship-sinks-in-strait-of-hormuz-after-strike-triggers-fire",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-15 02:28",
-   "title": "Economy Overshadows GOP Border Success, Says Samara Klar",
-   "summary": "Samara Klar, professor at the University of Arizona School of Government and Public Policy, said that high prices are dragging Republican messaging in Arizona ahead of President Tr…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-14/economy-overshadows-gop-border-success-samara-klar-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-15 02:02",
-   "title": "Lisa Cook lawyer doubts Trump committee's fairness as president calls her 'automatic no vote'",
-   "summary": "White House spokesman Matthew Middleton said in response to Cook's lawyer that Trump \"is performing his constitutional duty.\"",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/14/lisa-cook-trump-committee-hearing.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-15 01:54",
-   "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-   "summary": "With a 3.6% COLA for 2027, Social Security retirement benefit checks will go up by $75 per month, on average, the agency said.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.8
+   "heat": 247.7
   }
  ]
 }
