@@ -1,37 +1,135 @@
 {
- "updated": "2026-10-14 22:13",
+ "updated": "2026-10-15 03:05",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-10-14 13:12",
-   "title": "ASML Struggles to Lift Capacity to Keep Up With Torrid AI Demand",
-   "summary": "ASML Holding NV raised its sales forecast for 2026 and said it’s seeking to increase production of its chip-making machines to keep up with soaring artificial intelligence spending…",
+   "time": "2026-10-15 01:34",
+   "title": "Nvidia CEO Says He Would Cut Off Customers Who Build Unsafe AI",
+   "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang said he would halt the supply of chips to a customer that was developing unsafe AI software, though he doesn’t believe that the cu…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-14/asml-raises-full-year-sales-outlook-as-ai-boom-drives-demand",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai",
      "t": "sec"
     }
    ],
-   "heat": 242.5
+   "heat": 215.7
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 22:08",
-   "title": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
-   "summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+   "time": "2026-10-15 01:34",
+   "title": "AI Boom Drives ASML Higher as Nvidia Bets on Europe",
+   "summary": "Bloomberg’s Ed Ludlow breaks down ASML's earnings after the company raised its sales forecast for 2026 and said it aims to increase production of its chip-making machines to keep u…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-14/bloomberg-tech-10-14-2026-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-15 03:02",
+   "title": "Bumble Said to Near $1B Sale to Ithaca",
+   "summary": "Bloomberg's Liana Baker joins Scarlet Fu on \"Bloomberg Deals.\" Dating-app provider Bumble is in talks to be sold to upstart investment firm Ithaca Holdings for around $1 billion, a…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-14/bumble-said-to-near-1b-sale-to-ithaca-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 208.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-15 02:52",
+   "title": "Arrested OpenAI Engineer Booked a One-Way Ticket to Saudi Arabia",
+   "summary": "The OpenAI employee who was arrested and charged with allegedly using a hidden recording device in one of the ChatGPT maker’s San Francisco offices had a one-way ticket to Saudi Ar…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia",
+     "t": "sec"
+    }
+   ],
+   "heat": 208.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-15 02:48",
+   "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+   "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+     "u": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
      "t": "sec"
     }
    ],
-   "heat": 240.0
+   "heat": 208.0
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 21:54",
+   "time": "2026-10-15 02:42",
+   "title": "BofA Takes US Regulatory Fines Seriously, CEO Moynihan Says",
+   "summary": "Bank of America Corp. Chief Executive Officer Brian Moynihan addresses the $1.2 billion in fines levied against the company by the US government. He says the bank takes the fines s…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-14/bofa-takes-us-regulatory-fines-seriously-moynihan-says-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-15 02:38",
+   "title": "Cargo Ship Sinks in Strait of Hormuz After Strike Triggers Fire",
+   "summary": "A cargo ship sank in the Strait of Hormuz after a strike that sparked a fire and the evacuation of crew members, the Maritime and Port Authority of Singapore said.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-14/cargo-ship-sinks-in-strait-of-hormuz-after-strike-triggers-fire",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-15 02:28",
+   "title": "Economy Overshadows GOP Border Success, Says Samara Klar",
+   "summary": "Samara Klar, professor at the University of Arizona School of Government and Public Policy, said that high prices are dragging Republican messaging in Arizona ahead of President Tr…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-14/economy-overshadows-gop-border-success-samara-klar-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-15 02:02",
+   "title": "Lisa Cook lawyer doubts Trump committee's fairness as president calls her 'automatic no vote'",
+   "summary": "White House spokesman Matthew Middleton said in response to Cook's lawyer that Trump \"is performing his constitutional duty.\"",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/14/lisa-cook-trump-committee-hearing.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-15 01:54",
    "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
    "summary": "With a 3.6% COLA for 2027, Social Security retirement benefit checks will go up by $75 per month, on average, the agency said.",
    "srcs": [
@@ -41,105 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-14 21:51",
-   "title": "Bloomberg Surveillance: CPI and AI (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-14/bloomberg-surveillance-cpi-and-ai-podcast-mv8657ya",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-14 21:35",
-   "title": "Trump's diesel dilemma — by the numbers",
-   "summary": "Conflicts in Ukraine and Iran have created major ripple effects across global energy markets causing major price swings.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-14 21:26",
-   "title": "OpenAI CFO Sarah Friar Discusses AI Safety & Alignment Spending",
-   "summary": "Bloomberg's Tom MacKenzie sits down with OpenAI CFO Sarah Friar at at the International AI Summit in Dublin to discuss AI safety and alignment spending. (Source: Bloomberg)",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-14/openai-cfo-sarah-friar-on-ai-safety-alignment-spending-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-14 21:25",
-   "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-   "summary": "The Tuesday incident comes as the ChatGPT-maker, along with competitors, faces heightened scrutiny over its safety practices.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-14 21:08",
-   "title": "Hilton Tashkent Owner TEG Becomes First Uzbek Firm to List in US",
-   "summary": "Uzbekistan’s Tourism Entertainment Group became the country’s first company to list in the US as businesses from Central Asia’s second-largest economy are becoming increasingly pop…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-14/hilton-tashkent-owner-teg-becomes-first-uzbek-firm-to-list-in-us",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-14 21:01",
-   "title": "New Yorkers Find Living in New Jersey’s Suburbs Isn’t Much Cheaper",
-   "summary": "Also: Britain’s mansion tax is headed for a bumpy start, and a Manhattan icon gets a new owner",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-14/new-yorkers-find-living-in-new-jersey-s-suburbs-isn-t-much-cheaper",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-14 21:01",
-   "title": "Next Africa: A Losing Factory Contest Against Chinese Imports",
-   "summary": "Factory production’s share of South Africa’s economy has roughly halved since 1994.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-14/next-africa-a-losing-factory-contest-against-chinese-imports",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.8
+   "heat": 207.8
   }
  ]
 }
