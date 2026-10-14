@@ -1,6 +1,62 @@
 {
- "updated": "2026-10-14 16:15",
+ "updated": "2026-10-14 17:28",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-10-14 08:08",
+   "title": "Gold Falls Ahead of US Inflation Print That Could Shift Fed Bets",
+   "summary": "Gold edged lower for a third day as traders waited for a US inflation print that could provide a clue to the Federal Reserve’s next move on interest rates.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-14/gold-steady-as-fed-official-s-remarks-temper-rate-hike-bets",
+     "t": "sec"
+    }
+   ],
+   "heat": 114.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 06:03",
+   "title": "US Stocks Edge Higher in Countdown to Inflation: Markets Wrap",
+   "summary": "US stocks rose modestly as traders stayed cautious ahead of the latest US inflation reading alongside a busy slate of corporate events spanning artificial intelligence and banking.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 98.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 15:25",
+   "title": "Gold Faces Selling Pressure Amid Middle East Tensions and Fed Rate Hike Bets",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-faces-selling-pressure-amid-middle-east-tensions-and-fed-rate-hike-bets-200689545",
+     "t": "agg"
+    }
+   ],
+   "heat": 89.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 17:16",
+   "title": "MAIA: Interview of Guillaume Princen on Anthropic’s AI Strategy",
+   "summary": "In an interview on October 14, 2026, Anthropic’s Head of International Startups & Digital Native, Guillaume Princen, discussed how startups and major firms are adopting Anthropic’s…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-14/anthropic-s-princen-on-ai-safety-concerns-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 76.0
+  },
   {
    "cat": "macro",
    "time": "2026-10-14 16:01",
@@ -13,21 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-14 15:49",
-   "title": "BofA Says China’s Economic Data May Open Door to More Stimulus",
-   "summary": "China could roll out additional economic support if growth weakened in the last three months more than Beijing could tolerate, according to Bank of America Corp.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-14/bofa-says-china-s-economic-data-may-open-door-to-more-stimulus",
-     "t": "sec"
-    }
-   ],
-   "heat": 55.9
+   "heat": 75.8
   },
   {
    "cat": "macro",
@@ -41,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.7
+   "heat": 75.5
   },
   {
    "cat": "macro",
@@ -55,21 +97,63 @@
      "t": "sec"
     }
    ],
-   "heat": 55.0
+   "heat": 74.8
   },
   {
    "cat": "macro",
-   "time": "2026-10-14 05:00",
-   "title": "China's Robotic Hands Key to $5 Trillion AI Humanoid Development Race",
-   "summary": "Advanced humanoid hardware is&nbsp;one of the strategic high-tech fields where China has an early lead over the US.",
+   "time": "2026-10-14 07:05",
+   "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+   "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
      "t": "sec"
     }
    ],
-   "heat": 54.1
+   "heat": 74.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 09:12",
+   "title": "Citizens reiterates Meta stock rating on Instagram engagement growth",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-meta-stock-rating-on-instagram-engagement-growth-93CH-4948453",
+     "t": "agg"
+    }
+   ],
+   "heat": 72.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 09:06",
+   "title": "Citizens reiterates Kura Oncology stock rating on diabetes data",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-kura-oncology-stock-rating-on-diabetes-data-93CH-4948436",
+     "t": "agg"
+    }
+   ],
+   "heat": 72.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 09:06",
+   "title": "Citizens reiterates Prelude Therapeutics stock rating on Lilly deal",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-prelude-therapeutics-stock-rating-on-lilly-deal-93CH-4948435",
+     "t": "agg"
+    }
+   ],
+   "heat": 72.6
   },
   {
    "cat": "macro",
@@ -83,7 +167,7 @@
      "t": "agg"
     }
    ],
-   "heat": 51.9
+   "heat": 71.7
   },
   {
    "cat": "macro",
@@ -97,21 +181,7 @@
      "t": "agg"
     }
    ],
-   "heat": 51.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-13 19:03",
-   "title": "Softer Rates, Heavier US Dollar",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/softer-rates-heavier-us-dollar-200689480",
-     "t": "agg"
-    }
-   ],
-   "heat": 50.5
+   "heat": 71.5
   },
   {
    "cat": "macro",
@@ -125,7 +195,7 @@
      "t": "sec"
     }
    ],
-   "heat": 48.5
+   "heat": 68.3
   },
   {
    "cat": "macro",
@@ -139,81 +209,11 @@
      "t": "sec"
     }
    ],
-   "heat": 48.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-08 18:04",
-   "title": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says - Bloomberg.com",
-   "summary": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says &nbsp;&nbsp; Bloomberg.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaERIWFRDbDJubUpIVnN3cFF4eVFXV3NaVnZfeS1kOVRiNTBvSnJQNk5iam52OVQxMW5vaVV2Y1FHeTU0Um9SNXZWSThGZU1EOGhQeDlyQ1dMaXpfLWJBeEg1SWsyZmRHeXpFdklIc1VSdFp0YXh3V2FHLUkzb19kV25UVWJHUEFialoyS0NPVUUyeUxfNTR4Ulp3SUltOTc4NS1xMzBIUnBpanhrREdlZ2Z4TQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 48.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-08 14:16",
-   "title": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says - Yahoo Finance UK",
-   "summary": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says &nbsp;&nbsp; Yahoo Finance UK",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fa1huMUlSaThkT0d3dXNyUHRYU1dsZUdjYXRST3lOU01lOFUzbWxVc1JzZm0tb2Uyb2FIVm5KRlpob2FhR1RqYy13Zk40LWdkMlFYZUVmYTRMVHYxNXpCVzFiUnNBa0ZxNTY2Wl82Ylo4dVg4RFl1OExwQmU?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 48.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-14 15:21",
-   "title": "U.S. Treasury yields inch lower as investors await key inflation report",
-   "summary": "U.S. Treasury yields inched lower on Wednesday as investors awaited the latest CPI inflation reading ahead of a flurry of economic data this week.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-07 23:11",
-   "title": "Why is the US stock market down today? Dow Jones, Nasdaq and S&P 500 in deep red — rising Treasury yields, - The Economi",
-   "summary": "Why is the US stock market down today? Dow Jones, Nasdaq and S&P 500 in deep red — rising Treasury yields, &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQSXVLUFB1YVZUdkNKNGp2VHJaMXBzRS1YNmt1amUwRllKOHVJNXl0U0VEa0l6c2hTMFB1eVhldkFWRi1ieE82aTJLS04tU09xQ0RkYmY4RlNUTUhXSGtGaHdmWkZ1a21ZZkptSVVsUDBhOWlQUkVZWlpBUzl3Y3lPY2lkMFBQb2hKbzFlZDhSeFp1V1JsYUZvc3p3cktucFUwdmFCYjhLMDJHVGhpMmxYcEpUY3RzRWs0VEpjMEU0UTVHUUNkZmE5c3lBNWJSZVVjMGxNZDQ5Mmloc0U1ZFp5SHRyTTMwa0d1ZjJGMkV3d2lwWEE5N2RUQlN6S3Vvdll4bGlkNGlURzlrcFNFd1hFa3NjODJ6aDVOc2xPcHByaTQ3djM1SmJuc2E0N0hhYTF4TVNXa1VUd1dVZEQ3RFMwNGNyaW9zcnMyVDRTUld6bmRmYW1NUWlCVi1ISEXSAeICQVVfeXFMTVg1TUZ0RTNUNjZ2OVZ2VU9mVnY0VU96M2NsZTZCalpFOU9QLS1ZbUlRN0E1Q2NTZEt2ZG91dzl1X2Ntd2tjSkhxWVNkRV96OFdCZG5UWS1uVi1SWm53dnRLYWhfLUlWeTNPb1ZEWGVqTzN0LXVXVHA5VjYtaDY5NmlTUlRkbkFDWHFMcU12dDVQQVdrellMN3FFNGhBc0xsbFI3QXl2SGtlZjl2R2x0bVBPV25JSU0yYlRkbGVlbm9aa3YxTE4tV0pFMG1fMThMN1F0NDVUamdKNEI5WmFuTXk3QkMzSFVkbjZ0TFk2VENaUTJwY29PNzdHRnBaVzRoMDN2RGZNZnpHTk5tM3g4TWJRZHhvaVY5bXFtdFVmdFhOWFhndHlNbWQ0SmFYbzdEdV92bTAyZTJ5Wk92N3h3eGlIUWVuWFdBZERleGoxRU9sZXo1OWNJVW1acmlqaThNb0xn?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 32.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-07 21:59",
-   "title": "US stocks: S&P 500, Nasdaq retreat from records as oil and Treasury yields rebound - The Economic Times",
-   "summary": "US stocks: S&P 500, Nasdaq retreat from records as oil and Treasury yields rebound &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOenNoZ2NNVkVycWo0OEpnZGhtWTgtUVhqcWNwenZGUUl4eFVWSU9IUzVfbHJhZU9ISldCUXAtaEloMktMNlE0UkF2XzFNWTNjWERnZ0NrTnpXZHh5TTJLUFBGRDRzSndWaWN0T1c5U2J1MkxwbU5rRF8tWTJpQ0JQZEx0dVlzeEhFUnVySVJXQnN5REFDM0R5NGlzNTFfMnlrZ1JtZzJ2eElSSDJjR1hjbWtBNnZEQ2pmV2VjYUZpbHcyYThsajJiYm9qNWJ6MU5wWW5HdzM1dFEydUNMTE11WXB6elBKYzFnakwwejhHN3VEU2NoWmExTjVRS2k0d9IBgwJBVV95cUxONUsxYUMtcExVdzU4RmhnaDBWZWlvMVNWUEE3YnRFOTlyb0NqNmFpdk5TSXhZSnNqVEhkSW1naV9nWWEzMjltMzNyYnR4SHVmamJqMEdUTUpGb000QkllbFVBUFpBamlwTWpjMk9BNDRYOHdWUHo3Q3RVeWJ4cmlJMUlzcEpSaWRiVGQ3dzY1cHNzNl9IeHJDMVV0Z0dKOFlZQlRaQUtWeGo0aHBFWTF1N2JFbEhjVkhRajlqTk9BMzl1aXVsNzVEaXBrUDVoTjFlNkl1cklwaFlOcE1OcVBrNTJ6a2M5YTVIM1VDR1hlbFE5S2tiamVhdzB2Z1BzZTZhcXkw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 32.0
+   "heat": 68.0
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 16:03",
+   "time": "2026-10-14 17:22",
    "title": "Stock futures are mixed as traders await consumer inflation report: Live updates",
    "summary": "A slide in chip stocks and mixed bank results on Tuesday weighed on the major averages.",
    "srcs": [
@@ -223,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 268.0
+   "heat": 240.0
   },
   {
    "cat": "sector",
@@ -237,12 +237,12 @@
      "t": "sec"
     }
    ],
-   "heat": 267.6
+   "heat": 239.4
   },
   {
    "cat": "sector",
    "time": "2026-10-14 13:12",
-   "title": "ASML Shares Rise as Chip-Gear Maker Can’t Keep Up With AI Demand",
+   "title": "ASML Rises as Chip-Gear Maker Can’t Keep Up With AI Demand",
    "summary": "ASML Holding NV shares rose after the Dutch company said soaring artificial intelligence spending means it’s searching for ways to produce more chip-making machines over the next t…",
    "srcs": [
     {
@@ -251,25 +251,53 @@
      "t": "sec"
     }
    ],
-   "heat": 267.5
+   "heat": 239.3
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 16:00",
-   "title": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
-   "summary": "Diesel supply is expected to remain tight into 2027 as Iran war-related disruption, falling inventories and resilient demand strain the market, the IEA said.",
+   "time": "2026-10-14 17:18",
+   "title": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
+   "summary": "A ballistic missile has struck energy infrastructure supposedly covered by the \"energy ceasefire\" announced by Trump on Sunday, Zelenskyy said.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
+     "u": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
      "t": "sec"
     }
    ],
-   "heat": 264.0
+   "heat": 236.0
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 16:00",
+   "time": "2026-10-14 16:53",
+   "title": "Oil prices choppy after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
+   "summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-14 16:48",
+   "title": "Anthropic Executive Says Open-Source AI Models Are Higher Risk",
+   "summary": "Anthropic PBC’s top sales executive outside the US argued that open alternatives to its AI models carry “more risk” of cybersecurity incidents or other dangers.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-executive-says-open-source-ai-models-are-higher-risk",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-14 16:45",
    "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
    "summary": "ASML said some customers are \"expressing an interest\" in placing orders with the company in 2029 and 2030, giving investors a view into longer-term demand.",
    "srcs": [
@@ -279,49 +307,63 @@
      "t": "sec"
     }
    ],
-   "heat": 264.0
+   "heat": 235.9
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 15:52",
-   "title": "CJP Leaders Detained After Jumping Jantar Mantar Gate",
-   "summary": "Leaders of a popular Indian youth movement were detained on Tuesday as they climbed over a gate to enter Jantar Mantar in New Delhi. Authorities announced on Monday that Jantar Man…",
+   "time": "2026-10-14 16:33",
+   "title": "Mercuria Agrees $250 Million Congo Copper Deal With China Miner",
+   "summary": "Mercuria Energy Group has placed another big bet on copper production in the Democratic Republic of Congo, sealing a deal to buy metal from units of Shanghai Jayson New Energy Mate…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-14/vo-india-police-detain-cockroach-janta-party-leaders-oct-13",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-14/mercuria-agrees-250-million-congo-copper-deal-with-china-miner",
      "t": "sec"
     }
    ],
-   "heat": 263.9
+   "heat": 235.8
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 15:35",
-   "title": "Kai-Fu Lee: AI Transformation Must Begin From the Top",
-   "summary": "01.AI Founder & CEO Kai-Fu Lee discusses how AI tools can boost efficiency at work, arguing that their deployment needs engagement from the very top leadership to work at their bes…",
+   "time": "2026-10-14 16:29",
+   "title": "Public, Private Sector Leaders on Economic Resilience",
+   "summary": "H.E. Sheikh Faisal bin Thani bin Faisal Al Thani, Minister of Commerce & Industry, State of Qatar and Vice Chairman & Managing Director, Doha Investment and Sunil Mittal, Founder &…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-14/kai-fu-lee-ai-transformation-must-begin-from-the-top-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-14/public-private-sector-leaders-on-economic-resilience-video",
      "t": "sec"
     }
    ],
-   "heat": 263.9
+   "heat": 235.8
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 15:33",
-   "title": "Namibia, Total Remain in Oil Development Talks as Year-End Nears",
-   "summary": "Namibia and TotalEnergies SE are still negotiating terms for the development of the French major’s Venus oil discovery, leaving less time to meet a target of first production by 20…",
+   "time": "2026-10-14 16:28",
+   "title": "Russia Hits Ukraine's Energy, Germany to Push China Caps, More",
+   "summary": "Source: Bloomberg, 6:30",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-14/namibia-total-remain-in-oil-development-talks-as-year-end-nears",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-14/russia-hits-ukraine-s-energy-germany-to-push-china-caps-more",
      "t": "sec"
     }
    ],
-   "heat": 263.9
+   "heat": 235.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-14 16:05",
+   "title": "Is This the Middle Power Moment?",
+   "summary": "T.H. Anita Anand, Minister of Foreign Affairs, Canada; Dr. S. Jaishankar, Union Minister of External Affairs, Republic of India; The Rt. Hon. Rishi Sunak, Former Prime Minister & M…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-14/is-this-the-middle-power-moment-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.8
   },
   {
    "cat": "sector",
@@ -335,35 +377,21 @@
      "t": "sec"
     }
    ],
-   "heat": 263.9
+   "heat": 235.7
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 15:28",
-   "title": "Asia The Pain Point for AI Jitters: Market Analysis",
-   "summary": "Anna Edwards, Guy Johnson, and Adam Linton break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
+   "time": "2026-10-14 15:16",
+   "title": "Bloomberg Daybreak Europe:OpenAI Spying Arrest (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-14/asia-the-pain-point-for-ai-jitters-3-minutes-mliv-video",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-14/bloomberg-daybreak-europe-openai-spying-arrest-podcast",
      "t": "sec"
     }
    ],
-   "heat": 263.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-14 15:26",
-   "title": "Is Technological Sovereignty Possible?",
-   "summary": "Chuck Robbins, Chair & CEO, Cisco and Shri Ashwini Vaishnaw, Union Minister of Railways, Information & Broadcasting and Electronics & Information Technology, Republic of India disc…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-14/is-technological-sovereignty-possible-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.9
+   "heat": 235.6
   },
   {
    "cat": "sector",
@@ -377,21 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 263.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-14 15:07",
-   "title": "Russia pounds Ukraine's energy infrastructure, leaving 600,000 without power",
-   "summary": "A ballistic missile has struck energy infrastructure supposedly covered by the \"energy ceasefire\" announced by Trump on Sunday, Zelenskyy said.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.8
+   "heat": 235.6
   },
   {
    "cat": "stock",
@@ -405,21 +419,21 @@
      "t": "sec"
     }
    ],
-   "heat": 138.0
+   "heat": 101.8
   },
   {
    "cat": "stock",
-   "time": "2026-10-14 06:03",
-   "title": "US Stocks Edge Higher in Countdown to Inflation: Markets Wrap",
-   "summary": "US stocks rose modestly on a busy day for earnings in banking and artificial intelligence as traders stayed cautious ahead of the latest US inflation reading.",
+   "time": "2026-10-14 16:33",
+   "title": "Stock Movers: ASML, Big Yellow, Admiral (Podcast)",
+   "summary": "Source: Bloomberg, 4:25",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-14/stock-movers-asml-big-yellow-admiral-podcast",
      "t": "sec"
     }
    ],
-   "heat": 134.3
+   "heat": 95.8
   },
   {
    "cat": "stock",
@@ -433,21 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 123.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-14 10:53",
-   "title": "Bloomberg Daybreak Asia:Stocks Bounce as Tech Rebounds (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-14/bloomberg-daybreak-asia-stocks-bounce-as-tech-rebounds-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 123.1
+   "heat": 95.6
   },
   {
    "cat": "stock",
@@ -461,21 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 122.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-14 07:52",
-   "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
-   "summary": "The S&P 500 inched lower as traders mulled over the latest quarterly results from big banks. Tune in to CNBC on Wednesday for Goldman Sachs CEO David Solomon.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/13/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 122.6
+   "heat": 94.4
   },
   {
    "cat": "stock",
@@ -489,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 122.4
+   "heat": 94.2
   },
   {
    "cat": "stock",
@@ -503,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 121.9
+   "heat": 93.7
   },
   {
    "cat": "stock",
@@ -517,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 121.7
+   "heat": 93.5
   },
   {
    "cat": "stock",
@@ -531,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 121.6
+   "heat": 93.4
   },
   {
    "cat": "stock",
@@ -545,91 +531,133 @@
      "t": "sec"
     }
    ],
-   "heat": 120.7
+   "heat": 92.4
   },
   {
    "cat": "stock",
-   "time": "2026-10-14 07:51",
-   "title": "Why is Ørsted stock sliding today?",
-   "summary": "",
+   "time": "2026-10-13 17:55",
+   "title": "Stock Market Today: Dow Jones, S&P 500 Futures Gain While Nasdaq 100 Falls as Scott Bessent Says Iran's E - Benzinga",
+   "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Gain While Nasdaq 100 Falls as Scott Bessent Says Iran's E &nbsp;&nbsp; Benzinga",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/why-is-rsted-stock-sliding-today-93CH-4948269",
-     "t": "agg"
-    }
-   ],
-   "heat": 120.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-14 07:50",
-   "title": "Why is DiscoverIE stock rallying today?",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/why-is-discoverie-stock-rallying-today-93CH-4948268",
-     "t": "agg"
-    }
-   ],
-   "heat": 120.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-14 07:46",
-   "title": "Sprout Social executive chair Justyn Howard sells $440,600 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/sprout-social-executive-chair-justyn-howard-sells-440600-in-stock-93CH-4948263",
-     "t": "agg"
-    }
-   ],
-   "heat": 120.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-14 07:46",
-   "title": "ZoomInfo CFO Michael O’Brien sells $20,005 in company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/zoominfo-cfo-michael-obrien-sells-20005-in-company-stock-93CH-4948262",
-     "t": "agg"
-    }
-   ],
-   "heat": 120.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-14 14:26",
-   "title": "Euro: Rebound tests key resistance band against US Dollar – UOB",
-   "summary": "United Overseas Bank’s Quek Ser Leang and Lee Sue Ann highlight a strong EUR/USD rebound to around 1.1200 after recent oversold weakness.",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/euro-rebound-tests-key-resistance-band-against-us-dollar-uob-202610140626",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQYm04Q1VfLWNuMGpHTHN0NUpxbzA4cHBneW50MGpMSUFtZHNEQ0Q2anNDdlg0dzRMbnR2d0hNWnlscGJmUXpXbWVPX0xGRlhKZ1Fjd01rSkVSWko4Vm1taGoyUmdnOVZqSF9zcTVoVkpvRjRoNGc5aC0zOXB1VHBSY1BtdEJwdUtWSlBBamRnZV9hTzR4cUMzTWFDR2Z2dGVWVzZtT3ludVlZSk1OT0VMNnoyMGJjZWRYYy1ncjBjWEdVZENrMzlXZmVyRHVGbUd2elMyTVNKcFlnX1hfS0xNaHBWak5JU0FPNVp1Z2pYdllaamhfZHk2S3pMZllCcDBHVlE3bEV4cW9uajRNZDRFNnE3WWZBamJKaG5sRGM4ZHhmaGpPQUdaMQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 67.7
+   "heat": 92.1
   },
   {
-   "cat": "global",
-   "time": "2026-10-14 13:50",
-   "title": "New Zealand Dollar drifts higher above 0.5600, all eyes on US CPI inflation data",
-   "summary": "The NZD/USD pair rebounds from a 17-month low to near 0.5625 during the early European trading hours on Wednesday. The US dollar (USD) weakens against the New Zealand Dollar (NZD) …",
+   "cat": "stock",
+   "time": "2026-10-13 08:01",
+   "title": "US Stock Market today: Reasons behind S&P 500, Nasdaq fall in Wall Street, top, worst performing sectors, - The Economic",
+   "summary": "US Stock Market today: Reasons behind S&P 500, Nasdaq fall in Wall Street, top, worst performing sectors, &nbsp;&nbsp; The Economic Times",
    "srcs": [
     {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/new-zealand-dollar-drifts-higher-above-05600-all-eyes-on-us-cpi-inflation-data-202610140550",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOT0NSUjB6Qnlkb2hLSEdYOGd2eHgzS2hObWlDVklEbE9oOFctUld5WWpmQ2FWRVhQbkhtcFNoWDJzTm80aUtydTkyVWtOZXU1UEdIczdic3Bha29JMWtYQW9qdmZmdlJMSEYwTzlSSnU4Ykp4cElhdXpWRG55RHVSREZNZTJYZ2NvN3N2LXdhWkp4cjZ1TzlPVWZmYm5zb0JVekEzTDhZTEY4bVNWTzFuR1B3LWJwZUQ1UmM2UTBfcHl5OUFpY2RpV1ltWDBOUVFJQXpfaXpBbDN1ajhBQ2N4bXhyVVk2b3RGbU9ncFZzT2xESDFZdlIwT0psNU9sdk5iczlGb19DdTFxUGViUmdj0gGUAkFVX3lxTE1zX0RCUWllNXJPOEZrRGwtQWdhc2ZObEdCVHk5TUF4cUdKNGd4Y0VESlZuYXN0T1lfaHVUZEZ0c3JOU3VIclR2aGhMZzNpQ3RGdE4tU2p6LVZVcHd4X1AxVGlLNGROVDN4UFM1SXNLQlVwZnlLcWFLYm4zVkNxTmdwU3ZfUW1OWmFqdXVORnY1REhiQkVlV0FCUzZVLUpmUUJOYWZtczNUbldCZ3hPU1lIWXVCUlVPWUQyUEJkRGg5UDhQZjBiNkphMEw4cjRCbC1TbTBEODFUQUlZY25Jd3FNWUNHVmRWM1pYV3U5Tm4xcTZ4MUdObGpzS21ibXVxRXpWcVFiX1JOY3VnZ2NfaWk2WnJ6Sw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 67.6
+   "heat": 90.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-12 20:29",
+   "title": "Stock Market Today: S&P 500, Dow Futures Gain, Nasdaq 100 Falls as Iran Flags ‘Inadequate’ US Response t - Benzinga",
+   "summary": "Stock Market Today: S&P 500, Dow Futures Gain, Nasdaq 100 Falls as Iran Flags ‘Inadequate’ US Response t &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQm9nV0NwVENvWlRtY0RnV3ZsM0Myd2l4M3RRdmFzaHNReXJmajZ5MU1CQnJ5ZzItbk9WMl91bkZxcjhqc3VRcWNZcWNzSDd5dTNvNkJkdC1DOUtDWWhmZjdzc183U3FFSzJ0MmJNSDIyTEV5aVphZDdJbHZZY3ZUTnlXXzVVOWhMV1d6blJ3MFBuc2VPS3pyZWtESlFsR3pHYUp3STBqYVA2QmotTy1TMnd4Z1JETDEwZ0lqc1Zna0o0TE1JNmVHellkcVdKM21jZXZpNVBfSW1KTGF1YnJLLU9oOXJNV2FRZmtoWEl6Sk1rZ1dyNnBxbUQxamxJTnN5d0ZZaUduQVRSMXZiYXhmd2IzVQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 88.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-12 18:47",
+   "title": "US Stock market on Columbus day predictions: S&P 500,… - inkl",
+   "summary": "US Stock market on Columbus day predictions: S&P 500,… &nbsp;&nbsp; inkl",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNNjlPM1pVNUpIcjRlTElVYXhxUFhCNGRnb2pJNmROeEdqdGpzZDdvRjF3c0ZITi1KMlJ1T2dWWEk1VGg1bnltWnBhUHI0TUs4OXoycDBuYUlIbEE2NzdSb2taLUYtaENCZVgtV3JZWUlGWmlaalpnUVMwTklPbm55WC1BYmw3aU5VRWNXZW0wOGs0NTJ0VE5xOVZ2STcwaGdlNnphMU1qUXRaUDJENlliY1ItV1Ntd2xaS215bWYzVG9SYzE4dHpQM0NueWg5Sk5QbjdwdmtjRGlqTDNyOVVUZ1FqVHpuZDlVQTBvYWNfemkyRnhjbjUyS0JxOEItQi14Wl93dUNPX0hFS2FKeGgtMUJOYTl3ZnRmQkVDM19rOGw0bmhSWDk0OU5RSTVqOTQtd2czd3FWSW1pT0VDLUpmdURTVmZsQQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 88.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-11 20:30",
+   "title": "The stock market ≠ the economy ✋ - TKer by Sam Ro",
+   "summary": "The stock market ≠ the economy ✋ &nbsp;&nbsp; TKer by Sam Ro",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UZWtFRl9CNzZRblN1RDA0NFBDc1NRaHlVdjVISENMUFJrRWNMVVZ5aUpqd0xvcTc5Slh0cHFpTVFVa3pzWS1hTGtTOHptN1Bua3A5bjV6SF96el82Um1WalNrSlVXTU9naGdXTzNtUQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 88.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-09 21:21",
+   "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Gain as Scott Bessent Says US Is Starving Iran - Benzinga",
+   "summary": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Gain as Scott Bessent Says US Is Starving Iran &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVE1VSjdmVE9LTVBQUFJ5bjR6bkdvY2ZEQThDdmRmN2lzU0VDR0lRbFdvc1dwODBxbEZzMFpzcVNubFRJbE1ib29XbFl2ZE5QazNnSTZyOTlTdUlwVldrT2FiYzJPYnBRZmZnT3loWC1Gd2VnSVNHT01iNV9YMnpDZlNCNHY2ZzQ0N2UxNkJUaGFMc3J0a1o1dGMwTThienZGYVJ2S2Zya05pN3AxNVh3aHZFRURMV3EzWHctZnphRDBCbnBWMV9HbjM1aE8yM2xLeVNjSnVfYU5ReXZKdFNiam5jbThxTFViMTVFOWpRSGM0SS1oell0WUM4UHAzX2pHOXg3N3dTcDNnYjh2eThBeko4bjZvNms?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 88.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-14 16:17",
+   "title": "New Zealand Dollar gains as US Dollar weakens on falling yields",
+   "summary": "NZD/USD gains ground for the second successive day, trading around 0.5620 during European hours on Wednesday. The pair remains stronger as the US Dollar (USD) holds losses, weighed…",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-us-dollar-weakens-on-falling-yields-202610140817",
+     "t": "sec"
+    }
+   ],
+   "heat": 63.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-14 16:01",
+   "title": "AUD/USD Price Forecast: Extends recovery to near 20-day EMA",
+   "summary": "The Australian Dollar (AUD) outperforms its major currency peers on Wednesday, trading 0.3% higher at around 0.7010 against the US Dollar (USD) during the European session.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/aud-usd-price-forecast-extends-recovery-to-near-20-day-ema-202610140801",
+     "t": "sec"
+    }
+   ],
+   "heat": 63.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-14 12:09",
+   "title": "Gold refreshes weekly low, below $4,150 as traders look to US CPI for Fed rate cuts",
+   "summary": "Gold (XAU/USD) trades with a negative bias for the third straight day, touching a fresh weekly low during the first half of Wednesday’s European session.",
+   "srcs": [
+    {
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/gold-draws-support-from-retreating-usd-holds-above-4-150-as-traders-await-us-cpi-report-202610140409",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.1
   },
   {
    "cat": "global",
@@ -643,35 +671,63 @@
      "t": "sec"
     }
    ],
-   "heat": 59.8
+   "heat": 47.6
   },
   {
    "cat": "global",
-   "time": "2026-10-14 12:09",
-   "title": "Gold struggles around $4,150 as Fed hike bets counter USD weakness ahead of US CPI report",
-   "summary": "Gold (XAU/USD) trades with a negative bias for the third straight day, hovering below $4,150 heading into Wednesday’s European session as focus remains on the latest US inflation f…",
+   "time": "2026-10-14 15:08",
+   "title": "FX Daily: Hot Inflation to Strengthen Dollar Floor",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/fx-daily-hot-inflation-to-strengthen-dollar-floor-200689544",
+     "t": "agg"
+    }
+   ],
+   "heat": 41.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-14 17:25",
+   "title": "Europe’s Power Markets Face a New Balancing Act (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-14/europe-s-power-markets-face-a-new-balancing-act-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-14 16:14",
+   "title": "British Pound: Upside extension capped by 1.3280 against US Dollar – UOB",
+   "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report that GBP/USD has bounced firmly to 1.3255, invalidating their prior downside-bias call. Short-term momentum allow…",
    "srcs": [
     {
      "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/gold-draws-support-from-retreating-usd-holds-above-4-150-as-traders-await-us-cpi-report-202610140409",
+     "u": "https://www.fxstreet.com/news/british-pound-upside-extension-capped-by-13280-against-us-dollar-uob-202610140814",
      "t": "sec"
     }
    ],
-   "heat": 59.3
+   "heat": 39.8
   },
   {
    "cat": "global",
-   "time": "2026-10-14 16:00",
-   "title": "Italy Industry Lobby Says Energy Shock Could Wipe Out Growth",
-   "summary": "A worsening energy shock could wipe out Italy’s economic growth next year, with high power prices and European Union carbon costs hurting industrial competitiveness, according to t…",
+   "time": "2026-10-14 15:54",
+   "title": "Indonesian Rupiah remains steady as Bank Indonesia interventions limit USD/IDR upside",
+   "summary": "USD/IDR holds ground after posting modest losses the previous day, trading around 17,930 during European hours on Wednesday.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-14/italy-industry-lobby-says-energy-shock-could-wipe-out-growth",
+     "n": "FXStreet(外汇)",
+     "u": "https://www.fxstreet.com/news/indonesian-rupiah-remains-steady-as-bank-indonesia-interventions-limit-usd-idr-upside-202610140754",
      "t": "sec"
     }
    ],
-   "heat": 48.0
+   "heat": 39.7
   },
   {
    "cat": "global",
@@ -685,63 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-14 14:33",
-   "title": "Euro hits fresh 16-month lows against a firmer British Pound",
-   "summary": "The Euro (EUR) resumes its downtrend against the British Pound (GBP) as France’s public debt keeps investors on their toes while the UK Government pledges fiscal discipline. The EU…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/euro-hits-fresh-16-month-lows-against-a-firmer-british-pound-202610140633",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-14 14:04",
-   "title": "British Pound gains as UK assures fiscal discipline",
-   "summary": "The British Pound (GBP) trades higher against its major currency peers, except antipodeans, on Wednesday. In the early European trade, the British currency is up 0.2% at around 210…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/british-pound-gains-as-uk-assures-fiscal-discipline-202610140604",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-14 07:48",
-   "title": "Eurozone debt bourses consolidate as Lagarde rejects French bond backstop",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/forex-news/eurozone-debt-bourses-consolidate-as-lagarde-rejects-french-bond-backstop-4948176",
-     "t": "agg"
-    }
-   ],
-   "heat": 44.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-14 01:54",
-   "title": "Europe Escaped Russian Gas Dependence but Not Geopolitical Energy Risk",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/europe-escaped-russian-gas-dependence-but-not-geopolitical-energy-risk-200689510",
-     "t": "agg"
-    }
-   ],
-   "heat": 43.6
+   "heat": 39.7
   },
   {
    "cat": "global",
@@ -755,21 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-14 14:44",
-   "title": "US Dollar: Fed inflation focus into October FOMC – Danske Bank",
-   "summary": "Danske Bank strategists highlight September Consumer Price Index (CPI as this week's key US release, with headline and core inflation expected to edge higher year-on-year despite m…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/us-dollar-fed-inflation-focus-into-october-fomc-danske-bank-202610140644",
-     "t": "sec"
-    }
-   ],
-   "heat": 35.7
+   "heat": 39.6
   },
   {
    "cat": "global",
@@ -783,35 +769,63 @@
      "t": "sec"
     }
    ],
-   "heat": 35.6
+   "heat": 39.4
   },
   {
    "cat": "global",
-   "time": "2026-10-14 13:28",
-   "title": "Swiss Franc strengthens as US Dollar slips on dovish Fed signals",
-   "summary": "USD/CHF extends its losses for the second consecutive day, trading around 0.8320 during Asian hours on Wednesday. The currency pair depreciated as the US Dollar (USD) lost ground f…",
-   "srcs": [
-    {
-     "n": "FXStreet(外汇)",
-     "u": "https://www.fxstreet.com/news/swiss-franc-strengthens-as-us-dollar-slips-on-dovish-fed-signals-202610140528",
-     "t": "sec"
-    }
-   ],
-   "heat": 35.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-13 15:00",
-   "title": "No Trigger in Sight for a US Dollar Reversal",
+   "time": "2026-10-14 16:30",
+   "title": "CPI Has a Lower Bar, but US Dollar Might Still Have the Higher Floor",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/no-trigger-in-sight-for-a-us-dollar-reversal-200689464",
+     "u": "https://www.investing.com/analysis/cpi-has-a-lower-bar-but-us-dollar-might-still-have-the-higher-floor-200689546",
      "t": "agg"
     }
    ],
-   "heat": 29.8
+   "heat": 37.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-14 09:12",
+   "title": "Sterling today: Pound edges up as dollar softens before U.S. CPI",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-softens-before-us-cpi-4948452",
+     "t": "agg"
+    }
+   ],
+   "heat": 36.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-14 01:54",
+   "title": "Europe Escaped Russian Gas Dependence but Not Geopolitical Energy Risk",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/europe-escaped-russian-gas-dependence-but-not-geopolitical-energy-risk-200689510",
+     "t": "agg"
+    }
+   ],
+   "heat": 35.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-14 15:12",
+   "title": "Gold’s Next Move: $4,156 Support and $4,270 Resistance in Focus",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/golds-next-move-4156-support-and-4270-resistance-in-focus-200689534",
+     "t": "agg"
+    }
+   ],
+   "heat": 21.6
   },
   {
    "cat": "crypto",
@@ -825,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.6
+   "heat": 75.4
   },
   {
    "cat": "crypto",
@@ -839,7 +853,21 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 71.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-14 16:48",
+   "title": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
+   "summary": "Chainalysis CEO in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.9
   },
   {
    "cat": "crypto",
@@ -853,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.4
+   "heat": 47.2
   },
   {
    "cat": "crypto",
@@ -867,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.0
+   "heat": 46.8
   },
   {
    "cat": "crypto",
@@ -881,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.8
+   "heat": 46.6
   },
   {
    "cat": "crypto",
@@ -895,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.4
+   "heat": 45.2
   },
   {
    "cat": "crypto",
@@ -909,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.3
+   "heat": 45.1
   },
   {
    "cat": "crypto",
@@ -923,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.2
+   "heat": 45.0
   },
   {
    "cat": "crypto",
@@ -937,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.6
+   "heat": 44.4
   },
   {
    "cat": "crypto",
@@ -951,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.3
+   "heat": 35.1
   },
   {
    "cat": "crypto",
@@ -965,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 34.5
+   "heat": 34.3
   },
   {
    "cat": "crypto",
@@ -979,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.3
+   "heat": 33.1
   },
   {
    "cat": "crypto",
@@ -993,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.2
+   "heat": 33.0
   },
   {
    "cat": "crypto",
@@ -1007,49 +1035,21 @@
      "t": "sec"
     }
    ],
-   "heat": 32.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-13 19:56",
-   "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
-   "summary": "The $911 billion Pittsburgh-based asset manager is teaming up with Prometheum to bring blockchain-based share classes of its funds to traditional brokerage accounts.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.6
+   "heat": 32.7
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 09:43",
-   "title": "09:43:46【AI漫剧概念震荡回升 慈文传媒4连板】",
-   "summary": "09:43:46【AI漫剧概念震荡回升 慈文传媒4连板】 &nbsp;&nbsp; 财联社",
+   "time": "2026-10-10 06:52",
+   "title": "06:52:37【特朗普政府要求AI公司在发生安全事件后立即上报】",
+   "summary": "06:52:37【特朗普政府要求AI公司在发生安全事件后立即上报】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OaThhc2JBekVKOGMyTXhwa3lFYVNoUkd5ZzhtTXFhY3FWOVhUV0tzQWt2d2xYa2d0ZlloNDVSTkNHVW5JemhDOQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjSVIySDZnTXFfcFVtZVRVSDd1Q0ZxVjVGcWhySUV5UllaZzZfaEpsM19obDBEVTZhSWlkbDg1S25JZnlacW04QQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 262.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-14 00:18",
-   "title": "Gold Consolidates Near $4,200: Can Buyers Reclaim $4,208?",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-consolidates-near-4200-can-buyers-reclaim-4208-200689504",
-     "t": "agg"
-    }
-   ],
-   "heat": 259.3
+   "heat": 228.0
   }
  ]
 }

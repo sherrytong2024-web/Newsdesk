@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-14 16:15",
+ "updated": "2026-10-14 17:28",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-10-14 16:03",
+   "time": "2026-10-14 17:22",
    "title": "Stock futures are mixed as traders await consumer inflation report: Live updates",
    "summary": "A slide in chip stocks and mixed bank results on Tuesday weighed on the major averages.",
    "srcs": [
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 268.0
+   "heat": 240.0
   },
   {
    "cat": "sector",
@@ -27,12 +27,12 @@
      "t": "sec"
     }
    ],
-   "heat": 267.6
+   "heat": 239.4
   },
   {
    "cat": "sector",
    "time": "2026-10-14 13:12",
-   "title": "ASML Shares Rise as Chip-Gear Maker Can’t Keep Up With AI Demand",
+   "title": "ASML Rises as Chip-Gear Maker Can’t Keep Up With AI Demand",
    "summary": "ASML Holding NV shares rose after the Dutch company said soaring artificial intelligence spending means it’s searching for ways to produce more chip-making machines over the next t…",
    "srcs": [
     {
@@ -41,25 +41,53 @@
      "t": "sec"
     }
    ],
-   "heat": 267.5
+   "heat": 239.3
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 16:00",
-   "title": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
-   "summary": "Diesel supply is expected to remain tight into 2027 as Iran war-related disruption, falling inventories and resilient demand strain the market, the IEA said.",
+   "time": "2026-10-14 17:18",
+   "title": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
+   "summary": "A ballistic missile has struck energy infrastructure supposedly covered by the \"energy ceasefire\" announced by Trump on Sunday, Zelenskyy said.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
+     "u": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
      "t": "sec"
     }
    ],
-   "heat": 264.0
+   "heat": 236.0
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 16:00",
+   "time": "2026-10-14 16:53",
+   "title": "Oil prices choppy after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
+   "summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-14 16:48",
+   "title": "Anthropic Executive Says Open-Source AI Models Are Higher Risk",
+   "summary": "Anthropic PBC’s top sales executive outside the US argued that open alternatives to its AI models carry “more risk” of cybersecurity incidents or other dangers.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-executive-says-open-source-ai-models-are-higher-risk",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-14 16:45",
    "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
    "summary": "ASML said some customers are \"expressing an interest\" in placing orders with the company in 2029 and 2030, giving investors a view into longer-term demand.",
    "srcs": [
@@ -69,77 +97,49 @@
      "t": "sec"
     }
    ],
-   "heat": 264.0
+   "heat": 235.9
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 15:52",
-   "title": "CJP Leaders Detained After Jumping Jantar Mantar Gate",
-   "summary": "Leaders of a popular Indian youth movement were detained on Tuesday as they climbed over a gate to enter Jantar Mantar in New Delhi. Authorities announced on Monday that Jantar Man…",
+   "time": "2026-10-14 16:33",
+   "title": "Mercuria Agrees $250 Million Congo Copper Deal With China Miner",
+   "summary": "Mercuria Energy Group has placed another big bet on copper production in the Democratic Republic of Congo, sealing a deal to buy metal from units of Shanghai Jayson New Energy Mate…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-14/vo-india-police-detain-cockroach-janta-party-leaders-oct-13",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-14/mercuria-agrees-250-million-congo-copper-deal-with-china-miner",
      "t": "sec"
     }
    ],
-   "heat": 263.9
+   "heat": 235.8
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 15:35",
-   "title": "Kai-Fu Lee: AI Transformation Must Begin From the Top",
-   "summary": "01.AI Founder & CEO Kai-Fu Lee discusses how AI tools can boost efficiency at work, arguing that their deployment needs engagement from the very top leadership to work at their bes…",
+   "time": "2026-10-14 16:29",
+   "title": "Public, Private Sector Leaders on Economic Resilience",
+   "summary": "H.E. Sheikh Faisal bin Thani bin Faisal Al Thani, Minister of Commerce & Industry, State of Qatar and Vice Chairman & Managing Director, Doha Investment and Sunil Mittal, Founder &…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-14/kai-fu-lee-ai-transformation-must-begin-from-the-top-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-14/public-private-sector-leaders-on-economic-resilience-video",
      "t": "sec"
     }
    ],
-   "heat": 263.9
+   "heat": 235.8
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 15:33",
-   "title": "Namibia, Total Remain in Oil Development Talks as Year-End Nears",
-   "summary": "Namibia and TotalEnergies SE are still negotiating terms for the development of the French major’s Venus oil discovery, leaving less time to meet a target of first production by 20…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-14/namibia-total-remain-in-oil-development-talks-as-year-end-nears",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-14 15:33",
-   "title": "OpenAI Arrest, ASML Beats, More",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-10-14 16:28",
+   "title": "Russia Hits Ukraine's Energy, Germany to Push China Caps, More",
+   "summary": "Source: Bloomberg, 6:30",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-14/openai-arrest-asml-beats-more",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-14/russia-hits-ukraine-s-energy-germany-to-push-china-caps-more",
      "t": "sec"
     }
    ],
-   "heat": 263.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-14 15:28",
-   "title": "Asia The Pain Point for AI Jitters: Market Analysis",
-   "summary": "Anna Edwards, Guy Johnson, and Adam Linton break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-14/asia-the-pain-point-for-ai-jitters-3-minutes-mliv-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 263.9
+   "heat": 235.8
   }
  ]
 }
