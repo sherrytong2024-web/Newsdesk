@@ -1,61 +1,33 @@
 {
- "updated": "2026-10-16 07:28",
+ "updated": "2026-10-16 10:30",
  "items": [
   {
    "cat": "macro",
-   "time": "2026-10-16 05:36",
-   "title": "Hot US Inflation, Treasury Safe Haven, CoreWeave's Credit Risk",
-   "summary": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know. Today's guests: Societe Generale Americas Head of Research Subadra Rajappa, Columbia Threadneedle Investm…",
+   "time": "2026-10-16 09:44",
+   "title": "Nvidia Partner GMI Cloud Calls CoreWeave’s 15% Yield ‘Insane’",
+   "summary": "The founder of a cloud computing company with a similar business model to CoreWeave Inc. said the 15% yield on the latter’s bonds is “insane,” compared with the roughly 3.45% rate …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-partner-gmi-cloud-calls-coreweave-s-15-yield-insane",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-16 07:51",
+   "title": "Gold Holds Gain With Haven Demand and Lower Yields in Focus",
+   "summary": "Gold steadied after rising the most in more than two weeks on Thursday as a stock selloff drove investors into bonds, pushing down Treasury yields.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-15/real-yield-10-15-2026-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-15/gold-holds-gains-with-haven-demand-and-lower-yields-in-focus",
      "t": "sec"
     }
    ],
-   "heat": 71.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-16 04:30",
-   "title": "Retirees can take these steps to shore up income as yields rise and some dividend-paying sectors slip",
-   "summary": "A spike in Treasury yields has retirees facing price declines from their bonds, as well as in some of their favorite dividend-paying sectors.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/15/retirees-can-take-these-steps-to-shore-up-income-as-yields-rise.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-15 15:18",
-   "title": "Gold Remains Range-Bound as Focus Shifts from Geopolitics to Fed Rate Hike Bets",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-remains-rangebound-as-focus-shifts-from-geopolitics-to-fed-rate-hike-bets-200689618",
-     "t": "agg"
-    }
-   ],
-   "heat": 43.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-15 07:33",
-   "title": "Gold Rallies as Lower Yields, AI Stock Selloff Fuel Haven Demand",
-   "summary": "Gold increased as an equity selloff drove investors into bonds, pushing Treasury yields lower.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-14/gold-holds-loss-as-hot-inflation-lifts-october-rate-hike-bets",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.0
+   "heat": 43.6
   },
   {
    "cat": "macro",
@@ -69,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 43.2
   },
   {
    "cat": "macro",
@@ -83,35 +55,21 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 43.2
   },
   {
    "cat": "macro",
-   "time": "2026-10-16 05:05",
-   "title": "Dow rises more than 500 points as investors rotate away from AI trade: Live updates",
-   "summary": "Concerns around tech companies overspending on artificial intelligence grew, and traders digested U.S. data that pointed to persistent inflation.",
+   "time": "2026-10-16 04:30",
+   "title": "Retirees can take these steps to shore up income as yields rise and some dividend-paying sectors slip",
+   "summary": "A spike in Treasury yields has retirees facing price declines from their bonds, as well as in some of their favorite dividend-paying sectors.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html",
+     "u": "https://www.cnbc.com/2026/10/15/retirees-can-take-these-steps-to-shore-up-income-as-yields-rise.html",
      "t": "sec"
     }
    ],
-   "heat": 39.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-16 05:04",
-   "title": "DOJ Sues CA Over Voter Rolls, Daly: Inflation Risk to the Upside",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-15/doj-sues-ca-over-voter-rolls-daly-inflation-risk-to-the-upside",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.6
+   "heat": 43.0
   },
   {
    "cat": "macro",
@@ -125,21 +83,21 @@
      "t": "sec"
     }
    ],
-   "heat": 39.5
+   "heat": 43.0
   },
   {
    "cat": "macro",
-   "time": "2026-10-16 03:53",
-   "title": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now",
-   "summary": "Physical oil can cost about $38 a barrel more to deliver, as tanker rates surge.",
+   "time": "2026-10-15 15:18",
+   "title": "Gold Remains Range-Bound as Focus Shifts from Geopolitics to Fed Rate Hike Bets",
+   "summary": "",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html",
-     "t": "sec"
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-remains-rangebound-as-focus-shifts-from-geopolitics-to-fed-rate-hike-bets-200689618",
+     "t": "agg"
     }
    ],
-   "heat": 39.4
+   "heat": 42.8
   },
   {
    "cat": "macro",
@@ -153,21 +111,35 @@
      "t": "sec"
     }
    ],
-   "heat": 38.9
+   "heat": 42.4
   },
   {
    "cat": "macro",
-   "time": "2026-10-15 16:39",
-   "title": "Tech market sell-off deepens amid fears over US inflation and AI debt - The Guardian",
-   "summary": "Tech market sell-off deepens amid fears over US inflation and AI debt &nbsp;&nbsp; The Guardian",
+   "time": "2026-10-16 01:26",
+   "title": "Gold steadies near $4,160 as stock selloff drives bond rally, Treasury yields fall",
+   "summary": "",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORElLSHBNa1VvRjk5dmRWaE5HR21Hd3JwY0tBX19SRUpOOTZTd2RlV2tDN3RVa1lPd0NZU2tUQVBCMWxtclJpeE5jZzlYNUtGaXdIeFFBR0xsSmVVQ1lreURiLTFOcjN6eTZHZzdmM19aNzZUSHB1dGFlcFlVX0gxckN6NDFMemNnbnZWOVVBYTFMZDl4QWI2cFFUQ2JpckFqSVk5eTU2cU9wcHpBQnZaQTVRYVZSTFhVbVE?oc=5",
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940",
+     "t": "agg"
+    }
+   ],
+   "heat": 40.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-15 09:30",
+   "title": "How Valterra's Forging the Future of Platinum | Chief Financial Officer",
+   "summary": "Chief Financial Officers now play a critical role in shaping corporate strategy and positioning organizations to meet future challenges. This episode profiles Valterra Platinum CFO…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-15/how-valterra-s-forging-the-future-of-platinum-video",
      "t": "sec"
     }
    ],
-   "heat": 37.5
+   "heat": 39.8
   },
   {
    "cat": "macro",
@@ -181,49 +153,63 @@
      "t": "agg"
     }
    ],
+   "heat": 39.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 14:32",
+   "title": "Why Are US Stock and Bond Yields Rising at the Same Time? - Morningstar",
+   "summary": "Why Are US Stock and Bond Yields Rising at the Same Time? &nbsp;&nbsp; Morningstar",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcGhHbDdZeWF5S3Bxa1VnamcxZFJPc21FRzZHX3ZmQm9wSGpmSWRMOE93UXBhWktMOHZwNTdOaW42XzNfYzd0Y3hvYm1tQjZDMWJDbjJmLUlaSkl3Z29QYTJvemJwSVJ0QkJSN3gxYk1KYlZMbFowa3dMd1cxT2U3Tzk3QTNaX1FUYV9QMTRCeUl2Zw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 36.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-13 00:32",
+   "title": "S&P 500: Earnings strength offsets yield headwinds – HSBC - www.tmgm.com",
+   "summary": "S&P 500: Earnings strength offsets yield headwinds – HSBC &nbsp;&nbsp; www.tmgm.com",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0FTeHNIaGtkUlBDU3JEYTJTbFlGcFQzSG1KdHM3Q0ZvU3Q0d3ROVkk5cUJIaVF3THNJREhVSmY3SEFaMlYtT1VfV3A5REEteVRZZjFyN0ttMVpoSUtlaTRLUDl5bHVtZmlEem9VakkxcjZkRVZid0M0OE5ZRS1XMGJJd3hYQm40VV9aRTZGc19ySDMwU3NIUFF0Wi1zSzBtUTNwNklybHhNVjVQaWExYjJHb0t2UWNFTFh3aWUwOA?oc=5",
+     "t": "sec"
+    }
+   ],
    "heat": 36.0
   },
   {
    "cat": "macro",
-   "time": "2026-10-14 21:58",
-   "title": "Markets today: U.S. stocks slip as inflation gets worse - BNN Bloomberg",
-   "summary": "Markets today: U.S. stocks slip as inflation gets worse &nbsp;&nbsp; BNN Bloomberg",
+   "time": "2026-10-12 19:05",
+   "title": "The S&P 500 celebrates latest bull market anniversary - TradingView",
+   "summary": "The S&P 500 celebrates latest bull market anniversary &nbsp;&nbsp; TradingView",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVV3NnZBanFxa09WSm9vWFk2RlB2b285aXlVbUxMZWVHRGpOYTN1cmtkUnBEa1lGQnVjMlU1bXBMdWJ1MkRrWlkyNGhIclh1YTZ3NzdZbE1uMG4zdXpQWkU3UTlEWEVIMVRrYVVtLXc0TUxKOUxua1ZJbnN0OF8yV2VESUl3S3pXYUc4bWczRVNWUkhsVlpUcHc1UWZzcTcxa0tMajRvQUZXOUJxTzEtOElmbGNBNEFfVGdwdFlUb1p5ZlFxTGF2U2MtRQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSDR6NklQRFUwMEhjdXd5akhubmdraU1RakRrNjJmRlM4SEV1TXFtRC1FNTVDZ2wzclRCdks3aVZkYU1tZVk1S0c4MmVSb0Q3MWpFSGJDX3VoQ0F2QzFXd0hENERMeXVKRlYySlVQWjRaSHhUTkNSclJDbjRhNGhteXJ0ZGJKNFRudloxaXJzZk9qbU56TWc2VFVBWE5VVHJWaUNCa0hnV0tiMEZaaF81T3hnSUc1Mk0?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 34.4
+   "heat": 36.0
   },
   {
    "cat": "macro",
-   "time": "2026-10-14 20:39",
-   "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Gain Even as September Inflation Report Comes In Hotter - Benzinga",
-   "summary": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Gain Even as September Inflation Report Comes In Hotter &nbsp;&nbsp; Benzinga",
+   "time": "2026-10-12 17:09",
+   "title": "S&P 500: Earnings strength offsets yield headwinds – HSBC - FXStreet",
+   "summary": "S&P 500: Earnings strength offsets yield headwinds – HSBC &nbsp;&nbsp; FXStreet",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMHJnMVBfOFNXZEdvdmlxVlBjbXQyVU93SGdwendQWGpRNWlxRGNQeWpER1huQW5ndHpoc0JEbmszQlcydVlMdktKX3R4LUxjY2Z3NWliUUlZV01aYVVYLVY0UldqQ0VEMmZ1S3pqVkhpTDBKdzA4ZjJQNmlRalVqM0dYVE5BTGp4al9ZZkFQYkJ5aS1Rc1lSSmxkSGNSeW5pSThicTB2SjlxVThBNUxmSTRxMVFZNm0tM3RKOTI3TzRDaFd2OXB5dUpPNk9POHZKdW5zSnozOGIwSThTdlFvNzVoVUR3ckVJMDFKSUVjazJlNmpzS1VWNFZ0YVZGb1JjMy0w?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHA5dnpxRlRnTUQ1Z2pleldiaE9YdGN3REl3dm5YQWU3X09PY0RKUzZJVzM4Q2RkZFo5ZWxuWlVfcDZnZ2RPN3JjOElGcmJXOEZJRmFZRElDZmx3NzF0cVYxbExCWDVfQlNRNE96dFV5OFpOdE82SjNXdkdObl81RmU2bENUM3ZQWlZlMUlYbTU5OG9QRDZLMF9DVnQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 34.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 04:33",
-   "title": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
-   "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.5
+   "heat": 36.0
   },
   {
    "cat": "sector",
@@ -237,7 +223,119 @@
      "t": "sec"
     }
    ],
-   "heat": 230.7
+   "heat": 226.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 09:32",
+   "title": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
+   "summary": "Taiwan plans to raise billions of dollars to develop industrial parks in the US that would build a base for a comprehensive supply chain for Nvidia Corp. and other AI hardware make…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 09:31",
+   "title": "India’s Billionaire Family Offices are Betting Big on Homegrown AI Startups",
+   "summary": "The artificial intelligence boom has cemented US and Chinese tech dominance and created fortunes across North Asia’s chip supply chain. Now, India’s billionaire family offices and …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-16/india-s-billionaire-family-offices-are-betting-big-on-homegrown-ai-startups",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 06:04",
+   "title": "Asian Stocks Rise on Tech, Treasuries Pare Gains: Markets Wrap",
+   "summary": "Asian equities rose as dip buyers stepped in following a chip-stock selloff fueled by renewed concerns about the artificial intelligence trade. Treasuries pared this week’s gains.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 04:33",
+   "title": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
+   "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 10:25",
+   "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
+   "summary": "Russia’s return to the G20 table has tested how far Washington’s outreach to Moscow will strain ties with European allies.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 220.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 09:35",
+   "title": "Order to limit Starshield for Ukraine came from inside White House: Reuters reports",
+   "summary": "Officials say the White House ordered temporary limits on Ukraine’s Starshield service, affecting drone operations amid rising U.S.-Kyiv tensions.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-reuters-reports.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 09:00",
+   "title": "Takaichi's Challenges After One Year in Office",
+   "summary": "As Sanae Takaichi marks one year since becoming Japan's first female prime minister, Bloomberg TV's Shery Ahn looks back at what has been achieved and what challenges lie ahead. (S…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-16/takaichi-s-challenges-after-one-year-in-office-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 08:06",
+   "title": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
+   "summary": "Singapore continues to grapple with severe haze that is disrupting daily life and businesses, as authorities roll out protective measures — and issue warnings.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.6
   },
   {
    "cat": "sector",
@@ -251,21 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 06:29",
-   "title": "Bloomberg Businessweek Daily: Market Lessons from 1873 (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-15/bloomberg-businessweek-daily-market-lessons-from-1873-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.8
+   "heat": 219.4
   },
   {
    "cat": "sector",
@@ -279,35 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 06:04",
-   "title": "Asian Stocks Set for Gains as Tech Selloff Eases: Markets Wrap",
-   "summary": "Asian equities were primed to rebound Friday after dip buyers powered a recovery on Wall Street from a chip-stock selloff fueled by concerns about the artificial intelligence trade…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 06:03",
-   "title": "Latest Oil Market News and Analysis for Oct. 16",
-   "summary": "Oil was set for a second weekly advance as increasing Middle East supply risks weighed against a fresh release of emergency reserves.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-15/latest-oil-market-news-and-analysis-for-oct-16",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.8
+   "heat": 219.3
   },
   {
    "cat": "sector",
@@ -321,21 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 05:39",
-   "title": "Blackstone President Jon Gray Bets Big on AI Boom",
-   "summary": "Get caught up.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-15/blackstone-president-jon-gray-bets-big-on-ai-boom",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.7
+   "heat": 219.2
   },
   {
    "cat": "sector",
@@ -349,63 +391,35 @@
      "t": "sec"
     }
    ],
-   "heat": 227.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 05:30",
-   "title": "EU Is Said to Target China With Broader Trade Tool",
-   "summary": "Get caught up.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-15/eu-is-said-to-target-china-with-broader-trade-tool",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 05:24",
-   "title": "U.S. sues California in fight over checking citizenship of mail voters",
-   "summary": "The lawsuit by the Trump administration comes less than a month before the midterm election that will determine which party controls both chambers of Congress.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 04:30",
-   "title": "AI Race Heats Up Again a Month After Calls for a Slowdown",
-   "summary": "The competition to build more advanced AI remains as fierce as ever.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-15/ai-race-heats-up-again-a-month-after-calls-for-a-slowdown",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.5
+   "heat": 219.2
   },
   {
    "cat": "stock",
-   "time": "2026-10-15 22:22",
-   "title": "Earnings call transcript: J.B. Hunt Q3 2026 revenue beats, stock slips after hours",
+   "time": "2026-10-16 08:54",
+   "title": "Top Korea Tech Fund Favors Non-Memory Stocks in AI Value Chain",
+   "summary": "South Korea’s AI hardware component stocks with promising earnings potential will likely outperform the memory chip giants when the market rebounds, said a top fund manager focused…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-16/top-korea-tech-fund-favors-non-memory-stocks-in-ai-value-chain",
+     "t": "sec"
+    }
+   ],
+   "heat": 123.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-16 02:13",
+   "title": "Citi spots AI upside in two software stocks despite earnings and execution risks",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/transcripts/earnings-call-transcript-jb-hunt-q3-2026-revenue-beats-stock-slips-after-hours-93CH-4952769",
+     "u": "https://www.investing.com/news/stock-market-news/citi-spots-ai-upside-in-two-software-stocks-despite-earnings-and-execution-risks-4952965",
      "t": "agg"
     }
    ],
-   "heat": 120.5
+   "heat": 120.6
   },
   {
    "cat": "stock",
@@ -419,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 119.7
+   "heat": 119.2
   },
   {
    "cat": "stock",
@@ -433,21 +447,35 @@
      "t": "sec"
     }
    ],
-   "heat": 119.2
+   "heat": 118.7
   },
   {
    "cat": "stock",
-   "time": "2026-10-13 02:10",
-   "title": "Fidelity's Chisholm: Tech Stocks Can Keep ‘Climbing the Wall of Worry’",
-   "summary": "Fidelity’s Denise Chisholm says technology stocks have undergone an unusually large valuation reset even as earnings expectations continue to rise, potentially leaving the sector p…",
+   "time": "2026-10-16 08:43",
+   "title": "Indonesia Outflows to Worsen as MSCI Mulls Cut, Analysts Say",
+   "summary": "Indonesian stocks will likely see further outflows as the nation faces a potential ejection from global stock indexes following MSCI Inc.’s latest proposal to downgrade the country…",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-12/tech-rally-puts-earnings-in-focus-video",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-16/indonesia-outflows-to-worsen-as-msci-mulls-cut-analysts-say",
      "t": "sec"
     }
    ],
-   "heat": 116.0
+   "heat": 111.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-16 07:49",
+   "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+   "summary": "Investors shunned corners of the AI trade on Thursday. The Dow gained more than 550 points, benefiting from the rotation away from some tech names.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/15/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 111.6
   },
   {
    "cat": "stock",
@@ -461,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.9
+   "heat": 111.4
   },
   {
    "cat": "stock",
@@ -475,13 +503,13 @@
      "t": "sec"
     }
    ],
-   "heat": 111.7
+   "heat": 111.2
   },
   {
    "cat": "stock",
    "time": "2026-10-16 04:59",
-   "title": "MSCI Weighs Indonesia Downgrade, Removal From Global Indexes",
-   "summary": "Indonesia faces a potential ejection from global stock indexes after MSCI Inc. said the country no longer merits emerging-market status, escalating the threat of foreign investor f…",
+   "title": "Indonesia Stocks Sink as MSCI Weighs Removal From Global Indexes",
+   "summary": "Indonesian stocks fell by the most since January after MSCI Inc. said the country no longer merits emerging-market status, risking an ejection from its global indexes and triggerin…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -489,21 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-16 04:47",
-   "title": "Stock Movers: International Papers, PAG, PepsiCo (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-15/stock-movers-international-papers-pag-pepsico-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 111.6
+   "heat": 111.1
   },
   {
    "cat": "stock",
@@ -517,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.4
+   "heat": 110.9
   },
   {
    "cat": "stock",
@@ -531,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.3
+   "heat": 110.8
   },
   {
    "cat": "stock",
@@ -545,49 +559,21 @@
      "t": "sec"
     }
    ],
-   "heat": 109.6
+   "heat": 109.1
   },
   {
    "cat": "stock",
-   "time": "2026-10-15 22:46",
-   "title": "Fermi director Toby Neugebauer sells $14.3m in common stock",
+   "time": "2026-10-16 02:12",
+   "title": "Strive prices $630 million preferred stock offering at $90",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/fermi-director-toby-neugebauer-sells-143m-in-common-stock-93CH-4952795",
+     "u": "https://www.investing.com/news/company-news/strive-prices-630-million-preferred-stock-offering-at-90-93CH-4952964",
      "t": "agg"
     }
    ],
-   "heat": 108.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-15 22:46",
-   "title": "Oruka Therapeutics CMO Joana Goncalves sells $523,647 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/oruka-therapeutics-cmo-joana-goncalves-sells-523647-in-stock-93CH-4952794",
-     "t": "agg"
-    }
-   ],
-   "heat": 108.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-15 22:31",
-   "title": "Guardant Health director Alex M. Azar II sells $11,032 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/guardant-health-director-alex-m-azar-ii-sells-11032-in-stock-93CH-4952778",
-     "t": "agg"
-    }
-   ],
-   "heat": 108.5
+   "heat": 108.6
   },
   {
    "cat": "stock",
@@ -601,21 +587,21 @@
      "t": "sec"
     }
    ],
-   "heat": 108.3
+   "heat": 107.8
   },
   {
-   "cat": "global",
-   "time": "2026-10-15 14:47",
-   "title": "The Dollar Surges as Gold Slides: Could a Turning Point Be Near?",
-   "summary": "",
+   "cat": "stock",
+   "time": "2026-10-15 06:29",
+   "title": "Toronto Stock Exchange: S&P/TSX Composite Drops 1.11% to as Banks, Gold Miners and Celestica Slide - BBN Times",
+   "summary": "Toronto Stock Exchange: S&P/TSX Composite Drops 1.11% to as Banks, Gold Miners and Celestica Slide &nbsp;&nbsp; BBN Times",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/the-dollar-surges-as-gold-slides-could-a-turning-point-be-near-200689604",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmpTdUVmY3ZOVG9GUEFZRUhhdlFfVEI2azlmOS1HR0psU012dUE1RHR3QVRXZ3RfOGpJajRUVVhwVVloSi1YRW1haW5Lc2dwOF9xcm1vd2tvUTNKWk84WTN5NHItdER0WFpNT04tQ2N1S2M1RHpEQy1xaWtwUUdYRWp5amdvLTNpczBaQjZnYktyYlJFTzFiWkFyaG5ZVzBrc2NBakt4UG11V190ZmY0eldvemJzazE4Z01GV09xMXBsdWpqcEN4TG1IaEYtOFd2?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 31.2
+   "heat": 107.3
   },
   {
    "cat": "global",
@@ -629,7 +615,63 @@
      "t": "agg"
     }
    ],
-   "heat": 27.3
+   "heat": 34.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-15 14:47",
+   "title": "The Dollar Surges as Gold Slides: Could a Turning Point Be Near?",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/the-dollar-surges-as-gold-slides-could-a-turning-point-be-near-200689604",
+     "t": "agg"
+    }
+   ],
+   "heat": 34.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-16 06:03",
+   "title": "Latest Oil Market News and Analysis for Oct. 16",
+   "summary": "Oil was set for a second weekly advance as mounting Middle East supply risks outweighed a fresh release of emergency reserves.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-15/latest-oil-market-news-and-analysis-for-oct-16",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-16 05:15",
+   "title": "MSCI Freezes Turkey Indexes as Fund Turmoil Fuels Scrutiny",
+   "summary": "MSCI Inc. is stepping up scrutiny of Turkey’s equity market following a crisis in the country’s fund industry, freezing some index changes and warning that its emerging-market stat…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-15/msci-freezes-turkey-index-changes-as-fund-crisis-fuels-scrutiny",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-16 08:54",
+   "title": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
+   "summary": "The RBI's latest moves have helped the rupee recover from 96.79 rupees per dollar to the 95-level over recent days.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.7
   },
   {
    "cat": "global",
@@ -643,21 +685,7 @@
      "t": "agg"
     }
    ],
-   "heat": 19.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-15 15:21",
-   "title": "US Dollar Bulls Got Everything They Wanted. Except a Rally.",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-bulls-got-everything-they-wanted-except-a-rally-200689610",
-     "t": "agg"
-    }
-   ],
-   "heat": 19.3
+   "heat": 27.2
   },
   {
    "cat": "global",
@@ -671,7 +699,7 @@
      "t": "agg"
     }
    ],
-   "heat": 19.3
+   "heat": 26.8
   },
   {
    "cat": "global",
@@ -685,7 +713,21 @@
      "t": "agg"
     }
    ],
-   "heat": 19.3
+   "heat": 26.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-15 15:21",
+   "title": "US Dollar Bulls Got Everything They Wanted. Except a Rally.",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/us-dollar-bulls-got-everything-they-wanted-except-a-rally-200689610",
+     "t": "agg"
+    }
+   ],
+   "heat": 22.8
   },
   {
    "cat": "global",
@@ -699,7 +741,21 @@
      "t": "agg"
     }
    ],
-   "heat": 19.3
+   "heat": 22.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-14 02:14",
+   "title": "De-Dollarization: What Would Happen if the Dollar Lost Reserve Currency Status? | Investing - U.S. News - Money",
+   "summary": "De-Dollarization: What Would Happen if the Dollar Lost Reserve Currency Status? | Investing &nbsp;&nbsp; U.S. News - Money",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbDRQQnIwLVliOGZ6UXZ3TFM4ZDFVRUVmQkx1WmVuYzlZbkpZbWdTUmpnV3RmRVgyQkZ3bFYtZWFIMlEwZDRZNjdqMkwxYTB6bXhtWWVtYVltdXM4dThDSjVPYkdRM3R4TFhZQ3VpNDk4d2FYTXpQbS1yOEkyOGNtLXpCZmpKcVBITEs2dWhoX2N4TnlUS0YzbEdzclpmODlUVlBMZWEwSDZxRzJM?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 20.0
   },
   {
    "cat": "global",
@@ -713,7 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 18.9
+   "heat": 18.4
   },
   {
    "cat": "global",
@@ -725,20 +781,6 @@
      "n": "Investing.com(商品)",
      "u": "https://www.investing.com/analysis/the-energy-report-how-to-tank-brent-crude-200689654",
      "t": "agg"
-    }
-   ],
-   "heat": 16.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-14 02:14",
-   "title": "De-Dollarization: What Would Happen if the Dollar Lost Reserve Currency Status? | Investing - U.S. News - Money",
-   "summary": "De-Dollarization: What Would Happen if the Dollar Lost Reserve Currency Status? | Investing &nbsp;&nbsp; U.S. News - Money",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbDRQQnIwLVliOGZ6UXZ3TFM4ZDFVRUVmQkx1WmVuYzlZbkpZbWdTUmpnV3RmRVgyQkZ3bFYtZWFIMlEwZDRZNjdqMkwxYTB6bXhtWWVtYVltdXM4dThDSjVPYkdRM3R4TFhZQ3VpNDk4d2FYTXpQbS1yOEkyOGNtLXpCZmpKcVBITEs2dWhoX2N4TnlUS0YzbEdzclpmODlUVlBMZWEwSDZxRzJM?oc=5",
-     "t": "sec"
     }
    ],
    "heat": 16.0
@@ -772,48 +814,6 @@
    "heat": 14.0
   },
   {
-   "cat": "global",
-   "time": "2026-10-12 20:07",
-   "title": "U.S. Stock Market Preview | Iran says the U.S.'s ongoing economic warfare will hinder the restoration of security in the",
-   "summary": "U.S. Stock Market Preview | Iran says the U.S.'s ongoing economic warfare will hinder the restoration of security in the Strait of Hormuz, pushing Brent crude up by more than 1%; s…",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUh2WkFTMXpaZVc5cUVMdEtrOVpySnJmT1VSRFBfem9jb0lnNnRSbWgwWjIwNEFwbTNXYjNVZ0FyaFFoX19HRjNtVXdsR3BqRHphTDVoSFRfSWpGQmp6ODRWZU4zUW8wRlRLRUk5NkRPcWJlbVdzZWxublVnQ2xpU3RXQlo5ZWxJU3BWaGEweWtaM0ZuVjNxVg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 12.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-15 21:19",
-   "title": "港股公告精选｜赣锋锂业前三季度净赚约50亿元 迈富时前三季度AI应用收入同比翻倍",
-   "summary": "港股公告精选｜赣锋锂业前三季度净赚约50亿元 迈富时前三季度AI应用收入同比翻倍 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iN0I0SnVxUXotQUY0a2lwT203ekhjZFJQVlNuRlQ3WVNzZ19aQ0NidzdCQmhSMFZVNjhwY2ZXd0dFNy0yU0wxRQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 10.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-13 09:14",
-   "title": "15:59:08【天风证券：五大云厂商2026年至今发债2288亿美元 而2018-2024年各年均未超过500亿美元】",
-   "summary": "15:59:08【天风证券：五大云厂商2026年至今发债2288亿美元 而2018-2024年各年均未超过500亿美元】 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EZXRoN3J0d21aaGlQVjA0U2hrdGpHdlBRZ09oaTY0bkZCQWRFNndwQlVmMkRkSExiVGFTcXl2SHVOVUpmRUxHTg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 4.0
-  },
-  {
    "cat": "crypto",
    "time": "2026-10-16 03:37",
    "title": "Here’s what happened in crypto today",
@@ -825,21 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-15 18:52",
-   "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
-   "summary": "Bitcoin fell to just above $80,000 as South Korea’s Kospi plunged 8%, while the CoinDesk 80 fell 2.2% and all but six CoinDesk 100 members declined.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
-     "t": "sec"
-    }
-   ],
-   "heat": 77.9
+   "heat": 82.9
   },
   {
    "cat": "crypto",
@@ -853,7 +839,21 @@
      "t": "sec"
     }
    ],
-   "heat": 76.8
+   "heat": 80.3
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-15 18:52",
+   "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
+   "summary": "Bitcoin fell to just above $80,000 as South Korea’s Kospi plunged 8%, while the CoinDesk 80 fell 2.2% and all but six CoinDesk 100 members declined.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
+     "t": "sec"
+    }
+   ],
+   "heat": 77.4
   },
   {
    "cat": "crypto",
@@ -867,7 +867,21 @@
      "t": "sec"
     }
    ],
-   "heat": 71.0
+   "heat": 70.5
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-16 07:34",
+   "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+   "summary": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 63.5
   },
   {
    "cat": "crypto",
@@ -881,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.5
+   "heat": 63.0
   },
   {
    "cat": "crypto",
@@ -895,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.2
+   "heat": 62.7
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.6
+   "heat": 62.1
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.5
+   "heat": 62.0
   },
   {
    "cat": "crypto",
@@ -937,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.3
+   "heat": 61.8
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.2
+   "heat": 61.7
   },
   {
    "cat": "crypto",
@@ -965,21 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 62.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-15 20:00",
-   "title": "Ledger’s answer to wallet tampering costs $849 and ships next year",
-   "summary": "Ledger’s new Atom combines crypto wallet security with everyday apps and is expected to ship in summer 2027 as the company investigates tampered wallets sold in Asia.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 62.1
+   "heat": 61.6
   },
   {
    "cat": "crypto",
@@ -993,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 61.7
+   "heat": 61.2
   },
   {
    "cat": "crypto",
@@ -1007,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 61.6
+   "heat": 61.1
   },
   {
    "cat": "crypto",
@@ -1021,21 +1021,21 @@
      "t": "sec"
     }
    ],
-   "heat": 35.9
+   "heat": 39.4
   },
   {
    "cat": "sector",
-   "time": "2026-10-14 09:43",
-   "title": "09:43:46【AI漫剧概念震荡回升 慈文传媒4连板】",
-   "summary": "09:43:46【AI漫剧概念震荡回升 慈文传媒4连板】 &nbsp;&nbsp; 财联社",
+   "time": "2026-10-10 06:52",
+   "title": "06:52:37【特朗普政府要求AI公司在发生安全事件后立即上报】",
+   "summary": "06:52:37【特朗普政府要求AI公司在发生安全事件后立即上报】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OaThhc2JBekVKOGMyTXhwa3lFYVNoUkd5ZzhtTXFhY3FWOVhUV0tzQWt2d2xYa2d0ZlloNDVSTkNHVW5JemhDOQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjSVIySDZnTXFfcFVtZVRVSDd1Q0ZxVjVGcWhySUV5UllaZzZfaEpsM19obDBEVTZhSWlkbDg1S25JZnlacW04QQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 220.4
+   "heat": 212.0
   },
   {
    "cat": "sector",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 225.6
+   "heat": 217.1
   }
  ]
 }

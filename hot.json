@@ -1,20 +1,6 @@
 {
- "updated": "2026-10-16 07:28",
+ "updated": "2026-10-16 10:30",
  "items": [
-  {
-   "cat": "sector",
-   "time": "2026-10-16 04:33",
-   "title": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
-   "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.5
-  },
   {
    "cat": "sector",
    "time": "2026-10-15 23:27",
@@ -27,7 +13,119 @@
      "t": "sec"
     }
    ],
-   "heat": 230.7
+   "heat": 226.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 09:32",
+   "title": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
+   "summary": "Taiwan plans to raise billions of dollars to develop industrial parks in the US that would build a base for a comprehensive supply chain for Nvidia Corp. and other AI hardware make…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 09:31",
+   "title": "India’s Billionaire Family Offices are Betting Big on Homegrown AI Startups",
+   "summary": "The artificial intelligence boom has cemented US and Chinese tech dominance and created fortunes across North Asia’s chip supply chain. Now, India’s billionaire family offices and …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-16/india-s-billionaire-family-offices-are-betting-big-on-homegrown-ai-startups",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 06:04",
+   "title": "Asian Stocks Rise on Tech, Treasuries Pare Gains: Markets Wrap",
+   "summary": "Asian equities rose as dip buyers stepped in following a chip-stock selloff fueled by renewed concerns about the artificial intelligence trade. Treasuries pared this week’s gains.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 04:33",
+   "title": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
+   "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 223.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 10:25",
+   "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
+   "summary": "Russia’s return to the G20 table has tested how far Washington’s outreach to Moscow will strain ties with European allies.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 220.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 09:35",
+   "title": "Order to limit Starshield for Ukraine came from inside White House: Reuters reports",
+   "summary": "Officials say the White House ordered temporary limits on Ukraine’s Starshield service, affecting drone operations amid rising U.S.-Kyiv tensions.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-reuters-reports.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 09:00",
+   "title": "Takaichi's Challenges After One Year in Office",
+   "summary": "As Sanae Takaichi marks one year since becoming Japan's first female prime minister, Bloomberg TV's Shery Ahn looks back at what has been achieved and what challenges lie ahead. (S…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-16/takaichi-s-challenges-after-one-year-in-office-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-16 08:06",
+   "title": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
+   "summary": "Singapore continues to grapple with severe haze that is disrupting daily life and businesses, as authorities roll out protective measures — and issue warnings.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 219.6
   },
   {
    "cat": "sector",
@@ -41,105 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 06:29",
-   "title": "Bloomberg Businessweek Daily: Market Lessons from 1873 (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-15/bloomberg-businessweek-daily-market-lessons-from-1873-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 06:25",
-   "title": "Bloomberg Businessweek Daily: Andreessen's MAGA Rise (Podcast",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-15/bloomberg-businessweek-daily-andreessen-s-maga-rise-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 06:04",
-   "title": "Asian Stocks Set for Gains as Tech Selloff Eases: Markets Wrap",
-   "summary": "Asian equities were primed to rebound Friday after dip buyers powered a recovery on Wall Street from a chip-stock selloff fueled by concerns about the artificial intelligence trade…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 06:03",
-   "title": "Latest Oil Market News and Analysis for Oct. 16",
-   "summary": "Oil was set for a second weekly advance as increasing Middle East supply risks weighed against a fresh release of emergency reserves.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-15/latest-oil-market-news-and-analysis-for-oct-16",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 05:42",
-   "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-   "summary": "Polls show GOP Attorney General Ken Paxton trailing Democratic Rep. James Talarico in the Texas Senate race.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 05:39",
-   "title": "Blackstone President Jon Gray Bets Big on AI Boom",
-   "summary": "Get caught up.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-15/blackstone-president-jon-gray-bets-big-on-ai-boom",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-16 05:33",
-   "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-   "summary": "Signs of distressed deepened in CoreWeave on Thursday.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.7
+   "heat": 219.4
   }
  ]
 }
