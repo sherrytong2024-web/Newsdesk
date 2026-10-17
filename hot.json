@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18 01:40",
+ "updated": "2026-10-18 03:54",
  "items": [
   {
    "cat": "sector",
@@ -13,7 +13,35 @@
      "t": "sec"
     }
    ],
-   "heat": 303.2
+   "heat": 314.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 03:35",
+   "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+   "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 307.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 03:05",
+   "title": "Ukraine Starlink Restrictions,Trump Waives Russia Sanctions,More",
+   "summary": "Source: Bloomberg, 4:30",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-trump-waives-russia-sanctions-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 307.9
   },
   {
    "cat": "sector",
@@ -27,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.9
+   "heat": 307.6
   },
   {
    "cat": "sector",
@@ -41,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.8
+   "heat": 307.5
   },
   {
    "cat": "sector",
@@ -55,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.8
+   "heat": 307.4
   },
   {
    "cat": "sector",
@@ -69,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.8
+   "heat": 307.4
   },
   {
    "cat": "sector",
@@ -83,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.6
+   "heat": 307.2
   },
   {
    "cat": "sector",
@@ -97,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.5
+   "heat": 307.2
   },
   {
    "cat": "sector",
@@ -111,35 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 22:03",
-   "title": "Northwell CEO Says Health Care Model Must Change",
-   "summary": "Northwell Health President and CEO Dr. John D’Angelo tells Bloomberg This Weekend that the traditional US health care model is unsustainable and that improving affordability will r…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-17/northwell-ceo-says-health-care-model-must-change-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 295.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 21:47",
-   "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
-   "summary": "DeepSeek released an update of its AI model this weekend that it says is faster and leaner, ramping up the Chinese company’s challenge to Silicon Valley rivals Anthropic PBC and Op…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
-     "t": "sec"
-    }
-   ],
-   "heat": 295.4
+   "heat": 307.1
   }
  ]
 }
