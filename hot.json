@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18 03:54",
+ "updated": "2026-10-18 06:47",
  "items": [
   {
    "cat": "sector",
@@ -13,7 +13,49 @@
      "t": "sec"
     }
    ],
-   "heat": 314.8
+   "heat": 302.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 06:04",
+   "title": "Ukraine Starlink Restrictions,Trump Waives Russia Sanctions,More",
+   "summary": "Source: Bloomberg, 5:20",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-trump-waives-russia-sanctions-more-mvcy21gk",
+     "t": "sec"
+    }
+   ],
+   "heat": 295.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 05:44",
+   "title": "Niger Halts Diesel, Petrol Exports to Protect Domestic Supply",
+   "summary": "Niger banned exports of diesel and premium petrol in a bid to address fuel supply challenges that the country has been facing in recent days, the ministry of trade and industry sai…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-17/niger-halts-diesel-petrol-exports-to-protect-domestic-supply",
+     "t": "sec"
+    }
+   ],
+   "heat": 295.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 03:54",
+   "title": "Trump touts his power at Kentucky rally to energize voters ahead of midterm elections",
+   "summary": "Trump's self-proclaimed power clashes with voter frustration, with more Americans seeing the president as looking out for his own interests, not the country's.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/17/trump-touts-his-power-at-kentucky-rally-ahead-of-midterms.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 295.5
   },
   {
    "cat": "sector",
@@ -27,35 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 03:05",
-   "title": "Ukraine Starlink Restrictions,Trump Waives Russia Sanctions,More",
-   "summary": "Source: Bloomberg, 4:30",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-trump-waives-russia-sanctions-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 307.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 01:16",
-   "title": "Hurricane Trudy approaches Mexico coast as Typhoon Champi threatens Guam",
-   "summary": "Hurricane Trudy moved toward Mexico's Pacific coast and could keep growing through Saturday, forecasters said.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/17/hurricane-trudy-mexico-typhoon-champi-guam.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 307.6
+   "heat": 295.5
   },
   {
    "cat": "sector",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.5
+   "heat": 295.0
   },
   {
    "cat": "sector",
@@ -83,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.4
+   "heat": 295.0
   },
   {
    "cat": "sector",
@@ -97,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.4
+   "heat": 295.0
   },
   {
    "cat": "sector",
@@ -111,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.2
+   "heat": 294.7
   },
   {
    "cat": "sector",
@@ -125,21 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 22:27",
-   "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
-   "summary": "Junk bond buyers are increasingly freezing out tech startups looking for financing, as CoreWeave Inc.’s pain raises bigger questions about how artificial intelligence companies wil…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly",
-     "t": "sec"
-    }
-   ],
-   "heat": 307.1
+   "heat": 294.7
   }
  ]
 }

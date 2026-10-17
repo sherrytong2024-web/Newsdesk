@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-18 03:54",
+ "updated": "2026-10-18 06:47",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-10-16 09:44",
+   "title": "Nvidia Partner GMI Cloud Calls CoreWeave 15% Yield ‘Insane’",
+   "summary": "The founder of a cloud computing company with a similar business model to CoreWeave Inc. said the 15% yield on the latter’s bonds is “insane,” compared with the roughly 3.45% rate …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-partner-gmi-cloud-calls-coreweave-s-15-yield-insane",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.5
+  },
   {
    "cat": "macro",
    "time": "2026-10-16 15:54",
@@ -13,7 +27,7 @@
      "t": "agg"
     }
    ],
-   "heat": 64.0
+   "heat": 59.5
   },
   {
    "cat": "macro",
@@ -27,35 +41,21 @@
      "t": "sec"
     }
    ],
-   "heat": 63.0
+   "heat": 58.5
   },
   {
    "cat": "macro",
-   "time": "2026-10-16 09:44",
-   "title": "Nvidia Partner GMI Cloud Calls CoreWeave 15% Yield ‘Insane’",
-   "summary": "The founder of a cloud computing company with a similar business model to CoreWeave Inc. said the 15% yield on the latter’s bonds is “insane,” compared with the roughly 3.45% rate …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-partner-gmi-cloud-calls-coreweave-s-15-yield-insane",
-     "t": "sec"
-    }
-   ],
-   "heat": 53.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-17 23:55",
+   "time": "2026-10-18 04:30",
    "title": "Zelenskyy Slams 'Deliberate' Starlink Slowdown, Russia Sanctions",
-   "summary": "Source: Bloomberg, 0:00",
+   "summary": "Source: Bloomberg, 5:23",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-17/zelenskyy-slams-deliberate-starlink-slowdown-russia-sanctions-mvckw3xd",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-17/zelenskyy-slams-deliberate-starlink-slowdown-russia-sanctions-mvcupozh",
      "t": "sec"
     }
    ],
-   "heat": 39.3
+   "heat": 47.6
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.1
+   "heat": 46.6
   },
   {
    "cat": "macro",
@@ -83,105 +83,21 @@
      "t": "sec"
     }
    ],
-   "heat": 38.8
+   "heat": 46.3
   },
   {
    "cat": "macro",
-   "time": "2026-10-16 15:00",
-   "title": "Market Movers blog: European markets in the green as inflation rises in the eurozone - Investment Week",
-   "summary": "Market Movers blog: European markets in the green as inflation rises in the eurozone &nbsp;&nbsp; Investment Week",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 37.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-16 16:47",
-   "title": "FX Daily: Inflation Vs. AI Overbuild Story Dominates",
+   "time": "2026-10-17 19:54",
+   "title": "Citi says interest rates may matter more for economy than stock valuations",
    "summary": "",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/fx-daily-inflation-vs-ai-overbuild-story-dominates-200689703",
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
      "t": "agg"
     }
    ],
-   "heat": 36.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-16 16:01",
-   "title": "US Dollar Inflation Paradox: AI Credit Risks, Energy Costs Repricing Global Growth",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-inflation-paradox-ai-credit-risks-energy-costs-repricing-global-growth-200689697",
-     "t": "agg"
-    }
-   ],
-   "heat": 36.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-14 21:58",
-   "title": "Markets today: U.S. stocks slip as inflation gets worse - BNN Bloomberg",
-   "summary": "Markets today: U.S. stocks slip as inflation gets worse &nbsp;&nbsp; BNN Bloomberg",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVV3NnZBanFxa09WSm9vWFk2RlB2b285aXlVbUxMZWVHRGpOYTN1cmtkUnBEa1lGQnVjMlU1bXBMdWJ1MkRrWlkyNGhIclh1YTZ3NzdZbE1uMG4zdXpQWkU3UTlEWEVIMVRrYVVtLXc0TUxKOUxua1ZJbnN0OF8yV2VESUl3S3pXYUc4bWczRVNWUkhsVlpUcHc1UWZzcTcxa0tMajRvQUZXOUJxTzEtOElmbGNBNEFfVGdwdFlUb1p5ZlFxTGF2U2MtRQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 36.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-14 20:39",
-   "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Gain Even as September Inflation Report Comes In Hotter - Benzinga",
-   "summary": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Gain Even as September Inflation Report Comes In Hotter &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMHJnMVBfOFNXZEdvdmlxVlBjbXQyVU93SGdwendQWGpRNWlxRGNQeWpER1huQW5ndHpoc0JEbmszQlcydVlMdktKX3R4LUxjY2Z3NWliUUlZV01aYVVYLVY0UldqQ0VEMmZ1S3pqVkhpTDBKdzA4ZjJQNmlRalVqM0dYVE5BTGp4al9ZZkFQYkJ5aS1Rc1lSSmxkSGNSeW5pSThicTB2SjlxVThBNUxmSTRxMVFZNm0tM3RKOTI3TzRDaFd2OXB5dUpPNk9POHZKdW5zSnozOGIwSThTdlFvNzVoVUR3ckVJMDFKSUVjazJlNmpzS1VWNFZ0YVZGb1JjMy0w?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 36.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-14 14:04",
-   "title": "China’s Factory-Gate Inflation Hits Four-Year High as Consumer Prices Lag",
-   "summary": "China’s Factory-Gate Inflation Hits Four-Year High as Consumer Prices Lag &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMW92RmFiNkNNWGlra1Vyb05yNUxVcm5JZWgxTTdpOGdGTURPd2lMNFliUUNqSDdlZWRNOUpnX3llYS1QQldlNHZNTUVnVVBtYXNwUkx1OGhHZGR4V3VBallEYWdnTU9vUmExNHZoVnoxNlZvdFRUZ0c1Mk9JTW5OVjVHYXRYMVE3NUZ0OUp4dk9wTmpTSDctbGk5MFd6V3E0OHZsWk14UGo3aXlTNWpHdnlxSktaQVdQeUFPV2pXNXl5SEIyMHc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 36.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-13 17:35",
-   "title": "Preview: US inflation (CPI) data due Wed, Oct 14th. Forecasts for BTC, gold, S&P 500, and more. - Bybit",
-   "summary": "Preview: US inflation (CPI) data due Wed, Oct 14th. Forecasts for BTC, gold, S&P 500, and more. &nbsp;&nbsp; Bybit",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUkMxM1lZcVRLUjJVQ3pEV2d5ZGVJR3l1U1UwX1dYdFM5NjVMeF9pbFhJUWphR280Q1ZCYnJSSDE0VWx1YVlNdnowZFZTVGluQjZDRGo4ZVlma3RWMTR2N21tNkVxVDhRTGZpZnRvdktlaThmOEZvYzdvMjNWLVpDbzN5cmFKc3Y2V25rNXk2Z1Znb2czZU1vUTQtNnJkM2RKa0UzT3NLNmh3RmJYdnJKcFdnX1BUTU01R0duWC1FZm5VQQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 36.0
+   "heat": 44.2
   },
   {
    "cat": "macro",
@@ -195,7 +111,7 @@
      "t": "agg"
     }
    ],
-   "heat": 34.1
+   "heat": 41.6
   },
   {
    "cat": "macro",
@@ -209,7 +125,91 @@
      "t": "agg"
     }
    ],
-   "heat": 33.8
+   "heat": 41.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 09:09",
+   "title": "Equity Outlook 4Q 2026: Rising Rates Shift the Balance of Risks - Neuberger Berman",
+   "summary": "Equity Outlook 4Q 2026: Rising Rates Shift the Balance of Risks &nbsp;&nbsp; Neuberger Berman",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEd5YVZDUXAyeVlxdThuYXU1WjhFTVJPZVBpUEluVUsydlNHbEVWOTk1cnpsRmN4UTF6bDE0b3pPb1hBbEppOGFpNG1kaVVoclR3OVhZOVdtdUJPWk1zQlNwQTZBRGlKaVVjY1VjUEp1OU4tcjg4aWRFREZ3MjNIMXptX0lZVHhJVVp1b1h0cEJnbm9l?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-12 19:05",
+   "title": "The S&P 500 celebrates latest bull market anniversary - TradingView",
+   "summary": "The S&P 500 celebrates latest bull market anniversary &nbsp;&nbsp; TradingView",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSDR6NklQRFUwMEhjdXd5akhubmdraU1RakRrNjJmRlM4SEV1TXFtRC1FNTVDZ2wzclRCdks3aVZkYU1tZVk1S0c4MmVSb0Q3MWpFSGJDX3VoQ0F2QzFXd0hENERMeXVKRlYySlVQWjRaSHhUTkNSclJDbjRhNGhteXJ0ZGJKNFRudloxaXJzZk9qbU56TWc2VFVBWE5VVHJWaUNCa0hnV0tiMEZaaF81T3hnSUc1Mk0?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-12 15:22",
+   "title": "China’s Bank Resolution Regime Rated ‘Materially Non-Compliant’ by Global Watchdog",
+   "summary": "China’s Bank Resolution Regime Rated ‘Materially Non-Compliant’ by Global Watchdog &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQzZOVU1GdUNFUjY0cFE4enZoU0c2eTkzWlFnSjY3Q0RYT3pxZVdmYzNwYlllTi1PZXRXLUpKVWwzYkduOG9EUzYzRkRpaXJpekVLdnJfeVlNMmx4OFRRM2Q3YW5faTVrOXA4QzBFNUNvR0RwVE9wOWhwSlE3VkZVaHh0bXVZSFZtSS1ESnhQVThkYW5NdHk4VnpnUVFJNlpPWDNCZkY2bEpkZXlqOEZFMG9QUWQ2cFdLRFVUb0ZCeElMN3dIb3Z1REkxWmVFZGc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-16 15:00",
+   "title": "Market Movers blog: European markets in the green as inflation rises in the eurozone - Investment Week",
+   "summary": "Market Movers blog: European markets in the green as inflation rises in the eurozone &nbsp;&nbsp; Investment Week",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 33.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-15 16:39",
+   "title": "Tech market sell-off deepens amid fears over US inflation and AI debt - The Guardian",
+   "summary": "Tech market sell-off deepens amid fears over US inflation and AI debt &nbsp;&nbsp; The Guardian",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORElLSHBNa1VvRjk5dmRWaE5HR21Hd3JwY0tBX19SRUpOOTZTd2RlV2tDN3RVa1lPd0NZU2tUQVBCMWxtclJpeE5jZzlYNUtGaXdIeFFBR0xsSmVVQ1lreURiLTFOcjN6eTZHZzdmM19aNzZUSHB1dGFlcFlVX0gxckN6NDFMemNnbnZWOVVBYTFMZDl4QWI2cFFUQ2JpckFqSVk5eTU2cU9wcHpBQnZaQTVRYVZSTFhVbVE?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 32.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 20:39",
+   "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Gain Even as September Inflation Report Comes In Hotter - Benzinga",
+   "summary": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Gain Even as September Inflation Report Comes In Hotter &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMHJnMVBfOFNXZEdvdmlxVlBjbXQyVU93SGdwendQWGpRNWlxRGNQeWpER1huQW5ndHpoc0JEbmszQlcydVlMdktKX3R4LUxjY2Z3NWliUUlZV01aYVVYLVY0UldqQ0VEMmZ1S3pqVkhpTDBKdzA4ZjJQNmlRalVqM0dYVE5BTGp4al9ZZkFQYkJ5aS1Rc1lSSmxkSGNSeW5pSThicTB2SjlxVThBNUxmSTRxMVFZNm0tM3RKOTI3TzRDaFd2OXB5dUpPNk9POHZKdW5zSnozOGIwSThTdlFvNzVoVUR3ckVJMDFKSUVjazJlNmpzS1VWNFZ0YVZGb1JjMy0w?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 32.0
   },
   {
    "cat": "sector",
@@ -223,7 +223,49 @@
      "t": "sec"
     }
    ],
-   "heat": 314.8
+   "heat": 302.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 06:04",
+   "title": "Ukraine Starlink Restrictions,Trump Waives Russia Sanctions,More",
+   "summary": "Source: Bloomberg, 5:20",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-trump-waives-russia-sanctions-more-mvcy21gk",
+     "t": "sec"
+    }
+   ],
+   "heat": 295.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 05:44",
+   "title": "Niger Halts Diesel, Petrol Exports to Protect Domestic Supply",
+   "summary": "Niger banned exports of diesel and premium petrol in a bid to address fuel supply challenges that the country has been facing in recent days, the ministry of trade and industry sai…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-17/niger-halts-diesel-petrol-exports-to-protect-domestic-supply",
+     "t": "sec"
+    }
+   ],
+   "heat": 295.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 03:54",
+   "title": "Trump touts his power at Kentucky rally to energize voters ahead of midterm elections",
+   "summary": "Trump's self-proclaimed power clashes with voter frustration, with more Americans seeing the president as looking out for his own interests, not the country's.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/17/trump-touts-his-power-at-kentucky-rally-ahead-of-midterms.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 295.5
   },
   {
    "cat": "sector",
@@ -237,35 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 03:05",
-   "title": "Ukraine Starlink Restrictions,Trump Waives Russia Sanctions,More",
-   "summary": "Source: Bloomberg, 4:30",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-trump-waives-russia-sanctions-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 307.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 01:16",
-   "title": "Hurricane Trudy approaches Mexico coast as Typhoon Champi threatens Guam",
-   "summary": "Hurricane Trudy moved toward Mexico's Pacific coast and could keep growing through Saturday, forecasters said.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/17/hurricane-trudy-mexico-typhoon-champi-guam.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 307.6
+   "heat": 295.5
   },
   {
    "cat": "sector",
@@ -279,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.5
+   "heat": 295.0
   },
   {
    "cat": "sector",
@@ -293,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.4
+   "heat": 295.0
   },
   {
    "cat": "sector",
@@ -307,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.4
+   "heat": 295.0
   },
   {
    "cat": "sector",
@@ -321,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.2
+   "heat": 294.7
   },
   {
    "cat": "sector",
@@ -335,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.2
+   "heat": 294.7
   },
   {
    "cat": "sector",
@@ -349,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.1
+   "heat": 294.6
   },
   {
    "cat": "sector",
@@ -363,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.0
+   "heat": 294.5
   },
   {
    "cat": "sector",
@@ -377,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.0
+   "heat": 294.5
   },
   {
    "cat": "sector",
@@ -391,21 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 307.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 21:05",
-   "title": "AI Selloff Tests Investor Confidence",
-   "summary": "Ritholtz Wealth Management Chairman and Chief Investment Officer Barry Ritholtz tells Bloomberg This Weekend that AI remains a transformational technology, but investors face a dif…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-17/ai-selloff-tests-investor-confidence-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 306.9
+   "heat": 294.5
   },
   {
    "cat": "stock",
@@ -419,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.3
+   "heat": 106.8
   },
   {
    "cat": "stock",
@@ -433,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.8
+   "heat": 106.3
   },
   {
    "cat": "stock",
@@ -447,21 +447,91 @@
      "t": "sec"
     }
    ],
-   "heat": 90.6
+   "heat": 102.1
   },
   {
    "cat": "stock",
-   "time": "2026-10-12 21:45",
-   "title": "US stocks muted as tech weakness offsets energy gains; earnings in focus - The Economic Times",
-   "summary": "US stocks muted as tech weakness offsets energy gains; earnings in focus &nbsp;&nbsp; The Economic Times",
+   "time": "2026-10-17 22:31",
+   "title": "Protagonist CFO Ali Asif sells $8.3 million in company stock",
+   "summary": "",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcm1YZE1FdjZPMmtDbEQ0Z0d2V0pBcWRXYTR5ZHo1QUp6V0hCNEVxZmtycEh3RE5qTzQxYkRqS2VxVW5OMlFzTk12NHZxTk9tZ2lRb2RRU2RiR1JqMW5QQjVtLXZjTGlrdGRTZllDNi05b25tMWVyTko1cUsyakZXVW5GN1VURUZxbk1pRU9YeUJhR3cyMGRiTXFFWG1oWEpoMzF1Y3EwVlBoTmVVWmY0cllSenR6SnF0aTlaeEg3SERNLXZ4NEp6Q2xCU1ZJa1VkU3fSAdcBQVVfeXFMTVR0SHZZeDEtUHBtcTZ6ZnMyT0VfRzI1dVdrT2JPRFpBa2xyMEdEMi11dFhsUHN0SUhsLUFWSkdRRVFXQ3JzN0RRM0lMN3Z2UWtIMzRVb05jRGVoTExRQXdjUlBYYnNOZlV5cVZHT3VWQVFWZ0hyalB5RndDNXBXVGRWbm5xZjJFWkJKT0ctellDbVlRV0hrMFladFdoa0VuUEk4OFlfeG9VbWNQVHZFSF9Nb2Z4eVMyRnN2Umh4b1pQcFoyTGpxczVsOFVvZm8tVzlCUkRYdHc?oc=5",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/protagonist-cfo-ali-asif-sells-83-million-in-company-stock-93CH-4955634",
+     "t": "agg"
     }
    ],
-   "heat": 88.0
+   "heat": 96.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-17 22:16",
+   "title": "Dropbox CAO Sarah Schubach sells $65,893 of stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/dropbox-cao-sarah-schubach-sells-65893-of-stock-93CH-4955624",
+     "t": "agg"
+    }
+   ],
+   "heat": 96.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-17 22:01",
+   "title": "JetBlue chief digital & tech officer disposes of $8,580 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/jetblue-chief-digital--tech-officer-disposes-of-8580-in-stock-93CH-4955615",
+     "t": "agg"
+    }
+   ],
+   "heat": 96.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-17 21:20",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
+     "t": "agg"
+    }
+   ],
+   "heat": 96.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-17 20:16",
+   "title": "Powell Industries VP Mauney sells $56,488 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/powell-industries-vp-mauney-sells-56488-in-stock-93CH-4955554",
+     "t": "agg"
+    }
+   ],
+   "heat": 96.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-17 19:46",
+   "title": "Gilead chairman & CEO O’Day sells $2.2m in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/gilead-chairman--ceo-oday-sells-22m-in-stock-93CH-4955543",
+     "t": "agg"
+    }
+   ],
+   "heat": 96.2
   },
   {
    "cat": "stock",
@@ -475,35 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-17 18:01",
-   "title": "Anterix CFO Elena Marquez sells $400,606 of stock from $80.00 to $82.50",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/anterix-cfo-elena-marquez-sells-400606-of-stock-from-8000-to-8250-93CH-4955522",
-     "t": "agg"
-    }
-   ],
-   "heat": 84.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-17 17:46",
-   "title": "Pedevco director Simon Kukes buys $1.91m in company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/pedevco-director-simon-kukes-buys-191m-in-company-stock-93CH-4955519",
-     "t": "agg"
-    }
-   ],
-   "heat": 84.3
+   "heat": 96.1
   },
   {
    "cat": "stock",
@@ -517,21 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-17 16:15",
-   "title": "Memory stocks: Is the wall of worry justified?",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/memory-stocks-is-the-wall-of-worry-justified-4955476",
-     "t": "agg"
-    }
-   ],
-   "heat": 84.1
+   "heat": 95.7
   },
   {
    "cat": "stock",
@@ -545,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.9
+   "heat": 95.4
   },
   {
    "cat": "stock",
@@ -559,7 +587,21 @@
      "t": "sec"
     }
    ],
-   "heat": 81.5
+   "heat": 93.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-15 21:21",
+   "title": "All 30 Dow Jones Stocks Ranked: Buy, Sell or Hold? - Kiplinger",
+   "summary": "All 30 Dow Jones Stocks Ranked: Buy, Sell or Hold? &nbsp;&nbsp; Kiplinger",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHQyUmtObWphU0pFV3VSa21Pb0lxcEMtRF8tUW1lU253b25QX0dQa2FtZXl4Y3B1YkhsRnJWblFLVFVseGdiSHR3NmhCUW1DRU9LNTJvRTV5VnBDZ05lQUV3cTB5QURjSlU5ODNtWWI1bTdFWVdiTndwQm9LOWdtVDEzVUZNRS14T1R6TGc2LTFBUUhCanZHNlllMzRHSi1oN2VnT2lLdkdVdmQ3WUNfNUJ0eGltQQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 92.0
   },
   {
    "cat": "stock",
@@ -573,49 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-15 02:23",
-   "title": "7 Stocks That Outperform in a Recession | Investing - U.S. News - Money",
-   "summary": "7 Stocks That Outperform in a Recession | Investing &nbsp;&nbsp; U.S. News - Money",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVThUZ2diSUNrLTZIVF92bUtEaUhNTF8yemRQcHlDSXBVTGJUZlZXTXFYWUlsaUZMUnBIQS1NcWxlNjh3TTB2YzFQYXIzVUlpRGpHdlZTaWpUN1ZpemhOTmtHZXRQOFJ4SEZ1alQ3Q1ZVdzkyTlR1TDJpbjR1ZW5ya3VjR1JMUkV4?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 80.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-14 02:00",
-   "title": "Could the US stock market crash in October? What are the Dow Jones, S&P 500 and Nasdaq showing? Here’s wha - The Economi",
-   "summary": "Could the US stock market crash in October? What are the Dow Jones, S&P 500 and Nasdaq showing? Here’s wha &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPT0cwS3FaNTEyMFdzX1ZaWkY0eTFQMUhKSTdBNVliSy16NUVqU2E4Tkt2U2FUZWJWNmJEUEZWOTlmNUZqQTFMbVdHM2tBNjh4b0V4M2tjZm9lcnI0YmQ5WXFlZVg1NlRnZVg4WXRXWVkyb0FIeW1NaERRUTQ2dGxnSDAybDd6VnZNZUY1Vkw4VVQ3QmhxV2RSdTZCNHgyb3VHbWtoSFZkQ0RGR2htUXhodVMyaGFJNE1pWWM2ZHpYdHUyaFFPRlRiX0JhTHNYZDNXX09tYXgxLWxsWUVIdmgwNXdhSUdjWkF6cGIxemtKQnBKU2F6MHNTNXEweEtWVlduWGF6alRkM2dBRmVCV0l0cGRBUXp1RFFzRlpxTDV6QXFWcU5LNGxXRThLOWgtTko50gG2AkFVX3lxTE5TdGdqZ1pQLXN0aHAydjBKTkFDMkM5b0RzVFFqczJEcmUzaTVYR3l2RnVBSGhpanNpa2xha3BpWEc2TzRZUkZJRTRyUVdJMFVVSi11UWh0NG1ScERQS2dKX2Nkd3VDRXNjLVJ5d19pY2V0aDZ3NmN5ZTIyV2o2c0plZXpOQ2djaWE3aGQzWEljMzEyb1dLVENOdGRiMGRvejN4MW9fMW1fcFI4b2hVekxYTDJOLXVUcTRteHkxWDE0NENnY2dIRi1nektHQjRyeklnWWQ3ZmwtTnIxdUVMSDUweGNySnNzVUpxbXE0bmcyUmVidW44RUdJU0JfQzhGX0NheUFFSXVRNXZtWXQ1Mm1mYnJvbVQtbGkyZEZXU3MyZFJ4SjBuQTVKU0NwT1dlUFhWVHJSU1E?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 80.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-14 01:59",
-   "title": "Will the Stock Market Crash in 2026? 5 Risks to Consider | Investing - U.S. News - Money",
-   "summary": "Will the Stock Market Crash in 2026? 5 Risks to Consider | Investing &nbsp;&nbsp; U.S. News - Money",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWk5OQUItYlZ0a3dDV0lIWVJZcVNhSm5sQXpKY052RGJNd1lwX25IZ2JJVW50WG44WGRLYXR3cG12bUF5NThuZlFMTkdGbHBONkdJYXpMSjVXeEJsMks1RnZXa3U2SC1PdmtYZ0ZJVEdaTDVXRFVCcWY1cDd0OUNRN0ZfYlI4NkRDRlpiZQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 80.0
+   "heat": 92.0
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 18.4
+   "heat": 18.0
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 16.5
+   "heat": 16.0
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "agg"
     }
    ],
-   "heat": 12.5
+   "heat": 12.0
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 11.2
+   "heat": 10.7
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 10.5
+   "heat": 10.1
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "agg"
     }
    ],
-   "heat": 8.5
+   "heat": 8.0
   },
   {
    "cat": "global",
@@ -713,7 +713,7 @@
      "t": "agg"
     }
    ],
-   "heat": 8.1
+   "heat": 7.6
   },
   {
    "cat": "global",
@@ -769,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.3
+   "heat": 58.8
   },
   {
    "cat": "crypto",
@@ -783,7 +783,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.9
+   "heat": 50.4
   },
   {
    "cat": "crypto",
@@ -797,7 +797,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.5
+   "heat": 46.0
   },
   {
    "cat": "crypto",
@@ -811,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.8
+   "heat": 33.3
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.1
+   "heat": 32.6
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.3
+   "heat": 30.8
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.0
+   "heat": 30.5
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.5
+   "heat": 30.0
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.6
+   "heat": 27.1
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 26.9
+   "heat": 26.5
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 26.7
+   "heat": 26.2
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 26.3
+   "heat": 25.9
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.6
+   "heat": 23.1
   },
   {
    "cat": "crypto",
@@ -951,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 22.5
+   "heat": 22.0
   },
   {
    "cat": "crypto",
@@ -965,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 15.2
+   "heat": 14.7
   },
   {
    "cat": "sector",
@@ -979,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 302.4
+   "heat": 289.9
   }
  ]
 }
