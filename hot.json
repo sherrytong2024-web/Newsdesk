@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17 07:10",
+ "updated": "2026-10-17 10:23",
  "items": [
   {
    "cat": "sector",
@@ -13,13 +13,13 @@
      "t": "sec"
     }
    ],
-   "heat": 246.3
+   "heat": 245.7
   },
   {
    "cat": "sector",
    "time": "2026-10-17 06:25",
-   "title": "Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says",
-   "summary": "Anthropic PBC has quietly presented its own draft AI safety bill to US lawmakers with a plan for regulating artificial intelligence safety and security, according to a Politico rep…",
+   "title": "Anthropic Pitches AI Safety Bill to Lawmakers",
+   "summary": "Anthropic PBC has presented its own draft bill to US lawmakers with a plan for regulating artificial intelligence safety and security, in a moment of heightened concern about the p…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
@@ -27,7 +27,21 @@
      "t": "sec"
     }
    ],
-   "heat": 239.9
+   "heat": 239.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-17 06:19",
+   "title": "Dow Jones Today: DJIA Slips to 52,002.41 Amid US-Iran and Ukraine-Russia Tensions - BBN Times",
+   "summary": "Dow Jones Today: DJIA Slips to 52,002.41 Amid US-Iran and Ukraine-Russia Tensions &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnNKX1diX0J6Y1pQX0xaZXR5Zm42NkxaR3BVS0ZLTk42eHFQcU9zSWZDVUhmR3NlM29Pckw2d3g5VkhaNEdPQXRKT2pPTVBBS05WR3Y5NFNwUmNrNmRrNl9fUHhHdW1Gc0h0bENmUUJLX0l4XzYzQlNaclFNV0JJWWhIU2sxRXdEZXItbG1kdFlzLUNQZmdibUdJQkZxWVBpc1ZNV2Z2UXdvdFF1VUxSS2dSUk1tWUZXcXpxYg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.3
   },
   {
    "cat": "sector",
@@ -41,13 +55,13 @@
      "t": "sec"
     }
    ],
-   "heat": 239.9
+   "heat": 239.3
   },
   {
    "cat": "sector",
    "time": "2026-10-17 06:11",
-   "title": "Mexico Says Airlines Can Add US Routes From Mexico City Airports",
-   "summary": "Mexican airlines can expand service to US cities after Washington lifted restrictions that blocked new routes from Mexico City’s two biggest airports.",
+   "title": "US Gives Green Light for New Routes from Mexico City Airports",
+   "summary": "The US will allow Mexican airlines to offer new flights into the country from Mexico City’s two biggest airports, lifting restrictions that had blocked additional routes.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.8
+   "heat": 239.3
   },
   {
    "cat": "sector",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.8
+   "heat": 239.3
   },
   {
    "cat": "sector",
@@ -83,21 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 05:36",
-   "title": "OpenAI Poaches Another SpaceX Sales Lead Focused on AI",
-   "summary": "OpenAI has hired SpaceX’s Graham Seamans to lead sales for the firm’s cybersecurity business, the latest in a string of hires from Elon Musk’s artificial intelligence venture.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-16/openai-poaches-another-spacex-sales-lead-focused-on-ai",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.7
+   "heat": 239.3
   },
   {
    "cat": "sector",
@@ -111,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.7
+   "heat": 239.2
   },
   {
    "cat": "sector",
@@ -125,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 239.0
   },
   {
    "cat": "sector",
@@ -139,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.4
+   "heat": 238.9
   }
  ]
 }

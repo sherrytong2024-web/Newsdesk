@@ -1,20 +1,6 @@
 {
- "updated": "2026-10-17 07:10",
+ "updated": "2026-10-17 10:23",
  "items": [
-  {
-   "cat": "macro",
-   "time": "2026-10-16 07:51",
-   "title": "Gold Steady as Rate-Hike Bets Ease, Oil Pushes Yields Higher",
-   "summary": "Gold was little changed as traders weighed easing bets on an imminent Federal Reserve rate hike against a surge in oil prices that pushed Treasury yields higher.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-15/gold-holds-gains-with-haven-demand-and-lower-yields-in-focus",
-     "t": "sec"
-    }
-   ],
-   "heat": 112.1
-  },
   {
    "cat": "macro",
    "time": "2026-10-17 05:33",
@@ -27,7 +13,21 @@
      "t": "sec"
     }
    ],
-   "heat": 111.7
+   "heat": 111.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-16 07:51",
+   "title": "Gold Steady as Rate-Hike Bets Ease, Oil Pushes Yields Higher",
+   "summary": "Gold was little changed as traders weighed easing bets on an imminent Federal Reserve rate hike against a surge in oil prices that pushed Treasury yields higher.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-15/gold-holds-gains-with-haven-demand-and-lower-yields-in-focus",
+     "t": "sec"
+    }
+   ],
+   "heat": 103.6
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "agg"
     }
    ],
-   "heat": 91.5
+   "heat": 90.9
   },
   {
    "cat": "macro",
@@ -55,7 +55,7 @@
      "t": "agg"
     }
    ],
-   "heat": 91.3
+   "heat": 90.7
   },
   {
    "cat": "macro",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.9
+   "heat": 83.4
   },
   {
    "cat": "macro",
@@ -83,35 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-17 06:15",
-   "title": "JP Morgan Strategist on AI Jitters, Investing Outlook",
-   "summary": "Jordan Jackson, JPMorgan Asset Management Global Market Strategist, discusses whether earnings growth may be nearing a peak even if results are not worsening. Jackson agrees that t…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-16/jp-morgan-strategist-on-ai-jitters-investing-outlook-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-17 04:33",
-   "title": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
-   "summary": "CoreWeave’s bond yields and credit default swaps have surged as its stock sells off. Here’s what those credit signals mean for stock investors.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.6
+   "heat": 66.3
   },
   {
    "cat": "macro",
@@ -125,21 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-17 04:25",
-   "title": "Stock Movers: Alcoa, CoreWeave, Strategy (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-16/stock-movers-alcoa-coreweave-strategy-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 51.5
+   "heat": 55.0
   },
   {
    "cat": "macro",
@@ -153,21 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-17 00:21",
-   "title": "Schwab to create 'tax-aware' strategy that's been attracting billions from wealthy investors",
-   "summary": "Wealthy investors are flocking to tax-aware long short strategies, adding billions into these super-powered versions of tax-loss harvesting accounts.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/16/tax-strategies-capital-gains-wealthy-investors-schwab.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 50.9
+   "heat": 54.8
   },
   {
    "cat": "macro",
@@ -181,35 +125,91 @@
      "t": "sec"
     }
    ],
-   "heat": 49.9
+   "heat": 53.3
   },
   {
    "cat": "macro",
-   "time": "2026-10-17 04:49",
-   "title": "USD/JPY Near 158 as Yield Gap Support Collides With Japan’s Intervention Risk",
+   "time": "2026-10-16 16:47",
+   "title": "FX Daily: Inflation Vs. AI Overbuild Story Dominates",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/usdjpy-near-158-as-yield-gap-support-collides-with-japans-intervention-risk-200689760",
+     "u": "https://www.investing.com/analysis/fx-daily-inflation-vs-ai-overbuild-story-dominates-200689703",
      "t": "agg"
     }
    ],
-   "heat": 49.6
+   "heat": 51.1
   },
   {
    "cat": "macro",
-   "time": "2026-10-16 16:56",
-   "title": "CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed",
-   "summary": "CoreWeave Inc. has become caught in a tug of war between investors who see rising bond yields as a potential rally killer for the AI trade and those who think demand for computing …",
+   "time": "2026-10-16 16:01",
+   "title": "US Dollar Inflation Paradox: AI Credit Risks, Energy Costs Repricing Global Growth",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed",
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/us-dollar-inflation-paradox-ai-credit-risks-energy-costs-repricing-global-growth-200689697",
+     "t": "agg"
+    }
+   ],
+   "heat": 50.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 21:58",
+   "title": "Markets today: U.S. stocks slip as inflation gets worse - BNN Bloomberg",
+   "summary": "Markets today: U.S. stocks slip as inflation gets worse &nbsp;&nbsp; BNN Bloomberg",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVV3NnZBanFxa09WSm9vWFk2RlB2b285aXlVbUxMZWVHRGpOYTN1cmtkUnBEa1lGQnVjMlU1bXBMdWJ1MkRrWlkyNGhIclh1YTZ3NzdZbE1uMG4zdXpQWkU3UTlEWEVIMVRrYVVtLXc0TUxKOUxua1ZJbnN0OF8yV2VESUl3S3pXYUc4bWczRVNWUkhsVlpUcHc1UWZzcTcxa0tMajRvQUZXOUJxTzEtOElmbGNBNEFfVGdwdFlUb1p5ZlFxTGF2U2MtRQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 49.6
+   "heat": 48.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 20:39",
+   "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Gain Even as September Inflation Report Comes In Hotter - Benzinga",
+   "summary": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Gain Even as September Inflation Report Comes In Hotter &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMHJnMVBfOFNXZEdvdmlxVlBjbXQyVU93SGdwendQWGpRNWlxRGNQeWpER1huQW5ndHpoc0JEbmszQlcydVlMdktKX3R4LUxjY2Z3NWliUUlZV01aYVVYLVY0UldqQ0VEMmZ1S3pqVkhpTDBKdzA4ZjJQNmlRalVqM0dYVE5BTGp4al9ZZkFQYkJ5aS1Rc1lSSmxkSGNSeW5pSThicTB2SjlxVThBNUxmSTRxMVFZNm0tM3RKOTI3TzRDaFd2OXB5dUpPNk9POHZKdW5zSnozOGIwSThTdlFvNzVoVUR3ckVJMDFKSUVjazJlNmpzS1VWNFZ0YVZGb1JjMy0w?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 48.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 14:04",
+   "title": "China’s Factory-Gate Inflation Hits Four-Year High as Consumer Prices Lag",
+   "summary": "China’s Factory-Gate Inflation Hits Four-Year High as Consumer Prices Lag &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMW92RmFiNkNNWGlra1Vyb05yNUxVcm5JZWgxTTdpOGdGTURPd2lMNFliUUNqSDdlZWRNOUpnX3llYS1QQldlNHZNTUVnVVBtYXNwUkx1OGhHZGR4V3VBallEYWdnTU9vUmExNHZoVnoxNlZvdFRUZ0c1Mk9JTW5OVjVHYXRYMVE3NUZ0OUp4dk9wTmpTSDctbGk5MFd6V3E0OHZsWk14UGo3aXlTNWpHdnlxSktaQVdQeUFPV2pXNXl5SEIyMHc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 48.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-13 17:35",
+   "title": "Preview: US inflation (CPI) data due Wed, Oct 14th. Forecasts for BTC, gold, S&P 500, and more. - Bybit",
+   "summary": "Preview: US inflation (CPI) data due Wed, Oct 14th. Forecasts for BTC, gold, S&P 500, and more. &nbsp;&nbsp; Bybit",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUkMxM1lZcVRLUjJVQ3pEV2d5ZGVJR3l1U1UwX1dYdFM5NjVMeF9pbFhJUWphR280Q1ZCYnJSSDE0VWx1YVlNdnowZFZTVGluQjZDRGo4ZVlma3RWMTR2N21tNkVxVDhRTGZpZnRvdktlaThmOEZvYzdvMjNWLVpDbzN5cmFKc3Y2V25rNXk2Z1Znb2czZU1vUTQtNnJkM2RKa0UzT3NLNmh3RmJYdnJKcFdnX1BUTU01R0duWC1FZm5VQQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 48.0
   },
   {
    "cat": "sector",
@@ -223,13 +223,13 @@
      "t": "sec"
     }
    ],
-   "heat": 246.3
+   "heat": 245.7
   },
   {
    "cat": "sector",
    "time": "2026-10-17 06:25",
-   "title": "Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says",
-   "summary": "Anthropic PBC has quietly presented its own draft AI safety bill to US lawmakers with a plan for regulating artificial intelligence safety and security, according to a Politico rep…",
+   "title": "Anthropic Pitches AI Safety Bill to Lawmakers",
+   "summary": "Anthropic PBC has presented its own draft bill to US lawmakers with a plan for regulating artificial intelligence safety and security, in a moment of heightened concern about the p…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
@@ -237,7 +237,21 @@
      "t": "sec"
     }
    ],
-   "heat": 239.9
+   "heat": 239.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-17 06:19",
+   "title": "Dow Jones Today: DJIA Slips to 52,002.41 Amid US-Iran and Ukraine-Russia Tensions - BBN Times",
+   "summary": "Dow Jones Today: DJIA Slips to 52,002.41 Amid US-Iran and Ukraine-Russia Tensions &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnNKX1diX0J6Y1pQX0xaZXR5Zm42NkxaR3BVS0ZLTk42eHFQcU9zSWZDVUhmR3NlM29Pckw2d3g5VkhaNEdPQXRKT2pPTVBBS05WR3Y5NFNwUmNrNmRrNl9fUHhHdW1Gc0h0bENmUUJLX0l4XzYzQlNaclFNV0JJWWhIU2sxRXdEZXItbG1kdFlzLUNQZmdibUdJQkZxWVBpc1ZNV2Z2UXdvdFF1VUxSS2dSUk1tWUZXcXpxYg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.3
   },
   {
    "cat": "sector",
@@ -251,13 +265,13 @@
      "t": "sec"
     }
    ],
-   "heat": 239.9
+   "heat": 239.3
   },
   {
    "cat": "sector",
    "time": "2026-10-17 06:11",
-   "title": "Mexico Says Airlines Can Add US Routes From Mexico City Airports",
-   "summary": "Mexican airlines can expand service to US cities after Washington lifted restrictions that blocked new routes from Mexico City’s two biggest airports.",
+   "title": "US Gives Green Light for New Routes from Mexico City Airports",
+   "summary": "The US will allow Mexican airlines to offer new flights into the country from Mexico City’s two biggest airports, lifting restrictions that had blocked additional routes.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -265,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.8
+   "heat": 239.3
   },
   {
    "cat": "sector",
@@ -279,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.8
+   "heat": 239.3
   },
   {
    "cat": "sector",
@@ -293,21 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 05:36",
-   "title": "OpenAI Poaches Another SpaceX Sales Lead Focused on AI",
-   "summary": "OpenAI has hired SpaceX’s Graham Seamans to lead sales for the firm’s cybersecurity business, the latest in a string of hires from Elon Musk’s artificial intelligence venture.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-16/openai-poaches-another-spacex-sales-lead-focused-on-ai",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.7
+   "heat": 239.3
   },
   {
    "cat": "sector",
@@ -321,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.7
+   "heat": 239.2
   },
   {
    "cat": "sector",
@@ -335,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 239.0
   },
   {
    "cat": "sector",
@@ -349,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.4
+   "heat": 238.9
   },
   {
    "cat": "sector",
@@ -363,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.4
+   "heat": 238.9
   },
   {
    "cat": "sector",
@@ -377,21 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 00:27",
-   "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
-   "summary": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 238.9
+   "heat": 238.8
   },
   {
    "cat": "stock",
@@ -405,7 +391,21 @@
      "t": "sec"
     }
    ],
-   "heat": 135.0
+   "heat": 142.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-12 21:45",
+   "title": "US stocks muted as tech weakness offsets energy gains; earnings in focus - The Economic Times",
+   "summary": "US stocks muted as tech weakness offsets energy gains; earnings in focus &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcm1YZE1FdjZPMmtDbEQ0Z0d2V0pBcWRXYTR5ZHo1QUp6V0hCNEVxZmtycEh3RE5qTzQxYkRqS2VxVW5OMlFzTk12NHZxTk9tZ2lRb2RRU2RiR1JqMW5QQjVtLXZjTGlrdGRTZllDNi05b25tMWVyTko1cUsyakZXVW5GN1VURUZxbk1pRU9YeUJhR3cyMGRiTXFFWG1oWEpoMzF1Y3EwVlBoTmVVWmY0cllSenR6SnF0aTlaeEg3SERNLXZ4NEp6Q2xCU1ZJa1VkU3fSAdcBQVVfeXFMTVR0SHZZeDEtUHBtcTZ6ZnMyT0VfRzI1dVdrT2JPRFpBa2xyMEdEMi11dFhsUHN0SUhsLUFWSkdRRVFXQ3JzN0RRM0lMN3Z2UWtIMzRVb05jRGVoTExRQXdjUlBYYnNOZlV5cVZHT3VWQVFWZ0hyalB5RndDNXBXVGRWbm5xZjJFWkJKT0ctellDbVlRV0hrMFladFdoa0VuUEk4OFlfeG9VbWNQVHZFSF9Nb2Z4eVMyRnN2Umh4b1pQcFoyTGpxczVsOFVvZm8tVzlCUkRYdHc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 128.0
   },
   {
    "cat": "stock",
@@ -419,35 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 118.1
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-17 05:57",
-   "title": "Short Sellers Cash In as Chip Stocks: Evening Briefing Americas",
-   "summary": "Get caught up.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-16/short-sellers-cash-in-as-chip-stocks-evening-briefing-americas",
-     "t": "sec"
-    }
-   ],
-   "heat": 115.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-17 05:50",
-   "title": "Stock Movers: CoreWeave, Eli Lilly, Tesla (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-16/stock-movers-coreweave-eli-lilly-tesla-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 115.8
+   "heat": 125.5
   },
   {
    "cat": "stock",
@@ -461,7 +433,91 @@
      "t": "sec"
     }
    ],
-   "heat": 115.8
+   "heat": 123.3
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-17 09:07",
+   "title": "Anthropic Pitches AI Safety Bill, Stocks Drag on AI Jitters",
+   "summary": "Source: Bloomberg, 6:22",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-17/anthropic-pitches-ai-safety-bill-stocks-drag-on-ai-jitters",
+     "t": "sec"
+    }
+   ],
+   "heat": 119.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-17 08:05",
+   "title": "Anthropic Pitches Safety Bill, Stocks Drag on AI Jitters, More",
+   "summary": "Source: Bloomberg, 5:42",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-17/anthropic-pitches-safety-bill-stocks-drag-on-ai-jitters-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 119.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-17 08:00",
+   "title": "Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles",
+   "summary": "Chinese firms have emerged as the biggest losers of the faltering global AI trade, a setback for Beijing’s efforts to use stock markets to supercharge its ambition of technological…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-17/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles",
+     "t": "sec"
+    }
+   ],
+   "heat": 119.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-17 07:15",
+   "title": "Politico: Anthropic Pitches Safety Bill, Stocks Drag on AI Fears",
+   "summary": "Source: Bloomberg, 6:10",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-16/politico-anthropic-pitches-safety-bill-stocks-drag-on-ai-fears",
+     "t": "sec"
+    }
+   ],
+   "heat": 119.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-17 05:57",
+   "title": "Short Sellers Cash In as Chip Stocks: Evening Briefing Americas",
+   "summary": "Get caught up.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-10-16/short-sellers-cash-in-as-chip-stocks-evening-briefing-americas",
+     "t": "sec"
+    }
+   ],
+   "heat": 119.3
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-17 05:50",
+   "title": "Stock Movers: CoreWeave, Eli Lilly, Tesla (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-16/stock-movers-coreweave-eli-lilly-tesla-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 119.2
   },
   {
    "cat": "stock",
@@ -475,21 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 115.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-17 04:11",
-   "title": "Stocks Drag on AI Jitters, Brent Tops $110, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-16/stocks-drag-on-ai-jitters-brent-tops-110-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 115.5
+   "heat": 119.1
   },
   {
    "cat": "stock",
@@ -503,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 115.4
+   "heat": 118.8
   },
   {
    "cat": "stock",
@@ -517,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 115.4
+   "heat": 118.8
   },
   {
    "cat": "stock",
@@ -531,91 +573,21 @@
      "t": "sec"
     }
    ],
-   "heat": 114.4
+   "heat": 117.9
   },
   {
    "cat": "stock",
-   "time": "2026-10-16 13:09",
-   "title": "S&P 500 Falls 1.22% as US Stocks Lose $660 Billion in Market Value - Tekedia",
-   "summary": "S&P 500 Falls 1.22% as US Stocks Lose $660 Billion in Market Value &nbsp;&nbsp; Tekedia",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3k2QUVrejRzbXdhM1hsY1JxT0d6Z3V3R0VfcjRDXzRNcmZYVGotUjJGTDR0MHp0TG9wZ1Rqa1FwQ3ZhY0hJd0I4QmQyMFcxcjFyN2s3dEpSMVZ5SjBKSjlYejctZDRYS3R3dFZnaHl2RFBibjlqMjQxbG53TldLeUQtTEd4V3daUXlVY1dHeFVmZw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 113.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-16 22:45",
-   "title": "Urban Outfitters director Cherken sells $435,310 in common stock",
+   "time": "2026-10-17 02:01",
+   "title": "Natera executive chairman Matthew Rabinowitz sells $20.1m in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/urban-outfitters-director-cherken-sells-435310-in-common-stock-93CH-4954951",
+     "u": "https://www.investing.com/news/insider-trading-news/natera-executive-chairman-matthew-rabinowitz-sells-201m-in-stock-93CH-4955123",
      "t": "agg"
     }
    ],
-   "heat": 112.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-16 22:31",
-   "title": "Williams Sonoma director Anne Finucane sells $200,197 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/williams-sonoma-director-anne-finucane-sells-200197-in-stock-93CH-4954935",
-     "t": "agg"
-    }
-   ],
-   "heat": 112.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-16 22:31",
-   "title": "PACS Group president & COO Joshua Jergensen sells $1.78M in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/pacs-group-president--coo-joshua-jergensen-sells-178m-in-stock-93CH-4954934",
-     "t": "agg"
-    }
-   ],
-   "heat": 112.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-16 22:31",
-   "title": "Primoris Services director Terry McCallister buys $1,719 in company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/primoris-services-director-terry-mccallister-buys-1719-in-company-stock-93CH-4954933",
-     "t": "agg"
-    }
-   ],
-   "heat": 112.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-17 05:02",
-   "title": "Stocks End Week Lower, Brent Oil Taps $110, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-16/stocks-end-week-lower-brent-oil-taps-110-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 35.6
+   "heat": 116.6
   },
   {
    "cat": "global",
@@ -629,7 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.5
+   "heat": 22.9
   },
   {
    "cat": "global",
@@ -643,21 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-17 00:31",
-   "title": "US Bonds Fall as Treasury Is Silent on Long End, Oil Climbs",
-   "summary": "Treasuries declined as predictions fell flat that US government officials would directly nod at the possibility of reducing its sales of long-term debt and as oil prices rose.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-16/long-term-treasuries-fall-as-dealer-survey-offers-little-signal",
-     "t": "sec"
-    }
-   ],
-   "heat": 30.9
+   "heat": 22.7
   },
   {
    "cat": "global",
@@ -671,35 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-16 18:46",
-   "title": "Global Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/global-fuel-oil-shortage-deepens-as-middle-east-and-russia-supplies-collapse-200689716",
-     "t": "agg"
-    }
-   ],
-   "heat": 23.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-12 20:07",
-   "title": "U.S. Stock Market Preview | Iran says the U.S.'s ongoing economic warfare will hinder the restoration of security in the",
-   "summary": "U.S. Stock Market Preview | Iran says the U.S.'s ongoing economic warfare will hinder the restoration of security in the Strait of Hormuz, pushing Brent crude up by more than 1%; s…",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUh2WkFTMXpaZVc5cUVMdEtrOVpySnJmT1VSRFBfem9jb0lnNnRSbWgwWjIwNEFwbTNXYjNVZ0FyaFFoX19HRjNtVXdsR3BqRHphTDVoSFRfSWpGQmp6ODRWZU4zUW8wRlRLRUk5NkRPcWJlbVdzZWxublVnQ2xpU3RXQlo5ZWxJU3BWaGEweWtaM0ZuVjNxVg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.0
+   "heat": 19.3
   },
   {
    "cat": "global",
@@ -713,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 19.1
+   "heat": 18.6
   },
   {
    "cat": "global",
@@ -727,21 +657,21 @@
      "t": "sec"
     }
    ],
-   "heat": 17.7
+   "heat": 17.2
   },
   {
    "cat": "global",
-   "time": "2026-10-17 05:10",
-   "title": "Cleveland-Cliffs Faces Forced Sale Threat Over Stelco Layoffs",
-   "summary": "Plus: BC’s anti-American boycott doesn’t apply to bond deals",
+   "time": "2026-10-16 18:46",
+   "title": "Global Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-16/cleveland-cliffs-faces-forced-sale-threat-over-stelco-layoffs",
-     "t": "sec"
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/global-fuel-oil-shortage-deepens-as-middle-east-and-russia-supplies-collapse-200689716",
+     "t": "agg"
     }
    ],
-   "heat": 15.7
+   "heat": 15.4
   },
   {
    "cat": "global",
@@ -769,7 +699,21 @@
      "t": "agg"
     }
    ],
-   "heat": 11.9
+   "heat": 11.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-17 05:10",
+   "title": "Cleveland-Cliffs Faces Forced Sale Threat Over Stelco Layoffs",
+   "summary": "Plus: BC’s anti-American boycott doesn’t apply to bond deals",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-10-16/cleveland-cliffs-faces-forced-sale-threat-over-stelco-layoffs",
+     "t": "sec"
+    }
+   ],
+   "heat": 11.1
   },
   {
    "cat": "global",
@@ -783,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 11.5
+   "heat": 11.0
   },
   {
    "cat": "global",
@@ -797,21 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 6.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-13 09:14",
-   "title": "15:59:08【天风证券：五大云厂商2026年至今发债2288亿美元 而2018-2024年各年均未超过500亿美元】",
-   "summary": "15:59:08【天风证券：五大云厂商2026年至今发债2288亿美元 而2018-2024年各年均未超过500亿美元】 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EZXRoN3J0d21aaGlQVjA0U2hrdGpHdlBRZ09oaTY0bkZCQWRFNndwQlVmMkRkSExiVGFTcXl2SHVOVUpmRUxHTg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 4.0
+   "heat": 5.8
   },
   {
    "cat": "crypto",
@@ -825,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.8
+   "heat": 70.2
   },
   {
    "cat": "crypto",
@@ -839,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 65.9
+   "heat": 69.4
   },
   {
    "cat": "crypto",
@@ -853,7 +783,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.4
+   "heat": 62.8
   },
   {
    "cat": "crypto",
@@ -867,7 +797,7 @@
      "t": "sec"
     }
    ],
-   "heat": 61.7
+   "heat": 61.2
   },
   {
    "cat": "crypto",
@@ -881,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 49.1
+   "heat": 52.6
   },
   {
    "cat": "crypto",
@@ -895,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.8
+   "heat": 46.2
   },
   {
    "cat": "crypto",
@@ -909,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.9
+   "heat": 45.4
   },
   {
    "cat": "crypto",
@@ -923,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.9
+   "heat": 45.3
   },
   {
    "cat": "crypto",
@@ -937,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.9
+   "heat": 45.3
   },
   {
    "cat": "crypto",
@@ -951,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.8
+   "heat": 45.2
   },
   {
    "cat": "crypto",
@@ -965,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 45.5
+   "heat": 44.9
   },
   {
    "cat": "crypto",
@@ -979,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.1
+   "heat": 38.5
   },
   {
    "cat": "crypto",
@@ -993,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.4
+   "heat": 37.9
   },
   {
    "cat": "crypto",
@@ -1007,21 +937,21 @@
      "t": "sec"
     }
    ],
-   "heat": 37.7
+   "heat": 37.2
   },
   {
    "cat": "crypto",
-   "time": "2026-10-17 01:21",
-   "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
-   "summary": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires.",
+   "time": "2026-10-17 05:38",
+   "title": "S&P Global Ratings affirms Netherlands at ’AAA’ with stable outlook - Yahoo Finance",
+   "summary": "S&P Global Ratings affirms Netherlands at ’AAA’ with stable outlook &nbsp;&nbsp; Yahoo Finance",
    "srcs": [
     {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDg2NzR6QlZJVlo3QXUxdVNMaU9YcXRQLTd2a0R2anNQMkJmT3pzTjUyR1p2TVc4aG9QMHNzRjh4bFd1R1d2cU1qbUdDQ1BCRl9EcWtqV3NPaERIR3BhNXlSV0hZeGNXUE1PMzA1RXFhU1pRN2xnZEVBZHRiTmtDR3lxcjJEVTludEJUUTB6YS05YTlfX29uRjQyeVBnWDNfUzJv?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 23.0
+   "heat": 23.2
   },
   {
    "cat": "sector",
@@ -1049,7 +979,21 @@
      "t": "sec"
     }
    ],
-   "heat": 237.9
+   "heat": 237.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-17 02:01",
+   "title": "Anthropic offers Blackstone over 10% yield in $60B AI chip financing - FT reports",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/company-news/anthropic-offers-blackstone-over-10-yield-in-60b-ai-chip-financing--ft-reports-4955122",
+     "t": "agg"
+    }
+   ],
+   "heat": 236.6
   }
  ]
 }
