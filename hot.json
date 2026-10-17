@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17 10:23",
+ "updated": "2026-10-17 15:22",
  "items": [
   {
    "cat": "sector",
@@ -13,7 +13,77 @@
      "t": "sec"
     }
    ],
-   "heat": 245.7
+   "heat": 256.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-17 13:46",
+   "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+   "summary": "Trump's diesel deal may do little for Russia's finances, but it raises bigger questions about Ukraine's leverage, U.S. support and Putin's next moves.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-17 13:22",
+   "title": "Japan’s Takaichi to Attend APEC in China if Parliament Allows",
+   "summary": "Japanese Prime Minister Sanae Takaichi said she plans to attend the APEC leaders summit hosted by China if parliament permits, confirming her willingness to visit amid a deep freez…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-17/japan-s-takaichi-to-attend-apec-in-china-if-parliament-allows",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-17 13:00",
+   "title": "Some companies give AI to everyone. This CEO is doing the opposite",
+   "summary": "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-17 12:55",
+   "title": "Fairfax’s Watsa Bets On IDBI Payoff As India Booms, Report Says",
+   "summary": "Canadian billionaire Prem Watsa is betting that his Fairfax Financial Holdings Ltd.’s acquisition of IDBI Bank Ltd. will pay off given India’s growth prospects, the Economic Times …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-17/fairfax-s-watsa-bets-on-idbi-payoff-as-india-booms-report-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-17 11:55",
+   "title": "Arrested OpenAI Engineer Seeks Bail, Denies Planning to Flee",
+   "summary": "The OpenAI software engineer charged with using a hidden recording device in one of the company’s offices asked to be freed from custody and denied his purchase of a one-way plane …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-17/arrested-openai-engineer-seeks-bail-denies-he-planned-to-flee",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.4
   },
   {
    "cat": "sector",
@@ -27,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.3
+   "heat": 250.5
   },
   {
    "cat": "sector",
@@ -41,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.3
+   "heat": 250.5
   },
   {
    "cat": "sector",
@@ -55,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.3
+   "heat": 250.5
   },
   {
    "cat": "sector",
@@ -69,77 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 06:02",
-   "title": "Graza CEO on Market Expansion, Consumer Outlook",
-   "summary": "Andrew Benin, CEO of Graza, said the company’s appeal starts with the quality of its olive oil, while its squeezable bottle helped make the product approachable and popular. Benin …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-16/graza-ceo-on-market-expansion-consumer-outlook-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 05:56",
-   "title": "TGI Fridays CEO on Company Turnaround, Expansion Plans",
-   "summary": "Ray Blanchette, CEO of TGI Fridays, says the restaurant aims to stand out in casual dining through value, quality food and attentive service. He identifies food, service and atmosp…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-16/tgi-fridays-ceo-on-company-turnaround-expansion-plans-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 05:26",
-   "title": "Katie Zacharia out as Trump's White House press secretary",
-   "summary": "Zacharia was on shaky ground from her first White House press conference and over questions about her claims of being a lawyer despite not passing a bar exam.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 04:28",
-   "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
-   "summary": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 03:47",
-   "title": "Debt is eating up a bigger chunk of your raise, research shows",
-   "summary": "New research finds debt payments rose far faster than estimated real household income, absorbing about half of a one-earner household's gains.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 238.9
+   "heat": 250.5
   }
  ]
 }
