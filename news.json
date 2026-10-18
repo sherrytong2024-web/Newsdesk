@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-18 20:53",
+ "updated": "2026-10-19 01:41",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-10-16 15:54",
+   "title": "US Dollar and Treasury Yields Reverse Lower Despite Hot Inflation Data",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/us-dollar-and-treasury-yields-reverse-lower-despite-hot-inflation-data-200689696",
+     "t": "agg"
+    }
+   ],
+   "heat": 46.0
+  },
   {
    "cat": "macro",
    "time": "2026-10-18 20:34",
@@ -13,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.9
+   "heat": 35.1
   },
   {
    "cat": "macro",
@@ -27,49 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-16 15:54",
-   "title": "US Dollar and Treasury Yields Reverse Lower Despite Hot Inflation Data",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-and-treasury-yields-reverse-lower-despite-hot-inflation-data-200689696",
-     "t": "agg"
-    }
-   ],
-   "heat": 42.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-18 07:57",
-   "title": "Australian Home Auctions Decline as Rate Hikes Dampen Activity",
-   "summary": "The number of homes auctioned in Australia dropped over the past week as interest rates at a 15-year high weigh on activity in the housing market.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-17/australian-home-auctions-decline-as-rate-hikes-dampen-activity",
-     "t": "sec"
-    }
-   ],
-   "heat": 41.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-18 04:30",
-   "title": "Zelenskyy Slams 'Deliberate' Starlink Slowdown, Russia Sanctions",
-   "summary": "Source: Bloomberg, 5:23",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-17/zelenskyy-slams-deliberate-starlink-slowdown-russia-sanctions-mvcupozh",
-     "t": "sec"
-    }
-   ],
-   "heat": 41.3
+   "heat": 33.9
   },
   {
    "cat": "macro",
@@ -83,63 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-14 09:09",
-   "title": "Equity Outlook 4Q 2026: Rising Rates Shift the Balance of Risks - Neuberger Berman",
-   "summary": "Equity Outlook 4Q 2026: Rising Rates Shift the Balance of Risks &nbsp;&nbsp; Neuberger Berman",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEd5YVZDUXAyeVlxdThuYXU1WjhFTVJPZVBpUEluVUsydlNHbEVWOTk1cnpsRmN4UTF6bDE0b3pPb1hBbEppOGFpNG1kaVVoclR3OVhZOVdtdUJPWk1zQlNwQTZBRGlKaVVjY1VjUEp1OU4tcjg4aWRFREZ3MjNIMXptX0lZVHhJVVp1b1h0cEJnbm9l?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 36.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-12 19:05",
-   "title": "The S&P 500 celebrates latest bull market anniversary - TradingView",
-   "summary": "The S&P 500 celebrates latest bull market anniversary &nbsp;&nbsp; TradingView",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSDR6NklQRFUwMEhjdXd5akhubmdraU1RakRrNjJmRlM4SEV1TXFtRC1FNTVDZ2wzclRCdks3aVZkYU1tZVk1S0c4MmVSb0Q3MWpFSGJDX3VoQ0F2QzFXd0hENERMeXVKRlYySlVQWjRaSHhUTkNSclJDbjRhNGhteXJ0ZGJKNFRudloxaXJzZk9qbU56TWc2VFVBWE5VVHJWaUNCa0hnV0tiMEZaaF81T3hnSUc1Mk0?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 36.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-17 04:26",
-   "title": "GBP/USD Rebound Signals a Sharp Shift in UK Rate Expectations",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/gbpusd-rebound-signals-a-sharp-shift-in-uk-rate-expectations-200689756",
-     "t": "agg"
-    }
-   ],
-   "heat": 35.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-17 02:58",
-   "title": "Gold’s CPI Selloff Looks More Like a Rate-Fear Overreaction Than a Trend Break",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/golds-cpi-selloff-looks-more-like-a-ratefear-overreaction-than-a-trend-break-200689742",
-     "t": "agg"
-    }
-   ],
-   "heat": 35.0
+   "heat": 31.2
   },
   {
    "cat": "macro",
@@ -154,6 +70,62 @@
     }
    ],
    "heat": 28.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 09:09",
+   "title": "Equity Outlook 4Q 2026: Rising Rates Shift the Balance of Risks - Neuberger Berman",
+   "summary": "Equity Outlook 4Q 2026: Rising Rates Shift the Balance of Risks &nbsp;&nbsp; Neuberger Berman",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEd5YVZDUXAyeVlxdThuYXU1WjhFTVJPZVBpUEluVUsydlNHbEVWOTk1cnpsRmN4UTF6bDE0b3pPb1hBbEppOGFpNG1kaVVoclR3OVhZOVdtdUJPWk1zQlNwQTZBRGlKaVVjY1VjUEp1OU4tcjg4aWRFREZ3MjNIMXptX0lZVHhJVVp1b1h0cEJnbm9l?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 28.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-12 19:05",
+   "title": "The S&P 500 celebrates latest bull market anniversary - TradingView",
+   "summary": "The S&P 500 celebrates latest bull market anniversary &nbsp;&nbsp; TradingView",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSDR6NklQRFUwMEhjdXd5akhubmdraU1RakRrNjJmRlM4SEV1TXFtRC1FNTVDZ2wzclRCdks3aVZkYU1tZVk1S0c4MmVSb0Q3MWpFSGJDX3VoQ0F2QzFXd0hENERMeXVKRlYySlVQWjRaSHhUTkNSclJDbjRhNGhteXJ0ZGJKNFRudloxaXJzZk9qbU56TWc2VFVBWE5VVHJWaUNCa0hnV0tiMEZaaF81T3hnSUc1Mk0?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 28.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-17 04:26",
+   "title": "GBP/USD Rebound Signals a Sharp Shift in UK Rate Expectations",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/gbpusd-rebound-signals-a-sharp-shift-in-uk-rate-expectations-200689756",
+     "t": "agg"
+    }
+   ],
+   "heat": 26.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-17 02:58",
+   "title": "Gold’s CPI Selloff Looks More Like a Rate-Fear Overreaction Than a Trend Break",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/golds-cpi-selloff-looks-more-like-a-ratefear-overreaction-than-a-trend-break-200689742",
+     "t": "agg"
+    }
+   ],
+   "heat": 26.2
   },
   {
    "cat": "macro",
@@ -212,18 +184,144 @@
    "heat": 22.0
   },
   {
-   "cat": "sector",
-   "time": "2026-10-18 20:50",
-   "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
-   "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+   "cat": "macro",
+   "time": "2026-10-16 16:01",
+   "title": "US Dollar Inflation Paradox: AI Credit Risks, Energy Costs Repricing Global Growth",
+   "summary": "",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/us-dollar-inflation-paradox-ai-credit-risks-energy-costs-repricing-global-growth-200689697",
+     "t": "agg"
+    }
+   ],
+   "heat": 22.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-16 20:29",
+   "title": "U.S. futures mostly higher with the Fed’s Warsh touting AI - CP24",
+   "summary": "U.S. futures mostly higher with the Fed’s Warsh touting AI &nbsp;&nbsp; CP24",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3hJX0NtQXVBN1lDc0ZoSHpMY0FuV0htLXZPcEQteUx6bE5HY1FONUJFakY2QmRGYUdxRlVHNjltNW1QdTIyQ28wclR2VFFUcUFwQUtMM2otYk9GaHBfWUp5blRZS2c5VGlkVVhOZmxmMEtXNFlSVlozOEFPMGQtemw5ZC1UbkthU1JOU3VtT2dyR1FtUjFUaTBxeEdtN0p4?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 312.0
+   "heat": 20.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 00:44",
+   "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
+   "summary": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 00:26",
+   "title": "Hurricane Trudy brings heavy rain and strong winds to Mexico’s Pacific coast",
+   "summary": "Trudy's center was expected to remain near the Mexican coast through Sunday evening before moving south of the Baja California Peninsula.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/18/hurricane-trudy-brings-heavy-rain-winds-to-mexicos-pacific-coast.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 22:23",
+   "title": "Rep. Veasey Calls for Scrutiny of Trump Russia Ties",
+   "summary": "Rep. Marc Veasey, a Texas Democrat, tells Bloomberg This Weekend that President Donald Trump’s recent moves involving Russia and Ukraine warrant greater congressional scrutiny, whi…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-18/rep-veasey-calls-for-scrutiny-of-trump-russia-ties-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 22:00",
+   "title": "Apple HomeView With Robotic Arm; New Mac, iPad Mini Nov. 6 Release; iPhone Duo",
+   "summary": "Also: The company is planning Nov. 6 retail store reset, indicating potential Mac release date.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 21:57",
+   "title": "Rethinking America’s Faith in Innovation",
+   "summary": "Author Thomas Frank tells Bloomberg This Weekend that America’s celebration of creativity and innovation has helped justify policies that elevated white-collar knowledge work while…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-18/rethinking-america-s-faith-in-innovation-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 21:53",
+   "title": "Starlink Still Restricted in Ukraine, Trump-Russia Backlash",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-18/starlink-still-restricted-in-ukraine-trump-russia-backlash",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 21:52",
+   "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+   "summary": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the country's military has prepared a response to any new attacks.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 21:01",
+   "title": "America’s Downtowns Need More Than Offices",
+   "summary": "America’s office real estate bust is forcing cities to rethink their downtowns. Bloomberg Opinion columnist Justin Fox explains why converting offices into homes and creating more …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-18/opinion-how-the-office-bust-could-revive-downtowns-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.2
   },
   {
    "cat": "sector",
@@ -237,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 312.0
+   "heat": 299.2
   },
   {
    "cat": "sector",
@@ -251,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 312.0
+   "heat": 299.2
   },
   {
    "cat": "sector",
@@ -265,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 311.9
+   "heat": 299.1
   },
   {
    "cat": "sector",
@@ -279,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 311.9
+   "heat": 299.1
   },
   {
    "cat": "sector",
@@ -293,49 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 311.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 20:00",
-   "title": "Hurricane Trudy brings heavy rain and strong winds to Mexico’s Pacific coast",
-   "summary": "Trudy's center was expected to remain near the Mexican coast through Sunday evening before moving south of the Baja California Peninsula.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/18/hurricane-trudy-brings-heavy-rain-winds-to-mexicos-pacific-coast.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 311.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 19:10",
-   "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
-   "summary": "South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-off.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 311.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 18:37",
-   "title": "Rubio Slams Ukraine Starlink Claims, Canadian Military Base Fire",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-18/rubio-slams-ukraine-starlink-claims-canadian-military-base-fire",
-     "t": "sec"
-    }
-   ],
-   "heat": 311.6
+   "heat": 299.1
   },
   {
    "cat": "sector",
@@ -349,77 +405,49 @@
      "t": "sec"
     }
    ],
-   "heat": 311.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 17:03",
-   "title": "India Raises Number of Anti-Cancer Drugs on Price-Control List",
-   "summary": "India has expanded the list of essential anti-cancer drugs that will be subject to price controls, as it seeks to make treatments in the $2.6 billion oncology market more affordabl…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-18/india-raises-number-of-anti-cancer-drugs-on-price-control-list",
-     "t": "sec"
-    }
-   ],
-   "heat": 311.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 15:22",
-   "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
-   "summary": "Trump's diesel deal may do little for Russia's finances, but it raises bigger questions about Ukraine's leverage, U.S. support and Putin's next moves.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 311.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 14:13",
-   "title": "Why hedge funds could be making a bond market shock more likely",
-   "summary": "The Bank of England's deputy governor has warned that hedge funds' activities could raise the risk of a global bond market shock.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 310.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 13:56",
-   "title": "Trump touts his power at Kentucky rally to energize voters ahead of midterm elections",
-   "summary": "Trump's self-proclaimed power clashes with voter frustration, with more Americans seeing the president as looking out for his own interests, not the country's.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/17/trump-touts-his-power-at-kentucky-rally-ahead-of-midterms.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 310.8
+   "heat": 298.8
   },
   {
    "cat": "stock",
-   "time": "2026-10-17 23:42",
-   "title": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
-   "summary": "The sinking AI trade rattled last week's market. But solid bank earnings and a rotation beyond tech gave us reasons for optimism.",
+   "time": "2026-10-18 23:24",
+   "title": "Here are the 3 big things we're watching in the stock market this week",
+   "summary": "Meta and Capital One are set to report earnings. We'll also hear from plenty of important companies outside the Club portfolio.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
+     "u": "https://www.cnbc.com/investingclub/2026/10/18/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
      "t": "sec"
     }
    ],
-   "heat": 92.5
+   "heat": 95.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-18 22:00",
+   "title": "Option Traders Brace for VIX Surge as AI Jitters Jolt Market",
+   "summary": "Accelerating US inflation and tremors across the AI sector jolted stocks in recent days, and some investors are now betting that bigger swings in tech shares will finally spread to…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market",
+     "t": "sec"
+    }
+   ],
+   "heat": 95.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-18 14:35",
+   "title": "JPMorgan raises ICICI Bank stock price target on strong earnings",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/analyst-ratings/jpmorgan-raises-icici-bank-stock-price-target-on-strong-earnings-93CH-4955968",
+     "t": "agg"
+    }
+   ],
+   "heat": 92.1
   },
   {
    "cat": "stock",
@@ -447,49 +475,21 @@
      "t": "sec"
     }
    ],
-   "heat": 81.9
+   "heat": 77.1
   },
   {
    "cat": "stock",
-   "time": "2026-10-18 12:16",
-   "title": "Buy these 2 stocks amid AI financing concerns: Analyst",
-   "summary": "",
+   "time": "2026-10-17 07:43",
+   "title": "US Stock Market today: Why have S&P 500, Nasdaq, Dow Jones suffered biggest drops since June? Top, worst p - The Economi",
+   "summary": "US Stock Market today: Why have S&P 500, Nasdaq, Dow Jones suffered biggest drops since June? Top, worst p &nbsp;&nbsp; The Economic Times",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/buy-these-2-stocks-amid-ai-financing-concerns-analyst-4955896",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOU1VxRTVjdFlSNW1DX0lQTWJlTEFHYVpObjE0V3U4OEc2RHhJcERvcDZCRm1BYjJSWHpobXJuazBLV3VYQk9vT05vSDdlYlFmNjJzU2lydTJqRXJqakxuMGZZSTFLZVp2UThRM0JXT1lPRW02dGxwWndlLW1fSnIwV0NXbUpLemtGVG01aXdEWV92a0YyZUI2Q2lrZjR3OWlSY0s5MWpVR3VMVW9CUXl6aGo3cWdhQ3c3LVdYNXhrVExoX3VZZ0pkR3U3M1I1R21hV19UQWpPSGthTFdJN1JiV1lLRHFqb3BmaFI4aDlOX1NWVXFSeWxHWDdmeUxLd0VkQlB1dmhOZXgxTWhsajVQaEljRElxallaMEVzejd1eXZtNzRZYUNYbXJGWlZtMHZJ0gG2AkFVX3lxTE5jNTVYSF92YUxCTURKRnByT1NHS2VMTjE2SDI2amdzMm01VHQ5ZXhzdkphLXRlaW5ydXo0Q05qVkJmOWVlSFhpX1dldHp4dDlEM1FRcW80Y3BVN05aOU5Ic1IzYWVONWg4dHgtOXNGZlpwZWNscTBMbnEyZHBVd2c3SDY1MHExMzBIeWlBU3RBUXRmQkNrRDRhVnJQeXczczRCV3dsdTVWekxzcVFLVjIxa3l6RGxsUTlpbVY3WWpBZzcyemc1bWZfLUVEZmdXcllreF85VmZWNzg4U3NNVHhCZnRhNnlWRHhIVEZKZE9LcUhDTGRYaTlEbVFhTk82WUJHOVIwUnRVRjRXU09oWjFlOEJuWlVBY2lTSlppcVlTVEUtQ2UxTWhtakQ2WW9YYldOZ2JSb3c?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 80.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-18 10:31",
-   "title": "RGC Resources senior VP Lawrence Oliver buys $200 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/rgc-resources-senior-vp-lawrence-oliver-buys-200-in-stock-93CH-4955874",
-     "t": "agg"
-    }
-   ],
-   "heat": 80.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-18 10:31",
-   "title": "Flexsteel director William S. Creekmuir sells over $101k in company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/flexsteel-director-william-s-creekmuir-sells-over-101k-in-company-stock-93CH-4955872",
-     "t": "agg"
-    }
-   ],
-   "heat": 80.3
+   "heat": 73.0
   },
   {
    "cat": "stock",
@@ -503,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 77.7
+   "heat": 72.9
   },
   {
    "cat": "stock",
@@ -517,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 77.3
+   "heat": 72.5
   },
   {
    "cat": "stock",
@@ -531,21 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 77.1
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-16 13:09",
-   "title": "S&P 500 Falls 1.22% as US Stocks Lose $660 Billion in Market Value - Tekedia",
-   "summary": "S&P 500 Falls 1.22% as US Stocks Lose $660 Billion in Market Value &nbsp;&nbsp; Tekedia",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3k2QUVrejRzbXdhM1hsY1JxT0d6Z3V3R0VfcjRDXzRNcmZYVGotUjJGTDR0MHp0TG9wZ1Rqa1FwQ3ZhY0hJd0I4QmQyMFcxcjFyN2s3dEpSMVZ5SjBKSjlYejctZDRYS3R3dFZnaHl2RFBibjlqMjQxbG53TldLeUQtTEd4V3daUXlVY1dHeFVmZw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 76.0
+   "heat": 72.3
   },
   {
    "cat": "stock",
@@ -559,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
@@ -573,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
@@ -587,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
@@ -601,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 72.0
   },
   {
    "cat": "stock",
@@ -615,11 +601,25 @@
      "t": "sec"
     }
    ],
-   "heat": 76.0
+   "heat": 72.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-13 20:33",
+   "title": "Stock Market Today: Dow Jones Futures Gain, Nasdaq, S&P 500 Falls as Scott Bessent Says Iran's Economy Is - Benzinga",
+   "summary": "Stock Market Today: Dow Jones Futures Gain, Nasdaq, S&P 500 Falls as Scott Bessent Says Iran's Economy Is &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQYm04Q1VfLWNuMGpHTHN0NUpxbzA4cHBneW50MGpMSUFtZHNEQ0Q2anNDdlg0dzRMbnR2d0hNWnlscGJmUXpXbWVPX0xGRlhKZ1Fjd01rSkVSWko4Vm1taGoyUmdnOVZqSF9zcTVoVkpvRjRoNGc5aC0zOXB1VHBSY1BtdEJwdUtWSlBBamRnZV9hTzR4cUMzTWFDR2Z2dGVWVzZtT3ludVlZSk1OT0VMNnoyMGJjZWRYYy1ncjBjWEdVZENrMzlXZmVyRHVGbUd2elMyTVNKcFlnX1hfS0xNaHBWak5JU0FPNVp1Z2pYdllaamhfZHk2S3pMZllCcDBHVlE3bEV4cW9uajRNZDRFNnE3WWZBamJKaG5sRGM4ZHhmaGpPQUdaMQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 72.0
   },
   {
    "cat": "global",
-   "time": "2026-10-18 12:37",
+   "time": "2026-10-18 13:36",
    "title": "Analysis-Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom",
    "summary": "",
    "srcs": [
@@ -629,21 +629,7 @@
      "t": "agg"
     }
    ],
-   "heat": 16.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-17 04:02",
-   "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
-   "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 13.2
+   "heat": 12.0
   },
   {
    "cat": "global",
@@ -657,21 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 10.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-17 23:00",
-   "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-   "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 8.4
+   "heat": 6.0
   },
   {
    "cat": "global",
@@ -717,20 +689,6 @@
   },
   {
    "cat": "global",
-   "time": "2026-10-15 10:42",
-   "title": "09:35:55【日本首相拟任命武部新为新任农林水产大臣】",
-   "summary": "09:35:55【日本首相拟任命武部新为新任农林水产大臣】 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82MUlYTGNWUVBzbnMzcEwzak5vaDJNNW5henZWOFNBRXJKbkNsMXlmM01La1FEalM5UmloTGxScG1EMHhXMWJfdQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 4.0
-  },
-  {
-   "cat": "global",
    "time": "2026-10-13 09:14",
    "title": "15:59:08【天风证券：五大云厂商2026年至今发债2288亿美元 而2018-2024年各年均未超过500亿美元】",
    "summary": "15:59:08【天风证券：五大云厂商2026年至今发债2288亿美元 而2018-2024年各年均未超过500亿美元】 &nbsp;&nbsp; 财联社",
@@ -738,6 +696,20 @@
     {
      "n": "财联社电报(Google聚合)",
      "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EZXRoN3J0d21aaGlQVjA0U2hrdGpHdlBRZ09oaTY0bkZCQWRFNndwQlVmMkRkSExiVGFTcXl2SHVOVUpmRUxHTg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 4.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-08 18:10",
+   "title": "央行系统性阐述汇率立场！人民币汇率不预设目标，重点防范短期破坏性超调",
+   "summary": "央行系统性阐述汇率立场！人民币汇率不预设目标，重点防范短期破坏性超调 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiSnpVbmNxa2NvaG9QcGhsWVlWNTBzTTdZakxBWG13X0ZBYmhMSFhHSHZTNWR3N3MwMFA3b3JPdjNjMXhuM0dTUQ?oc=5",
      "t": "sec"
     }
    ],
@@ -755,11 +727,25 @@
      "t": "sec"
     }
    ],
-   "heat": 48.5
+   "heat": 52.0
   },
   {
    "cat": "crypto",
-   "time": "2026-10-17 21:29",
+   "time": "2026-10-18 22:00",
+   "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+   "summary": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto rails.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.4
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-18 21:54",
    "title": "Here’s what happened in crypto today",
    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
    "srcs": [
@@ -769,11 +755,39 @@
      "t": "sec"
     }
    ],
-   "heat": 40.1
+   "heat": 51.4
   },
   {
    "cat": "crypto",
-   "time": "2026-10-18 18:43",
+   "time": "2026-10-19 00:00",
+   "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+   "summary": "Parliament passed a law taxing crypto withdrawals above deposits rather than individual trades, featuring a one-time declaration mechanism.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-18 21:00",
+   "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+   "summary": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-18 18:46",
    "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
    "summary": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.",
    "srcs": [
@@ -783,7 +797,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.6
+   "heat": 38.8
   },
   {
    "cat": "crypto",
@@ -797,105 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-18 20:30",
-   "title": "Election Rallies That Swept Latin America Face Reality Check",
-   "summary": "The searing financial-market rallies unleashed by elections across Latin America are beginning to show signs of cracks — sowing doubts among money managers over whether to keep pus…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-18/election-rallies-that-swept-latin-america-face-reality-check",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-18 20:30",
-   "title": "What’s Happening in EM: Latin America’s Post-Vote Test (Podcast)",
-   "summary": "Carolina Wilson speaks to Eric Fine, who manages emerging-market debt at VanEck, about whether Latin America’s rally has more room to run as the region shifts to the right — and th…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-18/what-s-happening-in-em-latin-america-s-post-vote-test-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-17 20:00",
-   "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-   "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-17 18:03",
-   "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-   "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-17 14:39",
-   "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-   "summary": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its q…",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-18 14:26",
-   "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-   "summary": "The round brings AIsa’s total funding to more than $9 million.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 22.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-17 10:30",
-   "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-   "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behin…",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-     "t": "sec"
-    }
-   ],
-   "heat": 22.3
+   "heat": 38.6
   },
   {
    "cat": "crypto",
@@ -909,49 +825,105 @@
      "t": "sec"
     }
    ],
-   "heat": 20.8
+   "heat": 32.0
   },
   {
    "cat": "crypto",
-   "time": "2026-10-17 01:21",
-   "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
-   "summary": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.7
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-16 23:45",
-   "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
-   "summary": "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-16 18:54",
-   "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-   "summary": "The stablecoin issuer’s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Africa and Latin America as banks and payment firms.",
+   "time": "2026-10-19 00:33",
+   "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+   "summary": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
+     "u": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
      "t": "sec"
     }
    ],
-   "heat": 20.0
+   "heat": 23.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-18 21:00",
+   "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+   "summary": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+     "t": "sec"
+    }
+   ],
+   "heat": 23.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-18 20:30",
+   "title": "Election Rallies That Swept Latin America Face Reality Check",
+   "summary": "The searing financial-market rallies unleashed by elections across Latin America are beginning to show signs of cracks — sowing doubts among money managers over whether to keep pus…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/election-rallies-that-swept-latin-america-face-reality-check",
+     "t": "sec"
+    }
+   ],
+   "heat": 23.1
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-18 20:30",
+   "title": "What’s Happening in EM: Latin America’s Post-Vote Test (Podcast)",
+   "summary": "Carolina Wilson speaks to Eric Fine, who manages emerging-market debt at VanEck, about whether Latin America’s rally has more room to run as the region shifts to the right — and th…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-18/what-s-happening-in-em-latin-america-s-post-vote-test-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 23.1
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-17 20:00",
+   "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+   "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+     "t": "sec"
+    }
+   ],
+   "heat": 23.1
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-17 18:03",
+   "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+   "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 22.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-18 14:29",
+   "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+   "summary": "The round brings AIsa’s total funding to more than $9 million.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 22.1
   },
   {
    "cat": "sector",
@@ -965,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 304.0
+   "heat": 292.0
   }
  ]
 }
