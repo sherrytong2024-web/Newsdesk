@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-19 01:41",
+ "updated": "2026-10-19 03:54",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-10-19 00:44",
+   "time": "2026-10-19 03:37",
    "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
    "summary": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
    "srcs": [
@@ -13,11 +13,53 @@
      "t": "sec"
     }
    ],
-   "heat": 299.8
+   "heat": 292.0
   },
   {
    "cat": "sector",
-   "time": "2026-10-19 00:26",
+   "time": "2026-10-19 03:16",
+   "title": "France's Macron vows to hold accountable those who 'sought to bring down the Republic'",
+   "summary": "Macron blamed \"unrestrained violence\" on \"insurrectionist elements from radical far-left groups, joined by numerous criminals.\"",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/18/macron-tv-speech-protests-riots.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 03:00",
+   "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles",
+   "summary": "US Treasuries are showing tentative signs of reclaiming their traditional role as a haven — threatening to wrong-foot investors who are heavily positioned for this year’s bond slum…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/bond-market-s-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 03:00",
+   "title": "CPI Test Set to Make or Break New Zealand Dollar’s Losing Run",
+   "summary": "The New Zealand dollar has fallen for five straight quarters and if analysts are right, it may be on course to test a pandemic-era low.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/cpi-test-set-to-make-or-break-new-zealand-dollar-s-losing-run",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 02:02",
    "title": "Hurricane Trudy brings heavy rain and strong winds to Mexico’s Pacific coast",
    "summary": "Trudy's center was expected to remain near the Mexican coast through Sunday evening before moving south of the Baja California Peninsula.",
    "srcs": [
@@ -27,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.8
+   "heat": 291.7
   },
   {
    "cat": "sector",
@@ -41,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.4
+   "heat": 291.1
   },
   {
    "cat": "sector",
@@ -55,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.4
+   "heat": 291.0
   },
   {
    "cat": "sector",
@@ -69,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.4
+   "heat": 291.0
   },
   {
    "cat": "sector",
@@ -83,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.4
+   "heat": 291.0
   },
   {
    "cat": "sector",
@@ -97,49 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 21:01",
-   "title": "America’s Downtowns Need More Than Offices",
-   "summary": "America’s office real estate bust is forcing cities to rethink their downtowns. Bloomberg Opinion columnist Justin Fox explains why converting offices into homes and creating more …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-18/opinion-how-the-office-bust-could-revive-downtowns-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 20:45",
-   "title": "Zelenskyy: US is Sharing Intelligence Again, Military Base Fire",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-18/zelenskyy-us-is-sharing-intelligence-again-military-base-fire",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 20:41",
-   "title": "Meta Platforms and Tesla are among the companies set to report next week. What to expect",
-   "summary": "Meta, General Motors, major airlines and more companies will report earnings this week. Here's what analysts forecast and what's happened in the past.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/18/meta-tesla-netflix-earnings-preview.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.2
+   "heat": 291.0
   }
  ]
 }

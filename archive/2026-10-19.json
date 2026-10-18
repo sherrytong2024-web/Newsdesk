@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19 01:41",
+ "updated": "2026-10-19 03:54",
  "items": [
   {
    "cat": "macro",
@@ -27,21 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-18 13:23",
-   "title": "India Religious Festivities Turn Deadly, Killing At Least 33",
-   "summary": "A stampede and a truck plowing into a crowd killed at least 33 people and injured dozens in two separate accidents during religious festivities in India.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-18/kolkata-stampede-leaves-at-least-19-dead-dozens-injured",
-     "t": "sec"
-    }
-   ],
-   "heat": 33.9
+   "heat": 34.8
   },
   {
    "cat": "macro",
@@ -55,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.2
+   "heat": 30.8
   },
   {
    "cat": "macro",
@@ -101,6 +87,20 @@
   },
   {
    "cat": "macro",
+   "time": "2026-10-12 15:22",
+   "title": "China’s Bank Resolution Regime Rated ‘Materially Non-Compliant’ by Global Watchdog",
+   "summary": "China’s Bank Resolution Regime Rated ‘Materially Non-Compliant’ by Global Watchdog &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQzZOVU1GdUNFUjY0cFE4enZoU0c2eTkzWlFnSjY3Q0RYT3pxZVdmYzNwYlllTi1PZXRXLUpKVWwzYkduOG9EUzYzRkRpaXJpekVLdnJfeVlNMmx4OFRRM2Q3YW5faTVrOXA4QzBFNUNvR0RwVE9wOWhwSlE3VkZVaHh0bXVZSFZtSS1ESnhQVThkYW5NdHk4VnpnUVFJNlpPWDNCZkY2bEpkZXlqOEZFMG9QUWQ2cFdLRFVUb0ZCeElMN3dIb3Z1REkxWmVFZGc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 28.0
+  },
+  {
+   "cat": "macro",
    "time": "2026-10-17 04:26",
    "title": "GBP/USD Rebound Signals a Sharp Shift in UK Rate Expectations",
    "summary": "",
@@ -111,7 +111,7 @@
      "t": "agg"
     }
    ],
-   "heat": 26.5
+   "heat": 26.1
   },
   {
    "cat": "macro",
@@ -125,7 +125,7 @@
      "t": "agg"
     }
    ],
-   "heat": 26.2
+   "heat": 26.0
   },
   {
    "cat": "macro",
@@ -213,7 +213,7 @@
   },
   {
    "cat": "sector",
-   "time": "2026-10-19 00:44",
+   "time": "2026-10-19 03:37",
    "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
    "summary": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
    "srcs": [
@@ -223,11 +223,53 @@
      "t": "sec"
     }
    ],
-   "heat": 299.8
+   "heat": 292.0
   },
   {
    "cat": "sector",
-   "time": "2026-10-19 00:26",
+   "time": "2026-10-19 03:16",
+   "title": "France's Macron vows to hold accountable those who 'sought to bring down the Republic'",
+   "summary": "Macron blamed \"unrestrained violence\" on \"insurrectionist elements from radical far-left groups, joined by numerous criminals.\"",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/18/macron-tv-speech-protests-riots.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 03:00",
+   "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles",
+   "summary": "US Treasuries are showing tentative signs of reclaiming their traditional role as a haven — threatening to wrong-foot investors who are heavily positioned for this year’s bond slum…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/bond-market-s-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 03:00",
+   "title": "CPI Test Set to Make or Break New Zealand Dollar’s Losing Run",
+   "summary": "The New Zealand dollar has fallen for five straight quarters and if analysts are right, it may be on course to test a pandemic-era low.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/cpi-test-set-to-make-or-break-new-zealand-dollar-s-losing-run",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 02:02",
    "title": "Hurricane Trudy brings heavy rain and strong winds to Mexico’s Pacific coast",
    "summary": "Trudy's center was expected to remain near the Mexican coast through Sunday evening before moving south of the Baja California Peninsula.",
    "srcs": [
@@ -237,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.8
+   "heat": 291.7
   },
   {
    "cat": "sector",
@@ -251,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.4
+   "heat": 291.1
   },
   {
    "cat": "sector",
@@ -265,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.4
+   "heat": 291.0
   },
   {
    "cat": "sector",
@@ -279,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.4
+   "heat": 291.0
   },
   {
    "cat": "sector",
@@ -293,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.4
+   "heat": 291.0
   },
   {
    "cat": "sector",
@@ -307,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.4
+   "heat": 291.0
   },
   {
    "cat": "sector",
@@ -321,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.2
+   "heat": 290.9
   },
   {
    "cat": "sector",
@@ -335,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.2
+   "heat": 290.8
   },
   {
    "cat": "sector",
@@ -349,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.2
+   "heat": 290.8
   },
   {
    "cat": "sector",
@@ -363,21 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 20:03",
-   "title": "Why Globalization Is Getting Harder to Navigate",
-   "summary": "At Bloomberg’s New Economy Forum in New Delhi, Indian Prime Minister Narendra Modi cautioned against weaponizing supply chains, energy and technology. Business leaders say they are…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-18/why-globalization-is-getting-harder-to-navigate-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 299.1
+   "heat": 290.8
   },
   {
    "cat": "sector",
@@ -391,21 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 299.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 18:30",
-   "title": "Short of Time and Influence, Macron Fights to Remain Relevant",
-   "summary": "Emmanuel Macron still has plenty of ideas, but in the home stretch of his presidency he’s lost much of the power to turn them into reality.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-18/short-of-time-and-influence-macron-fights-to-remain-relevant",
-     "t": "sec"
-    }
-   ],
-   "heat": 298.8
+   "heat": 290.7
   },
   {
    "cat": "stock",
@@ -419,21 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-18 22:00",
-   "title": "Option Traders Brace for VIX Surge as AI Jitters Jolt Market",
-   "summary": "Accelerating US inflation and tremors across the AI sector jolted stocks in recent days, and some investors are now betting that bigger swings in tech shares will finally spread to…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market",
-     "t": "sec"
-    }
-   ],
-   "heat": 95.4
+   "heat": 95.2
   },
   {
    "cat": "stock",
@@ -447,7 +447,21 @@
      "t": "agg"
     }
    ],
-   "heat": 92.1
+   "heat": 91.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-18 22:00",
+   "title": "Option Traders Brace for VIX Surge as AI Jitters Jolt Market",
+   "summary": "Accelerating US inflation and tremors across the AI sector jolted stocks in recent days, and some investors are now betting that bigger swings in tech shares will finally spread to…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.0
   },
   {
    "cat": "stock",
@@ -461,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 88.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -475,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 77.1
+   "heat": 76.7
   },
   {
    "cat": "stock",
@@ -489,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 73.0
+   "heat": 72.6
   },
   {
    "cat": "stock",
@@ -503,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 72.9
+   "heat": 72.6
   },
   {
    "cat": "stock",
@@ -517,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 72.5
+   "heat": 72.2
   },
   {
    "cat": "stock",
@@ -531,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 72.3
+   "heat": 72.0
   },
   {
    "cat": "stock",
@@ -619,17 +633,17 @@
   },
   {
    "cat": "global",
-   "time": "2026-10-18 13:36",
-   "title": "Analysis-Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom",
-   "summary": "",
+   "time": "2026-10-19 02:01",
+   "title": "At least 4 killed in major fire at Canadian military base",
+   "summary": "Prime Minister Mark Carney called the incident one of the worst peacetime tragedies ever for Canada's armed forces on home soil.",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/commodities-news/analysiscarneys-pipeline-push-is-unlikely-to-bring-back-canadas-oil-jobs-boom-4955902",
-     "t": "agg"
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/18/deaths-confirmed-after-fire-at-canada-military-base-in-alberta.html",
+     "t": "sec"
     }
    ],
-   "heat": 12.0
+   "heat": 15.7
   },
   {
    "cat": "global",
@@ -717,6 +731,20 @@
   },
   {
    "cat": "crypto",
+   "time": "2026-10-18 21:54",
+   "title": "Here’s what happened in crypto today",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.0
+  },
+  {
+   "cat": "crypto",
    "time": "2026-10-16 23:52",
    "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
    "summary": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins.",
@@ -727,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 56.0
   },
   {
    "cat": "crypto",
@@ -741,21 +769,21 @@
      "t": "sec"
     }
    ],
-   "heat": 51.4
+   "heat": 51.0
   },
   {
    "cat": "crypto",
-   "time": "2026-10-18 21:54",
-   "title": "Here’s what happened in crypto today",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "time": "2026-10-19 02:30",
+   "title": "The White House's crypto chief departs: State of Crypto",
+   "summary": "Patrick Witt announced his departure from the White House last week.",
    "srcs": [
     {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
      "t": "sec"
     }
    ],
-   "heat": 51.4
+   "heat": 43.8
   },
   {
    "cat": "crypto",
@@ -769,7 +797,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 43.3
   },
   {
    "cat": "crypto",
@@ -783,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.2
+   "heat": 42.8
   },
   {
    "cat": "crypto",
@@ -797,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.8
+   "heat": 42.5
   },
   {
    "cat": "crypto",
@@ -811,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.6
+   "heat": 42.2
   },
   {
    "cat": "crypto",
@@ -825,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 36.0
   },
   {
    "cat": "crypto",
@@ -839,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.8
+   "heat": 27.4
   },
   {
    "cat": "crypto",
@@ -853,7 +881,21 @@
      "t": "sec"
     }
    ],
-   "heat": 23.2
+   "heat": 26.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-18 19:03",
+   "title": "Bitcoin trapped at $80,500 support, breakdown risk: Live levels",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+     "t": "agg"
+    }
+   ],
+   "heat": 24.5
   },
   {
    "cat": "crypto",
@@ -867,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.1
+   "heat": 22.8
   },
   {
    "cat": "crypto",
@@ -881,35 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-17 20:00",
-   "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-   "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-17 18:03",
-   "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-   "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 22.7
+   "heat": 22.8
   },
   {
    "cat": "crypto",
@@ -923,21 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 22.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-15 15:12",
-   "title": "Chinese Authorities Take Away Son of Former Chongqing Mayor Huang Qifan",
-   "summary": "Chinese Authorities Take Away Son of Former Chongqing Mayor Huang Qifan &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdnh3YVZVa2wtYzhMQWdESWNCNmN2ZWRDaXZ3NnZUVXoyZTNUcXZYbGlSTTBWeTZLQUdXVTBKZHhoc3hiNFd3dGNGb0pRaXcwTVBxbmxEX0stWVpVd0pJS3hNS0k1WEZ0NlhyYlZEZHFwYjZCVkpiWnFtY2JvQ09PZ29NamtPaHcyQWdMRzFEdjUyR1VOSUNzbHd4SEJjM1hDT0lzVm5reWsyODVqcDg5Wl9GQmIyZjhhQXU4cG1mSVJFeW5f?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 292.0
+   "heat": 21.8
   }
  ]
 }
