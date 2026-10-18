@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18 06:47",
+ "updated": "2026-10-18 10:23",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.5
+   "heat": 60.0
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "agg"
     }
    ],
-   "heat": 59.5
+   "heat": 58.9
   },
   {
    "cat": "macro",
@@ -41,7 +41,21 @@
      "t": "sec"
     }
    ],
-   "heat": 58.5
+   "heat": 53.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-18 07:57",
+   "title": "Australian Home Auctions Decline as Rate Hikes Dampen Activity",
+   "summary": "The number of homes auctioned in Australia dropped over the past week as interest rates at a 15-year high weigh on activity in the housing market.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-17/australian-home-auctions-decline-as-rate-hikes-dampen-activity",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.6
   },
   {
    "cat": "macro",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.6
+   "heat": 47.0
   },
   {
    "cat": "macro",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.6
+   "heat": 46.0
   },
   {
    "cat": "macro",
@@ -83,21 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-17 19:54",
-   "title": "Citi says interest rates may matter more for economy than stock valuations",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
-     "t": "agg"
-    }
-   ],
-   "heat": 44.2
+   "heat": 45.7
   },
   {
    "cat": "macro",
@@ -111,7 +111,7 @@
      "t": "agg"
     }
    ],
-   "heat": 41.6
+   "heat": 41.0
   },
   {
    "cat": "macro",
@@ -125,7 +125,7 @@
      "t": "agg"
     }
    ],
-   "heat": 41.4
+   "heat": 40.8
   },
   {
    "cat": "macro",
@@ -181,21 +181,7 @@
      "t": "sec"
     }
    ],
-   "heat": 33.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-15 16:39",
-   "title": "Tech market sell-off deepens amid fears over US inflation and AI debt - The Guardian",
-   "summary": "Tech market sell-off deepens amid fears over US inflation and AI debt &nbsp;&nbsp; The Guardian",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORElLSHBNa1VvRjk5dmRWaE5HR21Hd3JwY0tBX19SRUpOOTZTd2RlV2tDN3RVa1lPd0NZU2tUQVBCMWxtclJpeE5jZzlYNUtGaXdIeFFBR0xsSmVVQ1lreURiLTFOcjN6eTZHZzdmM19aNzZUSHB1dGFlcFlVX0gxckN6NDFMemNnbnZWOVVBYTFMZDl4QWI2cFFUQ2JpckFqSVk5eTU2cU9wcHpBQnZaQTVRYVZSTFhVbVE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 32.0
+   "heat": 32.8
   },
   {
    "cat": "macro",
@@ -206,6 +192,20 @@
     {
      "n": "S&P Global(Google聚合)",
      "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMHJnMVBfOFNXZEdvdmlxVlBjbXQyVU93SGdwendQWGpRNWlxRGNQeWpER1huQW5ndHpoc0JEbmszQlcydVlMdktKX3R4LUxjY2Z3NWliUUlZV01aYVVYLVY0UldqQ0VEMmZ1S3pqVkhpTDBKdzA4ZjJQNmlRalVqM0dYVE5BTGp4al9ZZkFQYkJ5aS1Rc1lSSmxkSGNSeW5pSThicTB2SjlxVThBNUxmSTRxMVFZNm0tM3RKOTI3TzRDaFd2OXB5dUpPNk9POHZKdW5zSnozOGIwSThTdlFvNzVoVUR3ckVJMDFKSUVjazJlNmpzS1VWNFZ0YVZGb1JjMy0w?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 32.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 14:04",
+   "title": "China’s Factory-Gate Inflation Hits Four-Year High as Consumer Prices Lag",
+   "summary": "China’s Factory-Gate Inflation Hits Four-Year High as Consumer Prices Lag &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMW92RmFiNkNNWGlra1Vyb05yNUxVcm5JZWgxTTdpOGdGTURPd2lMNFliUUNqSDdlZWRNOUpnX3llYS1QQldlNHZNTUVnVVBtYXNwUkx1OGhHZGR4V3VBallEYWdnTU9vUmExNHZoVnoxNlZvdFRUZ0c1Mk9JTW5OVjVHYXRYMVE3NUZ0OUp4dk9wTmpTSDctbGk5MFd6V3E0OHZsWk14UGo3aXlTNWpHdnlxSktaQVdQeUFPV2pXNXl5SEIyMHc?oc=5",
      "t": "sec"
     }
    ],
@@ -223,7 +223,77 @@
      "t": "sec"
     }
    ],
-   "heat": 302.3
+   "heat": 297.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 09:49",
+   "title": "Guyana to Block Vape Product Imports Amid Youth Health Concerns",
+   "summary": "Guyana will ban imports of vaping products, tightening restrictions on electronic cigarettes as concern rises about their growing use and health risks, President Irfaan Ali said Sa…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/guyana-to-block-vape-product-imports-amid-youth-health-concerns",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 09:45",
+   "title": "Two India ‘Cockroach’ Leaders Set to Be Freed as Protests Spread",
+   "summary": "Two jailed leaders of India’s Cockroach Janta Party are expected to be released Sunday, according to its legal head, as police barricades and a heavy security presence underscore c…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/two-india-cockroach-leaders-set-to-be-freed-as-protests-spread",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 08:48",
+   "title": "Venezuela Sees Nearly $76 Billion Oil Investment Over Five Years",
+   "summary": "Venezuela expects almost $76 billion of investment in its oil and gas sector over the next five years, Acting President Delcy Rodríguez said Saturday, as the country seeks to draw …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/venezuela-sees-nearly-76-billion-oil-investment-over-five-years",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 08:38",
+   "title": "GOP Allies Call Russia Sanctions Waiver a Mistake, Ukraine Starlink Restrictions",
+   "summary": "Listen for the latest from Bloomberg News",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-18/gop-allies-call-waiver-a-mistake-ukraine-starlink-restrictions",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-18 07:19",
+   "title": "Ukraine Starlink Restrictions, GOP Allies Call Waiver a Mistake",
+   "summary": "Source: Bloomberg, 5:22",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-gop-allies-call-waiver-a-mistake",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.5
   },
   {
    "cat": "sector",
@@ -237,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.9
+   "heat": 291.3
   },
   {
    "cat": "sector",
@@ -251,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.8
+   "heat": 291.2
   },
   {
    "cat": "sector",
@@ -265,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.5
+   "heat": 290.9
   },
   {
    "cat": "sector",
@@ -279,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.5
+   "heat": 290.9
   },
   {
    "cat": "sector",
@@ -293,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.0
+   "heat": 290.4
   },
   {
    "cat": "sector",
@@ -307,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.0
+   "heat": 290.4
   },
   {
    "cat": "sector",
@@ -321,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 295.0
+   "heat": 290.4
   },
   {
    "cat": "sector",
@@ -335,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 294.7
+   "heat": 290.1
   },
   {
    "cat": "sector",
@@ -349,91 +419,21 @@
      "t": "sec"
     }
    ],
-   "heat": 294.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 22:27",
-   "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
-   "summary": "Junk bond buyers are increasingly freezing out tech startups looking for financing, as CoreWeave Inc.’s pain raises bigger questions about how artificial intelligence companies wil…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly",
-     "t": "sec"
-    }
-   ],
-   "heat": 294.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 22:03",
-   "title": "Northwell CEO Says Health Care Model Must Change",
-   "summary": "Northwell Health President and CEO Dr. John D’Angelo tells Bloomberg This Weekend that the traditional US health care model is unsustainable and that improving affordability will r…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-17/northwell-ceo-says-health-care-model-must-change-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 294.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 21:47",
-   "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
-   "summary": "DeepSeek released an update of its AI model this weekend that it says is faster and leaner, ramping up the Chinese company’s challenge to Silicon Valley rivals Anthropic PBC and Op…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
-     "t": "sec"
-    }
-   ],
-   "heat": 294.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-17 21:39",
-   "title": "Freeland Warns US Alliances Are Fraying",
-   "summary": "Former Canadian Deputy Prime Minister Chrystia Freeland tells Bloomberg This Weekend that Canada and other democracies must become less reliant on the US while remaining open to re…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-17/freeland-warns-us-alliances-are-fraying-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 294.5
+   "heat": 290.1
   },
   {
    "cat": "stock",
-   "time": "2026-10-17 23:42",
-   "title": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
-   "summary": "The sinking AI trade rattled last week's market. But solid bank earnings and a rotation beyond tech gave us reasons for optimism.",
+   "time": "2026-10-17 23:16",
+   "title": "First Guaranty Bancshares director Smith buys $822,013 in stock",
+   "summary": "",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/first-guaranty-bancshares-director-smith-buys-822013-in-stock-93CH-4955666",
+     "t": "agg"
     }
    ],
-   "heat": 106.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-17 20:49",
-   "title": "These tech stocks are a buy ahead of their earnings reports, Bank of America says",
-   "summary": "Bank of America says there are several technology stocks that have more room to run heading into their next quarterly results.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/17/tech-stocks-to-buy-going-into-their-earnings-reports.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 106.3
+   "heat": 100.1
   },
   {
    "cat": "stock",
@@ -447,91 +447,63 @@
      "t": "sec"
     }
    ],
-   "heat": 102.1
+   "heat": 97.5
   },
   {
    "cat": "stock",
-   "time": "2026-10-17 22:31",
-   "title": "Protagonist CFO Ali Asif sells $8.3 million in company stock",
+   "time": "2026-10-17 23:42",
+   "title": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
+   "summary": "The sinking AI trade rattled last week's market. But solid bank earnings and a rotation beyond tech gave us reasons for optimism.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 94.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-17 20:49",
+   "title": "These tech stocks are a buy ahead of their earnings reports, Bank of America says",
+   "summary": "Bank of America says there are several technology stocks that have more room to run heading into their next quarterly results.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/17/tech-stocks-to-buy-going-into-their-earnings-reports.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 93.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-18 08:00",
+   "title": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks",
+   "summary": "A deepening selloff in US technology stocks is exposing a new vulnerability in Asia’s artificial intelligence trade: mounting financing costs could choke off the spending needed to…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks",
+     "t": "sec"
+    }
+   ],
+   "heat": 83.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-18 02:00",
+   "title": "Asian AI stocks fall as rising financing costs threaten spending boom",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/protagonist-cfo-ali-asif-sells-83-million-in-company-stock-93CH-4955634",
+     "u": "https://www.investing.com/news/stock-market-news/asian-ai-stocks-fall-as-rising-financing-costs-threaten-spending-boom--bloomberg-4955727",
      "t": "agg"
     }
    ],
-   "heat": 96.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-17 22:16",
-   "title": "Dropbox CAO Sarah Schubach sells $65,893 of stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/dropbox-cao-sarah-schubach-sells-65893-of-stock-93CH-4955624",
-     "t": "agg"
-    }
-   ],
-   "heat": 96.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-17 22:01",
-   "title": "JetBlue chief digital & tech officer disposes of $8,580 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/jetblue-chief-digital--tech-officer-disposes-of-8580-in-stock-93CH-4955615",
-     "t": "agg"
-    }
-   ],
-   "heat": 96.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-17 21:20",
-   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
-     "t": "agg"
-    }
-   ],
-   "heat": 96.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-17 20:16",
-   "title": "Powell Industries VP Mauney sells $56,488 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/powell-industries-vp-mauney-sells-56488-in-stock-93CH-4955554",
-     "t": "agg"
-    }
-   ],
-   "heat": 96.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-17 19:46",
-   "title": "Gilead chairman & CEO O’Day sells $2.2m in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/gilead-chairman--ceo-oday-sells-22m-in-stock-93CH-4955543",
-     "t": "agg"
-    }
-   ],
-   "heat": 96.2
+   "heat": 80.6
   },
   {
    "cat": "stock",
@@ -545,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.1
+   "heat": 79.5
   },
   {
    "cat": "stock",
@@ -559,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.7
+   "heat": 79.1
   },
   {
    "cat": "stock",
@@ -573,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.4
+   "heat": 78.8
   },
   {
    "cat": "stock",
@@ -587,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 93.1
+   "heat": 76.5
   },
   {
    "cat": "stock",
@@ -601,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 76.0
   },
   {
    "cat": "stock",
@@ -615,49 +587,63 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 76.0
   },
   {
-   "cat": "global",
-   "time": "2026-10-17 18:31",
-   "title": "Oil Trader Yaoyao Liu Who Made Billions for Vitol Is Leaving",
-   "summary": "Yaoyao Liu, whose trading in oil derivatives made billions of dollars for Vitol Group over a career marked by dramatic highs and lows, is leaving the commodities trading giant.",
+   "cat": "stock",
+   "time": "2026-10-15 02:23",
+   "title": "7 Stocks That Outperform in a Recession | Investing - US News Money",
+   "summary": "7 Stocks That Outperform in a Recession | Investing &nbsp;&nbsp; US News Money",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-17/oil-trader-yaoyao-liu-who-made-billions-for-vitol-is-leaving",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVThUZ2diSUNrLTZIVF92bUtEaUhNTF8yemRQcHlDSXBVTGJUZlZXTXFYWUlsaUZMUnBIQS1NcWxlNjh3TTB2YzFQYXIzVUlpRGpHdlZTaWpUN1ZpemhOTmtHZXRQOFJ4SEZ1alQ3Q1ZVdzkyTlR1TDJpbjR1ZW5ya3VjR1JMUkV4?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 18.0
+   "heat": 76.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-14 02:00",
+   "title": "Could the US stock market crash in October? What are the Dow Jones, S&P 500 and Nasdaq showing? Here’s wha - The Economi",
+   "summary": "Could the US stock market crash in October? What are the Dow Jones, S&P 500 and Nasdaq showing? Here’s wha &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPT0cwS3FaNTEyMFdzX1ZaWkY0eTFQMUhKSTdBNVliSy16NUVqU2E4Tkt2U2FUZWJWNmJEUEZWOTlmNUZqQTFMbVdHM2tBNjh4b0V4M2tjZm9lcnI0YmQ5WXFlZVg1NlRnZVg4WXRXWVkyb0FIeW1NaERRUTQ2dGxnSDAybDd6VnZNZUY1Vkw4VVQ3QmhxV2RSdTZCNHgyb3VHbWtoSFZkQ0RGR2htUXhodVMyaGFJNE1pWWM2ZHpYdHUyaFFPRlRiX0JhTHNYZDNXX09tYXgxLWxsWUVIdmgwNXdhSUdjWkF6cGIxemtKQnBKU2F6MHNTNXEweEtWVlduWGF6alRkM2dBRmVCV0l0cGRBUXp1RFFzRlpxTDV6QXFWcU5LNGxXRThLOWgtTko50gG2AkFVX3lxTE5TdGdqZ1pQLXN0aHAydjBKTkFDMkM5b0RzVFFqczJEcmUzaTVYR3l2RnVBSGhpanNpa2xha3BpWEc2TzRZUkZJRTRyUVdJMFVVSi11UWh0NG1ScERQS2dKX2Nkd3VDRXNjLVJ5d19pY2V0aDZ3NmN5ZTIyV2o2c0plZXpOQ2djaWE3aGQzWEljMzEyb1dLVENOdGRiMGRvejN4MW9fMW1fcFI4b2hVekxYTDJOLXVUcTRteHkxWDE0NENnY2dIRi1nektHQjRyeklnWWQ3ZmwtTnIxdUVMSDUweGNySnNzVUpxbXE0bmcyUmVidW44RUdJU0JfQzhGX0NheUFFSXVRNXZtWXQ1Mm1mYnJvbVQtbGkyZEZXU3MyZFJ4SjBuQTVKU0NwT1dlUFhWVHJSU1E?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 76.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-14 01:59",
+   "title": "Will the Stock Market Crash in 2026? 5 Risks to Consider | Investing - US News Money",
+   "summary": "Will the Stock Market Crash in 2026? 5 Risks to Consider | Investing &nbsp;&nbsp; US News Money",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWk5OQUItYlZ0a3dDV0lIWVJZcVNhSm5sQXpKY052RGJNd1lwX25IZ2JJVW50WG44WGRLYXR3cG12bUF5NThuZlFMTkdGbHBONkdJYXpMSjVXeEJsMks1RnZXa3U2SC1PdmtYZ0ZJVEdaTDVXRFVCcWY1cDd0OUNRN0ZfYlI4NkRDRlpiZQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 76.0
   },
   {
    "cat": "global",
-   "time": "2026-10-17 19:02",
-   "title": "Bitcoin coils at 23.6% Fib level near $81,495: Live levels",
+   "time": "2026-10-18 01:25",
+   "title": "Venezuela expects $76 billion oil investment boost amid U.S. cooperation",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+     "u": "https://www.investing.com/news/economy-news/venezuela-expects-76-billion-oil-investment-boost-amid-us-cooperation-4955719",
      "t": "agg"
     }
    ],
-   "heat": 16.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-16 18:46",
-   "title": "Global Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/global-fuel-oil-shortage-deepens-as-middle-east-and-russia-supplies-collapse-200689716",
-     "t": "agg"
-    }
-   ],
-   "heat": 12.0
+   "heat": 12.5
   },
   {
    "cat": "global",
@@ -671,21 +657,21 @@
      "t": "sec"
     }
    ],
-   "heat": 10.7
+   "heat": 10.1
   },
   {
    "cat": "global",
-   "time": "2026-10-17 19:08",
-   "title": "Stellantis Plans to Hire Hundreds More Engineers in Europe, US",
-   "summary": "Stellantis NV Chief Engineering and Technology Officer Ned Curic plans to continue hiring more engineers as the automaker rolls out dozens of new models as part of its turnaround p…",
+   "time": "2026-10-16 18:46",
+   "title": "Global Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-17/stellantis-plans-to-hire-hundreds-more-engineers-in-europe-us",
-     "t": "sec"
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/global-fuel-oil-shortage-deepens-as-middle-east-and-russia-supplies-collapse-200689716",
+     "t": "agg"
     }
    ],
-   "heat": 10.1
+   "heat": 7.4
   },
   {
    "cat": "global",
@@ -699,7 +685,7 @@
      "t": "agg"
     }
    ],
-   "heat": 8.0
+   "heat": 7.4
   },
   {
    "cat": "global",
@@ -713,7 +699,7 @@
      "t": "agg"
     }
    ],
-   "heat": 7.6
+   "heat": 7.0
   },
   {
    "cat": "global",
@@ -769,7 +755,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.8
+   "heat": 54.2
   },
   {
    "cat": "crypto",
@@ -783,7 +769,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.4
+   "heat": 45.8
   },
   {
    "cat": "crypto",
@@ -797,49 +783,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-17 14:39",
-   "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-   "summary": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its q…",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-     "t": "sec"
-    }
-   ],
-   "heat": 33.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-17 10:30",
-   "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-   "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behin…",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-     "t": "sec"
-    }
-   ],
-   "heat": 32.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-16 23:45",
-   "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
-   "summary": "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 30.8
+   "heat": 41.4
   },
   {
    "cat": "crypto",
@@ -853,21 +797,35 @@
      "t": "sec"
     }
    ],
-   "heat": 30.5
+   "heat": 29.9
   },
   {
    "cat": "crypto",
-   "time": "2026-10-16 18:41",
-   "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-   "summary": "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on interest rates.",
+   "time": "2026-10-17 14:39",
+   "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+   "summary": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its q…",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+     "u": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
      "t": "sec"
     }
    ],
-   "heat": 30.0
+   "heat": 28.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-17 10:30",
+   "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+   "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behin…",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+     "t": "sec"
+    }
+   ],
+   "heat": 28.0
   },
   {
    "cat": "crypto",
@@ -881,7 +839,21 @@
      "t": "sec"
     }
    ],
-   "heat": 27.1
+   "heat": 26.5
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-16 23:45",
+   "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
+   "summary": "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 26.2
   },
   {
    "cat": "crypto",
@@ -895,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 26.5
+   "heat": 25.9
   },
   {
    "cat": "crypto",
@@ -909,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 26.2
+   "heat": 25.6
   },
   {
    "cat": "crypto",
@@ -923,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 25.9
+   "heat": 25.3
   },
   {
    "cat": "crypto",
@@ -937,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.1
+   "heat": 22.5
   },
   {
    "cat": "crypto",
@@ -951,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 22.0
+   "heat": 21.4
   },
   {
    "cat": "crypto",
@@ -965,21 +937,21 @@
      "t": "sec"
     }
    ],
-   "heat": 14.7
+   "heat": 14.1
   },
   {
-   "cat": "sector",
-   "time": "2026-10-16 18:20",
-   "title": "Analysis: China Seeks Private Capital to Help Fund Its Infrastructure Push",
-   "summary": "Analysis: China Seeks Private Capital to Help Fund Its Infrastructure Push &nbsp;&nbsp; Caixin Global",
+   "cat": "crypto",
+   "time": "2026-10-17 05:38",
+   "title": "S&P Global Ratings affirms Netherlands at ’AAA’ with stable outlook - Yahoo Finance",
+   "summary": "S&P Global Ratings affirms Netherlands at ’AAA’ with stable outlook &nbsp;&nbsp; Yahoo Finance",
    "srcs": [
     {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdU56enJzTDkwQmxrejNYOVV1Ymp2dmpxVGNUT0YxYzV0ZmQ0U2U3cFpMYTJ5a2JnaGJZWVVfb1dZVzFqN3p5X1B6TDRVd2ttT0JYcGt2NnVVclU0ckhVWHAtVUlJUk9fdWM2ZHp0cDNpTks3YVZ2Nko5VzEweVRHRTg4a2dldVRJcS1ZUjl6SWdHazV4OHpUeVppRlBxOHhuRVVubDZFeEswNjUtMHFhV2JGRXo5cmY3UXRPVnk4eExjU2JXcjZZ?oc=5",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDg2NzR6QlZJVlo3QXUxdVNMaU9YcXRQLTd2a0R2anNQMkJmT3pzTjUyR1p2TVc4aG9QMHNzRjh4bFd1R1d2cU1qbUdDQ1BCRl9EcWtqV3NPaERIR3BhNXlSV0hZeGNXUE1PMzA1RXFhU1pRN2xnZEVBZHRiTmtDR3lxcjJEVTludEJUUTB6YS05YTlfX29uRjQyeVBnWDNfUzJv?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 289.9
+   "heat": 11.2
   }
  ]
 }
