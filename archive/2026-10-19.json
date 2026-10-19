@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-19 06:41",
+ "updated": "2026-10-19 10:37",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-10-19 07:47",
+   "title": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech",
+   "summary": "Gold opened the week higher as traders pared bets on the Federal Reserve raising interest rates this month after remarks by Chair Kevin Warsh.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/gold-edges-higher-as-traders-ease-rate-hike-bets-on-warsh-speech",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.5
+  },
   {
    "cat": "macro",
    "time": "2026-10-16 15:54",
@@ -13,7 +27,35 @@
      "t": "agg"
     }
    ],
-   "heat": 46.0
+   "heat": 50.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-19 10:29",
+   "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+   "summary": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-19 10:15",
+   "title": "Japan PM Takaichi Denies She’s Driving Weak Yen, High Rates",
+   "summary": "Japanese Prime Minister Sanae Takaichi strongly denied the notion that she’s responsible for a weak yen and high interest rates.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-19/japan-pm-takaichi-denies-she-s-driving-weak-yen-high-rates",
+     "t": "sec"
+    }
+   ],
+   "heat": 39.9
   },
   {
    "cat": "macro",
@@ -27,7 +69,35 @@
      "t": "sec"
     }
    ],
-   "heat": 30.3
+   "heat": 37.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-19 08:02",
+   "title": "Zelenskyy Says Trump Pushing Ukraine to Yield, France Unrest",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-19/zelenskyy-says-trump-pushing-ukraine-to-yield-france-unrest",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-19 06:45",
+   "title": "France Unrest, Zelenskyy: Trump Pushing Ukraine to Yield, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-18/france-unrest-zelenskyy-trump-pushing-ukraine-to-yield-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.4
   },
   {
    "cat": "macro",
@@ -41,63 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 28.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-17 20:47",
-   "title": "Zelenskyy Says Starlink Speed Restrictions Look Deliberate",
-   "summary": "Restrictions on Ukraine’s military use of SpaceX’s Starlink system appear to be deliberate and not the result of any technical problems, President Volodymyr Zelenskyy said, while d…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate",
-     "t": "sec"
-    }
-   ],
-   "heat": 26.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-16 15:00",
-   "title": "Market Movers blog: European markets in the green as inflation rises in the eurozone - Investment Week",
-   "summary": "Market Movers blog: European markets in the green as inflation rises in the eurozone &nbsp;&nbsp; Investment Week",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 24.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-14 20:39",
-   "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Gain Even as September Inflation Report Comes In Hotter - Benzinga",
-   "summary": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Gain Even as September Inflation Report Comes In Hotter &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMHJnMVBfOFNXZEdvdmlxVlBjbXQyVU93SGdwendQWGpRNWlxRGNQeWpER1huQW5ndHpoc0JEbmszQlcydVlMdktKX3R4LUxjY2Z3NWliUUlZV01aYVVYLVY0UldqQ0VEMmZ1S3pqVkhpTDBKdzA4ZjJQNmlRalVqM0dYVE5BTGp4al9ZZkFQYkJ5aS1Rc1lSSmxkSGNSeW5pSThicTB2SjlxVThBNUxmSTRxMVFZNm0tM3RKOTI3TzRDaFd2OXB5dUpPNk9POHZKdW5zSnozOGIwSThTdlFvNzVoVUR3ckVJMDFKSUVjazJlNmpzS1VWNFZ0YVZGb1JjMy0w?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 24.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-14 14:04",
-   "title": "China’s Factory-Gate Inflation Hits Four-Year High as Consumer Prices Lag",
-   "summary": "China’s Factory-Gate Inflation Hits Four-Year High as Consumer Prices Lag &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMW92RmFiNkNNWGlra1Vyb05yNUxVcm5JZWgxTTdpOGdGTURPd2lMNFliUUNqSDdlZWRNOUpnX3llYS1QQldlNHZNTUVnVVBtYXNwUkx1OGhHZGR4V3VBallEYWdnTU9vUmExNHZoVnoxNlZvdFRUZ0c1Mk9JTW5OVjVHYXRYMVE3NUZ0OUp4dk9wTmpTSDctbGk5MFd6V3E0OHZsWk14UGo3aXlTNWpHdnlxSktaQVdQeUFPV2pXNXl5SEIyMHc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 24.0
+   "heat": 32.0
   },
   {
    "cat": "macro",
@@ -111,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 24.0
+   "heat": 32.0
   },
   {
    "cat": "macro",
@@ -125,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 24.0
+   "heat": 32.0
   },
   {
    "cat": "macro",
@@ -139,7 +153,7 @@
      "t": "agg"
     }
    ],
-   "heat": 22.0
+   "heat": 30.0
   },
   {
    "cat": "macro",
@@ -153,49 +167,7 @@
      "t": "agg"
     }
    ],
-   "heat": 22.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-16 16:47",
-   "title": "FX Daily: Inflation Vs. AI Overbuild Story Dominates",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/fx-daily-inflation-vs-ai-overbuild-story-dominates-200689703",
-     "t": "agg"
-    }
-   ],
-   "heat": 22.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-16 16:01",
-   "title": "US Dollar Inflation Paradox: AI Credit Risks, Energy Costs Repricing Global Growth",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-inflation-paradox-ai-credit-risks-energy-costs-repricing-global-growth-200689697",
-     "t": "agg"
-    }
-   ],
-   "heat": 22.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-16 20:29",
-   "title": "U.S. futures mostly higher with the Fed’s Warsh touting AI - CP24",
-   "summary": "U.S. futures mostly higher with the Fed’s Warsh touting AI &nbsp;&nbsp; CP24",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3hJX0NtQXVBN1lDc0ZoSHpMY0FuV0htLXZPcEQteUx6bE5HY1FONUJFakY2QmRGYUdxRlVHNjltNW1QdTIyQ28wclR2VFFUcUFwQUtMM2otYk9GaHBfWUp5blRZS2c5VGlkVVhOZmxmMEtXNFlSVlozOEFPMGQtemw5ZC1UbkthU1JOU3VtT2dyR1FtUjFUaTBxeEdtN0p4?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.0
+   "heat": 30.0
   },
   {
    "cat": "macro",
@@ -209,161 +181,63 @@
      "t": "sec"
     }
    ],
-   "heat": 20.0
+   "heat": 28.0
   },
   {
-   "cat": "sector",
-   "time": "2026-10-19 06:15",
-   "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates",
-   "summary": "The S&P 500 lost nearly 2% last week, its biggest weekly decline since late June. The Nasdaq fell 4.5%, snapping a four-week winning streak.",
+   "cat": "macro",
+   "time": "2026-10-13 00:32",
+   "title": "S&P 500: Earnings strength offsets yield headwinds – HSBC - www.tmgm.com",
+   "summary": "S&P 500: Earnings strength offsets yield headwinds – HSBC &nbsp;&nbsp; www.tmgm.com",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0FTeHNIaGtkUlBDU3JEYTJTbFlGcFQzSG1KdHM3Q0ZvU3Q0d3ROVkk5cUJIaVF3THNJREhVSmY3SEFaMlYtT1VfV3A5REEteVRZZjFyN0ttMVpoSUtlaTRLUDl5bHVtZmlEem9VakkxcjZkRVZid0M0OE5ZRS1XMGJJd3hYQm40VV9aRTZGc19ySDMwU3NIUFF0Wi1zSzBtUTNwNklybHhNVjVQaWExYjJHb0t2UWNFTFh3aWUwOA?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 283.9
+   "heat": 28.0
   },
   {
-   "cat": "sector",
-   "time": "2026-10-19 05:47",
-   "title": "Sydney’s New Airport: Australia Briefing",
-   "summary": "Get caught up.",
+   "cat": "macro",
+   "time": "2026-10-12 17:09",
+   "title": "S&P 500: Earnings strength offsets yield headwinds – HSBC - FXStreet",
+   "summary": "S&P 500: Earnings strength offsets yield headwinds – HSBC &nbsp;&nbsp; FXStreet",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-18/sydney-s-new-airport-australia-briefing",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHA5dnpxRlRnTUQ1Z2pleldiaE9YdGN3REl3dm5YQWU3X09PY0RKUzZJVzM4Q2RkZFo5ZWxuWlVfcDZnZ2RPN3JjOElGcmJXOEZJRmFZRElDZmx3NzF0cVYxbExCWDVfQlNRNE96dFV5OFpOdE82SjNXdkdObl81RmU2bENUM3ZQWlZlMUlYbTU5OG9QRDZLMF9DVnQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 283.8
+   "heat": 28.0
   },
   {
    "cat": "sector",
-   "time": "2026-10-19 05:14",
-   "title": "Daiichi Life Offers $4.4 Billion to Buy Rest of Challenger",
-   "summary": "Daiichi Life Group Inc. offered to buy the remainder of Challenger Ltd. that it doesn’t already own, in a takeover bid that valued the Australian firm at around A$7.9 billion ($5.5…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-18/daiichi-life-offers-to-buy-remainder-of-australia-s-challenger",
-     "t": "sec"
-    }
-   ],
-   "heat": 283.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-19 04:52",
-   "title": "Hurricane Trudy lashes Mexico’s Pacific coast with heavy rain and strong winds",
-   "summary": "Trudy's center was expected to remain near the Mexican coast through Sunday evening before moving south of the Baja California Peninsula.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/18/hurricane-trudy-brings-heavy-rain-winds-to-mexicos-pacific-coast.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 283.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-19 04:41",
-   "title": "Macron on France Protests, Zelenskyy: Trump Pressuring Ukraine",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-18/macron-on-france-protests-zelenskyy-trump-pressuring-ukraine",
-     "t": "sec"
-    }
-   ],
-   "heat": 283.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-19 04:00",
-   "title": "AI’s Risks and Rewards (ARM, SNPS)",
-   "summary": "The CFOs discuss investment plans, forecasting and the trade-offs they are weighing.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-18/ai-s-risks-and-rewards-arm-snps",
-     "t": "sec"
-    }
-   ],
-   "heat": 283.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-19 03:37",
-   "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
-   "summary": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 283.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-19 03:16",
-   "title": "France's Macron vows to hold accountable those who 'sought to bring down the Republic'",
-   "summary": "Macron blamed \"unrestrained violence\" on \"insurrectionist elements from radical far-left groups, joined by numerous criminals.\"",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/18/macron-tv-speech-protests-riots.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 283.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-19 03:00",
-   "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles",
-   "summary": "US Treasuries are showing tentative signs of reclaiming their traditional role as a haven — threatening to wrong-foot investors who are heavily positioned for this year’s bond slum…",
+   "time": "2026-10-19 08:17",
+   "title": "Korean Stocks Fall as DeepSeek Model, Funding Worry Rattle Chips",
+   "summary": "South Korean stocks resumed declines Monday, as DeepSeek’s latest model sparked concerns over demand for memory chips, compounding market worries over AI financing.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-18/bond-market-s-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips",
      "t": "sec"
     }
    ],
-   "heat": 283.4
+   "heat": 267.6
   },
   {
    "cat": "sector",
-   "time": "2026-10-19 03:00",
-   "title": "CPI Test Set to Make or Break New Zealand Dollar’s Losing Run",
-   "summary": "The New Zealand dollar has fallen for five straight quarters and if analysts are right, it may be on course to test a pandemic-era low.",
+   "time": "2026-10-19 07:24",
+   "title": "Japanese Stocks Decline as Tech Selloff Deepens on AI Worries",
+   "summary": "Japanese equities fell at the open as chip stocks declined amid concerns about the viability of the artificial intelligence trade.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-18/cpi-test-set-to-make-or-break-new-zealand-dollar-s-losing-run",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/japanese-equities-set-to-fall-on-tech-share-selloff-higher-oil",
      "t": "sec"
     }
    ],
-   "heat": 283.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-18 22:23",
-   "title": "Rep. Veasey Calls for Scrutiny of Trump Russia Ties",
-   "summary": "Rep. Marc Veasey, a Texas Democrat, tells Bloomberg This Weekend that President Donald Trump’s recent moves involving Russia and Ukraine warrant greater congressional scrutiny, whi…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-18/rep-veasey-calls-for-scrutiny-of-trump-russia-ties-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 282.6
+   "heat": 267.5
   },
   {
    "cat": "sector",
@@ -377,63 +251,161 @@
      "t": "sec"
     }
    ],
-   "heat": 282.6
+   "heat": 265.9
   },
   {
    "cat": "sector",
-   "time": "2026-10-18 21:53",
-   "title": "Starlink Still Restricted in Ukraine, Trump-Russia Backlash",
+   "time": "2026-10-18 20:00",
+   "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+   "summary": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 265.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 10:10",
+   "title": "Japan Seeks to Quell Fiscal Fears With Outreach in English",
+   "summary": "Japanese Prime Minister Sanae Takaichi’s administration is seeking to assuage persistent market reservations about her management of fiscal policy by providing foreign investors wi…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-19/japan-seeks-to-quell-fiscal-fears-with-outreach-in-english",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 09:54",
+   "title": "Cornell University’s Basu on US-China AI Race",
+   "summary": "Kaushik Basu, Professor at Cornell University and former Chief Economist at the World Bank, discusses the AI race between the US and China, and impact on the global economy. He spe…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-19/cornell-university-s-basu-on-us-china-ai-race-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 09:52",
+   "title": "RBA’s Kent Says Labor Market Loosening Faster than Predicted",
+   "summary": "Australia’s labor market is showing signs it is softening faster than the central bank expected, Reserve Bank Assistant Governor Christopher Kent said, underscoring the tradeoff po…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-19/rba-s-kent-says-labor-market-loosening-faster-than-predicted",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 09:51",
+   "title": "China’s EV Exports Double in September Ahead of Tax Rebate Cut",
+   "summary": "China’s EV Exports Double in September Ahead of Tax Rebate Cut &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnJwWHRQWFZPS3h1NzZPRnVpOE5lVHRVc0k3TmJWX1J0bHhRMjZPam02N3haQjZKTWhOYVNZTFRWNTREYi1JYjhfYTE1LU1sWXZzQnhHcnNuc194ZEtldTl2OHNMRDNlbnd5UlZOY0xBZm1CLVZnc2ozUk5zbTFRek9WWTdlTkcyTk1PTzdocmhvYlgxUno2UTlaQjBKcVlwQjdnUVdPMk1OM3loQ0JDd29tcFdvLUk?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 09:42",
+   "title": "WSJ: Putin Floats Ukraine Summit with US-China, France Protests",
    "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-18/starlink-still-restricted-in-ukraine-trump-russia-backlash",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-19/wsj-putin-floats-ukraine-summit-with-us-china-france-protests",
      "t": "sec"
     }
    ],
-   "heat": 282.5
+   "heat": 263.8
   },
   {
    "cat": "sector",
-   "time": "2026-10-18 21:52",
-   "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
-   "summary": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the country's military has prepared a response to any new attacks.",
+   "time": "2026-10-19 08:56",
+   "title": "Japan PM Takaichi’s Public Support Slips After Cabinet Scandal",
+   "summary": "Public support for Japanese Prime Minister Sanae Takaichi slipped after a member of her cabinet resigned over a scandal, opinion polls show, but her approval ratings remain relativ…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-19/japan-pm-takaichi-s-public-support-slips-after-cabinet-scandal",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 08:49",
+   "title": "AI Will Empower India's Space Missions, Says Minister",
+   "summary": "Jitendra Singh, the Indian science & technology minister says that artificial intelligence is a great advantage in empowering India's space missions. Speaking to Bloomberg's Shery …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-19/ai-will-empower-india-s-space-missions-says-minister-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-19 08:46",
+   "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates",
+   "summary": "The S&P 500 lost nearly 2% last week, its biggest weekly decline since late June. The Nasdaq fell 4.5%, snapping a four-week winning streak.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+     "u": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
      "t": "sec"
     }
    ],
-   "heat": 282.5
+   "heat": 263.7
   },
   {
-   "cat": "stock",
-   "time": "2026-10-19 06:07",
-   "title": "US Stock Futures Bounce From Tech Rout, Oil Slips: Markets Wrap",
-   "summary": "US stock futures rebounded from Friday’s technology-led selloff and oil slipped as investors turned to a packed week of corporate earnings and Chinese economic data for direction.",
+   "cat": "sector",
+   "time": "2026-10-19 07:59",
+   "title": "Meta Says Claude AI Tool Triggered No Kings Instagram Suspension",
+   "summary": "Meta Platforms Inc. said an automated security system mistakenly suspended the Instagram account of the No Kings Coalition at the height of a nationwide series of demonstrations.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/meta-says-claude-ai-tool-triggered-no-kings-instagram-suspension",
      "t": "sec"
     }
    ],
-   "heat": 103.9
+   "heat": 263.6
   },
   {
-   "cat": "stock",
-   "time": "2026-10-19 05:00",
-   "title": "Kioxia Shares Face Headwinds From Margin-Buying Gone Wrong",
-   "summary": "Kioxia Holdings Corp. shares face further downward pressure because of a buildup of positions from investors who borrowed to buy the stock on the assumption it would rise, and now …",
+   "cat": "sector",
+   "time": "2026-10-19 07:00",
+   "title": "Taiwan Dollar Bulls Look Past AI-Led Selloff to Year-End Rally",
+   "summary": "The Taiwan dollar’s weakness led by global jitters over the artificial intelligence trade is masking the island’s underlying economic resilience that favors the currency’s rally in…",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-18/kioxia-shares-face-headwinds-from-margin-buying-gone-wrong",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-18/taiwan-dollar-bulls-look-past-ai-led-selloff-to-year-end-rally",
      "t": "sec"
     }
    ],
-   "heat": 99.7
+   "heat": 263.4
   },
   {
    "cat": "stock",
@@ -447,77 +419,35 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
-   "time": "2026-10-18 21:20",
-   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-   "summary": "",
+   "time": "2026-10-19 10:07",
+   "title": "Indonesian Stocks Tumble to Lowest Since 2020 After MSCI Warning",
+   "summary": "Indonesian stocks extended their selloff, deepening their worst rout in almost 30 years after MSCI Inc. warned that the country risks losing its emerging-market status, fueling fea…",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4956082",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-18 21:01",
-   "title": "Mink Brook asset management, 10% owner, rebalances $736,666 in DLH stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/mink-brook-asset-management-10-owner-rebalances-736666-in-dlh-stock-93CH-4956076",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-18 20:31",
-   "title": "Park Ohio Holdings CLO Vilsack sells $207,112 in common stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/park-ohio-holdings-clo-vilsack-sells-207112-in-common-stock-93CH-4956066",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-18 20:01",
-   "title": "Park Ohio secretary & CLO Vilsack sells $148,000 in common stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/park-ohio-secretary--clo-vilsack-sells-148000-in-common-stock-93CH-4956057",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-18 08:00",
-   "title": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks",
-   "summary": "A deepening selloff in US technology stocks is exposing a new vulnerability in Asia’s artificial intelligence trade: mounting financing costs could choke off the spending needed to…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-19/indonesian-stocks-tumble-to-lowest-since-2020-after-msci-warning",
      "t": "sec"
     }
    ],
-   "heat": 88.2
+   "heat": 75.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-18 06:09",
+   "title": "iPath Series B S&P 500 VIX Short-Term Futures ETN (VXX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "summary": "iPath Series B S&P 500 VIX Short-Term Futures ETN (VXX) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45ajJEd0FlTi1kOFhWNTI1Y3BzeVo4NUtOWmMybURYSWpwNzRaYmNSRDZBeDVPdEVJeUY2aDdiaEJ3Y1c1Z0ZRd2FqM0ZNT0p5?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.3
   },
   {
    "cat": "stock",
@@ -531,21 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-17 07:19",
-   "title": "iPath Series B S&P 500 VIX Short-Term Futures ETN (VXX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "iPath Series B S&P 500 VIX Short-Term Futures ETN (VXX) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45ajJEd0FlTi1kOFhWNTI1Y3BzeVo4NUtOWmMybURYSWpwNzRaYmNSRDZBeDVPdEVJeUY2aDdiaEJ3Y1c1Z0ZRd2FqM0ZNT0p5?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 84.1
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -559,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -573,7 +489,35 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 68.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-16 20:43",
+   "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise, Nasdaq Falls as Bessent Intensifies Economic Pressur - Benzinga",
+   "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Rise, Nasdaq Falls as Bessent Intensifies Economic Pressur &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRUkwb254Z0pwa1dQaWN1YVIyOU5aYTMwZWxaWGZISEN5NE9SSnJIdFdJV1l2cDdQbHhCakU2OGJQTWV5UVF4YnBjaUJhbXp6SHVFcy1DbnJkMlhPbTd4ZFBzRDR4RndtSTVvZlJPYzdXR19tLVRXMVRyVEx4LVZWNzNrMWhmdFBsYWdYMHNsaEV6ZjUwY05yTGJudWtkRWRPQkJjOGZmZ3I2cl9uaUdMbkUxS1BkZnlYQmVGM1g2Y2UzWDQtWGVidDFGdmtwNGF3Q3pGNUVNYjJ0aXFLakNwY1hMN1YzS1lXNXZHQkZ4SU13cXhZNGVpdkVlTldMNFNnTHRBaFBxOGVWT19PeWN3d3U4cXVvZjdSR0RJZUNFY3U?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 68.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-16 06:57",
+   "title": "US Stock Market: What to led to S&P 500, Nasdaq, Dow Jones, Russell 2000 rebound after historic low despit - The Economi",
+   "summary": "US Stock Market: What to led to S&P 500, Nasdaq, Dow Jones, Russell 2000 rebound after historic low despit &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQT1pTWXVKb2kxUzFyMW5oVjBCNE53UXBaRVkwMkZibFBLTWFrdTBZTEhWZ1NmU2l5WnRRLVRGRWZSWi1EOHBGY25aeGdJWW1TcUtlLW5BbjRCY3Bkc3E1cXNUWUhUclVuZzlMbXVsbnVPM0JXSHRwdVpfUlpjM25SYTB3TXo1eVBmOVhEWWFaSjlIa1d2TXlqVWEzN3luVWo2MVpPTzlsTlkxQmZxVlRPUGRDXzdUSXc4Umd4ZVpLRWNENUZnNl82X2EyemVrdUJZTFdZNzAyclU5MWtSM0xic0paTVo5NlpvUkluamUxX0VOYmFSNHhGcHVtemtkNzZrVGF6Wi1keUFZZXNkbTBIUEtERkNZY2hyMmJoRzNRTjhJaXZScjRReGN1UnlBeDZZQVVfVndaQdIBvAJBVV95cUxQMEtDalFxbGJmNGEyNi1WSkVnNGxaWGs0UHFWazZSN1VBSmd5RXQ5eXVodGQ5TTRzMWxsNElLQlJrWnBwcXhhN0RQLVZsR0lzNlEtbGpFVnh0bGRTT25oSmFOVEhoYkJxanJRakxLSkU1Vi1zd3g5ZjdmTHp2YklmdHFSWkdUZzFtU2d1UXdqd2tVR1VVeUZ3aVRsczBFWTMzZGNIN0RZc1pyelN0NFdKd2dDOERsVEF5eXF0bkJpUFI3TFNBUGZLeXFwNXNCYVdJT2t4WndseTVHTTlvLVpRMG1qbHRPY0E2dlR1RzlfQ0Jndl85ZTZEWHZiUUs0VkNaZ2VfU0lnY1FkVVdjOXI3bzZ0Y2k3Q1NWaWxLc0wzMjhJZXo5WnBqejd4elB1Y2h2R2s4ZDE1V2NaZzZf?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -587,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -601,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -615,35 +559,63 @@
      "t": "sec"
     }
    ],
-   "heat": 84.0
+   "heat": 68.0
   },
   {
-   "cat": "global",
-   "time": "2026-10-19 06:22",
-   "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
-   "summary": "Fires broke out at an oil terminal and depot in St. Petersburg after Ukraine launched a massive wave of drone strikes on Sunday.",
+   "cat": "stock",
+   "time": "2026-10-14 02:00",
+   "title": "Could the US stock market crash in October? What are the Dow Jones, S&P 500 and Nasdaq showing? Here’s wha - The Economi",
+   "summary": "Could the US stock market crash in October? What are the Dow Jones, S&P 500 and Nasdaq showing? Here’s wha &nbsp;&nbsp; The Economic Times",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPT0cwS3FaNTEyMFdzX1ZaWkY0eTFQMUhKSTdBNVliSy16NUVqU2E4Tkt2U2FUZWJWNmJEUEZWOTlmNUZqQTFMbVdHM2tBNjh4b0V4M2tjZm9lcnI0YmQ5WXFlZVg1NlRnZVg4WXRXWVkyb0FIeW1NaERRUTQ2dGxnSDAybDd6VnZNZUY1Vkw4VVQ3QmhxV2RSdTZCNHgyb3VHbWtoSFZkQ0RGR2htUXhodVMyaGFJNE1pWWM2ZHpYdHUyaFFPRlRiX0JhTHNYZDNXX09tYXgxLWxsWUVIdmgwNXdhSUdjWkF6cGIxemtKQnBKU2F6MHNTNXEweEtWVlduWGF6alRkM2dBRmVCV0l0cGRBUXp1RFFzRlpxTDV6QXFWcU5LNGxXRThLOWgtTko50gG2AkFVX3lxTE5TdGdqZ1pQLXN0aHAydjBKTkFDMkM5b0RzVFFqczJEcmUzaTVYR3l2RnVBSGhpanNpa2xha3BpWEc2TzRZUkZJRTRyUVdJMFVVSi11UWh0NG1ScERQS2dKX2Nkd3VDRXNjLVJ5d19pY2V0aDZ3NmN5ZTIyV2o2c0plZXpOQ2djaWE3aGQzWEljMzEyb1dLVENOdGRiMGRvejN4MW9fMW1fcFI4b2hVekxYTDJOLXVUcTRteHkxWDE0NENnY2dIRi1nektHQjRyeklnWWQ3ZmwtTnIxdUVMSDUweGNySnNzVUpxbXE0bmcyUmVidW44RUdJU0JfQzhGX0NheUFFSXVRNXZtWXQ1Mm1mYnJvbVQtbGkyZEZXU3MyZFJ4SjBuQTVKU0NwT1dlUFhWVHJSU1E?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 23.9
+   "heat": 68.0
   },
   {
-   "cat": "global",
-   "time": "2026-10-19 06:02",
-   "title": "Latest Oil Market News and Analysis for Oct. 19",
-   "summary": "Oil steadied after jumping on Friday, as flareups in fighting in the Middle East and Ukraine dimmed the prospect of a return to normal crude flows.",
+   "cat": "stock",
+   "time": "2026-10-14 01:59",
+   "title": "Will the Stock Market Crash in 2026? 5 Risks to Consider | Investing - U.S. News - Money",
+   "summary": "Will the Stock Market Crash in 2026? 5 Risks to Consider | Investing &nbsp;&nbsp; U.S. News - Money",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-18/latest-oil-market-news-and-analysis-for-oct-19",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWk5OQUItYlZ0a3dDV0lIWVJZcVNhSm5sQXpKY052RGJNd1lwX25IZ2JJVW50WG44WGRLYXR3cG12bUF5NThuZlFMTkdGbHBONkdJYXpMSjVXeEJsMks1RnZXa3U2SC1PdmtYZ0ZJVEdaTDVXRFVCcWY1cDd0OUNRN0ZfYlI4NkRDRlpiZQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 23.9
+   "heat": 68.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-13 20:33",
+   "title": "Stock Market Today: Dow Jones Futures Gain, Nasdaq, S&P 500 Falls as Scott Bessent Says Iran's Economy Is - Benzinga",
+   "summary": "Stock Market Today: Dow Jones Futures Gain, Nasdaq, S&P 500 Falls as Scott Bessent Says Iran's Economy Is &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQYm04Q1VfLWNuMGpHTHN0NUpxbzA4cHBneW50MGpMSUFtZHNEQ0Q2anNDdlg0dzRMbnR2d0hNWnlscGJmUXpXbWVPX0xGRlhKZ1Fjd01rSkVSWko4Vm1taGoyUmdnOVZqSF9zcTVoVkpvRjRoNGc5aC0zOXB1VHBSY1BtdEJwdUtWSlBBamRnZV9hTzR4cUMzTWFDR2Z2dGVWVzZtT3ludVlZSk1OT0VMNnoyMGJjZWRYYy1ncjBjWEdVZENrMzlXZmVyRHVGbUd2elMyTVNKcFlnX1hfS0xNaHBWak5JU0FPNVp1Z2pYdllaamhfZHk2S3pMZllCcDBHVlE3bEV4cW9uajRNZDRFNnE3WWZBamJKaG5sRGM4ZHhmaGpPQUdaMQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 68.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-13 20:10",
+   "title": "US Stock Market prediction for Tuesday: S&P 500, Nasdaq set for volatile trading at Wall Street, Dow Jones - The Economi",
+   "summary": "US Stock Market prediction for Tuesday: S&P 500, Nasdaq set for volatile trading at Wall Street, Dow Jones &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPRlAzczhkTXlFR3F4QXhkbWdQNzFzb2JGYWV5VHBDRS1nRlJBTXQ1SnNESWs5bVFWRzVmLUpMdk56a0hYQmV0enVyUE5mbkZtYVdlRjBoenY1em94M2NDb0Q5WVhwaGliR0wweUV3Z2prdjFKeDJUMExXN2xJVUpqcjVuZEZhVWFjV3M2Zm16Q1FKVW15OXV3OGxqYjZGSlIwQUd3cmlTMDFhOFNnci1jMUhoZEZMV2hfS003UlROakxudjdxN2JhTDF1Tk5hdUx2bGMzN1l1V2xScVRsbnlQZnEzZ2pYclhYNGRqbUpFTG81anQ4LTVNcGZFcnhMY2F3UTRXN0RpS01kblFxakRmalVOR1R0bHFXUWd3V2hwLUVuYVlPSlJBNTdCaG9CQUxwdzZER3dqSE81elE0MFJFbFdIQ0VNSHVaVk5TbWpEbWpMYXFpNms4SU5DcmFwamxtOFY3REVwRFUtd0FHQ0pqY2R4eGx1NDE5a05YSWNyVWVrYkpwTlF6WWNBWVRncTZQWm11V2piZktJNmhHR19vS2JscXUzZlJLRG9JT09uVlN2WDcteVHSAbsDQVVfeXFMT3RCYV96bXBDdWN3bGNlOUlieVpYamZ0T253ZHVuWkZLRjRCVGRUX095UU9wQW05WXc0VWVJUmNHWVpiZTBqbWhQT0c1RHVVQUV1eDNaWUw4ZE1PTl9JUlJXank5Qk1neGU0S0h0VGhGaHhiRjN1MGU5SDJ5Unlqd1pNVzBlNk1ucVFHaUdUdGNRUm1vcWhJdVBsUDBmWHhVMEZzM0xfd2JjNjhyOUxzZEZHbFlYUjhRUmlTcmdwdHdLUzJUOVlqQ1E2aUdPbHB5Sy1IdHJYSGhRTW9manIzMXVwQjItenB2Y0JjeHkwelRGdHBYMTVfUmNOX21aMzlKZ09tcXJaWEpGOWNyWlVwRzl5V3pGM1pRODQxMi1SOFRYRWhfdFRIYUV1MkE4eXAtbzNadFFRMHY4ZzNsOVExakJ2NEsxdzVqcXA3aHdUT2wtYkdlZXNxRV9wMlBwbDNxUF9yLUJCR3JTdWxUazZKOGtIellmczBRYXg5N09LaDlqLS14N1ZFZ21qS0VYZUVBLWtpdHV1Q3hRbkdrZlhwdU8ycS0wMVZHdjhsejhmT2tKUUNnOVl1LVc1alE?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 68.0
   },
   {
    "cat": "global",
@@ -657,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.2
+   "heat": 14.6
   },
   {
    "cat": "global",
@@ -671,7 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 14.0
+   "heat": 6.0
   },
   {
    "cat": "global",
@@ -731,17 +703,31 @@
   },
   {
    "cat": "global",
-   "time": "2026-10-08 18:10",
-   "title": "央行系统性阐述汇率立场！人民币汇率不预设目标，重点防范短期破坏性超调",
-   "summary": "央行系统性阐述汇率立场！人民币汇率不预设目标，重点防范短期破坏性超调 &nbsp;&nbsp; 财联社",
+   "time": "2026-10-12 20:07",
+   "title": "U.S. Stock Market Preview | Iran says the U.S.'s ongoing economic warfare will hinder the restoration of security in the",
+   "summary": "U.S. Stock Market Preview | Iran says the U.S.'s ongoing economic warfare will hinder the restoration of security in the Strait of Hormuz, pushing Brent crude up by more than 1%; s…",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiSnpVbmNxa2NvaG9QcGhsWVlWNTBzTTdZakxBWG13X0ZBYmhMSFhHSHZTNWR3N3MwMFA3b3JPdjNjMXhuM0dTUQ?oc=5",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUh2WkFTMXpaZVc5cUVMdEtrOVpySnJmT1VSRFBfem9jb0lnNnRSbWgwWjIwNEFwbTNXYjNVZ0FyaFFoX19HRjNtVXdsR3BqRHphTDVoSFRfSWpGQmp6ODRWZU4zUW8wRlRLRUk5NkRPcWJlbVdzZWxublVnQ2xpU3RXQlo5ZWxJU3BWaGEweWtaM0ZuVjNxVg?oc=5",
      "t": "sec"
     }
    ],
    "heat": 4.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-19 10:00",
+   "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+   "summary": "The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.9
   },
   {
    "cat": "crypto",
@@ -755,21 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 58.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-16 23:52",
-   "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-   "summary": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 56.0
+   "heat": 57.9
   },
   {
    "cat": "crypto",
@@ -783,7 +755,35 @@
      "t": "sec"
     }
    ],
-   "heat": 50.6
+   "heat": 53.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-19 09:03",
+   "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+   "summary": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-19 06:58",
+   "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+   "summary": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.4
   },
   {
    "cat": "crypto",
@@ -797,7 +797,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.3
+   "heat": 50.6
   },
   {
    "cat": "crypto",
@@ -811,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.9
+   "heat": 50.2
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.4
+   "heat": 49.7
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.0
+   "heat": 49.4
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.8
+   "heat": 49.1
   },
   {
    "cat": "crypto",
@@ -867,13 +867,13 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 44.0
   },
   {
    "cat": "crypto",
    "time": "2026-10-19 00:33",
-   "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
-   "summary": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.",
+   "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
+   "summary": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin markets suggest the sam…",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.0
+   "heat": 22.3
   },
   {
    "cat": "crypto",
@@ -895,49 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 26.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-18 19:03",
-   "title": "Bitcoin trapped at $80,500 support, breakdown risk: Live levels",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-     "t": "agg"
-    }
-   ],
-   "heat": 24.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-18 20:30",
-   "title": "What’s Happening in EM: Latin America’s Post-Vote Test (Podcast)",
-   "summary": "Carolina Wilson speaks to Eric Fine, who manages emerging-market debt at VanEck, about whether Latin America’s rally has more room to run as the region shifts to the right — and th…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-18/what-s-happening-in-em-latin-america-s-post-vote-test-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 18.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-17 18:03",
-   "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-   "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 17.9
+   "heat": 21.7
   },
   {
    "cat": "crypto",
@@ -951,7 +909,21 @@
      "t": "sec"
     }
    ],
-   "heat": 17.3
+   "heat": 16.6
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-17 18:03",
+   "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+   "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 13.2
   },
   {
    "cat": "sector",
@@ -965,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 276.0
+   "heat": 256.0
   }
  ]
 }
