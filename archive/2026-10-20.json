@@ -1,20 +1,6 @@
 {
- "updated": "2026-10-20 10:49",
+ "updated": "2026-10-20 16:04",
  "items": [
-  {
-   "cat": "macro",
-   "time": "2026-10-20 07:55",
-   "title": "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path",
-   "summary": "Gold held a decline, as elevated oil prices fueled inflation concerns and clouded the Federal Reserve’s path for interest-rate hikes.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-19/gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path",
-     "t": "sec"
-    }
-   ],
-   "heat": 99.5
-  },
   {
    "cat": "macro",
    "time": "2026-10-18 09:46",
@@ -27,21 +13,7 @@
      "t": "agg"
     }
    ],
-   "heat": 90.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-20 08:34",
-   "title": "Treasuries Losing Luster as Hedge Tool, Citi Australia CEO Says",
-   "summary": "Treasuries are losing their luster as a portfolio hedge as increasing supply, persistent inflation and rising neutral rates weaken their appeal, according to Citigroup Inc.’s top A…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-20/treasuries-losing-luster-as-hedge-tool-citi-australia-ceo-says",
-     "t": "sec"
-    }
-   ],
-   "heat": 87.6
+   "heat": 62.0
   },
   {
    "cat": "macro",
@@ -55,21 +27,63 @@
      "t": "agg"
     }
    ],
-   "heat": 79.1
+   "heat": 54.3
   },
   {
    "cat": "macro",
-   "time": "2026-10-20 10:34",
-   "title": "PBOC Rate Shift Plan Would Lower Borrowing Costs: Analysts",
-   "summary": "The People’s Bank of China’s consideration of shifting its policy rate benchmark to the overnight reverse-repo rate would effectively lower borrowing costs, supporting bond investm…",
+   "time": "2026-10-20 15:33",
+   "title": "PBOC Faces Multi-Month Road to New Rate Anchor, Analysts Say",
+   "summary": "China’s central bank may be embarking on a multi-month transition toward an overnight policy interest rate, a shift that will require more frequent liquidity operations using the n…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-20/pboc-rate-shift-plan-would-lower-borrowing-costs-analysts",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-20/pboc-faces-multi-month-road-to-new-rate-anchor-analysts-say",
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 51.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-20 14:51",
+   "title": "UK Jobs Data, Wage Growth Strengthens Case for Bank of England Rate Hikes",
+   "summary": "Plus, the Chancellor rules out increasing capital gains tax in the budget",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-10-20/uk-jobs-data-wage-growth-strengthens-case-for-bank-of-england-rate-hikes",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-20 12:42",
+   "title": "AI Tool That Hacked Korean Banks Was Used in Japan, GMO Says",
+   "summary": "The hackers who recently infiltrated some of Japan’s biggest companies used an AI tool developed in China and linked to a rash of breaches at South Korean banks last month, accordi…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-20/ai-tool-that-hacked-korea-banks-were-used-in-japan-gmo-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-20 11:59",
+   "title": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout",
+   "summary": "Bank Indonesia faces growing pressure to raise rates after MSCI’s threat to cut its market to standalone status triggered a rout in stocks, weakened the rupiah.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/20/indonesia-msci-inflation-interest-rate-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.3
   },
   {
    "cat": "macro",
@@ -83,35 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-20 09:04",
-   "title": "Takaichi Reaffirms No Deficit Bonds to Fund Food Sales Tax Cut",
-   "summary": "Japanese Prime Minister Sanae Takaichi reiterated that she won’t rely on special deficit-covering bonds to fund a sales tax cut on food after her earlier remarks sparked speculatio…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-20/takaichi-reaffirms-no-deficit-bonds-to-fund-food-sales-tax-cut",
-     "t": "sec"
-    }
-   ],
-   "heat": 67.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-20 08:00",
-   "title": "French Protests Taper Off as Officials Admit Failure",
-   "summary": "French officials have rolled out tougher security measures and pledged aid for businesses after cost-of-living protests degenerated into violence, vandalism and looting. Bloomberg'…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-20/french-protests-taper-off-as-officials-admit-failure-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 67.5
+   "heat": 51.0
   },
   {
    "cat": "macro",
@@ -125,35 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 65.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-19 18:57",
-   "title": "Indonesia to Remove Tightly Held Stocks From Benchmark Index",
-   "summary": "Indonesia will remove stocks with concentrated ownership from its benchmark equities index, the latest effort to avert a possible downgrade of its market status by MSCI Inc.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-19/indonesia-to-exclude-tightly-owned-stocks-from-benchmark-index",
-     "t": "sec"
-    }
-   ],
-   "heat": 65.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-19 16:58",
-   "title": "China Plans to Adopt New Policy Rate That May Lead to Easing",
-   "summary": "China’s central bank signaled its overnight reverse repurchase rate will replace the current seven-day rate as the new policy benchmark, in another step that aligns it closer with …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-19/china-signals-plan-for-overnight-rate-to-play-bigger-policy-role",
-     "t": "sec"
-    }
-   ],
-   "heat": 65.0
+   "heat": 48.7
   },
   {
    "cat": "macro",
@@ -167,21 +125,7 @@
      "t": "agg"
     }
    ],
-   "heat": 64.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-19 13:08",
-   "title": "Week Ahead: Rates, AI, and Oil",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/week-ahead-rates-ai-and-oil-200689783",
-     "t": "agg"
-    }
-   ],
-   "heat": 62.4
+   "heat": 47.5
   },
   {
    "cat": "macro",
@@ -195,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 44.0
   },
   {
    "cat": "macro",
@@ -209,21 +153,63 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 44.0
   },
   {
-   "cat": "sector",
-   "time": "2026-10-20 05:44",
-   "title": "Tenstorrent CEO on New Funding Round, AI Progress",
-   "summary": "Tenstorrent CEO Jim Keller discussed the chip startup’s $1.5 billion funding round, which values the company at about $6.2 billion. He said the company is focused on scaling its Ga…",
+   "cat": "macro",
+   "time": "2026-10-20 14:25",
+   "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+   "summary": "U.S. Department of Homeland Security has banned DeepSeek-related technology from federal civilian agency IT systems.",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-19/tenstorrent-ceo-on-new-funding-round-ai-progress-video",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
      "t": "sec"
     }
    ],
-   "heat": 263.2
+   "heat": 23.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-20 05:55",
+   "title": "Toronto Stock Exchange: S&P/TSX Composite Slides Below 36,000 as Canadian Inflation Hits 3.1% - BBN Times",
+   "summary": "Toronto Stock Exchange: S&P/TSX Composite Slides Below 36,000 as Canadian Inflation Hits 3.1% &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRlBCbjQ2bmpZaHNNSC1uS004SzdOWW9idnV4SHIwbjBKVHRsVm8xTnhWMTlVcFQwRm40YUtMMml5UXBMbnZ4emJYQlpkM3pUOUR4UnI1RGl4X2tXM0Y4VEpaYWxQdDdsWVlmYVNhMFNmaVZRRmUwZ1hnYVZicHZ0VnZIMVJGcTRFSDZSNF9sMHlOSHQxVDZjRHBTOGxjMXJuWXdreGxWdkVaMVNCVlBWZFJ3NzFod0tSekZRb2hkSGJFMk9oTzNLOG5kSQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 22.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-19 21:37",
+   "title": "US Moves to Bar China’s DeepSeek From Federal Agency Systems",
+   "summary": "The Trump administration barred civilian US government agencies from using products or services from Chinese artificial intelligence startup DeepSeek, citing a potential threat to …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts",
+     "t": "sec"
+    }
+   ],
+   "heat": 20.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-14 14:50",
+   "title": "14:50:16【罗素投资：美联储可能在10月会议上暂停加息 但预计将在12月再次提高利率】",
+   "summary": "14:50:16【罗素投资：美联储可能在10月会议上暂停加息 但预计将在12月再次提高利率】 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WSXBGbHRKczd5dHVvb1U4Mk9Ec1Y4bTFWWXFXRExEMWQ5WlprRkREUU1WZkZET2g5NTVrcFZNQXA4bGVaTHE1bQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 20.0
   },
   {
    "cat": "sector",
@@ -237,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 256.0
+   "heat": 252.0
   },
   {
    "cat": "sector",
@@ -251,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 256.0
+   "heat": 252.0
   },
   {
    "cat": "sector",
@@ -265,82 +251,166 @@
      "t": "sec"
     }
    ],
-   "heat": 256.0
+   "heat": 252.0
   },
   {
    "cat": "sector",
-   "time": "2026-10-20 10:16",
-   "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
-   "summary": "Nvidia announced planned investments in four German startups as Chancellor Friedrich Merz urged businesses to embrace AI at an industry summit in Berlin.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-20 10:07",
-   "title": "SoftBank Group Credit Risk Hits 4-Year High on AI Funding Strain",
-   "summary": "SoftBank Group Corp.’s credit risk, as measured by its credit-default swaps, has risen to the highest level in nearly four years as concerns grow over AI-related funding and a pote…",
+   "time": "2026-10-20 15:31",
+   "title": "Saudi Arabia Delays Flagship Investment Summit to 2027 After Houthi Attacks",
+   "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-20/softbank-group-credit-risk-hits-4-year-high-on-ai-funding-strain",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-20/horizons-middle-east-africa-10-20-2026-video",
      "t": "sec"
     }
    ],
-   "heat": 255.9
+   "heat": 251.9
   },
   {
    "cat": "sector",
-   "time": "2026-10-20 10:00",
-   "title": "Alibaba Backs Chinese Robovan Maker in $400 Million Fundraising",
-   "summary": "Neolix Technologies Co., a Chinese maker of driverless delivery vehicles, raised $400 million to fuel its global expansion.",
+   "time": "2026-10-20 15:19",
+   "title": "What’s making Europe so angry? The frustration behind the protests",
+   "summary": "Protests broke out in France and several European countries as people railed against living costs, poor schooling conditions, and a housing crisis.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-20 15:14",
+   "title": "CNBC Daily Open: Tech rebounds in the U.S., but Asia isn’t buying it yet",
+   "summary": "The Nasdaq Composite gained more than 1% after last week’s sell-off, led by advances in Tesla, Nvidia and Alphabet.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/20/daily-open-tech-stocks-rebound.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-20 15:11",
+   "title": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
+   "summary": "Washington has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties to a startup accused of stealing technology from Alphabet In…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-20/alibaba-backs-chinese-robovan-maker-in-400-million-fundraising",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-20/us-sanctions-china-s-y-combinator-in-google-ai-secrets-case",
      "t": "sec"
     }
    ],
-   "heat": 255.9
+   "heat": 251.9
   },
   {
    "cat": "sector",
-   "time": "2026-10-20 09:53",
-   "title": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
-   "summary": "Vice President JD Vance declined to follow Trump in endorsing Netanyahu, saying he’s “not getting involved in Israeli elections” a week before Israelis vote.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-20 08:57",
-   "title": "Malaysia’s Anwar Says No Financial Support Agreed for AirAsia",
-   "summary": "Malaysia hasn’t agreed to provide financial support to AirAsia Group Bhd. even as the airline faces losses from a sharp rise in jet fuel prices following the Middle East conflict.",
+   "time": "2026-10-20 15:06",
+   "title": "Nomura Fined Over Late Commerzbank Disclosures in UniCredit Bid",
+   "summary": "Nomura Holdings Inc. was fined by Germany’s markets regulator which found that the firm failed to disclose voting rights in Commerzbank AG in a timely manner.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-20/malaysia-s-anwar-says-no-financial-support-agreed-for-airasia",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-20/nomura-fined-over-late-commerzbank-disclosures-in-unicredit-bid",
      "t": "sec"
     }
    ],
-   "heat": 255.7
+   "heat": 251.8
   },
   {
    "cat": "sector",
-   "time": "2026-10-20 08:33",
-   "title": "Three big takeaways from the IMF-World Bank meetings",
+   "time": "2026-10-20 14:48",
+   "title": "S&P 500 Forecast: SPX set for a weekly decline led lower by tech as AI worries linger - StoneX",
+   "summary": "S&P 500 Forecast: SPX set for a weekly decline led lower by tech as AI worries linger &nbsp;&nbsp; StoneX",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZktHLXhFSHBWaVlnbUxVVENzb19pd1NaRkFqQndETFFpbzhBUENraThmMkp2WU1UVC1meXdROUJhVFV5UzFRYzN6WWo1MXF1OGdpRV85VnpzaWZvWFk3cmVDbUthZkRtcVEwVUlldG9OVnBpcFJES0tXN1FZY0xDUzVOX1NmOXhybFlPOHFLMXZZTUl2UG9kSGJJVjRqLWtxb0tnem5qUGkzbURXc1R5SnY1aksyLURnWkRacXVDN2ZfX2JOU2hmQmNpWGkzMGc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-20 14:34",
+   "title": "Disastrous Neocloud Debut Reignites Market Fears Over AI Boom",
+   "summary": "Get caught up.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-10-20/disastrous-neocloud-debut-reignites-market-fears-over-ai-boom",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-20 14:11",
+   "title": "Huawei Auto Spinoff Partners With CATL on Automated Battery Swapping",
+   "summary": "Huawei Auto Spinoff Partners With CATL on Automated Battery Swapping &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY2hGZUNwdlJBX2U5TG5fcy1iNHFnaWZJY2FrSkxfWlJPNnBRTDNMb0hOOWFuYnk5N1J4SnVjQ1QxRlJpUnZZRl9WTWVENm0xU2VkeXZtZzdNR2FoZTBRdHkyd2NKWkl6ZnU0c1RPVDZFZjB3WWdRM1F4NFFtMTM1WjFZdjdfajNycy1ydWE4SGt0enRWUUpPRTk4dU0tLVZHejFJWmZFdGJsa19PZFNhQktYck40VXhjYy1UVEtHb1Y?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-20 14:03",
+   "title": "China’s Huachen Energy Risks Fresh Default on $956 Million Debt",
+   "summary": "Chinese power generation firm Huachen Energy Co. told a group of bondholders that it faces difficulties repaying $956 million in bonds due in December, raising the risk of fresh de…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-20/china-s-huachen-energy-risks-fresh-default-on-956-million-debt",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-20 14:00",
+   "title": "Cybersecurity Startup Blackwall Joins Unicorns With Fundraising",
+   "summary": "Cybersecurity and web infrastructure firm Blackwall is the latest Estonian startup to join the ranks of unicorns.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-20/cybersecurity-startup-blackwall-joins-unicorns-with-fundraising",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-20 13:36",
+   "title": "Anthropic in Talks for $45B Nscale Cloud Computing Deal",
+   "summary": "AI cloud computing firm Nscale is in talks to sell computing power to Anthropic in a deal that could be worth about $45 billion, according to people familiar with the matter. Bloom…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-20/anthropic-in-talks-for-45b-nscale-cloud-computing-deal-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-20 13:27",
+   "title": "The world’s finance chiefs see new risks — and less China angst",
    "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
    "srcs": [
     {
@@ -349,147 +419,21 @@
      "t": "sec"
     }
    ],
-   "heat": 255.6
+   "heat": 251.6
   },
   {
-   "cat": "sector",
-   "time": "2026-10-20 08:13",
-   "title": "Data Center Firm Elice Plunges 33% in Debut Sunk by AI Worry",
-   "summary": "Data-center infrastructure company Elice Inc. plunged in its trading debut in South Korea, dragged down by swirling concern about the outlook for the industry.",
+   "cat": "stock",
+   "time": "2026-10-20 15:39",
+   "title": "MNT-Halan Shares Rise 18% in Egypt Trading Debut After IPO",
+   "summary": "Shares of fintech unicorn MNT-Halan rose as much as 18% as they debuted on the Egyptian stock exchange on Tuesday after the country’s biggest initial public offering in dollar term…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-20/data-center-firm-elice-plunges-32-in-debut-after-korea-ipo",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-20/mnt-halan-shares-rise-18-in-egypt-trading-debut-after-ipo",
      "t": "sec"
     }
    ],
-   "heat": 255.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-20 07:00",
-   "title": "Z.AI Founders Worked on Research Funded by China Institute UK Tied to Spies",
-   "summary": "Four founders of one of China’s most promising artificial intelligence companies, Z.AI Co., worked on research in a joint project with a technology institute that the UK government…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-19/z-ai-founders-worked-on-research-funded-by-china-institute-uk-tied-to-spies",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-20 06:14",
-   "title": "What Neoclouds Like CoreWeave Reveal About the Fragile AI Economy: Big Take Podc",
-   "summary": "What CoreWeave’s financial strain reveals about the AI boom and what lies ahead for cloud infrastructure providers.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-19/what-neoclouds-like-coreweave-reveal-about-the-fragile-ai-economy-big-take-podc",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-20 06:08",
-   "title": "Big Take: CoreWeave and the Fragile AI Economy (Podcast)",
-   "summary": "Source: Bloomberg, 16:33",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-19/big-take-coreweave-and-the-fragile-ai-economy-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-20 06:06",
-   "title": "Alger’s Crawford: There’s Skittishness in the Market",
-   "summary": "Ankur Crawford, a Portfolio Manager at Alger and Former Intel Engineer, said recent market nervousness around AI— including concerns tied to CoreWeave—does not reflect the strength…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-19/alger-s-crawford-there-s-skittishness-in-the-market-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-20 06:09",
-   "title": "Asian Stocks Decline in Break From US Chip Rally: Markets Wrap",
-   "summary": "Asian stocks dropped, diverging from a chip-led rally on Wall Street, as sentiment toward the artificial intelligence trade remained jittery ahead of key earnings this week that wi…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates",
-     "t": "sec"
-    }
-   ],
-   "heat": 139.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-19 21:38",
-   "title": "US stocks today: S&P 500, Nasdaq climb as AI-linked stocks recover ahead of earnings - The Economic Times",
-   "summary": "US stocks today: S&P 500, Nasdaq climb as AI-linked stocks recover ahead of earnings &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR2tVWFl1V3BoYklvaW9JUVpCb1gweXJqX2ZSV095VkFUZmlOV3B0MXlKNW9ncWhDeENHS3kya0V6alBIQ1ZKdXhxd3JWSjFjeXM1bU9ROWFLbWtkT09RaERxemE4Qm9seHFEOWVuSkJ5ek1Vb3ZRX043RklreUZrT2NMeXBGMnpUYkY4UmgySFhLRVdSZ0hiU3NDazU0dmp3U2FvMTBVRjhjc2F3UmcxQ1MwTHJaZml3ZGRkUXRVT0M0c0JHa1E5ZlVLZERkTkJUSF9rX1FLVGE1dnhsTkQ3OWYtOEJXcEIyNWVWU0s5cmR1NmQ4UHJYaFJ1WlAyTjlDTTNPQWtBRdIBjAJBVV95cUxNR3lRMTg0ODI2U184UmpXOEZwWU9zelpjZ0QwQkF5WWEtRjEtalBnR3p6WVBEdnJnc2ltb2M3cGcyMzVhOEJNRTBTR2xVazBLU1VIWlkzcW4xUnI2UDVNaFVNQ09vQzBIZmFmWnVVVWRsdllXRlNOcWJKV3h0NHFzeXZZTmlEWmIycGgxekdoSkVtbVBYcXZ5TDFVMGp0MlZjZzlOLWZsbWhZZDVBYmczbUZfTXZ4VnB0Y294a1VfQU5Mc2x6RXNyMmwzdnFELVpscnBqRDM3elFjYUM1YzZRRExQZGNpb0NmLWJ4emVid3ppTFVwVDk0ZHV2R1R1VklWd2xDdHBBXzRhSHRh?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 137.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-19 21:33",
-   "title": "US STOCKS SNAPSHOT-S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings - Devdiscourse",
-   "summary": "US STOCKS SNAPSHOT-S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings &nbsp;&nbsp; Devdiscourse",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSnYtQVVrQlhVaWVIZTRESGstMkVocVcyRFdZUjRwZ1RFODkwYnBseFVTNm5sVE9hb2hLcEVNRjNKRVN2S0xENzhQWUhVXy1vY01EdENLeGNyaERnMXBtdUJDRmlDWlNiQXg0WldjVnVIMWZtcGRyclV4VGdacE1XU0VXNDRyZzEtb2tnc1dKbFVuelVBTzN3bFFmcnQ0T1FsdXZuS29pcmxSX09zWENzbE9xUENOMU1EaGpnMW43NjRHQ0FrY1g2dmtpc2ZBYUlvV1N1eDlEU1YzOUdDTmoyU0ZmYlpwejDSAecBQVVfeXFMTkp2LUFVa0JYVWllSGU0REhrLTJFaHFXMkRXWVI0cGdURTg5MGJwbHhVUzZubFRPYW9oS3BFTUYzSkVTdktMRDc4UFlIVV8tb2NNRHRDS3hjcmhEZzFwbXVCQ0ZpQ1pTYkF4NFpXY1Z1SDFmbXBkcnJVeFRnWnBNV1NFVzQ0cmcxLW9rZ3NXSmxVbnpVQU8zd2xRZnJ0NE9RbHV2bktvaXJsUl9Pc1hDc2xPcVBDTjFNRGhqZzFuNzY0R0NBa2NYNnZraXNmQWFJb1dTdXg5RFNWMzlHQ05qMlNGZmJacHow?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 137.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-20 10:49",
-   "title": "Stock futures rise slightly after tech shares rebound to start the week: Live updates",
-   "summary": "The S&P 500 and Nasdaq clawed back some of their steep losses from the week before.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 136.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-20 09:59",
-   "title": "Indonesia’s Tightly Held Stock Cut a Positive Move, Analysts Say",
-   "summary": "The Indonesia Stock Exchange’s plan to remove shares with highly concentrated ownership from its benchmark is a step in the right direction as regulators work to avoid a double mar…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-20/indonesia-s-tightly-held-stock-cut-a-positive-move-analysts-say",
-     "t": "sec"
-    }
-   ],
-   "heat": 135.9
+   "heat": 163.9
   },
   {
    "cat": "stock",
@@ -503,7 +447,63 @@
      "t": "sec"
     }
    ],
-   "heat": 128.0
+   "heat": 136.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-20 13:44",
+   "title": "Sea Starts Enterprise Cloud Foray While Eyeing a Fintech Arm IPO",
+   "summary": "Singapore internet giant Sea Ltd. is starting a new cloud business and weighing a public listing of its fintech arm, seeking to bolster growth and revive a plunging stock.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-20/sea-starts-enterprise-cloud-foray-while-eyeing-a-fintech-arm-ipo",
+     "t": "sec"
+    }
+   ],
+   "heat": 135.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-20 15:30",
+   "title": "Emerging Stocks Are Trading at Their Biggest-Ever Discount to US",
+   "summary": "Soaring earnings estimates for emerging-market companies are pushing stock valuations to a two-decade low versus US peers.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-20/emerging-stocks-are-trading-at-their-biggest-ever-discount-to-us",
+     "t": "sec"
+    }
+   ],
+   "heat": 131.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-20 04:57",
+   "title": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
+   "summary": "Investors are hopeful that last week's pullback was a clearing event for equities, but lingering concerns remain.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 130.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-19 21:33",
+   "title": "US STOCKS SNAPSHOT-S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings - Devdiscourse",
+   "summary": "US STOCKS SNAPSHOT-S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings &nbsp;&nbsp; Devdiscourse",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSnYtQVVrQlhVaWVIZTRESGstMkVocVcyRFdZUjRwZ1RFODkwYnBseFVTNm5sVE9hb2hLcEVNRjNKRVN2S0xENzhQWUhVXy1vY01EdENLeGNyaERnMXBtdUJDRmlDWlNiQXg0WldjVnVIMWZtcGRyclV4VGdacE1XU0VXNDRyZzEtb2tnc1dKbFVuelVBTzN3bFFmcnQ0T1FsdXZuS29pcmxSX09zWENzbE9xUENOMU1EaGpnMW43NjRHQ0FrY1g2dmtpc2ZBYUlvV1N1eDlEU1YzOUdDTmoyU0ZmYlpwejDSAecBQVVfeXFMTkp2LUFVa0JYVWllSGU0REhrLTJFaHFXMkRXWVI0cGdURTg5MGJwbHhVUzZubFRPYW9oS3BFTUYzSkVTdktMRDc4UFlIVV8tb2NNRHRDS3hjcmhEZzFwbXVCQ0ZpQ1pTYkF4NFpXY1Z1SDFmbXBkcnJVeFRnWnBNV1NFVzQ0cmcxLW9rZ3NXSmxVbnpVQU8zd2xRZnJ0NE9RbHV2bktvaXJsUl9Pc1hDc2xPcVBDTjFNRGhqZzFuNzY0R0NBa2NYNnZraXNmQWFJb1dTdXg5RFNWMzlHQ05qMlNGZmJacHow?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 128.9
   },
   {
    "cat": "stock",
@@ -521,17 +521,59 @@
   },
   {
    "cat": "stock",
-   "time": "2026-10-20 10:11",
-   "title": "Indonesia Stocks Rebound as Authorities Step Up Response to MSCI",
-   "summary": "Indonesian stocks rebounded from their worst rout in nearly four decades after authorities unveiled fresh measures aimed at averting a potential two-step downgrade by MSCI Inc.",
+   "time": "2026-10-20 15:23",
+   "title": "Stock Movers: Samsung, Xiaomi, Telkom Indonesia (Podcast)",
+   "summary": "Source: Bloomberg, 4:11",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-20/indonesia-stocks-rebound-as-authorities-step-up-response-to-msci",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-20/stock-movers-samsung-xiaomi-telkom-indonesia-podcast",
      "t": "sec"
     }
    ],
    "heat": 115.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-20 13:47",
+   "title": "FTSE 100 Live: UK Stocks Set to Fall as European Weakness Extends",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/live-blog/2026-10-20/ftse-100-live-pound-uk-jobs-data-bonds-gilts-ai-stocks-french-protests-what-s-moving-uk-markets-right-now-markets-today",
+     "t": "sec"
+    }
+   ],
+   "heat": 115.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-20 12:48",
+   "title": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
+   "summary": "Singapore Senior Minister Shanmugam said the Singapore Exchange had questioned seven firms about their operations and possible links to the haze.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 115.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-20 06:09",
+   "title": "US Stocks Waver, Bonds Gain as AI Rebound Falters: Markets Wrap",
+   "summary": "A rebound in the artificial intelligence trade sputtered after the dismal debut of a South Korean data center firm revived concerns about whether the technology’s spending boom can…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 114.3
   },
   {
    "cat": "stock",
@@ -545,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 114.7
+   "heat": 113.9
   },
   {
    "cat": "stock",
@@ -559,17 +601,17 @@
      "t": "sec"
     }
    ],
-   "heat": 114.0
+   "heat": 113.1
   },
   {
    "cat": "stock",
-   "time": "2026-10-20 02:31",
-   "title": "CTT Pharmaceutical Holdings CEO Ryan Khouri buys $114 in company stock",
+   "time": "2026-10-20 07:46",
+   "title": "ServiceTitan CFO David Sherry sells $85,600 in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/ctt-pharmaceutical-holdings-ceo-ryan-khouri-buys-114-in-company-stock-93CH-4958693",
+     "u": "https://www.investing.com/news/insider-trading-news/servicetitan-cfo-david-sherry-sells-85600-in-stock-93CH-4959034",
      "t": "agg"
     }
    ],
@@ -577,59 +619,115 @@
   },
   {
    "cat": "stock",
-   "time": "2026-10-20 02:30",
-   "title": "Ciena EVP DiPerna sells $308,865 in CIEN stock",
+   "time": "2026-10-20 07:41",
+   "title": "Goldman Sachs cuts Yaskawa Electric stock rating on profit outlook",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/ciena-evp-diperna-sells-308865-in-cien-stock-93CH-4958692",
+     "u": "https://www.investing.com/news/analyst-ratings/goldman-sachs-cuts-yaskawa-electric-stock-rating-on-profit-outlook-93CH-4959020",
      "t": "agg"
     }
    ],
    "heat": 112.6
   },
   {
-   "cat": "stock",
-   "time": "2026-10-20 02:30",
-   "title": "Wayfair director Steven Conine sells $13 million in stock",
-   "summary": "",
+   "cat": "global",
+   "time": "2026-10-20 15:53",
+   "title": "Merz: Europe Underestimating Russia, Alberta Vote Latest, More",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/wayfair-director-steven-conine-sells-13-million-in-stock-93CH-4958690",
-     "t": "agg"
-    }
-   ],
-   "heat": 112.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-20 02:13",
-   "title": "Retail sold off in Q3, but this AI-picked apparel stock is up 18.81%",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/retail-sold-off-in-q3-but-this-aipicked-apparel-stock-is-up-1881-4958679",
-     "t": "agg"
-    }
-   ],
-   "heat": 112.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-17 11:37",
-   "title": "iPath Series B S&P 500 VIX Short-Term Futures ETN (VXX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "iPath Series B S&P 500 VIX Short-Term Futures ETN (VXX) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45ajJEd0FlTi1kOFhWNTI1Y3BzeVo4NUtOWmMybURYSWpwNzRaYmNSRDZBeDVPdEVJeUY2aDdiaEJ3Y1c1Z0ZRd2FqM0ZNT0p5?oc=5",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-20/merz-europe-underestimating-russia-alberta-vote-latest-more",
      "t": "sec"
     }
    ],
-   "heat": 108.0
+   "heat": 28.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-20 13:57",
+   "title": "Merz Warns Europe, France Enforces Curfews, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-20/merz-warns-europe-france-enforces-curfews-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-20 13:51",
+   "title": "Bloomberg Daybreak Europe:Exclusive: Merz Warns Europe (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-20/bloomberg-daybreak-europe-exclusive-merz-warns-europe-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-20 12:18",
+   "title": "14:44:06【淡马锡投资EQT管理的欧洲Scaleup Europe Fund】",
+   "summary": "14:44:06【淡马锡投资EQT管理的欧洲Scaleup Europe Fund】 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UMXdHVDdrT19wUDNtcjY1WWxBTC1kOWxNZnl1VUN6Q1JyVVlJdWpWdXlmRHRKRDM5NGVPcWpSZG5tdk05U19sbQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-20 15:02",
+   "title": "EUR/USD Forecast: France Riots Put Euro’s Channel Breakout to the Test",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/eurusd-forecast-france-riots-put-euros-channel-breakout-to-the-test-200689871",
+     "t": "agg"
+    }
+   ],
+   "heat": 25.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-20 13:00",
+   "title": "Gold at $4,165: Key Support, Resistance, and Geometric Price Projections",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-at-4165-key-support-resistance-and-geometric-price-projections-200689873",
+     "t": "agg"
+    }
+   ],
+   "heat": 25.5
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-20 12:34",
+   "title": "Gold and Silver Test Critical Lows - Is a Rebound Finally in Sight?",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-and-silver-test-critical-lows--is-a-rebound-finally-in-sight-200689870",
+     "t": "agg"
+    }
+   ],
+   "heat": 25.4
   },
   {
    "cat": "global",
@@ -643,7 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 21.0
+   "heat": 24.2
   },
   {
    "cat": "global",
@@ -657,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 20.6
+   "heat": 23.7
   },
   {
    "cat": "global",
@@ -671,119 +769,77 @@
      "t": "agg"
     }
    ],
-   "heat": 20.4
+   "heat": 23.5
   },
   {
    "cat": "global",
-   "time": "2026-10-19 19:53",
-   "title": "Gold Eyes a Technical Rebound — but the Real Test Is Still Ahead",
+   "time": "2026-10-20 12:18",
+   "title": "14:10:05 财联社10月20日电，新台币兑美元贬至32.666，为2025年4月中旬以来最低水平。",
+   "summary": "14:10:05 财联社10月20日电，新台币兑美元贬至32.666，为2025年4月中旬以来最低水平。 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qdDdUZ1FtR28wX0Uya3c2eDZXWUprR1pvTGYxblM0ek1EdDhDTWI0T243VC15UmZ2QnZSM1E1WTNpSG1nanBEMQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 19.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-20 15:41",
+   "title": "Why Japan Bond Sale Drew Record Demand: Market Analysis",
+   "summary": "Anna Edwards, Guy Johnson, and Paul Dobson break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-20/why-japan-bond-sale-drew-record-demand-3-minutes-mliv-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 15.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-20 14:20",
+   "title": "Brent crude holds near five-month high on Middle East tension",
+   "summary": "Oil prices advanced, with Brent hovering around a five-month high as traders priced in a geopolitical risk premium from Houthi attacks on Saudi infrastructure.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/20/brent-crude-holds-near-five-month-high-middle-east-tension.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 15.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-19 13:48",
+   "title": "13:48:30 财联社10月19日电，杰富瑞将3M公司目标价从191美元下调至187美元。",
+   "summary": "13:48:30 财联社10月19日电，杰富瑞将3M公司目标价从191美元下调至187美元。 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13Z1k5bTJ1QjVlU0RwMDhzN1F4Sk9Ka185bGZrZ3JIYTN0NW5RSGZNZzBIZ1lHbHhib0FlRnRJdmpMVkhUdFlTdQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 15.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-20 15:02",
+   "title": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-eyes-a-technical-rebound--but-the-real-test-is-still-ahead-200689830",
+     "u": "https://www.investing.com/analysis/brent-tops-110-as-tanker-attacks-threaten-persian-gulf-supply-200689878",
      "t": "agg"
     }
    ],
-   "heat": 19.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-20 07:06",
-   "title": "Merz Russia Warning to Europe, France Protests Fallout, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-19/merz-russia-warning-to-europe-france-protests-fallout-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 11.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-20 06:04",
-   "title": "Latest Oil Market News and Analysis for Oct. 20",
-   "summary": "Brent oil fluctuated near a five-month high as traders weighed the risk of further Iranian attacks in the Strait of Hormuz against robust crude flows from the Persian Gulf.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-19/latest-oil-market-news-and-analysis-for-oct-20",
-     "t": "sec"
-    }
-   ],
-   "heat": 11.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-19 18:44",
-   "title": "The Yen Carry Trade: Why USD/JPY Can Reverse Without Warning",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/the-yen-carry-trade-why-usdjpy-can-reverse-without-warning-200689821",
-     "t": "agg"
-    }
-   ],
-   "heat": 7.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-19 16:16",
-   "title": "FX Weekly: Changing of the Guard, From Boost to Drag",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/fx-weekly-changing-of-the-guard-from-boost-to-drag-200689804",
-     "t": "agg"
-    }
-   ],
-   "heat": 6.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-15 21:19",
-   "title": "港股公告精选｜赣锋锂业前三季度净赚约50亿元 迈富时前三季度AI应用收入同比翻倍",
-   "summary": "港股公告精选｜赣锋锂业前三季度净赚约50亿元 迈富时前三季度AI应用收入同比翻倍 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iN0I0SnVxUXotQUY0a2lwT203ekhjZFJQVlNuRlQ3WVNzZ19aQ0NidzdCQmhSMFZVNjhwY2ZXd0dFNy0yU0wxRQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 4.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-15 19:33",
-   "title": "19:33:58【高盛上调Meta目标价至860美元 预计明年资本开支超2200亿美元】",
-   "summary": "19:33:58【高盛上调Meta目标价至860美元 预计明年资本开支超2200亿美元】 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1YUZCWnVWQ0N2SkxhY1ozUmhyb2dwc3NMV3NUNjA0S20xZmlmSS1uTkVmVkJlVk1YRGdEN29sTmszcUxzTzBYZA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 4.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-15 10:42",
-   "title": "09:35:55【日本首相拟任命武部新为新任农林水产大臣】",
-   "summary": "09:35:55【日本首相拟任命武部新为新任农林水产大臣】 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82MUlYTGNWUVBzbnMzcEwzak5vaDJNNW5henZWOFNBRXJKbkNsMXlmM01La1FEalM5UmloTGxScG1EMHhXMWJfdQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 4.0
+   "heat": 13.8
   },
   {
    "cat": "crypto",
@@ -797,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.9
+   "heat": 86.0
   },
   {
    "cat": "crypto",
@@ -811,7 +867,21 @@
      "t": "sec"
     }
    ],
-   "heat": 85.1
+   "heat": 76.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-20 13:39",
+   "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+   "summary": "BlackRock’s IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while other funds recorded no net flows.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.6
   },
   {
    "cat": "crypto",
@@ -825,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.8
+   "heat": 50.9
   },
   {
    "cat": "crypto",
@@ -839,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.7
+   "heat": 49.9
   },
   {
    "cat": "crypto",
@@ -853,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.3
+   "heat": 49.5
   },
   {
    "cat": "crypto",
@@ -867,35 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 54.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-20 00:30",
-   "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
-   "summary": "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 54.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-20 00:05",
-   "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
-   "summary": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 54.2
+   "heat": 49.4
   },
   {
    "cat": "crypto",
@@ -909,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 53.4
+   "heat": 48.5
   },
   {
    "cat": "crypto",
@@ -923,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 53.4
+   "heat": 48.5
   },
   {
    "cat": "crypto",
@@ -937,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 53.3
+   "heat": 48.4
   },
   {
    "cat": "crypto",
@@ -951,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 53.1
+   "heat": 48.2
   },
   {
    "cat": "crypto",
@@ -965,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.6
+   "heat": 47.7
   },
   {
    "cat": "crypto",
@@ -979,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.9
+   "heat": 42.0
   },
   {
    "cat": "crypto",
@@ -993,7 +1035,21 @@
      "t": "sec"
     }
    ],
-   "heat": 46.8
+   "heat": 42.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-20 01:24",
+   "title": "Revolut secures Gibraltar crypto license to support global expansion",
+   "summary": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 41.6
   }
  ]
 }
