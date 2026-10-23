@@ -1,47 +1,117 @@
 {
- "updated": "2026-10-23 07:47",
+ "updated": "2026-10-23 10:46",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-10-23 06:11",
-   "title": "Bloomberg Businessweek Daily: SpaceX-Tesla Merger (Podcast)",
-   "summary": "Source: Bloomberg, 41:28",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-22/bloomberg-businessweek-daily-spacex-tesla-merger-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-23 05:58",
-   "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-   "summary": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
+   "time": "2026-10-23 02:07",
+   "title": "Personal agents like Meta's Muse could fuel AI’s growth — and challenge Amazon and Apple",
+   "summary": "Meta's Muse is taking off, but analysts say it's only the beginning",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+     "u": "https://www.cnbc.com/2026/10/22/meta-muse-personal-ai-agents.html",
      "t": "sec"
     }
    ],
-   "heat": 247.7
+   "heat": 234.6
   },
   {
    "cat": "sector",
-   "time": "2026-10-23 04:28",
-   "title": "Nasdaq falls more than 2% for worst day since June as AI spending woes, oil prices spark sell-off: Live updates",
-   "summary": "U.S. equities mostly slid on Thursday, bogged down by declines in mega-cap names Meta Platforms and Tesla.",
+   "time": "2026-10-23 01:35",
+   "title": "S&P 500 Falls More Than 1% as Meta and Chip Stocks Slide and Brent Crude Hits $112 Amid US-Iran Tensions and the Ukraine",
+   "summary": "S&P 500 Falls More Than 1% as Meta and Chip Stocks Slide and Brent Crude Hits $112 Amid US-Iran Tensions and the Ukraine-Russia War &nbsp;&nbsp; BBN Times",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaTUzUjZyUVZLcDlOeVV5aks1dF9fYTVfd1FMSUlDR2VfdDUxNnhraF9XWTUtQ29rVENRNG5Fa3NkOUtHV2tTTU1GYlF1cERqVFBtWjhJYzlMU0Z6ZFB2RFBMbWg1OXZFd3hWNS1uRFFXRngwbUpGb1J4RENfSWNxQjZnYUlrcTVBSHBPOXctWU1Nb1lSeXhSTDFuSzNyVkMxX19OUzVNUkJueHdKYTY4Mk1VMzM3cHBFekp2eER2Sm9DVjJ4WEFRUW9tSTZBV0QyakMtZUkwNFVxUVFUNkhqblRidVhSM2l0YXRTcEpjNVdlNS1sV0p6QlZ3TWgyUQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 247.4
+   "heat": 234.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-23 10:12",
+   "title": "Delta Electronics VP on Data Centre Demand",
+   "summary": "Kelvin Huang, Vice President of Taiwan's Delta Electronics, discusses the outlook for AI data-center demand, and says that the company expects strong growth for years to come. He s…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-23/delta-electronics-vp-on-data-centre-demand-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-23 10:06",
+   "title": "FailSafe President on AI hacking, Cybersecurity",
+   "summary": "Wui Foo, President and Co-founder of cybersecurity firm FailSafe, discusses what institutions should do to protect websites and services from vulnerabilities and AI-driven cyberatt…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-23/failsafe-president-on-ai-hacking-cybersecurity-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-23 09:57",
+   "title": "Startup Pursues Palmer Luckey’s Vision of Enhanced Military Dogs",
+   "summary": "A startup aiming to supply genetically enhanced working dogs to the US military and law enforcement raised $200 million to deliver on plans conceived by Palmer Luckey, co-founder o…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-23/startup-pursues-palmer-luckey-s-vision-of-enhanced-military-dogs",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-23 09:13",
+   "title": "SK Data Center Arm Plans to Fund $350B AI Buildout",
+   "summary": "Chung Suk-geun, CEO of SK Group's Data Center arm, SK Hyper, says the firm is in talks with big tech firms and financial investors to secure funding for an envisioned $350 billion …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-23/sk-data-center-arm-plans-to-fund-350b-ai-buildout-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-23 08:46",
+   "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
+   "summary": "SpaceX's stake in Boring Co. helped boost its net income in the third quarter.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-23 08:40",
+   "title": "SK Data Center Arm in Talks to Fund $350 Billion AI Buildout",
+   "summary": "SK Hyper Co. is in talks with big tech firms and financial investors to secure funding for an envisioned $350 billion data center buildout, joining a global rush to roll out AI inf…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.6
   },
   {
    "cat": "sector",
@@ -55,91 +125,21 @@
      "t": "sec"
     }
    ],
-   "heat": 244.0
+   "heat": 231.5
   },
   {
    "cat": "sector",
-   "time": "2026-10-23 07:00",
-   "title": "What a 35-Hour Train Ride Reveals About Vietnam’s Future",
-   "summary": "Vietnam is betting big on a $65 billion high-speed railway linking Hanoi and Ho Chi Minh City. Construction is set to start in late 2027 and take at least a decade to complete. The…",
+   "time": "2026-10-23 07:31",
+   "title": "OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize",
+   "summary": "OpenAI, which is seeking to raise around $30 billion in a fresh funding round, is now targeting a valuation of $1.25 trillion during the final stages of negotiations, according to …",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-22/what-a-35-hour-train-ride-reveals-about-vietnam-s-future-video",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-22/openai-shifts-value-to-1-25-trillion-as-funding-talks-finalize",
      "t": "sec"
     }
    ],
-   "heat": 243.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-23 06:10",
-   "title": "AI Jitters, Treasuries Rally, Moderna-Merck Cancer Data Leak",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-22/ai-jitters-treasuries-rally-moderna-merck-cancer-data-leak",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-23 06:08",
-   "title": "Latest Oil Market News and Analysis for Oct. 23",
-   "summary": "Oil held its biggest gain in about a week as intensifying attacks on Saudi Arabia stoked fears of supply disruptions.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-22/latest-oil-market-news-and-analysis-for-oct-23",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-23 06:07",
-   "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Northeast Mississippi Daily Journal",
-   "summary": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff &nbsp;&nbsp; Northeast Mississippi Daily Journal",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNjB0SGZnekVPeGpxYWItZlF5WGJqazF5QzlpdUtpcGNRNFNuWmVZSDVNTmxUQUxROEVVTWVxbVZLWU1NSUJUOXFRVEFUSFUwY1BrZzdpMExLdEhzcGxpUkQ5dzhTWHByR1ZWczdMS3lXenJFbjdhXzdYOV9NTFNLNnY0TmRhNC1nWnNpaVVvT1ZWUWh4ZExpdVBMWmQzbXpLNXc1S3hMS29reVVwVXJ1eGRLWkpxODh5MU5UOVJablBoR0pwckFlaTZGNXhXaEhGMnpDSlJ1QlZrbzdfWHFobGU5LWtlbXE2dDJrM1FPc1hLdURj?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-23 05:58",
-   "title": "Mickey Drexler on Decker Results and Retail Outlook",
-   "summary": "Mickey Drexler, Chair of Alex Mill and Former CEO and chair of J. Crew, tells Bloomberg that apparel retailers need to do more to give consumers a reason to buy. He says product, d…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-22/mickey-drexler-on-decker-results-and-retail-outlook-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-23 05:53",
-   "title": "Affirm, Sam’s Club Strike Exclusive Buy Now, Pay Later Deal",
-   "summary": "Affirm is teaming up with Walmart’s Sam’s Club as the retailer’s exclusive buy-now, pay-later partner, just weeks before the key holiday shopping season kicks off. Affirm will serv…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-22/affirm-sam-s-club-strike-exclusive-bnpl-deal-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.7
+   "heat": 231.5
   }
  ]
 }
