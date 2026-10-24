@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 07:41",
+ "updated": "2026-10-24 10:43",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 63.5
+   "heat": 59.0
   },
   {
    "cat": "macro",
@@ -27,7 +27,7 @@
      "t": "agg"
     }
    ],
-   "heat": 45.2
+   "heat": 44.7
   },
   {
    "cat": "macro",
@@ -41,21 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-24 04:08",
-   "title": "Next week brings major risks for the stock market, just as the AI trade keeps faltering",
-   "summary": "The latest group of megacap earnings, a Federal Reserve meeting and a key inflation report are all on deck.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/23/next-week-brings-major-risks-for-the-stock-market-just-as-the-ai-trade-keeps-faltering.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.4
+   "heat": 39.2
   },
   {
    "cat": "macro",
@@ -69,7 +55,21 @@
      "t": "sec"
     }
    ],
-   "heat": 37.9
+   "heat": 37.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-24 04:08",
+   "title": "Next week brings major risks for the stock market, just as the AI trade keeps faltering",
+   "summary": "The latest group of megacap earnings, a Federal Reserve meeting and a key inflation report are all on deck.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/23/next-week-brings-major-risks-for-the-stock-market-just-as-the-ai-trade-keeps-faltering.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 34.9
   },
   {
    "cat": "macro",
@@ -129,41 +129,27 @@
   },
   {
    "cat": "macro",
-   "time": "2026-10-24 04:25",
-   "title": "AI Ushers in New Era of Cybersecurity Needs",
-   "summary": "The US government is working to address and stop any potential cybersecurity issues stemming from flaws in PHP, a widely used open-source software, that may impact federal agencies…",
+   "time": "2026-10-23 20:45",
+   "title": "US Stock Market Today: Dow Jones Futures Fall 0.6%, S&P 500 and Nasdaq Futures Slide as Oil Surges Above $114 Amid US-Ir",
+   "summary": "US Stock Market Today: Dow Jones Futures Fall 0.6%, S&P 500 and Nasdaq Futures Slide as Oil Surges Above $114 Amid US-Iran Tensions, AI Selloff and Inflation Concerns; Check What I…",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-23/ai-ushers-in-new-era-of-cybersecurity-needs-video",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPaVJmQkMyM28xMllha01qM0pWSDhOZnU1QkQ1cmd2T211aWRydnJ0Z2x1eS1uc3h3S1hXV0VtSFhpUXNzTjh5TV9uYjAxRl9Ra3R4OWY3SUhSdjF0TjFGWHVTLXZ6SnlUNmplRzFjcHUtdjdtUFBnbHZ6WE00WTBzazBsUExVbTd4bTRlY1pURzBNVFk1b3V2a29PTzYxSHRCNkNEOENneVdNazNBVmNJSVdJcTZMTXNkM3BUbU9ObWUwcmItWldfazhCS3lTdjFhemVyRVVoS0VfSlBnclVIWmlISENOX3pXZS1jSzZYVUVNaEdyUTRaaFFuM081X19TZDdsS0JYRGJ5VXNkQ3VtbjkwOF9jdzRkWExXSDA4WHZrU214WFI1ZUIxc21JX0doU1UzQ3dpQzV0R25HY0NOeFBLSDlpUkl4am1PMXJXb0xKeFp5ZGI3c1UxZTnSAeICQVVfeXFMT1gxZ3A0QVRQQVhmUVdRcE1vXzdFYzMyZTRSbDJHd1R0NU92amdDQ0hMM1lNZkE5MWdWQlIyLTBpYnM2NHBMSUYySGwyMVN3N0ZpcWRKSFdMN18yZVdQeFhLMk1LMkdRSHJ3TllKUFFjOEc5MVAzaW9SUjFCRFNQem41WXo3V1o3SllmYXlSMjY2eDhwYkxHVzdLQXA0MXNiVmFZWXFlM2lZbk1KTjhySDlFM3VJREtaLTFSTTNvbjRQS1gzUkpQR3YzaHIxWUFfa3dFTUZaN2JTUHVsLTllTDF2VExOUlB1ZEVCMGgzSjhabUpGY1NYM0phd2VEU1ppalRGMmdSSk5kU3MtNzBXVzAxMGtxRE1MaVRUU1ZiY2U0Y3dZbERERDQzbkczcnRETlpqT1dkcGRCNGE5cE5pbEZwSnhVTkhvT05xN1JwaDg4UU5JVUp4UGV0WXAtS0dyb2x3?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 27.5
+   "heat": 25.7
   },
   {
    "cat": "macro",
-   "time": "2026-10-23 23:11",
-   "title": "Gold Futures Face Heavy Weekly Losses as Iran War and Fed Decision Loom",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-futures-face-heavy-weekly-losses-as-iran-war-and-fed-decision-loom-200690163",
-     "t": "agg"
-    }
-   ],
-   "heat": 24.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-24 07:03",
-   "title": "Trump Ordered Alaska Lawsuit, Exemption on Some Canadian Tariffs",
-   "summary": "Source: Bloomberg, 5:54",
+   "time": "2026-10-24 10:04",
+   "title": "Trump Ordered Alaska Lawsuit,Some Canadian Tariffs Exempted,More",
+   "summary": "Source: Bloomberg, 6:10",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-23/trump-ordered-alaska-lawsuit-exemption-on-some-canadian-tariffs",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-24/trump-ordered-alaska-lawsuit-some-canadian-tariffs-exempted-more-mvlraey0",
      "t": "sec"
     }
    ],
@@ -171,13 +157,13 @@
   },
   {
    "cat": "macro",
-   "time": "2026-10-24 06:05",
-   "title": "Trump Ordered Alaska Lawsuit,Some Canadian Tariffs Exempted,More",
-   "summary": "Source: Bloomberg, 5:19",
+   "time": "2026-10-24 09:03",
+   "title": "Trump Ordered Alaska Lawsuit, Exemption on Some Canadian Tariffs",
+   "summary": "Source: Bloomberg, 5:55",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-23/trump-ordered-alaska-lawsuit-some-canadian-tariffs-exempted-more",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-24/trump-ordered-alaska-lawsuit-exemption-on-some-canadian-tariffs",
      "t": "sec"
     }
    ],
@@ -195,21 +181,35 @@
      "t": "sec"
     }
    ],
-   "heat": 23.6
+   "heat": 23.1
   },
   {
    "cat": "macro",
-   "time": "2026-10-24 05:00",
-   "title": "Trump Ordered Alaska Lawsuit, Exempted Some Canadian Tariffs",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-10-24 04:25",
+   "title": "AI Ushers in New Era of Cybersecurity Needs",
+   "summary": "The US government is working to address and stop any potential cybersecurity issues stemming from flaws in PHP, a widely used open-source software, that may impact federal agencies…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-23/trump-ordered-alaska-lawsuit-exempted-some-canadian-tariffs",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-23/ai-ushers-in-new-era-of-cybersecurity-needs-video",
      "t": "sec"
     }
    ],
-   "heat": 23.6
+   "heat": 22.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-23 13:50",
+   "title": "UK Inflation and Fiscal Policy: Understanding the GBP/USD Outlook",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/uk-inflation-and-fiscal-policy-understanding-the-gbpusd-outlook-200690122",
+     "t": "agg"
+    }
+   ],
+   "heat": 22.5
   },
   {
    "cat": "sector",
@@ -223,35 +223,21 @@
      "t": "sec"
     }
    ],
-   "heat": 239.2
+   "heat": 238.7
   },
   {
    "cat": "sector",
-   "time": "2026-10-24 06:45",
-   "title": "Bloomberg Businessweek Daily: Blackstone Chips Bet (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-10-24 08:02",
+   "title": "S&P 500 Forecast: SPX set for a weekly decline led lower by tech as AI worries linger - StoneX",
+   "summary": "S&P 500 Forecast: SPX set for a weekly decline led lower by tech as AI worries linger &nbsp;&nbsp; StoneX",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-businessweek-daily-blackstone-chips-bet-podcast",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZktHLXhFSHBWaVlnbUxVVENzb19pd1NaRkFqQndETFFpbzhBUENraThmMkp2WU1UVC1meXdROUJhVFV5UzFRYzN6WWo1MXF1OGdpRV85VnpzaWZvWFk3cmVDbUthZkRtcVEwVUlldG9OVnBpcFJES0tXN1FZY0xDUzVOX1NmOXhybFlPOHFLMXZZTUl2UG9kSGJJVjRqLWtxb0tnem5qUGkzbURXc1R5SnY1aksyLURnWkRacXVDN2ZfX2JOU2hmQmNpWGkzMGc?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 231.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-23 16:34",
-   "title": "In Depth: China’s Smartphones Get Pricier as AI Strains Chip Supply",
-   "summary": "In Depth: China’s Smartphones Get Pricier as AI Strains Chip Supply &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSl9mZnFSVEZtQ2Q0cXhINDNSSVdNd0xteUU2cmhGc3BWNUxTTzlGVXd5MFhheHhCVDdIQlphR3F0U3FMQ2h1MUxMVjZwTnRnSF9GT1BGRElEUEJrY0NxVVVFbTJkUVlZZHFaMkFIUTVRSTM3ZFpITHVSZDFZYjVXRk44TUlKQUROd21sU2hYWExsR0FVMWhnY1FSRDAtRzVybUgzZjFNQmxGbXdjRWF1cUhFQTNOdjdZUjUtMw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 229.5
+   "heat": 227.6
   },
   {
    "cat": "sector",
@@ -265,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 228.0
+   "heat": 227.5
   },
   {
    "cat": "sector",
@@ -279,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.9
+   "heat": 227.4
   },
   {
    "cat": "sector",
@@ -293,7 +279,21 @@
      "t": "sec"
     }
    ],
-   "heat": 227.8
+   "heat": 227.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-24 06:45",
+   "title": "Bloomberg Businessweek Daily: Blackstone Chips Bet (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-businessweek-daily-blackstone-chips-bet-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.3
   },
   {
    "cat": "sector",
@@ -307,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.8
+   "heat": 227.3
   },
   {
    "cat": "sector",
@@ -321,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.7
+   "heat": 227.2
   },
   {
    "cat": "sector",
@@ -335,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.7
+   "heat": 227.2
   },
   {
    "cat": "sector",
@@ -349,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.7
+   "heat": 227.2
   },
   {
    "cat": "sector",
@@ -363,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.7
+   "heat": 227.2
   },
   {
    "cat": "sector",
@@ -377,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.5
+   "heat": 227.0
   },
   {
    "cat": "sector",
@@ -391,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 227.4
+   "heat": 226.9
   },
   {
    "cat": "stock",
@@ -405,54 +405,12 @@
      "t": "sec"
     }
    ],
-   "heat": 128.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
-   "time": "2026-10-23 05:16",
-   "title": "Vanguard S&P 500 ETF (VOO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "Vanguard S&P 500 ETF (VOO) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Mc05Ua1Zjb0I3UVNoSGlBZUV3TGlOZEZIaXc1Rm5hQ3ZyVDYtYlFDRzhPRWFwSUdEVFVtWW1oNm5jNERoUEljSVJKTEF1RDVG?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 127.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-23 23:02",
-   "title": "Picard Medical exchanges warrants for 200,000 shares of common stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/sec-filings/picard-medical-exchanges-warrants-for-200000-shares-of-common-stock-93CH-4970503",
-     "t": "agg"
-    }
-   ],
-   "heat": 124.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-23 07:54",
-   "title": "Asian shares slip as sharp drops for AI stocks overwhelm markets worldwide and oil prices jump - ABC27",
-   "summary": "Asian shares slip as sharp drops for AI stocks overwhelm markets worldwide and oil prices jump &nbsp;&nbsp; ABC27",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWWo1VENDd1B6bzdZcEFYN0dGbGFnR29ITXktb1VqaFVScnEwUGhFSGhlbU1JclUySmVfaWV0QXl5YUpRYlVISWxUaEo4bGI3dlJHc2NFN1Z4azFKNmxReUF0M0MtM3YwY0dBTHJlTDE2M1Z2NjdPNHF6eV91ZlpIZ094VTBMYmpmVVUxSDU2a2t6clFER2x6OWhNN2EzMnRCa3ZnN01pOXktNWdkS2ZIZURtaDRMbmlvS05oUXBHZE9yVUo0QmhXR2pncHA0V0tNenRqTkRFUlVaaVZMTGdjY9IB4AFBVV95cUxOWWo1VENDd1B6bzdZcEFYN0dGbGFnR29ITXktb1VqaFVScnEwUGhFSGhlbU1JclUySmVfaWV0QXl5YUpRYlVISWxUaEo4bGI3dlJHc2NFN1Z4azFKNmxReUF0M0MtM3YwY0dBTHJlTDE2M1Z2NjdPNHF6eV91ZlpIZ094VTBMYmpmVVUxSDU2a2t6clFER2x6OWhNN2EzMnRCa3ZnN01pOXktNWdkS2ZIZURtaDRMbmlvS05oUXBHZE9yVUo0QmhXR2pncHA0V0tNenRqTkRFUlVaaVZMTGdjYw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 124.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-24 06:49",
-   "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+   "time": "2026-10-24 09:57",
+   "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
    "summary": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
    "srcs": [
     {
@@ -461,7 +419,21 @@
      "t": "sec"
     }
    ],
-   "heat": 119.9
+   "heat": 83.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-24 08:12",
+   "title": "Growth, Value Stocks Set for Reshuffle as S&P Adopts New Rules",
+   "summary": "Growth and value shares are set for an overhaul after S&amp;P Dow Jones Indices adopted new rules on how to sort equities into the two investment styles.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-24/growth-value-stocks-set-for-reshuffle-as-s-p-adopts-new-rules",
+     "t": "sec"
+    }
+   ],
+   "heat": 83.6
   },
   {
    "cat": "stock",
@@ -475,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 115.8
+   "heat": 75.3
   },
   {
    "cat": "stock",
@@ -489,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 115.7
+   "heat": 75.2
   },
   {
    "cat": "stock",
@@ -503,7 +475,21 @@
      "t": "sec"
     }
    ],
-   "heat": 114.7
+   "heat": 74.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-23 22:11",
+   "title": "Stock Market Today: S&P 500, DJI Fall After AI Selloff as Oil Surges Toward $115 - Coinpaper",
+   "summary": "Stock Market Today: S&P 500, DJI Fall After AI Selloff as Oil Surges Toward $115 &nbsp;&nbsp; Coinpaper",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2tDcXREcl9LWFNHZE5FRW1zV1RRUXhZcDVRM1huLWN5VEFiVFQ5dlp0MDMyUk9TQUJldlJ2emNYcDFqRExpUnA1OGhSNFB0dk1id1hhLS1zdHRQSGlqbXU0SnBjLXE0UUlkT2hXSmlaeFgwZWxmWmJuemh5c3hTTGVPQTd0UzhwSDMzcjNMVFAweVR1cnpXWlZ2YWZBRkNIbFVkZmRwYVRrMEZZb2c?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 73.9
   },
   {
    "cat": "stock",
@@ -517,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 114.2
+   "heat": 73.7
   },
   {
    "cat": "stock",
@@ -531,7 +517,7 @@
      "t": "sec"
     }
    ],
-   "heat": 114.1
+   "heat": 73.6
   },
   {
    "cat": "stock",
@@ -545,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 114.0
+   "heat": 73.5
   },
   {
    "cat": "stock",
@@ -559,7 +545,7 @@
      "t": "agg"
     }
    ],
-   "heat": 112.9
+   "heat": 72.4
   },
   {
    "cat": "stock",
@@ -573,35 +559,49 @@
      "t": "sec"
     }
    ],
-   "heat": 111.7
+   "heat": 71.2
   },
   {
    "cat": "stock",
-   "time": "2026-10-23 05:20",
-   "title": "US stock market today: Why have Nasdaq, S&P 500 slipped to lowest in months? Reasons behind Meta, Tesla, C - The Economi",
-   "summary": "US stock market today: Why have Nasdaq, S&P 500 slipped to lowest in months? Reasons behind Meta, Tesla, C &nbsp;&nbsp; The Economic Times",
+   "time": "2026-10-22 23:40",
+   "title": "Toronto Stock Exchange: S&P/TSX Composite Drops More Than 400 Points as Gold and Metals Slide - BBN Times",
+   "summary": "Toronto Stock Exchange: S&P/TSX Composite Drops More Than 400 Points as Gold and Metals Slide &nbsp;&nbsp; BBN Times",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQWV95RTVOQWFyb1hZRi1oV3hUb1NMdXo3b3JRZVZqZXQxXzk0dGtfZUZ4eFlBMzJLeTN6ODNaSldtQVR3Vlc3OUhGTmFkVDVGbmx5VkR5UTdRa3dMTzFOai0tMFk1UGdMdzF0b2R1bHBtMnkzeDdVRUhsOHIyUnEtVlhSX0ZqZ3dzS052aU54T0hITjFLMlAxV2Z2WjNfNHU1QlZCVDlaZUV5c0pDN3JRTnhULTNRdTE3eTlZekhobjl0cmFRcVJvV2dhOGF5bEo2S29Jenhuc29hS1ZNQ1htNFBKREd6U0xpXzdrUVg3bDJRbXlwVE02UnIweE51MWFNa2ZDdFFaT2RJWVVjZDZvNTl1d1FqaGRCb004VmhLdTVmNGoyOVZKZmdIU0FRQkJrRjBKaG5IUFF1OG9ONjBEcGI0dXRueUk1Rkl4WEpYNG5qZDBPV3fSAdsCQVVfeXFMTkU4ODJjUzV4aXFSWkJwNjJHMjRWY25rUFRnV3hMV2NDTnV5SUEza0RBcFJXMUFmaDdJRlpral9iNmM5ZVZ6dHpnU0cyaEVKRDVqQVdBc1hOTVFITUs4YTNsei1TNGZEcVRTUzRsdVpaOXhUSE1LTERpT2taNG1QRnBuTmlxeG40WGRNNEJBN0ZHdDJ3Ri1xc1dpSjNMRG1uSnNOTXVWZXpENVpjRFFucHBoaEtrRUVNRnFESVJ1SjBUOGdMRHRDa0thSmZfVU1VY1VFNFg4Nnktb19tUzhaXy10WmJfei1STE1WXzQyR3RGYUs5TTVnWUxMR2JvTm1jVktmc0NrakhFeE8zRFFaZE41RWJLLXpONXdKRU1IbU9idHo1UHRyalhiZEY2TkhNSjNzNVVYLVV5cWlyV2otbUkzSUlDa0FVMnhPcnBTMUtPdlNYUjhCNFNjcm8?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUzgzXzRRSFFKQndOUFlDX25PaThCanlIZnZubFIwcDRTeXhBYjc1YnotOWJVamVHQ0hOQVhXcVlLa1RtUVJTZGFvT1VFRTlUNVNlOW9zOFVmYUQ2TDc1VEpmMkZMUGZnbVgycmJhaWlFbENfZzBURDVad21CaWU5RVNvdUZ5aXBmMmd1b0ZudHpJb2tEeWhOTDZWa0NhalFBd2NwZWs5LXBOY0dVTEN4QlNlVU5nbHBEeXRMMUVwaGQ2XzFLUjdUaFhVZU0?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 111.6
+   "heat": 70.2
   },
   {
    "cat": "stock",
-   "time": "2026-10-23 04:01",
-   "title": "US STOCKS-S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Devdiscourse",
-   "summary": "US STOCKS-S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff &nbsp;&nbsp; Devdiscourse",
+   "time": "2026-10-22 22:02",
+   "title": "Stock Market Today: S&P 500, Nasdaq Fall After Tesla and Meta Earnings - Coinpaper",
+   "summary": "Stock Market Today: S&P 500, Nasdaq Fall After Tesla and Meta Earnings &nbsp;&nbsp; Coinpaper",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZnd3OTBtaVF0ZUNKTnQ4MGpwcmlpQWVFMkRRZ1RGN0lWQ05ILWNmVFNISE45ME1lM3NENDQxbVJUcFhJU2cyUUhNZ0s4cUNaaUlMYzQ2TUdqZHJHWVEwWklqSXhjRENzejlNY0hqcWQ0SlJxRTRaaUVyZkJVa2pDd0wwcGhwOE9rLUw2S2hBSXp6TGJmM1dZQ25EME53bGNKc2hjWUVBWHFVY2hHY1Z6c1FZWEJjcm80ZU1zTWtJdkQtcXlnVWdsQnlWcUFNNnlLNk1peS1LeUh1QXk1T2fSAd4BQVVfeXFMTWZ3dzkwbWlRdGVDSk50ODBqcHJpaUFlRTJEUWdURjdJVkNOSC1jZlRTSEhOOTBNZTNzRDQ0MW1SVHBYSVNnMlFITWdLOHFDWmlJTGM0Nk1HamRyR1lRMFpJakl4Y0RDc3o5TWNIanFkNEpScUU0WmlFcmZCVWtqQ3dMMHBocDhPay1MNktoQUl6ekxiZjNXWUNuRDBOd2xjSnNoY1lFQVhxVWNoR2NWenNRWVhCY3JvNGVNc01rSXZELXF5Z1VnbEJ5VnFBTTZ5SzZNaXktS3lIdUF5NU9n?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEN6bUQ0OFVFcnNGYTAtbmFfNU16ZjBLUFBDUXRHZ09QUFFHNVg3eDBRMFliTHBOVFA2RVI2QnhJT0Z4MThJeVJ3a244VlAxRGF4NTM4cEhYcXY1ckN6YzA5NGJzVklVNHVua3A1MVJEel9HS05vRTBHaGNjV0E4bTVhdVJWd2NFZ3ZELTQtZVhVY2VTVG9MbGRNRXAyQWs5UWc?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 111.4
+   "heat": 69.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-22 20:37",
+   "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Drop Following Asian Market Sell-off, Middle E - Benzinga",
+   "summary": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Drop Following Asian Market Sell-off, Middle E &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPOVlPODIzdV8yUGJfZHZnMURCTU04czVhMnZuZkVmelRNR3BtQmVBZzdyZ2ptNXd2WFBpSFktLWhKUXdGS0VMaVNjcFRnY2FvQlRXS3JtdzN2STRPNGtST1FPU2dlMENuTDVuLTFDWHFtakNJSUJuSW1LdHV6bGU4eWs3blhBc0VIcTdReUxIX0lDMVpoNFJLdFd1N1pGXzhURkZxekRNWWQ5c2lONzcxTTZUc0R5U19PcWlqZjZDenVFOC1ESXZobzVjOTZLcFlSWDdqU3NaMVNwbVF1T2h2S052N1o5WHhSUy02T19IV21LYm1NVnRpc0JkWk5OUEUzb0Y0bWlTNA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 69.6
   },
   {
    "cat": "global",
@@ -615,7 +615,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.6
+   "heat": 31.1
   },
   {
    "cat": "global",
@@ -629,7 +629,7 @@
      "t": "agg"
     }
    ],
-   "heat": 25.2
+   "heat": 24.7
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.8
+   "heat": 23.3
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.7
+   "heat": 23.2
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.4
+   "heat": 22.9
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.4
+   "heat": 22.9
   },
   {
    "cat": "global",
@@ -699,7 +699,21 @@
      "t": "sec"
     }
    ],
-   "heat": 20.9
+   "heat": 20.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-24 05:04",
+   "title": "财联社10月24日电，COMEX黄金期货收跌1.24%，报4010美元/盎司，本周累计下跌4.22%；COMEX白银期货下跌1.9%，报53.96美元/盎司，本周累计下跌5.56%。",
+   "summary": "财联社10月24日电，COMEX黄金期货收跌1.24%，报4010美元/盎司，本周累计下跌4.22%；COMEX白银期货下跌1.9%，报53.96美元/盎司，本周累计下跌5.56%。 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PQXlHSEJRZU1uRXJ0enQ0RTg2TjBWWG9zTDk4ZUJNMV95WHdQZndxdFpwUWU2Sjl3WmJPVm9sd1owVmIzUG5COA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 19.1
   },
   {
    "cat": "global",
@@ -713,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 17.5
+   "heat": 16.9
   },
   {
    "cat": "global",
@@ -741,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 15.8
+   "heat": 15.3
   },
   {
    "cat": "global",
@@ -755,7 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 15.8
+   "heat": 15.3
   },
   {
    "cat": "global",
@@ -769,7 +783,7 @@
      "t": "agg"
     }
    ],
-   "heat": 15.6
+   "heat": 15.1
   },
   {
    "cat": "global",
@@ -783,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 15.5
+   "heat": 15.0
   },
   {
    "cat": "global",
@@ -797,21 +811,7 @@
      "t": "agg"
     }
    ],
-   "heat": 15.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-23 15:10",
-   "title": "US Dollar Has Lost Its Safe-Haven Crown",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-has-lost-its-safehaven-crown-200690126",
-     "t": "agg"
-    }
-   ],
-   "heat": 15.2
+   "heat": 14.8
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 70.3
+   "heat": 69.8
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 47.0
+   "heat": 46.5
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.0
+   "heat": 45.5
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.7
+   "heat": 42.2
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.4
+   "heat": 41.9
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.1
+   "heat": 41.6
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 42.1
+   "heat": 41.6
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.9
+   "heat": 41.4
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.9
+   "heat": 41.4
   },
   {
    "cat": "crypto",
@@ -951,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.9
+   "heat": 41.4
   },
   {
    "cat": "crypto",
@@ -965,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.9
+   "heat": 41.4
   },
   {
    "cat": "crypto",
@@ -979,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.2
+   "heat": 38.7
   },
   {
    "cat": "crypto",
@@ -993,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.7
+   "heat": 31.2
   },
   {
    "cat": "crypto",
@@ -1007,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.5
+   "heat": 31.0
   },
   {
    "cat": "crypto",
@@ -1021,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.7
+   "heat": 30.2
   },
   {
    "cat": "sector",
@@ -1039,17 +1039,17 @@
   },
   {
    "cat": "sector",
-   "time": "2026-10-23 22:52",
-   "title": "SpaceX’s $40bn AI debt deal faces hurdles amid credit market turmoil",
+   "time": "2026-10-24 00:55",
+   "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/company-news/spacexs-40bn-ai-debt-deal-faces-hurdles-amid-credit-market-turmoil--bloomberg-4970497",
+     "u": "https://www.investing.com/news/stock-market-news/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-4970304",
      "t": "agg"
     }
    ],
-   "heat": 224.5
+   "heat": 224.4
   }
  ]
 }
