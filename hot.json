@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25 01:44",
+ "updated": "2026-10-25 04:01",
  "items": [
   {
    "cat": "sector",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.3
+   "heat": 250.9
   },
   {
    "cat": "sector",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.0
+   "heat": 242.7
   },
   {
    "cat": "sector",
@@ -41,7 +41,21 @@
      "t": "sec"
     }
    ],
-   "heat": 242.9
+   "heat": 242.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-25 02:49",
+   "title": "Violence flares in Paris after massive, largely peaceful protests across France",
+   "summary": "France's Interior Ministry said 410,000 people took part in protests nationwide, though unions said the true figure was twice as high.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/24/france-paris-protests.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.8
   },
   {
    "cat": "sector",
@@ -55,7 +69,21 @@
      "t": "sec"
     }
    ],
-   "heat": 239.9
+   "heat": 239.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-25 01:19",
+   "title": "S&P 500 Forecast: SPX set for a weekly decline led lower by tech as AI worries linger - StoneX",
+   "summary": "S&P 500 Forecast: SPX set for a weekly decline led lower by tech as AI worries linger &nbsp;&nbsp; StoneX",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZktHLXhFSHBWaVlnbUxVVENzb19pd1NaRkFqQndETFFpbzhBUENraThmMkp2WU1UVC1meXdROUJhVFV5UzFRYzN6WWo1MXF1OGdpRV85VnpzaWZvWFk3cmVDbUthZkRtcVEwVUlldG9OVnBpcFJES0tXN1FZY0xDUzVOX1NmOXhybFlPOHFLMXZZTUl2UG9kSGJJVjRqLWtxb0tnem5qUGkzbURXc1R5SnY1aksyLURnWkRacXVDN2ZfX2JOU2hmQmNpWGkzMGc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.5
   },
   {
    "cat": "sector",
@@ -69,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.6
+   "heat": 239.2
   },
   {
    "cat": "sector",
@@ -83,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.4
+   "heat": 239.0
   },
   {
    "cat": "sector",
@@ -97,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.4
+   "heat": 239.0
   },
   {
    "cat": "sector",
@@ -111,35 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-24 21:29",
-   "title": "HR Navigates AI and a Changing Workplace",
-   "summary": "SHRM President and CEO Johnny C. Taylor Jr. tells Bloomberg This Weekend how employers and workers can navigate open enrollment, AI-driven job disruption and growing generational d…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-24/hr-navigates-ai-and-a-changing-workplace-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-24 21:00",
-   "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
-   "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.2
+   "heat": 239.0
   }
  ]
 }
