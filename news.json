@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26 02:00",
+ "updated": "2026-10-26 06:57",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.3
+   "heat": 58.5
   },
   {
    "cat": "macro",
@@ -27,7 +27,21 @@
      "t": "agg"
     }
    ],
-   "heat": 62.0
+   "heat": 58.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-26 05:54",
+   "title": "Interest Rate Rise, Helen Haines, AustralianSuper: Australia Briefing",
+   "summary": "Get caught up.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-10-25/interest-rate-rise-helen-haines-australiansuper-australia-briefing",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.8
   },
   {
    "cat": "macro",
@@ -41,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.3
+   "heat": 50.5
   },
   {
    "cat": "macro",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.0
+   "heat": 50.2
   },
   {
    "cat": "macro",
@@ -69,21 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 50.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-25 15:44",
-   "title": "Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels",
-   "summary": "Goldman Sachs Group Inc. strategists slashed their target for South Korea’s Kospi Index by 25%, after raising it repeatedly this year, as concerns over the artificial intelligence …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-cuts-kospi-12-month-target-by-25-as-ai-trade-unravels",
-     "t": "sec"
-    }
-   ],
-   "heat": 50.3
+   "heat": 49.8
   },
   {
    "cat": "macro",
@@ -97,35 +97,21 @@
      "t": "sec"
     }
    ],
-   "heat": 50.3
+   "heat": 49.5
   },
   {
    "cat": "macro",
-   "time": "2026-10-25 13:45",
-   "title": "UAE Shuts More Beaches as It Deals with Oil Spill in Gulf",
-   "summary": "The United Arab Emirates shut more beaches after an oil spill in the Persian Gulf raised concerns over environmental and health impacts.",
+   "time": "2026-10-25 21:50",
+   "title": "Canada, UK to develop separate defense financing institutions",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-25/uae-shuts-more-beaches-as-it-deals-with-oil-spill-in-gulf",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/canada-uk-to-develop-separate-defense-financing-institutions-4971268",
+     "t": "agg"
     }
    ],
-   "heat": 50.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-25 22:58",
-   "title": "Here are 4 big things we're watching in the stock market this week",
-   "summary": "Peak earnings season, plus a Fed meeting and fresh inflation data.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.5
+   "heat": 48.5
   },
   {
    "cat": "macro",
@@ -181,21 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-24 18:58",
-   "title": "America by the numbers: How voters feel about the economy, inflation, AI and Trump",
-   "summary": "With the U.S. midterm elections looming, Americans are nearly as gloomy about the economy as they were when the nation was emerging from the pandemic.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/23/america-by-the-numbers-how-voters-feel-about-the-economy-inflation-ai-and-trump.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 26.8
+   "heat": 26.5
   },
   {
    "cat": "macro",
@@ -209,7 +181,105 @@
      "t": "sec"
     }
    ],
-   "heat": 26.3
+   "heat": 25.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-25 20:30",
+   "title": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow",
+   "summary": "Investors from JPMorgan Asset Management to Generali and Ninety One SA are loading up on emerging-market debt, defying a surge in Treasury yields that would once have sent them run…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-25/emerging-debt-outruns-treasuries-as-rich-world-fiscal-fears-grow",
+     "t": "sec"
+    }
+   ],
+   "heat": 22.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-25 20:30",
+   "title": "What’s Happening in EM: Bond Investors Turn to Developing World",
+   "summary": "This week, Mpho Hlakudi and Selcuk Gokoluk discuss how some of the world’s biggest asset managers increase their exposure to emerging markets despite the surge in US Treasury yield…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-25/what-s-happening-in-em-bond-investors-turn-to-developing-world",
+     "t": "sec"
+    }
+   ],
+   "heat": 22.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-26 05:22",
+   "title": "Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips",
+   "summary": "Elon Musk said SpaceX has closed a $40 billion debt deal to pay for the chips it needs to fuel its artificial intelligence ambitions.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-26 05:13",
+   "title": "More pain may be coming for the AI trade. Why I’m not giving up on it",
+   "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer explains why the AI trade has cracked and what he's doing about it.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-ai-trade-nvidia-coreweave.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-26 05:00",
+   "title": "BYD’s Korea Expansion Challenges Hyundai Dominance on Home Turf",
+   "summary": "When Lee Seongdong decided to replace his 2016 Chevrolet Spark in April, a two-year wait for Hyundai Motor Co.’s Casper Electric was already pushing him toward BYD Co.’s Dolphin. H…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-25/byd-s-korea-expansion-challenges-hyundai-dominance-on-home-turf",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-26 04:28",
+   "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+   "summary": "Democrats have maintained they have no connection to Daniel J. Sullivan.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-26 02:18",
+   "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+   "summary": "Ukraine challenged Musk’s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.2
   },
   {
    "cat": "sector",
@@ -223,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 252.0
+   "heat": 243.1
   },
   {
    "cat": "sector",
@@ -237,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.8
+   "heat": 242.9
   },
   {
    "cat": "sector",
@@ -251,21 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-25 22:54",
-   "title": "US Preparing Iran Escalation, Trilateral Talks on Ukraine, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-25/us-preparing-iran-escalation-trilateral-talks-on-ukraine-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.5
+   "heat": 242.9
   },
   {
    "cat": "sector",
@@ -279,21 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-25 22:00",
-   "title": "Apple to Unveil Touch-Screen MacBook Pro; Executive Promotions; In-Box Checker",
-   "summary": "Also: The company rolls out a retail store tool to reduce wasted inventory.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-25/apple-to-unveil-touch-screen-macbook-pro-executive-promotions-in-box-checker",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.3
+   "heat": 242.5
   },
   {
    "cat": "sector",
@@ -307,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.3
+   "heat": 242.5
   },
   {
    "cat": "sector",
@@ -321,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.3
+   "heat": 242.5
   },
   {
    "cat": "sector",
@@ -335,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.3
+   "heat": 242.5
   },
   {
    "cat": "sector",
@@ -349,21 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-25 21:22",
-   "title": "US Weighs Iran Escalation, Trump, Obama Hit Campaign Trail, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-25/us-weighs-iran-escalation-trump-obama-hit-campaign-trail-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.2
+   "heat": 242.5
   },
   {
    "cat": "sector",
@@ -377,63 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-25 20:27",
-   "title": "MicroPort Appoints Jonathan Chen CEO After Chairman Resigns",
-   "summary": "MicroPort Scientific Corp. appointed Jonathan W. Chen as chief executive officer after the company’s chairman stepped down from the board.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-25/microport-appoints-jonathan-chen-ceo-after-chairman-resigns",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-25 20:00",
-   "title": "Riyadh Airport Reopens After Houthi Attacks, France Dodges Riots",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-25/riyadh-airport-reopens-after-houthi-attacks-france-dodges-riots",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-22 02:08",
-   "title": "Beijing Stock Exchange Plans IPO Allotment Changes and BSE 50 ETF",
-   "summary": "Beijing Stock Exchange Plans IPO Allotment Changes and BSE 50 ETF &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRUFvQzF0azAtZE1tN05TblJTMXBmcS1aVHdHRmRYdF9naXl2NjRUa1V1NDBfQ0pDWFAtbG14RU1pZXVvem1ieTBLak40c01nQ0dBVUpsYlJic3lpaEppWDVRejdvcFNOSXZKV1NMMWl3eVlnOWRNY2E4aUlxd2JnUVQ5NmxZZE9kZkZXVDI0WTNhSDh0NlYxbk9kM1J0SUNHVFhrWU1iZS1EU2xISDM1UUtKeXRQYXUtVXBpTw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 128.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-25 02:56",
-   "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
-   "summary": "Biotech stocks are rallying as clinical wins, M&A and new drug technologies revive the sector. Here are the ETFs and stocks analysts favor.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 124.2
+   "heat": 242.4
   },
   {
    "cat": "stock",
@@ -447,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 116.0
+   "heat": 100.0
   },
   {
    "cat": "stock",
@@ -461,77 +433,21 @@
      "t": "sec"
     }
    ],
-   "heat": 116.0
+   "heat": 100.0
   },
   {
    "cat": "stock",
-   "time": "2026-10-25 06:02",
-   "title": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus - ",
-   "summary": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus &nbsp;&nbsp; Stocktwits",
+   "time": "2026-10-26 05:53",
+   "title": "North American Stock Markets Today: S&P 500, Dow Jones, Nasdaq and TSX Rise as SpaceX and Super Micro Revive the AI Trad",
+   "summary": "North American Stock Markets Today: S&P 500, Dow Jones, Nasdaq and TSX Rise as SpaceX and Super Micro Revive the AI Trade &nbsp;&nbsp; BBN Times",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQzF2VEYzX3F5VWswOWdIMk9uWHJ6elE5SjZBeVJKeGdMaDZkMS1nNFVLOEhzbXJhMXkxcFUtUkxGT0NrY2RtVU4ybXRVOEpfamxOb1AzNVV3ek5aY3hvMi1yQmdtZEVKWXgtNU14MDUyM1RaU2ZnVGNzOWlVSmgyVERrSlZYRjRXSHYzU09FbGdEY1NESHR1Z2pzV0hGNkUtT0lvbVktWkowOGpNcUtjV1ZSUWJoVHFoWk92UDVFVjhPcnBPMmdxMnNZeG9CWmJjc1NIalpiVlJyS3NzaGkycGRtalpfR1hrTE43WGswMkE3SThBdFBoc3VFY0xmQnFHYWdYYnhKNnVjejA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRkZfaGZBVmExSlUzUVhzQ05YcW9xcnMyckYySnNHTEotOUxxejBDNk1URmlHeU1IenlYTkQzREt2LTItNHdWaFI1ei1ZQ0dtNFd3V1hNa0UwWUZCd2p6bEhoRlV0V3c5NFQ3d0hxeFZneDAxUjhGaE9wLTdPZUppZjBKakhXMnJxbms2Q1ZUeW5CQlo4enJTRFBDM3RPYzFzby1seUJXaERZUldoejl2MjRDNnQ2UzRVem5WRmlPa2oyTzJvMlRKN3lRcDc0OVh3cjEyUVl5NDVtb3cwUGdyVEowcEVzTU90NVpyZm92UQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 108.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-25 15:32",
-   "title": "Jefferies upgrades Dr. Reddy’s stock rating on margin outlook",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/jefferies-upgrades-dr-reddys-stock-rating-on-margin-outlook-93CH-4971223",
-     "t": "agg"
-    }
-   ],
-   "heat": 108.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-25 13:16",
-   "title": "Medpace CEO August Troendle sells $1.59 million in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/medpace-ceo-august-troendle-sells-159-million-in-stock-93CH-4971193",
-     "t": "agg"
-    }
-   ],
-   "heat": 107.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-25 12:45",
-   "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 2.65%",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175",
-     "t": "agg"
-    }
-   ],
-   "heat": 107.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-24 23:00",
-   "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
-   "summary": "Retail investors trying to beat the market by buying individual stocks and complex exchange-traded funds may be better off with broad market index funds.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 107.5
+   "heat": 91.8
   },
   {
    "cat": "stock",
@@ -545,21 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-23 23:49",
-   "title": "North American Stock Markets Today: S&P 500, Dow Jones, Nasdaq and TSX Rise as SpaceX and Super Micro Revive the AI Trad",
-   "summary": "North American Stock Markets Today: S&P 500, Dow Jones, Nasdaq and TSX Rise as SpaceX and Super Micro Revive the AI Trade &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRkZfaGZBVmExSlUzUVhzQ05YcW9xcnMyckYySnNHTEotOUxxejBDNk1URmlHeU1IenlYTkQzREt2LTItNHdWaFI1ei1ZQ0dtNFd3V1hNa0UwWUZCd2p6bEhoRlV0V3c5NFQ3d0hxeFZneDAxUjhGaE9wLTdPZUppZjBKakhXMnJxbms2Q1ZUeW5CQlo4enJTRFBDM3RPYzFzby1seUJXaERZUldoejl2MjRDNnQ2UzRVem5WRmlPa2oyTzJvMlRKN3lRcDc0OVh3cjEyUVl5NDVtb3cwUGdyVEowcEVzTU90NVpyZm92UQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 104.0
+   "heat": 86.4
   },
   {
    "cat": "stock",
@@ -573,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -587,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -601,7 +503,7 @@
      "t": "sec"
     }
    ],
-   "heat": 104.0
+   "heat": 84.0
   },
   {
    "cat": "stock",
@@ -615,105 +517,147 @@
      "t": "sec"
     }
    ],
-   "heat": 104.0
+   "heat": 84.0
   },
   {
-   "cat": "global",
-   "time": "2026-10-25 18:00",
-   "title": "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
-   "summary": "The European Central Bank’s presidency race looks increasingly likely to hinge on which candidate can best take on the bond vigilantes.",
+   "cat": "stock",
+   "time": "2026-10-23 11:51",
+   "title": "Best S&P 500 Stocks Standalone - Stocks Down Under",
+   "summary": "Best S&P 500 Stocks Standalone &nbsp;&nbsp; Stocks Down Under",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-25/french-bond-rout-puts-crisis-at-heart-of-ecb-succession-endgame",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sMlRvRTEzbE9ZRjJzNTBUSUl1aDZzTFVuQVlQT2RpZU5tRFVITWVHVzNhb2FvU0VZY2RwRERfd0ppNkJfbGptSDdBUHE4aE1XRHROOFNOUkUxeGEzU0NzMVJyY0VGc1R0elE?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 22.7
+   "heat": 84.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-23 05:50",
+   "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump - The Guardian",
+   "summary": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump &nbsp;&nbsp; The Guardian",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54NFI0QklmZmNMaUUzNHczNzhBcE96NzlsZWxQZk53ZlAybGlpSGoydktudkplQWp5STJwNUhYLTFRQjdKZXpyV3lkTG5YWnViODY1aEpSZTc1eWNBaGtwT1dMQkhPSUd4UjJGMGFxZDRPMVp0WURlTkw4NjVBc2M?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-23 04:01",
+   "title": "US STOCKS-S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Devdiscourse",
+   "summary": "US STOCKS-S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff &nbsp;&nbsp; Devdiscourse",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZnd3OTBtaVF0ZUNKTnQ4MGpwcmlpQWVFMkRRZ1RGN0lWQ05ILWNmVFNISE45ME1lM3NENDQxbVJUcFhJU2cyUUhNZ0s4cUNaaUlMYzQ2TUdqZHJHWVEwWklqSXhjRENzejlNY0hqcWQ0SlJxRTRaaUVyZkJVa2pDd0wwcGhwOE9rLUw2S2hBSXp6TGJmM1dZQ25EME53bGNKc2hjWUVBWHFVY2hHY1Z6c1FZWEJjcm80ZU1zTWtJdkQtcXlnVWdsQnlWcUFNNnlLNk1peS1LeUh1QXk1T2fSAd4BQVVfeXFMTWZ3dzkwbWlRdGVDSk50ODBqcHJpaUFlRTJEUWdURjdJVkNOSC1jZlRTSEhOOTBNZTNzRDQ0MW1SVHBYSVNnMlFITWdLOHFDWmlJTGM0Nk1HamRyR1lRMFpJakl4Y0RDc3o5TWNIanFkNEpScUU0WmlFcmZCVWtqQ3dMMHBocDhPay1MNktoQUl6ekxiZjNXWUNuRDBOd2xjSnNoY1lFQVhxVWNoR2NWenNRWVhCY3JvNGVNc01rSXZELXF5Z1VnbEJ5VnFBTTZ5SzZNaXktS3lIdUF5NU9n?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-22 23:40",
+   "title": "Toronto Stock Exchange: S&P/TSX Composite Drops More Than 400 Points as Gold and Metals Slide - BBN Times",
+   "summary": "Toronto Stock Exchange: S&P/TSX Composite Drops More Than 400 Points as Gold and Metals Slide &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUzgzXzRRSFFKQndOUFlDX25PaThCanlIZnZubFIwcDRTeXhBYjc1YnotOWJVamVHQ0hOQVhXcVlLa1RtUVJTZGFvT1VFRTlUNVNlOW9zOFVmYUQ2TDc1VEpmMkZMUGZnbVgycmJhaWlFbENfZzBURDVad21CaWU5RVNvdUZ5aXBmMmd1b0ZudHpJb2tEeWhOTDZWa0NhalFBd2NwZWs5LXBOY0dVTEN4QlNlVU5nbHBEeXRMMUVwaGQ2XzFLUjdUaFhVZU0?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-22 21:47",
+   "title": "AI stocks tumble and drag down markets worldwide as oil prices climb - BNN Bloomberg",
+   "summary": "AI stocks tumble and drag down markets worldwide as oil prices climb &nbsp;&nbsp; BNN Bloomberg",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNmRwS0szcjVlQzJyYXhVQ2ZBbHlqX3E3NF95V0xTSTVXcHJHdDlOY2FfQ1BBUll6a2JCYUtHaVQ5NEUzM01mNThuaHlUMEI4a3dqUFVkX0hNWWxZWnlrbEd1am1CMUVDZTBpdVNobzIzSWV5UVNSR0FYbEVsR05EUndEWUI1Vzg5dnlBQlc0R0dyWUZIMHlieUdoZHBJR3BySWlIdlNhMzU5M001cWVXbmNFcUR3OVR5WUExRzNPU0RrWEp5ckNJ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-22 20:37",
+   "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Drop Following Asian Market Sell-off, Middle E - Benzinga",
+   "summary": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Drop Following Asian Market Sell-off, Middle E &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPOVlPODIzdV8yUGJfZHZnMURCTU04czVhMnZuZkVmelRNR3BtQmVBZzdyZ2ptNXd2WFBpSFktLWhKUXdGS0VMaVNjcFRnY2FvQlRXS3JtdzN2STRPNGtST1FPU2dlMENuTDVuLTFDWHFtakNJSUJuSW1LdHV6bGU4eWs3blhBc0VIcTdReUxIX0lDMVpoNFJLdFd1N1pGXzhURkZxekRNWWQ5c2lONzcxTTZUc0R5U19PcWlqZjZDenVFOC1ESXZobzVjOTZLcFlSWDdqU3NaMVNwbVF1T2h2S052N1o5WHhSUy02T19IV21LYm1NVnRpc0JkWk5OUEUzb0Y0bWlTNA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-22 15:00",
+   "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
+   "summary": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? &nbsp;&nbsp; U.S. Bank",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 84.0
   },
   {
    "cat": "global",
-   "time": "2026-10-23 18:40",
-   "title": "European Natural Gas Prices Surge to Highest Level Since 2022",
-   "summary": "",
+   "time": "2026-10-26 06:09",
+   "title": "US Equity Futures Climb as Crude Oil Price Dips: Markets Wrap",
+   "summary": "US stock futures advanced and crude oil retreated as traders weighed the latest geopolitical developments over Iran and looked ahead to a string of central bank rate decisions this…",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/european-natural-gas-prices-surge-to-highest-level-since-2022-200690144",
-     "t": "agg"
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
+     "t": "sec"
     }
    ],
-   "heat": 14.0
+   "heat": 27.9
   },
   {
    "cat": "global",
-   "time": "2026-10-23 17:14",
-   "title": "EUR/USD: The French Debt Crisis Adds to Pressure on the Euro",
-   "summary": "",
+   "time": "2026-10-26 06:04",
+   "title": "Latest Oil Market News and Analysis for Oct. 26",
+   "summary": "Oil edged lower from a six-month high, even as US President Donald Trump signaled he was prepared to resume attacks on Iran.",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/eurusd-the-french-debt-crisis-adds-to-pressure-on-the-euro-200690135",
-     "t": "agg"
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-25/latest-oil-market-news-and-analysis-for-oct-26",
+     "t": "sec"
     }
    ],
-   "heat": 14.0
+   "heat": 23.9
   },
   {
    "cat": "global",
-   "time": "2026-10-23 03:01",
-   "title": "EUR/USD French Bond Stress Deepens the Euro’s Downside Risk",
+   "time": "2026-10-25 21:53",
+   "title": "Goldman lists 3 factors that support long commodities positions",
    "summary": "",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/eurusd-french-bond-stress-deepens-the-euros-downside-risk-200690101",
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/goldman-lists-3-factors-that-support-long-commodities-positions-4971269",
      "t": "agg"
     }
    ],
-   "heat": 14.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-24 04:24",
-   "title": "Gold Price Tests $4,000 Support as Bearish Gaps Signal Further Downside Risks",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-price-tests-4000-support-as-bearish-gaps-signal-further-downside-risks-200690182",
-     "t": "agg"
-    }
-   ],
-   "heat": 10.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-23 16:45",
-   "title": "Gold at $4,000: Why $3,600 Could Matter Next",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-at-4000-why-3600-could-matter-next-200690131",
-     "t": "agg"
-    }
-   ],
-   "heat": 10.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-23 15:18",
-   "title": "Gold Futures Risk Further Losses as Bearish Crossover Signals Downside",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-futures-risk-further-losses-as-bearish-crossover-signals-downside-200690128",
-     "t": "agg"
-    }
-   ],
-   "heat": 10.0
+   "heat": 20.5
   },
   {
    "cat": "global",
@@ -727,7 +671,7 @@
      "t": "sec"
     }
    ],
-   "heat": 8.0
+   "heat": 16.0
   },
   {
    "cat": "global",
@@ -741,7 +685,49 @@
      "t": "sec"
     }
    ],
-   "heat": 8.0
+   "heat": 16.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-24 04:24",
+   "title": "Gold Price Tests $4,000 Support as Bearish Gaps Signal Further Downside Risks",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-price-tests-4000-support-as-bearish-gaps-signal-further-downside-risks-200690182",
+     "t": "agg"
+    }
+   ],
+   "heat": 14.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-23 16:45",
+   "title": "Gold at $4,000: Why $3,600 Could Matter Next",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-at-4000-why-3600-could-matter-next-200690131",
+     "t": "agg"
+    }
+   ],
+   "heat": 14.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-23 15:18",
+   "title": "Gold Futures Risk Further Losses as Bearish Crossover Signals Downside",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-futures-risk-further-losses-as-bearish-crossover-signals-downside-200690128",
+     "t": "agg"
+    }
+   ],
+   "heat": 14.0
   },
   {
    "cat": "global",
@@ -755,7 +741,49 @@
      "t": "agg"
     }
    ],
-   "heat": 6.2
+   "heat": 10.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-23 18:40",
+   "title": "European Natural Gas Prices Surge to Highest Level Since 2022",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/european-natural-gas-prices-surge-to-highest-level-since-2022-200690144",
+     "t": "agg"
+    }
+   ],
+   "heat": 10.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-23 17:14",
+   "title": "EUR/USD: The French Debt Crisis Adds to Pressure on the Euro",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/eurusd-the-french-debt-crisis-adds-to-pressure-on-the-euro-200690135",
+     "t": "agg"
+    }
+   ],
+   "heat": 10.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-23 03:01",
+   "title": "EUR/USD French Bond Stress Deepens the Euro’s Downside Risk",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/eurusd-french-bond-stress-deepens-the-euros-downside-risk-200690101",
+     "t": "agg"
+    }
+   ],
+   "heat": 10.0
   },
   {
    "cat": "global",
@@ -800,34 +828,6 @@
    "heat": 6.0
   },
   {
-   "cat": "global",
-   "time": "2026-10-24 10:12",
-   "title": "Trading the S&P 500 - FOREX.com",
-   "summary": "Trading the S&P 500 &nbsp;&nbsp; FOREX.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TdFJNdmRpc3JhelJ2Zkx4cTJoWWZHTG5mSEs0LVhGeFFqMjk5cEhEOHFpSVhNdjNJNnNzbE5OckNCZ0pjaU85eTdJc1dBbTNUY19xR1dvWUlrcW5TbF9VaDVBeGlKd1htT2Jj?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 5.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-22 11:04",
-   "title": "“通吃”28万亿美元市场！小摩极度看好SpaceX：三倍行情有望？",
-   "summary": "“通吃”28万亿美元市场！小摩极度看好SpaceX：三倍行情有望？ &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SWmFxTUI1Rk5WNUlZRmZ0b3lXY1pTOGNPWkpCM0tKRFNERXd2alhQaWVTR2ppclVWd3otRUc1Qm5fUmJyQTIxYg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 4.0
-  },
-  {
    "cat": "crypto",
    "time": "2026-10-23 21:38",
    "title": "Here’s what happened in crypto today",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 59.5
+   "heat": 58.7
   },
   {
    "cat": "crypto",
@@ -867,21 +867,21 @@
      "t": "sec"
     }
    ],
-   "heat": 50.9
+   "heat": 50.1
   },
   {
    "cat": "crypto",
-   "time": "2026-10-25 21:00",
-   "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
-   "summary": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks.",
+   "time": "2026-10-26 06:48",
+   "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+   "summary": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can.",
    "srcs": [
     {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 43.2
+   "heat": 48.0
   },
   {
    "cat": "crypto",
@@ -895,7 +895,21 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 48.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-25 21:00",
+   "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+   "summary": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+     "t": "sec"
+    }
+   ],
+   "heat": 42.3
   },
   {
    "cat": "crypto",
@@ -909,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 38.8
+   "heat": 38.0
   },
   {
    "cat": "crypto",
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.5
+   "heat": 36.0
   },
   {
    "cat": "crypto",
@@ -965,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.7
+   "heat": 30.8
   },
   {
    "cat": "crypto",
@@ -979,7 +993,21 @@
      "t": "sec"
     }
    ],
-   "heat": 31.3
+   "heat": 30.5
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-24 02:39",
+   "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+   "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 28.0
   },
   {
    "cat": "crypto",
@@ -1010,34 +1038,6 @@
    "heat": 28.0
   },
   {
-   "cat": "crypto",
-   "time": "2026-10-23 20:23",
-   "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
-   "summary": "Bitcoin price volatility cooled as stock markets battled another day of resurgent AI fears during Friday’s Asia trading session.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 28.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-24 02:39",
-   "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-   "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.1
-  },
-  {
    "cat": "sector",
    "time": "2026-10-19 13:31",
    "title": "OpenAI布局人形机器人研发，具身智能赛道迎新变量，关注机器人ETF易方达（159530）投资机会",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 244.0
+   "heat": 236.0
   }
  ]
 }
