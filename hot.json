@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-25 10:33",
+ "updated": "2026-10-25 15:57",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-10-24 20:00",
+   "title": "Making Advanced MicroChips Takes a Global Ecosystem",
+   "summary": "On Bloomberg This Weekend, Gideon Lewis-Kraus explains how advanced chipmaking depends on a deeply interconnected global network of specialized companies, including ASML and TSMC, …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-24/making-advanced-microchips-takes-a-global-ecosystem-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 252.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-24 19:00",
+   "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+   "summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 252.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-25 13:40",
+   "title": "Singapore’s Wong Vows More Support for Workers, Energy Security",
+   "summary": "Singapore Prime Minister Lawrence Wong pledged more support for workers and households, and said the government would step up efforts to secure energy supplies and attract investme…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-25/singapore-s-wong-vows-more-support-for-workers-energy-security",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-25 13:15",
+   "title": "S&P 500 Forecast: SPX set for a weekly decline led lower by tech as AI worries linger - StoneX",
+   "summary": "S&P 500 Forecast: SPX set for a weekly decline led lower by tech as AI worries linger &nbsp;&nbsp; StoneX",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZktHLXhFSHBWaVlnbUxVVENzb19pd1NaRkFqQndETFFpbzhBUENraThmMkp2WU1UVC1meXdROUJhVFV5UzFRYzN6WWo1MXF1OGdpRV85VnpzaWZvWFk3cmVDbUthZkRtcVEwVUlldG9OVnBpcFJES0tXN1FZY0xDUzVOX1NmOXhybFlPOHFLMXZZTUl2UG9kSGJJVjRqLWtxb0tnem5qUGkzbURXc1R5SnY1aksyLURnWkRacXVDN2ZfX2JOU2hmQmNpWGkzMGc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-25 11:14",
+   "title": "Australia Police Chief Says Angry Debate Adds Risks to Lawmakers",
+   "summary": "Acrimonious political debate in Australia is escalating risks to legislators, one of the country’s most senior police officers said after a lawmaker suffered serious injuries follo…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-25/australia-police-chief-says-angry-debate-adds-risks-to-lawmakers",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.2
+  },
   {
    "cat": "sector",
    "time": "2026-10-25 06:25",
@@ -13,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 259.3
+   "heat": 250.4
   },
   {
    "cat": "sector",
@@ -27,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 259.2
+   "heat": 250.3
   },
   {
    "cat": "sector",
@@ -41,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 259.2
+   "heat": 250.3
   },
   {
    "cat": "sector",
@@ -55,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 259.2
+   "heat": 250.3
   },
   {
    "cat": "sector",
@@ -69,77 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 259.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-25 05:07",
-   "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
-   "summary": "A memo from DNI director Jay Clayton said Iran is in the \"advanced stages\" of planning attacks against Americans.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 259.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-25 04:38",
-   "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
-   "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 259.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-25 04:36",
-   "title": "Braskem Discloses Details of Debt Rework Proposals to Investors",
-   "summary": "Braskem SA said it disclosed to certain debt holders and investors details of restructuring proposals related to an $11 billion out-of-court debt rework.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-24/braskem-discloses-details-of-debt-rework-proposals-to-investors",
-     "t": "sec"
-    }
-   ],
-   "heat": 259.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-25 02:49",
-   "title": "Violence flares in Paris after massive, largely peaceful protests across France",
-   "summary": "France's Interior Ministry said 410,000 people took part in protests nationwide, though unions said the true figure was twice as high.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/24/france-paris-protests.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 258.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-25 01:19",
-   "title": "S&P 500 Forecast: SPX set for a weekly decline led lower by tech as AI worries linger - StoneX",
-   "summary": "S&P 500 Forecast: SPX set for a weekly decline led lower by tech as AI worries linger &nbsp;&nbsp; StoneX",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZktHLXhFSHBWaVlnbUxVVENzb19pd1NaRkFqQndETFFpbzhBUENraThmMkp2WU1UVC1meXdROUJhVFV5UzFRYzN6WWo1MXF1OGdpRV85VnpzaWZvWFk3cmVDbUthZkRtcVEwVUlldG9OVnBpcFJES0tXN1FZY0xDUzVOX1NmOXhybFlPOHFLMXZZTUl2UG9kSGJJVjRqLWtxb0tnem5qUGkzbURXc1R5SnY1aksyLURnWkRacXVDN2ZfX2JOU2hmQmNpWGkzMGc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 258.5
+   "heat": 250.2
   }
  ]
 }
