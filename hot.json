@@ -1,103 +1,61 @@
 {
- "updated": "2026-10-26 23:40",
+ "updated": "2026-10-27 06:07",
  "items": [
   {
-   "cat": "stock",
-   "time": "2026-10-22 02:08",
-   "title": "Beijing Stock Exchange Plans IPO Allotment Changes and BSE 50 ETF",
-   "summary": "Beijing Stock Exchange Plans IPO Allotment Changes and BSE 50 ETF &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRUFvQzF0azAtZE1tN05TblJTMXBmcS1aVHdHRmRYdF9naXl2NjRUa1V1NDBfQ0pDWFAtbG14RU1pZXVvem1ieTBLak40c01nQ0dBVUpsYlJic3lpaEppWDVRejdvcFNOSXZKV1NMMWl3eVlnOWRNY2E4aUlxd2JnUVQ5NmxZZE9kZkZXVDI0WTNhSDh0NlYxbk9kM1J0SUNHVFhrWU1iZS1EU2xISDM1UUtKeXRQYXUtVXBpTw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 220.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-26 20:38",
-   "title": "US Stocks Gain as Investors Parse Anthropic IPO Filing",
-   "summary": "US stocks gained on Monday as investors digest Anthropic PBC’s filing for its initial public offering and look forward to key big tech earnings this week as well as the Federal Res…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/us-stock-futures-gain-ahead-of-big-tech-earnings-fed-decision",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-26 21:56",
-   "title": "Stocks Rise at Open, Anthropic Files for IPO, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-26/stocks-rise-at-open-anthropic-files-for-ipo-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-26 21:24",
-   "title": "Anthropic Files for IPO, Brazil Stocks Drop, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-26/anthropic-files-for-ipo-brazil-stocks-drop-more-mvpag10b",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-26 06:09",
-   "title": "Stocks Climb as Anthropic Files for IPO; Oil Falls: Markets Wrap",
-   "summary": "A drop in oil prices lifted stocks and bonds, with traders bracing for this week’s Federal Reserve decision and results from tech giants valued at more than $10 trillion.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
-     "t": "sec"
-    }
-   ],
-   "heat": 209.1
-  },
-  {
    "cat": "sector",
-   "time": "2026-10-26 23:28",
-   "title": "Anthropic Highlights Disruptions to TSMC Operations as a Risk",
-   "summary": "Anthropic PBC warned that disruptions to Taiwan Semiconductor Manufacturing Co.’s operations could hinder its businesses, joining a list of technology companies that have underline…",
+   "time": "2026-10-27 05:00",
+   "title": "Memory Titans Test AI Demand While Bubble Fears Transfix Markets",
+   "summary": "From South Korea to Japan and China, the world’s biggest memory chipmakers will this week seek to quell fears that AI spending is outpacing future demand. How they handle back-to-b…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-highlights-disruptions-to-tsmc-operations-as-a-risk",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-26/memory-titans-test-ai-demand-while-bubble-fears-transfix-markets",
      "t": "sec"
     }
    ],
-   "heat": 192.0
+   "heat": 207.8
   },
   {
    "cat": "sector",
-   "time": "2026-10-26 23:26",
-   "title": "SpaceX's AI infrastructure plans are not yet fully priced in, analysts say",
-   "summary": "Bernstein and Deutsche Bank raised their price targets on SpaceX.",
+   "time": "2026-10-27 06:01",
+   "title": "Bloomberg Businessweek Daily: Dems Vow Fresh Probes (Podcast)",
+   "summary": "Source: Bloomberg, 10:56",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/26/spacexs-ai-infrastructure-plans-are-not-fully-priced-in-analysts-say.html",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-26/bloomberg-businessweek-daily-dems-vow-fresh-probes-podcast",
      "t": "sec"
     }
    ],
-   "heat": 192.0
+   "heat": 200.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 06:01",
+   "title": "The High Price of India’s iPhone Manufacturing Boom",
+   "summary": "India now makes one in four iPhones, but its dependence on imported components remains substantial. Bloomberg Opinion columnist Andy Mukherjee says the country's manufacturing gain…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-26/the-high-price-of-india-s-iphone-manufacturing-boom",
+     "t": "sec"
+    }
+   ],
+   "heat": 200.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 06:00",
+   "title": "Spain Eases Data Center Energy Rules in Win for Big Tech",
+   "summary": "Spain is easing rules for data center power usage after an initial government proposal faced strong industry backlash.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-26/spain-eases-data-center-energy-rules-in-win-for-big-tech",
+     "t": "sec"
+    }
+   ],
+   "heat": 200.0
   },
   {
    "cat": "sector",
@@ -111,35 +69,77 @@
      "t": "sec"
     }
    ],
-   "heat": 192.0
+   "heat": 200.0
   },
   {
    "cat": "sector",
-   "time": "2026-10-26 23:16",
-   "title": "Citadel Securities’ Shah Says AI Trade Has No ‘Margin for Error’",
-   "summary": "Markets have become so invested in the artificial intelligence trade that there is very little room for error if the massive spending doesn’t pay off, according to Citadel Securiti…",
+   "time": "2026-10-27 05:43",
+   "title": "Pimco Scoops Up $4 Billion of Massive SpaceX AI Debt Package",
+   "summary": "Pacific Investment Management Co. bought a $4 billion slice of a huge SpaceX financing deal that will help expand its artificial intelligence ambitions, according to people familia…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/citadel-securities-shah-says-ai-trade-has-no-margin-for-error",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-26/pimco-scoops-up-4-billion-of-massive-spacex-ai-debt-package",
      "t": "sec"
     }
    ],
-   "heat": 191.9
+   "heat": 199.9
   },
   {
    "cat": "sector",
-   "time": "2026-10-26 23:12",
-   "title": "Wheat Erases Black Sea Premium as Russia Signals Shipping Talks",
-   "summary": "Wheat futures erased the Black Sea risk premium that had built since Russia and Ukraine escalated attacks in early July, after a report that Moscow is considering proposals to secu…",
+   "time": "2026-10-27 05:28",
+   "title": "Odd Lots: AI Agents Are Already Changing the Price of Goods",
+   "summary": "With the release of AI agents like Meta's Muse, tech companies are promising consumers that they will start saving them tons of money by finding the best deals. On this episode of …",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/wheat-erases-black-sea-premium-as-russia-signals-shipping-talks",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-26/odd-lots-ai-agents-are-changing-the-price-of-goods-video",
      "t": "sec"
     }
    ],
-   "heat": 191.9
+   "heat": 199.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 05:18",
+   "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
+   "summary": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 05:08",
+   "title": "Dubai’s DP World Signs MOU for Canada’s $57 Billion Churchill Port Project",
+   "summary": "Plus: Layoffs at ConocoPhillips’ Canadian ops",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-10-26/dubai-s-dp-world-signs-mou-for-canada-s-57-billion-churchill-port-project",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 05:01",
+   "title": "Blackstone Data-Center Operator QTS Seeks $800 Million in Private Placement Debt",
+   "summary": "QTS, a data-center operator backed by Blackstone Inc., is looking to raise around $800 million through a private placement of debt, as Wall Street looks to every corner of global c…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-26/blackstone-data-center-operator-qts-seeks-800-million-in-private-placement-debt",
+     "t": "sec"
+    }
+   ],
+   "heat": 199.8
   }
  ]
 }
