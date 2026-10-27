@@ -1,33 +1,117 @@
 {
- "updated": "2026-10-27 06:07",
+ "updated": "2026-10-27 11:07",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-10-27 05:00",
-   "title": "Memory Titans Test AI Demand While Bubble Fears Transfix Markets",
-   "summary": "From South Korea to Japan and China, the world’s biggest memory chipmakers will this week seek to quell fears that AI spending is outpacing future demand. How they handle back-to-b…",
+   "time": "2026-10-27 10:23",
+   "title": "China industrial profits post strongest growth in three months, rising 14.4%",
+   "summary": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/memory-titans-test-ai-demand-while-bubble-fears-transfix-markets",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
      "t": "sec"
     }
    ],
-   "heat": 207.8
+   "heat": 191.9
   },
   {
    "cat": "sector",
-   "time": "2026-10-27 06:01",
-   "title": "Bloomberg Businessweek Daily: Dems Vow Fresh Probes (Podcast)",
-   "summary": "Source: Bloomberg, 10:56",
+   "time": "2026-10-27 10:00",
+   "title": "BlackRock’s Rieder Spent All Weekend Doing Deals in AI Debt Rush",
+   "summary": "The AI-driven debt boom is creating some of the most attractive fixed-income opportunities in years, eclipsing the appeal of long-dated US Treasuries, according to BlackRock’s Rick…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-26/bloomberg-businessweek-daily-dems-vow-fresh-probes-podcast",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-27/blackrock-s-rieder-spent-all-weekend-doing-deals-in-ai-debt-rush",
      "t": "sec"
     }
    ],
-   "heat": 200.0
+   "heat": 187.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 09:50",
+   "title": "Anthropic Flags AI Risk Factors, Comey Charged Again, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-27/anthropic-flags-ai-risk-factors-comey-charged-again-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 09:05",
+   "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+   "summary": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 08:32",
+   "title": "LA Mayor’s Race: Billionaire Rick Caruso Backs Karen Bass Over Nithya Raman",
+   "summary": "Rick Caruso, the billionaire Los Angeles mall developer, said he is voting for his former rival Karen Bass for mayor as she fights for reelection against Nithya Raman, a city counc…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-27/la-mayor-s-race-billionaire-rick-caruso-backs-karen-bass-over-nithya-raman",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-26 08:12",
+   "title": "Anthropic预计资本开支仍将大幅增长 AI算力需求有望保持在高位",
+   "summary": "Anthropic预计资本开支仍将大幅增长 AI算力需求有望保持在高位 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wYlVHRGRiZllCTmt4NmFhZVNBa0VjS0FKWUIzOGQ5WWgwLWlwLWJkUkYxaW5STUtCSWZhOWh0d1plNnZ3aGhjSQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 07:10",
+   "title": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+   "summary": "Beijing has room to borrow, but heavily indebted local governments are cutting back, raising the stakes for growth and for how China manages its local debt.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 06:22",
+   "title": "The AI boom is happening at seven companies, the rest of the S&P 500 isn't seeing it - TechSpot",
+   "summary": "The AI boom is happening at seven companies, the rest of the S&P 500 isn't seeing it &nbsp;&nbsp; TechSpot",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnhKdzBBcjcwdkxLZXZpeTE0QmVTSUp6Sm94Z1llNUNsVnV3STE5QmdLdGpKRlFkSGh6T0Zic0lUR0JBNUt4cUpnTkptM0FfTUFaajdNMVpIdVdJM2dldmJhaEJ4dnUxeWp1T1M4TFc0RG9aSlp4TUJYOG5rUFR0aUo5U21OX0tOSExQbkp3bWk?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.2
   },
   {
    "cat": "sector",
@@ -41,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 200.0
+   "heat": 187.1
   },
   {
    "cat": "sector",
@@ -55,91 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 200.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-23 01:35",
-   "title": "S&P 500 Falls More Than 1% as Meta and Chip Stocks Slide and Brent Crude Hits $112 Amid US-Iran Tensions and the Ukraine",
-   "summary": "S&P 500 Falls More Than 1% as Meta and Chip Stocks Slide and Brent Crude Hits $112 Amid US-Iran Tensions and the Ukraine-Russia War &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaTUzUjZyUVZLcDlOeVV5aks1dF9fYTVfd1FMSUlDR2VfdDUxNnhraF9XWTUtQ29rVENRNG5Fa3NkOUtHV2tTTU1GYlF1cERqVFBtWjhJYzlMU0Z6ZFB2RFBMbWg1OXZFd3hWNS1uRFFXRngwbUpGb1J4RENfSWNxQjZnYUlrcTVBSHBPOXctWU1Nb1lSeXhSTDFuSzNyVkMxX19OUzVNUkJueHdKYTY4Mk1VMzM3cHBFekp2eER2Sm9DVjJ4WEFRUW9tSTZBV0QyakMtZUkwNFVxUVFUNkhqblRidVhSM2l0YXRTcEpjNVdlNS1sV0p6QlZ3TWgyUQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 200.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 05:43",
-   "title": "Pimco Scoops Up $4 Billion of Massive SpaceX AI Debt Package",
-   "summary": "Pacific Investment Management Co. bought a $4 billion slice of a huge SpaceX financing deal that will help expand its artificial intelligence ambitions, according to people familia…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/pimco-scoops-up-4-billion-of-massive-spacex-ai-debt-package",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 05:28",
-   "title": "Odd Lots: AI Agents Are Already Changing the Price of Goods",
-   "summary": "With the release of AI agents like Meta's Muse, tech companies are promising consumers that they will start saving them tons of money by finding the best deals. On this episode of …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-26/odd-lots-ai-agents-are-changing-the-price-of-goods-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 05:18",
-   "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
-   "summary": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 05:08",
-   "title": "Dubai’s DP World Signs MOU for Canada’s $57 Billion Churchill Port Project",
-   "summary": "Plus: Layoffs at ConocoPhillips’ Canadian ops",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-26/dubai-s-dp-world-signs-mou-for-canada-s-57-billion-churchill-port-project",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 05:01",
-   "title": "Blackstone Data-Center Operator QTS Seeks $800 Million in Private Placement Debt",
-   "summary": "QTS, a data-center operator backed by Blackstone Inc., is looking to raise around $800 million through a private placement of debt, as Wall Street looks to every corner of global c…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/blackstone-data-center-operator-qts-seeks-800-million-in-private-placement-debt",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.8
+   "heat": 187.1
   }
  ]
 }

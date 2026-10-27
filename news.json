@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-27 06:07",
+ "updated": "2026-10-27 11:07",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-10-27 09:44",
+   "title": "Japan’s Business Service Prices Accelerate Ahead of BOJ Meeting",
+   "summary": "Japan’s corporate service prices rose more quickly in September, adding to signs of growing inflation and supporting market expectations for the Bank of Japan to raise interest rat…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-27/japan-s-business-service-prices-accelerate-ahead-of-boj-meeting",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-27 08:17",
+   "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
+   "summary": "All survey respondents said they expect the BOJ to set the stage for a rate hike in December or January, as inflation and wages continue to rise.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-27 07:20",
+   "title": "Gold Steadies Near $4,000 as Traders Prepare for Fed Rate Call",
+   "summary": "Gold held near $4,000 an ounce as traders prepared for a Federal Reserve decision this week that’s expected to keep interest rates steady.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-26/gold-steadies-above-4-000-with-fed-rate-decision-in-focus",
+     "t": "sec"
+    }
+   ],
+   "heat": 71.4
+  },
   {
    "cat": "macro",
    "time": "2026-10-27 02:51",
@@ -13,35 +55,91 @@
      "t": "sec"
     }
    ],
-   "heat": 55.5
+   "heat": 70.6
   },
   {
    "cat": "macro",
-   "time": "2026-08-15 07:14",
-   "title": "Wall Street Week | Rerouting Global Trade, Private Equity Tested, Realizing Cuba’s Potential",
-   "summary": "This week, inflation may be edging lower, but as markets push rates higher, the Fed’s 2% inflation target might be a long way off. And, Mexico is building a land-based trade corrid…",
+   "time": "2026-10-27 10:39",
+   "title": "BlackRock's Rieder on Global Bonds, AI",
+   "summary": "Rick Rieder, CIO for Global Fixed Income at BlackRock, discusses his outlook for global rates and bonds, as well as the outlook for the fundraising on AI, as companies look to rais…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-08-14/wall-street-week-rerouting-trade-private-equity-test-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-27/blackrock-s-rieder-on-global-bonds-ai-video",
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 59.9
   },
   {
    "cat": "macro",
-   "time": "2026-10-27 05:41",
-   "title": "Anthropic's IPO puts power in the hands of founders, giving everyday shareholders little voice",
-   "summary": "Founder LLC is one component of the \"novel capital and corporate governance structure\" that Anthropic outlined in its public S-1 filing.",
+   "time": "2026-10-27 10:31",
+   "title": "BNY CFO on AI Strategy, Business Growth",
+   "summary": "Dermot McDonogh, Global CFO at BNY, discusses his outlook on the bank's growth and business strategies, as well as how he is monitoring AI so as to avoid overspending on related to…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/26/anthropic-ipo-founder-voting-control.html",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-27/bny-cfo-on-ai-strategy-business-growth-video",
      "t": "sec"
     }
    ],
-   "heat": 43.9
+   "heat": 59.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-27 10:30",
+   "title": "India Overnight Rates Climb as Liquidity Surplus Evaporates",
+   "summary": "Excess banking liquidity has dwindled to a little above 500 billion rupees from a record 11 trillion rupees last month.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-10-27/india-overnight-rates-climb-as-liquidity-surplus-evaporates",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-27 07:30",
+   "title": "Indonesia’s Rupiah Defense Seen Needing a Rate-Hike Turbocharge",
+   "summary": "Bank Indonesia may need to deploy more aggressive measures, including further rate hikes, to sustainably lift the rupiah from near-record lows, according to analysts.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-26/indonesia-s-rupiah-defense-seen-needing-a-rate-hike-turbocharge",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-27 06:50",
+   "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+   "summary": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-27 06:26",
+   "title": "Dave Lee: Anthropic Brings ‘Anti-Sell’ Strategy to Its IPO",
+   "summary": "Dave Lee, Bloomberg Opinion US Technology Columnist, joins Bloomberg Businessweek Daily to discuss his piece about Anthropic's IPO announcement. Lee writes about the firm's S-1 con…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-26/dave-lee-anthropic-brings-anti-sell-strategy-to-ipo-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.2
   },
   {
    "cat": "macro",
@@ -55,49 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 43.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-27 04:05",
-   "title": "Instacart to Wind Down Smart Cart Business Amid Sale Talks",
-   "summary": "Instacart will stop offering high-tech shopping carts to grocers, its first announced strategy shift since reports emerged that the company is in talks to sell itself.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/instacart-to-wind-down-smart-cart-business-amid-sale-talks",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-27 00:24",
-   "title": "Elon Musk says more than 200 neoclouds face 'guppy-level death'",
-   "summary": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-26 21:44",
-   "title": "Canadian dollar steadies after seven-day rally ahead of rate decisions",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/forex-news/canadian-dollar-steadies-after-sevenday-rally-ahead-of-rate-decisions-4973829",
-     "t": "agg"
-    }
-   ],
-   "heat": 40.6
+   "heat": 59.1
   },
   {
    "cat": "macro",
@@ -111,7 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 52.0
   },
   {
    "cat": "macro",
@@ -125,21 +181,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-27 02:37",
-   "title": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
-   "summary": "The Federal Trade Commission and 20 states have filed a lawsuit against Dollar General, claiming the retailer has charged customers more than advertised prices.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 27.4
+   "heat": 52.0
   },
   {
    "cat": "macro",
@@ -153,27 +195,13 @@
      "t": "agg"
     }
    ],
-   "heat": 23.4
+   "heat": 30.6
   },
   {
    "cat": "macro",
-   "time": "2026-06-13 07:14",
-   "title": "Wall Street Week | SpaceX Goes Public, Google’s AI Bet, World Cup Price Backlash",
-   "summary": "This week, the arrival of mega-IPOs is testing capital markets as investor appetite grows larger than supply. The federal government is making a direct investment in private techno…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-06-12/wall-street-week-google-s-ai-bet-world-cup-backlash-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-27 05:07",
-   "title": "U.S. Yields Top 5% Yet Stock Market Holds Steady Amid Strong Growth - 조선일보",
-   "summary": "U.S. Yields Top 5% Yet Stock Market Holds Steady Amid Strong Growth &nbsp;&nbsp; 조선일보",
+   "time": "2026-10-27 09:30",
+   "title": "U.S. Treasury Yields at 5% Fail to Tighten Financial Conditions - 조선일보",
+   "summary": "U.S. Treasury Yields at 5% Fail to Tighten Financial Conditions &nbsp;&nbsp; 조선일보",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
@@ -181,63 +209,119 @@
      "t": "sec"
     }
    ],
-   "heat": 11.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-26 14:14",
-   "title": "Gold Risks Deeper Losses as Iran War Fuels Energy Inflation Fears",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-risks-deeper-losses-as-iran-war-fuels-energy-inflation-fears-200690219",
-     "t": "agg"
-    }
-   ],
-   "heat": 11.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-20 14:06",
-   "title": "14:06:00【山东：到2030年全域旅游及相关产业增加值占GDP比重达到6%左右】",
-   "summary": "14:06:00【山东：到2030年全域旅游及相关产业增加值占GDP比重达到6%左右】 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NdjYxTy1xS2lvczg5VExpRGc5ZGFvbDdEam53UXJvOVRTWGUwazFWbzJZUXJudnIzWGxCX2NPem5aSnBSQ0F3ZQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 4.0
+   "heat": 27.7
   },
   {
    "cat": "sector",
-   "time": "2026-10-27 05:00",
-   "title": "Memory Titans Test AI Demand While Bubble Fears Transfix Markets",
-   "summary": "From South Korea to Japan and China, the world’s biggest memory chipmakers will this week seek to quell fears that AI spending is outpacing future demand. How they handle back-to-b…",
+   "time": "2026-10-27 10:23",
+   "title": "China industrial profits post strongest growth in three months, rising 14.4%",
+   "summary": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 191.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 10:00",
+   "title": "BlackRock’s Rieder Spent All Weekend Doing Deals in AI Debt Rush",
+   "summary": "The AI-driven debt boom is creating some of the most attractive fixed-income opportunities in years, eclipsing the appeal of long-dated US Treasuries, according to BlackRock’s Rick…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/memory-titans-test-ai-demand-while-bubble-fears-transfix-markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-27/blackrock-s-rieder-spent-all-weekend-doing-deals-in-ai-debt-rush",
      "t": "sec"
     }
    ],
-   "heat": 207.8
+   "heat": 187.8
   },
   {
    "cat": "sector",
-   "time": "2026-10-27 06:01",
-   "title": "Bloomberg Businessweek Daily: Dems Vow Fresh Probes (Podcast)",
-   "summary": "Source: Bloomberg, 10:56",
+   "time": "2026-10-27 09:50",
+   "title": "Anthropic Flags AI Risk Factors, Comey Charged Again, More",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-26/bloomberg-businessweek-daily-dems-vow-fresh-probes-podcast",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-27/anthropic-flags-ai-risk-factors-comey-charged-again-more",
      "t": "sec"
     }
    ],
-   "heat": 200.0
+   "heat": 187.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 09:05",
+   "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+   "summary": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 08:32",
+   "title": "LA Mayor’s Race: Billionaire Rick Caruso Backs Karen Bass Over Nithya Raman",
+   "summary": "Rick Caruso, the billionaire Los Angeles mall developer, said he is voting for his former rival Karen Bass for mayor as she fights for reelection against Nithya Raman, a city counc…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-27/la-mayor-s-race-billionaire-rick-caruso-backs-karen-bass-over-nithya-raman",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-26 08:12",
+   "title": "Anthropic预计资本开支仍将大幅增长 AI算力需求有望保持在高位",
+   "summary": "Anthropic预计资本开支仍将大幅增长 AI算力需求有望保持在高位 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wYlVHRGRiZllCTmt4NmFhZVNBa0VjS0FKWUIzOGQ5WWgwLWlwLWJkUkYxaW5STUtCSWZhOWh0d1plNnZ3aGhjSQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 07:10",
+   "title": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+   "summary": "Beijing has room to borrow, but heavily indebted local governments are cutting back, raising the stakes for growth and for how China manages its local debt.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-27 06:22",
+   "title": "The AI boom is happening at seven companies, the rest of the S&P 500 isn't seeing it - TechSpot",
+   "summary": "The AI boom is happening at seven companies, the rest of the S&P 500 isn't seeing it &nbsp;&nbsp; TechSpot",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnhKdzBBcjcwdkxLZXZpeTE0QmVTSUp6Sm94Z1llNUNsVnV3STE5QmdLdGpKRlFkSGh6T0Zic0lUR0JBNUt4cUpnTkptM0FfTUFaajdNMVpIdVdJM2dldmJhaEJ4dnUxeWp1T1M4TFc0RG9aSlp4TUJYOG5rUFR0aUo5U21OX0tOSExQbkp3bWk?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 187.2
   },
   {
    "cat": "sector",
@@ -251,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 200.0
+   "heat": 187.1
   },
   {
    "cat": "sector",
@@ -265,49 +349,21 @@
      "t": "sec"
     }
    ],
-   "heat": 200.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-23 01:35",
-   "title": "S&P 500 Falls More Than 1% as Meta and Chip Stocks Slide and Brent Crude Hits $112 Amid US-Iran Tensions and the Ukraine",
-   "summary": "S&P 500 Falls More Than 1% as Meta and Chip Stocks Slide and Brent Crude Hits $112 Amid US-Iran Tensions and the Ukraine-Russia War &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaTUzUjZyUVZLcDlOeVV5aks1dF9fYTVfd1FMSUlDR2VfdDUxNnhraF9XWTUtQ29rVENRNG5Fa3NkOUtHV2tTTU1GYlF1cERqVFBtWjhJYzlMU0Z6ZFB2RFBMbWg1OXZFd3hWNS1uRFFXRngwbUpGb1J4RENfSWNxQjZnYUlrcTVBSHBPOXctWU1Nb1lSeXhSTDFuSzNyVkMxX19OUzVNUkJueHdKYTY4Mk1VMzM3cHBFekp2eER2Sm9DVjJ4WEFRUW9tSTZBV0QyakMtZUkwNFVxUVFUNkhqblRidVhSM2l0YXRTcEpjNVdlNS1sV0p6QlZ3TWgyUQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 200.0
+   "heat": 187.1
   },
   {
    "cat": "sector",
    "time": "2026-10-27 05:43",
-   "title": "Pimco Scoops Up $4 Billion of Massive SpaceX AI Debt Package",
-   "summary": "Pacific Investment Management Co. bought a $4 billion slice of a huge SpaceX financing deal that will help expand its artificial intelligence ambitions, according to people familia…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/pimco-scoops-up-4-billion-of-massive-spacex-ai-debt-package",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 05:28",
-   "title": "Odd Lots: AI Agents Are Already Changing the Price of Goods",
-   "summary": "With the release of AI agents like Meta's Muse, tech companies are promising consumers that they will start saving them tons of money by finding the best deals. On this episode of …",
+   "title": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center",
+   "summary": "AirTrunk secured a A$4.25 billion ($3 billion) green loan to finance the development of a Sydney data center campus, a signal of confidence in a sector that’s taken a slew of hits …",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-26/odd-lots-ai-agents-are-changing-the-price-of-goods-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-26/airtrunk-secures-3-billion-green-loan-for-sydney-data-center",
      "t": "sec"
     }
    ],
-   "heat": 199.9
+   "heat": 187.1
   },
   {
    "cat": "sector",
@@ -321,49 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 05:08",
-   "title": "Dubai’s DP World Signs MOU for Canada’s $57 Billion Churchill Port Project",
-   "summary": "Plus: Layoffs at ConocoPhillips’ Canadian ops",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-26/dubai-s-dp-world-signs-mou-for-canada-s-57-billion-churchill-port-project",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 05:01",
-   "title": "Blackstone Data-Center Operator QTS Seeks $800 Million in Private Placement Debt",
-   "summary": "QTS, a data-center operator backed by Blackstone Inc., is looking to raise around $800 million through a private placement of debt, as Wall Street looks to every corner of global c…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/blackstone-data-center-operator-qts-seeks-800-million-in-private-placement-debt",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 04:44",
-   "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-   "summary": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 199.8
+   "heat": 187.0
   },
   {
    "cat": "sector",
@@ -377,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.8
+   "heat": 186.9
   },
   {
    "cat": "sector",
@@ -391,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 199.4
+   "heat": 186.6
   },
   {
    "cat": "sector",
@@ -405,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 198.9
+   "heat": 186.1
   },
   {
    "cat": "stock",
@@ -419,25 +433,25 @@
      "t": "sec"
     }
    ],
-   "heat": 180.0
+   "heat": 172.0
   },
   {
    "cat": "stock",
-   "time": "2026-10-27 04:12",
-   "title": "Stocks close higher as excitement over Anthropic IPO filing propels tech sector: Live updates",
-   "summary": "Traders looked ahead to the busiest week of earnings and the Federal Reserve's policy decision due on Wednesday.",
+   "time": "2026-10-27 09:00",
+   "title": "AI Trade Bounces Back as Anthropic IPO Eases Funding Jitters",
+   "summary": "Anthropic PBC’s initial public offering filing offered a much-needed sentiment boost to the AI trade, bolstering semiconductor stocks in South Korea and Japan.",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-27/asian-chip-stocks-rise-as-anthropic-ipo-filing-rekindles-ai-bets",
      "t": "sec"
     }
    ],
-   "heat": 175.7
+   "heat": 167.6
   },
   {
    "cat": "stock",
-   "time": "2026-10-27 04:25",
+   "time": "2026-10-27 07:28",
    "title": "Equities end higher as Anthropic's IPO filing buoys AI stocks",
    "summary": "Equities end higher as Anthropic's IPO filing buoys AI stocks &nbsp;&nbsp; Reuters",
    "srcs": [
@@ -447,49 +461,35 @@
      "t": "sec"
     }
    ],
-   "heat": 163.7
+   "heat": 167.4
   },
   {
    "cat": "stock",
-   "time": "2026-10-27 04:16",
-   "title": "Stocks Close Higher on AI Bets, Anthropic Lists Risks for IPO",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-10-27 05:51",
+   "title": "US equities end higher as Anthropic's IPO filing buoys AI stocks - The Business Times",
+   "summary": "US equities end higher as Anthropic's IPO filing buoys AI stocks &nbsp;&nbsp; The Business Times",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-26/stocks-close-higher-on-ai-bets-anthropic-lists-risks-for-ipo",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUTNnTDNEaXk5ZEtKNTg1NzNDMFhCcXBLQ1dXMmJLS0d5OFBuLUxtMTlRSHV6dXdLeWF5Vzk0NFJoY0NGZEp1ei1XZHVyZTdkRU96d2JiY0J3aXJMdnRaYW5QM2hPSldhdi1nYldxMXRYdDB0VjVDcnlIZ2RyMm94ZmxqNVVKS0NlMEYyREdHWDF2NFFjdC1wSlRLeTRQSDFQclJhN1FIQnFiQlpHc0kxWkpvcjJVQ0tHR1hIMkhRNi15RTNMRnFNUnJlOEpSOGpFQzJKSQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 163.7
+   "heat": 167.1
   },
   {
    "cat": "stock",
-   "time": "2026-10-26 22:05",
-   "title": "Meta announces $95 billion stock offering to fund AI expansion",
-   "summary": "Meta plans to raise $95 billion to fund AI infrastructure and superintelligence, as Nvidia, AMD and Broadcom eye up to $5 billion in shares.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 134.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-26 21:44",
-   "title": "Celestica stock surges 10% after earnings beat as AI demand boosts 2027 outlook",
+   "time": "2026-10-27 02:39",
+   "title": "Asia stocks jump as Anthropic IPO filing revives AI trade",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/earnings/celestica-stock-surges-10-after-earnings-beat-as-ai-demand-boosts-2027-outlook-4973830",
+     "u": "https://www.investing.com/news/stock-market-news/asia-stocks-jump-as-anthropic-ipo-filing-revives-ai-trade-4974091",
      "t": "agg"
     }
    ],
-   "heat": 132.6
+   "heat": 164.6
   },
   {
    "cat": "stock",
@@ -503,49 +503,35 @@
      "t": "sec"
     }
    ],
-   "heat": 128.0
+   "heat": 120.0
   },
   {
    "cat": "stock",
-   "time": "2026-10-27 05:44",
-   "title": "Stock Movers: Whirlpool, JetBlue, Instacart (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-26/stock-movers-whirlpool-jetblue-instacart-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 123.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-27 04:53",
-   "title": "Stocks making the biggest moves after hours: Whirlpool, JetBlue, Celestica & more",
-   "summary": "Here are some of the companies making headlines in extended trading.",
+   "time": "2026-10-27 10:35",
+   "title": "Stock futures are little changed after Wall Street starts the week on a winning note: Live updates",
+   "summary": "The major U.S. stock averages ended Monday's session with solid gains.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/26/stocks-making-the-biggest-moves-after-hours-whr-jblu-cls.html",
+     "u": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
      "t": "sec"
     }
    ],
-   "heat": 123.8
+   "heat": 111.9
   },
   {
    "cat": "stock",
-   "time": "2026-10-27 04:52",
-   "title": "Stock Movers: LITE, Brazil Markets, CART & DASH (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-10-27 06:03",
+   "title": "Tech Rally Extends to Asia on Anthropic, Oil Falls: Markets Wrap",
+   "summary": "A rally in Wall Street tech stocks following Anthropic PBC’s filing for an initial public offering carried into Asia, reviving enthusiasm for the artificial intelligence trade afte…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-26/stock-movers-lite-brazil-markets-cart-dash-podcast",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
      "t": "sec"
     }
    ],
-   "heat": 123.8
+   "heat": 111.2
   },
   {
    "cat": "stock",
@@ -559,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 123.7
+   "heat": 110.9
   },
   {
    "cat": "stock",
@@ -573,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 122.9
+   "heat": 110.1
   },
   {
    "cat": "stock",
@@ -587,7 +573,35 @@
      "t": "sec"
     }
    ],
-   "heat": 122.4
+   "heat": 109.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-27 02:33",
+   "title": "Carnage beneath the record high: How to find cheap stocks without the traps",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/carnage-beneath-the-record-high-how-to-find-cheap-us-stocks-without-the-traps-4974088",
+     "t": "agg"
+    }
+   ],
+   "heat": 108.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-27 02:15",
+   "title": "Phreesia president David Linetsky buys $682 in company stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/phreesia-president-david-linetsky-buys-682-in-company-stock-93CH-4974079",
+     "t": "agg"
+    }
+   ],
+   "heat": 108.5
   },
   {
    "cat": "stock",
@@ -601,91 +615,63 @@
      "t": "sec"
     }
    ],
-   "heat": 121.1
+   "heat": 108.3
   },
   {
    "cat": "stock",
-   "time": "2026-10-26 11:53",
-   "title": "Lula Upset Jolts Brazil Markets, Emerging Assets Sink",
-   "summary": "Brazil’s surprise election result dominated emerging-market trading Monday as the country’s stocks, currencies and debt plunged following Luiz Inácio Lula da Silva victory.",
+   "time": "2026-10-26 07:16",
+   "title": "US Stock Market prediction: S&P 500, Nasdaq, Dow Jones look to rebound as Wall Street investors set to be - The Economic",
+   "summary": "US Stock Market prediction: S&P 500, Nasdaq, Dow Jones look to rebound as Wall Street investors set to be &nbsp;&nbsp; The Economic Times",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/em-stocks-fall-before-key-earnings-brazil-in-focus-as-lula-wins",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQNjdvYVBCVWZDTENRd0J0Rmh2bmItNHJtcFdfbGdDRS1FMV9sTjRQdXk4VkxRblF4QVI3cGFRbHkxTm9ORTl5MlZkaERWQUxZa25PTVdDelYxZ2lYbGxJRjItZG1XWXRUZWtEQ1RWaDJNT0hfVzhqbXpiT2ZLczhTT19iV3JxbTBfTVhMZ1pYVE5VcTN6NE9qS1lSX19ZTVMtM0hTZDFGU1FSdjNBczRxWWJBeHNWTm9uMmJmdjQtOU9YYXNqV2s3SU5Oa0VQSk1CdExmVW9QNnBjbFF0OWxpOWZ3cTZ1Q0FfNS1wRElwMmRpRFN0UG1PNXl0dXFVTjNZNWVLQlJsbDdVRlpSZWU2eHRod0J3MGhSQzFreGQzakZ1REp2SUoxMjB1T2pXQlpMeU1pTmdLU3FKOHF6cUxoWjlVa2hyR3p2VmfSAcoCQVVfeXFMUDY3b2FQQlVmQ0xDUXdCdEZodm5iLTRybXBXX2xnQ0UtRTFfbE40UHV5OFZMUW5ReEFSN3BhUWx5MU5vTkU5eTJWZGhEVkFMWWtuT01XQ3pWMWdpWGxsSUYyLWRtV1l0VGVrRENUVmgyTU9IX1c4am16Yk9mS3M4U09fYldycW0wX01YTGdaWFROVXEzejRPaktZUl9fWU1TLTNIU2QxRlNRUnYzQXM0cVliQXhzVk5vbjJiZnY0LTlPWGFzaldrN0lOTmtFUEpNQnRMZlVvUDZwY2xRdDlsaTlmd3E2dUNBXzUtcERJcDJkaURTdFBtTzV5dHVxVU4zWTVlS0JSbGw3VUZaUmVlNnh0aHdCdzBoUkMxa3hkM2pGdURKdklKMTIwdU9qV0JaTHlNaU5nS1NxSjhxenFMaFo5VWtockd6dlZn?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 121.0
+   "heat": 107.4
   },
   {
    "cat": "global",
-   "time": "2026-10-26 20:16",
-   "title": "Moody’s Holds France Rating as Bond Premiums Narrow but Euro Struggles",
-   "summary": "",
+   "time": "2026-10-27 09:33",
+   "title": "India’s Biofuel Mandate Spurs Rush for Waste Cooking Oil to Fuel Trucks to Jets",
+   "summary": "The country’s biofuel mandate, driven by a need to cut its heavy dependence on imported crude, has refiners competing for used cooking oil.",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/moodys-holds-france-rating-as-bond-premiums-narrow-but-euro-struggles-200690259",
-     "t": "agg"
-    }
-   ],
-   "heat": 28.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-27 03:13",
-   "title": "AI Funding Drives US High-Grade Bond Sales to Annual Record",
-   "summary": "US investment-grade bond sales set an annual record on Monday, as a surge in artificial intelligence spending drives companies to borrow hundreds of billions of dollars.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/ai-funding-needs-drive-us-high-grade-bond-sales-to-annual-record",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-27/india-s-biofuel-mandate-spurs-rush-for-waste-cooking-oil-to-fuel-trucks-to-jets",
      "t": "sec"
     }
    ],
-   "heat": 27.5
+   "heat": 35.7
   },
   {
    "cat": "global",
-   "time": "2026-10-26 21:31",
-   "title": "Colombia Sells $5.2 Billion in New Bonds Amid Fiscal Strain",
-   "summary": "Colombia sold a record $5.2 billion in dollar-denominated bonds on Monday as a new administration pledges to rein in the widening budget gap and put the nation’s debt back on a sus…",
+   "time": "2026-10-27 07:00",
+   "title": "Iran War Boosts Malaysian Data Center Appeal, SD Guthrie Says",
+   "summary": "Malaysia is expected to attract more interest as a data center hub following the outbreak of the US-Iran war, according to SD Guthrie Bhd., giving the palm oil giant and the countr…",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/colombia-to-sell-new-dollar-bonds-amid-fiscal-pressures",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-26/iran-war-boosts-malaysian-data-center-appeal-sd-guthrie-says",
      "t": "sec"
     }
    ],
-   "heat": 26.6
+   "heat": 35.3
   },
   {
    "cat": "global",
-   "time": "2026-10-26 21:46",
-   "title": "Dollar rebounds as euro slips ahead of key central bank decisions",
-   "summary": "",
+   "time": "2026-10-27 06:03",
+   "title": "Latest Oil Market News and Analysis for Oct. 27",
+   "summary": "Oil declined for a second day — pulling further back from a six-month high — as stepped-up diplomatic efforts strengthened expectations that a broader escalation in the US-Iran war…",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
-     "t": "agg"
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-26/latest-oil-market-news-and-analysis-for-oct-27",
+     "t": "sec"
     }
    ],
-   "heat": 24.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-26 21:42",
-   "title": "Oil falls from near six-month high as Iran mediation efforts ease supply worries",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/commodities-news/oil-falls-from-6mth-highs-saudi-attacks-keep-supply-risks-in-focus-4971338",
-     "t": "agg"
-    }
-   ],
-   "heat": 24.6
+   "heat": 35.2
   },
   {
    "cat": "global",
@@ -699,7 +685,7 @@
      "t": "agg"
     }
    ],
-   "heat": 24.4
+   "heat": 31.5
   },
   {
    "cat": "global",
@@ -713,21 +699,7 @@
      "t": "agg"
     }
    ],
-   "heat": 24.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-27 05:32",
-   "title": "Big Take: When French Voters and Bond Markets Collide (Podcast)",
-   "summary": "Source: Bloomberg, 19:34",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-26/big-take-when-french-voters-and-bond-markets-collide-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.9
+   "heat": 31.2
   },
   {
    "cat": "global",
@@ -741,7 +713,7 @@
      "t": "agg"
     }
    ],
-   "heat": 23.3
+   "heat": 30.5
   },
   {
    "cat": "global",
@@ -755,7 +727,21 @@
      "t": "sec"
     }
    ],
-   "heat": 20.0
+   "heat": 28.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-27 09:24",
+   "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+   "summary": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 19.7
   },
   {
    "cat": "global",
@@ -769,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 17.8
+   "heat": 17.0
   },
   {
    "cat": "global",
@@ -783,7 +769,21 @@
      "t": "agg"
     }
    ],
-   "heat": 16.5
+   "heat": 15.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-26 20:16",
+   "title": "Moody’s Holds France Rating as Bond Premiums Narrow but Euro Struggles",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/moodys-holds-france-rating-as-bond-premiums-narrow-but-euro-struggles-200690259",
+     "t": "agg"
+    }
+   ],
+   "heat": 15.5
   },
   {
    "cat": "global",
@@ -797,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 15.7
+   "heat": 14.9
   },
   {
    "cat": "global",
@@ -811,21 +811,35 @@
      "t": "agg"
     }
    ],
-   "heat": 15.6
+   "heat": 14.7
   },
   {
    "cat": "global",
-   "time": "2026-10-26 09:29",
-   "title": "09:29:18【韩国“存储双雄”三季度营业利润预计超184万亿韩元 2025年同期为90.8万亿韩元】",
-   "summary": "09:29:18【韩国“存储双雄”三季度营业利润预计超184万亿韩元 2025年同期为90.8万亿韩元】 &nbsp;&nbsp; 财联社",
+   "time": "2026-10-23 18:23",
+   "title": "18:23:18 财联社10月23日电，摩根士丹利将CoreWeave目标价从99美元下调至70美元。",
+   "summary": "18:23:18 财联社10月23日电，摩根士丹利将CoreWeave目标价从99美元下调至70美元。 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DY0R5bHRKNW9mbUFpa09tVE9TZkNLTVI0enFVNEpiUTcycGlaTjJ6NE9tYW5JRGNrODIzdlc3OXY5S2UzT3VfSA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wQWkyVmlxXzF4N0VqckpRN0RfWlY1aGE2VGJXa3pKYTlOUE9xenZOR3pzeVVnRWZqUEdjZXVSVGtTbWpXNlR3ag?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 8.6
+   "heat": 12.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-22 14:22",
+   "title": "14:22:56 财联社10月22日电，摩根大通将特斯拉目标价从415美元上调至430美元。",
+   "summary": "14:22:56 财联社10月22日电，摩根大通将特斯拉目标价从415美元上调至430美元。 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rdE9UaVV5QXQ3dkh0TGFpeW9NSWRUYV9YOTZBaXYyaDYwYXdOZzlTcXA2eVFrM282ZzBieDNGWHQ3b3BlNmZZNA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 12.0
   },
   {
    "cat": "crypto",
@@ -839,21 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 46.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-27 00:05",
-   "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-   "summary": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-     "t": "sec"
-    }
-   ],
-   "heat": 31.0
+   "heat": 41.7
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.6
+   "heat": 29.7
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.3
+   "heat": 29.5
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.2
+   "heat": 29.4
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.2
+   "heat": 29.3
   },
   {
    "cat": "crypto",
@@ -923,49 +923,21 @@
      "t": "sec"
     }
    ],
-   "heat": 29.5
+   "heat": 28.7
   },
   {
    "cat": "crypto",
-   "time": "2026-10-27 00:18",
-   "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-   "summary": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials.",
+   "time": "2026-10-27 08:06",
+   "title": "Ripple wins final US approval for national trust bank",
+   "summary": "The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 27.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-26 22:51",
-   "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-   "summary": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won’t share crypto trading data until 2029.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-     "t": "sec"
-    }
-   ],
-   "heat": 26.8
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-26 21:12",
-   "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-   "summary": "Bernstein analysts raised Robinhood’s revenue estimates through 2026 and 2028, while maintaining their HOOD price target unchanged at $160.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 26.5
+   "heat": 27.5
   },
   {
    "cat": "crypto",
@@ -979,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.9
+   "heat": 27.1
   },
   {
    "cat": "crypto",
@@ -993,7 +965,21 @@
      "t": "sec"
     }
    ],
-   "heat": 23.6
+   "heat": 26.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-27 00:05",
+   "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+   "summary": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+     "t": "sec"
+    }
+   ],
+   "heat": 26.2
   },
   {
    "cat": "crypto",
@@ -1007,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 22.9
+   "heat": 26.1
   },
   {
    "cat": "crypto",
@@ -1021,7 +1007,35 @@
      "t": "sec"
     }
    ],
-   "heat": 22.7
+   "heat": 25.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-27 00:18",
+   "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+   "summary": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 22.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-26 22:51",
+   "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
+   "summary": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won’t share crypto trading data until 2029.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
+     "t": "sec"
+    }
+   ],
+   "heat": 22.0
   },
   {
    "cat": "crypto",
@@ -1035,21 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 15.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-21 21:03",
-   "title": "21:03:44【OpenAI将ChatGPT广告业务扩展至26个新国家和地区】",
-   "summary": "21:03:44【OpenAI将ChatGPT广告业务扩展至26个新国家和地区】 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5MQTA0d2d5eGRJLThiVUJsX0FUYWlrU0JGOTRLRF9wZUd1blBCVVN4SVRzcDY4VF9ydU5OaHpQT3pnVWVRSmlHMg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 192.0
+   "heat": 14.1
   }
  ]
 }
