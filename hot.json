@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27 19:20",
+ "updated": "2026-10-28 01:07",
  "items": [
   {
    "cat": "sector",
@@ -13,45 +13,31 @@
      "t": "sec"
     }
    ],
-   "heat": 242.1
+   "heat": 241.2
   },
   {
    "cat": "sector",
-   "time": "2026-10-27 05:11",
-   "title": "Applied Materials Boosts BE Semiconductor Stake to About 20%",
-   "summary": "Applied Materials Inc. boosted its stake in fellow chip-equipment maker BE Semiconductor Industries NV and said it plans to work more closely with the European company, which is be…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/applied-materials-boosts-be-semiconductor-stake-to-about-20",
-     "t": "sec"
-    }
-   ],
-   "heat": 241.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 05:00",
-   "title": "SK Hynix, Samsung, Kioxia, CXMT Earnings Test AI Boom in Memory Market",
-   "summary": "From South Korea to Japan and China, the world’s biggest memory chipmakers will this week seek to quell fears that AI spending is outpacing future demand. How they handle back-to-b…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-26/memory-titans-test-ai-demand-while-bubble-fears-transfix-markets",
-     "t": "sec"
-    }
-   ],
-   "heat": 241.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 19:18",
-   "title": "Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine",
-   "summary": "An Oleshky ceasefire brokered by Melania Trump began Tuesday as Russia launched missiles and drones at cities across Ukraine.",
+   "time": "2026-10-28 00:19",
+   "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
+   "summary": "The major U.S. stock averages ended Monday's session with solid gains.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html",
+     "u": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-28 01:04",
+   "title": "A Visit to the AI Model Retirement Home",
+   "summary": "Another use of compute.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-10-27/a-visit-to-the-ai-model-retirement-home",
      "t": "sec"
     }
    ],
@@ -59,87 +45,101 @@
   },
   {
    "cat": "sector",
-   "time": "2026-10-27 19:15",
-   "title": "AI Talent War Has Quant Firms Racing to Fund PhDs, Build Labs",
-   "summary": "Wall Street’s quant firms have long been among the most lucrative destinations for the world’s top scientific minds. The AI boom has given those mathematicians and physicists anoth…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-27/ai-talent-war-has-quant-firms-racing-to-fund-phds-build-labs",
-     "t": "sec"
-    }
-   ],
-   "heat": 236.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 19:05",
-   "title": "Acts of God Meet Acts of AI in Private Equity’s New Debt Play",
-   "summary": "Force majeure has long protected companies from acts of God. Now some borrowers want protection from acts of AI.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-27/acts-of-god-meet-acts-of-ai-in-private-equity-s-new-debt-play",
-     "t": "sec"
-    }
-   ],
-   "heat": 236.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 19:03",
-   "title": "RBI’s Gupta Says Emerging Markets Must Bolster Domestic Finances",
-   "summary": "Emerging markets, including India, need to strengthen their finances and build buffers against volatile foreign capital, Reserve Bank of India Deputy Governor Poonam Gupta said Tue…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-27/rbi-s-gupta-says-emerging-markets-must-bolster-domestic-finances",
-     "t": "sec"
-    }
-   ],
-   "heat": 236.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 19:02",
-   "title": "Anthropic Relies on Close Connections With Amazon, Google and Microsoft",
-   "summary": "Amazon and Google invested in the AI startup, supply it computing power — and compete with it.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-relies-on-close-connections-with-amazon-google-and-microsoft",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 18:47",
-   "title": "Quebec’s La Caisse to Buy BCE Towers Stake for $1.7 Billion",
-   "summary": "Quebec’s public pension manager will buy a 49.9% interest in wireless towers owned by BCE Inc., a deal that will help the telecommunications firm pare its debt.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-27/quebec-s-la-caisse-to-buy-bce-towers-stake-for-1-7-billion",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-27 18:44",
-   "title": "AI Trade Starts to Lose Momentum After Anthropic Filing",
-   "summary": "Here’s what you need to know to start your day: Morning Briefing Americas",
+   "time": "2026-10-28 00:59",
+   "title": "Billionaire Developer Perot Says AI Boom Causing Shortage of Largest Warehouses",
+   "summary": "Data-center builders are grappling with a shortage of the largest warehouses used to assemble equipment for the artificial intelligence boom, according to Ross Perot Jr., a billion…",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-27/ai-trade-starts-to-lose-momentum-after-anthropic-filing",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-27/billionaire-developer-perot-says-ai-boom-causing-shortage-of-largest-warehouses",
+     "t": "sec"
+    }
+   ],
+   "heat": 236.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-28 00:57",
+   "title": "Judge blasts prosecutors, refuses to sign new criminal complaint against ex-FBI officials",
+   "summary": "Two ex-FBI officials were initially accused by the DOJ of lying when they testified to Congress in 2023 about their involvement in Hunter Biden investigations.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 236.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-28 00:51",
+   "title": "Crusoe CEO on AI Energy Demand and Building in Texas",
+   "summary": "Crusoe Co-Founder & CEO, Chase Lochmiller discusses the infrastructure and energy required to meet growing AI computing demand, including the company’s Abilene-based Stargate Proje…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-27/crusoe-ceo-on-ai-energy-demand-and-building-in-texas-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 236.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-28 00:49",
+   "title": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
+   "summary": "The nation’s top markets regulator is working on changes to crowdfunding rules, US Securities and Exchange Commission Chairman Paul Atkins said at an agency advisory committee even…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-27/sec-weighing-overhaul-to-crowdfunding-rules-atkins-says",
      "t": "sec"
     }
    ],
    "heat": 235.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-28 00:44",
+   "title": "AstraZeneca May Enter Cancer Vaccine Development, CEO Says",
+   "summary": "AstraZeneca Plc is considering developing cancer vaccines and jumping into one of the hottest areas of oncology research where questions still remain over how broadly the technolog…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-27/astrazeneca-may-enter-cancer-vaccine-development-ceo-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-28 00:42",
+   "title": "UPS Raises Outlook as CEO Plans to Stay On to Oversee Union Talks",
+   "summary": "United Parcel Service Inc. boosted its financial guidance for the year, suggesting the courier expects to benefit from high prices and resilient demand through the holiday season. …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-27/ups-raises-outlook-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-28 00:13",
+   "title": "Starlink Brinkmanship Is Driving Allies to Rethink US Reliance",
+   "summary": "European officials have intensified discussions about ways to reduce their reliance on the US and American defense contractors following the recent blame game around Ukraine’s Star…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-27/starlink-brinkmanship-is-driving-allies-to-rethink-us-reliance",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.8
   }
  ]
 }
