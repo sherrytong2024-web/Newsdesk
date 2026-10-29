@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-29 06:02",
+ "updated": "2026-10-29 11:44",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-10-29 07:00",
+   "title": "FuriosaAI Quadruples Valuation to $2.9 Billion in Nvidia Chase",
+   "summary": "South Korean AI chip startup FuriosaAI quadrupled its valuation to $2.9 billion in a fresh funding round, bolstering its bid to challenge the likes of Nvidia Corp.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-29 09:11",
+   "title": "Samsung Chip Operating Profit Misses Estimates",
+   "summary": "Samsung reported net for the third quarter that missed the average analyst estimate. Bloomberg's Haidi Stroud-Watts breaks down the numbers. (Source: Bloomberg)",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-29/samsung-chip-operating-profit-misses-estimates-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-29 09:00",
+   "title": "Samsung Boosts Spending After Chip Profit Misses",
+   "summary": "Samsung Electronics Co. hiked its spending plans after relentless demand for AI infrastructure drove memory prices higher, though its chip division’s profit missed lofty investor e…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope",
+     "t": "sec"
+    }
+   ],
+   "heat": 207.5
+  },
   {
    "cat": "sector",
    "time": "2026-10-27 08:07",
@@ -13,133 +55,91 @@
      "t": "sec"
     }
    ],
-   "heat": 208.3
+   "heat": 204.0
   },
   {
    "cat": "sector",
-   "time": "2026-10-29 05:55",
-   "title": "Schwab Says AI Making Scams Harder to Spot",
-   "summary": "Artificial intelligence is making financial scams more convincing and harder to detect, raising new risks for investors and financial advisors. Cayla Culver, Head of Risk and Contr…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-28/schwab-says-ai-making-scams-harder-to-spot-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 208.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-29 05:47",
-   "title": "Tech Giants Show Their AI Cards: Evening Briefing Americas",
-   "summary": "Get caught up.",
+   "time": "2026-10-29 11:16",
+   "title": "DOJ Faults Judge Who Bashed Trump’s IRS Lawsuit, Settlement",
+   "summary": "The US Justice Department criticized the judge who penalized President Donald Trump and his lawyers for “bad faith” conduct in his $10 billion lawsuit against the Internal Revenue …",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-28/tech-giants-show-their-ai-cards-evening-briefing-americas",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-29/doj-faults-judge-who-bashed-trump-s-irs-lawsuit-settlement",
      "t": "sec"
     }
    ],
-   "heat": 208.0
+   "heat": 203.9
   },
   {
    "cat": "sector",
-   "time": "2026-10-29 05:47",
-   "title": "Charles Schwab Integrating AI Tools and Financial Planning",
-   "summary": "Charles Schwab is expanding its push into artificial intelligence, bringing Anthropic’s Claude for Financial Advisors directly into Schwab Advisor Center. The company says it is th…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-28/charles-schwab-integrating-ai-with-financial-planning-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 208.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-29 05:29",
-   "title": "Microsoft's Big Bets on AI Start to Pay Off",
-   "summary": "Microsoft Corp. reported better-than-expected cloud revenue, suggesting the company continues to reap the benefits of its massive investment in artificial intelligence. Sales at Az…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-28/microsoft-s-big-bets-on-ai-start-to-pay-off-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-29 05:05",
-   "title": "Marvell Said to Near Megadeal for Lumentum In AI Push",
-   "summary": "Marvell Technology Inc. is in advanced talks to buy data center optics maker Lumentum Holdings Inc., according to people familiar with the matter, a potential megadeal amid the rac…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-29 05:00",
-   "title": "Asia Centric: BHP CFO on Copper, AI and Mining’s New Era",
-   "summary": "The mining industry is undergoing a structural transformation. Copper has overtaken iron ore as the world’s most sought-after commodity, driven by electrification, the energy trans…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-28/asia-centric-bhp-cfo-on-copper-ai-and-mining-s-new-era",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-29 04:26",
-   "title": "Dow Adds 98, Nasdaq Climbs 72, S&P 500 Gains 21 - TV News Check",
-   "summary": "Dow Adds 98, Nasdaq Climbs 72, S&P 500 Gains 21 &nbsp;&nbsp; TV News Check",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDZGRzFoZ29XZkswLU9DNmhaOGRxS2FEa3FlVzhoRHVXWUJjMkdONlJMdnBYRFlzSU9QQWt0alkteFRnVjRaNXBVSnFCelF3QlE1NjlOUy0xOEJTNHNuMjNyT2FJU21YMHZBcWtjN1psWlA4U3FmcFdDSFh5aC1vOEF2UjVMekZmeFg0VE1DWQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 207.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-29 04:17",
-   "title": "Global Bond Sales Shatter Record, Fueled by AI Borrowing Binge",
-   "summary": "Global bond sales have soared to an all-time high, catapulted by breakneck borrowing from the tech juggernauts at the forefront of the AI boom.",
+   "time": "2026-10-29 11:09",
+   "title": "RBC Flags Risks of Renewed US Strikes on Iran Despite Diplomacy",
+   "summary": "Renewed US military strikes against Iran remain possible despite a flurry of diplomatic activity in recent days ahead of the midterm elections, according to RBC Capital Markets LLC…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-28/global-bond-sales-shatter-record-fueled-by-ai-borrowing-binge",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-29/rbc-flags-risks-of-renewed-us-strikes-on-iran-despite-diplomacy",
      "t": "sec"
     }
    ],
-   "heat": 207.7
+   "heat": 203.9
   },
   {
    "cat": "sector",
-   "time": "2026-10-29 04:08",
-   "title": "Microsoft Reports Rising Cloud Sales That Show Payoff From AI",
-   "summary": "Microsoft Corp. reported better-than-expected cloud revenue, suggesting the company continues to reap the benefits of its massive investment in artificial intelligence.",
+   "time": "2026-10-29 10:41",
+   "title": "Iron Ore’s Drop Below $90 Tests High-Cost Supply as Losses Mount",
+   "summary": "Iron ore’s fall below $90 a ton has pushed as much as 170 million tons of production into losses, but prices will need to remain depressed for longer before enough supply exits to …",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-28/microsoft-reports-quarterly-cloud-sales-that-beat-estimates",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-29/iron-ore-s-drop-below-90-tests-high-cost-supply-as-losses-mount",
      "t": "sec"
     }
    ],
-   "heat": 207.7
+   "heat": 203.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-29 10:30",
+   "title": "Tencent’s Cloud Boss Plays Long Game to Patch ‘Leaky’ AI Ship",
+   "summary": "When Pony Ma called Tencent Holdings Ltd.’s AI endeavor “a leaky ship” this summer, the billionaire founder sent ripples through a company that for years dominated the industry wit…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-29/tencent-s-cloud-boss-plays-long-game-to-patch-leaky-ai-ship",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-29 10:30",
+   "title": "Tencent Cloud Chief Says AI Demand Justifies Capex",
+   "summary": "Dowson Tong, CEO of Tencent Cloud and Smart Industries Group in an exclusive conversation with BTV's Stephen Engle talks about the company's investment shifts from being AI consume…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-29/tencent-cloud-chief-says-ai-demand-justifies-capex-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-29 10:14",
+   "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
+   "summary": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 203.7
   }
  ]
 }
