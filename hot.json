@@ -1,10 +1,136 @@
 {
- "updated": "2026-10-31 01:31",
+ "updated": "2026-10-31 05:50",
  "items": [
   {
    "cat": "sector",
+   "time": "2026-10-31 04:28",
+   "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
+   "summary": "Apple Inc. reclaimed the title of world’s most valuable company on Friday, taking the mantle from Nvidia Corp. as investors seek the perceived safety of the iPhone maker amid conce…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 05:44",
+   "title": "Need To Rethink How AI Infrastructure Is Powered: FuelCell Energy CEO",
+   "summary": "FuelCell Energy President and CEO Jason Few discusses public concerns over higher utility bills, water use and fossil-fuel infrastructure. Discussing a proposed project in Newport …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-30/fuelcell-energy-ceo-ai-race-won-t-be-won-by-pausing-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 252.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 05:33",
+   "title": "Illumina CEO on Q3 Results and Business Outlook",
+   "summary": "Jacob Thaysen says Illumina delivered a strong third quarter, beat expectations and raised its fourth-quarter outlook. He said the company has moved from essentially flat performan…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-30/illumina-ceo-on-q3-results-and-business-outlook-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 252.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 05:21",
+   "title": "Instant Reaction: Wall Street Gets AI Wake-Up Call (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-30/instant-reaction-wall-street-gets-ai-wake-up-call-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 05:08",
+   "title": "Bloomberg Businessweek Daily: Fmr. CFTC Chair on Binance Hack",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-30/bloomberg-businessweek-daily-fmr-cftc-chair-on-binance-hack-mvvgrxnx",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 04:59",
+   "title": "Brazil Summons Argentine Envoy Over Role in Bolsonaro’s Escape",
+   "summary": "Brazilian authorities summoned Argentina’s top envoy in the country on Friday to explain President Javier Milei’s role in helping Flávio Bolsonaro flee Brazil following his electio…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-30/brazil-summons-argentine-envoy-over-role-in-bolsonaro-s-escape",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 04:46",
+   "title": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
+   "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 04:43",
+   "title": "Trump admin again loses bid to block California from counting alleged noncitizen votes",
+   "summary": "A US appeals court on Friday rejected the Trump admin's request that it temporarily block the state from counting mail ballots from more than 20,000 registered voters.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/30/trump-california-counting-alleged-noncitizen-votes.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 04:23",
+   "title": "Intel Plunges 29% on Weak Outlook as Tech Selloff Deepens | Closing Bell",
+   "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Kristine Aquino, Jess Menton and Tim Sten…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-30/intel-plunges-on-weak-outlook-closing-bell-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.8
+  },
+  {
+   "cat": "sector",
    "time": "2026-10-30 04:02",
-   "title": "Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast",
+   "title": "Intel Suffers Worst Stock Drop in Decades on Weak Forecast",
    "summary": "Intel Corp. suffered its worst stock rout in more than four decades after the PC industry slump and supply-chain snags hurt its forecast, renewing fears about the chipmaker’s turna…",
    "srcs": [
     {
@@ -13,133 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 256.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-30 01:49",
-   "title": "S&P 500 Soars to 7,722.60 as the AI and Chip Rally Extends Ahead of the Fed Decision - BBN Times",
-   "summary": "S&P 500 Soars to 7,722.60 as the AI and Chip Rally Extends Ahead of the Fed Decision &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR19PRTZRdlROTUlvWllhMUh2eVNmMXY2b2x5a2FDR2Fld2FEVXNJNUtFRDhhakhZV2FQRDhLOUJZWU5jeTRTNkNNTHpLSXU1NEJrOTVXQXI4MmtIb19LV0dDYXpRUDJubXlfRFV6b0V3VVVkdzUyOFJ4X3hQQXY1ZFdjc0RuZ3hkaVNHQ2o2NWY2Z1UzSnE4OFNlcXRzUmwtczh5ZkpsMEFPbTU0ckF4OG5IRUJfYkNDV0FR?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 256.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-29 14:04",
-   "title": "Chinese Chipmaker CXMT’s Index Inclusion to Trigger Billions in Passive Buying",
-   "summary": "Chinese Chipmaker CXMT’s Index Inclusion to Trigger Billions in Passive Buying &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcS1iTGdRbW5kWjM2M2d6OFJuc2pFcG5kVUd2cEtCdVg5V0tFb2lGTEdzVmJRYzlta1RlczNKdDlwdEFvcmZXM3RDVURZaFFCSDJZUWRtM2hUT0tBcmdwS19WcnlVTGVzVG11QVVQSEpPRWNiT2I5eVdCQlU1anJ6Y0hPZ0FfOHR4ZzlNTVUzTWZNWE80djFQVlZEbVlGTXpfN1hvZ1R3VXY5b3NkU1lnVDhCQ1J6RDRZWEFUbU9uRjkyWUpldzRkYkh3aGw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 254.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 01:28",
-   "title": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
-   "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate, or if Democrats take control of the chamber.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 252.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 01:24",
-   "title": "Why Anthropic’s AI Edge Appeals to Long-Term Investors",
-   "summary": "Anthropic’s technical expertise, innovation and efficient use of compute set it apart in the AI landscape, says Peter Singlehurst, head of the Private Companies Team at Baillie Gif…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-30/why-anthropic-s-ai-edge-appeals-to-long-term-investors-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 252.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 01:23",
-   "title": "Roblox Sees AI Content Surge as Daily Active Users Fall",
-   "summary": "Roblox CEO David Baszucki says the platform has seen an explosion of AI-fueled content in the last three months. But the online gaming company is seeing some growing pains after ro…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-30/roblox-sees-ai-content-surge-as-daily-active-users-fall-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 252.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 01:22",
-   "title": "AI to Drive 40% Growth for AWS: CEO Garman",
-   "summary": "AWS CEO Matt Garman discusses how the company is looking to “responsibly fund” its AI buildout to meet customer demand. Revenue at the Amazon cloud unit grew for the sixth straight…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-30/ai-to-drive-40-growth-for-aws-ceo-garman-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 252.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 01:22",
-   "title": "The AI investing story had a rough week. It may be time to take profits while you still can",
-   "summary": "Traders and investors are sounding trepidatious about the tech sector following a newsy week.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/ai-stocks-selloff-ai-spending-returns.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 252.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 01:01",
-   "title": "Amazon’s AI Spending Spooks Investors",
-   "summary": "Amazon reporting higher-than-expected capex and its slowest e-commerce growth in three years — adding to concerns over Big Tech’s massive AI spending. Citizens Equity Research anal…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-30/amazon-s-ai-spending-spooks-investors-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 00:44",
-   "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
-   "summary": "Global diesel prices surged as Ukraine and Iran struck refineries in Russia and the Middle East.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.9
+   "heat": 251.7
   }
  ]
 }
