@@ -1,94 +1,24 @@
 {
- "updated": "2026-10-31 05:50",
+ "updated": "2026-10-31 11:30",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-10-31 04:28",
-   "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
-   "summary": "Apple Inc. reclaimed the title of world’s most valuable company on Friday, taking the mantle from Nvidia Corp. as investors seek the perceived safety of the iPhone maker amid conce…",
+   "time": "2026-10-31 06:17",
+   "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
+   "summary": "Investors await earnings from Apple, AMD, and other major companies, as well as the midterm elections and the monthly jobs report.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
      "t": "sec"
     }
    ],
-   "heat": 255.8
+   "heat": 243.1
   },
   {
    "cat": "sector",
-   "time": "2026-10-31 05:44",
-   "title": "Need To Rethink How AI Infrastructure Is Powered: FuelCell Energy CEO",
-   "summary": "FuelCell Energy President and CEO Jason Few discusses public concerns over higher utility bills, water use and fossil-fuel infrastructure. Discussing a proposed project in Newport …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-30/fuelcell-energy-ceo-ai-race-won-t-be-won-by-pausing-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 252.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 05:33",
-   "title": "Illumina CEO on Q3 Results and Business Outlook",
-   "summary": "Jacob Thaysen says Illumina delivered a strong third quarter, beat expectations and raised its fourth-quarter outlook. He said the company has moved from essentially flat performan…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-30/illumina-ceo-on-q3-results-and-business-outlook-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 252.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 05:21",
-   "title": "Instant Reaction: Wall Street Gets AI Wake-Up Call (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-30/instant-reaction-wall-street-gets-ai-wake-up-call-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 05:08",
-   "title": "Bloomberg Businessweek Daily: Fmr. CFTC Chair on Binance Hack",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-30/bloomberg-businessweek-daily-fmr-cftc-chair-on-binance-hack-mvvgrxnx",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 04:59",
-   "title": "Brazil Summons Argentine Envoy Over Role in Bolsonaro’s Escape",
-   "summary": "Brazilian authorities summoned Argentina’s top envoy in the country on Friday to explain President Javier Milei’s role in helping Flávio Bolsonaro flee Brazil following his electio…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-30/brazil-summons-argentine-envoy-over-role-in-bolsonaro-s-escape",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 04:46",
-   "title": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
+   "time": "2026-10-31 06:57",
+   "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
    "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
    "srcs": [
     {
@@ -97,7 +27,105 @@
      "t": "sec"
     }
    ],
-   "heat": 251.8
+   "heat": 239.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 06:29",
+   "title": "Bloomberg Businessweek Daily: AI Trade Unwinds (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-30/bloomberg-businessweek-daily-ai-trade-unwinds-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 06:08",
+   "title": "Crypto Hack Reignites Regulatory Debate",
+   "summary": "A $6 billion crypto hack is putting digital-asset security back in the spotlight. Former CFTC chairman J. Christopher Giancarlo, known as “CryptoDad”, argues the attack exposed vul…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-30/crypto-hack-reignites-regulatory-debate-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 06:05",
+   "title": "Bloomberg Screentime: Streaming, AI & Creators",
+   "summary": "Entertainment leaders examine how streaming, AI, and the creator economy are reshaping Hollywood and the future of media. Guests include Ted Sarandos, Donna Langley, Ben Affleck, &…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-screentime-streaming-ai-creators-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 06:02",
+   "title": "Baseten to Raise Funding That Would Double Value to $30 Billion",
+   "summary": "Artificial intelligence startup Baseten is set to raise new funding that would more than double its valuation to about $30 billion, according to people familiar with the efforts.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 06:01",
+   "title": "PacSun CEO: Brands Mean a Lot to Young People Today",
+   "summary": "Brieane Olson, CEO of PacSun, says that the retailer’s core customer is 16 to 24, while it is also tracking differences between Gen Z and Gen Alpha. Drawing on a PacSun Youth Repor…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-30/pacsun-ceo-brands-mean-a-lot-to-young-people-today-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 05:56",
+   "title": "Meta’s Rating Outlook Cut to Negative by S&P on AI Spending",
+   "summary": "S&amp;P Global Ratings took an early step toward potentially downgrading Meta Platforms Inc.’s credit rating within the next two years, amid growing pressure on the tech company’s …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 05:51",
+   "title": "Burger King US President on Sales Turnaround",
+   "summary": "Burger King US and Canada President Tom Curtis discussed the chain’s comparable-sales growth, cited in the conversation as 8.4%, against an estimate of 6.2%. Curtis said growth is …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-30/burger-king-us-president-on-sales-turnaround-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.1
   },
   {
    "cat": "sector",
@@ -111,35 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 04:23",
-   "title": "Intel Plunges 29% on Weak Outlook as Tech Selloff Deepens | Closing Bell",
-   "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Kristine Aquino, Jess Menton and Tim Sten…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-30/intel-plunges-on-weak-outlook-closing-bell-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-30 04:02",
-   "title": "Intel Suffers Worst Stock Drop in Decades on Weak Forecast",
-   "summary": "Intel Corp. suffered its worst stock rout in more than four decades after the PC industry slump and supply-chain snags hurt its forecast, renewing fears about the chipmaker’s turna…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.7
+   "heat": 238.9
   }
  ]
 }
