@@ -1,34 +1,6 @@
 {
- "updated": "2026-10-31 11:30",
+ "updated": "2026-10-31 19:28",
  "items": [
-  {
-   "cat": "macro",
-   "time": "2026-10-31 05:53",
-   "title": "Fed officials are already saying they’ll need to get back to hiking rates",
-   "summary": "The comments from Federal Reserve Presidents Alberto Musalem and Lorie Logan offer the first morsels of insight into what leaders at the Fed see happening next.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-31 10:32",
-   "title": "BOJ’s Faster ETF Sales May Help Takaichi’s Spending Plan",
-   "summary": "The Bank of Japan’s decision to accelerate sales of exchange-traded funds could boost its payments to the government, potentially helping Prime Minister Sanae Takaichi finance her …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-31/boj-faster-etf-sales-may-help-takaichi-spending-plan-non-tax-revenue",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.8
-  },
   {
    "cat": "macro",
    "time": "2026-10-29 17:33",
@@ -41,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 41.0
+   "heat": 32.0
   },
   {
    "cat": "macro",
@@ -55,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 32.0
   },
   {
    "cat": "macro",
@@ -69,21 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-31 01:15",
-   "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-   "summary": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 38.3
+   "heat": 32.0
   },
   {
    "cat": "macro",
@@ -97,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 35.9
+   "heat": 30.6
   },
   {
    "cat": "macro",
@@ -111,21 +69,35 @@
      "t": "sec"
     }
    ],
-   "heat": 34.6
+   "heat": 29.2
   },
   {
    "cat": "macro",
-   "time": "2026-10-31 02:28",
-   "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
-   "summary": "Soaring freight rates are giving tankers a big financial incentive to run the gauntlet through the Strait of Hormuz.",
+   "time": "2026-10-31 01:15",
+   "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+   "summary": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+     "u": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
      "t": "sec"
     }
    ],
-   "heat": 34.5
+   "heat": 29.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-31 16:05",
+   "title": "Hong Kong telecom company agrees to halt U.S. operations under pressure",
+   "summary": "The FCC in October 2025 said it was moving to revoke the authority of HKT to operate in the United States, citing national security concerns.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/31/hong-kong-telecom-firm-agrees-to-halt-us-operations-under-pressure.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.4
   },
   {
    "cat": "macro",
@@ -139,49 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 28.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-31 00:55",
-   "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
-   "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 18.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-30 23:14",
-   "title": "Word on Wall Street: Solid Economic Readings but Inflation Remains a Concern | Wyncote Wealth Management Group - Glensid",
-   "summary": "Word on Wall Street: Solid Economic Readings but Inflation Remains a Concern | Wyncote Wealth Management Group &nbsp;&nbsp; Glenside Local",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWF9JZ21NcXJ4SDlmLVR6d3VqbmZvNDN1SGZQNDF2b05EVjVZMVBKVDNDdGoxeDBBc2tqWnRrXzU0UkJYSER3TnpKSWtfV2VUdFFMTGFud3d0YWlmcTgtMzlhX2ZSN2RKVFpWMUpTMzRkV2R2cm0yajNCN1NEazBDdEhzWEhmVmk3NWRqc0lMb19zZktEQjNyNFYyM0lrdS1HV0xQSTNmQVJEdUktUm1xSFNIYUFvQXlWankxdTM1VHlvcDVQRFVBd2NHNTNBNGc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 18.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-30 15:31",
-   "title": "USD/JPY Falls for 3rd Straight Day: Yen Supported by BoJ Decision",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/usdjpy-falls-for-3rd-straight-day-yen-supported-by-boj-decision-200690560",
-     "t": "agg"
-    }
-   ],
-   "heat": 14.7
+   "heat": 24.0
   },
   {
    "cat": "macro",
@@ -195,35 +125,189 @@
      "t": "agg"
     }
    ],
-   "heat": 12.8
+   "heat": 15.5
   },
   {
    "cat": "macro",
-   "time": "2026-10-27 09:35",
-   "title": "本周不加息？美联储决议前“喉舌”重磅放风！",
-   "summary": "本周不加息？美联储决议前“喉舌”重磅放风！ &nbsp;&nbsp; 财联社",
+   "time": "2026-10-31 04:55",
+   "title": "Wall Street Boom to Cut New York State Budget Deficit in Half",
+   "summary": "New York projected the budget deficit will narrow by $3.5 billion next year as the state expects a boom in trading and borrowing to deliver record profits to Wall Street and strong…",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jWmxJanA2NzhQeE1EZjlPVk9mcE5uRlN1X2VvR1NJQVR3QWZ1OHQ5VnRveXM4VUUwazZSSGVVbU1XN2trN2VsRA?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-boom-to-cut-new-york-state-budget-deficit-in-half",
      "t": "sec"
     }
    ],
-   "heat": 12.0
+   "heat": 13.6
   },
   {
-   "cat": "sector",
-   "time": "2026-10-31 06:17",
-   "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
-   "summary": "Investors await earnings from Apple, AMD, and other major companies, as well as the midterm elections and the monthly jobs report.",
+   "cat": "macro",
+   "time": "2026-10-31 00:55",
+   "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
+   "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
+     "u": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
      "t": "sec"
     }
    ],
-   "heat": 243.1
+   "heat": 12.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-30 15:31",
+   "title": "USD/JPY Falls for 3rd Straight Day: Yen Supported by BoJ Decision",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/usdjpy-falls-for-3rd-straight-day-yen-supported-by-boj-decision-200690560",
+     "t": "agg"
+    }
+   ],
+   "heat": 9.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-29 19:07",
+   "title": "RBA Set to Hike as Inflation Proves More Persistent",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/rba-set-to-hike-as-inflation-proves-more-persistent-200690513",
+     "t": "agg"
+    }
+   ],
+   "heat": 6.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-29 19:01",
+   "title": "BoJ Preview: Hawkish Hold",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/boj-preview-hawkish-hold-200690512",
+     "t": "agg"
+    }
+   ],
+   "heat": 6.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-29 22:53",
+   "title": "美联储等来的仍是“热数据”：美国9月关键通胀指标升温",
+   "summary": "美联储等来的仍是“热数据”：美国9月关键通胀指标升温 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43ZmVjeGk2bV92c0laV2JJOEJjUFZZRHlWQURIUkxRODRaYUE3amZsRV9rMGpiTzdCclBzM0FldmhBT0NlWHNjZA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 4.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 18:30",
+   "title": "Binance in Talks for Malaysia License after Five-Year Absence",
+   "summary": "Binance said it’s in discussions with Malaysian regulators for a licensed business in the country, as the cryptocurrency exchange seeks a route back into a market where authorities…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-31/binance-in-talks-for-malaysia-license-after-five-year-absence",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 18:27",
+   "title": "The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
+   "summary": "In just six years, giant skeletons have gone from an absurd viral novelty to the centerpiece of an expanding retail arms race for the front lawn.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 17:00",
+   "title": "Houthi Attacks on Riyadh Airport Ramp Up Flight Cancellations",
+   "summary": "What was already destined to be a bad year for Middle East airlines got even worse in October when missiles pummeled the Saudi capital’s airport, killing more than a dozen people a…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-31/houthi-attacks-on-riyadh-airport-ramp-up-flight-cancellations",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 17:00",
+   "title": "Laughing Cow Maker Targets US Households With Bitesize Snacks",
+   "summary": "French children eat the Laughing Cow as an after-school snack. In Britain, kids find the spreadable cheese in their lunchboxes. Now the 105-year-old brand wants to become a staple …",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-31/laughing-cow-maker-targets-us-households-with-bitesize-snacks",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 16:00",
+   "title": "The Betting Coup That Rocked London’s Bookmakers Goes Unsolved",
+   "summary": "Lisa Lazarus, the top cop in US horse racing, woke up one morning this summer to find a flurry of missed overseas calls and e-mails. They were all from UK regulators and they all d…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-31/the-betting-coup-that-rocked-london-s-bookmakers-goes-unsolved",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 14:40",
+   "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
+   "summary": "OpenAI Chief Executive Officer Sam Altman met with Samsung Group’s top executives in South Korea on Saturday to deepen cooperation on memory chips and AI infrastructure as global s…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 14:00",
+   "title": "AI is coming to construction sites. But does it make workers safer?",
+   "summary": "AI is flagging hazards on construction sites, but researchers say evidence that the technology prevents injuries remains limited.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.1
   },
   {
    "cat": "sector",
@@ -237,21 +321,21 @@
      "t": "sec"
     }
    ],
-   "heat": 239.2
+   "heat": 233.9
   },
   {
    "cat": "sector",
-   "time": "2026-10-31 06:29",
-   "title": "Bloomberg Businessweek Daily: AI Trade Unwinds (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-10-31 06:17",
+   "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
+   "summary": "Investors await earnings from Apple, AMD, and other major companies, as well as the midterm elections and the monthly jobs report.",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-30/bloomberg-businessweek-daily-ai-trade-unwinds-podcast",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
      "t": "sec"
     }
    ],
-   "heat": 239.2
+   "heat": 233.8
   },
   {
    "cat": "sector",
@@ -265,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.1
+   "heat": 233.8
   },
   {
    "cat": "sector",
@@ -279,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.1
+   "heat": 233.8
   },
   {
    "cat": "sector",
@@ -293,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.1
+   "heat": 233.8
   },
   {
    "cat": "sector",
@@ -307,21 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 05:56",
-   "title": "Meta’s Rating Outlook Cut to Negative by S&P on AI Spending",
-   "summary": "S&amp;P Global Ratings took an early step toward potentially downgrading Meta Platforms Inc.’s credit rating within the next two years, amid growing pressure on the tech company’s …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.1
+   "heat": 233.8
   },
   {
    "cat": "sector",
@@ -335,77 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 04:43",
-   "title": "Trump admin again loses bid to block California from counting alleged noncitizen votes",
-   "summary": "A US appeals court on Friday rejected the Trump admin's request that it temporarily block the state from counting mail ballots from more than 20,000 registered voters.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/trump-california-counting-alleged-noncitizen-votes.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 238.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 03:13",
-   "title": "Meta settles with teen during trial testing claims social media caused depression, eating disorders",
-   "summary": "Social media companies face thousands of lawsuits alleging they knowingly sought to addict children to their platforms, contributing ⁠to a youth mental health crisis.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/meta-settles-with-teen-during-trial-testing-claims-social-media-caused-depression-eating-disorders.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 238.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 00:44",
-   "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
-   "summary": "Global diesel prices surged as Ukraine and Iran struck refineries in Russia and the Middle East.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 238.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-30 23:52",
-   "title": "Trump rallies in Kansas and Iowa are back on after RNC said they were canceled: Source",
-   "summary": "Trump and Vance had canceled planned appearances across three states, reducing in-person campaigning in the final days before the midterm election.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 238.1
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-30 18:30",
-   "title": "Tech Stocks Tumble as AI Fears Collide With Earnings Misses",
-   "summary": "Tech stocks plunged on Friday for the second day in a row as fears around AI spending collide with disappointing earnings in big tech’s core businesses.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-30/tech-stocks-poised-to-drop-after-amazon-adds-to-ai-spending-fear",
-     "t": "sec"
-    }
-   ],
-   "heat": 141.2
+   "heat": 233.7
   },
   {
    "cat": "stock",
@@ -419,21 +419,21 @@
      "t": "sec"
     }
    ],
-   "heat": 141.0
+   "heat": 151.7
   },
   {
    "cat": "stock",
-   "time": "2026-10-30 21:13",
-   "title": "State Street SPDR S&P 500 ETF Trust (SPY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "summary": "State Street SPDR S&P 500 ETF Trust (SPY) Stock Price, News, Quote & History &nbsp;&nbsp; Yahoo! Finance Canada",
+   "time": "2026-10-31 16:48",
+   "title": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry",
+   "summary": "OPay Ltd., a Nigeria-focused payments platform, halted an initial public offering on the New York Stock Exchange that was supposed to start trading on Friday, citing a regulatory i…",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJbUxXOWpWeTNIbzdWeTZFOF9Mc2lLOTAyTlBlQXVhXzVZNnBvWnJuMnp0RzZmV2t1NmVnZkM5ZHFxMGZqNlpBeGt6YnRqOE1F?oc=5",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-31/softbank-backed-opay-halts-ipo-to-respond-to-regulatory-inquiry",
      "t": "sec"
     }
    ],
-   "heat": 121.6
+   "heat": 127.6
   },
   {
    "cat": "stock",
@@ -447,21 +447,21 @@
      "t": "sec"
     }
    ],
-   "heat": 118.8
+   "heat": 125.5
   },
   {
    "cat": "stock",
-   "time": "2026-10-27 03:02",
-   "title": "China ETFs Draw Billions After Stock-Market Selloff",
-   "summary": "China ETFs Draw Billions After Stock-Market Selloff &nbsp;&nbsp; Caixin Global",
+   "time": "2026-10-31 10:31",
+   "title": "Home Bancshares director John Allison II sells $405,783 in stock",
+   "summary": "",
    "srcs": [
     {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTFCLUpIQzlvQnRIMHdYTE5QLVp3dldtaEwzYzhsWU9BRnc1RzFURWQ3QkRlNS1MR0JHc3JwMDBES09WaWF3V2RtbGZoSnpNTk4xTW51dU04VmI1MWhrQmJrWlhwWFBSUnNveVFvY00tUlpIRE1Zam1Jdi00UVB2czlyRE5JR1gwbC1aTXFYR093QkN6MG9ndmhISlZJY0p2U3FGUmVOLWhOZw?oc=5",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/home-bancshares-director-john-allison-ii-sells-405783-in-stock-93CH-4989229",
+     "t": "agg"
     }
    ],
-   "heat": 116.0
+   "heat": 124.5
   },
   {
    "cat": "stock",
@@ -475,7 +475,63 @@
      "t": "sec"
     }
    ],
-   "heat": 115.1
+   "heat": 121.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-27 03:02",
+   "title": "China ETFs Draw Billions After Stock-Market Selloff",
+   "summary": "China ETFs Draw Billions After Stock-Market Selloff &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTFCLUpIQzlvQnRIMHdYTE5QLVp3dldtaEwzYzhsWU9BRnc1RzFURWQ3QkRlNS1MR0JHc3JwMDBES09WaWF3V2RtbGZoSnpNTk4xTW51dU04VmI1MWhrQmJrWlhwWFBSUnNveVFvY00tUlpIRE1Zam1Jdi00UVB2czlyRE5JR1gwbC1aTXFYR093QkN6MG9ndmhISlZJY0p2U3FGUmVOLWhOZw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 120.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-31 19:00",
+   "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+   "summary": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 119.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-31 12:00",
+   "title": "OpenAI Funding Target Cut by $10 Billion as AI Slumps, FT Says",
+   "summary": "OpenAI has cut its fundraising target by $10 billion as an AI stock selloff and rival Anthropic PBC’s impending public listing complicate its efforts to secure investor commitments…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-31/openai-funding-goal-cut-by-10-billion-as-ai-stocks-dip-ft-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 118.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-31 11:33",
+   "title": "Steep Stock Losses on Tech Rout, Binance Hack, More",
+   "summary": "Source: Bloomberg, 5:53",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-10-31/steep-stock-losses-on-tech-rout-binance-hack-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 118.7
   },
   {
    "cat": "stock",
@@ -489,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.9
+   "heat": 118.6
   },
   {
    "cat": "stock",
@@ -503,35 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-31 09:07",
-   "title": "Stocks Worse Day Since June, US to Sell Missiles to Ukraine",
-   "summary": "Source: Bloomberg, 5:29",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-31/stocks-worse-day-since-june-us-to-sell-missiles-to-ukraine",
-     "t": "sec"
-    }
-   ],
-   "heat": 111.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-31 07:23",
-   "title": "US stock Market today: Wall Street stocks that jump on tough trading day for S&P 500, Nasdaq, Dow Jones, R - The Economi",
-   "summary": "US stock Market today: Wall Street stocks that jump on tough trading day for S&P 500, Nasdaq, Dow Jones, R &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOOEhRODlZc0h0UGhEeXNwT3pPUUdsbkNremxUckxCeWlFanlGZ2p6VzF1VEljUkhuQ3NvQVhIcDk3QWl4bVIwVS1YRUNmZXRUMjR5S0lvZFR2Rmd2ZHBJbThMV3Q2NVdubzgzM1JySFV6Y3Q2X1c2amNiZXcxa2RuMDh2Ukl4a0lXMHdsWDFPZG10ODdTQTN0cTBoWTcxR3QxSl9pVHVMU0hMMzlfaXFrRkxVUE5QSUw0UzgwWUhnaWM4NmN3aF9US2VjcjI3R3QzSWhJMjEzNTA5akFuUXdsdUlCVl9iVF92LUE2X2FMbW9vcXVKLW9ETXNvcFh3VnM2bmxhb0l1NDJDeEE3Z3UyZzQ0aUcxV2vSAZwCQVVfeXFMT0VCdjFTOHRzWGFFRUpza1k2QzJobHpVeGY4QnktbzZaSUotU2NCNmRJUTZUVFVwcnZybDV3REtFODFQOTJBWmhzNTZBSlFyZGllLWxsWXZtT0x6ZFVnbllyZE1pcFB3ZWo4RzJYbmF0SHdQTVJCN1RiM3FoQXZVUnJJc051TW5JZ2pjZkF3WllWcXRPcGZBa1hqbDZOY3dSVHAzZWNXYTFMenVtdk5hRnFkZmxaTVl1TUN3djB6TndEbnNRY2tQal8zSVl0VDZuNmh2a3JzZ1djWk5BSUlBeHhxTVpJUlR4aHo4ejVFcHFLeFZ2VUdjNVFWR0dfbnJjYldGT2tnZ3JXc3pGYTl0NlRYUXotYi1CODZsZ00?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 111.3
+   "heat": 118.4
   },
   {
    "cat": "stock",
@@ -545,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 111.2
+   "heat": 117.9
   },
   {
    "cat": "stock",
@@ -559,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 110.8
+   "heat": 117.5
   },
   {
    "cat": "stock",
@@ -573,35 +601,21 @@
      "t": "sec"
     }
    ],
-   "heat": 110.8
+   "heat": 117.4
   },
   {
-   "cat": "stock",
-   "time": "2026-10-31 02:55",
-   "title": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
-   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "cat": "global",
+   "time": "2026-10-31 17:39",
+   "title": "Angola Plans to Cut Fuel Subsidies Without Price Increases",
+   "summary": "Angola, sub-Saharan Africa’s second-largest oil producer, plans to cut spending on fuel subsidies in 2027 without significant increases in pump prices, relying instead on other mea…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/investingclub/2026/10/30/tech-gets-crushed-defensive-stocks-shine-how-were-making-sense-of-it-all.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-31/angola-plans-to-cut-fuel-subsidies-without-price-increases",
      "t": "sec"
     }
    ],
-   "heat": 110.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-30 20:27",
-   "title": "Nasdaq, S&P 500 futures crash up to 2.6%, Dow hints flat open as oil jumps to $118/bbl; tech stocks in focus today - Ups",
-   "summary": "Nasdaq, S&P 500 futures crash up to 2.6%, Dow hints flat open as oil jumps to $118/bbl; tech stocks in focus today &nbsp;&nbsp; Upstox",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdFRkaTdGU3VuUUwzdndualZ0SDJMaUdJTmtMMWpCVHJzb25fcl9OeTRhUDcweUdsU3J2cXRSYWRDbE94bVJOUjFGSGFsUXMxVFpFVXJuc256MkMzejR5ZmNhN3dwbVFvdXdsV3BGLTgtRlJLNFVHSWFrcERwZkY1R044ZU03VUtsaTR4VmxWdTdaNmRQTkpjVmZtUXRlQ0FFX2syODUwek5ITlh2c3NhQWItZkRhT0wxdHNseVVUYndXYTFxWnlEUWc2Mi1WZ3ZWdW5sdWczQXRRVTgtbUowSVlmOTdua2FyWVYtanVmMHF0bnlRSDU5VkRrWjd2aC1abFMwaV9n?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 109.5
+   "heat": 19.7
   },
   {
    "cat": "global",
@@ -615,7 +629,7 @@
      "t": "agg"
     }
    ],
-   "heat": 20.4
+   "heat": 19.0
   },
   {
    "cat": "global",
@@ -629,7 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 19.8
+   "heat": 18.5
   },
   {
    "cat": "global",
@@ -643,7 +657,7 @@
      "t": "agg"
     }
    ],
-   "heat": 18.9
+   "heat": 17.5
   },
   {
    "cat": "global",
@@ -657,7 +671,7 @@
      "t": "agg"
     }
    ],
-   "heat": 18.4
+   "heat": 17.0
   },
   {
    "cat": "global",
@@ -671,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 11.6
+   "heat": 14.3
   },
   {
    "cat": "global",
@@ -685,35 +699,7 @@
      "t": "agg"
     }
    ],
-   "heat": 11.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-31 05:46",
-   "title": "Carney, Von der Leyen Strike Deal for Canada to Be EU’s First Associate Member",
-   "summary": "Plus: TSX has its worst tumble since June",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-10-30/carney-von-der-leyen-strike-deal-for-canada-to-be-eu-s-first-associate-member",
-     "t": "sec"
-    }
-   ],
-   "heat": 11.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-28 17:14",
-   "title": "财联社10月28日电，瑞银集团预计布伦特原油年底前将交投于每桶110美元，此前预期为每桶100美元。",
-   "summary": "财联社10月28日电，瑞银集团预计布伦特原油年底前将交投于每桶110美元，此前预期为每桶100美元。 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKd1drZEVCOUczRGVIRVg5eHNiNzZWeUJiTkVyUS1USnBFalpVajJ0d2g2WGptVzc1UGU3eWJUYXRucmZmS0xsTw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 8.0
+   "heat": 13.9
   },
   {
    "cat": "global",
@@ -724,20 +710,6 @@
     {
      "n": "财联社电报(Google聚合)",
      "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDU3o2cXBTVXlaVi1WVFBvbTJac05YMFRWWE9oZVhCVkNHUnNyMGpIb2RwSlAyd1FXcGVEOUt6ckU5QnBHM0Q2bQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 8.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-26 13:42",
-   "title": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？",
-   "summary": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？ &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LUENqM0tzSzRDNjhjWkplbmVSUjlSdTdPTEZfWF90aFNLRWIwMTFlM1kxVFl2WUd6V29LaEFiRENWS21LcmJ6LQ?oc=5",
      "t": "sec"
     }
    ],
@@ -769,7 +741,7 @@
      "t": "agg"
     }
    ],
-   "heat": 7.5
+   "heat": 6.1
   },
   {
    "cat": "global",
@@ -783,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 6.8
+   "heat": 5.5
   },
   {
    "cat": "global",
@@ -797,7 +769,21 @@
      "t": "sec"
     }
    ],
-   "heat": 5.1
+   "heat": 4.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-28 17:14",
+   "title": "财联社10月28日电，瑞银集团预计布伦特原油年底前将交投于每桶110美元，此前预期为每桶100美元。",
+   "summary": "财联社10月28日电，瑞银集团预计布伦特原油年底前将交投于每桶110美元，此前预期为每桶100美元。 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKd1drZEVCOUczRGVIRVg5eHNiNzZWeUJiTkVyUS1USnBFalpVajJ0d2g2WGptVzc1UGU3eWJUYXRucmZmS0xsTw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 4.0
   },
   {
    "cat": "crypto",
@@ -811,21 +797,7 @@
      "t": "sec"
     }
    ],
-   "heat": 85.3
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-30 14:22",
-   "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-   "summary": "Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-     "t": "sec"
-    }
-   ],
-   "heat": 84.5
+   "heat": 87.9
   },
   {
    "cat": "crypto",
@@ -839,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 82.4
+   "heat": 85.1
   },
   {
    "cat": "crypto",
@@ -853,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 82.3
+   "heat": 84.9
   },
   {
    "cat": "crypto",
@@ -867,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 82.1
+   "heat": 84.8
   },
   {
    "cat": "crypto",
@@ -881,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 81.8
+   "heat": 84.4
   },
   {
    "cat": "crypto",
@@ -895,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.8
+   "heat": 83.5
   },
   {
    "cat": "crypto",
@@ -909,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.1
+   "heat": 73.8
   },
   {
    "cat": "crypto",
@@ -923,7 +895,21 @@
      "t": "sec"
     }
    ],
-   "heat": 74.7
+   "heat": 73.4
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-10-31 17:58",
+   "title": "Binance $6.3B record hack sparks pre-election political chatter",
+   "summary": "Some political and administration figures tried to make hay of the biggest-ever crypto heist.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 67.7
   },
   {
    "cat": "crypto",
@@ -937,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.2
+   "heat": 65.9
   },
   {
    "cat": "crypto",
@@ -951,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.0
+   "heat": 65.7
   },
   {
    "cat": "crypto",
@@ -965,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.7
+   "heat": 65.3
   },
   {
    "cat": "crypto",
@@ -979,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.2
+   "heat": 64.9
   },
   {
    "cat": "crypto",
@@ -993,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 65.8
+   "heat": 64.5
   },
   {
    "cat": "crypto",
@@ -1007,35 +993,35 @@
      "t": "sec"
     }
    ],
-   "heat": 65.5
+   "heat": 64.1
   },
   {
    "cat": "sector",
-   "time": "2026-10-30 17:58",
-   "title": "Geely’s Profit Misses Estimates as China’s Auto Market Slows",
-   "summary": "Geely’s Profit Misses Estimates as China’s Auto Market Slows &nbsp;&nbsp; Caixin Global",
+   "time": "2026-10-30 17:34",
+   "title": "China’s Communist Party Fills 10 Central Committee Vacancies",
+   "summary": "China’s Communist Party Fills 10 Central Committee Vacancies &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmhJeHdadWI0U1laNzR0ZlFtZWUyTzlielV4dnRrT0FOYWc3NlU1di1sTzhESURoc09feHAyaU5SUFFyNVBpeWo1UGloQU9CWXM3a0NWWnRXRnhWWmNhakx3aURmRlUyY1RiRkJ6MWtOVjlSZjdKQllNTWdjazMtNHpueUp6TGtRTlNZb2JDSDJ2ZnJ3Wl9pdVhaZnMyeExPWmdpVlpLVmxZUFpqV0pvcGczMA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlpzd1dLN2RPV0FwZDRyMXRaa2RHQkRlSlI4dHNFdXRaYnRMVTNrWkpwRWY0TnNMVXEzYjRXbWZhSFJrMUlET19mSUgzUlIyZjhzZWZYRnJXNVgzT3h0QV8tbS1od0xtSFhjWVRFY0dXV3o4OGhyeGFzaHZqd0FoOGFFT2xqSXFhVUVBbTVmcWlMYXVLT1UxdjNzT0YtNFFkY0J6MDJCSDlFT3N5d3A0VzZDSVo?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 237.1
+   "heat": 231.7
   },
   {
-   "cat": "sector",
-   "time": "2026-10-31 02:36",
-   "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
+   "cat": "stock",
+   "time": "2026-10-31 11:01",
+   "title": "InvestingPro’s Fair Value correctly predicted 57% decline in CCXI stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/openai-cuts-funding-target-by-10-billion-ft-reports-4988969",
+     "u": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-correctly-predicted-57-decline-in-ccxi-stock-93CH-4989238",
      "t": "agg"
     }
    ],
-   "heat": 236.5
+   "heat": 116.6
   }
  ]
 }
