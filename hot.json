@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01 04:50",
+ "updated": "2026-11-01 07:52",
  "items": [
   {
    "cat": "sector",
@@ -13,11 +13,11 @@
      "t": "sec"
     }
    ],
-   "heat": 261.6
+   "heat": 241.1
   },
   {
    "cat": "sector",
-   "time": "2026-11-01 04:43",
+   "time": "2026-11-01 07:52",
    "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
    "summary": "By dismissing the suit with prejudice, Trump can't file another amended version in district court. Trump's legal team said the president plans to appeal.",
    "srcs": [
@@ -27,7 +27,21 @@
      "t": "sec"
     }
    ],
-   "heat": 260.0
+   "heat": 240.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-01 05:59",
+   "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
+   "summary": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.7
   },
   {
    "cat": "sector",
@@ -41,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 259.9
+   "heat": 239.4
   },
   {
    "cat": "sector",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 259.8
+   "heat": 239.3
   },
   {
    "cat": "sector",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 259.7
+   "heat": 239.2
   },
   {
    "cat": "sector",
@@ -83,7 +97,21 @@
      "t": "sec"
     }
    ],
-   "heat": 259.2
+   "heat": 238.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-30 22:58",
+   "title": "三项目齐发、总投资85亿元！科翔股份押注AI算力PCB|速读公告",
+   "summary": "三项目齐发、总投资85亿元！科翔股份押注AI算力PCB|速读公告 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yN0c2WXZkQ1Baam40dmNDR2piTkZhUTJvUmVKQ1o5d0xVMmotSHpKQ3g3Rl9oWVFGXzdGRHdRMEVZSWM3UnEwMw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 238.5
   },
   {
    "cat": "sector",
@@ -97,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 258.9
+   "heat": 238.4
   },
   {
    "cat": "sector",
@@ -111,35 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 258.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 21:47",
-   "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
-   "summary": "Axios reported that Qatari mediators held more than 12 hours of talks in Tehran on Friday to reach a deal to avoid a resumption of American-led attacks on Iran.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 258.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 21:30",
-   "title": "Automatic 401(k) rollovers reduce cash-outs, research finds — but few accounts reach new employer plans",
-   "summary": "Workers with small 401(k) balances are cashing out less often under an automatic portability program, but most accounts remain in temporary IRAs.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/31/401k-cash-outs-automatic-rollovers.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 258.8
+   "heat": 238.3
   }
  ]
 }
