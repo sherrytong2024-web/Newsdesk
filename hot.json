@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-01 00:36",
+ "updated": "2026-11-01 04:50",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-10-31 14:40",
+   "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
+   "summary": "OpenAI Chief Executive Officer Sam Altman met with Samsung Group’s top executives in South Korea on Saturday to deepen cooperation on memory chips and AI infrastructure as global s…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
+     "t": "sec"
+    }
+   ],
+   "heat": 261.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-01 04:43",
+   "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+   "summary": "By dismissing the suit with prejudice, Trump can't file another amended version in district court. Trump's legal team said the president plans to appeal.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 260.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-01 04:12",
+   "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+   "summary": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-01 03:56",
+   "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+   "summary": "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-01 03:04",
+   "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+   "summary": "The group did not release a joint communique but will rather rely on a chairman's statement, which U.S Secretary of State Rubio said he would release Saturday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/31/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-issues.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.7
+  },
   {
    "cat": "sector",
    "time": "2026-11-01 00:08",
@@ -13,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.9
+   "heat": 259.2
   },
   {
    "cat": "sector",
@@ -27,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.6
+   "heat": 258.9
   },
   {
    "cat": "sector",
@@ -41,7 +111,21 @@
      "t": "sec"
     }
    ],
-   "heat": 243.5
+   "heat": 258.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 21:47",
+   "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
+   "summary": "Axios reported that Qatari mediators held more than 12 hours of talks in Tehran on Friday to reach a deal to avoid a resumption of American-led attacks on Iran.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 258.8
   },
   {
    "cat": "sector",
@@ -55,91 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 21:15",
-   "title": "EU Foreign Policy Chief Warns Against Normalizing Russia",
-   "summary": "EU foreign policy chief Kaja Kallas tells Bloomberg This Weekend that Russia is escalating its war in Ukraine and is not serious about peace, criticizing Russian Foreign Minister S…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-31/eu-foreign-policy-chief-warns-against-normalizing-russia-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 20:47",
-   "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-   "summary": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 20:00",
-   "title": "Humans are still doing the work behind some AI agents",
-   "summary": "AI agents from startups including Dazzle, Duckbill and Wajo still rely on human workers for calls and other real-world tasks when software falls short.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 19:30",
-   "title": "Norwegian Firm Has $100 Million Riding on Mercuria’s Baltic Case",
-   "summary": "As lawyers for Mercuria Energy Group presented the commodity giant’s case against the Baltic Exchange this week, a group of smartly dressed Norwegian businessmen listened intently …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-31/norwegian-firm-has-100-million-riding-on-mercuria-s-baltic-case",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 18:30",
-   "title": "Binance in Talks for Malaysia License after Five-Year Absence",
-   "summary": "Binance said it’s in discussions with Malaysian regulators for a licensed business in the country, as the cryptocurrency exchange seeks a route back into a market where authorities…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-31/binance-in-talks-for-malaysia-license-after-five-year-absence",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 18:27",
-   "title": "The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
-   "summary": "In just six years, giant skeletons have gone from an absurd viral novelty to the centerpiece of an expanding retail arms race for the front lawn.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.0
+   "heat": 258.8
   }
  ]
 }

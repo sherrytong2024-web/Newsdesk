@@ -1,48 +1,6 @@
 {
- "updated": "2026-11-01 00:36",
+ "updated": "2026-11-01 04:50",
  "items": [
-  {
-   "cat": "macro",
-   "time": "2026-10-31 03:06",
-   "title": "The best high-yield savings accounts of November 2026: Earn up to 5.0%",
-   "summary": "Earn the most interest with our top-rated high-yield savings accounts.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/select/best-high-yield-savings-accounts/",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-31 01:15",
-   "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-   "summary": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-29 17:33",
-   "title": "Stock Market Today: Dow Jones, S&P 500 Futures Trade Mixed After Fed Keeps Rates Unchanged — MSFT, GOOG - Benzinga",
-   "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Trade Mixed After Fed Keeps Rates Unchanged — MSFT, GOOG &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY0xYOTAzdVlaMV9uTHNQWDJwMVEzTnYtcTNNNzRud2pOT3AwclRqOVpjOGs2XzJuS2lxWmtnSUFyVmtMSUxqN1NNTFJ4aGVsaVpDNFhLNG9KQWV3MHFLTElpRFFveG1VUUp6WE1VZ3o5X05pb2Q0QTNkYnUzN3lGQTNhR3ltb1p5enVES0M0N3BpRnM1OVBWNGdrck0yX0F3dXZGQ0hUM2llRWZZcmZUUWFRc3EtbDZ4QjU1WnFmTTlfdWNvTVE4V2ZXRVFRRnYzdDVqRXI3ODlic0tUWFEwQ0lhbmNQMl9ONFdhVmlxTElxU3dHQ1pZSDlSaTY?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 40.0
-  },
   {
    "cat": "macro",
    "time": "2026-10-29 07:53",
@@ -55,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 60.0
   },
   {
    "cat": "macro",
@@ -69,7 +27,77 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 60.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-29 04:24",
+   "title": "The bond market swings, but U.S. stocks remain steady after the Fed says it won’t raise interest rates - BNN Bloomberg",
+   "summary": "The bond market swings, but U.S. stocks remain steady after the Fed says it won’t raise interest rates &nbsp;&nbsp; BNN Bloomberg",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONXFNaHB2S1NmczhFeERWUFdQbmpiWWdhdWFXZXFQMkR3a05INFk1akMtdzl5TnRlUktfakI0b3VRNWhZU2xfWE5ZUnpmLVpZZVlWTFlreHNCUkRrQVl6ZlEyUjFRSlN4UzFXVGdaa2JNRFBieXNYV1ExeGlTbHF0RjF3ZU9ObHlFeUJGaG0xTlpkQzEzSnRoUFZ4YUppZkZWaDRBQ0o1Ui1kUXZncU9ER25EeVlFR2s?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-28 22:37",
+   "title": "U.S. stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - BNN Bloomberg",
+   "summary": "U.S. stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates &nbsp;&nbsp; BNN Bloomberg",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeWZsOVpyMnVUdGRkalFRaVo0Rkc3UldNUEhxMC1tZnVzdjZIQlV5RjV3N19neE1qMTVDeTlqVjB5MndlVGNUTVgwX3AxdU5DUkFpNHdyNFZ1MjN0QUk0NG90Y05CbWl4T09UWEMzZmdJUGp4RTlTcGYtZ2dZR1JJeDEtYnhMdk5OUkhuRVZUWGk2cVdVSHNoZ0RkZ2NhYUJkUl9hTlNBMUZNWXVzeVRMQ2R4NW1BbnhIb0NSa3hHNnE4dw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-28 20:41",
+   "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain Ahead of Federal Reserve Interest Rate Decision— SKH - Benzinga",
+   "summary": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain Ahead of Federal Reserve Interest Rate Decision— SKH &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcUprZTZnT01SSVptZXZxUGlnOGtQOG04Qk92cXZvME1aMWNXd0gxb1BfazhBRFBkdTZPUVJPRlNPcXNzTmpkUVpuWlpBWXNkeG9OdF9WeFJLd3RoQ2daU2RQZmVPYU52N05pdHRveDBtMy1BVHlNN2NZd1hfNVhRYmZaY1Y1amxXMnBoVjVoaU9xaVNrTmh5LVRuejNsMl85ZFBuYjBlbTJDNVdXVnl6R1NOX192Tmw0dDlsTC1aMDlIX21FQjhCcTVZOUJnTzF6dlZqeGFhWjF1YnNDNW1LVGxTcFl0NGJhRGJYeE4wRy1admd3MDBpR2VMS0JnQllyOVVMVlAwUElUYnp4VVNIX3NDMUo?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 60.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-31 03:06",
+   "title": "The best high-yield savings accounts of November 2026: Earn up to 5.0%",
+   "summary": "Earn the most interest with our top-rated high-yield savings accounts.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/select/best-high-yield-savings-accounts/",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-31 01:15",
+   "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+   "summary": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.4
   },
   {
    "cat": "macro",
@@ -83,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.8
+   "heat": 47.1
   },
   {
    "cat": "macro",
@@ -97,21 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-31 21:05",
-   "title": "35-year-old took on $20K in debt to launch a business from her dining room—now it brings in 8 figures a year",
-   "summary": "Set Active founder Lindsey Carter shares how she learned to separate her professional stress from her personal life while growing her athleisure company.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/make-it/2026/10/31/set-active-lindsey-carter-entrepreneurship.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 39.4
+   "heat": 47.0
   },
   {
    "cat": "macro",
@@ -125,7 +139,63 @@
      "t": "sec"
     }
    ],
-   "heat": 25.7
+   "heat": 45.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-27 21:37",
+   "title": "US stocks today: S&P 500, Nasdaq advance as oil eases ahead of Fed decision - The Economic Times",
+   "summary": "US stocks today: S&P 500, Nasdaq advance as oil eases ahead of Fed decision &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRk9YS0ktc2N0RkZmaGhOVXAxVDY4SndqOTE2ZzVRWjFEWFd6SUdfMkVDUUlXeENUamNxVm9ZbXBGSzNlOU5zNzhKNEJLcVg4ekVuU0o0bGFZZEhwc0QzMGlJYzRTY09kdHp4Z2YweHEtSGl2QnRubkw2WUFmZV9COXdHNGV3eHNnaHhxNXBEZVVOdzVFVkJWcENhdUpocTROVlhLamdLQXdfZlN2bXg2UFNKamk2RUNFemx0WHdDRV91SGFqZDQ3bTJLc0JwTmRKbzZBdmpyaDRzYkNnYXBOZ3E5VFdoYWlid3JwcnBjd0JwQ19oWURhNXZjNEJkNnNf0gGGAkFVX3lxTE9nV25ET0JqV0tSWlVPYmFJSU9Kb1R6T0xuQ3RxMVlxRl9DSzhZaGRZVDdkQ1Bqc1hLSGNZY2VsX2lfczZGUlVZTkkxLUhMUkRsT1Rib3U1T093NmNabEY1dUNGUXhjaUZpSUhLWFVoay1iaUhWUlhSXzNNbEY2ZlFvZU1IY054bG9fQ3k4MnpiV0FmRDFTOTFaSXktSWUzdklEQjB1M0ZDOE1pTGdQMDhRRlRFbk9hMUVuMDNTbURYbF9fTFdnTzZUSEVXdF90VkFyb2djSGkwMUVkeFg0OEtmUmdLWk1uNGFvY3JsMjM5WUVPN1BlMjRTWWZUb21Sb2pob3g5Wmc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-27 20:45",
+   "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 10 Futures Gain as Fed Begins Its Two-Day Meet— Novartis - Benzinga",
+   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 10 Futures Gain as Fed Begins Its Two-Day Meet— Novartis &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaTBMM0ZzS2pIVDhqUjhHekJrU0hZQjh5SXZGbEwzMzhnYUZvOGJ2TDRnSHlWYzVqblBrUXdKVzNPOHQtd3F2YUJsQTE3eFR5RlFlc05Va3M4TnpkWTJGZ2kyZjNmeTBpY3B5ZWdyTlBKNm9pR1hhMG9uN0g2UmFsTXBqaFRJRFhGRWtSZGFVTzZBWGcweTBZZTQxQVktM0ZvYVBfTEhuRnl0T2JsQlVoV1JweUhUbV9YMUJsTktMMGl0TFZRbjZuak1oTF8yU1VrVVVRMDExTEtiTkNBZ21fSUpScVJJNGhsekk1cEhTNGFBOW82QWhGZXZB?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-27 14:26",
+   "title": "Warren Buffett Says Buy an S&P 500 Index Fund. Here's What $500 a Month Is Worth in 20 Years at 3 Different Return Rates",
+   "summary": "Warren Buffett Says Buy an S&P 500 Index Fund. Here's What $500 a Month Is Worth in 20 Years at 3 Different Return Rates. &nbsp;&nbsp; The Globe and Mail",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPOXd4NmJwbjFQM29nVW5XMnRqR0RvYk5EMTlzY2x1ZW9SdDJOMUF5bldLWE9qNWdTTnc5TTU5VFBWa3B4c2Vkbzh1NExqVldlaGhmRGZ4SjlSbDFPZ2JvQWplYUd4ZFJfeEVGdWp4WFpQZGlhWVFrY1lDNnFTUjBnS2NZRTcxTVFNWkVqRXRDMGY4QUQ4aUNyNlBDRFRGY2E5em9OY3dVZXNaMDlYcHNndUdBckNCdmlfWEVqX1JSQkcwcjhCMFktQ0V5UzZqZlBmdjNBMUhCaU1GOW9haDkzbEh2VVJSUmEybXR2a0RFQzlrWGliRVNxUjRXWWVuSFBaNEgwVDZfeEVvaVBFam05VVZvanJKRnJYaGFjRGZhLXc1ZmN5S2tKSnIyRQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-10-27 08:12",
+   "title": "S&P 500, Nasdaq end higher as traders gear up for tech earnings, Fed this week",
+   "summary": "S&P 500, Nasdaq end higher as traders gear up for tech earnings, Fed this week &nbsp;&nbsp; Investing.com",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa2IzcThsNWdsOVkycWRIS2dQaGE2b25MdWtKS1NqdUZhU1BGaGJ3MzJNLWJ1eTI4aHdtelNueTVWRFVHRURyMFZOWnlObHB5ZzNkekJSeUphRGVtMV9fS2hvTmozNjFwcHpKUjVJWTVEbEw2MGZ4ekFBRF9qME9OUE5JdlU2SloyVHZEeHVzOVBYS1J5ZnU3QXRzeW1fQWp4bmVvUmZMNWwwTTYzTllfZndmekZ4UGV0WWtyMHljbjlSdjhmYmg0c2daS1E2UkU?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 40.0
   },
   {
    "cat": "macro",
@@ -139,77 +209,77 @@
      "t": "sec"
     }
    ],
-   "heat": 20.0
+   "heat": 40.0
   },
   {
-   "cat": "macro",
-   "time": "2026-10-31 20:49",
-   "title": "Trump promised to slash energy costs — but gasoline, diesel and jet fuel all soared instead",
-   "summary": "President Donald Trump promised voters who were angry about inflation that he would slash gasoline prices below $2 a gallon in his first year in office.",
+   "cat": "sector",
+   "time": "2026-10-31 14:40",
+   "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
+   "summary": "OpenAI Chief Executive Officer Sam Altman met with Samsung Group’s top executives in South Korea on Saturday to deepen cooperation on memory chips and AI infrastructure as global s…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
+     "t": "sec"
+    }
+   ],
+   "heat": 261.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-01 04:43",
+   "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+   "summary": "By dismissing the suit with prejudice, Trump can't file another amended version in district court. Trump's legal team said the president plans to appeal.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
+     "u": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
      "t": "sec"
     }
    ],
-   "heat": 19.4
+   "heat": 260.0
   },
   {
-   "cat": "macro",
-   "time": "2026-10-31 04:28",
-   "title": "Silver Is Falling Despite Lower Treasury Yields and a Persistent Supply Deficit",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/silver-is-falling-despite-lower-treasury-yields-and-a-persistent-supply-deficit-200690614",
-     "t": "agg"
-    }
-   ],
-   "heat": 18.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-31 00:55",
-   "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
-   "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
+   "cat": "sector",
+   "time": "2026-11-01 04:12",
+   "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+   "summary": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+     "u": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
      "t": "sec"
     }
    ],
-   "heat": 16.1
+   "heat": 259.9
   },
   {
-   "cat": "macro",
-   "time": "2026-10-31 21:09",
-   "title": "S&P Turns Negative on Meta as AI Spending Threatens $71 Billion Cash Flow Deficit - Coinpaper",
-   "summary": "S&P Turns Negative on Meta as AI Spending Threatens $71 Billion Cash Flow Deficit &nbsp;&nbsp; Coinpaper",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlA1eF9xbUNkNm5CMTVoamk0Tnc4Q3RwcmQ2QzYxOFl2Z1M2bGNWZ3JwS1JsQ1hWLVRLUVdWYm9zLW9DVTBNQTdobXV2NFp1QlBEWGdhckIwZUtLWXdnTVBvek93X3p4UmVvZkUzZ0NCcUxuWmRHMlAzTE1wUkQyWDFXaXl0UVplX1FieWJJQzhhMXZoaFJCdm96Q044dEVzZzNsQW0zUmhBOWFpM3JCb3dn?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 15.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-31 20:58",
-   "title": "How to start an art collection on any budget",
-   "summary": "A guide to beginning an art collection, including how to research artists, what to buy, and where to connect, from galleries to fairs to auction houses.",
+   "cat": "sector",
+   "time": "2026-11-01 03:56",
+   "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+   "summary": "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/31/how-to-invest-in-art-collecting.html",
+     "u": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
      "t": "sec"
     }
    ],
-   "heat": 15.4
+   "heat": 259.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-01 03:04",
+   "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+   "summary": "The group did not release a joint communique but will rather rely on a chairman's statement, which U.S Secretary of State Rubio said he would release Saturday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/31/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-issues.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.7
   },
   {
    "cat": "sector",
@@ -223,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.9
+   "heat": 259.2
   },
   {
    "cat": "sector",
@@ -237,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.6
+   "heat": 258.9
   },
   {
    "cat": "sector",
@@ -251,7 +321,21 @@
      "t": "sec"
     }
    ],
-   "heat": 243.5
+   "heat": 258.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-31 21:47",
+   "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
+   "summary": "Axios reported that Qatari mediators held more than 12 hours of talks in Tehran on Friday to reach a deal to avoid a resumption of American-led attacks on Iran.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 258.8
   },
   {
    "cat": "sector",
@@ -265,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.5
+   "heat": 258.8
   },
   {
    "cat": "sector",
@@ -279,21 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 20:47",
-   "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-   "summary": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.4
+   "heat": 258.7
   },
   {
    "cat": "sector",
@@ -307,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.2
+   "heat": 258.5
   },
   {
    "cat": "sector",
@@ -321,21 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 18:30",
-   "title": "Binance in Talks for Malaysia License after Five-Year Absence",
-   "summary": "Binance said it’s in discussions with Malaysian regulators for a licensed business in the country, as the cryptocurrency exchange seeks a route back into a market where authorities…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-31/binance-in-talks-for-malaysia-license-after-five-year-absence",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.0
+   "heat": 258.4
   },
   {
    "cat": "sector",
@@ -349,49 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 243.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 17:00",
-   "title": "Houthi Attacks on Riyadh Airport Ramp Up Flight Cancellations",
-   "summary": "What was already destined to be a bad year for Middle East airlines got even worse in October when missiles pummeled the Saudi capital’s airport, killing more than a dozen people a…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-31/houthi-attacks-on-riyadh-airport-ramp-up-flight-cancellations",
-     "t": "sec"
-    }
-   ],
-   "heat": 242.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 17:00",
-   "title": "Laughing Cow Maker Targets US Households With Bitesize Snacks",
-   "summary": "French children eat the Laughing Cow as an after-school snack. In Britain, kids find the spreadable cheese in their lunchboxes. Now the 105-year-old brand wants to become a staple …",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-31/laughing-cow-maker-targets-us-households-with-bitesize-snacks",
-     "t": "sec"
-    }
-   ],
-   "heat": 242.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 06:57",
-   "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
-   "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 241.1
+   "heat": 258.3
   },
   {
    "cat": "stock",
@@ -405,7 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 123.8
+   "heat": 127.1
   },
   {
    "cat": "stock",
@@ -419,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 123.4
+   "heat": 126.7
   },
   {
    "cat": "stock",
@@ -433,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 123.4
+   "heat": 126.7
   },
   {
    "cat": "stock",
@@ -447,35 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 123.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-30 17:44",
-   "title": "Stock Market Today: Dow Jones, S&P 500 Futures Trade Mixed as AMZN, INTC Slide After Q3 Earnings—DELL, LL - Benzinga",
-   "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Trade Mixed as AMZN, INTC Slide After Q3 Earnings—DELL, LL &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxON1ptandCQ2F4Qlg0QTcwWUlCQ3dCLXpRZWNHVDk1QVlpUHZ2cUhMd1FvWlhjQnZaNGU0SVJaNGNxTE1relMzLWFudFpBY2MxYXRfcnAtbEY2QjZ3UTZLRWtjSi1tX2Z0RDZwLWgzc09tVXpLQ29sOEVSQjhWeDZDcklya3RITVFOTTJ4enV5Ylpmd3B2TWlUeGNzSVNmbVNNUHZEM21FZWl0QTFOamo2Q293aGJmY3dFTlBTdGJFaUl0YmJuVzJKalJPMExFRllsekNjRHR4RVBjRzJobGkzd0Fkb0xyY3NHNW1veUgxT3dvbW9CTTF5aHJYaHVzNE5U?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 118.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-10-27 03:02",
-   "title": "China ETFs Draw Billions After Stock-Market Selloff",
-   "summary": "China ETFs Draw Billions After Stock-Market Selloff &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTFCLUpIQzlvQnRIMHdYTE5QLVp3dldtaEwzYzhsWU9BRnc1RzFURWQ3QkRlNS1MR0JHc3JwMDBES09WaWF3V2RtbGZoSnpNTk4xTW51dU04VmI1MWhrQmJrWlhwWFBSUnNveVFvY00tUlpIRE1Zam1Jdi00UVB2czlyRE5JR1gwbC1aTXFYR093QkN6MG9ndmhISlZJY0p2U3FGUmVOLWhOZw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 112.0
+   "heat": 126.5
   },
   {
    "cat": "stock",
@@ -489,35 +475,49 @@
      "t": "sec"
     }
    ],
-   "heat": 110.7
+   "heat": 118.0
   },
   {
    "cat": "stock",
-   "time": "2026-10-30 06:07",
-   "title": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
-   "summary": "Wall Street got a reality check as a bruising selloff in technology shares fueled concern the artificial-intelligence frenzy that has powered the equity bull market might be overbl…",
+   "time": "2026-10-27 03:02",
+   "title": "China ETFs Draw Billions After Stock-Market Selloff",
+   "summary": "China ETFs Draw Billions After Stock-Market Selloff &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTFCLUpIQzlvQnRIMHdYTE5QLVp3dldtaEwzYzhsWU9BRnc1RzFURWQ3QkRlNS1MR0JHc3JwMDBES09WaWF3V2RtbGZoSnpNTk4xTW51dU04VmI1MWhrQmJrWlhwWFBSUnNveVFvY00tUlpIRE1Zam1Jdi00UVB2czlyRE5JR1gwbC1aTXFYR093QkN6MG9ndmhISlZJY0p2U3FGUmVOLWhOZw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 108.9
+   "heat": 116.0
   },
   {
    "cat": "stock",
-   "time": "2026-11-01 00:28",
+   "time": "2026-11-01 00:21",
    "title": "3 Unstoppable S&P 500 Stocks to Buy in November - The Globe and Mail",
    "summary": "3 Unstoppable S&P 500 Stocks to Buy in November &nbsp;&nbsp; The Globe and Mail",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWtfb0VGXzhHTUJhY3MwekZHbEFQclJsWVRYZjhnVlhaM1hEY1hFcjVkbzJHTGVrQnp2Y3R5X003NE4tTWpGNVNYSjVUekZBS1RMWlpSX3BKbzllMHJLVnBYS1RMdjhCMEdzQjNPaXBVdy1NWlluSEVFRExlRVRpbUhrM0I1R0ZheUJTOEdQVUFqTjNrMjBjN2pULTlMM25EcU5pc21HYldaNjlCaC1CMmo2Q1hnMXBVQUJuV3R2dU93Yk0?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1NSY3N4VXhBMVA0MFI0aFQyMWJJbDBDSVNBQkYwNVdvMDNNdjNpV3FONkNzZmdTM1Y4LUZTcEtvdGRILUJJLV9KXzBxblV3YnBRREZ1UWdVNlJMRHpJcnBMNXlSSFMtMEpTVG12WEZWdTg5WkZBWXpiNmRHQ3VCNDVlNjM5ZGZEdTlTWlViWV9IREg3LVF0eTFibnNzS2JxV2NGMnpHWlN3bzk5bjdrejZfNldSeEhVMDc5MGZqWVpwTF9lSm41M2pOOA?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 108.0
+   "heat": 115.3
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-01 00:13",
+   "title": "Final Countdown to Midterm Elections, Tech Stocks Tank",
+   "summary": "The news doesn’t stop when markets close. Hosts David Gura, Lisa Mateo and Nathan Hager bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-10-31/bloomberg-this-weekend-10-31-2026-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 115.2
   },
   {
    "cat": "stock",
@@ -531,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.4
+   "heat": 114.7
   },
   {
    "cat": "stock",
@@ -545,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.1
+   "heat": 114.4
   },
   {
    "cat": "stock",
@@ -559,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 105.9
+   "heat": 113.2
   },
   {
    "cat": "stock",
@@ -573,35 +573,49 @@
      "t": "sec"
     }
    ],
-   "heat": 105.8
+   "heat": 113.1
   },
   {
    "cat": "stock",
-   "time": "2026-10-31 10:48",
-   "title": "Stocks Worse Day Since June, US to Sell Missiles to Ukraine,More",
-   "summary": "Source: Bloomberg, 6:08",
+   "time": "2026-10-31 18:31",
+   "title": "USCB Financial Holdings director buys $20,000 in stock",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-31/stocks-worse-day-since-june-us-to-sell-missiles-to-ukraine-more",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/uscb-financial-holdings-director-buys-20000-in-stock-93CH-4989312",
+     "t": "agg"
     }
    ],
-   "heat": 105.7
+   "heat": 112.3
   },
   {
    "cat": "stock",
-   "time": "2026-10-31 10:08",
-   "title": "Stocks Drop on Tech Rout, US to Sell Missiles to Ukraine, More",
-   "summary": "Source: Bloomberg, 6:15",
+   "time": "2026-10-30 06:07",
+   "title": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
+   "summary": "Wall Street got a reality check as a bruising selloff in technology shares fueled concern the artificial-intelligence frenzy that has powered the equity bull market might be overbl…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-31/stocks-drop-on-tech-rout-us-to-sell-missiles-to-ukraine-more-mvvri37j",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
      "t": "sec"
     }
    ],
-   "heat": 105.6
+   "heat": 112.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-10-27 07:28",
+   "title": "Equities end higher as Anthropic's IPO filing buoys AI stocks",
+   "summary": "Equities end higher as Anthropic's IPO filing buoys AI stocks &nbsp;&nbsp; Reuters",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 112.0
   },
   {
    "cat": "global",
@@ -615,7 +629,7 @@
      "t": "sec"
     }
    ],
-   "heat": 18.8
+   "heat": 18.1
   },
   {
    "cat": "global",
@@ -629,7 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 18.2
+   "heat": 17.5
   },
   {
    "cat": "global",
@@ -643,7 +657,7 @@
      "t": "agg"
     }
    ],
-   "heat": 17.6
+   "heat": 16.9
   },
   {
    "cat": "global",
@@ -657,7 +671,7 @@
      "t": "agg"
     }
    ],
-   "heat": 16.7
+   "heat": 16.0
   },
   {
    "cat": "global",
@@ -671,7 +685,7 @@
      "t": "agg"
     }
    ],
-   "heat": 16.2
+   "heat": 15.5
   },
   {
    "cat": "global",
@@ -685,7 +699,7 @@
      "t": "sec"
     }
    ],
-   "heat": 13.4
+   "heat": 12.7
   },
   {
    "cat": "global",
@@ -699,21 +713,21 @@
      "t": "agg"
     }
    ],
-   "heat": 13.1
+   "heat": 12.4
   },
   {
    "cat": "global",
-   "time": "2026-10-28 17:14",
-   "title": "财联社10月28日电，瑞银集团预计布伦特原油年底前将交投于每桶110美元，此前预期为每桶100美元。",
-   "summary": "财联社10月28日电，瑞银集团预计布伦特原油年底前将交投于每桶110美元，此前预期为每桶100美元。 &nbsp;&nbsp; 财联社",
+   "time": "2026-10-31 18:53",
+   "title": "Why the sell-off in French bonds is a warning for global governments",
+   "summary": "",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKd1drZEVCOUczRGVIRVg5eHNiNzZWeUJiTkVyUS1USnBFalpVajJ0d2g2WGptVzc1UGU3eWJUYXRucmZmS0xsTw?oc=5",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/why-the-selloff-in-french-bonds-is-a-warning-for-global-governments-4989316",
+     "t": "agg"
     }
    ],
-   "heat": 8.0
+   "heat": 8.3
   },
   {
    "cat": "global",
@@ -745,20 +759,6 @@
   },
   {
    "cat": "global",
-   "time": "2026-10-26 06:52",
-   "title": "06:52:32 财联社10月26日电，据报道，知情人士称SpaceX正在就400亿美元债务定价进行讨论。",
-   "summary": "06:52:32 财联社10月26日电，据报道，知情人士称SpaceX正在就400亿美元债务定价进行讨论。 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXdU9EdElSRXVuRmVGalRxNjhrcmxJMzRJMlp5N3R4M042S1l5SWp4NEZZU3I5Ukl2YVUtak9MbUdxUUJYaGRQbA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 8.0
-  },
-  {
-   "cat": "global",
    "time": "2026-10-30 20:21",
    "title": "Brent January Futures Hit New Highs as Market Braces for Post-Midterm Escalation",
    "summary": "",
@@ -769,7 +769,21 @@
      "t": "agg"
     }
    ],
-   "heat": 5.3
+   "heat": 4.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-10-28 17:14",
+   "title": "财联社10月28日电，瑞银集团预计布伦特原油年底前将交投于每桶110美元，此前预期为每桶100美元。",
+   "summary": "财联社10月28日电，瑞银集团预计布伦特原油年底前将交投于每桶110美元，此前预期为每桶100美元。 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKd1drZEVCOUczRGVIRVg5eHNiNzZWeUJiTkVyUS1USnBFalpVajJ0d2g2WGptVzc1UGU3eWJUYXRucmZmS0xsTw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 4.0
   },
   {
    "cat": "global",
@@ -783,21 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 4.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-29 18:01",
-   "title": "15:38:57【荷兰国际集团宣布全球裁员约400人 预计每年削减成本7500万欧元】",
-   "summary": "15:38:57【荷兰国际集团宣布全球裁员约400人 预计每年削减成本7500万欧元】 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxaEx2V0NVMWt0eGVZbTBieUFzZHoxNTBzVkUweHNUZlZPX0t4bU1oWExJaGkxM2FYZ1pMVmNXbGNXYkkwMlJOdg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 4.0
+   "heat": 3.9
   },
   {
    "cat": "crypto",
@@ -811,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 99.8
+   "heat": 95.1
   },
   {
    "cat": "crypto",
@@ -825,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.6
+   "heat": 90.9
   },
   {
    "cat": "crypto",
@@ -839,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 92.1
+   "heat": 87.4
   },
   {
    "cat": "crypto",
@@ -853,21 +853,21 @@
      "t": "sec"
     }
    ],
-   "heat": 76.9
+   "heat": 68.2
   },
   {
    "cat": "crypto",
-   "time": "2026-10-31 03:55",
-   "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
-   "summary": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection.",
+   "time": "2026-10-31 03:01",
+   "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+   "summary": "The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September.",
    "srcs": [
     {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 76.6
+   "heat": 59.7
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.9
+   "heat": 59.2
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.9
+   "heat": 59.2
   },
   {
    "cat": "crypto",
@@ -909,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.9
+   "heat": 59.2
   },
   {
    "cat": "crypto",
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.8
+   "heat": 59.1
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.7
+   "heat": 59.0
   },
   {
    "cat": "crypto",
@@ -951,21 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-10-31 21:04",
-   "title": "Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules",
-   "summary": "Interest groups tied to cryptocurrency are spending millions to tilt the midterm elections. They had mixed success in 2024",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 67.4
+   "heat": 58.8
   },
   {
    "cat": "crypto",
@@ -979,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.4
+   "heat": 58.7
   },
   {
    "cat": "crypto",
@@ -993,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.9
+   "heat": 58.2
   },
   {
    "cat": "crypto",
@@ -1007,35 +993,35 @@
      "t": "sec"
     }
    ],
-   "heat": 65.0
+   "heat": 56.3
   },
   {
-   "cat": "sector",
-   "time": "2026-10-30 17:58",
-   "title": "Geely’s Profit Misses Estimates as China’s Auto Market Slows",
-   "summary": "Geely’s Profit Misses Estimates as China’s Auto Market Slows &nbsp;&nbsp; Caixin Global",
+   "cat": "crypto",
+   "time": "2026-10-31 13:01",
+   "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+   "summary": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to North Korea.",
    "srcs": [
     {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmhJeHdadWI0U1laNzR0ZlFtZWUyTzlielV4dnRrT0FOYWc3NlU1di1sTzhESURoc09feHAyaU5SUFFyNVBpeWo1UGloQU9CWXM3a0NWWnRXRnhWWmNhakx3aURmRlUyY1RiRkJ6MWtOVjlSZjdKQllNTWdjazMtNHpueUp6TGtRTlNZb2JDSDJ2ZnJ3Wl9pdVhaZnMyeExPWmdpVlpLVmxZUFpqV0pvcGczMA?oc=5",
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
      "t": "sec"
     }
    ],
-   "heat": 238.9
+   "heat": 53.4
   },
   {
    "cat": "sector",
-   "time": "2026-10-31 16:02",
-   "title": "LavishCars.com Takes Its Luxury Car Marketplace From Dubai to the World",
-   "summary": "",
+   "time": "2026-10-29 14:04",
+   "title": "Chinese Chipmaker CXMT’s Index Inclusion to Trigger Billions in Passive Buying",
+   "summary": "Chinese Chipmaker CXMT’s Index Inclusion to Trigger Billions in Passive Buying &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/press-releases/lavishcarscom-takes-its-luxury-car-marketplace-from-dubai-to-the-world-4989295",
-     "t": "agg"
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcS1iTGdRbW5kWjM2M2d6OFJuc2pFcG5kVUd2cEtCdVg5V0tFb2lGTEdzVmJRYzlta1RlczNKdDlwdEFvcmZXM3RDVURZaFFCSDJZUWRtM2hUT0tBcmdwS19WcnlVTGVzVG11QVVQSEpPRWNiT2I5eVdCQlU1anJ6Y0hPZ0FfOHR4ZzlNTVUzTWZNWE80djFQVlZEbVlGTXpfN1hvZ1R3VXY5b3NkU1lnVDhCQ1J6RDRZWEFUbU9uRjkyWUpldzRkYkh3aGw?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 240.6
+   "heat": 256.0
   }
  ]
 }
