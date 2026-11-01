@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-01 11:35",
+ "updated": "2026-11-01 20:26",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-11-01 20:00",
+   "title": "Why AI is boosting Meta's ad business while hurting Google search",
+   "summary": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-01 17:29",
+   "title": "Germany Misses Gas Storage Target as Cold Snap Sets In",
+   "summary": "Germany is set to miss its official target for filling natural gas storage sites, leaving it with a reduced buffer against surging winter demand.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-01/germany-misses-gas-storage-target-as-cold-snap-sets-in",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-01 17:23",
+   "title": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
+   "summary": "Pakistan negotiated with Iran to secure safe passage for liquefied natural gas carrier Al Mayeda before the ship was attacked near the Strait of Hormuz on Friday, according to peop…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-01 17:19",
+   "title": "OPEC+ Set to Stick With Plan for Steady Quotas, Delegates Say",
+   "summary": "Major OPEC+ nations are set to stick with plans to keep oil production quotas unchanged in December, two delegates said, as conflict in the Middle East continues to curb swaths of …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-01/opec-set-to-stick-with-plan-for-steady-quotas-delegates-say",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-01 13:14",
+   "title": "Macau Gaming Revenue Decline Extends Despite Golden Week Boost",
+   "summary": "Macau’s gaming revenue declined for a fifth straight month in October, as weak spending by high-end players offset a surge in Golden Week visitors.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost",
+     "t": "sec"
+    }
+   ],
+   "heat": 230.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-01 11:48",
+   "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
+   "summary": "DeepSeek has released a prototype of a more autonomous coding agent as it seeks to challenge Anthropic PBC’s popular Claude Code.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+     "t": "sec"
+    }
+   ],
+   "heat": 230.6
+  },
   {
    "cat": "sector",
    "time": "2026-11-01 07:56",
@@ -13,35 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 231.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-01 07:35",
-   "title": "History Says Energy Beat Every Sector in the Last Bear Market. Here's the Catch if Another One Is Coming. - The Globe an",
-   "summary": "History Says Energy Beat Every Sector in the Last Bear Market. Here's the Catch if Another One Is Coming. &nbsp;&nbsp; The Globe and Mail",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPc3dtSGRaN2I3d2xQd2xJYURScy05RFhMMXZZUUxJNF9lN0I4Q1Y5a3J0em9haEdHZm9HVVhWSkFPZHFoU05tei1DMFF6YS1yT3EyMnJkVDhZLWNmUmcyYmEwLVFTcGx0c3RudE1Xd0t6SFhSbjdBV2tfbllvd3RId0tCLXZuMlc5aEZDaWo3cVUwemw5VFFBMnVqTzhHNXRZV1R0QkpCTWhhZ0RmdDg5TTNTMmFOdUw5QlJZbXVsQllmWGFjTm85dW9WM09jTDVDckx0LXpzU2J2eGhRRmREZXJlcHZZampsbXBkRUhPaHA3NTc1N1FSbFN5VTAyTlhRT1hIc29aUVpYQ0c3OFNacWhhcDFZMVI1?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-01 05:59",
-   "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
-   "summary": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.1
+   "heat": 229.9
   },
   {
    "cat": "sector",
@@ -55,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 230.8
+   "heat": 229.3
   },
   {
    "cat": "sector",
@@ -69,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 230.7
+   "heat": 229.2
   },
   {
    "cat": "sector",
@@ -83,63 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 230.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-01 00:08",
-   "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
-   "summary": "Sam Altman's OpenAI is seeking about $20 billion with a desired valuation of $1.25 trillion, down from $1.4 billion, FT reported, citing people familiar.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/10/31/openai-funding-target-cut-10-billion.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 230.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-30 22:58",
-   "title": "三项目齐发、总投资85亿元！科翔股份押注AI算力PCB|速读公告",
-   "summary": "三项目齐发、总投资85亿元！科翔股份押注AI算力PCB|速读公告 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yN0c2WXZkQ1Baam40dmNDR2piTkZhUTJvUmVKQ1o5d0xVMmotSHpKQ3g3Rl9oWVFGXzdGRHdRMEVZSWM3UnEwMw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 229.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 22:27",
-   "title": "AP: Iran Strikes US Air Defenses, Bases in Mideast, US Midterms",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-10-31/ap-iran-strikes-us-air-defenses-bases-in-mideast-us-midterms",
-     "t": "sec"
-    }
-   ],
-   "heat": 229.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-10-31 21:48",
-   "title": "Stadiums Rethink the Women’s Restroom",
-   "summary": "On Bloomberg This Weekend, Writer and Journalist Benton Graham explains how stadiums and arenas are redesigning restrooms as women’s sports grow and venues recognize that equal res…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-31/stadiums-rethink-the-women-s-restroom-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 229.7
+   "heat": 229.1
   }
  ]
 }
