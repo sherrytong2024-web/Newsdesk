@@ -1,121 +1,79 @@
 {
- "updated": "2026-11-03 05:12",
+ "updated": "2026-11-03 12:46",
  "items": [
   {
    "cat": "macro",
-   "time": "2026-11-03 03:21",
-   "title": "Fed will vote on rates less often. What that could mean for borrowers",
-   "summary": "Fed Chairman Kevin Warsh said he plans to reduce the number of rate-setting votes, a move some economists say could delay relief for borrowers.",
+   "time": "2026-11-03 11:46",
+   "title": "Australia hikes rates to 18-year high to fight inflation",
+   "summary": "The Reserve Bank of Australia's decision was in line with expectations from economists polled by Reuters, and marked its fifth rate increase this year.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
+     "u": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
      "t": "sec"
     }
    ],
-   "heat": 75.7
+   "heat": 47.8
   },
   {
    "cat": "macro",
-   "time": "2026-10-29 20:41",
-   "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Drop After Fed Keeps Rates Unchanged — MSFT, G - Benzinga",
-   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Drop After Fed Keeps Rates Unchanged — MSFT, G &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY0xYOTAzdVlaMV9uTHNQWDJwMVEzTnYtcTNNNzRud2pOT3AwclRqOVpjOGs2XzJuS2lxWmtnSUFyVmtMSUxqN1NNTFJ4aGVsaVpDNFhLNG9KQWV3MHFLTElpRFFveG1VUUp6WE1VZ3o5X05pb2Q0QTNkYnUzN3lGQTNhR3ltb1p5enVES0M0N3BpRnM1OVBWNGdrck0yX0F3dXZGQ0hUM2llRWZZcmZUUWFRc3EtbDZ4QjU1WnFmTTlfdWNvTVE4V2ZXRVFRRnYzdDVqRXI3ODlic0tUWFEwQ0lhbmNQMl9ONFdhVmlxTElxU3dHQ1pZSDlSaTY?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 68.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-29 07:53",
-   "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings",
-   "summary": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings &nbsp;&nbsp; Reuters",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 68.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-29 04:24",
-   "title": "The bond market swings, but U.S. stocks remain steady after the Fed says it won’t raise interest rates - BNN Bloomberg",
-   "summary": "The bond market swings, but U.S. stocks remain steady after the Fed says it won’t raise interest rates &nbsp;&nbsp; BNN Bloomberg",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONXFNaHB2S1NmczhFeERWUFdQbmpiWWdhdWFXZXFQMkR3a05INFk1akMtdzl5TnRlUktfakI0b3VRNWhZU2xfWE5ZUnpmLVpZZVlWTFlreHNCUkRrQVl6ZlEyUjFRSlN4UzFXVGdaa2JNRFBieXNYV1ExeGlTbHF0RjF3ZU9ObHlFeUJGaG0xTlpkQzEzSnRoUFZ4YUppZkZWaDRBQ0o1Ui1kUXZncU9ER25EeVlFR2s?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 68.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-28 22:37",
-   "title": "U.S. stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - BNN Bloomberg",
-   "summary": "U.S. stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates &nbsp;&nbsp; BNN Bloomberg",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeWZsOVpyMnVUdGRkalFRaVo0Rkc3UldNUEhxMC1tZnVzdjZIQlV5RjV3N19neE1qMTVDeTlqVjB5MndlVGNUTVgwX3AxdU5DUkFpNHdyNFZ1MjN0QUk0NG90Y05CbWl4T09UWEMzZmdJUGp4RTlTcGYtZ2dZR1JJeDEtYnhMdk5OUkhuRVZUWGk2cVdVSHNoZ0RkZ2NhYUJkUl9hTlNBMUZNWXVzeVRMQ2R4NW1BbnhIb0NSa3hHNnE4dw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 68.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-28 20:41",
-   "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain Ahead of Federal Reserve Interest Rate Decision— SKH - Benzinga",
-   "summary": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain Ahead of Federal Reserve Interest Rate Decision— SKH &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcUprZTZnT01SSVptZXZxUGlnOGtQOG04Qk92cXZvME1aMWNXd0gxb1BfazhBRFBkdTZPUVJPRlNPcXNzTmpkUVpuWlpBWXNkeG9OdF9WeFJLd3RoQ2daU2RQZmVPYU52N05pdHRveDBtMy1BVHlNN2NZd1hfNVhRYmZaY1Y1amxXMnBoVjVoaU9xaVNrTmh5LVRuejNsMl85ZFBuYjBlbTJDNVdXVnl6R1NOX192Tmw0dDlsTC1aMDlIX21FQjhCcTVZOUJnTzF6dlZqeGFhWjF1YnNDNW1LVGxTcFl0NGJhRGJYeE4wRy1admd3MDBpR2VMS0JnQllyOVVMVlAwUElUYnp4VVNIX3NDMUo?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 68.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-03 01:44",
-   "title": "Treasury Yields Extend Past Month’s Slide as Oil Prices Drop",
-   "summary": "Treasuries rose, building on their biggest monthly advance in more than two years, as tumbling oil prices eased concern about inflation pressure leading to additional Federal Reser…",
+   "time": "2026-11-03 11:22",
+   "title": "Huafa’s $62 Billion Debt Strain Shakes China’s Credit Market",
+   "summary": "China’s credit market just suffered its worst selloff in two years as a major conglomerate’s plunge into distress tests the assumption that government ties can protect state-owned …",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-03/huafa-s-62-billion-debt-strain-shakes-china-s-credit-market",
      "t": "sec"
     }
    ],
-   "heat": 59.4
+   "heat": 43.8
   },
   {
    "cat": "macro",
-   "time": "2026-11-03 02:59",
-   "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
-   "summary": "Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy.",
+   "time": "2026-11-03 09:32",
+   "title": "L&G AM CEO on APAC, Growth Outlook",
+   "summary": "Eric Adler, CEO of L&G Asset Management, discusses his outlook and strategy for business growth in APAC. He speaks exclusively with David Ingles and Yvonne Man on the sidelines of …",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-03/l-g-am-ceo-on-apac-growth-outlook-video",
      "t": "sec"
     }
    ],
-   "heat": 55.6
+   "heat": 43.5
   },
   {
    "cat": "macro",
-   "time": "2026-11-03 04:20",
+   "time": "2026-11-03 09:30",
+   "title": "Franklin Templeton CEO on Investment, Growth Outlook",
+   "summary": "Jenny Johnson, CEO of Franklin Templeton, discusses her outlook for APAC and global markets, investment strategies, and the strategies for business growth. She speaks exclusively w…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-03/franklin-templeton-ceo-on-investment-growth-outlook-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-03 07:47",
+   "title": "Bloomberg Businessweek Daily: Apple Growth Decelerates (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-02/bloomberg-businessweek-daily-apple-growth-decelerates-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-03 05:59",
    "title": "Intel foundry push faces critical test after stock's 45% plunge in October",
    "summary": "Intel’s turnaround now hinges on proving its foundry strategy can deliver, as customers look for signs the company will add fab capacity and catch TSMC",
    "srcs": [
@@ -125,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 51.9
+   "heat": 42.9
   },
   {
    "cat": "macro",
@@ -139,21 +97,105 @@
      "t": "sec"
     }
    ],
-   "heat": 51.7
+   "heat": 42.5
   },
   {
    "cat": "macro",
-   "time": "2026-11-03 01:00",
-   "title": "Citi FX Traders Back Carry but Warn Against ‘Set and Forget’",
-   "summary": "Citigroup Inc.’s US currency desk expects the carry trade to keep offering opportunities for investors even though the strategy may struggle to replicate a period of standout retur…",
+   "time": "2026-11-03 04:18",
+   "title": "Australia’s central bank lifts rates to 18-year high, split vote points to pause ahead",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-02/citi-fx-traders-like-carry-but-say-it-s-no-set-and-forget-bet",
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/australias-central-bank-lifts-rates-to-18year-high-split-vote-points-to-pause-ahead-4993466",
+     "t": "agg"
+    }
+   ],
+   "heat": 40.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-02 15:50",
+   "title": "USD/JPY Under Pressure as Yen Rises and December Rate Hike Expectations Grow",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/usdjpy-under-pressure-as-yen-rises-and-december-rate-hike-expectations-grow-200690666",
+     "t": "agg"
+    }
+   ],
+   "heat": 38.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-03 12:27",
+   "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+   "summary": "U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
      "t": "sec"
     }
    ],
-   "heat": 51.3
+   "heat": 15.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-03 05:37",
+   "title": "U.S. judge dismisses Trump administration's Harvard admissions probe case",
+   "summary": "A federal judge on Monday dismissed a lawsuit by the Trump admin seeking to force Harvard to turn over records on whether it considers race in admissions.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/02/us-judge-dismisses-trump-administrations-harvard-admissions-probe-case.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 14.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-03 00:40",
+   "title": "Inflation Takes Center Stage on S&P 500 Earnings Calls - Briefs Finance",
+   "summary": "Inflation Takes Center Stage on S&P 500 Earnings Calls &nbsp;&nbsp; Briefs Finance",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcElqRDFsbXVPR21QNVctUkp1TjFHZnI4d19kZXZyS3dyV3lKc3o0UFpySmZ3UUxmZkhDOW9GbkUxVVhnb2EzelNkZVREMkFyVnBkRnFKQzBSSmpVVnpzZjJUbmsxb1BQbWlyZXZ3dmdRT3JFeW01ZWxMbkVaOUtid0d2MkVRcWtUV3c?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 14.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-03 04:24",
+   "title": "Oil edges up after report of US strike on Iran’s Qeshm Island",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/oil-rises-after-report-of-us-strike-on-irans-qeshm-island-4993342",
+     "t": "agg"
+    }
+   ],
+   "heat": 12.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-03 04:19",
+   "title": "Asian currencies mixed as yuan slides after PBOC move, won rebounds",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yuan-slides-after-pboc-move-won-rebounds-4993468",
+     "t": "agg"
+    }
+   ],
+   "heat": 8.6
   },
   {
    "cat": "macro",
@@ -167,91 +209,175 @@
      "t": "sec"
     }
    ],
-   "heat": 48.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-27 21:37",
-   "title": "US stocks today: S&P 500, Nasdaq advance as oil eases ahead of Fed decision - The Economic Times",
-   "summary": "US stocks today: S&P 500, Nasdaq advance as oil eases ahead of Fed decision &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRk9YS0ktc2N0RkZmaGhOVXAxVDY4SndqOTE2ZzVRWjFEWFd6SUdfMkVDUUlXeENUamNxVm9ZbXBGSzNlOU5zNzhKNEJLcVg4ekVuU0o0bGFZZEhwc0QzMGlJYzRTY09kdHp4Z2YweHEtSGl2QnRubkw2WUFmZV9COXdHNGV3eHNnaHhxNXBEZVVOdzVFVkJWcENhdUpocTROVlhLamdLQXdfZlN2bXg2UFNKamk2RUNFemx0WHdDRV91SGFqZDQ3bTJLc0JwTmRKbzZBdmpyaDRzYkNnYXBOZ3E5VFdoYWlid3JwcnBjd0JwQ19oWURhNXZjNEJkNnNf0gGGAkFVX3lxTE9nV25ET0JqV0tSWlVPYmFJSU9Kb1R6T0xuQ3RxMVlxRl9DSzhZaGRZVDdkQ1Bqc1hLSGNZY2VsX2lfczZGUlVZTkkxLUhMUkRsT1Rib3U1T093NmNabEY1dUNGUXhjaUZpSUhLWFVoay1iaUhWUlhSXzNNbEY2ZlFvZU1IY054bG9fQ3k4MnpiV0FmRDFTOTFaSXktSWUzdklEQjB1M0ZDOE1pTGdQMDhRRlRFbk9hMUVuMDNTbURYbF9fTFdnTzZUSEVXdF90VkFyb2djSGkwMUVkeFg0OEtmUmdLWk1uNGFvY3JsMjM5WUVPN1BlMjRTWWZUb21Sb2pob3g5Wmc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 48.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-27 20:45",
-   "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 10 Futures Gain as Fed Begins Its Two-Day Meet— Novartis - Benzinga",
-   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 10 Futures Gain as Fed Begins Its Two-Day Meet— Novartis &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaTBMM0ZzS2pIVDhqUjhHekJrU0hZQjh5SXZGbEwzMzhnYUZvOGJ2TDRnSHlWYzVqblBrUXdKVzNPOHQtd3F2YUJsQTE3eFR5RlFlc05Va3M4TnpkWTJGZ2kyZjNmeTBpY3B5ZWdyTlBKNm9pR1hhMG9uN0g2UmFsTXBqaFRJRFhGRWtSZGFVTzZBWGcweTBZZTQxQVktM0ZvYVBfTEhuRnl0T2JsQlVoV1JweUhUbV9YMUJsTktMMGl0TFZRbjZuak1oTF8yU1VrVVVRMDExTEtiTkNBZ21fSUpScVJJNGhsekk1cEhTNGFBOW82QWhGZXZB?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 48.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-10-27 08:12",
-   "title": "S&P 500, Nasdaq end higher as traders gear up for tech earnings, Fed this week",
-   "summary": "S&P 500, Nasdaq end higher as traders gear up for tech earnings, Fed this week &nbsp;&nbsp; Investing.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa2IzcThsNWdsOVkycWRIS2dQaGE2b25MdWtKS1NqdUZhU1BGaGJ3MzJNLWJ1eTI4aHdtelNueTVWRFVHRURyMFZOWnlObHB5ZzNkekJSeUphRGVtMV9fS2hvTmozNjFwcHpKUjVJWTVEbEw2MGZ4ekFBRF9qME9OUE5JdlU2SloyVHZEeHVzOVBYS1J5ZnU3QXRzeW1fQWp4bmVvUmZMNWwwTTYzTllfZndmekZ4UGV0WWtyMHljbjlSdjhmYmg0c2daS1E2UkU?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 48.0
+   "heat": 8.0
   },
   {
    "cat": "sector",
-   "time": "2026-11-03 05:04",
-   "title": "Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
-   "summary": "US air safety investigators said there are early indications the Learjet 60 that crashed in Palm Beach, Florida, on Sunday had broken up before impacting the ground, killing all ni…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-02/learjet-may-have-broken-up-before-fatal-florida-crash-ntsb-says",
-     "t": "sec"
-    }
-   ],
-   "heat": 252.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-03 05:03",
-   "title": "Nasdaq 100 Enters Correction as Megacap Results Amplify AI Fears",
-   "summary": "The Nasdaq 100 Index tumbled into a correction on Monday as investors turn increasingly pessimistic about Big Tech and the artificial intelligence trade.",
+   "time": "2026-11-03 10:16",
+   "title": "Apple Forecast Tops Estimates, Disappoints Investors",
+   "summary": "Apple has delivered a forecast for the holiday period that topped Wall Street estimates, even as it failed to impress investors who have bid up the shares in recent months. For mor…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-02/nasdaq-100-enters-correction-as-megacap-results-amplify-ai-fears",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-03/apple-forecast-tops-estimates-disappoints-investors-video",
      "t": "sec"
     }
    ],
-   "heat": 252.0
+   "heat": 283.6
   },
   {
    "cat": "sector",
-   "time": "2026-11-03 05:00",
-   "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
-   "summary": "The AI infrastructure deal is expected to close during the first half of 2028.",
+   "time": "2026-11-02 16:37",
+   "title": "港股收盘 | 科技指数领跑主要指数 锂电池与AI概念共振走强",
+   "summary": "港股收盘 | 科技指数领跑主要指数 锂电池与AI概念共振走强 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ISHN3X3dDak9TNmZJS1c2c195SWJWRkNoY09nNzJmMExSY2ZiRHUzNGpTZTVIc1BTWExqRnJUTllHV0R5MmxwMw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 252.0
+   "heat": 256.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-03 12:18",
+   "title": "Morgan Stanley CEO Sees Up to $15T AI Investment Wave",
+   "summary": "Morgan Stanley Chairman and CEO Ted Pick suggests AI investment could reach $10 trillion to $15 trillion over the next decade, leveraging the potential of major productivity gains.…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-03/morgan-stanley-ceo-sees-up-to-15t-ai-investment-wave-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-03 12:01",
+   "title": "Goldman’s Solomon Sees ‘Very Robust’ Demand for AI Deals",
+   "summary": "Goldman Sachs Chief Executive Officer David Solomon says a technology supercycle will dominate capital markets and financing activity as deal demand remains robust. (Source: Bloomb…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-03 11:38",
+   "title": "Blackstone, Pimco Chiefs Debate the Perils of AI Boom",
+   "summary": "Blackstone President Jon Gray and Pimco CEO Emmanuel Roman debate whether global credit markets can absorb the tech industry’s multitrillion-dollar AI spending spree, at the HKMA G…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-03/blackstone-pimco-chiefs-debate-the-perils-of-ai-boom-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-03 11:13",
+   "title": "Wall Street Chiefs See Robust Demand for Massive AI Deals",
+   "summary": "Wall Street’s top chiefs said that capital markets will continue to underwrite the global artificial intelligence infrastructure buildout, with Morgan Stanley projecting cumulative…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-03 11:10",
+   "title": "Goldman's Solomon on Tech Supercycle 'Bumps'",
+   "summary": "Goldman’s David Solomon said there will be “bumps” during this technology supercycle, while praising the US economy as resilient. (Source: Bloomberg)",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-03/solomon-on-tech-supercycle-bumps-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-03 10:58",
+   "title": "State Street CEO Says It’s ‘Hard to See’ AI as a Bubble Yet",
+   "summary": "State Street Corp. Chairman and Chief Executive Officer Ron O’Hanley said it’s “hard to see” AI as being a bubble yet, with demand supporting the massive investments being poured i…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-03/state-street-ceo-says-it-s-hard-to-see-ai-as-a-bubble-yet",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-03 10:47",
+   "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+   "summary": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-03 10:19",
+   "title": "DBS CEO on How Southeast Asia's Biggest Bank Deploys AI",
+   "summary": "DBS Group CEO Tan Su Shan talks about the bank’s aggressive adoption of AI, how the Binance hack shows the need for tightening cyber hygiene, as well as the growth in wealth flows …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-03/dbs-ceo-on-how-southeast-asia-s-biggest-bank-deploys-ai-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-03 07:30",
+   "title": "COMMENTARY: Brutal AI selloff stirs recession fears: McGeever",
+   "summary": "COMMENTARY: Brutal AI selloff stirs recession fears: McGeever &nbsp;&nbsp; Reuters",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWE8zaUFuYVVHZHM4aDVEdEN1TzVfbjVQa0xXWG1UNXpHcTlja19HTUtZbDUyTno2bXVwWDBvUm43eUVNbmZVblhrX1dTS2FGSTNLaU1zcDhSWWczS2dGUks5NFFYYTljcW43REtWYWZSRnBzV2ZFeTFNdmlzMno2WXFiTWY0RDBwTmtBdFRZWWMta1NUSktYdnVfTUF1c2NqTkhfaUJfNTVwaXI1QUhPV01SZnZxbzZW?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-03 05:15",
+   "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
+   "summary": "Trump seemed to acknowledge that Democrats had an advantage heading into Election Day. \"But we gave this a very strong shot,\" he said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 254.7
   },
   {
    "cat": "sector",
@@ -265,152 +391,26 @@
      "t": "sec"
     }
    ],
-   "heat": 252.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-03 04:33",
-   "title": "Bloomberg Tech: Oracle's $20 Billion Capital Raise (Podcast)",
-   "summary": "Source: Bloomberg, 42:13",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-02/bloomberg-tech-oracle-s-20-billion-capital-raise-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-03 04:29",
-   "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
-   "summary": "Trump seemed to acknowledge that Democrats had an advantage heading into Election Day. \"But we gave this a very strong shot,\" he said.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-03 04:24",
-   "title": "The Charts Are Sending A Powerful AI Message: Macro Man Podcast",
-   "summary": "Source: Bloomberg, 3:58",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-02/the-charts-are-sending-a-powerful-ai-message-macro-man-podcast-mvzpixlo",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-03 03:38",
-   "title": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
-   "summary": "The Department of Justice's request to the Supreme Court in the California case comes as it appeals dismissal of a lawsuit over Alaska's Senate election.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-03 03:37",
-   "title": "Mendler's Northwood Reaches $2 Billion Valuation",
-   "summary": "Aerospace startup Northwood raises $375 million at a $2 billion valuation to expand its production and deployment of the ground infrastructure needed by the space industry. CEO Bri…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-02/mendler-s-northwood-reaches-2-billion-valuation-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-03 03:19",
-   "title": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
-   "summary": "Judge Zia Faruqui suggested the prosecution of ex-officials Nikki Floris and Bradley Benavides was rushed to come out ahead of the midterm election.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-03 03:08",
-   "title": "Why GTA VI Makes the Case for AI in Gaming",
-   "summary": "As development costs soar, studios face growing financial risks and fewer opportunities to experiment. Bloomberg Opinion columnist Gearoid Reidy says AI could make game development…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-02/opinion-gta-vi-shows-why-gaming-needs-ai-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-03 02:54",
-   "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-   "summary": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-03 02:07",
-   "title": "Investors are giving up on CoreWeave. I see a potential triple",
-   "summary": "Despite CoreWeave's steep sell-off and mounting debt concerns, contrarian technology investor Paul Meeks sees significant upside as AI infrastructure demand surges.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/02/wall-street-sees-a-debt-disaster-in-coreweave-i-see-a-stock-that-could-triple.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 251.5
+   "heat": 254.7
   },
   {
    "cat": "stock",
-   "time": "2026-11-03 05:10",
-   "title": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
-   "summary": "Oracle filed plans on Monday to issue new shares and more debt to finance its artificial intelligence buildout.",
+   "time": "2026-11-03 12:16",
+   "title": "S&P 500 futures are flat as investors weigh Apple earnings; U.S. midterm elections loom: Live updates",
+   "summary": "The S&P 500 and Nasdaq Composite started November with losses as investors sold tech stocks.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+     "u": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
      "t": "sec"
     }
    ],
-   "heat": 132.0
+   "heat": 119.9
   },
   {
    "cat": "stock",
-   "time": "2026-11-03 05:08",
-   "title": "Apple earnings live updates: New CEO John Ternus faces first Wall Street test",
+   "time": "2026-11-03 09:50",
+   "title": "Apple's stock drops on weak margin forecast in Ternus’ first earnings report",
    "summary": "Follow Apple Q4 2026 earnings live for revenue, EPS, iPhone sales, China performance, AI updates, holiday guidance and AAPL stock reaction.",
    "srcs": [
     {
@@ -419,21 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 132.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-03 03:46",
-   "title": "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
-   "summary": "Eligible Trump Account holders will begin receiving donated shares of SpaceX stock in December, President and COO Gwynne Shotwell said in a post on X.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 131.8
+   "heat": 119.5
   },
   {
    "cat": "stock",
@@ -447,49 +433,147 @@
      "t": "sec"
     }
    ],
-   "heat": 124.0
+   "heat": 112.0
   },
   {
    "cat": "stock",
-   "time": "2026-10-27 07:28",
-   "title": "Equities end higher as Anthropic's IPO filing buoys AI stocks",
-   "summary": "Equities end higher as Anthropic's IPO filing buoys AI stocks &nbsp;&nbsp; Reuters",
+   "time": "2026-11-03 12:32",
+   "title": "China Talks Up Market Openness While Steering Stocks and Yuan",
+   "summary": "China’s top economic officials are talking up openness in Hong Kong. Back on the mainland, authorities are showing investors just how active they remain in steering financial marke…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-03/china-talks-up-market-openness-while-steering-stocks-and-yuan",
+     "t": "sec"
+    }
+   ],
+   "heat": 92.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-03 12:05",
+   "title": "India to Consider Equity Gains Tax Concerns, Sitharaman Says",
+   "summary": "India’s Finance Minister Nirmala Sitharaman said she’ll consider tax changes on stocks as a prolonged equity-market slump intensifies pressure on policymakers to revive investor co…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-03/india-to-consider-equity-gains-tax-concerns-sitharaman-says",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-03 10:55",
+   "title": "Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff",
+   "summary": "Copper and tin fell with other industrial metals, as a renewed selloff in technology stocks in Asia weakened the demand outlook for materials used in data centers and to solder cir…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-03/copper-tin-fall-with-base-metals-on-renewed-ai-stocks-selloff",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-03 09:00",
+   "title": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy",
+   "summary": "Pakistan’s soaring stock market, record foreign reserves and improving credit ratings are signaling an economy on the mend. Beneath the surface, the recovery remains far less convi…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-03/pakistan-s-rebound-masks-deeper-problems-weighing-on-economy",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-03 08:45",
+   "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+   "summary": "The S&P 500 and the Nasdaq Composite opened November's trading with losses as investors sold off tech stocks on Monday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/02/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.3
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-03 08:35",
+   "title": "Korea Investment & Securities sets November S&P 500 forecast at 7,360-8,040… midterms and tech stock adjustments remain ",
+   "summary": "Korea Investment & Securities sets November S&P 500 forecast at 7,360-8,040… midterms and tech stock adjustments remain key variables &nbsp;&nbsp; 재경일보",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02QmtHNDUtZm80T2pBOXgxOXhRb0RvYzRWNG52MVN2N2I1SGVJUHVMVGJ0dGMtTk4tNE00Q1ZBN0sxMzBDUUN4OWl3TzJrSW9saWsxSGZ0bi1PTzg0Slg1V1RB?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 124.0
+   "heat": 91.3
   },
   {
    "cat": "stock",
-   "time": "2026-10-27 05:40",
-   "title": "Equities end higher as Anthropic’s IPO filing buoys AI stocks - Honolulu Star-Advertiser",
-   "summary": "Equities end higher as Anthropic’s IPO filing buoys AI stocks &nbsp;&nbsp; Honolulu Star-Advertiser",
+   "time": "2026-11-03 08:16",
+   "title": "Oracle Is Near $10 Billion Share Sale at 11% Discount",
+   "summary": "Oracle Corp. raised $9.9 billion from a share sale priced at an 11% discount after the company’s stock price was dinged in a choppy session to start the week.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-03/oracle-is-said-to-near-10-billion-share-sale-at-11-discount",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-03 07:54",
+   "title": "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
+   "summary": "While technology stocks have come under pressure in recent weeks, consumer stocks have been resilient.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/02/jim-cramer-fashion-stocks.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 91.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-03 07:00",
+   "title": "US Stock Market today: Why are S&P 500, Nasdaq down ahead of November 3 Election Day? Apple, Palantir to A - The Economi",
+   "summary": "US Stock Market today: Why are S&P 500, Nasdaq down ahead of November 3 Election Day? Apple, Palantir to A &nbsp;&nbsp; The Economic Times",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXlsNmVWa29KX1BGS3BxZVFOYXVObi16NHB5US1ma0tZOVRlclhsY1dUSXNyeDVPU3doMDVQYmZCSGxkeDhxV2Nzd2d3NU54UFpzWUR6aHpTWHBhYldlVk92TGVDakp3LXlkT3Q0Z3ZXc09aTzFXWWtzemdQWHJ4OXhDVDFpajZaLVpKMnhNcDVwN21ENlZHX1JDbXdSMDBjaTZUZzJtWnFFaDVZVnh3bk43UHhyOFFk?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNU3dVbm9pT2VuLXVWb1FtNUJCNG9raFM4aTBhcGVCVVRrbnI4NV9PVC0tdldFMTU1OEYwYkd5aEZLUGxkbWlYdkI2WGdvZUFGb0N3aWJwUm82S0d2cHZGYXpjSmZ5WmQ3bDM3Tlh2Q1JFTDJLdWN5YUlzLXVhUnl6UEtKMnZnYnRUQXFDUkhTUVBUNVdpNGtsMGcyOG5NSWxxTE91R0NZOURwMnRING9UWlJSVkFvRFVKNGN6c2VSS1lUNjhFWXNkNHVFc3p3TlFGV0Y1UThrakZoVnRyU1g0V3pGNW1YME1BZDZ2aXBjWWhhY0pmenYyTldhd0N3ZmFQR3o4NVRmWUJjSElFRjd4OXJpem9nc0pKckQ4QlRQNmM5QzdJZkNRMlNmNGcxTVdBODJMZU9RQnNkU3ppM180MUlsMzRSU3lJT0hUX3FnVzBqRkl6VzVmdNIB3gJBVV95cUxOd3kyQ2VYYWowYzdRRTJPb05JdTVxWWRDOEVUREl2QmdlVGduT2kyNlJiU3RHYVI2ZVNrUWJjRktCaVVxVHd5aEpUTFA3MU1WUEhyQ09hb0FJY0RhbERMS0FhWmJoR0hGQzNZa042LU91emRxMFFEdU00NEFvOVQ4LWhmOFcyOFVHQk9OSU1Ha3FSUUc5YlR6NjlsT3M3SldVVjZWZVdfUVpqWS1PYnFTUWJSTF9Wano2MHhqTlpNNzlCdWYwdVpxbURqTUE0dU51M2xuQmlST1VaTk1XT2k0cUpYUUd1SlMzM2dUM05TbWFGRVVfQk1FZGZLTXRTRUtwdHdLLVhPOUJDME8tem9ucFNITnRLY2xFVzZtZlkwaU80LVUwUUpfbFM2TmRrZ0J6d3hfbzRxY05KSXRvSUdJdXZkNlVpcm12OFNhNmxxWXE3MzFlcHZkN2J6ejZoQQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 124.0
+   "heat": 91.0
   },
   {
    "cat": "stock",
-   "time": "2026-11-03 04:23",
-   "title": "Stock Movers: Marvell, Marriott, Rivian (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-11-03 05:42",
+   "title": "More drops for AI and tech stocks overshadow gains for most of Wall Street - Santa Maria Times",
+   "summary": "More drops for AI and tech stocks overshadow gains for most of Wall Street &nbsp;&nbsp; Santa Maria Times",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-02/stock-movers-marvell-marriott-rivian-podcast",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdkJYUEZESkppLWE0SkpWb1FVVm5iVUVIVU5MN01aRWNQUkswXzJ2bXVjV0JxT1hwdDdXNlNoOC1iQ1Bpc3l0V2hyT1JROVNiUWFwVWIwSldUTHJ4ekNNUkpWU1FlZm83SVZZeTVLeXNYNjBoeGVXQUxhVUpMcjd6ME1Za29tYjNWUXRmblhyODRnN2dqSEhLMXBPalNVclNuQUxpZWlJM2M0c3RqeUNkQ2R2ckhoakgwZlhzdElOMTlfX1htMThlQ25aTk5BcncwYU9kaDZkdEh0WmlqRDdrUXRmNXZjZ09TV1l0QXdkNzRwN1VtcVFz?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 123.9
+   "heat": 90.8
   },
   {
    "cat": "stock",
@@ -503,119 +587,49 @@
      "t": "sec"
     }
    ],
-   "heat": 123.9
+   "heat": 90.6
   },
   {
    "cat": "stock",
-   "time": "2026-11-03 02:48",
-   "title": "AI Risk Needs to Clear Before Any Post-Midterm S&P Rally Begins",
-   "summary": "Traders expecting the US midterm elections to be a clearing event for stocks may find themselves coming up against an artificial intelligence “wall of worry” that keeps the market …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-02/midterm-rally-may-be-tricky-as-ai-trade-becomes-show-me-story",
-     "t": "sec"
-    }
-   ],
-   "heat": 123.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-02 23:35",
-   "title": "Stock market after midterm elections: What S&P 500 history shows",
-   "summary": "Stock market after midterm elections: What S&P 500 history shows &nbsp;&nbsp; CNBC",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZDV6NFVqYi14Um96RGV0c1dLZVhhMC1KQVVVUVNscnotVDFUWWJyVnVNWHhZUU1VZVhaZUJFQ19ONTRRVE9lUUJoMFB3d0ZrU19jaWZZZnlZUTM0TTl1NlF5d0ZzbzlmYjdLSjdQQVU4UlBLTk81Y2Q1WFFaODdPXzEtOXp5dF8zX0psTTJoeWNNQdIBlwFBVV95cUxNUVY5akw2aDVVZGhIOEhhZ1MwNTVZX0ZqSTdaeDdFVEV2OFQ1c0VUWGFkaHNtbWFTMElkMktPX3BuLTJPUXJuZVlqNEFtcFpsY2Q1clZ6Sk5sSFVXSmxqSGc5ekRxR2w5aDVIMU1hdW83X2YzWXB4dVkzOXNObkxqR0trSnQxU1A5dGRId2NRd0pnM0hmYXRV?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 123.1
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-02 23:30",
-   "title": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
-   "summary": "VIX deemed \"unreactive\" by options traders",
+   "time": "2026-11-03 03:46",
+   "title": "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
+   "summary": "Eligible Trump Account holders will begin receiving donated shares of SpaceX stock in December, President and COO Gwynne Shotwell said in a post on X.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
+     "u": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
      "t": "sec"
     }
    ],
-   "heat": 123.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-02 21:08",
-   "title": "US Tech Stocks Hover Near Correction on Middle East Tensions",
-   "summary": "Technology stocks are leading US equities lower as renewed tensions in the Middle East and worries around the artificial intelligence trade pushed traders toward the exits.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
-     "t": "sec"
-    }
-   ],
-   "heat": 122.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-02 20:12",
-   "title": "Why are US stock futures rising today? Dow Jones, S&P… - inkl",
-   "summary": "Why are US stock futures rising today? Dow Jones, S&P… &nbsp;&nbsp; inkl",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTGJtcEFpcE9DOG9XX2VSSHg0V1RpQ0dYS1JkZ3J6NXBMdXk3bVB4by11YmpZNUJYQnB3VXRJdllFdnZDQ0w2SWxtUDJPZUFXbFpkVGNPTmZsdE0xSVdlNnZCUnJEY0hBc2hGa0hTWmFpNWI2TXZPcnJVSVBWSzIyS3NQWjdvN3RMRGltaTBwRTBOUVkwRVRWdzRJeHJBM1EyWXpyQ3JuZWdnV0twbTlyZUw1eEVMb20tcGZseXpmZWdKOTI3TXpnbUl5QkhyclVMNnk3aVl5SGU2T0hHWmdLc1JlY0VPdDdRcnRRd3BwSlV1LUlTMURncktGYm84MjZiS3YyclBPVTRGQXM?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 122.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-02 21:01",
-   "title": "Core Scientific stock hits 52-week low at $12.39",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/company-news/core-scientific-stock-hits-52week-low-at-1239-93CH-4992694",
-     "t": "agg"
-    }
-   ],
-   "heat": 120.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-02 20:59",
-   "title": "Healthcare Services Group stock hits 52-week high at $25.75",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/company-news/healthcare-services-group-stock-hits-52week-high-at-2575-93CH-4992686",
-     "t": "agg"
-    }
-   ],
-   "heat": 120.6
+   "heat": 90.5
   },
   {
    "cat": "global",
-   "time": "2026-11-02 08:03",
-   "title": "Gold Rebounds as Iran Diplomacy Hopes Send Oil Tumbling",
-   "summary": "Gold rebounded as oil plunged on renewed hopes for diplomatic efforts to end the war in Iran.",
+   "time": "2026-11-03 08:20",
+   "title": "Gold Holds Biggest Jump in Two Months on Iran Peace-Deal Hopes",
+   "summary": "Gold was steady, after jumping the most in two months on Monday as hopes of a breakthrough in US-Iran peace talks sent oil prices plunging and eased anxiety over accelerating infla…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-03/gold-holds-biggest-jump-in-two-months-on-iran-peace-deal-hopes",
      "t": "sec"
     }
    ],
-   "heat": 56.5
+   "heat": 63.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-03 06:25",
+   "title": "Asian Stocks Fall on US Tech Jitters, Yuan Weakens: Markets Wrap",
+   "summary": "Asian stocks fell after a selloff in US chipmakers deepened, overshadowing a plunge in oil prices driven by optimism over progress toward ending the war in Iran. The yuan weakened.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 42.9
   },
   {
    "cat": "global",
@@ -629,7 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 38.0
+   "heat": 36.7
   },
   {
    "cat": "global",
@@ -643,7 +657,7 @@
      "t": "agg"
     }
    ],
-   "heat": 37.6
+   "heat": 36.4
   },
   {
    "cat": "global",
@@ -657,7 +671,7 @@
      "t": "agg"
     }
    ],
-   "heat": 37.5
+   "heat": 36.3
   },
   {
    "cat": "global",
@@ -671,7 +685,35 @@
      "t": "agg"
     }
    ],
-   "heat": 37.3
+   "heat": 36.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-03 07:37",
+   "title": "S&P 500 Today: Index Slips to 7,541.40 as Tech Sell-Off Erases Early Rally Despite Oil Plunge - BBN Times",
+   "summary": "S&P 500 Today: Index Slips to 7,541.40 as Tech Sell-Off Erases Early Rally Despite Oil Plunge &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYUdUNUg5WVZCOHhIZ01ycExQRnFlLUU0QktRTElDVWJtdTR6NUhnNTdmcEx5SVo4bEZqUWxqeC0xUUZKNm1FbGI2cUNRRWg2QnVfaDhUWFhldEpLb3J1T0NnMldCNDRwbG5MSWF6QlVhUzVqc1dlYmJpMFRBOFdpazFMYkVRS0YxRXNJX1ozd0cyb0dsRFRJZnlpb3paaW56TjBBNk1KLV9vUlZjbUhBUVpPU05Ldm5LX2hvTF9qS3JJRFRHX18wR1Q1bEY?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-03 07:01",
+   "title": "Latest Oil Market News and Analysis for Nov. 3",
+   "summary": "Brent oil steadied after plunging almost 8% in the previous session, with the US and Iran signaling a willingness to pursue peace talks as the war in the Middle East enters its nin…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.0
   },
   {
    "cat": "global",
@@ -685,7 +727,21 @@
      "t": "agg"
     }
    ],
-   "heat": 36.1
+   "heat": 34.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-03 04:19",
+   "title": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+   "summary": "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 34.6
   },
   {
    "cat": "global",
@@ -699,7 +755,35 @@
      "t": "agg"
     }
    ],
-   "heat": 35.7
+   "heat": 34.4
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-02 20:51",
+   "title": "Dow Jones, S&P 500, Nasdaq futures hint gap-up open amid an over 4% pullback in crude oil prices; stocks to watch - Upst",
+   "summary": "Dow Jones, S&P 500, Nasdaq futures hint gap-up open amid an over 4% pullback in crude oil prices; stocks to watch &nbsp;&nbsp; Upstox",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUGdaazdFUW1ZWk9FbG13a2Z0ODZKWllNN1FLellJWDR4MXUtSkJ0TzNQaTFJakRUVlZvTEswVzdWMmlSZXRyTExROHotcXFTUEcwNmNqSmZnYU1CeF82MXRDUEo2R3pxZ3ZseTU2ZEVqeWp0Uld5bkZsQnR4bVB3QnJ5WDhUZ1pZckxnaW9QNXBod01WNVlJS3NFcUF1ekZEaHNtSzk3NVY3UnM1WWFEREN5V3l5bkFLZ01MWnl3Q0Z3SnM4U0hkVEJ6Z1VybGJpb3p0XzRUVU1lYnh2NEdCbmFOcmR0cDRUaFo0aHpNM0FKWEJHMzlTMjhETjk0ekZFaEFCRW53QWdEaDlicFVEelBn?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 33.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-03 04:48",
+   "title": "Oil Prices Fall as Diplomacy Cuts Into the Hormuz Risk Premium",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-prices-fall-as-diplomacy-cuts-into-the-hormuz-risk-premium-200690725",
+     "t": "agg"
+    }
+   ],
+   "heat": 32.7
   },
   {
    "cat": "global",
@@ -717,105 +801,21 @@
   },
   {
    "cat": "global",
-   "time": "2026-11-03 04:19",
-   "title": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
-   "summary": "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 31.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-02 23:08",
-   "title": "US Natural Gas Falls With Oil as Hope for Iran Talks Reemerges",
-   "summary": "US natural gas futures ended lower, reversing earlier gains, as renewed hope for talks between the US and Iran caused oil and European gas prices to plunge. Those falling prices li…",
+   "time": "2026-11-03 09:06",
+   "title": "Onshore Yuan Snaps Winning Streak as PBOC Lifts FX Reserve Ratio",
+   "summary": "The onshore yuan ended its longest winning streak in three decades after the People’s Bank of China moved to cool its rally by asking banks to hold more foreign currencies in reser…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-02/us-natural-gas-rises-on-lower-appalachian-output-cooler-weather",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-03/offshore-yuan-weakens-after-pboc-moves-to-cool-currency-rally",
      "t": "sec"
     }
    ],
-   "heat": 31.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-03 04:48",
-   "title": "Oil Prices Fall as Diplomacy Cuts Into the Hormuz Risk Premium",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-prices-fall-as-diplomacy-cuts-into-the-hormuz-risk-premium-200690725",
-     "t": "agg"
-    }
-   ],
-   "heat": 29.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-02 07:11",
-   "title": "Latest Oil Market News and Analysis for Nov. 2",
-   "summary": "Oil slumped the most in three months after Washington and Tehran signaled openness to talks to resolve the months-long conflict roiling Middle East energy supplies.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
-     "t": "sec"
-    }
-   ],
-   "heat": 28.3
-  },
-  {
-   "cat": "global",
-   "time": "2026-10-30 08:36",
-   "title": "U.S. Consumption and S&P 500 Responses to an Oil Supply Shock - https://economy.ac/",
-   "summary": "U.S. Consumption and S&P 500 Responses to an Oil Supply Shock &nbsp;&nbsp; https://economy.ac/",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JMHI2RWFvZjFHVFVvNjg5bnFxRFdlWW5iQXYtVUNHYXMzbDlIXy1ua29sTUE0TDUyeW80YThBM3c3UXZXMC1saHg0MlB0al9rOUx3bEJPdFpnMkE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 24.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-03 04:57",
-   "title": "I bonds now pay 5.51% — but there are trade-offs. What to know before buying",
-   "summary": "I bonds are now paying 5.51%. Here are some key things to know before investing, according to financial experts.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/02/i-bonds-rate.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 12.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-02 15:06",
-   "title": "FX Weekly: AI Meets Election Risk as US Dollar Loses Its Easy Bid",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/fx-weekly-ai-meets-election-risk-as-us-dollar-loses-its-easy-bid-200690660",
-     "t": "agg"
-    }
-   ],
-   "heat": 11.6
+   "heat": 27.4
   },
   {
    "cat": "crypto",
-   "time": "2026-11-02 21:29",
+   "time": "2026-11-03 06:36",
    "title": "Here’s what happened in crypto today",
    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
    "srcs": [
@@ -825,147 +825,63 @@
      "t": "sec"
     }
    ],
-   "heat": 70.7
+   "heat": 63.0
   },
   {
    "cat": "crypto",
-   "time": "2026-11-02 20:40",
-   "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
-   "summary": "Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft.",
+   "time": "2026-11-03 11:27",
+   "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+   "summary": "North Korea rejected U.S. allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
    "srcs": [
     {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
      "t": "sec"
     }
    ],
-   "heat": 62.6
+   "heat": 43.8
   },
   {
    "cat": "crypto",
-   "time": "2026-11-03 03:27",
-   "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-   "summary": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
+   "time": "2026-11-03 09:32",
+   "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+   "summary": "South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 47.7
+   "heat": 35.5
   },
   {
    "cat": "crypto",
-   "time": "2026-11-03 03:05",
-   "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
-   "summary": "Brazil’s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.6
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-03 02:13",
-   "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
-   "summary": "Bulls are watching short positions, exchange withdrawals and key price levels for signs of a rebound after the midterms.",
+   "time": "2026-11-03 05:38",
+   "title": "Big crypto wants the one thing it can’t buy: your vote",
+   "summary": "Our loyalty has been to the technology. This election, the trap is to let the biggest intermediaries claim it for themselves, argues Berkeley Law lecturer Hermine Wong.",
    "srcs": [
     {
      "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+     "u": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
      "t": "sec"
     }
    ],
-   "heat": 47.5
+   "heat": 34.8
   },
   {
    "cat": "crypto",
-   "time": "2026-11-02 23:53",
-   "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
-   "summary": "The Brazilian exchange paused deposits and withdrawals after wallets on at least 10 chains were emptied, days after the $6.3 billion Binance hack.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
-     "t": "sec"
-    }
-   ],
-   "heat": 47.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-02 21:48",
-   "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
-   "summary": "Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while allocating $98.5 million to its USD Cash balance.",
+   "time": "2026-11-03 05:16",
+   "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+   "summary": "A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 46.8
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-02 21:21",
-   "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
-   "summary": "Binance’s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 46.7
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-02 20:30",
-   "title": "Bitcoin's 'volatility curve' has a midterm bump",
-   "summary": "Your day-ahead look for Nov. 2, 2026",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
-     "t": "sec"
-    }
-   ],
-   "heat": 46.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-02 19:19",
-   "title": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
-   "summary": "Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seasonal signals.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 46.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-03 04:46",
-   "title": "How Binance’s $6 Billion Heist Unfolded",
-   "summary": "In late October, hackers siphoned off more than $6 billion from crypto exchange Binance. As the company scrambles to respond, all eyes are on how the crypto industry reacts to this…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-02/how-binance-s-6-billion-heist-unfolded-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 31.9
+   "heat": 34.7
   },
   {
    "cat": "crypto",
@@ -979,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.4
+   "heat": 34.1
   },
   {
    "cat": "crypto",
@@ -993,21 +909,77 @@
      "t": "sec"
     }
    ],
-   "heat": 31.0
+   "heat": 33.7
   },
   {
    "cat": "crypto",
-   "time": "2026-11-02 20:56",
-   "title": "FATF targets crypto hubs in review of money laundering controls",
-   "summary": "The watchdog has not named the jurisdictions under review. Initial findings on compliance with its crypto standards are due in June 2027.",
+   "time": "2026-11-03 05:54",
+   "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+   "summary": "The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts.",
    "srcs": [
     {
      "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "u": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 30.6
+   "heat": 30.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-03 03:27",
+   "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+   "summary": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 30.4
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-03 03:05",
+   "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+   "summary": "Brazil’s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 30.4
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-03 02:13",
+   "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+   "summary": "Bulls are watching short positions, exchange withdrawals and key price levels for signs of a rebound after the midterms.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+     "t": "sec"
+    }
+   ],
+   "heat": 30.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-02 23:53",
+   "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+   "summary": "The Brazilian exchange paused deposits and withdrawals after wallets on at least 10 chains were emptied, days after the $6.3 billion Binance hack.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+     "t": "sec"
+    }
+   ],
+   "heat": 29.9
   },
   {
    "cat": "crypto",
@@ -1021,35 +993,63 @@
      "t": "sec"
     }
    ],
-   "heat": 19.2
+   "heat": 22.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-02 22:00",
+   "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
+   "summary": "The digital securities firm plans to list on NYSE American under TZRO early next year after more than a decade building blockchain-based trading infrastructure.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal",
+     "t": "sec"
+    }
+   ],
+   "heat": 21.5
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-03 02:00",
+   "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+   "summary": "The former mobile games company is building out its fund management business in Abu Dhabi as it targets institutional demand for stablecoins and tokenized assets.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 14.2
   },
   {
    "cat": "sector",
-   "time": "2026-11-02 16:37",
-   "title": "港股收盘 | 科技指数领跑主要指数 锂电池与AI概念共振走强",
-   "summary": "港股收盘 | 科技指数领跑主要指数 锂电池与AI概念共振走强 &nbsp;&nbsp; 财联社",
+   "time": "2026-10-30 22:58",
+   "title": "三项目齐发、总投资85亿元！科翔股份押注AI算力PCB|速读公告",
+   "summary": "三项目齐发、总投资85亿元！科翔股份押注AI算力PCB|速读公告 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ISHN3X3dDak9TNmZJS1c2c195SWJWRkNoY09nNzJmMExSY2ZiRHUzNGpTZTVIc1BTWExqRnJUTllHV0R5MmxwMw?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yN0c2WXZkQ1Baam40dmNDR2piTkZhUTJvUmVKQ1o5d0xVMmotSHpKQ3g3Rl9oWVFGXzdGRHdRMEVZSWM3UnEwMw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 249.9
+   "heat": 252.0
   },
   {
    "cat": "sector",
-   "time": "2026-11-02 12:07",
-   "title": "China Issues 18-Point Plan to Protect Workers From AI Job Losses",
-   "summary": "China Issues 18-Point Plan to Protect Workers From AI Job Losses &nbsp;&nbsp; Caixin Global",
+   "time": "2026-11-02 14:43",
+   "title": "China’s Manufacturing Activity Returns to Contraction",
+   "summary": "China’s Manufacturing Activity Returns to Contraction &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTk9HWVRRR19YaERUcWRWWS1iNW00bXBSZW5nMFNLODBXdlo0VWpIQjA4RGFuOGdqdnpDeW5iNWRHV1puNmZETlg4MUpnZTJ2VWhQenZVbzRyQndMeGJ4SkwwZTc0dFV3WnF1Y2lqYzdiV21odEtpdFpvUjd5bFhyT2xjUDRWTG9KYmlma3dWV1FXeW5GLTRwdk5nMW4xNXhYTjlSMjRYYjJVejNMcEZiNUJjUjFKaDQtaDhv?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0JpbzR2SXdMRXhKbDZqV0phZ0EwTHVKZDdUVmxlMk94S3V1bFQyczRXbXh3eUsxODF0VFEzVXBVOTVPdFpnNU1GaE5jWkNvVmNLR2R0cnhCbEo3ekd4cHBRdlUzS3lRMHhINmN1dVhwalBlb3gySmcxU3VTR3JzVHFfcDRqcmFUY3dvTGppVldZQzBTcW9xeUtkV0FoY0J4MDhSbnk2NjdvMW8?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 249.2
+   "heat": 252.3
   }
  ]
 }
