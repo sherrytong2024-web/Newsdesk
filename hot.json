@@ -1,51 +1,121 @@
 {
- "updated": "2026-11-05 03:10",
+ "updated": "2026-11-05 09:12",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-11-05 02:58",
-   "title": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
-   "summary": "Voters in the states at the heart of the AI data center boom pushed back on the buildout on Election Night.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 220.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-05 02:37",
-   "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
-   "summary": "Trump is a frequent critic of media companies, especially broadcasters that he views as being biased against him.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-05 02:00",
-   "title": "Kiwi Slide Haunts New Zealand’s Main Parties Ahead of Tight Vote",
-   "summary": "New Zealand’s weakening currency is compounding the cost-of-living pressures turning voters away from the country’s main political parties ahead of next week’s election.",
+   "time": "2026-11-05 06:30",
+   "title": "Months-Old Chip Startup Tenspresso in Talks for $500 Million Valuation",
+   "summary": "Tenspresso, a three-month-old artificial intelligence chip startup founded by former Google AI chip engineers, is in talks for financing that would value it at $500 million, accord…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-04/kiwi-slide-haunts-new-zealand-s-main-parties-ahead-of-tight-vote",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-04/months-old-chip-startup-tenspresso-in-talks-for-500-million-valuation",
      "t": "sec"
     }
    ],
-   "heat": 219.8
+   "heat": 215.5
   },
   {
    "cat": "sector",
-   "time": "2026-11-05 01:32",
+   "time": "2026-11-05 05:05",
+   "title": "Arm Fails to Impress Investors With AI-Fueled Sales Forecast",
+   "summary": "Arm Holdings Plc gave a revenue forecast for the current period that left investors underwhelmed, a sign the chip designer hasn’t yet met the lofty hopes for its push into the AI d…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-04/arm-forecast-meets-estimates-after-data-center-push-pays-off",
+     "t": "sec"
+    }
+   ],
+   "heat": 215.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-05 07:44",
+   "title": "Australian Chain David Jones Collapses After Almost 200 Years",
+   "summary": "Australia’s oldest department store David Jones collapsed on Thursday, finally succumbing after almost 200 years to a digital era that sent shoppers to cheaper and nimbler online r…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-04/australian-chain-david-jones-collapses-after-almost-200-years",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-05 07:23",
+   "title": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook",
+   "summary": "Rising energy demand offers investment opportunities, but geopolitical risks and oil price uncertainty cloud the outlook, executives and an analyst said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/05/energy-leaders-investment-outlook.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-05 07:17",
+   "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
+   "summary": "Billionaire political spending met criticism from ... billionaires in the wake of Tuesday's blue wave election.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-05 06:57",
+   "title": "Bloomberg Businessweek Daily: Dems Stage Midterm Sweep (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-04/bloomberg-businessweek-daily-dems-stage-midterm-sweep-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-05 06:51",
+   "title": "Isomorphic Labs in Talks for About $5 Billion in Funding",
+   "summary": "Alphabet Inc.’s Isomorphic Labs is in talks to raise roughly $5 billion in new funds to support its efforts to use artificial intelligence for drug discovery, according to people f…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-05 06:48",
+   "title": "Host Hotels & Resorts CEO on 3Q Quarterly Results",
+   "summary": "Host Hotels & Resorts raised its full-year outlook, including adjusted EBITDA and comparable hotel RevPAR growth. CEO and President Jim Risoleo discussed the acquisition of 1 Hotel…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-04/host-hotels-resorts-ceo-on-3q-quarterly-results-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-05 06:46",
    "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
    "summary": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging defaul…",
    "srcs": [
@@ -55,91 +125,21 @@
      "t": "sec"
     }
    ],
-   "heat": 219.7
+   "heat": 211.6
   },
   {
    "cat": "sector",
-   "time": "2026-11-05 00:02",
-   "title": "DeSantis Calls GOP Midterm Wipeout ‘Extinction Level Event’",
-   "summary": "Florida Governor Ron DeSantis said the blue wave that swept over just about every corner of the US on Election Day — except his state — was akin to a “meteor strike” for the Republ…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-04/desantis-calls-gop-s-midterm-wipeout-extinction-level-event",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-04 23:40",
-   "title": "CoreWeave Bonds Hit New Lows as Texas Data Centers in Crosshairs",
-   "summary": "CoreWeave Inc.’s bonds tumbled on Wednesday, in some cases to new lows, after Democratic candidates in favor of slowing down data-center construction won a number of gubernatorial …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-04/coreweave-bonds-hit-new-lows-as-texas-data-centers-in-crosshairs",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-04 23:29",
-   "title": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
-   "summary": "Elon Musk's $474 million election gamble falters as Democrats threaten his Texas empire.",
+   "time": "2026-11-05 06:13",
+   "title": "Cramer: What must happen for Home Depot to keep its 25% monthlong rally going",
+   "summary": "The question now for patient Home Depot investors like us is whether this is the turning point we've been waiting for, or just another head fake.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+     "u": "https://www.cnbc.com/investingclub/2026/11/04/cramer-what-must-happen-for-home-depot-to-keep-its-25percent-monthlong-rally-going.html",
      "t": "sec"
     }
    ],
-   "heat": 219.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-04 23:00",
-   "title": "Caitlin Clark signs as first-ever brand partner with Dick's and Foot Locker",
-   "summary": "Caitlin Clark signed a multiyear deal with Dick's Sporting Goods and Foot Locker, the first time either brand has signed an individual athlete as a partner.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/04/caitlin-clark-signs-as-first-brand-partner-with-dicks-foot-locker-.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-04 21:49",
-   "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
-   "summary": "Private-sector job growth held steady in October, with gains spread across sectors",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-04 21:43",
-   "title": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
-   "summary": "Ghalibaf said that \"Conscience or the cost of living, Americans said NO TO WAR, and we endorse this message.\"",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.1
+   "heat": 211.5
   }
  ]
 }
