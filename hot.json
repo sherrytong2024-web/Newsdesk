@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08 01:13",
+ "updated": "2026-11-08 05:15",
  "items": [
   {
    "cat": "sector",
@@ -13,7 +13,49 @@
      "t": "sec"
     }
    ],
-   "heat": 224.0
+   "heat": 216.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-08 04:28",
+   "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+   "summary": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-08 02:20",
+   "title": "AI Backlash Spreads Across Europe With Data Center Protests",
+   "summary": "Protests against data centers continued across Europe on Saturday as citizens took to the streets to voice their concerns about the impact on society and the environment.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-07/ai-backlash-spreads-across-europe-with-data-center-protests",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-08 01:14",
+   "title": "New Chief of Staff, Chain Reaction Tech Selloff",
+   "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-07/bloomberg-this-weekend-11-7-2026-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 211.3
   },
   {
    "cat": "sector",
@@ -27,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.9
+   "heat": 211.3
   },
   {
    "cat": "sector",
@@ -41,21 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-07 23:03",
-   "title": "Russia pounds power facilities around Kyiv, damages major bridge",
-   "summary": "Three days before Russia and Ukraine are due to take part in U.S.-brokered talks, explosions rocked Kyiv as Moscow unleashed waves of ballistic missiles.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.6
+   "heat": 211.0
   },
   {
    "cat": "sector",
@@ -69,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.6
+   "heat": 210.9
   },
   {
    "cat": "sector",
@@ -83,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.6
+   "heat": 210.9
   },
   {
    "cat": "sector",
@@ -97,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.5
+   "heat": 210.9
   },
   {
    "cat": "sector",
@@ -111,35 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-07 22:05",
-   "title": "Mark Cuban says he doesn’t ‘give a f---' about growing his net worth—a healthy mindset for non-billionaires too, a finan",
-   "summary": "The billionaire serial entrepreneur says he cares more about the impact he can have by spending and investing, rather than worrying about amassing more wealth.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/make-it/2026/11/07/mark-cuban-net-worth-money-mindset.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-07 21:56",
-   "title": "Turkey Arrests Former Regulatory Executive in Growing Fund Probe",
-   "summary": "Turkish authorities arrested the former deputy chairman of the country’s markets regulator, state-run Anadolu Agency reported on Saturday, the latest executive to be caught up in a…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
-     "t": "sec"
-    }
-   ],
-   "heat": 219.5
+   "heat": 210.9
   }
  ]
 }
