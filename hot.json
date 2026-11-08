@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08 05:15",
+ "updated": "2026-11-08 11:40",
  "items": [
   {
    "cat": "sector",
@@ -13,11 +13,81 @@
      "t": "sec"
     }
    ],
-   "heat": 216.0
+   "heat": 236.0
   },
   {
    "cat": "sector",
-   "time": "2026-11-08 04:28",
+   "time": "2026-11-08 09:34",
+   "title": "Voters Punish Major Parties in Cliffhanger New Zealand Election",
+   "summary": "New Zealand’s election remains too close to call, but voters have already delivered a decisive verdict on the major parties, handing smaller rivals their best-ever results and resh…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-08/voters-punish-major-parties-in-cliffhanger-new-zealand-election",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-08 08:49",
+   "title": "Australia Scraps Plan to Sell Sydney Barracks After Backlash",
+   "summary": "Australia will retain several historic military sites including barracks in Sydney, following a backlash over plans to divest underused defense properties.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-08/australia-scraps-plan-to-sell-sydney-barracks-after-backlash",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-08 06:39",
+   "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, minister says",
+   "summary": "The gunman aimed at random people as he drove into the Main Square, a major tourist destination in the center of the city, Krakow police said.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-08 06:36",
+   "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+   "summary": "Eisenkot, who ran as the main challenger to Prime Minister Benjamin Netanyahu, is now a step closer to ousting Israel's longest-serving premier.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/07/israel-eisenkot-netanyahu.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-08 06:17",
+   "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+   "summary": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-08 05:59",
    "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
    "summary": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin.",
    "srcs": [
@@ -27,7 +97,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.9
+   "heat": 231.1
   },
   {
    "cat": "sector",
@@ -41,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.5
+   "heat": 230.4
   },
   {
    "cat": "sector",
@@ -55,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.3
+   "heat": 230.3
   },
   {
    "cat": "sector",
@@ -69,77 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 211.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-07 23:32",
-   "title": "Ken Chenault on Leadership in an Age of AI",
-   "summary": "On Bloomberg This Weekend, General Catalyst Chairman and Managing Director and former American Express CEO Ken Chenault discusses leadership, diversity and responsible AI, arguing …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 211.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-07 22:50",
-   "title": "Novartis Abandons Heart Drug After Surprising Failure in Key Study",
-   "summary": "Novartis AG is largely abandoning an experimental drug analysts once considered a potential blockbuster after a study found it had little promise for preventing heart attacks and c…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-07/novartis-abandons-heart-drug-after-surprising-failure-in-key-study",
-     "t": "sec"
-    }
-   ],
-   "heat": 210.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-07 22:45",
-   "title": "America's newest small business owners with no employees are off to a hot start in AI era",
-   "summary": "New small business formation is rising for owners who can grow with AI serving in finance, marketing and design roles, eliminating the need for hiring.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 210.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-07 22:30",
-   "title": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
-   "summary": "Candidates who favor stricter oversight of artificial intelligence racked up wins in key congressional races, aided by a pro-regulation political funding group backed in part by An…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
-     "t": "sec"
-    }
-   ],
-   "heat": 210.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-07 22:27",
-   "title": "Young Travelers Are Warming Up to Cruises",
-   "summary": "On Bloomberg This Weekend, Bloomberg News travel journalist Brittany Chang explains why cruises are attracting more Gen Z and millennial travelers as higher airfare and hotel costs…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-07/young-travelers-are-warming-up-to-cruises-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 210.9
+   "heat": 230.2
   }
  ]
 }
