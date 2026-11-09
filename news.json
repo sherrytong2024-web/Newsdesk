@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-09 03:15",
+ "updated": "2026-11-09 08:23",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-11-09 07:40",
+   "title": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets",
+   "summary": "Gold held a late-week retreat after strong US jobs data reinforced expectations the Federal Reserve will seek to raise interest rates to combat inflation.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.9
+  },
   {
    "cat": "macro",
    "time": "2026-11-06 16:00",
@@ -27,21 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 25.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-07 23:23",
-   "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-   "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.4
+   "heat": 24.7
   },
   {
    "cat": "macro",
@@ -73,87 +73,17 @@
   },
   {
    "cat": "macro",
-   "time": "2026-11-08 07:28",
-   "title": "【早报】美制裁中国企业，商务部回应；央行连续24个月增持黄金",
-   "summary": "【早报】美制裁中国企业，商务部回应；央行连续24个月增持黄金 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1reDZUQXc3ZmRSUHp2OFZrSWIyRlhtYVBnSXNaY2tRZ1NJN1d2QzVkZm1GM0xGLURUT1FGckZKbUZvYjJ2bkx5NA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 12.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-08 23:36",
-   "title": "How Democrats will try to end Trump's tariffs",
-   "summary": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 11.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-08 22:30",
-   "title": "Iran suggests blasts are not U.S. attacks as both sides report ships hit",
-   "summary": "Iran officials have not confirmed any missile strikes on Iranian territory following blasts heard in several areas, including on Qeshm Island in the strait.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/08/saudi-aramco-riyadh-building-attack.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 11.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-06 04:54",
-   "title": "EUR/USD Range Tightens as Fed and ECB Hikes Cancel Out",
+   "time": "2026-11-08 23:30",
+   "title": "BOJ chief Ueda sees ’some upside risks’ to inflation",
    "summary": "",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/eurusd-range-tightens-as-fed-and-ecb-hikes-cancel-out-200690963",
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/boj-chief-ueda-sees-some-upside-risks-to-inflation-5010354",
      "t": "agg"
     }
    ],
-   "heat": 10.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-05 17:01",
-   "title": "US Dollar Bears Still Need the Fed to Blink",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/us-dollar-bears-still-need-the-fed-to-blink-200690912",
-     "t": "agg"
-    }
-   ],
-   "heat": 10.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-03 18:11",
-   "title": "近五年首次！央行出手上调外汇存款准备金率，离岸人民币兑美元日内贬超280点触及6.675",
-   "summary": "近五年首次！央行出手上调外汇存款准备金率，离岸人民币兑美元日内贬超280点触及6.675 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfelR2R200YVFxX2oyMWZPYVpveFFkS2tITU55ejZZSm1WOEhmT2xuT21GZFRyQktZdFFMTmpzQ0lxOW4tYzRtSw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 8.0
+   "heat": 16.5
   },
   {
    "cat": "macro",
@@ -167,35 +97,105 @@
      "t": "sec"
     }
    ],
-   "heat": 7.9
+   "heat": 15.0
   },
   {
    "cat": "macro",
-   "time": "2026-11-06 22:51",
-   "title": "美国10月非农录得16.5万人远超预期 美联储12月加息押注升至近八成",
-   "summary": "美国10月非农录得16.5万人远超预期 美联储12月加息押注升至近八成 &nbsp;&nbsp; 财联社",
+   "time": "2026-11-06 04:54",
+   "title": "EUR/USD Range Tightens as Fed and ECB Hikes Cancel Out",
+   "summary": "",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KbDJzSTRMVHIxbFFYMkl4TFhjVENsSWVac1ZodkZoTGtGWjBnZlY2SVVLVGV2MzZGanJuTTVUWC1oZ2daMDlPRA?oc=5",
-     "t": "sec"
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/eurusd-range-tightens-as-fed-and-ecb-hikes-cancel-out-200690963",
+     "t": "agg"
     }
    ],
-   "heat": 4.0
+   "heat": 14.0
   },
   {
    "cat": "macro",
-   "time": "2026-11-06 20:50",
-   "title": "涉嫌操纵证券市场 ST龙大实控人戴学斌刑拘之后又被证监会立案丨速读公告",
-   "summary": "涉嫌操纵证券市场 ST龙大实控人戴学斌刑拘之后又被证监会立案丨速读公告 &nbsp;&nbsp; 财联社",
+   "time": "2026-11-05 17:01",
+   "title": "US Dollar Bears Still Need the Fed to Blink",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/us-dollar-bears-still-need-the-fed-to-blink-200690912",
+     "t": "agg"
+    }
+   ],
+   "heat": 14.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-08 07:28",
+   "title": "【早报】美制裁中国企业，商务部回应；央行连续24个月增持黄金",
+   "summary": "【早报】美制裁中国企业，商务部回应；央行连续24个月增持黄金 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5eVBhQmpLRHRfUGFJdE81WS1XZExBcUlpLUY1M1NhTzJDTl9tQm44MldDVUN5TkNoYnIxZER6d2VJYXdZMk1HWA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1reDZUQXc3ZmRSUHp2OFZrSWIyRlhtYVBnSXNaY2tRZ1NJN1d2QzVkZm1GM0xGLURUT1FGckZKbUZvYjJ2bkx5NA?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 4.0
+   "heat": 11.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-09 04:00",
+   "title": "Treasury Rally Gets New Boost as Election Hammers the AI Trade",
+   "summary": "Wall Street sees the Treasury market emerging as a winner from the Democratic landslide in the US midterm elections, giving traders another reason to rethink this year’s sharp sell…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
+     "t": "sec"
+    }
+   ],
+   "heat": 11.3
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-08 23:36",
+   "title": "How Democrats will try to end Trump's tariffs",
+   "summary": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 10.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-08 22:30",
+   "title": "Iran suggests blasts are not U.S. attacks as both sides report ships hit",
+   "summary": "Iran officials have not confirmed any missile strikes on Iranian territory following blasts heard in several areas, including on Qeshm Island in the strait.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/08/saudi-aramco-riyadh-building-attack.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 10.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-06 17:28",
+   "title": "债市收盘| 再度走强，30年国债收益率触及2.03%",
+   "summary": "债市收盘| 再度走强，30年国债收益率触及2.03% &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01aDUtM0xGRWRDakRfQm9BTXlMdURJUWFVakg0SDFJdTZvb1NMTkRnRjB5NjVTLU03clNHX0ZhSDhUNVpOM05JdA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 8.0
   },
   {
    "cat": "macro",
@@ -209,7 +209,91 @@
      "t": "sec"
     }
    ],
-   "heat": 4.0
+   "heat": 8.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-09 07:22",
+   "title": "Nvidia Probes Huang Affair Amid Spying Controversy",
+   "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang says he is cooperating fully with an independent board investigation after admitting to an extramarital relationship. The inquiry …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-08/nvidia-probes-huang-affair-amid-spying-controversy-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-09 06:53",
+   "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+   "summary": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-09 06:20",
+   "title": "Asia Stocks Open Mostly Higher, Nvidia Probe Looms: Markets Wrap",
+   "summary": "Asian stocks opened mostly higher early Monday following gains in US equities, though advances were tempered by concern over an investigation into Nvidia Corp.’s chief executive of…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-09 05:31",
+   "title": "Nvidia Board to Probe Spying Claims After CEO Admits to Affair",
+   "summary": "Get caught up.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-11-08/nvidia-board-to-probe-spying-claims-after-ceo-admits-to-affair",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-09 04:23",
+   "title": "Read the Statements From Nvidia’s Board and CEO Jensen Huang",
+   "summary": "Nvidia Corp.’s board of directors said it was investigating whether a foreign intelligence agency targeted its CEO Jensen Huang, who sent out his own memo admitting having an affai…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-08/read-the-memos-from-nvidia-s-board-and-ceo-jensen-huang",
+     "t": "sec"
+    }
+   ],
+   "heat": 275.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-10-02 05:00",
+   "title": "Nvidia Faces Questions Over China AI Chip Smuggling Cases",
+   "summary": "The company’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases",
+     "t": "sec"
+    }
+   ],
+   "heat": 268.0
   },
   {
    "cat": "sector",
@@ -223,7 +307,49 @@
      "t": "sec"
     }
    ],
-   "heat": 244.0
+   "heat": 256.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-09 07:03",
+   "title": "Latest Oil Market News and Analysis for Nov. 9",
+   "summary": "Oil extended its biggest weekly drop since April 2020 as traders weighed diplomatic efforts to end the US-Iran conflict against fresh attacks in the region.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-09 06:30",
+   "title": "RBA’s Hunter Says AI Boom Will Put Near-Term Pressure on CPI",
+   "summary": "A senior official at Australia’s central bank said surging investment in areas related to artificial intelligence will further fuel demand in the economy, at a time when policymake…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-08/rba-s-hunter-says-ai-boom-will-put-near-term-pressure-on-prices",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-09 05:53",
+   "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+   "summary": "Trump tied avoiding renewed U.S. strikes to progress in talks over Iran’s nuclear program and the Strait of Hormuz.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.6
   },
   {
    "cat": "sector",
@@ -237,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.8
+   "heat": 250.9
   },
   {
    "cat": "sector",
@@ -251,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 250.7
   },
   {
    "cat": "sector",
@@ -265,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 250.6
   },
   {
    "cat": "sector",
@@ -279,7 +405,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.4
+   "heat": 250.6
   },
   {
    "cat": "sector",
@@ -293,133 +419,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-08 23:02",
-   "title": "Can Europe Afford Its Welfare State?",
-   "summary": "Europe’s postwar welfare state was built for a younger, growing population. Today, aging communities are putting pensions, health care and public finances under mounting strain. As…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-08/can-europe-afford-its-welfare-state-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-08 23:00",
-   "title": "Apple Explores Turning Siri AI Into ChatGPT Dots-Like Agent; iOS 28 Shake-Up",
-   "summary": "The company wants to turn Siri into a true AI agent.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-08 22:40",
-   "title": "Luxury Gyms Turn Fitness Into a Family Affair",
-   "summary": "On Bloomberg This Weekend, Bloomberg Pursuits writer Hannah Howard explains how high end fitness clubs are courting families with everything from child care and swimming lessons to…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-08/luxury-gyms-turn-fitness-into-a-family-affair-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-08 22:23",
-   "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
-   "summary": "The deal included the engineering and construction capabilities needed to install generators, the report said, citing a person familiar with the matter.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-08 22:16",
-   "title": "Voters Put the AI Data Center Boom on Notice",
-   "summary": "On Bloomberg This Weekend, Bloomberg News tech reporter Brody Ford explains how voter backlash against data centers could disrupt the rapid buildout of infrastructure powering the …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-08/voters-put-the-ai-data-center-boom-on-notice-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-08 22:14",
-   "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
-   "summary": "AI agents are now working together on a regular basis. Research shows they are not always seeking the same goal, or operating with ethics.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-08 22:05",
-   "title": "Ukraine Peace Push Returns to Abu Dhabi",
-   "summary": "US, Ukrainian and Russian delegations are scheduled to meet in Abu Dhabi on November 10th and 11th, with Steve Witkoff and Jared Kushner expected to represent the US. Joining Bloom…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-08/ukraine-peace-push-returns-to-abu-dhabi-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-08 21:19",
-   "title": "How Everyday Apps Feed Police Surveillance",
-   "summary": "On Bloomberg This Weekend, Bloomberg investigative journalist Ryan Gallagher explains how location data collected through everyday smartphone apps can ultimately be sold to law enf…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-08/how-everyday-apps-feed-police-surveillance-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-08 21:00",
-   "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
-   "summary": "Thanksgiving airfare will cost more than last year as fares rise and strong demand continues.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.0
+   "heat": 250.6
   },
   {
    "cat": "stock",
@@ -433,21 +433,21 @@
      "t": "sec"
     }
    ],
-   "heat": 108.0
+   "heat": 112.0
   },
   {
    "cat": "stock",
-   "time": "2026-11-08 17:46",
-   "title": "First Financial Bankshares director purchases $24,423 in stock",
-   "summary": "",
+   "time": "2026-11-09 07:44",
+   "title": "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates",
+   "summary": "Key inflation data and AI earnings could set the tone for markets this week.",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/first-financial-bankshares-director-purchases-24423-in-stock-93CH-5010278",
-     "t": "agg"
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+     "t": "sec"
     }
    ],
-   "heat": 100.4
+   "heat": 107.9
   },
   {
    "cat": "stock",
@@ -461,7 +461,35 @@
      "t": "sec"
     }
    ],
-   "heat": 99.7
+   "heat": 106.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-09 07:07",
+   "title": "Digital Realty, Goodman Buy 9.9% of NEXTDC in Stock Market Raid",
+   "summary": "Goodman Group and Digital Realty Trust Inc. jointly acquired a 9.9% stake in Australian data center company NEXTDC Ltd. after an aftermarket raid on the stock, opening the door to …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-08/digital-realty-goodman-buy-9-9-of-nextdc-in-stock-market-raid",
+     "t": "sec"
+    }
+   ],
+   "heat": 103.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-09 06:49",
+   "title": "US Stock Market prediction: S&P 500, Nasdaq, Dow Jones look to start in positive, check factors that will - The Economic",
+   "summary": "US Stock Market prediction: S&P 500, Nasdaq, Dow Jones look to start in positive, check factors that will &nbsp;&nbsp; The Economic Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQYnZtSVZVTEQzMFRwQVIwTFB3eEZ5a1BSZkdycXlSVnlJVUV0TnNCU09nZkg1Z1d2d0pONUs3MHZRbFpvQ1VjS1NpOWZXVWRHd2FEWTlDcmR6eUJ0cHMwbC1WN2wxNERNNk1VeTVTclJOejhmRUJqVnhDb2VOWkVvR0dBQVVjd0dSMTN2MVFsSW9tV29DUWpEZXVPdmRxb3p3dm5xcVJ3R3NjZF9XWVFwSEZ4bHIyaU11Z0tzTDBZUnlteDdwaF92akJxTm9nWThSUkZ4VVhEWUxheENQVmQxMUphcVpDaENCdzhiQk5CY0xUVkwwbUVfaXJYZWJlemI2NmZxWG9uVlJOYlRObHJjZVBYV0RRUG5ITmsyekZmMNIBpAJBVV95cUxQMWMxdGEzUDFoY3lXeFNyTGFVSmpXSHRRc1Z5bl94emhMYVRIT2tITVl6M2ZFcF81NkVuWUw1cnhGdElyMjI1ODY5ZEVWTGJ1UnM0RWlLQm15VURRdEotQXVob1E3ZU41d0F5YlFfNG5FVkItSHBQX1ZDdER3eE50b3FSOGFTNFl2WVBRVmx1MkY4ZTFPZ3B0bW5ETkZzMUV5TEJNQ24xVUhBUkFQbkNJOUdXUXpGdnlxM1JoaUMwc01zWFhiekhzMDlQZTMwX3ZkRC1kZGwyX253cTNZYTNjN2RPQlVSczhKVE93UTFYRExuWVN0S3NfUm5KalZpUk84WDluc1dZbmI4bWV0Uy1UODhDN1I0Yk1tLXFmbXBQdzk0NG8y?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 103.7
   },
   {
    "cat": "stock",
@@ -475,63 +503,21 @@
      "t": "sec"
     }
    ],
-   "heat": 98.8
+   "heat": 101.9
   },
   {
    "cat": "stock",
-   "time": "2026-11-08 14:45",
-   "title": "Stockland Scraps Sydney Data Center Plans After Local Backlash",
-   "summary": "Stockland Corp. has abandoned plans for a Sydney data center following community backlash, in another sign of growing opposition to artificial intelligence infrastructure.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-08/stockland-scraps-sydney-data-center-plans-after-local-backlash",
-     "t": "sec"
-    }
-   ],
-   "heat": 97.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-08 17:01",
-   "title": "Cullen/Frost Bankers chief accounting officer Henson sells $85,290 of stock",
+   "time": "2026-11-09 00:01",
+   "title": "Alphatec Holdings director Demski buys $408,600 of common stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/cullenfrost-bankers-chief-accounting-officer-henson-sells-85290-of-stock-93CH-5010272",
+     "u": "https://www.investing.com/news/insider-trading-news/alphatec-holdings-director-demski-buys-408600-of-common-stock-93CH-5010363",
      "t": "agg"
     }
    ],
-   "heat": 96.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-08 16:22",
-   "title": "Buy the dip in this Canadian stock: RJ",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/buy-the-dip-in-this-canadian-stock-rj-5010264",
-     "t": "agg"
-    }
-   ],
-   "heat": 96.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-08 15:50",
-   "title": "Top 5 stocks to watch this week",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/top-5-stocks-to-watch-this-week-5010257",
-     "t": "agg"
-    }
-   ],
-   "heat": 96.1
+   "heat": 100.6
   },
   {
    "cat": "stock",
@@ -545,7 +531,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.0
+   "heat": 99.1
   },
   {
    "cat": "stock",
@@ -559,7 +545,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.5
+   "heat": 98.6
   },
   {
    "cat": "stock",
@@ -573,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.9
+   "heat": 98.1
   },
   {
    "cat": "stock",
@@ -587,11 +573,11 @@
      "t": "sec"
     }
    ],
-   "heat": 94.6
+   "heat": 97.7
   },
   {
    "cat": "stock",
-   "time": "2026-11-07 14:28",
+   "time": "2026-11-07 14:01",
    "title": "COMMENTARY: US stocks always rise after midterms. Is this time different?",
    "summary": "COMMENTARY: US stocks always rise after midterms. Is this time different? &nbsp;&nbsp; Reuters",
    "srcs": [
@@ -601,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 93.9
+   "heat": 96.9
   },
   {
    "cat": "stock",
@@ -615,7 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 96.0
   },
   {
    "cat": "stock",
@@ -629,7 +615,35 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 96.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-06 22:48",
+   "title": "Stock Market Today (Nov. 6, 2026): Nasdaq, S&P 500 rise after midterms AI rout - Yahoo Finance Singapore",
+   "summary": "Stock Market Today (Nov. 6, 2026): Nasdaq, S&P 500 rise after midterms AI rout &nbsp;&nbsp; Yahoo Finance Singapore",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyeTlLeG1qZnZvcjdHc0JvUEpCd0xzMDhvdEtKRXFqakFzVEJTRl85MWpKQk1QYnp3dS03V3A2WXZXZVNCbkVlUU5hcmdzd1E2ZkhwZHFRTUp3UTNibnFTQ2w4T3FST1dzM19OVHExX0c2QnczSy1BdU9Sc1IwQQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 96.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-08 23:54",
+   "title": "Oil falls on open as Trump says fresh Iran attacks ’unlikely’",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/commodities-news/oil-falls-on-open-as-trump-says-fresh-iran-attacks-unlikely-5010359",
+     "t": "agg"
+    }
+   ],
+   "heat": 24.6
   },
   {
    "cat": "global",
@@ -657,7 +671,7 @@
      "t": "agg"
     }
    ],
-   "heat": 22.3
+   "heat": 22.0
   },
   {
    "cat": "global",
@@ -727,7 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 16.0
+   "heat": 20.0
   },
   {
    "cat": "global",
@@ -741,7 +755,7 @@
      "t": "agg"
     }
    ],
-   "heat": 14.0
+   "heat": 18.0
   },
   {
    "cat": "global",
@@ -755,7 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 14.0
+   "heat": 18.0
   },
   {
    "cat": "global",
@@ -769,7 +783,35 @@
      "t": "agg"
     }
    ],
-   "heat": 14.0
+   "heat": 18.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-09 06:07",
+   "title": "New Zealand Dollar Advances as Ruling Party Gets Election Edge",
+   "summary": "New Zealand’s dollar edged higher in early trading after the incumbent National Party emerged from the weekend election with a path back to power, putting it in pole position to le…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-08/new-zealand-dollar-advances-as-ruling-party-gets-election-edge",
+     "t": "sec"
+    }
+   ],
+   "heat": 15.6
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-05 19:39",
+   "title": "US Dollar Pullback Still Looks Like Wave C Into Support",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/us-dollar-pullback-still-looks-like-wave-c-into-support-200690928",
+     "t": "agg"
+    }
+   ],
+   "heat": 6.0
   },
   {
    "cat": "global",
@@ -783,49 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 8.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-06 01:42",
-   "title": "Broad market selloff as Bitcoin touches $75k as S&P 500, Nasdaq, and global benchmarks face sharp downturn - FXStreet",
-   "summary": "Broad market selloff as Bitcoin touches $75k as S&P 500, Nasdaq, and global benchmarks face sharp downturn &nbsp;&nbsp; FXStreet",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQejA2SHhWOGpNYXJZVUpWcFBqVFlhZnNXV3JGQzVwdUtvR1NGbDRmbDVYdmpVNFJRZWVVOHlaRDRRc0U5WkpibXhGVFhUUzFuQTk2LVpCMl9PeVd4aS1CYnhsQVFSa2hPc05Ra3BMZlJ2SVpCNTdSQmdNN3p4eFNUWFRsczNkSGQ5M3hoaGc3ZWNYdDJfUEhTVlduY2NfcVBEZXltanF0UW1QWm9TWGJHVkIwRUxuVy0wdUgzbllIdVRjamd6dlh2d1lPN051eWNidXR3S1ExZ3BURTM3VW0wOWd1OA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 8.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-05 08:03",
-   "title": "冷冻柜一夜变“加热柜”！欧洲多国超市疑遭新一轮黑客攻击",
-   "summary": "冷冻柜一夜变“加热柜”！欧洲多国超市疑遭新一轮黑客攻击 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9nSnZneEVITnUwVmlzZndadk92WFU2WF9ub0NHajJxWnk5RXlnX0VhcFZxZ2h2Ym5qVm1yTWRVMHF3bjJBa2QtYQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 8.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-06 16:15",
-   "title": "Tech Collapses, FX Shrugs",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/tech-collapses-fx-shrugs-200690986",
-     "t": "agg"
-    }
-   ],
-   "heat": 6.0
+   "heat": 4.0
   },
   {
    "cat": "global",
@@ -843,6 +843,20 @@
   },
   {
    "cat": "crypto",
+   "time": "2026-11-09 06:59",
+   "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+   "summary": "Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 87.8
+  },
+  {
+   "cat": "crypto",
    "time": "2026-11-08 21:33",
    "title": "Here’s what happened in crypto today",
    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -853,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.0
+   "heat": 82.2
   },
   {
    "cat": "crypto",
@@ -895,7 +909,21 @@
      "t": "sec"
     }
    ],
-   "heat": 58.9
+   "heat": 54.1
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-09 03:30",
+   "title": "What the election results mean for crypto: State of Crypto",
+   "summary": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+     "t": "sec"
+    }
+   ],
+   "heat": 51.2
   },
   {
    "cat": "crypto",
@@ -909,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 55.0
+   "heat": 50.2
   },
   {
    "cat": "crypto",
@@ -923,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.4
+   "heat": 48.0
   },
   {
    "cat": "crypto",
@@ -937,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 48.0
   },
   {
    "cat": "crypto",
@@ -951,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 48.0
   },
   {
    "cat": "crypto",
@@ -965,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 48.0
   },
   {
    "cat": "crypto",
@@ -979,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
+   "heat": 48.0
   },
   {
    "cat": "crypto",
@@ -993,35 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 52.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-06 19:58",
-   "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-   "summary": "The Nasdaq gained just 1.1%, while the S&P 500 only edged higher, and the DJIA lost more ground.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-     "t": "sec"
-    }
-   ],
-   "heat": 52.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-06 19:49",
-   "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-   "summary": "Bitcoin bounced from around $75,200 after Thursday’s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-     "t": "sec"
-    }
-   ],
-   "heat": 52.0
+   "heat": 48.0
   },
   {
    "cat": "crypto",
@@ -1035,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 40.0
+   "heat": 47.1
   },
   {
    "cat": "crypto",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 39.7
+   "heat": 46.9
   }
  ]
 }
