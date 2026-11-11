@@ -1,33 +1,33 @@
 {
- "updated": "2026-11-11 11:57",
+ "updated": "2026-11-11 21:18",
  "items": [
   {
    "cat": "macro",
-   "time": "2026-11-11 05:06",
-   "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-   "summary": "Treasury yields moved higher after a hotter-than-expected CPI report.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 102.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-11 07:33",
-   "title": "Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks",
-   "summary": "Gold maintained losses after a high US inflation print and hawkish remarks from Federal Reserve officials reinforced bets for an interest rate hike in December.",
+   "time": "2026-11-11 20:19",
+   "title": "AI Stocks Rally After Coreweave's Results; Treasury Market Closed",
+   "summary": "US equity futures rise after Coreweave's strong results and robust demand for Anthropic's IPO. US Treasury futures fall after a hot inflation print fueled Fed rate-hike bets and fu…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-brief-11-11-2026-video",
      "t": "sec"
     }
    ],
-   "heat": 91.3
+   "heat": 99.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-11 17:52",
+   "title": "US Treasury Futures Retreat as Markets See More Fed Hikes",
+   "summary": "Derivatives trading suggests a retreat in US Treasuries is set to continue as faster-than-expected inflation data cement expectations for more aggressive interest-rate hikes from t…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-11/falling-us-bond-futures-offer-no-relief-as-fed-hike-bets-grow",
+     "t": "sec"
+    }
+   ],
+   "heat": 99.4
   },
   {
    "cat": "macro",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 89.9
+   "heat": 92.4
   },
   {
    "cat": "macro",
@@ -55,133 +55,133 @@
      "t": "sec"
     }
    ],
-   "heat": 78.9
+   "heat": 81.4
   },
   {
    "cat": "macro",
-   "time": "2026-11-11 03:21",
-   "title": "Fed rate hike odds in December at 88% after hot CPI- CME Fedwatch",
-   "summary": "",
+   "time": "2026-11-11 20:38",
+   "title": "Mortgage rates jump sharply higher, after easing for four straight weeks. Here's why",
+   "summary": "After falling for a month, mortgage rates jumped sharply higher on a hotter-than-expected inflation report.",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/fed-rate-hike-odds-in-december-at-88-after-hot-cpi-cme-fedwatch-5017585",
-     "t": "agg"
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/11/mortgage-rates-jump-sharply-higher-after-easing-for-4-straight-weeks.html",
+     "t": "sec"
     }
    ],
-   "heat": 76.6
+   "heat": 75.9
   },
   {
    "cat": "macro",
-   "time": "2026-11-11 00:11",
-   "title": "Gold Prices Slide as Delayed Iran Diplomacy and Fed Rate Risks Weigh on Buyers",
+   "time": "2026-11-11 21:16",
+   "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+   "summary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 64.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-11 20:45",
+   "title": "Venezuela Blackouts Fuel Protests as Power Grid Crisis Deepens",
+   "summary": "Chronic blackouts concentrated in Andean states make daily life an ordeal,&nbsp;fueling&nbsp;anti-government demonstrations&nbsp;",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/features/2026-11-11/venezuela-blackouts-fuel-protests-as-power-grid-crisis-deepens",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-11 20:00",
+   "title": "US Mortgage Rates Fall for Fourth Week, Lifting Home Purchases",
+   "summary": "US mortgage rates declined for a fourth straight week, boosting home-purchase applications by the most since mid-April and giving a tiny spark to the deflated housing market.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-11/us-mortgage-rates-fall-for-fourth-week-lifting-home-purchases",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-11 19:59",
+   "title": "Jiangxi Names New Acting Governor as China’s Provincial Shake-Up Accelerates",
+   "summary": "Jiangxi Names New Acting Governor as China’s Provincial Shake-Up Accelerates &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN1FwcE5vS3VtQVU1T2dRNEJySTc2QURZTGdPUHliUHZfZllTM2RhWE9uS0VZOW1GRndVTmM1V2ktS0ZPaWt0aE90RS1RTl8yZzdXUHZPZ1ZOVDc0a3lGa2RaaEFpeVFGLWhRZ2k2VHJxaDd6VmhYZlloRmROUFBaQS1XcEp2djh3VmVmN2tDZzZ6R0ZWLXdhVDNqdUZBWHptYzJhVlNyd3ZIZEs5a1hxZ2dGRGh6UDdLS24xWlJkX1c5akhoOVVpeEtn?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-11 19:28",
+   "title": "US Stock Index Futures Rise as CoreWeave Helps Tech Rebound",
+   "summary": "US equity futures extended gains as positive results from neocloud provider CoreWeave Inc. helped offset bets on higher interest rates.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-11/us-stock-index-futures-rise-as-coreweave-helps-tech-rebound",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-11 19:22",
+   "title": "Airbnb Is Building Its Own AI Travel Agent, Co-Founder Says",
+   "summary": "Airbnb Co-founder and Chief Strategy Officer Nathan Blecharczyk says the company is developing its own specialized AI travel agent that will eventually be able to book both on and …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-11/airbnb-is-building-its-own-ai-travel-agent-co-founder-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 59.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-11 14:08",
+   "title": "Dubai’s DIP Climbs on Debut, Ending UAE’s Listings Drought",
+   "summary": "Dubai’s DIP Holding Plc shares jumped as much as 7% on debut, after a $529 million initial public offering that marked the United Arab Emirates’ first listing of the year.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-11/dubai-s-dip-rises-as-much-as-6-after-uae-s-first-post-war-ipo",
+     "t": "sec"
+    }
+   ],
+   "heat": 58.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-11 14:10",
+   "title": "Gold: Contradictory Statements, Elevated Rate Hike Expectations Prompt Selling",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-prices-slide-as-delayed-iran-diplomacy-and-fed-rate-risks-weigh-on-buyers-200691301",
+     "u": "https://www.investing.com/analysis/gold-contradictory-statements-elevated-rate-hike-expectations-prompt-selling-200691339",
      "t": "agg"
     }
    ],
-   "heat": 76.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-11 10:41",
-   "title": "India Short-Term Rates May Rise, Weighing on Spending, Investment",
-   "summary": "Already, many consumer firms are absorbing rising costs rather than passing them on to customers, underscoring weak household purchasing power.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-11-11/india-short-term-rates-may-rise-weighing-on-spending-investment",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-11 10:17",
-   "title": "Hedge Fund Risk Retreat Largest in a Decade, Morgan Stanley Says",
-   "summary": "Global equity hedge funds cut risk at the steepest rate in more than a decade through the first week of November as a widespread unwind gathered steam, Morgan Stanley prime brokers…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-11/hedge-fund-risk-retreat-largest-in-a-decade-says-morgan-stanley",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-11 09:47",
-   "title": "Cohere's Gomez on $25B Valuation, Growth",
-   "summary": "Aidan Gomez, co-founder and CEO of Canadian AI Startup Cohere, discusses the company's growth strategy following its latest funding round, which valued the company at $25 billion. …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-11/cohere-s-gomez-on-25b-valuation-growth-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-11 09:46",
-   "title": "Otter.ai CEO on Growth Strategy, Multi-language push",
-   "summary": "Sam Liang, CEO of AI transcription and note-taking company Otter.ai, discusses the company's multilingual offerings and expansion into international markets, as well as its capital…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-11/otter-ai-ceo-on-growth-strategy-multi-language-push-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-11 06:39",
-   "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
-   "summary": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 63.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-11 06:32",
-   "title": "Asian Stocks Climb for a Third Day, Bonds Slump: Markets Wrap",
-   "summary": "Asian stocks rose as optimism around the artificial intelligence trade persisted despite hotter-than-expected US inflation data that bolstered the case for the Federal Reserve to r…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
-     "t": "sec"
-    }
-   ],
-   "heat": 59.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-11 05:30",
-   "title": "Traders Who Rushed to Bonds as Haven Get Rattled in Reversal",
-   "summary": "A recent influx of bullish positioning across the US bond market just got smacked, as comments from a pair of Federal Reserve officials and fresh evidence of sticky inflation incre…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-10/traders-who-rushed-to-safety-of-bonds-get-rattled-in-reversal",
-     "t": "sec"
-    }
-   ],
-   "heat": 58.9
+   "heat": 56.8
   },
   {
    "cat": "macro",
@@ -195,21 +195,77 @@
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 52.0
   },
   {
    "cat": "macro",
-   "time": "2026-11-04 17:55",
-   "title": "China Cuts Stock Buyback Relending Rate to 1% to Support Market",
-   "summary": "China Cuts Stock Buyback Relending Rate to 1% to Support Market &nbsp;&nbsp; Caixin Global",
+   "time": "2026-11-11 19:45",
+   "title": "CoreWeave Quiets Doubts, US CPI Fuels Fed-Hike Bets",
+   "summary": "Traders piled back into the artificial intelligence trade, lifting US stock futures following strong results from beaten-down neocloud firm CoreWeave and robust demand for Anthropi…",
    "srcs": [
     {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGw4QlBmc0tlV0N1R014VjRmTDZqR2w4SzhuZ1F1TVNyem9iMnRRYThMZVZUdXRpZ1RZQ1B3R0xadmhKZHY3QTZkUUhGTkI1V19aNXBVNFV6Wm8wX1RpS0JENHZvTW4xdzJCcHdZMWxZSi1LaW42NXdfRk91d2VaTy1fSGVXcUdCTldQZTdhNml2cWtGY25lVGFIY0F3SW9WOXRxdFA3Z0tLVDVZdVFKQVBGMW9fNVlY?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-11/the-opening-trade-11-11-2026-video",
      "t": "sec"
     }
    ],
-   "heat": 56.0
+   "heat": 47.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-11 20:52",
+   "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+   "summary": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-11 20:35",
+   "title": "Nasdaq futures jump as CoreWeave earnings beat drives global tech rebound: Live updates",
+   "summary": "Stock futures rose Wednesday, boosted by sharp gains in CoreWeave and a rebound in Nvidia following back-to-back losing sessions for the chipmaker.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-11 20:25",
+   "title": "Baird downgrades Nvidia on CEO Huang worries, AI uncertainty",
+   "summary": "The investment bank moved its rating on the stock to neutral, and slashed its price target.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/11/nvidia-baird-downgrade-ceo-ai-capex.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-11 20:03",
+   "title": "Stock Movers: CoreWeave, AI Infrastructure, Nvidia (Podcast)",
+   "summary": "Source: Bloomberg, 4:42",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-11/stock-movers-coreweave-ai-infrastructure-nvidia-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.8
   },
   {
    "cat": "sector",
@@ -223,77 +279,21 @@
      "t": "sec"
     }
    ],
-   "heat": 223.5
+   "heat": 241.9
   },
   {
    "cat": "sector",
-   "time": "2026-11-11 07:11",
-   "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
-   "summary": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+   "time": "2026-11-11 12:50",
+   "title": "Wall Street analysts turn cautious on Nvidia amid supply issues, Huang uncertainty",
+   "summary": "",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/nvidia-stock-gets-a-rare-wall-street-downgrade-on-supply-issues-5018471",
+     "t": "agg"
     }
    ],
-   "heat": 223.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-11 06:08",
-   "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
-   "summary": "Investors continue to weigh the potential fallout from CEO Jensen Huang's affair with an alleged Chinese spy.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-11 03:40",
-   "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
-   "summary": "In the AI era, our economic competitiveness, military capabilities, and intelligence edge can be taken down by one man. We aren't prepared. Congress must act.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 222.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-10 23:04",
-   "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
-   "summary": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 221.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-10 18:30",
-   "title": "In Depth: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager",
-   "summary": "In Depth: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaDd4cHRGM0h5aTBCMXNkUmRiNEtMdktlR2JXVkx5Zzlkb3ozMGtBTGExTmFNbW1SSVdjbTloTV9VWEU2OEVDMlpYVmQ2TVh4NEpJalZhbVgtX1g5WVcwLTNlYnViOUljYW5LMVA1dGRuZHlwaDlkcWliRzl1aWttc2hQYkVZU2h1UklHaG5XMnVLdHBGUG95ZERSTU0zRG9OZlFQOFBCM25HLUdmMjZJMDdjNXpYekhPOGlqdmRBeVBXNWljZXk4cU9yNnlQZzRDNlp3WXd2cWJSOUtSQ0M3NEpn?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 221.1
+   "heat": 240.6
   },
   {
    "cat": "sector",
@@ -307,7 +307,35 @@
      "t": "sec"
     }
    ],
-   "heat": 220.0
+   "heat": 240.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-10 18:30",
+   "title": "In Depth: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager",
+   "summary": "In Depth: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaDd4cHRGM0h5aTBCMXNkUmRiNEtMdktlR2JXVkx5Zzlkb3ozMGtBTGExTmFNbW1SSVdjbTloTV9VWEU2OEVDMlpYVmQ2TVh4NEpJalZhbVgtX1g5WVcwLTNlYnViOUljYW5LMVA1dGRuZHlwaDlkcWliRzl1aWttc2hQYkVZU2h1UklHaG5XMnVLdHBGUG95ZERSTU0zRG9OZlFQOFBCM25HLUdmMjZJMDdjNXpYekhPOGlqdmRBeVBXNWljZXk4cU9yNnlQZzRDNlp3WXd2cWJSOUtSQ0M3NEpn?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-10 14:55",
+   "title": "In Depth: CEO’s Affair Pulls Nvidia Deeper Into the U.S.-China Chip Fight",
+   "summary": "In Depth: CEO’s Affair Pulls Nvidia Deeper Into the U.S.-China Chip Fight &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnNlYTFkLU1lVXJkMmc0NldSRVBPNmpZQ2REMHBNeDZFUjA2VlRGRXlfX29kTFZxY2wyVlFzM0ZpUTJOc0w0d2dXZ0ZNZDBuZENFdU9zSjNZY3c4UTlVaGljcXVDSXRNSWhqaEo0aUZpQjEzZ2tpSE1Ed25uQUVLNmk2a1VtZ0ZoQVdsN2lNcGJJRTNsZVE0dU5MQ0VjWFJxT2l0QWNOdDAwVFJrcXhqMFRpYy1udEU3LTlMTVJiTlVQQQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 238.9
   },
   {
    "cat": "sector",
@@ -321,7 +349,21 @@
      "t": "sec"
     }
    ],
-   "heat": 219.0
+   "heat": 237.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-11 21:04",
+   "title": "Nissan CEO breaks down how it plans to fight back against Chinese companies, after second outlook cut in months",
+   "summary": "Intensifying competition in the world's largest auto market forced Nissan to cut its annual sales forecast for a second time in months.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 236.0
   },
   {
    "cat": "sector",
@@ -335,133 +377,91 @@
      "t": "sec"
     }
    ],
-   "heat": 216.8
+   "heat": 236.0
   },
   {
    "cat": "sector",
-   "time": "2026-11-11 11:49",
-   "title": "Failed Australian Chain David Jones to Close Half Its Stores",
-   "summary": "Failed Australian retailer David Jones will close half its stores in an overhaul aimed at saving the business.",
+   "time": "2026-11-11 21:00",
+   "title": "State of Distressed: UBS’ Chaisanguanthum on Coops, LMEs, and AI",
+   "summary": "“What I’m hyper focused on is ... not losing money on the new money,” observes Michael Chaisanguanthum, managing director and head of restructuring for UBS Asset Management’s Credi…",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-11/failed-australian-chain-david-jones-to-close-half-its-stores",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-11/state-of-distressed-ubs-chaisanguanthum-on-coops-lmes-and-ai",
      "t": "sec"
     }
    ],
-   "heat": 216.0
+   "heat": 235.9
   },
   {
    "cat": "sector",
-   "time": "2026-11-11 11:20",
-   "title": "US Ambassador to China on US-China Relations",
-   "summary": "David Perdue, US Ambassador to China, says relations with Beijing remain bumpy, but stresses that Washington wants to diversify rather than decouple from China. He speaks exclusive…",
+   "time": "2026-11-11 21:00",
+   "title": "Take-Two CEO Zelnick: AI Wont Kill Gaming Jobs",
+   "summary": "Take-Two Interactive Chairman & CEO Strauss Zelnick says artificial intelligence will transform the video game industry, but he doesn't believe It will lead to fewer jobs. He says …",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-11/us-ambassador-to-china-on-us-china-relations-video",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-ceo-zelnick-ai-wont-kill-gaming-jobs-video",
      "t": "sec"
     }
    ],
-   "heat": 215.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-11 10:58",
-   "title": "China Ties 'Bumpy' But Engagement Will Continue, US China Ambassador Says",
-   "summary": "US Ambassador to China David Perdue says Washington seeks to diversify its supply chains rather than fully decouple from Beijing, while adding relations are currently \"bumpy\" with …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-11/us-china-ambassador-on-bumpy-china-ties-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-11 10:25",
-   "title": "Bloomberg Daybreak Asia: Otter.ai Expanding Globally (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-11/bloomberg-daybreak-asia-otter-ai-expanding-globally-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-11 10:05",
-   "title": "Lula Team Readies Brazil Fiscal Plan in Bid to Calm Market Jitters",
-   "summary": "President Luiz Inácio Lula da Silva’s economic team is preparing to send proposals to Congress by next week aimed at showing investors how his government intends to meet fiscal tar…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-11/lula-team-readies-brazil-fiscal-plan-in-bid-to-calm-market-jitters",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-11 09:57",
-   "title": "Hegseth Impeachment Vote Blocked, Huang Affair Fallout, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-11/hegseth-impeachment-vote-blocked-huang-affair-fallout-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 215.7
+   "heat": 235.9
   },
   {
    "cat": "stock",
-   "time": "2026-11-10 23:48",
-   "title": "Power Turbine Stocks Dip as SoftBank Loss Fuels Fears",
-   "summary": "Shares of power and equipment firms like GE Vernova Inc. and Bloom Energy Corp. fell on Tuesday after SoftBank Group Corp. wrote down $3.7 billion in data center projects.",
+   "time": "2026-11-11 15:57",
+   "title": "CSG Plunges to Lowest Since IPO After Arms Firm Cuts Guidance",
+   "summary": "CSG NV shares plunged after the European arms maker cut its full-year profitability outlook, dealing a fresh blow to investors who bought into the stock when it listed at the start…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-10/power-turbine-stocks-dip-as-softbank-writedown-fuels-demand-fear",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-11/csg-cuts-full-year-margin-outlook-as-revenue-misses-estimates",
      "t": "sec"
     }
    ],
-   "heat": 122.0
+   "heat": 135.1
   },
   {
    "cat": "stock",
-   "time": "2026-11-11 06:59",
-   "title": "Emerge Canada, Firm That Sold Cathie Wood’s ARK ETFs, Breached Securities Law",
-   "summary": "Plus: CPP Investment Board cuts stock-pickers",
+   "time": "2026-11-11 20:17",
+   "title": "Nvidia Is Core Part AI-Basket of Stocks, Emanuel Says",
+   "summary": "Julian Emanuel, Evercore ISI chief equity strategist and quantitative strategist, says Nvidia is a core part of their basket of AI stocks. He also expects the Anthropic IPO to go s…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-11-10/emerge-canada-firm-that-sold-cathie-wood-s-ark-etfs-breached-securities-law",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-is-core-part-ai-basket-of-stocks-emanuel-says-video",
      "t": "sec"
     }
    ],
-   "heat": 103.2
+   "heat": 127.8
   },
   {
    "cat": "stock",
-   "time": "2026-11-11 07:16",
-   "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-   "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+   "time": "2026-11-11 18:46",
+   "title": "Anthropic IPO Demand Surges as AI Trade Roars Back",
+   "summary": "Traders piled back into the artificial intelligence trade, lifting US stock futures following strong results from beaten-down neocloud firm CoreWeave and robust demand for Anthropi…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-11/the-pulse-with-francine-lacqua-11-11-2026-video",
      "t": "sec"
     }
    ],
-   "heat": 99.2
+   "heat": 127.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-11 19:38",
+   "title": "Citi’s Aganga on AI, Markets and Inflation",
+   "summary": "Olaolu Aganga of Citi says strong earnings and attractive valuations continue to support US stocks despite recent volatility. She discusses the long-term AI investment cycle, oppor…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-11/citi-s-aganga-on-ai-markets-and-inflation-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 119.7
   },
   {
    "cat": "stock",
@@ -475,161 +475,147 @@
      "t": "sec"
     }
    ],
-   "heat": 96.0
+   "heat": 116.0
   },
   {
    "cat": "stock",
-   "time": "2026-11-11 10:31",
-   "title": "Stock futures rise slightly as market tries to recover from Nvidia-led decline: Live updates",
-   "summary": "The Dow pulled back more than 150 points in regular trading, while the S&P 500 and Nasdaq Composite shed 0.4% and 0.7%, respectively.",
+   "time": "2026-11-11 21:16",
+   "title": "Stocks making the biggest moves premarket: CoreWeave, Nvidia, NextNav & more",
+   "summary": "Follow below as CNBC covers the biggest stock market moves of the day.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+     "u": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html",
      "t": "sec"
     }
    ],
-   "heat": 91.8
+   "heat": 112.0
   },
   {
    "cat": "stock",
-   "time": "2026-11-11 10:03",
-   "title": "Indonesia to Cut 300 More Tightly Held Stocks From Benchmark",
-   "summary": "Indonesia’s bourse will classify an additional 300 stocks to its high shareholder concentration list, leaving a third of its index members ineligible to stay in its benchmark, as i…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-11/indonesia-bourse-adds-300-stocks-to-high-concentration-list",
-     "t": "sec"
-    }
-   ],
-   "heat": 91.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-11 06:09",
-   "title": "Stock Movers: CoreWeave, Firefly, Grocery Outlet (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-11-11 20:23",
+   "title": "Private Markets Take Stock on Tokenization After Binance Heist",
+   "summary": "Record-breaking hack highlights risks but promise remains",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-10/stock-movers-coreweave-firefly-grocery-outlet-podcast",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-11-11/private-markets-take-stock-on-tokenization-after-binance-heist",
      "t": "sec"
     }
    ],
-   "heat": 91.0
+   "heat": 111.8
   },
   {
    "cat": "stock",
-   "time": "2026-11-11 05:50",
-   "title": "US Stock Market today: Why are S&P 500, Nasdaq, Dow Jones, Russell 2000 down ahead of Veterans Day 2026? C - The Economi",
-   "summary": "US Stock Market today: Why are S&P 500, Nasdaq, Dow Jones, Russell 2000 down ahead of Veterans Day 2026? C &nbsp;&nbsp; The Economic Times",
+   "time": "2026-11-11 19:35",
+   "title": "Dow Jones, S&P 500, Nasdaq futures hint positive opening on Nov 11; CoreWeave, tech stocks in focus - Upstox",
+   "summary": "Dow Jones, S&P 500, Nasdaq futures hint positive opening on Nov 11; CoreWeave, tech stocks in focus &nbsp;&nbsp; Upstox",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNLXBMVk5wRjMtdkptT0tfZDMxSmFPaUlkMU5jMHhIOUxMVXlVNmNYcy1lS21ieUJxQjlGdlVJQU1Bakl2NlU1RVJNT1lIbG85NWh1N3I3eGo5QUpuanM2MXJFOGNjZFRpdTc3T3laM25aX0kzVnJQeTRxR3dNNzhJY1Z3OFZmRGFMQTZYLUVPb3ZtVjdIRHpXYlZQM0R3dHdxR3ppQkpOY3gxN0hKc2FqbzlCQWdNSFhUam5Db0o2Qk1WS1VvUkswM0tkR0JZNXZmeG5MYTd0ZU9GamNDNThmNkZzbHVDMTI3TEZaRk52a3BkQ0dPTWRYZ2haUGN2Qm9DYjJxU3pLSVJoaGw2Z3hxMmRCYVFsMDJBVzlTcU1TWTFFVGZiNHprUjFsd9IBsAJBVV95cUxQMndQOFF0LUV2dWQzQ3dwSWVUWHoyMTFYd0ptdTA3T2xFd3JHQXphX2c2Zk10MmY4WFI4bDdBUHNKdVRuSzJtWXFoa053Tm5ac1lha1dNeGc5NTVZd1FiSkJVY3VTSm5XYW9jM1VaSV9LNHhNZEp1X3c3RVBhdnEzNWFWWWJmT2JwckVVeFlhUlYzTEs5cW0wZkI5R3FoTmhLVzF3RkYwTUFuUW90ODBoTUVYa1ZISTFDRHRyWlNJd2xIdVZReWNzYmR5YlFEUC1ucEJwOEx0Qzl5TlNWdWlDQjI3enh4c3R4VXgxN0pfRGxFbUVHSFZkUGMzdW5LbWdzSGFyNndWSURMbmVKS1FqcTMxLTJORnQ5b3VTTzhhckM3RlRDeXk2OXRUX2Zlb2lJ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNc0N3UUtSeVRHOEZ0eUxFZnUwYkowU2NZckxwUnlGUFd6Wk5aSnJwakVjaG84ampUTHZ2bWk3Y0IwWEw4ZWp6d1lzRnZ2ZGV0anl3cm5zVEFkYzlPRTRIdHljR19SWXE4N04zcG9OdnZDOUxsSFl5bVJwQ0RaUTY5cUFmWUtzNmpFMFNpakE5REVPTVRlTk5qSGZTSFJpOWNRR05hWHhHRGdJSi1SMGZVVVJZcmtsU0ZDSVp0NlVZRWxSM3kxdXpvM3BRZUtDZ3pVOGQyNEtHQ2IwcVRhSUF5UTRtZWowZ1RfczV5QjFNZHdLcmVq?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 91.0
+   "heat": 111.7
   },
   {
    "cat": "stock",
-   "time": "2026-11-11 02:28",
-   "title": "Tokenization: The next evolution of the stock market",
-   "summary": "Tokenization is beginning to change how investors can access, transfer and use stocks without replacing the market infrastructure beneath them.",
+   "time": "2026-11-11 19:32",
+   "title": "Zimbabwe Seeks Entry Into MSCI Frontier Markets Index for Dollar Stocks",
+   "summary": "Zimbabwe wants securities listed on its dollar-only stock exchange to be added to the MSCI Frontier Markets Index as it seeks to draw international investors and boost liquidity.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-11/zimbabwe-seeks-entry-into-msci-frontier-markets-index-for-dollar-stocks",
+     "t": "sec"
+    }
+   ],
+   "heat": 111.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-11 19:28",
+   "title": "AI Stocks Face Tug-of-War as Anthropic, CoreWeave Lift Hopes",
+   "summary": "The AI trade is so massive that its friends and foes increasingly find support on the same day.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-11-11/ai-stocks-face-tug-of-war-as-anthropic-coreweave-lift-hopes",
+     "t": "sec"
+    }
+   ],
+   "heat": 111.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-11 18:33",
+   "title": "Stock Movers: Siemens Energy, Vestas, CSG (Podcast)",
+   "summary": "Source: Bloomberg, 3:41",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-11/stock-movers-siemens-energy-vestas-csg-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 111.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-11 18:16",
+   "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Bessent Urges US-China to 'De-Risk' — CRWV, RGTI - Benzinga",
+   "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Bessent Urges US-China to 'De-Risk' — CRWV, RGTI &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYkJFcDVVbFNSUlBST0JSNHFlcmNkOUJoM3U4aDNmRmw1R2l6OVlJV2lBZW5SRy1WSDZ3bWFrVENSYkdIRFZRUndsVnMtS1dqVDlFV3VIRmpVTnNfUS0yaEtqc1Jxd2oyalR0Nm5ybUpIT0VWNE1GSENMM0NkbG9uMkdtQ0t4REVvWndQRDBpQWhIQmNIbEJBSUxDVThrbHpXc1Q5ZDhaQWR6SDNnVkxFWFRYYVhqVWR4VS1ubWZwYTdGd2pXbEpmV1FhaExuNjdueXJSUjJSSnJjQ0pibnZzQmhVSThfWWktdVFGYkFFRmdFQUh3TUtrRQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 111.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-11 14:00",
+   "title": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
+   "summary": "Technology stocks have lost momentum while defensive sectors gain ground, as investors reassess risks.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/10/tokenization-market-evolution.html",
+     "u": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html",
      "t": "sec"
     }
    ],
-   "heat": 90.4
+   "heat": 110.8
   },
   {
    "cat": "stock",
-   "time": "2026-11-10 20:45",
-   "title": "CME vs. S&P Global: Which Financial Stock Is a Better Buy for 2027? - The Motley Fool",
-   "summary": "CME vs. S&P Global: Which Financial Stock Is a Better Buy for 2027? &nbsp;&nbsp; The Motley Fool",
+   "time": "2026-11-11 06:32",
+   "title": "US Stocks Rally as CoreWeave Reignites AI Trade: Markets Wrap",
+   "summary": "Traders piled back into the artificial intelligence trade, lifting US stock futures following strong results from beaten-down neocloud firm CoreWeave Inc. and robust demand for Ant…",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckFYT1VRZjktQlhrR2tubjRXRExSR2t6Y1NzZDN3VXJibUZ6NFoxRUJlM2JvdWVFZWVQMVlObU9pVTRXaGRWZ2lORnRQcC13S1h0eFo5amEtOXRoUVJsWk56c0J0Mzk5OUEwdHJfMjBpdnROSzllZ19kUjJuSTZHZk5CSVBvbFdWQkZkdkdRa1hlbkFGX1lmbDFKSlR5QjZ3VzRDOURwcG14V3laYlVUX0lyTnpvN0E?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
      "t": "sec"
     }
    ],
-   "heat": 89.5
+   "heat": 109.5
   },
   {
    "cat": "stock",
-   "time": "2026-11-11 03:16",
-   "title": "United Airlines EVP Kate Gebo sells $4.78M in common stock",
+   "time": "2026-11-11 12:54",
+   "title": "Tech lifts world stocks as CoreWeave revives AI trade",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/united-airlines-evp-kate-gebo-sells-478m-in-common-stock-93CH-5017574",
+     "u": "https://www.investing.com/news/economy-news/bonds-reel-as-hot-inflation-fuels-jumbo-fed-hike-fears-5017511",
      "t": "agg"
     }
    ],
-   "heat": 88.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-11 03:15",
-   "title": "United Airlines CFO Michael Leskinen sells $1.66M in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/united-airlines-cfo-michael-leskinen-sells-166m-in-stock-93CH-5017572",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-11 03:15",
-   "title": "United Airlines EVP & CCO Nocella sells $895,575 in company stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/united-airlines-evp--cco-nocella-sells-895575-in-company-stock-93CH-5017571",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-11 03:05",
-   "title": "David Kustoff sells Warner Bros. Discovery stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/company-news/david-kustoff-sells-warner-bros-discovery-stock-93CH-5017568",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-10 05:56",
-   "title": "Dow Jones Today: DJIA Surges to 52,389.75 as Oil Retreats and Chip Stocks Rebound - BBN Times",
-   "summary": "Dow Jones Today: DJIA Surges to 52,389.75 as Oil Retreats and Chip Stocks Rebound &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ24xV1otZ1l6dDFGdjI3UXN2SmpQY3V3SUxjUWdIMVk0S2tkNURzMVJHNFJXYVRGQVAxaTdzSWFacVFHUS16Y2dhbkVabWJWSzV6QWdBT2cwMDlFWlN0SnNObmFKbllES294RFoyWjZWUWplbDQwOGVZWm9ObXRyQXZqckpjRkZlNnFxdF90Q09jTTM5cnJGekJGSV9FZmZuV3NlUWN1LVd1VjY5cHh5VkEtN1dnSUtKNWFDaA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 87.0
+   "heat": 108.6
   },
   {
    "cat": "global",
@@ -643,7 +629,21 @@
      "t": "agg"
     }
    ],
-   "heat": 34.9
+   "heat": 33.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-11 16:20",
+   "title": "FX Daily: Bearish Yield Curve Flattening Lifts the Dollar",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/fx-daily-bearish-yield-curve-flattening-lifts-the-dollar-200691352",
+     "t": "agg"
+    }
+   ],
+   "heat": 25.2
   },
   {
    "cat": "global",
@@ -657,17 +657,17 @@
      "t": "sec"
     }
    ],
-   "heat": 26.5
+   "heat": 25.0
   },
   {
    "cat": "global",
-   "time": "2026-11-11 10:46",
-   "title": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
-   "summary": "Singapore is stepping up efforts to become a key player in the global gold market, betting that vaulting service and tax incentives will help it attract flows.",
+   "time": "2026-11-11 20:06",
+   "title": "Euro-Pound Options Turn Bullish as Traders Bet on Bigger Rebound",
+   "summary": "Options traders are positioning for a further rebound in the euro against sterling after a historically sharp selloff, betting the single currency has priced in too much risk aroun…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-11/euro-pound-options-turn-bullish-as-traders-bet-on-bigger-rebound",
      "t": "sec"
     }
    ],
@@ -685,7 +685,35 @@
      "t": "agg"
     }
    ],
-   "heat": 23.3
+   "heat": 21.8
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-11 19:22",
+   "title": "Oil Prices Rise as Iran Peace Optimism Fades",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-prices-rise-as-iran-peace-optimism-fades-200691373",
+     "t": "agg"
+    }
+   ],
+   "heat": 21.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-11 16:40",
+   "title": "Oil Rebounds as Geopolitical Risks Linger",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-rebounds-as-geopolitical-risks-linger-200691353",
+     "t": "agg"
+    }
+   ],
+   "heat": 21.2
   },
   {
    "cat": "global",
@@ -699,35 +727,91 @@
      "t": "agg"
     }
    ],
-   "heat": 22.8
+   "heat": 21.2
   },
   {
    "cat": "global",
-   "time": "2026-11-09 17:44",
-   "title": "FX Daily: Dollar Rally Needs More Risk-off Fuel",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/fx-daily-dollar-rally-needs-more-riskoff-fuel-200691207",
-     "t": "agg"
-    }
-   ],
-   "heat": 19.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-10 15:36",
-   "title": "Gold Consolidates Below $4,150 Ahead of US CPI Data",
+   "time": "2026-11-11 16:11",
+   "title": "API Shows Sharp Build in US Crude Oil, Distillate Inventories",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-consolidates-below-4150-ahead-of-us-cpi-data-200691258",
+     "u": "https://www.investing.com/analysis/api-shows-sharp-build-in-us-crude-oil-distillate-inventories-200691337",
      "t": "agg"
     }
    ],
-   "heat": 18.6
+   "heat": 21.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-11 16:11",
+   "title": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/middle-east-oil-flows-far-from-normal-despite-signs-of-oversupply-200691336",
+     "t": "agg"
+    }
+   ],
+   "heat": 21.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-11 13:31",
+   "title": "Gold Futures at Equilibrium: VC PMI Levels and Square of 9 Harmonics Near $4,055",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-futures-at-equilibrium-vc-pmi-levels-and-square-of-9-harmonics-near-4055-200691335",
+     "t": "agg"
+    }
+   ],
+   "heat": 20.7
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-11 20:57",
+   "title": "Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats",
+   "summary": "Hundreds of schools across Europe were evacuated on Wednesday after receiving bomb threats, police forces say, amid growing worries of hybrid threats.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 19.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-11 08:44",
+   "title": "Gold Leads, Silver Follows: What the Gold-Silver Ratio Says About the Next Move",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-leads-silver-follows-what-the-goldsilver-ratio-says-about-the-next-move-200691328",
+     "t": "agg"
+    }
+   ],
+   "heat": 19.9
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-11 20:22",
+   "title": "VW Scraps Advanced Factory Plan in Blow to Made in Germany",
+   "summary": "Volkswagen AG is scrapping a major advanced-manufacturing project at its sprawling headquarter as falling profits force Europe’s biggest carmaker to rethink investment across its G…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-11/vw-scraps-advanced-factory-plan-in-blow-to-made-in-germany",
+     "t": "sec"
+    }
+   ],
+   "heat": 19.8
   },
   {
    "cat": "global",
@@ -744,64 +828,36 @@
    "heat": 16.0
   },
   {
-   "cat": "global",
-   "time": "2026-11-11 11:00",
-   "title": "Korea Fines Bond Dealers Record $1.2 Billion Over Collusion",
-   "summary": "South Korea’s antitrust regulator imposed a record 1.63 trillion won ($1.2 billion) fine on more than a dozen domestic banks and brokerages for colluding in government bond auction…",
+   "cat": "crypto",
+   "time": "2026-11-11 19:05",
+   "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
+   "summary": "Bitcoin fell to an 11-week low of $72,670 after slipping below short-term holders’ average cost basis of about $75,700, according to CryptoQuant.",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-11/korea-fines-bond-dealers-record-1-2-billion-over-collusion",
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "t": "sec"
     }
    ],
-   "heat": 11.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-10 14:47",
-   "title": "China Opens Onshore Forex Market to Overseas Yuan Clearing Banks",
-   "summary": "China Opens Onshore Forex Market to Overseas Yuan Clearing Banks &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVFJsa3VncS1mTkkzWjhBZ2wtRUl1ekxhZHBKT1pjWjBkV1lpQ25HQlprbzRWVFFpRDNSRnEzUUJ2UFU3MWdFNDFFTXFPdzhzWlVwcTloRTY4ZXBqR1pVaHVmVjJHNDREQ09qejFkRDZmOVVXSVQyd2FfTVA4MEs2TkFuWmgzUjhTaVdyUFNIQTdIdmhOMlZNWHpia05rblp1NXEwVUxTdVpGVEVxYkE4LWFVRDBZMHlTcUNJ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 8.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-07 03:12",
-   "title": "欧洲多国航班接连遭遇炸弹威胁 恐慌蔓延至电视台 安全警戒持续升级",
-   "summary": "欧洲多国航班接连遭遇炸弹威胁 恐慌蔓延至电视台 安全警戒持续升级 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84R3BBdEZJa09sMHcxRFB6X1h4U21TSjhhNU5FZVlRNTI5Z2pDZXRCM1ZHYW1lTTBsLVZTQ25vU3ZvZ0pMTE5RSg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 4.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-06 16:26",
-   "title": "16:22:17【中国中化：进博会上与30余家合作伙伴签署采购合作协议 金额超128亿美元】",
-   "summary": "16:22:17【中国中化：进博会上与30余家合作伙伴签署采购合作协议 金额超128亿美元】 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zNVN4THdhOFdJWVN4SUxZR2pFTVBNR0JBRm5Cems5QW1Bd2NnbFZ4QUd0aUVLcmVmZklocE1sZ2h0a0E4cWh5Sg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 4.0
+   "heat": 87.6
   },
   {
    "cat": "crypto",
-   "time": "2026-11-11 06:04",
+   "time": "2026-11-11 16:43",
+   "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
+   "summary": "The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 87.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-11 14:00",
    "title": "Here’s what happened in crypto today",
    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
    "srcs": [
@@ -811,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.0
+   "heat": 86.8
   },
   {
    "cat": "crypto",
@@ -825,35 +881,91 @@
      "t": "sec"
     }
    ],
-   "heat": 86.6
+   "heat": 85.0
   },
   {
    "cat": "crypto",
-   "time": "2026-11-11 02:12",
-   "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
-   "summary": "Starting next week, customers can deposit and withdraw money through Brazil’s instant payment system. Crypto transfers remain suspended.",
+   "time": "2026-11-11 20:21",
+   "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+   "summary": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.",
    "srcs": [
     {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
      "t": "sec"
     }
    ],
-   "heat": 86.4
+   "heat": 75.8
   },
   {
    "cat": "crypto",
-   "time": "2026-11-11 09:16",
-   "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
-   "summary": "The project warned that installations running older versions were vulnerable and urged operators to replace potentially exposed credentials even after upgrading.",
+   "time": "2026-11-11 20:19",
+   "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+   "summary": "Your day-ahead look for Nov. 11, 2026",
    "srcs": [
     {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
      "t": "sec"
     }
    ],
-   "heat": 67.6
+   "heat": 75.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-11 19:56",
+   "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
+   "summary": "Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity’s Bitcoin ETF.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-11 19:37",
+   "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+   "summary": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquida…",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.7
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-11 18:45",
+   "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+   "summary": "CoreWeave’s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.6
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-11 16:55",
+   "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
+   "summary": "US spot Bitcoin ETFs have lost $1.6 billion in November, while stock funds attracted billions of dollars from investors buying the dip.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.3
   },
   {
    "cat": "crypto",
@@ -867,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 67.2
+   "heat": 73.7
   },
   {
    "cat": "crypto",
@@ -881,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.9
+   "heat": 73.4
   },
   {
    "cat": "crypto",
@@ -895,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.7
+   "heat": 73.1
   },
   {
    "cat": "crypto",
@@ -909,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 66.2
+   "heat": 72.7
   },
   {
    "cat": "crypto",
@@ -923,91 +1035,21 @@
      "t": "sec"
     }
    ],
-   "heat": 66.2
+   "heat": 72.6
   },
   {
-   "cat": "crypto",
-   "time": "2026-11-11 00:15",
-   "title": "Miami-Dade County Now Accepts Bitcoin for Property Taxes",
-   "summary": "Bitcoin Magazine Miami-Dade County Now Accepts Bitcoin for Property Taxes Miami-Dade Tax Collector Dariel Fernandez said Monday his office now accepts bitcoin for property taxes on…",
+   "cat": "sector",
+   "time": "2026-11-11 17:07",
+   "title": "海外研选 | 高盛：AI投资回报门槛攀升 融资市场分化加剧",
+   "summary": "海外研选 | 高盛：AI投资回报门槛攀升 融资市场分化加剧 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/news/miami-dade-takes-bitcoin-property-taxes",
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZTUhaaDYwMVpHb21SRzI3aGN5ODBNR0ZETl82ZmdMTTZsclhXZmFFUk1kSDJ5UWRDTlRaZjQzQk16N2s1YnBTcQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 66.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-10 23:20",
-   "title": "Trump Media (DJT) Pledges 73% of Its Bitcoin to an Options Program as $1 Billion Note Deadline Nears",
-   "summary": "Bitcoin Magazine Trump Media (DJT) Pledges 73% of Its Bitcoin to an Options Program as $1 Billion Note Deadline Nears Trump Media's Q3 10-Q shows 11,385 of its roughly 15,649 bitco…",
-   "srcs": [
-    {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/news/trump-media-pledges-73-percent-bitcoin",
-     "t": "sec"
-    }
-   ],
-   "heat": 65.9
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-10 20:15",
-   "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
-   "summary": "Your day-ahead look for Nov. 10, 2026",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
-     "t": "sec"
-    }
-   ],
-   "heat": 65.4
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-10 19:24",
-   "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
-   "summary": "Bitcoin slipped despite a Monday rebound in U.S. stocks, with spot ETFs losing $201 million as traders await October inflation data later today.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
-     "t": "sec"
-    }
-   ],
-   "heat": 65.2
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-10 18:48",
-   "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
-   "summary": "Fed Governor Waller backs December tightening even if inflation cools, while falling oil prices offer some relief and Anthropic withdraws IPO pricing details.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
-     "t": "sec"
-    }
-   ],
-   "heat": 65.1
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-10 18:41",
-   "title": "Live news: Bitcoin falls to nearly three-month low after disappointing inflation data",
-   "summary": "A rate hike in December appears totally assured now, with Fed Governor Chris Waller suggesting even a 50-basis-point move could be appropriate.",
-   "srcs": [
-    {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
-     "t": "sec"
-    }
-   ],
-   "heat": 65.1
+   "heat": 235.3
   }
  ]
 }

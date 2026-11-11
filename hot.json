@@ -1,6 +1,62 @@
 {
- "updated": "2026-11-11 11:57",
+ "updated": "2026-11-11 21:18",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-11-11 20:52",
+   "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+   "summary": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-11 20:35",
+   "title": "Nasdaq futures jump as CoreWeave earnings beat drives global tech rebound: Live updates",
+   "summary": "Stock futures rose Wednesday, boosted by sharp gains in CoreWeave and a rebound in Nvidia following back-to-back losing sessions for the chipmaker.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-11 20:25",
+   "title": "Baird downgrades Nvidia on CEO Huang worries, AI uncertainty",
+   "summary": "The investment bank moved its rating on the stock to neutral, and slashed its price target.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/11/nvidia-baird-downgrade-ceo-ai-capex.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-11 20:03",
+   "title": "Stock Movers: CoreWeave, AI Infrastructure, Nvidia (Podcast)",
+   "summary": "Source: Bloomberg, 4:42",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-11/stock-movers-coreweave-ai-infrastructure-nvidia-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.8
+  },
   {
    "cat": "sector",
    "time": "2026-11-11 09:00",
@@ -13,77 +69,21 @@
      "t": "sec"
     }
    ],
-   "heat": 223.5
+   "heat": 241.9
   },
   {
    "cat": "sector",
-   "time": "2026-11-11 07:11",
-   "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
-   "summary": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+   "time": "2026-11-11 12:50",
+   "title": "Wall Street analysts turn cautious on Nvidia amid supply issues, Huang uncertainty",
+   "summary": "",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/nvidia-stock-gets-a-rare-wall-street-downgrade-on-supply-issues-5018471",
+     "t": "agg"
     }
    ],
-   "heat": 223.2
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-11 06:08",
-   "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
-   "summary": "Investors continue to weigh the potential fallout from CEO Jensen Huang's affair with an alleged Chinese spy.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 223.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-11 03:40",
-   "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
-   "summary": "In the AI era, our economic competitiveness, military capabilities, and intelligence edge can be taken down by one man. We aren't prepared. Congress must act.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 222.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-10 23:04",
-   "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
-   "summary": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 221.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-10 18:30",
-   "title": "In Depth: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager",
-   "summary": "In Depth: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaDd4cHRGM0h5aTBCMXNkUmRiNEtMdktlR2JXVkx5Zzlkb3ozMGtBTGExTmFNbW1SSVdjbTloTV9VWEU2OEVDMlpYVmQ2TVh4NEpJalZhbVgtX1g5WVcwLTNlYnViOUljYW5LMVA1dGRuZHlwaDlkcWliRzl1aWttc2hQYkVZU2h1UklHaG5XMnVLdHBGUG95ZERSTU0zRG9OZlFQOFBCM25HLUdmMjZJMDdjNXpYekhPOGlqdmRBeVBXNWljZXk4cU9yNnlQZzRDNlp3WXd2cWJSOUtSQ0M3NEpn?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 221.1
+   "heat": 240.6
   },
   {
    "cat": "sector",
@@ -97,7 +97,35 @@
      "t": "sec"
     }
    ],
-   "heat": 220.0
+   "heat": 240.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-10 18:30",
+   "title": "In Depth: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager",
+   "summary": "In Depth: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaDd4cHRGM0h5aTBCMXNkUmRiNEtMdktlR2JXVkx5Zzlkb3ozMGtBTGExTmFNbW1SSVdjbTloTV9VWEU2OEVDMlpYVmQ2TVh4NEpJalZhbVgtX1g5WVcwLTNlYnViOUljYW5LMVA1dGRuZHlwaDlkcWliRzl1aWttc2hQYkVZU2h1UklHaG5XMnVLdHBGUG95ZERSTU0zRG9OZlFQOFBCM25HLUdmMjZJMDdjNXpYekhPOGlqdmRBeVBXNWljZXk4cU9yNnlQZzRDNlp3WXd2cWJSOUtSQ0M3NEpn?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 239.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-10 14:55",
+   "title": "In Depth: CEO’s Affair Pulls Nvidia Deeper Into the U.S.-China Chip Fight",
+   "summary": "In Depth: CEO’s Affair Pulls Nvidia Deeper Into the U.S.-China Chip Fight &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnNlYTFkLU1lVXJkMmc0NldSRVBPNmpZQ2REMHBNeDZFUjA2VlRGRXlfX29kTFZxY2wyVlFzM0ZpUTJOc0w0d2dXZ0ZNZDBuZENFdU9zSjNZY3c4UTlVaGljcXVDSXRNSWhqaEo0aUZpQjEzZ2tpSE1Ed25uQUVLNmk2a1VtZ0ZoQVdsN2lNcGJJRTNsZVE0dU5MQ0VjWFJxT2l0QWNOdDAwVFJrcXhqMFRpYy1udEU3LTlMTVJiTlVQQQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 238.9
   },
   {
    "cat": "sector",
@@ -111,35 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 219.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-09 16:32",
-   "title": "Beijing Slams Nvidia ‘Spy’ Claims as CEO Jensen Huang Admits to Affair",
-   "summary": "Beijing Slams Nvidia ‘Spy’ Claims as CEO Jensen Huang Admits to Affair &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXNwelpKNTFtWUk0VGpsQmFDY2xsUjVJazEzeGpnZDRWZkROMFVudDdHRGJqUUdsR05kV3RVcUIwRVZJQXJQUUYtTnNvUkx2VFNGb0ZGNDhITkRyaUo1NDVVamlxb0k4SEZDNXphZjZIcDBNUGZnRE1vc2pmQ1I0X3BwekFDVGJvOS14Q3BQcEw0WUljSE1RWEM0bGpMM1pmX192aDlXTXIyZzB3akhhNW9IN29SUktoVnJpU3p5NjE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 216.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-11 11:49",
-   "title": "Failed Australian Chain David Jones to Close Half Its Stores",
-   "summary": "Failed Australian retailer David Jones will close half its stores in an overhaul aimed at saving the business.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-11/failed-australian-chain-david-jones-to-close-half-its-stores",
-     "t": "sec"
-    }
-   ],
-   "heat": 216.0
+   "heat": 237.4
   }
  ]
 }
