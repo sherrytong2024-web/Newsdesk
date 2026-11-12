@@ -1,113 +1,57 @@
 {
- "updated": "2026-11-12 22:22",
+ "updated": "2026-11-13 05:39",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-11-12 22:18",
-   "title": "Nvidia live updates: CEO Jensen Huang resigns, Colette Kress named interim chief",
-   "summary": "Nvidia CEO Jensen Huang has faced increased scrutiny since revealing an affair. Follow live updates on the investigation, NVDA stock and succession plans.",
+   "time": "2026-11-13 05:09",
+   "title": "Jensen Huang’s Exit From Nvidia Reverberates from DC to China: Big Take Podcast",
+   "summary": "Jensen Huang, who put Nvidia at the center of the AI universe, is out. What it means for chipmakers, regulators and US-China relations.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-12/jensen-huang-s-exit-from-nvidia-reverberates-from-dc-to-china-big-take-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-13 05:09",
+   "title": "Cerebras Delivers Solid Outlook in Bid to Challenge Nvidia",
+   "summary": "Cerebras Systems Inc. gave a sales forecast for the current quarter that exceeded analysts’ estimates, signaling that a push to challenge Nvidia Corp. in AI chips is paying off.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-12/cerebras-delivers-solid-outlook-in-its-bid-to-challenge-nvidia",
+     "t": "sec"
+    }
+   ],
+   "heat": 299.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-13 01:39",
+   "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+   "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+     "u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
      "t": "sec"
     }
    ],
-   "heat": 292.0
+   "heat": 299.3
   },
   {
    "cat": "sector",
-   "time": "2026-11-12 22:13",
-   "title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
-   "summary": "Jensen Huang’s $140 billion stake in Nvidia is largely held by trusts co-owned with his wife, Lori, creating added uncertainty for his financial future.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 292.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-12 22:08",
-   "title": "Jensen Huang Ousted as Nvidia CEO",
-   "summary": "Nvidia Chief Executive Officer Jensen Huang was ousted from his post after reports of two affairs, including with one woman who is suspected of spying for China. Chief Financial Of…",
+   "time": "2026-11-13 04:36",
+   "title": "Nvidia, AI Industry Face Prospect of Future Without Huang",
+   "summary": "Bloomberg's Emily Chang said that while Nvidia will survive the ouster of CEO Jensen Huang, questions remain about if it will be able to thrive in the same way without Huang's rela…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-12/jensen-huang-ousted-as-nvidia-ceo-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 292.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-12 22:00",
-   "title": "AMD upgraded because it will benefit from Nvidia's 'leadership vacuum'",
-   "summary": "AMD is likely to benefit as Nvidia stumbles in the midst of a scandal involving Jensen Huang, its long-time CEO and co-founder, according to William Blair.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/12/amd-upgraded-because-it-will-benefit-from-nvidias-leadership-vacuum.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 291.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-12 21:50",
-   "title": "Huang, Face of the AI Boom, Ousted by Nvidia Board as CEO",
-   "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang, the preeminent face of the AI infrastructure boom, was ousted from his post after reports of two affairs, including with one woma…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-12/jensen-huang-face-of-the-ai-boom-ousted-by-nvidia-board-as-ceo",
-     "t": "sec"
-    }
-   ],
-   "heat": 291.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-12 21:38",
-   "title": "Huang Says Agentic AI Systems Need Monitoring, Containment",
-   "summary": "Nvidia CEO Jensen Huang called the development of agentic AI systems without containment and monitoring the biggest risk he sees to the development of the technology. He spoke with…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-12/huang-agentic-ai-systems-need-monitoring-containment-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 291.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-12 21:31",
-   "title": "Singapore Warns Alice Huang, Says She Wasn’t Probed for Spying",
-   "summary": "Singapore said it found insufficient evidence to prosecute Alice Huang, the alleged spy at the center of a scandal that led to Nvidia Corp. Chief Executive Officer Jensen Huang bei…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-12/singapore-says-warns-alice-huang-lacks-evidence-of-offenses",
-     "t": "sec"
-    }
-   ],
-   "heat": 291.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-12 21:14",
-   "title": "Nasdaq, S&P 500 futures fall as Nvidia turbulence unsettles AI stocks - The Economic Times",
-   "summary": "Nasdaq, S&P 500 futures fall as Nvidia turbulence unsettles AI stocks &nbsp;&nbsp; The Economic Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNUotdWxWSW5NYTNBSE96cURBUUlYTEZjTDZXcXJwdTZycFlRcUVaNWRac2xCdzgxVy0xR1U3bHRnRzNMT0F3YVYxYmZuOXU5Z0VreUdUbE0yOWJ2QW1TSHV6Z1RJWlFjME9DaU1WVE8zOU9vQTNWYTVfQnBjaGl3OXRtWFBPemJacnN6cVc4Yzh1TmFuNm1oXzBpRDRIajFFVUpmaGlmblJFX1NLZlVsdFNpOHJRM1BFOWU0cWplNjQta0Q0c1l4eXRGc01XcVR0MFgtRHlKM0ctRnp30gHiAUFVX3lxTE5GRW8tNTZmZEJHSVc4MGsxVWd5MVhPM1pCM0xoNk9HakdFTy14anFfOWx2Xzl6Z2g4WnFMRTVobUNEVEt5emNVeXFvYWY4YUJsZG9Ud0dtYVdXVmc2SE9tZGFPU0JrQ2pJRXByM0lydzBhYVdkZFZPYzdQTU9OMmc2UjI2b0paN3RuXzY5R2VnSGRNOGx0UDdXd08zYWloMjNROGhaTFFURWdlZU1jaV96Tmo3ZXNqZUFWbWZxSzFVOVhVYUlXVkNUOTFfcFZmdW1KRHZiUDZKcHFTYWNvTkFKTkE?oc=5",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-ai-industry-face-future-without-jensen-huang-video",
      "t": "sec"
     }
    ],
@@ -115,31 +59,87 @@
   },
   {
    "cat": "sector",
-   "time": "2026-11-12 20:02",
-   "title": "Stock Movers: Nvidia Sinks, Competitors Gain (Podcast)",
-   "summary": "Source: Bloomberg, 4:43",
+   "time": "2026-11-13 04:32",
+   "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+   "summary": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-13 04:11",
+   "title": "Nvidia Ousts Huang, Report: Huang Had Affair With 2nd Employee",
+   "summary": "Source: Bloomberg, 5:50",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-12/stock-movers-nvidia-sinks-competitors-gain-podcast",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-12/nvidia-ousts-huang-report-huang-had-affair-with-2nd-employee",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-13 03:47",
+   "title": "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
+   "summary": "The company's board convened Wednesday evening after reports emerged of Huang engaging in an affair with an employee.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-13 03:42",
+   "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
+   "summary": "Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for \"resilience, professionalism and continued dedication",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-13 03:38",
+   "title": "How Huang’s Resignation Could Hurt US AI",
+   "summary": "Former Nvidia CEO Jensen Huang had direct access to President Donald Trump and more influence over American AI policy than any other Silicon Valley executive. Bloomberg Opinion col…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-12/opinion-how-huang-s-resignation-could-hurt-us-ai-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 291.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-13 03:33",
+   "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+   "summary": "Nvidia's leadership crisis threatens to spill over into the AI financing boom.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
      "t": "sec"
     }
    ],
    "heat": 291.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-12 19:28",
-   "title": "Nvidia Punches a Hole in Bull Case for AI Stocks",
-   "summary": "Stock is slumping anew as board weighs ousting CEO.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-11-12/nvidia-punches-a-hole-in-bull-case-for-ai-stocks",
-     "t": "sec"
-    }
-   ],
-   "heat": 291.5
   }
  ]
 }
