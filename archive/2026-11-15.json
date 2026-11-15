@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-15 03:37",
+ "updated": "2026-11-15 08:34",
  "items": [
+  {
+   "cat": "macro",
+   "time": "2026-11-15 04:00",
+   "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
+   "summary": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
+     "t": "sec"
+    }
+   ],
+   "heat": 43.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-15 08:00",
+   "title": "India Stock Market Rebounds as AI Trade Unwinds, Foreign Funds Return",
+   "summary": "Indian stocks suffered bruising losses in the first nine months of the year as the artificial intelligence trade hoovered up global investor capital. The unwinding of that strategy…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-15/india-stock-market-rebounds-as-ai-trade-unwinds-foreign-funds-return",
+     "t": "sec"
+    }
+   ],
+   "heat": 31.9
+  },
   {
    "cat": "macro",
    "time": "2026-11-15 01:46",
@@ -13,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.7
+   "heat": 30.9
   },
   {
    "cat": "macro",
@@ -27,49 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 23.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-14 22:30",
-   "title": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
-   "summary": "With household budgets already squeezed by persistent inflation, some residents are seeking emergency help with heating oil bills before winter begins.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-14 17:06",
-   "title": "New Inflation Data Offers Terrible News for President Donald Trump's Economy and the AI-Driven Bull Market - The Motley ",
-   "summary": "New Inflation Data Offers Terrible News for President Donald Trump's Economy and the AI-Driven Bull Market &nbsp;&nbsp; The Motley Fool",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaTI3LUt2NGFnSVBuTkx4aFNIcHRiN09hczRaQlR0SEU0TnVKbXQyUThZRHowQzBQSy1kYURNc2IzSk5DbEdZdnRFUFlNUHk1cjB6NDYwQkw1b3FEa054dmN2U1JITHVkUC1VWWlQOWc3di0zNnRtRUVKOTVyR21fMkd0Wm9OVjRLZFJadlN4SUNpYkIxV2tMTEw2bklHQi1EZU8xME93R0xoZ2N3S01hOFBFajhYVzZDWk1nVFlZTWtlTXhaRHp4SQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 22.2
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-14 05:34",
-   "title": "Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates",
-   "summary": "Nvidia shares rebounded from its recent pressure and the latest inflation data came in slightly lighter than expected.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 20.3
+   "heat": 30.6
   },
   {
    "cat": "macro",
@@ -83,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 20.2
+   "heat": 27.4
   },
   {
    "cat": "macro",
@@ -97,7 +83,7 @@
      "t": "agg"
     }
    ],
-   "heat": 18.1
+   "heat": 25.3
   },
   {
    "cat": "macro",
@@ -111,21 +97,21 @@
      "t": "sec"
     }
    ],
-   "heat": 16.5
+   "heat": 19.6
   },
   {
    "cat": "macro",
-   "time": "2026-11-09 14:43",
-   "title": "China’s Factory-Gate Inflation Hits Highest in More Than Four Years",
-   "summary": "China’s Factory-Gate Inflation Hits Highest in More Than Four Years &nbsp;&nbsp; Caixin Global",
+   "time": "2026-11-14 22:30",
+   "title": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
+   "summary": "With household budgets already squeezed by persistent inflation, some residents are seeking emergency help with heating oil bills before winter begins.",
    "srcs": [
     {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXROWWlyLU4xeDFlUWRqX2U4cVNuTU9oZzR3aTVRMXc5bXVVV3F3RkZ0UXZZNmlpb0pzandyQzdwN29qc2pvNG81QjY0WnZuRmhRMWdzYkw2cW0tcXEyTnhENjhpXzFpRDdkbjc0ODZDcWR6cXE5Skt1dWR3Z0YzcXJuM2s4TUxwTVlrS3lSRzQzWXhWN2xGS2hhdldxQ2xLb2RlVVFUX2xrcGRFdDFMQmM0eWFnM0dWNzRIdDFn?oc=5",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
      "t": "sec"
     }
    ],
-   "heat": 16.0
+   "heat": 18.3
   },
   {
    "cat": "macro",
@@ -139,7 +125,21 @@
      "t": "agg"
     }
    ],
-   "heat": 14.2
+   "heat": 17.4
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-14 05:34",
+   "title": "Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates",
+   "summary": "Nvidia shares rebounded from its recent pressure and the latest inflation data came in slightly lighter than expected.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 15.5
   },
   {
    "cat": "macro",
@@ -153,7 +153,7 @@
      "t": "agg"
     }
    ],
-   "heat": 11.5
+   "heat": 14.7
   },
   {
    "cat": "macro",
@@ -167,49 +167,49 @@
      "t": "sec"
     }
    ],
-   "heat": 10.9
+   "heat": 14.1
   },
   {
    "cat": "macro",
-   "time": "2026-11-13 19:26",
-   "title": "S&P 500 Futures Gain With Focus on U.S. PPI Data and Fed Speak - Barchart.com",
-   "summary": "S&P 500 Futures Gain With Focus on U.S. PPI Data and Fed Speak &nbsp;&nbsp; Barchart.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEVXLXBPSnVHVUdQNGF6VUhFNXdoaDZLek9SdHhROFdmVG1kUEhINS0taWV5ajVRVEU1RGJ3Qk5RME1hZGd3R01uTUc5Y0FEYTNudDlsZFhSdjlaU0JmMkI0WTlPY0J4OElFaHBMTk9icFFMWHpEVjhfUm5tbEJrNVRTVGNwSUJENG5tV3lxdGFRV3F4dGtyM2E2Znhjb21KZGE5TG1NcjM?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 10.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-13 09:25",
-   "title": "财联社11月13日电，央行今日开展3640亿元隔夜逆回购操作",
-   "summary": "财联社11月13日电，央行今日开展3640亿元隔夜逆回购操作 &nbsp;&nbsp; 财联社",
+   "time": "2026-11-12 05:55",
+   "title": "年内最后一批储蓄国债“秒光”，有大行上线两分钟额度售罄，定存利率回升抢购潮未止",
+   "summary": "年内最后一批储蓄国债“秒光”，有大行上线两分钟额度售罄，定存利率回升抢购潮未止 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jSWlDTlFjYzNOZmFwQ0Q1dmdLcGdBa1owdldsOGRRTzZVUjZ2N1QxbUlieTM0cko0WEM0Zk1UYXNCWEhNS3lBUg?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0TjVGLWdoMFU4WVRkOWFqY3MyaWJYN1BldGdRcW9BZzZxUFhVTzVtSDR6dWdGdFExbm9LeUYtalFscTVsNm9vbg?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 9.0
+   "heat": 12.0
   },
   {
    "cat": "macro",
-   "time": "2026-11-11 05:33",
-   "title": "【早报】美制裁中国企业，商务部回应；央行连续24个月增持黄金",
-   "summary": "【早报】美制裁中国企业，商务部回应；央行连续24个月增持黄金 &nbsp;&nbsp; 财联社",
+   "time": "2026-11-11 02:33",
+   "title": "02:33:59【10年期美债发行认购需求不及预期 尽管票面利率创20年以来最高】",
+   "summary": "02:33:59【10年期美债发行认购需求不及预期 尽管票面利率创20年以来最高】 &nbsp;&nbsp; 财联社",
    "srcs": [
     {
      "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1reDZUQXc3ZmRSUHp2OFZrSWIyRlhtYVBnSXNaY2tRZ1NJN1d2QzVkZm1GM0xGLURUT1FGckZKbUZvYjJ2bkx5NA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wOWNwbnJDdDE0UVZtdHJ4R0RxSkVCVVFWaUNrc0RMVm1zSnl3R2dtVkdLcFo1WGFYWVY4SGdXTHRFbVhISGN3dA?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 8.0
+   "heat": 12.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-09 14:43",
+   "title": "China’s Factory-Gate Inflation Hits Highest in More Than Four Years",
+   "summary": "China’s Factory-Gate Inflation Hits Highest in More Than Four Years &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXROWWlyLU4xeDFlUWRqX2U4cVNuTU9oZzR3aTVRMXc5bXVVV3F3RkZ0UXZZNmlpb0pzandyQzdwN29qc2pvNG81QjY0WnZuRmhRMWdzYkw2cW0tcXEyTnhENjhpXzFpRDdkbjc0ODZDcWR6cXE5Skt1dWR3Z0YzcXJuM2s4TUxwTVlrS3lSRzQzWXhWN2xGS2hhdldxQ2xLb2RlVVFUX2xrcGRFdDFMQmM0eWFnM0dWNzRIdDFn?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 12.0
   },
   {
    "cat": "sector",
@@ -223,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 291.9
+   "heat": 287.0
   },
   {
    "cat": "sector",
@@ -237,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 291.4
+   "heat": 286.5
   },
   {
    "cat": "sector",
@@ -251,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 291.3
+   "heat": 286.5
   },
   {
    "cat": "sector",
@@ -265,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 291.1
+   "heat": 286.3
   },
   {
    "cat": "sector",
@@ -279,7 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 290.9
+   "heat": 286.1
   },
   {
    "cat": "sector",
@@ -293,21 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 290.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-14 07:07",
-   "title": "Bessent Hits Lutnick on Nvidia Affair: Evening Briefing Americas",
-   "summary": "Get caught up.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-11-13/bessent-hits-lutnick-on-nvidia-affair-evening-briefing-americas",
-     "t": "sec"
-    }
-   ],
-   "heat": 288.6
+   "heat": 286.0
   },
   {
    "cat": "sector",
@@ -321,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 284.0
+   "heat": 280.0
   },
   {
    "cat": "sector",
@@ -335,7 +321,7 @@
      "t": "sec"
     }
    ],
-   "heat": 284.0
+   "heat": 280.0
   },
   {
    "cat": "sector",
@@ -349,7 +335,7 @@
      "t": "sec"
     }
    ],
-   "heat": 284.0
+   "heat": 280.0
   },
   {
    "cat": "sector",
@@ -363,11 +349,11 @@
      "t": "sec"
     }
    ],
-   "heat": 284.0
+   "heat": 280.0
   },
   {
    "cat": "sector",
-   "time": "2026-11-15 02:32",
+   "time": "2026-11-15 07:21",
    "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
    "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
    "srcs": [
@@ -377,7 +363,7 @@
      "t": "sec"
     }
    ],
-   "heat": 259.8
+   "heat": 255.8
   },
   {
    "cat": "sector",
@@ -391,7 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 259.7
+   "heat": 254.9
   },
   {
    "cat": "sector",
@@ -405,7 +391,7 @@
      "t": "sec"
     }
    ],
-   "heat": 259.6
+   "heat": 254.8
   },
   {
    "cat": "sector",
@@ -419,7 +405,21 @@
      "t": "sec"
     }
    ],
-   "heat": 259.4
+   "heat": 254.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-15 00:00",
+   "title": "Paper Makers Are Starting to Crumple as Rising Costs Bite",
+   "summary": "The conflict in the middle East and Russia’s invasion of Ukraine have led to higher material costs for the sector",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-11-14/paper-makers-are-starting-to-crumple-as-rising-costs-bite",
+     "t": "sec"
+    }
+   ],
+   "heat": 254.6
   },
   {
    "cat": "stock",
@@ -433,35 +433,21 @@
      "t": "sec"
     }
    ],
-   "heat": 100.0
+   "heat": 96.0
   },
   {
    "cat": "stock",
-   "time": "2026-11-14 18:16",
-   "title": "Goldman Sachs Sees 19% Return on Asia ex-Japan Stocks in 2027",
-   "summary": "Goldman Sachs expects earnings growth to drive a 19% return for the MSCI Asia ex-Japan Index in dollar terms next year, even as it warned that uncertainty over artificial intellige…",
+   "time": "2026-11-15 05:31",
+   "title": "American Express vs. S&P Global: Which Financial Stock Is a Better Buy for 2027? - The Motley Fool",
+   "summary": "American Express vs. S&P Global: Which Financial Stock Is a Better Buy for 2027? &nbsp;&nbsp; The Motley Fool",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-14/goldman-sachs-sees-19-return-on-asia-ex-japan-stocks-in-2027",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcHdpVV9mQUFEQ1hlY3BkZl8ySFhxZ2d1QXQwSE4taTY3MHhOa2FydjhTdG9yUnp0Tjd6QjRGSTNsUGY4VUIwelU2cG9QVklhRVBMY3pCZVdoOVZfV0ZEMmhwZ2dQSTdSLTdCckhxaWNYeXl1NUdRTFVpOUhOb0ZIZmlnTTBWemlycUhOQ1BWbERfTXdPc05VaU9WR21HcXFUeF9ROWFMelk5TXBKQk80YUlhUG1aRXR4aHRGbDlOZU1FRENsUEw2Uw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 94.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-14 19:31",
-   "title": "Comstock Holding director David Hirsh buys $23,911 in shares",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/comstock-holding-director-david-hirsh-buys-23911-in-shares-93CH-5027483",
-     "t": "agg"
-    }
-   ],
-   "heat": 88.6
+   "heat": 75.5
   },
   {
    "cat": "stock",
@@ -475,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.1
+   "heat": 74.3
   },
   {
    "cat": "stock",
@@ -489,7 +475,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.1
+   "heat": 74.3
   },
   {
    "cat": "stock",
@@ -503,63 +489,63 @@
      "t": "sec"
     }
    ],
-   "heat": 79.1
+   "heat": 74.2
   },
   {
    "cat": "stock",
-   "time": "2026-11-14 19:15",
-   "title": "CNA Financial chairman and CEO Worman sells $1.92 million in stock",
+   "time": "2026-11-15 00:01",
+   "title": "Intuitive Surgical EVP sells $183,260 in company stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/cna-financial-chairman-and-ceo-worman-sells-192-million-in-stock-93CH-5027476",
+     "u": "https://www.investing.com/news/insider-trading-news/intuitive-surgical-evp-sells-183260-in-company-stock-93CH-5027587",
      "t": "agg"
     }
    ],
-   "heat": 76.6
+   "heat": 72.6
   },
   {
    "cat": "stock",
-   "time": "2026-11-14 19:01",
-   "title": "Flexsteel chief growth officer David Crimmins sells $443,290 in stock",
+   "time": "2026-11-14 23:45",
+   "title": "Sei Investments director William Doran sells $882,400 in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/flexsteel-chief-growth-officer-david-crimmins-sells-443290-in-stock-93CH-5027472",
+     "u": "https://www.investing.com/news/insider-trading-news/sei-investments-director-william-doran-sells-882400-in-stock-93CH-5027580",
      "t": "agg"
     }
    ],
-   "heat": 76.6
+   "heat": 72.5
   },
   {
    "cat": "stock",
-   "time": "2026-11-14 18:46",
-   "title": "Teledyne Technologies senior vp sells $2.97 million in stock",
+   "time": "2026-11-14 23:16",
+   "title": "Donegal Mutual Insurance Co buys $424,497 in Donegal Group stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/teledyne-technologies-senior-vp-sells-297-million-in-stock-93CH-5027466",
+     "u": "https://www.investing.com/news/insider-trading-news/donegal-mutual-insurance-co-buys-424497-in-donegal-group-stock-93CH-5027567",
      "t": "agg"
     }
    ],
-   "heat": 76.5
+   "heat": 72.4
   },
   {
    "cat": "stock",
-   "time": "2026-11-14 18:31",
-   "title": "Hasbro EVP & CFO Gina Goetter sells $343,754 in company stock",
+   "time": "2026-11-14 23:15",
+   "title": "Donegal Group sr. vp Altshuler sells $114,043 in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/hasbro-evp--cfo-gina-goetter-sells-343754-in-company-stock-93CH-5027460",
+     "u": "https://www.investing.com/news/insider-trading-news/donegal-group-sr-vp-altshuler-sells-114043-in-stock-93CH-5027566",
      "t": "agg"
     }
    ],
-   "heat": 76.5
+   "heat": 72.4
   },
   {
    "cat": "stock",
@@ -573,7 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.5
+   "heat": 71.7
   },
   {
    "cat": "stock",
@@ -587,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 76.4
+   "heat": 71.6
   },
   {
    "cat": "stock",
@@ -601,7 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 72.4
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -615,7 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 72.0
+   "heat": 68.0
   },
   {
    "cat": "stock",
@@ -629,7 +615,21 @@
      "t": "sec"
     }
    ],
-   "heat": 72.0
+   "heat": 68.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-11 21:36",
+   "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Rise as Bessent Urges US-China to ‘De-Risk’— A - Benzinga",
+   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Rise as Bessent Urges US-China to ‘De-Risk’— A &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYkJFcDVVbFNSUlBST0JSNHFlcmNkOUJoM3U4aDNmRmw1R2l6OVlJV2lBZW5SRy1WSDZ3bWFrVENSYkdIRFZRUndsVnMtS1dqVDlFV3VIRmpVTnNfUS0yaEtqc1Jxd2oyalR0Nm5ybUpIT0VWNE1GSENMM0NkbG9uMkdtQ0t4REVvWndQRDBpQWhIQmNIbEJBSUxDVThrbHpXc1Q5ZDhaQWR6SDNnVkxFWFRYYVhqVWR4VS1ubWZwYTdGd2pXbEpmV1FhaExuNjdueXJSUjJSSnJjQ0pibnZzQmhVSThfWWktdVFGYkFFRmdFQUh3TUtrRQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 68.0
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 32.1
+   "heat": 31.3
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.6
+   "heat": 26.7
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "agg"
     }
    ],
-   "heat": 25.8
+   "heat": 25.0
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "agg"
     }
    ],
-   "heat": 25.7
+   "heat": 24.9
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "agg"
     }
    ],
-   "heat": 25.4
+   "heat": 24.5
   },
   {
    "cat": "global",
@@ -713,21 +713,7 @@
      "t": "agg"
     }
    ],
-   "heat": 24.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-13 16:16",
-   "title": "Don’t Mess With The US Dollar Near Term",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/dont-mess-with-the-us-dollar-near-term-200691510",
-     "t": "agg"
-    }
-   ],
-   "heat": 12.1
+   "heat": 23.4
   },
   {
    "cat": "global",
@@ -745,6 +731,34 @@
   },
   {
    "cat": "global",
+   "time": "2026-11-13 16:16",
+   "title": "Don’t Mess With The US Dollar Near Term",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/dont-mess-with-the-us-dollar-near-term-200691510",
+     "t": "agg"
+    }
+   ],
+   "heat": 11.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-14 18:05",
+   "title": "18:05:09【何立峰出席亚太经合组织工商咨询理事会第四次会议开幕式并致辞】",
+   "summary": "18:05:09【何立峰出席亚太经合组织工商咨询理事会第四次会议开幕式并致辞】 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LOHlTU1lTZU90OXRXREF2WGUzcV9fX2V3UDBkRWUxakxzWGVzX2Ytc01hQ1dsLUpINXlpdXFtcjk0VktwTXU4dA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 9.6
+  },
+  {
+   "cat": "global",
    "time": "2026-11-13 21:36",
    "title": "Oil Imports to Asia Rebound as Gulf Discounts Outweigh Hormuz Risks",
    "summary": "",
@@ -755,21 +769,7 @@
      "t": "agg"
     }
    ],
-   "heat": 9.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-13 17:44",
-   "title": "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-prices-head-for-second-weekly-loss-despite-fresh-middle-east-attacks-200691518",
-     "t": "agg"
-    }
-   ],
-   "heat": 8.4
+   "heat": 8.2
   },
   {
    "cat": "global",
@@ -801,6 +801,20 @@
   },
   {
    "cat": "global",
+   "time": "2026-11-13 17:44",
+   "title": "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-prices-head-for-second-weekly-loss-despite-fresh-middle-east-attacks-200691518",
+     "t": "agg"
+    }
+   ],
+   "heat": 7.5
+  },
+  {
+   "cat": "global",
    "time": "2026-11-10 14:47",
    "title": "China Opens Onshore Forex Market to Overseas Yuan Clearing Banks",
    "summary": "China Opens Onshore Forex Market to Overseas Yuan Clearing Banks &nbsp;&nbsp; Caixin Global",
@@ -808,20 +822,6 @@
     {
      "n": "财新(Google聚合)",
      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVFJsa3VncS1mTkkzWjhBZ2wtRUl1ekxhZHBKT1pjWjBkV1lpQ25HQlprbzRWVFFpRDNSRnEzUUJ2UFU3MWdFNDFFTXFPdzhzWlVwcTloRTY4ZXBqR1pVaHVmVjJHNDREQ09qejFkRDZmOVVXSVQyd2FfTVA4MEs2TkFuWmgzUjhTaVdyUFNIQTdIdmhOMlZNWHpia05rblp1NXEwVUxTdVpGVEVxYkE4LWFVRDBZMHlTcUNJ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 4.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-09 14:32",
-   "title": "14:32:09 财联社11月9日电，夏普第二季度经营利润47.3亿日元，预估79.6亿日元。",
-   "summary": "14:32:09 财联社11月9日电，夏普第二季度经营利润47.3亿日元，预估79.6亿日元。 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2TVpkeTRLdDROdDFBX2dvd1R3djg5RlBwREswN19aRkhKdFVqWnR3QUZyNFNFcFB3SHZzLXBrQVhNZFpBVVNNLQ?oc=5",
      "t": "sec"
     }
    ],
@@ -839,7 +839,7 @@
      "t": "agg"
     }
    ],
-   "heat": 3.6
+   "heat": 2.8
   },
   {
    "cat": "crypto",
@@ -853,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 102.6
+   "heat": 101.8
   },
   {
    "cat": "crypto",
@@ -867,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.9
+   "heat": 94.1
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.3
+   "heat": 90.5
   },
   {
    "cat": "crypto",
@@ -895,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 91.2
+   "heat": 90.4
   },
   {
    "cat": "crypto",
@@ -909,12 +909,12 @@
      "t": "sec"
     }
    ],
-   "heat": 89.8
+   "heat": 89.0
   },
   {
    "cat": "crypto",
    "time": "2026-11-15 00:33",
-   "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+   "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
    "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
    "srcs": [
     {
@@ -923,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.5
+   "heat": 86.7
   },
   {
    "cat": "crypto",
@@ -937,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 87.3
+   "heat": 86.5
   },
   {
    "cat": "crypto",
@@ -951,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 86.9
+   "heat": 86.1
   },
   {
    "cat": "crypto",
@@ -965,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.6
+   "heat": 83.8
   },
   {
    "cat": "crypto",
@@ -979,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.4
+   "heat": 83.5
   },
   {
    "cat": "crypto",
@@ -993,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.2
+   "heat": 83.4
   },
   {
    "cat": "crypto",
@@ -1007,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 84.1
+   "heat": 83.2
   },
   {
    "cat": "crypto",
@@ -1021,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.8
+   "heat": 83.0
   },
   {
    "cat": "crypto",
@@ -1035,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.8
+   "heat": 83.0
   },
   {
    "cat": "crypto",
@@ -1049,7 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.7
+   "heat": 82.9
   }
  ]
 }
