@@ -1,19 +1,103 @@
 {
- "updated": "2026-11-15 18:13",
+ "updated": "2026-11-16 02:18",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-11-15 02:48",
-   "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
-   "summary": "Despite the turbulence, the S&P 500 secured a weekly gain of 2.5%, while the tech-heavy Nasdaq added 2.3%.",
+   "time": "2026-11-16 00:53",
+   "title": "Nvidia Fallout, Next Mega IPO, FAA Router Failure",
+   "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-15/bloomberg-this-weekend-11-15-2026-video",
      "t": "sec"
     }
    ],
-   "heat": 265.4
+   "heat": 283.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-16 00:32",
+   "title": "House Chairman Says Huang Agrees to Testify But No Date Set Yet",
+   "summary": "Ousted Nvidia Corp. chief executive officer Jensen Huang agreed to testify before lawmakers behind closed doors on his relationship with alleged Chinese spy Alice Huang, according …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-15/house-chairman-says-huang-agrees-to-testify-but-no-date-set-yet",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-15 23:53",
+   "title": "Airlines Play Catchup, Bessent: Nvidia Needs ‘Dramatic Shakeup’",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-15/airlines-play-catchup-bessent-nvidia-needs-dramatic-shakeup",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-15 23:26",
+   "title": "3 big things we're watching in the stock market in the week ahead",
+   "summary": "Nvidia and Anthropic will share the spotlight in a pivotal week for the AI trade.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/investingclub/2026/11/15/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-15 23:16",
+   "title": "Bessent Says Nvidia Needs ‘Dramatic Shakeup’ With Huang Out",
+   "summary": "Treasury Secretary Scott Bessent said that Nvidia Corp. needs a “dramatic shakeup” in leadership after the ouster of Chief Executive Officer Jensen Huang.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-15 23:00",
+   "title": "Traders Turn to Kalshi Stock ‘Perps’ on Nvidia and SpaceX as Leverage Fears Grow",
+   "summary": "A new way for traders to place leveraged bets on stock prices is growing in popularity as questions around the outlook for AI following the US midterm elections spur demand for hed…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-15/traders-turn-to-kalshi-stock-perps-on-nvidia-and-spacex-as-leverage-fears-grow",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-15 22:48",
+   "title": "Nvidia Sought Taipei’s Help Over Employee’s Chip Smuggling Case",
+   "summary": "Nvidia Corp. appealed to Taiwanese officials after prosecutors on the island accused an employee of helping to smuggle AI chips into China, raising fresh questions about how the fi…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case",
+     "t": "sec"
+    }
+   ],
+   "heat": 283.4
   },
   {
    "cat": "sector",
@@ -27,49 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 264.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-14 23:36",
-   "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-   "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 264.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-14 22:30",
-   "title": "Bessent, Lutnick Clash Over Nvidia China Curbs",
-   "summary": "Axios AI policy reporter Maria Curi tells Bloomberg This Weekend about tensions inside the Trump administration over efforts to restrict the flow of advanced Nvidia chips to China …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 264.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-14 21:03",
-   "title": "“Bigger Than a Business Story”: Nvidia Shakeup",
-   "summary": "At the end of a week that saw revelations of ousted Nvidia CEO Jensen Huang’s alleged affairs with employees and a suspected Chinese spy, Centerview Partners Senior Counselor Richa…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-14/-bigger-than-a-business-story-nvidia-shakeup-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 264.5
+   "heat": 279.6
   },
   {
    "cat": "sector",
@@ -83,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 260.0
+   "heat": 276.0
   },
   {
    "cat": "sector",
@@ -97,49 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 260.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-10 18:30",
-   "title": "In Depth: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager",
-   "summary": "In Depth: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaDd4cHRGM0h5aTBCMXNkUmRiNEtMdktlR2JXVkx5Zzlkb3ozMGtBTGExTmFNbW1SSVdjbTloTV9VWEU2OEVDMlpYVmQ2TVh4NEpJalZhbVgtX1g5WVcwLTNlYnViOUljYW5LMVA1dGRuZHlwaDlkcWliRzl1aWttc2hQYkVZU2h1UklHaG5XMnVLdHBGUG95ZERSTU0zRG9OZlFQOFBCM25HLUdmMjZJMDdjNXpYekhPOGlqdmRBeVBXNWljZXk4cU9yNnlQZzRDNlp3WXd2cWJSOUtSQ0M3NEpn?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 260.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-10 14:55",
-   "title": "In Depth: CEO’s Affair Pulls Nvidia Deeper Into the U.S.-China Chip Fight",
-   "summary": "In Depth: CEO’s Affair Pulls Nvidia Deeper Into the U.S.-China Chip Fight &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnNlYTFkLU1lVXJkMmc0NldSRVBPNmpZQ2REMHBNeDZFUjA2VlRGRXlfX29kTFZxY2wyVlFzM0ZpUTJOc0w0d2dXZ0ZNZDBuZENFdU9zSjNZY3c4UTlVaGljcXVDSXRNSWhqaEo0aUZpQjEzZ2tpSE1Ed25uQUVLNmk2a1VtZ0ZoQVdsN2lNcGJJRTNsZVE0dU5MQ0VjWFJxT2l0QWNOdDAwVFJrcXhqMFRpYy1udEU3LTlMTVJiTlVQQQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 260.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-10 05:43",
-   "title": "Who Is Alice Huang, the Former Megaspeed Executive Linked to Nvidia’s CEO?",
-   "summary": "Who Is Alice Huang, the Former Megaspeed Executive Linked to Nvidia’s CEO? &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNjY2NGFZa1gzN1A1Z3hrVzRNUVlmWmtKTUFmWE95NnRhZE0wV1lOQndYdUF0bWNRNVZ0eTJPLXdTX1BucFJQbGx3R283VGt5UWhIb0k3MzNWSWQzbE5LOWg2TldZcjNvQUdLendCOTUzdkFrRVdqcDFkcHI3QXROLWhmeEJoUi13a1lfTDBCalJuRHFkRmJMV1RrRjZNNXZ5Z25RVnVzY3hyWVNfNEQ1TnYtSkdGWXhqVFkyU0Y1MA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 260.0
+   "heat": 276.0
   }
  ]
 }
