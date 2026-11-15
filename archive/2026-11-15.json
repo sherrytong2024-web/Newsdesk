@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15 08:34",
+ "updated": "2026-11-15 18:13",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,21 @@
      "t": "sec"
     }
    ],
-   "heat": 43.2
+   "heat": 45.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-15 16:00",
+   "title": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+   "summary": "For weeks, European stocks have outshone other markets, pushing higher as AI ructions tripped up benchmarks elsewhere. Now, some investors and strategists say the rare stretch of o…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+     "t": "sec"
+    }
+   ],
+   "heat": 35.6
   },
   {
    "cat": "macro",
@@ -27,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 31.9
+   "heat": 34.3
   },
   {
    "cat": "macro",
@@ -41,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.9
+   "heat": 33.3
   },
   {
    "cat": "macro",
@@ -55,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 30.6
+   "heat": 33.0
   },
   {
    "cat": "macro",
@@ -69,7 +83,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.4
+   "heat": 29.8
   },
   {
    "cat": "macro",
@@ -83,21 +97,7 @@
      "t": "agg"
     }
    ],
-   "heat": 25.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-14 06:20",
-   "title": "S&P 500 Today: Stock Market Index Falls to 7,561.67 as Treasury Yields Top 5.1% and Chip Stocks Sink - BBN Times",
-   "summary": "S&P 500 Today: Stock Market Index Falls to 7,561.67 as Treasury Yields Top 5.1% and Chip Stocks Sink &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQWlib0tjQlFqTTlZU2paLTJqWURHZldVVHVON29TVl9IRTUwYmdERVB0emJ6dGJ3TWYzWTRkYVAzb2tqc2dIVGE4ZkhmLWpkYURjaDJiS29aQjE1YkN2eVBzZmpkWnpWNTN4TldWR3IxazRiVFkxRXlJY3BISUtiSFJoYXhmTEJURGpQUmNtbDRfSjg1cTJTMWpPN3hjcXF1UmlpNGNXMjVOTlQ1RTNxQS1XR3JzZ2loNmVxazZWNHVtNUROTTFoSTFpNGhsWUhYcUNUOQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 19.6
+   "heat": 27.7
   },
   {
    "cat": "macro",
@@ -111,21 +111,35 @@
      "t": "sec"
     }
    ],
-   "heat": 18.3
+   "heat": 20.7
   },
   {
    "cat": "macro",
-   "time": "2026-11-14 04:46",
-   "title": "Gold Breaks Below $4,000 as Rising Yields Redefine the Macro Trade",
-   "summary": "",
+   "time": "2026-11-14 17:06",
+   "title": "New Inflation Data Offers Terrible News for President Donald Trump's Economy and the AI-Driven Bull Market - The Motley ",
+   "summary": "New Inflation Data Offers Terrible News for President Donald Trump's Economy and the AI-Driven Bull Market &nbsp;&nbsp; The Motley Fool",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-breaks-below-4000-as-rising-yields-redefine-the-macro-trade-200691560",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaTI3LUt2NGFnSVBuTkx4aFNIcHRiN09hczRaQlR0SEU0TnVKbXQyUThZRHowQzBQSy1kYURNc2IzSk5DbEdZdnRFUFlNUHk1cjB6NDYwQkw1b3FEa054dmN2U1JITHVkUC1VWWlQOWc3di0zNnRtRUVKOTVyR21fMkd0Wm9OVjRLZFJadlN4SUNpYkIxV2tMTEw2bklHQi1EZU8xME93R0xoZ2N3S01hOFBFajhYVzZDWk1nVFlZTWtlTXhaRHp4SQ?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 17.4
+   "heat": 19.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-14 06:20",
+   "title": "S&P 500 Today: Stock Market Index Falls to 7,561.67 as Treasury Yields Top 5.1% and Chip Stocks Sink - BBN Times",
+   "summary": "S&P 500 Today: Stock Market Index Falls to 7,561.67 as Treasury Yields Top 5.1% and Chip Stocks Sink &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQWlib0tjQlFqTTlZU2paLTJqWURHZldVVHVON29TVl9IRTUwYmdERVB0emJ6dGJ3TWYzWTRkYVAzb2tqc2dIVGE4ZkhmLWpkYURjaDJiS29aQjE1YkN2eVBzZmpkWnpWNTN4TldWR3IxazRiVFkxRXlJY3BISUtiSFJoYXhmTEJURGpQUmNtbDRfSjg1cTJTMWpPN3hjcXF1UmlpNGNXMjVOTlQ1RTNxQS1XR3JzZ2loNmVxazZWNHVtNUROTTFoSTFpNGhsWUhYcUNUOQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 18.0
   },
   {
    "cat": "macro",
@@ -139,63 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 15.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-13 12:53",
-   "title": "AUD/USD Outlook: Historic Yield Squeeze Leaves Aussie Bears in Control",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/audusd-outlook-historic-yield-squeeze-leaves-aussie-bears-in-control-200691494",
-     "t": "agg"
-    }
-   ],
-   "heat": 14.7
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-13 21:02",
-   "title": "小心！美股“空军”正再度集结“利率敏感股”？",
-   "summary": "小心！美股“空军”正再度集结“利率敏感股”？ &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMbms0VW9nR0dqdmF1Qm1pZ256c2UtSUh0aG44cTR3N2RuNXM4Q2U3djRZWWE3QTdSYkZsc2NqVWM0eXBPMGtjNw?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 14.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-12 05:55",
-   "title": "年内最后一批储蓄国债“秒光”，有大行上线两分钟额度售罄，定存利率回升抢购潮未止",
-   "summary": "年内最后一批储蓄国债“秒光”，有大行上线两分钟额度售罄，定存利率回升抢购潮未止 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0TjVGLWdoMFU4WVRkOWFqY3MyaWJYN1BldGdRcW9BZzZxUFhVTzVtSDR6dWdGdFExbm9LeUYtalFscTVsNm9vbg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 12.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-11 02:33",
-   "title": "02:33:59【10年期美债发行认购需求不及预期 尽管票面利率创20年以来最高】",
-   "summary": "02:33:59【10年期美债发行认购需求不及预期 尽管票面利率创20年以来最高】 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wOWNwbnJDdDE0UVZtdHJ4R0RxSkVCVVFWaUNrc0RMVm1zSnl3R2dtVkdLcFo1WGFYWVY4SGdXTHRFbVhISGN3dA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 12.0
+   "heat": 17.9
   },
   {
    "cat": "macro",
@@ -209,7 +167,49 @@
      "t": "sec"
     }
    ],
-   "heat": 12.0
+   "heat": 16.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-14 04:46",
+   "title": "Gold Breaks Below $4,000 as Rising Yields Redefine the Macro Trade",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-breaks-below-4000-as-rising-yields-redefine-the-macro-trade-200691560",
+     "t": "agg"
+    }
+   ],
+   "heat": 15.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-13 12:53",
+   "title": "AUD/USD Outlook: Historic Yield Squeeze Leaves Aussie Bears in Control",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/audusd-outlook-historic-yield-squeeze-leaves-aussie-bears-in-control-200691494",
+     "t": "agg"
+    }
+   ],
+   "heat": 14.0
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-13 21:02",
+   "title": "小心！美股“空军”正再度集结“利率敏感股”？",
+   "summary": "小心！美股“空军”正再度集结“利率敏感股”？ &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMbms0VW9nR0dqdmF1Qm1pZ256c2UtSUh0aG44cTR3N2RuNXM4Q2U3djRZWWE3QTdSYkZsc2NqVWM0eXBPMGtjNw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 12.5
   },
   {
    "cat": "sector",
@@ -223,7 +223,7 @@
      "t": "sec"
     }
    ],
-   "heat": 287.0
+   "heat": 265.4
   },
   {
    "cat": "sector",
@@ -237,7 +237,7 @@
      "t": "sec"
     }
    ],
-   "heat": 286.5
+   "heat": 264.9
   },
   {
    "cat": "sector",
@@ -251,7 +251,7 @@
      "t": "sec"
     }
    ],
-   "heat": 286.5
+   "heat": 264.9
   },
   {
    "cat": "sector",
@@ -265,7 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 286.3
+   "heat": 264.7
   },
   {
    "cat": "sector",
@@ -279,21 +279,21 @@
      "t": "sec"
     }
    ],
-   "heat": 286.1
+   "heat": 264.5
   },
   {
    "cat": "sector",
-   "time": "2026-11-14 20:47",
-   "title": "Nvidia’s Leadership Shakeup Tests AI Chip Giant",
-   "summary": "Bloomberg senior technology and strategic industries editor Mike Shepard tells Bloomberg This Weekend that Nvidia’s appointment of longtime CFO Colette Kress as interim CEO may off…",
+   "time": "2026-11-13 15:36",
+   "title": "In Depth: How Alice Huang Built Megaspeed Into a Major Nvidia Customer",
+   "summary": "In Depth: How Alice Huang Built Megaspeed Into a Major Nvidia Customer &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-s-leadership-shakeup-tests-ai-chip-giant-video",
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkVyYmdQanY3akhGUkFqVHM5M2pJMWljR1BNNllvZ210NWF5QzhIb1VVNnZGX1gwVF9mODVXbmxPeWtBTENwZXRRR0xTaTBpb2pBaGpOZi04SFdTb1pXb3E1SHByemFBaFVCR2h2WHpGRkp4TmV6bEJqc0swWFhKdUxJR0tRcDVHVGNvUmx3OERQNEliWGhGZVo2SU1taF9zUlJvZFExTElFYjgxZkFqQV8zejZjMGROOVdnd1pNT3B6QQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 286.0
+   "heat": 260.0
   },
   {
    "cat": "sector",
@@ -307,7 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 280.0
+   "heat": 260.0
   },
   {
    "cat": "sector",
@@ -321,7 +321,21 @@
      "t": "sec"
     }
    ],
-   "heat": 280.0
+   "heat": 260.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-10 14:55",
+   "title": "In Depth: CEO’s Affair Pulls Nvidia Deeper Into the U.S.-China Chip Fight",
+   "summary": "In Depth: CEO’s Affair Pulls Nvidia Deeper Into the U.S.-China Chip Fight &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnNlYTFkLU1lVXJkMmc0NldSRVBPNmpZQ2REMHBNeDZFUjA2VlRGRXlfX29kTFZxY2wyVlFzM0ZpUTJOc0w0d2dXZ0ZNZDBuZENFdU9zSjNZY3c4UTlVaGljcXVDSXRNSWhqaEo0aUZpQjEzZ2tpSE1Ed25uQUVLNmk2a1VtZ0ZoQVdsN2lNcGJJRTNsZVE0dU5MQ0VjWFJxT2l0QWNOdDAwVFJrcXhqMFRpYy1udEU3LTlMTVJiTlVQQQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 260.0
   },
   {
    "cat": "sector",
@@ -335,7 +349,7 @@
      "t": "sec"
     }
    ],
-   "heat": 280.0
+   "heat": 260.0
   },
   {
    "cat": "sector",
@@ -349,77 +363,63 @@
      "t": "sec"
     }
    ],
-   "heat": 280.0
+   "heat": 260.0
   },
   {
    "cat": "sector",
-   "time": "2026-11-15 07:21",
-   "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
-   "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
+   "time": "2026-11-15 18:00",
+   "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
+   "summary": "The Bahraini military said its air defences had intercepted several Iranian aerial attacks before they reached their targets.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+     "u": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
      "t": "sec"
     }
    ],
-   "heat": 255.8
+   "heat": 244.0
   },
   {
    "cat": "sector",
-   "time": "2026-11-15 01:54",
-   "title": "FAA: Air Travel Should Recover Sunday, Ukraine Peace Offer, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-14/faa-air-travel-should-recover-sunday-ukraine-peace-offer-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 254.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-15 01:24",
-   "title": "Duffy Eyes Possible L3Harris ‘Incompetence’ in FAA Meltdown",
-   "summary": "Transportation Secretary Sean Duffy said Saturday that officials are looking into whether aerospace and defense contractor L3Harris Technologies Inc. was at fault for an aviation t…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-14/duffy-probing-possible-l3harris-incompetence-in-faa-meltdown",
-     "t": "sec"
-    }
-   ],
-   "heat": 254.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-15 00:17",
-   "title": "By The Way: Headlines You May Have Missed",
-   "summary": "Jensen Huang’s leather jacket, traders busting out fax machines during the Outlook outage, mega paydays for AI talent, and first-class Frontier tickets for $129: Join Lisa Mateo, D…",
+   "time": "2026-11-15 17:42",
+   "title": "China’s Yoozoo Gets $214 Million Flash-Memory Components Order",
+   "summary": "Chinese game developer Yoozoo Interactive Co. said one of its units received a 1.43 billion yuan ($214 million) order for flash-memory components, though it expects little impact o…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-14/by-the-way-headlines-you-may-have-missed-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-15/china-s-yoozoo-gets-214-million-flash-memory-components-order",
      "t": "sec"
     }
    ],
-   "heat": 254.6
+   "heat": 243.9
   },
   {
    "cat": "sector",
-   "time": "2026-11-15 00:00",
-   "title": "Paper Makers Are Starting to Crumple as Rising Costs Bite",
-   "summary": "The conflict in the middle East and Russia’s invasion of Ukraine have led to higher material costs for the sector",
+   "time": "2026-11-15 16:49",
+   "title": "Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating",
+   "summary": "South Korea’s top scorer in national tax accountant qualification exams admitted that he used generative artificial intelligence and electronic devices to cheat in the tests, and h…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-11-14/paper-makers-are-starting-to-crumple-as-rising-costs-bite",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-15/korea-s-top-scorer-in-tax-accountant-exam-admits-to-ai-cheating",
      "t": "sec"
     }
    ],
-   "heat": 254.6
+   "heat": 243.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-15 11:06",
+   "title": "Planes Collide at Miami Airport, Weeks After Deadly Amazon Crash",
+   "summary": "A Copa Airlines passenger jet and a UPS aircraft collided while taxiing at Miami International Airport, just weeks after a fatal cargo-plane crash highlighted concerns about air tr…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-15/copa-ups-planes-collide-on-miami-airport-tarmac-while-taxiing",
+     "t": "sec"
+    }
+   ],
+   "heat": 242.8
   },
   {
    "cat": "stock",
@@ -433,7 +433,7 @@
      "t": "sec"
     }
    ],
-   "heat": 96.0
+   "heat": 80.0
   },
   {
    "cat": "stock",
@@ -447,7 +447,7 @@
      "t": "sec"
     }
    ],
-   "heat": 75.5
+   "heat": 69.9
   },
   {
    "cat": "stock",
@@ -461,7 +461,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.3
+   "heat": 68.7
   },
   {
    "cat": "stock",
@@ -475,7 +475,63 @@
      "t": "sec"
     }
    ],
-   "heat": 74.3
+   "heat": 68.7
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-15 09:46",
+   "title": "EquipmentShare CEO Jabbok Schlacks buys $444,504 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/equipmentshare-ceo-jabbok-schlacks-buys-444504-in-stock-93CH-5027788",
+     "t": "agg"
+    }
+   ],
+   "heat": 68.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-15 09:46",
+   "title": "Datadog general counsel Kerry Acocella sells $1,208,327 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/datadog-general-counsel-kerry-acocella-sells-1208327-in-stock-93CH-5027787",
+     "t": "agg"
+    }
+   ],
+   "heat": 68.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-15 09:45",
+   "title": "Five Below CAO Specter sells $1,369,445 in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/five-below-cao-specter-sells-1369445-in-stock-93CH-5027786",
+     "t": "agg"
+    }
+   ],
+   "heat": 68.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-15 09:45",
+   "title": "Aaon director David Stewart buys $74,660 in company stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/aaon-director-david-stewart-buys-74660-in-company-stock-93CH-5027785",
+     "t": "agg"
+    }
+   ],
+   "heat": 68.6
   },
   {
    "cat": "stock",
@@ -489,63 +545,35 @@
      "t": "sec"
     }
    ],
-   "heat": 74.2
+   "heat": 68.6
   },
   {
    "cat": "stock",
-   "time": "2026-11-15 00:01",
-   "title": "Intuitive Surgical EVP sells $183,260 in company stock",
+   "time": "2026-11-15 09:31",
+   "title": "United Therapeutics CEO Martine Rothblatt sells $4.77M in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/intuitive-surgical-evp-sells-183260-in-company-stock-93CH-5027587",
+     "u": "https://www.investing.com/news/insider-trading-news/united-therapeutics-ceo-martine-rothblatt-sells-477m-in-stock-93CH-5027773",
      "t": "agg"
     }
    ],
-   "heat": 72.6
+   "heat": 68.5
   },
   {
    "cat": "stock",
-   "time": "2026-11-14 23:45",
-   "title": "Sei Investments director William Doran sells $882,400 in stock",
+   "time": "2026-11-15 09:16",
+   "title": "Rent the Runway director Dhiren Fonseca sells $48,680 in stock",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/sei-investments-director-william-doran-sells-882400-in-stock-93CH-5027580",
+     "u": "https://www.investing.com/news/insider-trading-news/rent-the-runway-director-dhiren-fonseca-sells-48680-in-stock-93CH-5027767",
      "t": "agg"
     }
    ],
-   "heat": 72.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-14 23:16",
-   "title": "Donegal Mutual Insurance Co buys $424,497 in Donegal Group stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/donegal-mutual-insurance-co-buys-424497-in-donegal-group-stock-93CH-5027567",
-     "t": "agg"
-    }
-   ],
-   "heat": 72.4
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-14 23:15",
-   "title": "Donegal Group sr. vp Altshuler sells $114,043 in stock",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/donegal-group-sr-vp-altshuler-sells-114043-in-stock-93CH-5027566",
-     "t": "agg"
-    }
-   ],
-   "heat": 72.4
+   "heat": 68.5
   },
   {
    "cat": "stock",
@@ -559,35 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 71.7
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-14 05:57",
-   "title": "Toronto Stock Exchange Today: S&P/TSX Composite Slips to 36,105.90 as Utilities and Telecoms Offset Tech and Base Metals",
-   "summary": "Toronto Stock Exchange Today: S&P/TSX Composite Slips to 36,105.90 as Utilities and Telecoms Offset Tech and Base Metals &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR2VnTmd1UFVDYk5VM2NLNmhFWFdUbUhHOUxkSlRhU2h4c05ZNFJWQzlHclkzRVQyYU42RU85YmFRM280dy1JemtsR3hBN1dBbGp3alV1T0Z2ZGE2cDJST0gyR3ZsMGtvQWNJUGJVWkk2LUhFRm9TeE5RRmtyQ0hCYnB3X1R4UGZFNG1zaWU0V0ZNdnoyZHNJbXN0ekdmeUw3TkU1TkJRYWdSdzRxcUdwWnRpUjF0ZFlXN3NwbEhDMGJaSFRpRkYwWDVieVBlcnoyZk8ycTlSOExSUEtVRW1QMjBpV1FJUjhuUF9EV1ljMEQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 71.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-13 06:10",
-   "title": "Toronto Stock Exchange: S&P/TSX Composite Falls to 36,137.19 as Gold, Base Metals and Banks Weigh - BBN Times",
-   "summary": "Toronto Stock Exchange: S&P/TSX Composite Falls to 36,137.19 as Gold, Base Metals and Banks Weigh &nbsp;&nbsp; BBN Times",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWkxrTWRXc0czeGNsNVBRNzhqVXFCSC1hMmphenh0cF9qTVRwZUxHUWxnZkZzbGZDZm95Q3dVcWtiMkN1UkNLek1xemtVeGpjb3FuY2pKclgwYTUxZUhVdGRaRFNtWDB2Nm9ZMHhsRlZsMEl4RzViWGpBZGxqdEtoejRmZWRhSUZWY3BINjRGNkFWNTk4ankzS3dlQ095bVdiVGxLUWtMS0dueW9Sa2ZQN3JKSkNUWEdkU3JNbUlLSTVCb202c3dGbzNGY0dJbG5Q?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 68.0
+   "heat": 66.1
   },
   {
    "cat": "stock",
@@ -601,7 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 64.0
   },
   {
    "cat": "stock",
@@ -615,21 +615,21 @@
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 64.0
   },
   {
    "cat": "stock",
-   "time": "2026-11-11 21:36",
-   "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Rise as Bessent Urges US-China to ‘De-Risk’— A - Benzinga",
-   "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Rise as Bessent Urges US-China to ‘De-Risk’— A &nbsp;&nbsp; Benzinga",
+   "time": "2026-11-10 20:45",
+   "title": "CME vs. S&P Global: Which Financial Stock Is a Better Buy for 2027? - The Motley Fool",
+   "summary": "CME vs. S&P Global: Which Financial Stock Is a Better Buy for 2027? &nbsp;&nbsp; The Motley Fool",
    "srcs": [
     {
      "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYkJFcDVVbFNSUlBST0JSNHFlcmNkOUJoM3U4aDNmRmw1R2l6OVlJV2lBZW5SRy1WSDZ3bWFrVENSYkdIRFZRUndsVnMtS1dqVDlFV3VIRmpVTnNfUS0yaEtqc1Jxd2oyalR0Nm5ybUpIT0VWNE1GSENMM0NkbG9uMkdtQ0t4REVvWndQRDBpQWhIQmNIbEJBSUxDVThrbHpXc1Q5ZDhaQWR6SDNnVkxFWFRYYVhqVWR4VS1ubWZwYTdGd2pXbEpmV1FhaExuNjdueXJSUjJSSnJjQ0pibnZzQmhVSThfWWktdVFGYkFFRmdFQUh3TUtrRQ?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckFYT1VRZjktQlhrR2tubjRXRExSR2t6Y1NzZDN3VXJibUZ6NFoxRUJlM2JvdWVFZWVQMVlObU9pVTRXaGRWZ2lORnRQcC13S1h0eFo5amEtOXRoUVJsWk56c0J0Mzk5OUEwdHJfMjBpdnROSzllZ19kUjJuSTZHZk5CSVBvbFdWQkZkdkdRa1hlbkFGX1lmbDFKSlR5QjZ3VzRDOURwcG14V3laYlVUX0lyTnpvN0E?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 68.0
+   "heat": 64.0
   },
   {
    "cat": "global",
@@ -643,7 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 31.3
+   "heat": 26.0
   },
   {
    "cat": "global",
@@ -657,7 +657,7 @@
      "t": "sec"
     }
    ],
-   "heat": 26.7
+   "heat": 25.1
   },
   {
    "cat": "global",
@@ -671,7 +671,7 @@
      "t": "agg"
     }
    ],
-   "heat": 25.0
+   "heat": 23.4
   },
   {
    "cat": "global",
@@ -685,7 +685,7 @@
      "t": "agg"
     }
    ],
-   "heat": 24.9
+   "heat": 23.3
   },
   {
    "cat": "global",
@@ -699,7 +699,7 @@
      "t": "agg"
     }
    ],
-   "heat": 24.5
+   "heat": 22.9
   },
   {
    "cat": "global",
@@ -713,35 +713,7 @@
      "t": "agg"
     }
    ],
-   "heat": 23.4
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-11 03:06",
-   "title": "S&P 500 And The Dollar: The Numbers Behind The Core CPI (SP500) - Seeking Alpha",
-   "summary": "S&P 500 And The Dollar: The Numbers Behind The Core CPI (SP500) &nbsp;&nbsp; Seeking Alpha",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa0JZb1NLazc5VXJGVVYzX19RdmI1VXQyNmNMQVhYc1ZFRmlwd0V1RloxNEZ5a1I5bEpyRlNxcHFCZEJvS0hnSW1ncFVNMnh4bFBGcERiRmZwS0NTcWk3UDNpdThKUnBkalZ5Y1RfSGV4VDlrTmhKODYyZzVxM3hKYWx4QzkzNkxvZXc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 12.0
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-13 16:16",
-   "title": "Don’t Mess With The US Dollar Near Term",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/dont-mess-with-the-us-dollar-near-term-200691510",
-     "t": "agg"
-    }
-   ],
-   "heat": 11.3
+   "heat": 22.0
   },
   {
    "cat": "global",
@@ -755,21 +727,7 @@
      "t": "sec"
     }
    ],
-   "heat": 9.6
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-13 21:36",
-   "title": "Oil Imports to Asia Rebound as Gulf Discounts Outweigh Hormuz Risks",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-imports-to-asia-rebound-as-gulf-discounts-outweigh-hormuz-risks-200691529",
-     "t": "agg"
-    }
-   ],
-   "heat": 8.2
+   "heat": 8.0
   },
   {
    "cat": "global",
@@ -801,6 +759,20 @@
   },
   {
    "cat": "global",
+   "time": "2026-11-13 21:36",
+   "title": "Oil Imports to Asia Rebound as Gulf Discounts Outweigh Hormuz Risks",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/oil-imports-to-asia-rebound-as-gulf-discounts-outweigh-hormuz-risks-200691529",
+     "t": "agg"
+    }
+   ],
+   "heat": 6.6
+  },
+  {
+   "cat": "global",
    "time": "2026-11-13 17:44",
    "title": "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks",
    "summary": "",
@@ -811,7 +783,21 @@
      "t": "agg"
     }
    ],
-   "heat": 7.5
+   "heat": 6.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-13 16:16",
+   "title": "Don’t Mess With The US Dollar Near Term",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/dont-mess-with-the-us-dollar-near-term-200691510",
+     "t": "agg"
+    }
+   ],
+   "heat": 6.0
   },
   {
    "cat": "global",
@@ -839,7 +825,21 @@
      "t": "agg"
     }
    ],
-   "heat": 2.8
+   "heat": 2.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-13 02:11",
+   "title": "EUR/USD Near 1.1060 Exposes the Cost of Europe’s Energy Shock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/eurusd-near-11060-exposes-the-cost-of-europes-energy-shock-200691477",
+     "t": "agg"
+    }
+   ],
+   "heat": 2.0
   },
   {
    "cat": "crypto",
@@ -853,21 +853,21 @@
      "t": "sec"
     }
    ],
-   "heat": 101.8
+   "heat": 104.2
   },
   {
    "cat": "crypto",
-   "time": "2026-11-14 20:57",
-   "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-   "summary": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility.",
+   "time": "2026-11-15 13:10",
+   "title": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+   "summary": "Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest level…",
    "srcs": [
     {
-     "n": "CoinDesk(加密货币)",
-     "u": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
      "t": "sec"
     }
    ],
-   "heat": 94.1
+   "heat": 99.2
   },
   {
    "cat": "crypto",
@@ -881,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 90.5
+   "heat": 92.9
   },
   {
    "cat": "crypto",
@@ -895,7 +895,21 @@
      "t": "sec"
     }
    ],
-   "heat": 90.4
+   "heat": 92.8
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-14 20:57",
+   "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
+   "summary": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+     "t": "sec"
+    }
+   ],
+   "heat": 92.5
   },
   {
    "cat": "crypto",
@@ -909,12 +923,12 @@
      "t": "sec"
     }
    ],
-   "heat": 89.0
+   "heat": 87.4
   },
   {
    "cat": "crypto",
    "time": "2026-11-15 00:33",
-   "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+   "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
    "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
    "srcs": [
     {
@@ -923,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 86.7
+   "heat": 85.1
   },
   {
    "cat": "crypto",
@@ -937,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 86.5
+   "heat": 84.9
   },
   {
    "cat": "crypto",
@@ -951,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 86.1
+   "heat": 84.5
   },
   {
    "cat": "crypto",
@@ -965,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.8
+   "heat": 82.2
   },
   {
    "cat": "crypto",
@@ -979,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.5
+   "heat": 81.9
   },
   {
    "cat": "crypto",
@@ -993,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.4
+   "heat": 81.8
   },
   {
    "cat": "crypto",
@@ -1007,7 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.2
+   "heat": 81.6
   },
   {
    "cat": "crypto",
@@ -1021,7 +1035,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.0
+   "heat": 81.4
   },
   {
    "cat": "crypto",
@@ -1035,21 +1049,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.0
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-14 02:00",
-   "title": "Why Private AI is More Important Than Ever",
-   "summary": "&#9654; Bitcoin Magazine Why Private AI is More Important Than Ever Mark Suman, co-founder and CEO of Maple AI, joins BMTV to talk about private AI built so that even its own team …",
-   "srcs": [
-    {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/videos/why-private-ai-is-more-important-than-ever",
-     "t": "sec"
-    }
-   ],
-   "heat": 82.9
+   "heat": 81.4
   }
  ]
 }
