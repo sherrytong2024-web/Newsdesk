@@ -1,61 +1,89 @@
 {
- "updated": "2026-11-17 05:28",
+ "updated": "2026-11-17 13:54",
  "items": [
   {
    "cat": "macro",
-   "time": "2026-11-17 04:36",
-   "title": "Uruguay Central Bank Keeps Interest Rate at 6%, Maintains Expansive Policy",
-   "summary": "Uruguay’s central bank held its benchmark interest rate unchanged at 6% on Monday, saying its decision to maintain an expansive monetary stance was consistent with keeping inflatio…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-16/uruguay-central-bank-holds-key-rate-at-6-says-policy-expansive",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-17 04:16",
-   "title": "ETF Market Saturated With Degen Products: Nadig",
-   "summary": "Dave Nadig, president & director of Research at ETF.com, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the slowdown in leveraged ETFs. (Source: Bloomber…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-16/etf-market-saturated-with-degen-products-nadig-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 43.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-17 03:06",
-   "title": "Prediction market odds for Tesla-SpaceX merger by April 2027 top 60%",
-   "summary": "The odds have climbed to 62% from 27% since Thursday, amid growing speculation that Musk's two companies will integrate.",
+   "time": "2026-11-17 08:42",
+   "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+   "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/16/prediction-market-odds-for-tesla-spacex-merger-by-april-2027-top-60percent.html",
+     "u": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
      "t": "sec"
     }
    ],
-   "heat": 43.6
+   "heat": 59.1
   },
   {
    "cat": "macro",
-   "time": "2026-11-17 01:41",
-   "title": "Lula Worries Slam Brazil Markets From Real to Corporate Bonds",
-   "summary": "Brazilian assets slumped on Monday, with the real touching its lowest level since April 2025, as mounting doubts over the government’s fiscal plans fueled expectations that interes…",
+   "time": "2026-11-17 13:00",
+   "title": "Hungary Is Set to Hold Rates as Global Risks Support Caution",
+   "summary": "Hungary is set to leave interest rates steady for a third month as central bankers assess an uptick in inflation against the backdrop of higher borrowing costs across the world.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-16/lula-worries-slam-brazil-markets-from-real-to-corporate-bonds",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-17/hungary-is-set-to-hold-rates-as-global-risks-support-caution",
      "t": "sec"
     }
    ],
-   "heat": 43.4
+   "heat": 51.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-17 07:26",
+   "title": "Gold Rises From 14-Month Low as Dip Buyers Offset Rate-Hike Bets",
+   "summary": "Gold edged higher — after its lowest close since September 2025 — as dip buyers brought some relief from stubborn US inflation and a selloff in technology stocks.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
+     "t": "sec"
+    }
+   ],
+   "heat": 50.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-17 13:15",
+   "title": "Wetherspoon Founder Risks AGM Revolt Over Missed Board Meetings",
+   "summary": "JD Wetherspoon Plc founder Tim Martin faces another clash with shareholders over corporate governance at the UK pub chain, after a proxy adviser recommended voting against his re-e…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-17/wetherspoon-founder-tim-martin-risks-agm-revolt-over-missed-board-meetings",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-17 12:44",
+   "title": "China's AI² Robotics On Business Strategy",
+   "summary": "Guo Yandong, Founder and CEO at AI² Robotics, discusses his outlook on innovation in China's humanoid technology sector with Stephen Engle on the sidelines of the APEC meetings in …",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-17/china-s-ai-robotics-on-business-strategy-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-17 07:06",
+   "title": "Anthropic Faces a Longer Wait Than SpaceX to Join Stock Indexes",
+   "summary": "Anthropic’s planned initial public offering could generate billions of dollars in demand from index-tracking funds, though the artificial intelligence startup may have to wait long…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-16/anthropic-faces-a-longer-wait-than-spacex-to-join-stock-indexes",
+     "t": "sec"
+    }
+   ],
+   "heat": 46.9
   },
   {
    "cat": "macro",
@@ -69,21 +97,7 @@
      "t": "agg"
     }
    ],
-   "heat": 39.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-15 20:00",
-   "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-   "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 38.4
+   "heat": 42.0
   },
   {
    "cat": "macro",
@@ -97,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 40.0
   },
   {
    "cat": "macro",
@@ -111,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 36.0
+   "heat": 40.0
   },
   {
    "cat": "macro",
@@ -125,7 +139,7 @@
      "t": "agg"
     }
    ],
-   "heat": 34.0
+   "heat": 38.0
   },
   {
    "cat": "macro",
@@ -139,35 +153,7 @@
      "t": "sec"
     }
    ],
-   "heat": 27.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-16 23:56",
-   "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
-   "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 27.1
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-16 22:36",
-   "title": "Trump Rejected by Supreme Court in Bid to End ‘DEI’ Grants",
-   "summary": "The US Supreme Court dealt President Donald Trump a setback in his drive to cancel billions of dollars in federal grants, leaving intact a ruling that the administration was probab…",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-16/trump-rejected-by-supreme-court-in-bid-to-cut-off-dei-grants",
-     "t": "sec"
-    }
-   ],
-   "heat": 26.9
+   "heat": 22.1
   },
   {
    "cat": "macro",
@@ -181,7 +167,21 @@
      "t": "agg"
     }
    ],
-   "heat": 25.5
+   "heat": 20.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-17 10:24",
+   "title": "New Zealand Inflation Expectations Remain Anchored Above 2%",
+   "summary": "New Zealand’s long-term inflation expectations eased in the fourth quarter, adding to signs that a fresh wave of higher fuel prices is not becoming embedded in the economy.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-inflation-expectations-remain-anchored-above-2",
+     "t": "sec"
+    }
+   ],
+   "heat": 19.4
   },
   {
    "cat": "macro",
@@ -195,105 +195,35 @@
      "t": "agg"
     }
    ],
-   "heat": 24.8
+   "heat": 19.4
   },
   {
    "cat": "macro",
-   "time": "2026-11-17 03:45",
-   "title": "Tradeweb Is Rolling Out AI Assistant for US Treasury Traders",
-   "summary": "Tradeweb Markets Inc. is launching an AI-powered assistant for government bond traders, as electronic-trading venues race to make artificial intelligence a central feature of their…",
+   "time": "2026-11-17 02:34",
+   "title": "Gold Selloff Shows How Rising Real Yields Can Overwhelm Haven Demand",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-16/tradeweb-is-rolling-out-ai-assistant-for-us-treasury-traders",
-     "t": "sec"
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-selloff-shows-how-rising-real-yields-can-overwhelm-haven-demand-200691680",
+     "t": "agg"
     }
    ],
-   "heat": 15.7
+   "heat": 8.1
   },
   {
    "cat": "sector",
-   "time": "2026-11-17 03:31",
-   "title": "What to Watch for in Nvidia Earnings",
-   "summary": "Nvidia is about to report earnings without Jensen Huang at the helm of the chipmaker. Colette Kress, the interim CEO will lead the call and certainly face questions about what dire…",
+   "time": "2026-11-17 12:32",
+   "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+   "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Haidi Stroud-Watts and Paul…",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-16/what-to-watch-for-in-nvidia-earnings-video",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-17/the-asia-trade-11-17-2026-video",
      "t": "sec"
     }
    ],
-   "heat": 235.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-17 02:57",
-   "title": "Nvidia Fallout Adds New Tension to US-China AI Race",
-   "summary": "The US-China technology rivalry is in focus as President Trump travels to China for talks with Xi Jinping, with AI chips, export controls and rare earths among the key issues shapi…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-fallout-adds-new-tension-to-us-china-ai-race-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-16 20:13",
-   "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
-   "summary": "Commerce Secretary Howard Lutnick has drawn fire for his close relationship with Nvidia CEO Jensen Huang and the department's treatment of the company.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 234.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-17 03:04",
-   "title": "Tusk: Jensen Huang Should Not Return as Nvidia CEO",
-   "summary": "Tusk Ventures co-founder Bradley Tusk says Congress should examine the relationships between Nvidia’s former leadership and the Trump administration as questions remain over China,…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-16/tusk-jensen-huang-should-not-return-as-nvidia-ceo-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-17 02:55",
-   "title": "Nvidia Bull: AI Growth Story Remains Intact",
-   "summary": "I/O Fund CEO and lead tech analyst Beth Kindig says her long-term Nvidia bull case remains intact despite Jensen Huang’s departure, arguing the company could still reach a $20 tril…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-bull-ai-growth-story-remains-intact-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-17 02:55",
-   "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
-   "summary": "President Trump told reporters before departing for a trip to Asia that former Nvidia CEO Jensen Huang's affair did not put U.S. national security at risk.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.6
+   "heat": 243.8
   },
   {
    "cat": "sector",
@@ -307,7 +237,133 @@
      "t": "sec"
     }
    ],
-   "heat": 228.0
+   "heat": 236.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-17 12:23",
+   "title": "Impact of US Move to Curb Chip Access",
+   "summary": "Managing Editor for Asian Equities at Bloomberg News Lianting Tu says tighter access to chips could constrain AI model training in China and potentially slow sales growth for AI cl…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-17/impact-of-us-move-to-curb-chip-access-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-17 11:50",
+   "title": "China AI Star Sinks 85% From Peak as Chip Fears Hit Model Makers",
+   "summary": "Few stocks rode China’s artificial intelligence frenzy as spectacularly as model developer Z.AI Co. Now, its dramatic reversal is laying bare the vulnerabilities facing the country…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-17/china-ai-highflier-crashes-85-as-chip-fears-hit-model-makers",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-17 10:32",
+   "title": "More Volatility Forecast for AI as Nvidia Earnings Loom",
+   "summary": "Xi Qiao, UBS financial advisor and managing director, said Nvidia faces a particularly difficult backdrop ahead of earnings, including tougher U.S. export restrictions and concerns…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-17/more-volatility-forecast-for-ai-as-nvidia-earnings-loom-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-17 08:22",
+   "title": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
+   "summary": "Chinese artificial-intelligence stocks tumbled Tuesday after the US moved to further restrict access to advanced chips, with the country’s biggest hyperscalers and AI model develop…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-17 08:04",
+   "title": "Big Take: All Eyes on Anthropic’s IPO",
+   "summary": "Anthropic’s IPO this week will be a bellwether for competitors like OpenAI and a signal of the AI industry’s health in the wake of the Nvidia scandal. (Source: Bloomberg)",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-17/big-take-all-eyes-on-anthropic-s-ipo-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 235.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-17 07:23",
+   "title": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
+   "summary": "CNBC's Jim Cramer pushed back against fears that Nvidia's leadership shake-up could unravel the AI boom.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 234.9
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-17 06:37",
+   "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+   "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 234.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-17 05:30",
+   "title": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/economy-news/exclusivechina-taps-us-ai-models-to-train-homegrown-rivals-as-chip-curbs-bite-5031568",
+     "t": "agg"
+    }
+   ],
+   "heat": 232.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-17 05:30",
+   "title": "People react to US AI chip curbs that threaten data centre boom",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/people-react-to-us-ai-chip-curbs-that-threaten-data-centre-boom-5031675",
+     "t": "agg"
+    }
+   ],
+   "heat": 232.6
   },
   {
    "cat": "sector",
@@ -321,49 +377,7 @@
      "t": "sec"
     }
    ],
-   "heat": 224.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-11 09:00",
-   "title": "CX Daily: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager",
-   "summary": "CX Daily: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQVBBZmtMcExUWDYtS0xlNWNMQUJ4ZTJ0ajNRYjNfT1VGTG1pWl9UeXItOWRwVlctUzA3Rl9obVZtLUZEN2RRR3VTQjVzV0ZfZkZDbDNabDRDX01SZUFBaUZIR3Y4eUJmejFvLW5oVEt4Mk42YU4ta2gxREtkVVRSS05GcFp6Q3dvRnFpRDBpVm4zM2xnZkdvdmh2VjhIbEdLU1BldnREQjN6THJxdnVmYUo3WldZTzJYSy1qSjc3UHdQUzZiZVByb1Q0UFlDVUV4MTdYSg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 224.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-10 18:30",
-   "title": "In Depth: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager",
-   "summary": "In Depth: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaDd4cHRGM0h5aTBCMXNkUmRiNEtMdktlR2JXVkx5Zzlkb3ozMGtBTGExTmFNbW1SSVdjbTloTV9VWEU2OEVDMlpYVmQ2TVh4NEpJalZhbVgtX1g5WVcwLTNlYnViOUljYW5LMVA1dGRuZHlwaDlkcWliRzl1aWttc2hQYkVZU2h1UklHaG5XMnVLdHBGUG95ZERSTU0zRG9OZlFQOFBCM25HLUdmMjZJMDdjNXpYekhPOGlqdmRBeVBXNWljZXk4cU9yNnlQZzRDNlp3WXd2cWJSOUtSQ0M3NEpn?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 224.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-10 05:43",
-   "title": "Who Is Alice Huang, the Former Megaspeed Executive Linked to Nvidia’s CEO?",
-   "summary": "Who Is Alice Huang, the Former Megaspeed Executive Linked to Nvidia’s CEO? &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNjY2NGFZa1gzN1A1Z3hrVzRNUVlmWmtKTUFmWE95NnRhZE0wV1lOQndYdUF0bWNRNVZ0eTJPLXdTX1BucFJQbGx3R283VGt5UWhIb0k3MzNWSWQzbE5LOWg2TldZcjNvQUdLendCOTUzdkFrRVdqcDFkcHI3QXROLWhmeEJoUi13a1lfTDBCalJuRHFkRmJMV1RrRjZNNXZ5Z25RVnVzY3hyWVNfNEQ1TnYtSkdGWXhqVFkyU0Y1MA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 224.0
+   "heat": 228.0
   },
   {
    "cat": "sector",
@@ -377,91 +391,189 @@
      "t": "sec"
     }
    ],
-   "heat": 208.0
+   "heat": 228.0
   },
   {
    "cat": "sector",
-   "time": "2026-11-17 05:11",
-   "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-   "summary": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation.",
+   "time": "2026-11-11 09:00",
+   "title": "CX Daily: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager",
+   "summary": "CX Daily: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQVBBZmtMcExUWDYtS0xlNWNMQUJ4ZTJ0ajNRYjNfT1VGTG1pWl9UeXItOWRwVlctUzA3Rl9obVZtLUZEN2RRR3VTQjVzV0ZfZkZDbDNabDRDX01SZUFBaUZIR3Y4eUJmejFvLW5oVEt4Mk42YU4ta2gxREtkVVRSS05GcFp6Q3dvRnFpRDBpVm4zM2xnZkdvdmh2VjhIbEdLU1BldnREQjN6THJxdnVmYUo3WldZTzJYSy1qSjc3UHdQUzZiZVByb1Q0UFlDVUV4MTdYSg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 228.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-10 18:30",
+   "title": "In Depth: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager",
+   "summary": "In Depth: Chinese Woman Linked to Nvidia CEO Has Ties to Shady Shanghai Fund Manager &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaDd4cHRGM0h5aTBCMXNkUmRiNEtMdktlR2JXVkx5Zzlkb3ozMGtBTGExTmFNbW1SSVdjbTloTV9VWEU2OEVDMlpYVmQ2TVh4NEpJalZhbVgtX1g5WVcwLTNlYnViOUljYW5LMVA1dGRuZHlwaDlkcWliRzl1aWttc2hQYkVZU2h1UklHaG5XMnVLdHBGUG95ZERSTU0zRG9OZlFQOFBCM25HLUdmMjZJMDdjNXpYekhPOGlqdmRBeVBXNWljZXk4cU9yNnlQZzRDNlp3WXd2cWJSOUtSQ0M3NEpn?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 228.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-17 04:26",
+   "title": "Global Stocks Are Expected to Rally in 2027 Even as Earnings Growth Slows - Goldman Sachs",
+   "summary": "Global Stocks Are Expected to Rally in 2027 Even as Earnings Growth Slows &nbsp;&nbsp; Goldman Sachs",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVncwVWdFNkk4NnRjbENhTDQwWDlIMklGS19CWVNmM3RwbC11M2l4amROS3IyVG1SbXJUQWZwbWp4OWZjVjh5TWlaaWFaUG9tQWRuZVZPUHZDcU5CaVRHMzhLUS1RYjdkNTdkVml2a2xOandyT25fTTVUZHJhWjVGWkw0djNPMlpicE4xaUp6N3dsN3ZJVHNZNHl0bFZSR1NLU1N2WlU4WlZFWExhZ3JxWg?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 174.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-17 13:25",
+   "title": "Stock futures are mixed after Nvidia pressures tech to start the week: Live updates",
+   "summary": "Nvidia shares pulled back 4.1%, as traders dumped the chipmaker ahead of its fiscal third-quarter report, due Tuesday after the bell",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+     "u": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
      "t": "sec"
     }
    ],
-   "heat": 204.0
+   "heat": 159.9
   },
   {
-   "cat": "sector",
-   "time": "2026-11-17 05:05",
-   "title": "Braskem Creditors Shun Company’s Latest Offer, Discuss New Plan",
-   "summary": "Creditors of Braskem SA shunned the company’s latest proposal to restructure its debts, people familiar with the matter said, leaving the parties with few days to work out a deal a…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-16/braskem-creditors-shun-company-s-latest-offer-discuss-new-plan",
-     "t": "sec"
-    }
-   ],
-   "heat": 203.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-17 02:11",
-   "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
-   "summary": "Independent evaluators have taken on outsized importance following a series of high-profile AI safety and security incidents.",
+   "cat": "stock",
+   "time": "2026-11-17 07:05",
+   "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
+   "summary": "Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
+     "u": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
      "t": "sec"
     }
    ],
-   "heat": 203.5
+   "heat": 158.9
   },
   {
    "cat": "stock",
-   "time": "2026-11-16 06:11",
-   "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
-   "summary": "A selloff in technology stocks carried into a new week as Wall Street traders geared up for Nvidia Corp.’s high-stakes earnings and Anthropic PBC’s expected market debut in the com…",
+   "time": "2026-11-17 13:00",
+   "title": "Payward co-CEO says stock markets will move to 24/7 trading as tokenized equities grow",
+   "summary": "Payward co-CEO Dave Ripley joins Arjun Kharpal to discuss tokenized equities, stablecoins and why he believes traditional stock exchanges will eventually move to 24/7 trading. They…",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/video/2026/11/17/payward-ceo-dave-ripley-on-tokenized-stocks-and-247-trading.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 147.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-17 11:17",
+   "title": "Barclays Says Forced Retail Liquidation Behind Taiwan Stock Rout",
+   "summary": "Forced selling by retail investors was a main driver of Taiwanese stocks’ steep selloff on Monday, a trend that could extend and pressure the market further, according to Barclays …",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-says-forced-retail-liquidation-behind-taiwan-stock-rout",
      "t": "sec"
     }
    ],
-   "heat": 80.1
+   "heat": 147.6
   },
   {
    "cat": "stock",
-   "time": "2026-11-17 02:51",
-   "title": "Nasdaq 100 Tumbles for Third Day With Nvidia Earnings on Horizon",
-   "summary": "Tech stocks extended their slump on Monday as investors remained skittish around the AI trade ahead of Nvidia Corp. earnings and the expected initial public offering of Anthropic P…",
+   "time": "2026-11-17 10:39",
+   "title": "Global Funds Cautiously Increasing Exposure to India IT Stocks",
+   "summary": "Foreign long-only funds are gradually adding exposure after months of caution.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-11-17/global-funds-cautiously-increasing-exposure-to-india-it-stocks",
      "t": "sec"
     }
    ],
-   "heat": 71.6
+   "heat": 147.5
   },
   {
    "cat": "stock",
-   "time": "2026-11-17 05:26",
-   "title": "Stock Movers: Tyson, Molina, Nvidia (Podcast)",
+   "time": "2026-11-17 08:59",
+   "title": "Asia Stocks Track Losses, United Airlines Flights Resume, More",
    "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-16/stock-movers-tyson-molina-nvidia-podcast",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-17/asia-stocks-track-losses-united-airlines-flights-resume-more",
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 147.2
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-17 08:32",
+   "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+   "summary": "The Nasdaq Composite extended its decline to a third day as Nvidia sold off once more on Monday.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/16/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 147.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-17 07:01",
+   "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+   "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 146.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-17 07:00",
+   "title": "Why Did the Stock Market Fall Today? Nasdaq Slides 2.5% as AI Sell-Off Deepens - BBN Times",
+   "summary": "Why Did the Stock Market Fall Today? Nasdaq Slides 2.5% as AI Sell-Off Deepens &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWHZCSWI1NUtwc2VjbDVjcHFNUHJRVjJ1WEYyWk9TWHFmZmRBMGFaMDNXTXNJNElxVlBCQ2FGUDVocHFDdmNRbHdBVmpNaE1xSFlreFJFQ3pXMWdWcnBKbzFCYVpZRkQ5dzc5Tmp5WTUzTGtDekoyVHZVZTNjZjNoM0habmVfdjNYZXc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 146.8
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-17 05:57",
+   "title": "Stocks slide to kick off major week for Wall Street - CNN",
+   "summary": "Stocks slide to kick off major week for Wall Street &nbsp;&nbsp; CNN",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XNnJ2aVJmdnhfSDlwVHd6dU9kalV4cWo4dEN3NlViemFRTnNUeXZCMk1PSWh5NVhWSlVHWjVoMGJSWFp0eDB1eDlkbHdIbVp5VzdGdHdycUFDQmNLSllhNlRIcHY5bXJKRHJkNmxfX0o3WVdD?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 146.7
   },
   {
    "cat": "stock",
@@ -475,35 +587,7 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-17 05:19",
-   "title": "Stocks Close Lower, Chase Bank Access Issues, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-16/stocks-close-lower-chase-bank-access-issues-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 60.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-17 04:17",
-   "title": "Stock Movers: L3Harris, Tyson, Centene (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-16/stock-movers-l3harris-tyson-centene-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 59.8
+   "heat": 146.6
   },
   {
    "cat": "stock",
@@ -517,147 +601,35 @@
      "t": "sec"
     }
    ],
-   "heat": 59.7
+   "heat": 146.3
   },
   {
    "cat": "stock",
-   "time": "2026-11-16 21:21",
-   "title": "Mizuho initiates Invesco stock coverage with outperform rating",
-   "summary": "",
+   "time": "2026-11-17 03:22",
+   "title": "3 Financial Stocks to Buy and Hold That Turned $1,000 Into More Than $5,000 Over the Past Decade, Counting Dividends - Y",
+   "summary": "3 Financial Stocks to Buy and Hold That Turned $1,000 Into More Than $5,000 Over the Past Decade, Counting Dividends &nbsp;&nbsp; Yahoo Finance",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/mizuho-initiates-invesco-stock-coverage-with-outperform-rating-93CH-5030967",
-     "t": "agg"
-    }
-   ],
-   "heat": 56.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-16 21:20",
-   "title": "Texas Capital initiates Victory Capital stock with buy rating on M&A track record",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/texas-capital-initiates-victory-capital-stock-with-buy-rating-on-ma-track-record-93CH-5030966",
-     "t": "agg"
-    }
-   ],
-   "heat": 56.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-16 21:20",
-   "title": "Mizuho initiates Ares Management stock with outperform on credit strength",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/mizuho-initiates-ares-management-stock-with-outperform-on-credit-strength-93CH-5030965",
-     "t": "agg"
-    }
-   ],
-   "heat": 56.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-16 21:20",
-   "title": "Mizuho initiates KKR stock with outperform rating on fee growth",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/mizuho-initiates-kkr-stock-with-outperform-rating-on-fee-growth-93CH-5030964",
-     "t": "agg"
-    }
-   ],
-   "heat": 56.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-16 21:20",
-   "title": "Mizuho initiates TPG stock coverage with neutral rating on mix concerns",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/mizuho-initiates-tpg-stock-coverage-with-neutral-rating-on-mix-concerns-93CH-5030963",
-     "t": "agg"
-    }
-   ],
-   "heat": 56.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-16 21:20",
-   "title": "Mizuho initiates Blackstone stock coverage with outperform rating",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/analyst-ratings/mizuho-initiates-blackstone-stock-coverage-with-outperform-rating-93CH-5030962",
-     "t": "agg"
-    }
-   ],
-   "heat": 56.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-17 03:48",
-   "title": "ETF Launches Blow Past IPOs: Slavin",
-   "summary": "Ben Slavin, managing director, global head of ETFs at BNY, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss how ETF launches have surpassed IPOs and his fi…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-16/etf-launches-blow-past-ipos-slavin-video",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQREd6M3AweDFjYm1mTEpUYXFQOVBrNTRZV2czVWgteGQ0OVNoZmVPNHBGTFJkcjg1MjlvdXJMRGxWbGVDa0FVSWRFdnYtRWtJMFQtWC04aFpRNWp6VXFGbHl4X3JDbUVBQnh5RWlTWFZvUEltbTVSNThybVpHRC1HUVp0NnBocDJxaGI2bndYWmRoamFyTGJV?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 43.7
+   "heat": 146.2
   },
   {
    "cat": "stock",
-   "time": "2026-11-17 04:07",
-   "title": "Active Delivering Alpha In Bond Fund: Vanguard's Righi",
-   "summary": "Katy Righi, head of active fixed income product at Vanguard, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the Vanguard Emerging Markets Bond Active ETF…",
+   "time": "2026-11-17 03:03",
+   "title": "Morgan Stanley resets S&P 500 target for 2027 as tech stocks slide - TheStreet",
+   "summary": "Morgan Stanley resets S&P 500 target for 2027 as tech stocks slide &nbsp;&nbsp; TheStreet",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-16/active-delivering-alpha-in-bond-fund-vanguard-s-righi-video",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTJ5QU9Uczh0b1NwQlN2bmRGa2d1OWtNN1czcXJnUk5zMmVEYTAyanZRVjRHbjV2Qzg5R1pxNDltU2t5WTJiZ3kyUFU5NG50M1pVczVJT2JtdzY1V3RhMjRrdC1obk1PWFFjSlVxM1cxOEpTY3hjU3daMDhuTlYta05ZaVFfVVlvT1E?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 31.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-17 04:51",
-   "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-   "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-17 04:15",
-   "title": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs",
-   "summary": "It took gold just one month to climb more than 30% to a record, but its likely to take another two years before the precious metal takes out a new peak, according to Goldman Sachs.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-forecasts-gold-to-take-two-years-to-recapture-all-time-highs",
-     "t": "sec"
-    }
-   ],
-   "heat": 19.8
+   "heat": 146.2
   },
   {
    "cat": "global",
@@ -671,35 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 17.9
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-17 04:02",
-   "title": "Oil Surplus Risk Builds as IEA Sees Supply Outpacing Demand",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-surplus-risk-builds-as-iea-sees-supply-outpacing-demand-200691683",
-     "t": "agg"
-    }
-   ],
-   "heat": 17.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-16 15:23",
-   "title": "外交部谈中俄美元首会晤：具有开创性意义",
-   "summary": "外交部谈中俄美元首会晤：具有开创性意义 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUGRkQ2hiN0dlVlpRc3NQb1B1czJqejlweWdQQmxidks4TVdSdXp3ZEpqbHVQTDJsZy1TMTBKRnRtMEhqQ29JdA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 17.7
+   "heat": 20.5
   },
   {
    "cat": "global",
@@ -713,105 +657,91 @@
      "t": "agg"
     }
    ],
-   "heat": 17.4
+   "heat": 20.0
   },
   {
    "cat": "global",
-   "time": "2026-11-16 07:03",
-   "title": "Latest Oil Market News and Analysis for Nov. 16",
-   "summary": "Oil declined the most in roughly a week amid signs that the market for physical barrels is well supplied, even as tensions in the Middle East threaten to hamper exports from the re…",
+   "time": "2026-11-17 07:02",
+   "title": "Latest Oil Market News and Analysis for Nov. 17",
+   "summary": "Oil fell on signs supplies are outpacing demand, and as Vice President JD Vance signaled the US wants to avoid a prolonged war in Iran.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
      "t": "sec"
     }
    ],
-   "heat": 16.3
+   "heat": 18.9
   },
   {
    "cat": "global",
-   "time": "2026-11-17 05:03",
-   "title": "Robert Pattinson cast as next James Bond",
-   "summary": "Pattinson has been in major films this year, including Christopher Nolan's \"The Odyssey,\" and will soon appear in \"Dune: Part Three.\"",
+   "time": "2026-11-17 06:19",
+   "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+   "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
+     "u": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
      "t": "sec"
     }
    ],
-   "heat": 15.9
+   "heat": 18.7
   },
   {
    "cat": "global",
-   "time": "2026-11-17 03:53",
-   "title": "Robert Pattinson Is New James Bond in Amazon’s Reboot",
-   "summary": "Batman star Robert Pattinson is the latest actor to take on the role of superspy James Bond as Amazon’s MGM Studios looks to reboot the franchise. Ed Ludlow has more. (Source: Bloo…",
+   "time": "2026-11-16 04:13",
+   "title": "Goldman Sachs’ calm 2027 forecast comes with a catch - Yahoo Finance",
+   "summary": "Goldman Sachs’ calm 2027 forecast comes with a catch &nbsp;&nbsp; Yahoo Finance",
    "srcs": [
     {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-16/robert-pattinson-is-new-james-bond-in-amazon-s-reboot-video",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTk40UDNlOS14bFJYX1puWGwtUG1JeHRuUTJtaDJJUUdIOEthcXBRbXZJcGpoRElDangtMkFTeWEtdS1fUFlqWURoU1BLVHJLNTBxeWRZR1dDLTRmc0ZsNF9EUUxTUWtuZ0UtcUZjZGpIWlRwczdSVzN5WFg4Rzlpai1zaXZyU3NPVFRQNHVMUktxcV9P?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 15.7
+   "heat": 18.4
   },
   {
    "cat": "global",
-   "time": "2026-11-16 21:36",
-   "title": "Brent Crude Could Fall to $78 as Middle East Supply Recovers Faster Than Demand",
+   "time": "2026-11-17 04:02",
+   "title": "Oil Surplus Risk Builds as IEA Sees Supply Outpacing Demand",
    "summary": "",
    "srcs": [
     {
      "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/brent-crude-could-fall-to-78-as-middle-east-supply-recovers-faster-than-demand-200691663",
+     "u": "https://www.investing.com/analysis/oil-surplus-risk-builds-as-iea-sees-supply-outpacing-demand-200691683",
      "t": "agg"
     }
    ],
-   "heat": 12.7
+   "heat": 16.4
   },
   {
    "cat": "global",
-   "time": "2026-11-16 18:43",
-   "title": "China Moves to Cool the Yuan as FX Reserve Requirement Rises to 6%",
-   "summary": "",
+   "time": "2026-11-13 16:00",
+   "title": "Weekly Market Monitor - Goldman Sachs Asset Management",
+   "summary": "Weekly Market Monitor &nbsp;&nbsp; Goldman Sachs Asset Management",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/china-moves-to-cool-the-yuan-as-fx-reserve-requirement-rises-to-6-200691650",
-     "t": "agg"
-    }
-   ],
-   "heat": 12.2
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-12 02:22",
-   "title": "美国财长贝森特，从千万美元首都豪宅搬入军事基地",
-   "summary": "美国财长贝森特，从千万美元首都豪宅搬入军事基地 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVdDFCNkFtZFZKOF9hNmo5VmZiNV9uc1JDMndpWFBXZU1fTGxQa1Z2QUxRWlBMQ013cE1EWURtQjN6S3RpSXUzNg?oc=5",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54YmRzTi1fZTZwVmVxZGp3OHdNZ0t0RldQU2hyZUdCMmlFbnJ1amZhWmZPREg0bnRwSmJUMDVRd2hiLURzanlBSXJCN2hkM25lLVI5bkNPR0x0NlFLWk52Wk15dkZ5ZXV0MURHV2JacU1LQ1NBai1FeG5KZw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 12.0
+   "heat": 16.0
   },
   {
    "cat": "global",
-   "time": "2026-11-10 15:23",
-   "title": "15:23:21【外交部：中方就中俄美元首会晤同相关方保持着沟通】",
-   "summary": "15:23:21【外交部：中方就中俄美元首会晤同相关方保持着沟通】 &nbsp;&nbsp; 财联社",
+   "time": "2026-11-17 07:00",
+   "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands tak",
+   "summary": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
    "srcs": [
     {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NX3Bmbk1sTzFJbUo5bU5LbjZwR2I0RUpNV2ttQ1RmY25YSzhYcVNXX185eXNLQ3UzR3ZEM3FkUXJkVHFpdUs2Qw?oc=5",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
      "t": "sec"
     }
    ],
-   "heat": 12.0
+   "heat": 14.8
   },
   {
    "cat": "global",
@@ -825,7 +755,21 @@
      "t": "agg"
     }
    ],
-   "heat": 8.7
+   "heat": 11.3
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-16 18:43",
+   "title": "China Moves to Cool the Yuan as FX Reserve Requirement Rises to 6%",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/china-moves-to-cool-the-yuan-as-fx-reserve-requirement-rises-to-6-200691650",
+     "t": "agg"
+    }
+   ],
+   "heat": 10.8
   },
   {
    "cat": "global",
@@ -839,21 +783,35 @@
      "t": "agg"
     }
    ],
-   "heat": 8.2
+   "heat": 10.8
   },
   {
-   "cat": "crypto",
-   "time": "2026-11-16 21:31",
-   "title": "Here’s what happened in crypto today",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "cat": "global",
+   "time": "2026-11-11 03:06",
+   "title": "S&P 500 And The Dollar: The Numbers Behind The Core CPI (SP500) - Seeking Alpha",
+   "summary": "S&P 500 And The Dollar: The Numbers Behind The Core CPI (SP500) &nbsp;&nbsp; Seeking Alpha",
    "srcs": [
     {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa0JZb1NLazc5VXJGVVYzX19RdmI1VXQyNmNMQVhYc1ZFRmlwd0V1RloxNEZ5a1I5bEpyRlNxcHFCZEJvS0hnSW1ncFVNMnh4bFBGcERiRmZwS0NTcWk3UDNpdThKUnBkalZ5Y1RfSGV4VDlrTmhKODYyZzVxM3hKYWx4QzkzNkxvZXc?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 110.7
+   "heat": 8.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-10 14:47",
+   "title": "China Opens Onshore Forex Market to Overseas Yuan Clearing Banks",
+   "summary": "China Opens Onshore Forex Market to Overseas Yuan Clearing Banks &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVFJsa3VncS1mTkkzWjhBZ2wtRUl1ekxhZHBKT1pjWjBkV1lpQ25HQlprbzRWVFFpRDNSRnEzUUJ2UFU3MWdFNDFFTXFPdzhzWlVwcTloRTY4ZXBqR1pVaHVmVjJHNDREQ09qejFkRDZmOVVXSVQyd2FfTVA4MEs2TkFuWmgzUjhTaVdyUFNIQTdIdmhOMlZNWHpia05rblp1NXEwVUxTdVpGVEVxYkE4LWFVRDBZMHlTcUNJ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 8.0
   },
   {
    "cat": "crypto",
@@ -867,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.9
+   "heat": 98.5
   },
   {
    "cat": "crypto",
@@ -881,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 103.9
+   "heat": 98.4
   },
   {
    "cat": "crypto",
@@ -895,21 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 103.5
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-16 23:24",
-   "title": "Supreme Court Ends Custodia Bank’s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access",
-   "summary": "Bitcoin Magazine Supreme Court Ends Custodia Bank&#8217;s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access The Supreme Court denied Custodia Bank's …",
-   "srcs": [
-    {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/news/supreme-court-ends-custodia-fed-master",
-     "t": "sec"
-    }
-   ],
-   "heat": 103.0
+   "heat": 98.1
   },
   {
    "cat": "crypto",
@@ -923,35 +867,35 @@
      "t": "sec"
     }
    ],
-   "heat": 102.4
+   "heat": 97.0
   },
   {
    "cat": "crypto",
-   "time": "2026-11-17 03:44",
-   "title": "T. Rowe Price’s Blue Macellari: Institutions “Not Backing Away” From Bitcoin",
-   "summary": "&#9654; Bitcoin Magazine T. Rowe Price’s Blue Macellari: Institutions “Not Backing Away” From Bitcoin For institutions, Blue Macellari says Bitcoin is no longer about whether to ow…",
+   "time": "2026-11-17 13:37",
+   "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+   "summary": "The bank's reported BlackRock bitcoin ETF position doubled to $2.35 billion in the third quarter, giving it exposure to roughly 28,000 BTC.",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+     "t": "sec"
+    }
+   ],
+   "heat": 64.0
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-17 05:43",
+   "title": "Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test",
+   "summary": "&#9654; Bitcoin Magazine Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test Sean breaks down Bitcoin's MVRV on today's Chart of the Day. This post Why Bitcoin’s June …",
    "srcs": [
     {
      "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/videos/t-rowe-prices-blue-macellari-institutions-not-backing-away-from-bitcoin",
+     "u": "https://bitcoinmagazine.com/videos/why-bitcoins-june-low-may-not-be-the-bottom-58k-the-key-test",
      "t": "sec"
     }
    ],
-   "heat": 83.7
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-16 21:00",
-   "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
-   "summary": "Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay.",
-   "srcs": [
-    {
-     "n": "Cointelegraph(加密货币)",
-     "u": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "t": "sec"
-    }
-   ],
-   "heat": 82.6
+   "heat": 62.6
   },
   {
    "cat": "crypto",
@@ -965,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 80.0
+   "heat": 62.6
   },
   {
    "cat": "crypto",
@@ -979,7 +923,49 @@
      "t": "sec"
     }
    ],
-   "heat": 79.9
+   "heat": 62.5
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-17 04:35",
+   "title": "Rob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin",
+   "summary": "&#9654; Bitcoin Magazine Rob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin AnchorWatch CEO Rob Hamilton is bullish on Bitcoin in the long run, even as he wat…",
+   "srcs": [
+    {
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/videos/rob-hamilton-the-ai-black-hole-is-pulling-liquidity-away-from-bitcoin",
+     "t": "sec"
+    }
+   ],
+   "heat": 62.4
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-17 04:18",
+   "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
+   "summary": "Johnson was joined by Lord Ross Kempsell who called for regulators to work with industry participants to bring the UK to the forefront.",
+   "srcs": [
+    {
+     "n": "Cointelegraph(加密货币)",
+     "u": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "t": "sec"
+    }
+   ],
+   "heat": 62.4
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-17 03:44",
+   "title": "T. Rowe Price’s Blue Macellari: Institutions “Not Backing Away” From Bitcoin",
+   "summary": "&#9654; Bitcoin Magazine T. Rowe Price’s Blue Macellari: Institutions “Not Backing Away” From Bitcoin For institutions, Blue Macellari says Bitcoin is no longer about whether to ow…",
+   "srcs": [
+    {
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/videos/t-rowe-prices-blue-macellari-institutions-not-backing-away-from-bitcoin",
+     "t": "sec"
+    }
+   ],
+   "heat": 62.3
   },
   {
    "cat": "crypto",
@@ -993,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.6
+   "heat": 62.2
   },
   {
    "cat": "crypto",
@@ -1007,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.4
+   "heat": 62.0
   },
   {
    "cat": "crypto",
@@ -1021,7 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.3
+   "heat": 61.9
   },
   {
    "cat": "crypto",
@@ -1035,21 +1021,7 @@
      "t": "sec"
     }
    ],
-   "heat": 79.2
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-17 00:00",
-   "title": "Harvard Holds 3.04 Million Bitcoin ETF Shares Steady",
-   "summary": "Bitcoin Magazine Harvard Holds 3.04 Million Bitcoin ETF Shares Steady Harvard Management Company's latest 13F shows it still holds 3,044,612 shares of BlackRock's iShares Bitcoin T…",
-   "srcs": [
-    {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/news/harvard-holds-ibit-stake-steady-304-mil",
-     "t": "sec"
-    }
-   ],
-   "heat": 79.1
+   "heat": 61.8
   }
  ]
 }
