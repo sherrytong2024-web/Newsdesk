@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-20 03:47",
+ "updated": "2026-11-20 09:57",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-11-20 06:31",
+   "title": "California Probing If Nvidia Misled Investors on China Risks",
+   "summary": "Nvidia Corp. is being investigated by California officials to determine whether any of its actions resulted in advanced chips or confidential information being improperly obtained …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-19/california-probing-if-nvidia-misled-investors-over-china-risks",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-20 02:44",
+   "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
+   "summary": "\"It's not going to get any better for Jensen Huang; it's going to get far worse,\" said Salvatore Graziano, a New York securities litigation attorney.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 254.8
+  },
   {
    "cat": "sector",
    "time": "2026-11-19 18:39",
@@ -13,133 +41,105 @@
      "t": "sec"
     }
    ],
-   "heat": 238.5
+   "heat": 253.4
   },
   {
    "cat": "sector",
-   "time": "2026-11-19 09:05",
-   "title": "Intel signs first external customer for advanced 18A chips",
-   "summary": "Intel CEO Lip-Bu Tan said Wednesday that the company signed its first outside customer for its 18A chips.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 236.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-20 03:42",
-   "title": "Big Checks and Big Blobs of Compute",
-   "summary": "Our first public frontier AI company is here.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-11-19/big-checks-and-big-blobs-of-compute",
-     "t": "sec"
-    }
-   ],
-   "heat": 236.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-20 03:29",
-   "title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
-   "summary": "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-20 03:27",
-   "title": "China’s Inbound Tourism Has Room to Grow, Trip.com CEO Says",
-   "summary": "China’s Inbound Tourism Has Room to Grow, Trip.com CEO Says &nbsp;&nbsp; Caixin Global",
+   "time": "2026-11-18 19:16",
+   "title": "Nvidia to Stop Selling Advanced AI Chips to China",
+   "summary": "Nvidia to Stop Selling Advanced AI Chips to China &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUVkcHp6aHVKYUVqdjk3Q1kyY2VtanAtTjR0Z0txYWJjSmFXN1YzcjluUUwtX1lJTDZvTjZPV3k4SDdUZGNhak5qd1JRWGVYeElaRHFwWlNvOFNVN242SHNTU3lDa1pLUG5udHB6bkFvcXNCcFJoZUtrR2hhc3h1ZnJzWnhsUG5IdTg0cHVpckJYMzRraHcxSTk4TjNsRW1ka1dVemEyZll5MW5vSi1NNA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVHhYTFgzTHYyTkUyc3Buay03cm1YWVpHUWRTZFczS3hiSk1WOEl4VEc2V3JRekJLY2xNcUJGekg3NHdiREQ4cVBYQldGZW56UnNkeTJKVFFXeU1DT1l4bFJZQ1lsS0tZM2ktdU50R0xNcHZuSy1QZ3NoZ3IxSWw0NUJNMXpHZGtGSTR6a3RsaUxNbmZPMldXN09ucDY0S3RUbEVwZC0ySQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 235.9
+   "heat": 249.6
   },
   {
    "cat": "sector",
-   "time": "2026-11-20 03:19",
-   "title": "Anthropic Pares Gains After Strong Debut, Trump, Xi, Putin Meet",
+   "time": "2026-11-13 15:36",
+   "title": "In Depth: How Alice Huang Built Megaspeed Into a Major Nvidia Customer",
+   "summary": "In Depth: How Alice Huang Built Megaspeed Into a Major Nvidia Customer &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkVyYmdQanY3akhGUkFqVHM5M2pJMWljR1BNNllvZ210NWF5QzhIb1VVNnZGX1gwVF9mODVXbmxPeWtBTENwZXRRR0xTaTBpb2pBaGpOZi04SFdTb1pXb3E1SHByemFBaFVCR2h2WHpGRkp4TmV6bEJqc0swWFhKdUxJR0tRcDVHVGNvUmx3OERQNEliWGhGZVo2SU1taF9zUlJvZFExTElFYjgxZkFqQV8zejZjMGROOVdnd1pNT3B6QQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 248.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-20 08:40",
+   "title": "Anthropic Shares Drop Post-Market on Apple’s AI Agent Plans",
+   "summary": "Shares of Anthropic PBC fell more than 3% in after-hours trading following their New York debut, as Apple Inc. plans to develop an autonomous AI agent and investor caution over the…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-20 08:29",
+   "title": "Bloomberg Businessweek Daily: Apple to Build AI Agent (Podcast)",
    "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-19/anthropic-pares-gains-after-strong-debut-trump-xi-putin-meet",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-20/bloomberg-businessweek-daily-apple-to-build-ai-agent-podcast",
      "t": "sec"
     }
    ],
-   "heat": 235.9
+   "heat": 243.8
   },
   {
    "cat": "sector",
-   "time": "2026-11-20 03:19",
-   "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-   "summary": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
+   "time": "2026-11-20 07:03",
+   "title": "Anthropic's Strong Debut, Apple Working on AI Agent, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-19/anthropic-s-strong-debut-apple-working-on-ai-agent-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-20 08:53",
+   "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+   "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+     "u": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
      "t": "sec"
     }
    ],
-   "heat": 235.9
+   "heat": 239.8
   },
   {
    "cat": "sector",
-   "time": "2026-11-20 03:13",
-   "title": "Uber Tests Rides for 10- to 12-Year-Olds in Three US Cities",
-   "summary": "Uber Technologies Inc. said parents of kids who are 10 to 12 years old can order rides on their behalf as part of a limited testing program in the US.",
+   "time": "2026-11-20 01:36",
+   "title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-19/uber-tests-rides-for-10-to-12-year-olds-in-three-us-cities",
-     "t": "sec"
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say-5038806",
+     "t": "agg"
     }
    ],
-   "heat": 235.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-20 03:06",
-   "title": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
-   "summary": "Recent outages are prompting a rethink of cash. At the very least, your money should be diversified, top advisors say.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-20 02:55",
-   "title": "Google’s Gemini Can Now Control Mac Devices on Users’ Behalf",
-   "summary": "Google’s Gemini can now take control of Mac computers to complete tasks for users, matching a feature already offered by other popular AI assistants and raising the pressure on App…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-19/google-s-gemini-can-now-control-mac-devices-on-users-behalf",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.9
+   "heat": 236.6
   }
  ]
 }
