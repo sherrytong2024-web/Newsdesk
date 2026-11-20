@@ -1,33 +1,47 @@
 {
- "updated": "2026-11-20 18:46",
+ "updated": "2026-11-21 03:28",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-11-20 18:08",
-   "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop",
-   "summary": "Anthropic soared 17% in its first day of trading on Thursday.",
+   "time": "2026-11-21 03:15",
+   "title": "Trump says he discussed Jensen Huang with Xi, apparently contradicting Bessent",
+   "summary": "Trump said he discussed Jensen Huang with China's Xi, hours after Bessent said the ousted Nvidia CEO didn't come up in the talks.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+     "u": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
      "t": "sec"
     }
    ],
-   "heat": 291.9
+   "heat": 232.0
   },
   {
    "cat": "sector",
-   "time": "2026-11-20 14:38",
-   "title": "Nvidia Scandal Fallout Creates Opening for India AI Hopefuls",
-   "summary": "For years a lightweight in the global artificial intelligence race, India now sees an opportunity in the geopolitical tumult rocking the industry.",
+   "time": "2026-11-21 02:20",
+   "title": "Nvidia Employees Complained About Huang’s Behavior Years Ago",
+   "summary": "About two decades ago, two Nvidia Corp. employees complained about how then-Chief Executive Officer Jensen Huang treated his staff, including allegations that he threatened them an…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-20/nvidia-scandal-fallout-india-ai-yotta-ambani-adani-am-intelligence-e2e-networks",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-20/nvidia-employees-complained-about-huang-s-behavior-years-ago",
      "t": "sec"
     }
    ],
-   "heat": 291.3
+   "heat": 231.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-20 21:26",
+   "title": "S&P 500 Heads for Correction as AI Enthusiasm Keeps Unwinding",
+   "summary": "A slide in the S&amp;P 500 Index on Friday pushed it into a correction territory after a string of disappointing Big Tech earnings and scandal at Nvidia Corp. eroded confidence in …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-dip-as-anthropic-premiere-disappoints-investors",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.0
   },
   {
    "cat": "sector",
@@ -41,7 +55,77 @@
      "t": "sec"
     }
    ],
-   "heat": 291.1
+   "heat": 229.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-20 19:25",
+   "title": "Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator’s aide says",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/former-nvidia-ceo-huang-agreed-to-testify-at-public-us-senate-hearing-senators-aide-says-5042429",
+     "t": "agg"
+    }
+   ],
+   "heat": 228.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-21 03:25",
+   "title": "‘Grand Theft Auto VI’ Sells $3.79 Billion, Making It Biggest Entertainment Launch Ever",
+   "summary": "The best-reviewed game ever is also the fastest-selling",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-vi-sells-3-79-billion-making-it-biggest-entertainment-launch-ever",
+     "t": "sec"
+    }
+   ],
+   "heat": 228.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-21 03:15",
+   "title": "S&P 500 In Correction Territory on AI Selloff, Anthropic Sinks",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-20/s-p-500-in-correction-territory-on-ai-selloff-anthropic-sinks",
+     "t": "sec"
+    }
+   ],
+   "heat": 228.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-21 03:13",
+   "title": "Chase adds Qantas and Cathay Pacific as transfer partners. These two credit cards can help you access them",
+   "summary": "CNBC Select goes over what you need to know about the two newest airline programs added to Chase’s list of transfer partners.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/select/chase-adds-qantas-and-cathay-transfer-partners/",
+     "t": "sec"
+    }
+   ],
+   "heat": 228.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-21 02:41",
+   "title": "Altruist’s Wenk on AI and the Next Era of Financial Advice",
+   "summary": "Altruist CEO Jason Wenk joins Bloomberg's Katie Greifeld for a wide ranging conversation on what joining Vanguard could mean for Altruist, his push to make financial advice more ac…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-20/altruist-s-wenk-on-ai-next-era-of-financial-advice-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 227.9
   },
   {
    "cat": "sector",
@@ -55,91 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 289.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-19 18:39",
-   "title": "Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling",
-   "summary": "Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ21HUjN1QmE2U2ZZZWplYWRjYlhlLS1aWm04MGJ5NFdvZGlja3dldTQzb1NBRjJHdmpadW9XTUtDdWtBRGE4bW4ydzBpMmk0azNWV192YnQyN1hZS2FFcFpicXF0MWxOYk9IcXpjdkJYbk9tTGg5Umk5SEU5R3RudUVjVzYyaHJKNUNrNm0tV3FoejR3bXdaOFZ3bXVUSkxUdWlOeUZaZTNZcU5YUWRxSXZlRTF4ekZEdUZFelFnQzRVV2o0LUE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 288.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-18 19:16",
-   "title": "Nvidia to Stop Selling Advanced AI Chips to China",
-   "summary": "Nvidia to Stop Selling Advanced AI Chips to China &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVHhYTFgzTHYyTkUyc3Buay03cm1YWVpHUWRTZFczS3hiSk1WOEl4VEc2V3JRekJLY2xNcUJGekg3NHdiREQ4cVBYQldGZW56UnNkeTJKVFFXeU1DT1l4bFJZQ1lsS0tZM2ktdU50R0xNcHZuSy1QZ3NoZ3IxSWw0NUJNMXpHZGtGSTR6a3RsaUxNbmZPMldXN09ucDY0S3RUbEVwZC0ySQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 284.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-20 17:30",
-   "title": "US Chip Curbs Ignite Fresh AI Jitters: Market Snapshot",
-   "summary": "Investors sought to navigate a choppy week for equities, starting with a fresh bout of volatility for the AI trade when the US introduced new restrictions on China's access to high…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-20/us-chip-curbs-ignite-fresh-ai-jitters-market-snapshot-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 283.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-20 15:16",
-   "title": "SK Hynix to Become Top Kioxia Holder in AI Memory Shuffle",
-   "summary": "SK Hynix Inc. will become rival Kioxia Holdings Corp.’s largest shareholder, expanding its clout in the memory chip sector that’s now critical to global AI development.",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion",
-     "t": "sec"
-    }
-   ],
-   "heat": 283.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-20 08:53",
-   "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-   "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 282.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-20 10:42",
-   "title": "Exclusive-Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/exclusivebeijing-to-bar-young-redchip-firms-from-listing-outside-mainland-china-sources-say-5040979",
-     "t": "agg"
-    }
-   ],
-   "heat": 280.7
+   "heat": 227.9
   }
  ]
 }
