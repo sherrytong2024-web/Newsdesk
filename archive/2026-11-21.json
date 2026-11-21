@@ -1,25 +1,11 @@
 {
- "updated": "2026-11-21 03:28",
+ "updated": "2026-11-21 09:53",
  "items": [
   {
    "cat": "macro",
-   "time": "2026-11-21 02:25",
-   "title": "Fed’s Cook Sees Growing Urgency to Tackle Inflation",
-   "summary": "Federal Reserve Governor Lisa Cook sees an urgent need for the US central bank to raise interest rates to bring down inflation. Cook said Friday at a conference at Chile’s central …",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-20/fed-s-cook-sees-growing-urgency-to-tackle-inflation-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 67.8
-  },
-  {
-   "cat": "macro",
    "time": "2026-11-20 07:56",
-   "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
-   "summary": "Gold fell for a fifth day — heading for the biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks spurred sell…",
+   "title": "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff",
+   "summary": "Gold slid for a fifth day — notching its biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks spurred selling…",
    "srcs": [
     {
      "n": "Bloomberg Markets",
@@ -27,7 +13,35 @@
      "t": "sec"
     }
    ],
-   "heat": 64.7
+   "heat": 55.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-21 07:27",
+   "title": "Tony Wang on CrowdStrike-Zscaler Deal, AI Trade",
+   "summary": "Tony Wang, Portfolio Manager of the Science and Technology Equity Strategy at T. Rowe Price, is asked whether the AI cycle has changed and whether recent declines create a buying o…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-20/tony-wang-on-crowdstrike-zscaler-deal-ai-trade-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-21 06:14",
+   "title": "Adjusting for Credit Risk: Masters In Business with David Eichhorn",
+   "summary": "Barry speaks with David Eichhorn, CEO and Head of Investment Strategies at NISA Investment Advisors. They discuss his early days as a quant at JPMorgan before returning home to St.…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-20/masters-in-business-with-david-eichhorn-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 47.4
   },
   {
    "cat": "macro",
@@ -41,49 +55,21 @@
      "t": "sec"
     }
    ],
-   "heat": 60.0
+   "heat": 46.9
   },
   {
    "cat": "macro",
-   "time": "2026-11-21 03:15",
-   "title": "Odd Lots: Minerva Co-Founder on the Risks of “Abliterated” Models",
-   "summary": "On this episode of the Odd Lots podcast, Minerva Co-Founder Daniel Saedi joins Joe Weisenthal and Tracy Alloway to unpack how his company mixes and matches AI models for specific u…",
+   "time": "2026-11-21 04:27",
+   "title": "EUR/USD Breakdown Shows Why Rate Differentials Still Dominate",
+   "summary": "",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-20/minerva-co-founder-on-the-risks-of-abliterated-models-video",
-     "t": "sec"
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/eurusd-breakdown-shows-why-rate-differentials-still-dominate-200692029",
+     "t": "agg"
     }
    ],
-   "heat": 60.0
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-21 02:24",
-   "title": "Big Take: Can Anthropic Weather a Shifting AI Landscape?",
-   "summary": "Volatility surged a day after the market debut of Anthropic. Worries over AI, geopolitics and rates are all weighing on investors’ appetite for risk. Ed Ludlow and Bailey Lipschult…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-20/big-take-can-anthropic-weather-a-shifting-ai-landscape-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 59.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-21 01:42",
-   "title": "On Books: What food writing can teach us all",
-   "summary": "Food writing is often treated as second-rate literature, yet one of its greatest voices captured the human condition better than most novelists. (Source: Bloomberg)",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-20/on-books-what-food-writing-can-teach-us-all-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 59.7
+   "heat": 45.1
   },
   {
    "cat": "macro",
@@ -97,7 +83,7 @@
      "t": "agg"
     }
    ],
-   "heat": 57.6
+   "heat": 44.5
   },
   {
    "cat": "macro",
@@ -111,35 +97,7 @@
      "t": "agg"
     }
    ],
-   "heat": 56.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-20 19:19",
-   "title": "Analysis-Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/analysiswall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-5042444",
-     "t": "agg"
-    }
-   ],
-   "heat": 56.6
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-20 04:42",
-   "title": "US Stocks Are Predicted to Extend Their Historic Rally as Gains Moderate - Goldman Sachs",
-   "summary": "US Stocks Are Predicted to Extend Their Historic Rally as Gains Moderate &nbsp;&nbsp; Goldman Sachs",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXJSam1KZ1d3Z2dsQlhYa19WRE9PWURGWEg4TDhsUXc4dmRmYzRPUTd1ZXZ6ZFA4dWVpMWxqSnBIOGZuRjVmOGY0VVk5a0xjVkgyVkRwWUtxbkdLRWhMTksxNW40VUp5aHdmNVlDN0hUWEFrQnJrRXZNSHVLazAzQTlmT0JqTmIzTndlNXhUYXJSSzFKZHZKQUFtU1FsNDBqYWZqMzQzVHEwUTNuOWc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 56.2
+   "heat": 43.7
   },
   {
    "cat": "macro",
@@ -153,7 +111,7 @@
      "t": "agg"
     }
    ],
-   "heat": 52.8
+   "heat": 39.7
   },
   {
    "cat": "macro",
@@ -167,7 +125,7 @@
      "t": "agg"
     }
    ],
-   "heat": 52.3
+   "heat": 39.3
   },
   {
    "cat": "macro",
@@ -181,11 +139,25 @@
      "t": "agg"
     }
    ],
-   "heat": 52.2
+   "heat": 39.1
   },
   {
    "cat": "macro",
-   "time": "2026-11-20 23:20",
+   "time": "2026-11-21 08:13",
+   "title": "Wall Street Week | Gaming Blockbuster, Healthcare Costs, Cybersecurity Meets AI",
+   "summary": "This week, former New York Fed President Bill Dudley and Kathryn Judge of Columbia Law School discuss what the Treasury and Fed can do to tackle the nation’s debt crisis. Plus, wha…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-week-gaming-blockbuster-cybersecurity-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 27.7
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-21 05:10",
    "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
    "summary": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
    "srcs": [
@@ -195,27 +167,83 @@
      "t": "sec"
     }
    ],
-   "heat": 23.3
+   "heat": 23.2
   },
   {
    "cat": "macro",
-   "time": "2026-11-19 06:08",
-   "title": "Morning Wrap: ASX 200 to fall, S&P 500 slips with Nvidia, Fed minutes flag more hikes - Market Index",
-   "summary": "Morning Wrap: ASX 200 to fall, S&P 500 slips with Nvidia, Fed minutes flag more hikes &nbsp;&nbsp; Market Index",
+   "time": "2026-11-21 03:26",
+   "title": "Gold Price Crash Tests $3,500 as Fed Hike Bets Reach 97%",
+   "summary": "",
    "srcs": [
     {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSG5kOUpUSUdFTFg2dWdBbnNvUkZnUmFWdERLbkFvUzBJNFFVbG4waFo0UkZmS2ozN0gxbXFBTUh1Sjg0alltUUlxaWFUODYweUpNTGlfUmZadVlqWnp4QVVuZlJMaGx4bF84S3d3TWlYU1dtUElXV0x0MUpIY3FtMk5KUGExZWhFZU5LU3FRR1lCR3FWbnZ4QWk3VzE2dTh6NVJvUDB3ZHhlUQ?oc=5",
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-price-crash-tests-3500-as-fed-hike-bets-reach-97-200692028",
+     "t": "agg"
+    }
+   ],
+   "heat": 20.9
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-21 00:55",
+   "title": "The Week Ahead (Nov. 23-29): ECB Succession and OPEC+ Oil Talks",
+   "summary": "The Week Ahead (Nov. 23-29): ECB Succession and OPEC+ Oil Talks &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbTBvVlB2N01nckVMLUY3S3dhZTdvYkktNURpRURPeng3V20yZGJqWTl2QmRrVWE2eDlfMGlwMGpzWk1fa1RIQ1lzMFlFbGE4WVd0aV9mYVNFMzlEZEdJX2hIOG5OOEcyRnZySV9NR3RGaFUwTFRTamdkcVdxU1pNMlpOeGdaVTl1SVNDTDd2Q2plX19ERTN4Sm5wbDJCaEJTbDdrNVRsNDZ4b2JSbWFHMHBJWQ?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 16.4
+   "heat": 10.5
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-18 13:36",
+   "title": "S&P 500 Today: Stock Market Index Falls to 7,561.67 as Treasury Yields Top 5.1% and Chip Stocks Sink - BBN Times",
+   "summary": "S&P 500 Today: Stock Market Index Falls to 7,561.67 as Treasury Yields Top 5.1% and Chip Stocks Sink &nbsp;&nbsp; BBN Times",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQWlib0tjQlFqTTlZU2paLTJqWURHZldVVHVON29TVl9IRTUwYmdERVB0emJ6dGJ3TWYzWTRkYVAzb2tqc2dIVGE4ZkhmLWpkYURjaDJiS29aQjE1YkN2eVBzZmpkWnpWNTN4TldWR3IxazRiVFkxRXlJY3BISUtiSFJoYXhmTEJURGpQUmNtbDRfSjg1cTJTMWpPN3hjcXF1UmlpNGNXMjVOTlQ1RTNxQS1XR3JzZ2loNmVxazZWNHVtNUROTTFoSTFpNGhsWUhYcUNUOQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 8.0
   },
   {
    "cat": "sector",
-   "time": "2026-11-21 03:15",
-   "title": "Trump says he discussed Jensen Huang with Xi, apparently contradicting Bessent",
-   "summary": "Trump said he discussed Jensen Huang with China's Xi, hours after Bessent said the ousted Nvidia CEO didn't come up in the talks.",
+   "time": "2026-11-21 06:31",
+   "title": "Trump Says Huang Should Return to Nvidia After ‘Big Apology’",
+   "summary": "President Trump called for Jensen Huang to make a big apology and return as CEO of Nvidia even as the prospect remains highly unlikely. (Source: Bloomberg)",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 267.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-21 06:08",
+   "title": "Nvidia Plunges as SEC Probe Deepens AI Market Selloff | Closing Bell",
+   "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec. (Source: B…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-plunges-on-sec-probe-closing-bell-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 267.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-21 06:08",
+   "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+   "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
    "srcs": [
     {
      "n": "CNBC",
@@ -223,35 +251,21 @@
      "t": "sec"
     }
    ],
-   "heat": 232.0
+   "heat": 267.4
   },
   {
    "cat": "sector",
-   "time": "2026-11-21 02:20",
-   "title": "Nvidia Employees Complained About Huang’s Behavior Years Ago",
-   "summary": "About two decades ago, two Nvidia Corp. employees complained about how then-Chief Executive Officer Jensen Huang treated his staff, including allegations that he threatened them an…",
+   "time": "2026-11-21 03:42",
+   "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+   "summary": "Former Nvidia CEO Jensen Huang has faced a flurry of criticism on Capitol Hill in the wake of his involvement with a suspected Chinese spy.",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-20/nvidia-employees-complained-about-huang-s-behavior-years-ago",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
      "t": "sec"
     }
    ],
-   "heat": 231.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-20 21:26",
-   "title": "S&P 500 Heads for Correction as AI Enthusiasm Keeps Unwinding",
-   "summary": "A slide in the S&amp;P 500 Index on Friday pushed it into a correction territory after a string of disappointing Big Tech earnings and scandal at Nvidia Corp. eroded confidence in …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-dip-as-anthropic-premiere-disappoints-investors",
-     "t": "sec"
-    }
-   ],
-   "heat": 231.0
+   "heat": 267.0
   },
   {
    "cat": "sector",
@@ -265,161 +279,147 @@
      "t": "sec"
     }
    ],
-   "heat": 229.7
+   "heat": 264.6
   },
   {
    "cat": "sector",
-   "time": "2026-11-20 19:25",
-   "title": "Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator’s aide says",
-   "summary": "",
+   "time": "2026-11-21 09:00",
+   "title": "Trump, Xi and Putin Raise Stakes for Smaller Powers Like Singapore",
+   "summary": "Beneath the diplomatic bonhomie at Asean and APEC summits was a less reassuring message for smaller and middle powers.",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/stock-market-news/former-nvidia-ceo-huang-agreed-to-testify-at-public-us-senate-hearing-senators-aide-says-5042429",
-     "t": "agg"
-    }
-   ],
-   "heat": 228.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-21 03:25",
-   "title": "‘Grand Theft Auto VI’ Sells $3.79 Billion, Making It Biggest Entertainment Launch Ever",
-   "summary": "The best-reviewed game ever is also the fastest-selling",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-vi-sells-3-79-billion-making-it-biggest-entertainment-launch-ever",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-11-21/trump-xi-and-putin-raise-stakes-for-smaller-powers-like-singapore",
      "t": "sec"
     }
    ],
-   "heat": 228.0
+   "heat": 263.9
   },
   {
    "cat": "sector",
-   "time": "2026-11-21 03:15",
-   "title": "S&P 500 In Correction Territory on AI Selloff, Anthropic Sinks",
+   "time": "2026-11-21 08:17",
+   "title": "Anthropic Researcher Claims to Solve Riemann Problem With Claude",
+   "summary": "On the heels of Anthropic PBC’s record-breaking initial public offering, a researcher at the company said he believes he used its artificial intelligence software to solve a famous…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-21 07:22",
+   "title": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment",
+   "summary": "J&J Snack Foods CEO Dan Fachner said the company’s turnaround is on track after a strong year, citing Project Apollo’s more than $25 million in durable savings. A second phase, Apo…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-21 07:08",
+   "title": "El Salvador Troops Killed in Haiti Blast After Rescue Deployment",
+   "summary": "Two Salvadoran soldiers died in Haiti after an explosion struck an area where they were working, weeks after President Nayib Bukele ordered a large deployment to the Caribbean isla…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-20/el-salvador-troops-killed-in-haiti-blast-after-rescue-deployment",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-21 06:55",
+   "title": "The Mark Walter Probe Is Reverberating Through Insurance, Sports and AI",
+   "summary": "A probe of more than $20 billion dollars worth of potentially mislabeled insurance loans is reverberating around the insurance industry and the AI economy.",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-20/the-mark-walter-probe-is-reverberating-through-insurance-sports-and-ai",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-21 06:43",
+   "title": "Bloomberg Businessweek Daily: AI Transforms World (Podcast)",
    "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
      "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-20/s-p-500-in-correction-territory-on-ai-selloff-anthropic-sinks",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-20/bloomberg-businessweek-daily-ai-transforms-world-podcast",
      "t": "sec"
     }
    ],
-   "heat": 228.0
+   "heat": 263.5
   },
   {
    "cat": "sector",
-   "time": "2026-11-21 03:13",
-   "title": "Chase adds Qantas and Cathay Pacific as transfer partners. These two credit cards can help you access them",
-   "summary": "CNBC Select goes over what you need to know about the two newest airline programs added to Chase’s list of transfer partners.",
+   "time": "2026-11-21 06:38",
+   "title": "Bloomberg Businessweek Daily: Huang’s Behavior (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/select/chase-adds-qantas-and-cathay-transfer-partners/",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-20/bloomberg-businessweek-daily-huang-s-behavior-podcast",
      "t": "sec"
     }
    ],
-   "heat": 228.0
+   "heat": 263.5
   },
   {
    "cat": "sector",
-   "time": "2026-11-21 02:41",
-   "title": "Altruist’s Wenk on AI and the Next Era of Financial Advice",
-   "summary": "Altruist CEO Jason Wenk joins Bloomberg's Katie Greifeld for a wide ranging conversation on what joining Vanguard could mean for Altruist, his push to make financial advice more ac…",
+   "time": "2026-11-21 06:38",
+   "title": "Big Take: Walter Probe Hits Insurance, Sports and AI (Podcast)",
+   "summary": "Source: Bloomberg, 19:14",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-20/big-take-walter-probe-hits-insurance-sports-and-ai-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 263.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-21 06:38",
+   "title": "Scribe CEO Jennifer Smith on AI Usage in the Workplace",
+   "summary": "Jennifer Smith, Co-Founder and CEO of Scribe and a former Consultant at McKinsey, discusses AI valuations to adoption, noting research that puts AI use for workplace tasks below 4%…",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-20/altruist-s-wenk-on-ai-next-era-of-financial-advice-video",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video",
      "t": "sec"
     }
    ],
-   "heat": 227.9
+   "heat": 263.5
   },
   {
-   "cat": "sector",
-   "time": "2026-11-20 02:44",
-   "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
-   "summary": "\"It's not going to get any better for Jensen Huang; it's going to get far worse,\" said Salvatore Graziano, a New York securities litigation attorney.",
+   "cat": "stock",
+   "time": "2026-11-21 06:58",
+   "title": "Hindlian Advisory CEO on AI & Anthropic Market Sell-off",
+   "summary": "Amanda Hindlian, Founder and CEO of Hindlian Advisory and Former Global Head of Capital Markets at the New York Stock Exchange, says Anthropic’s IPO should be judged separately fro…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-20/hindlian-advisory-ceo-on-ai-anthropic-market-sell-off-video",
      "t": "sec"
     }
    ],
-   "heat": 227.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-21 02:26",
-   "title": "U.S. Cleared Nearly 880,000 AI Chips for Chinese Buyers",
-   "summary": "U.S. Cleared Nearly 880,000 AI Chips for Chinese Buyers &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMTZrNG5pSmpHalZ0SWVMYTY3R2RWS25LeHA2ZWV3RGhIamY0dG9iRkR0MG1tam1ubWp1YnJFaGh5bUl6ZDUtM0lQSjFNVkkzVDBUR0NOb1BxeEV5WFVSUWJKQXRJNk1qSkdvSnJ2RnBHRHlqT2hmbkdZeUJuOGlNUW5PZzdBWmFTM1BCanByVDJFVzdjai1nX0ZlOE9ITUEtclRDcTdJYWROSTQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-21 01:48",
-   "title": "AI Is Coming for Economists in the White House, Says Claudia Sahm",
-   "summary": "Claudia Sahm, Chief Economist at New Century Advisors, joined Bloomberg's Paul Sweeney and Scarlet Fu to discuss her latest column, \"AI Is Coming for the Economists in the White Ho…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-20/ai-is-coming-for-white-house-economists-says-sahm-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-21 01:44",
-   "title": "Bloomberg Tech: AI Trade Tumbles as Anthropic Retreats (Podcast)",
-   "summary": "Source: Bloomberg, 42:55",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-20/bloomberg-tech-ai-trade-tumbles-as-anthropic-retreats-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-21 01:28",
-   "title": "What’s in the UK-EU Deal To Deepen Ties",
-   "summary": "The UK and EU struck a deal to reset relations after Brexit, opening opportunities for young people and easing restrictions on food and agriculture. Oliver Crook explains what’s in…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-20/what-s-in-the-uk-eu-deal-to-deepen-ties-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-21 01:17",
-   "title": "Britain Takes Another Step Toward Europe After Brexit as Global Order Shifts",
-   "summary": "Get Caught Up.",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-11-20/britain-takes-another-step-toward-europe-after-brexit-as-global-order-shifts",
-     "t": "sec"
-    }
-   ],
-   "heat": 227.6
+   "heat": 115.5
   },
   {
    "cat": "stock",
@@ -433,63 +433,49 @@
      "t": "sec"
     }
    ],
-   "heat": 147.1
+   "heat": 114.1
   },
   {
    "cat": "stock",
-   "time": "2026-11-21 02:36",
-   "title": "Anthropic Slides as AI Selloff Deepens",
-   "summary": "Bloomberg’s Ed Ludlow takes a look at Anthropic shares falling after its blockbuster stock market debut, as part of a wider global tech selloff hitting the AI trade. And: Grand The…",
+   "time": "2026-11-20 09:05",
+   "title": "Emerging Stocks Enter Bear Market as AI Triggers Global Selloff",
+   "summary": "The MSCI emerging-market stock index entered a bear market Friday, declining for a seventh day, the longest losing streak since 2024, amid a selloff in global tech shares.",
    "srcs": [
     {
      "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-tech-11-20-2026-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide",
      "t": "sec"
     }
    ],
-   "heat": 127.9
+   "heat": 111.9
   },
   {
    "cat": "stock",
-   "time": "2026-11-19 05:17",
-   "title": "8 Top-Performing US Stock ETFs - Morningstar",
-   "summary": "8 Top-Performing US Stock ETFs &nbsp;&nbsp; Morningstar",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TUFA3RWYzMzMtSGQ5OGpsTjFWTE4yQlhNYzdmM3htanVMVzlEcTA1X2hhTmJlUWoxb0swQU5hbWlTVWpDYWlwN29oVzNReFhtV1dFNGEzakFJSnR1Uk9KRG1nMVpiSEM2em9nQkczbmxkTkIzOXdCVkpHS0E?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 124.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-21 02:26",
-   "title": "Home Depot vs. Lowe's: Which stock has the edge after earnings and our support?",
-   "summary": "This two-way race is firmly centered on how each company can control what it can control.",
+   "time": "2026-11-20 08:00",
+   "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+   "summary": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/20/home-depot-vs-lowes-which-stock-has-the-edge-after-earnings-and-our-support.html",
+     "u": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
      "t": "sec"
     }
    ],
-   "heat": 123.8
+   "heat": 111.7
   },
   {
    "cat": "stock",
-   "time": "2026-11-21 01:20",
-   "title": "Gap stock soars as retailer says Old Navy turnaround shows signs of improvement",
-   "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
+   "time": "2026-11-21 06:06",
+   "title": "Fear and ‘Hot Sauce’: Young Investors Want To Catch Up",
+   "summary": "Buzzy stocks, leveraged ETFs, and a generation feeling left behind. BlackRock’s Gargi Chaudhuri discusses ways investors can dabble in risky products while also leaning into time-p…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-20/fear-and-hot-sauce-young-investors-want-to-catch-up-video",
      "t": "sec"
     }
    ],
-   "heat": 123.6
+   "heat": 107.4
   },
   {
    "cat": "stock",
@@ -503,7 +489,105 @@
      "t": "agg"
     }
    ],
-   "heat": 121.6
+   "heat": 100.5
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-21 09:19",
+   "title": "Stocks Close Lower on AI Selloff, Anthropic Gives Up Gains, More",
+   "summary": "Source: Bloomberg, 6:30",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-21/stocks-close-lower-on-ai-selloff-anthropic-gives-up-gains-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 95.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-21 07:42",
+   "title": "Stock Movers: Anthropic, Nvidia, UnitedHealth Group (Podcast)",
+   "summary": "Source: Bloomberg, 3:39",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-20/stock-movers-anthropic-nvidia-unitedhealth-group-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 95.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-21 06:25",
+   "title": "S&P, Dow Slide Into Correction as Investors Dump Tech",
+   "summary": "Chipmakers led a plunge in US stocks on Friday, with the S&P 500 and the Dow Jones Industrial Index closing in correction territory. Carmen Reinicke reports. (Source: Bloomberg)",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video",
+     "t": "sec"
+    }
+   ],
+   "heat": 95.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-21 05:35",
+   "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+   "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 95.3
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-21 04:26",
+   "title": "Is the bull market cracking? What to watch for next week after the AI washout",
+   "summary": "The stock market may be nearer to a bottom after this week's sell-off, but investors are still bracing for further volatility.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 95.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-21 03:59",
+   "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+   "summary": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 95.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-21 03:33",
+   "title": "A massive bearish trade just happened in the chip stocks",
+   "summary": "Options traders place big bets that semiconductor stocks have further to fall",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 94.9
   },
   {
    "cat": "stock",
@@ -517,147 +601,7 @@
      "t": "sec"
     }
    ],
-   "heat": 107.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-21 03:06",
-   "title": "Stock Market Today: S&P 500 Nears Correction as Nasdaq Crashes 3.3% in AI Selloff - Coinpaper",
-   "summary": "Stock Market Today: S&P 500 Nears Correction as Nasdaq Crashes 3.3% in AI Selloff &nbsp;&nbsp; Coinpaper",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcXl6d0FkckwwaDBUc3FFZzNCNEVfbHJoWnNnR3N5YzJBZlhmb3ZMUTJhc2RWeHpiZjdSa3JnTHVwZ1R4V0ttOWVlUktEcnZoY2M0YlJDdjh3dU9maTdET09Qd19ta2Z2VXYwRE81eUxvcTRHTlJFNy16Qk5GTDhaWENRcWNVYlRkbnh1UXg3aGlVNU50cDJqc283dTJJMzFQN2diRWZsTFVrX2ljX3UtTg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 107.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-21 02:41",
-   "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-   "summary": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 107.9
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-21 02:24",
-   "title": "Chipmakers Lead Stock Plunge, S&P 500 In Correction Territory",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-20/chipmakers-lead-stock-plunge-s-p-500-in-correction-territory",
-     "t": "sec"
-    }
-   ],
-   "heat": 107.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-21 02:06",
-   "title": "Morgan Stanley Sees Aussie Riding AI Storm to Outperform in 2027",
-   "summary": "The Australian dollar will stand out among developed-market currencies next year as it will reap the benefits of the artificial intelligence buildout, weathering the recent stock s…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-20/morgan-stanley-sees-aussie-riding-ai-storm-to-outperform-in-2027",
-     "t": "sec"
-    }
-   ],
-   "heat": 107.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-21 00:14",
-   "title": "Stock Movers: Anthropic, Intuit, & Gap (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-20/stock-movers-anthropic-intuit-gap-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 107.5
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-20 23:20",
-   "title": "Stock Movers: Anthropic, Gap, Ross (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-20/stock-movers-anthropic-gap-ross-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 107.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-20 23:13",
-   "title": "Berkshire Hathaway has been a popular 'anti-AI trade.' One firm says it’s too expensive now",
-   "summary": "Berkshire Hathaway's traditional value tilt is working, but the stock's multiples now leave one Wall Street firm cautious.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/20/berkshire-hathaway-has-been-a-popular-anti-ai-trade-one-firm-says-its-too-expensive-now.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 107.3
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-20 12:33",
-   "title": "Treasuries Rally as AI Selloff Sends Investors to Haven Assets",
-   "summary": "US Treasuries soared as mounting doubts over the artificial intelligence trade sent stocks tumbling and investors flocking to haven assets.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-20/treasuries-eye-longest-rally-in-five-months-on-haven-demand",
-     "t": "sec"
-    }
-   ],
-   "heat": 105.5
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-21 02:12",
-   "title": "Argentina Hit Hard by Global Turmoil as Bonds Slip Into Distress",
-   "summary": "A global flight from risk is catching Argentina at a vulnerable moment, deepening a bond selloff fueled by anxiety over next year’s election and pushing its debt into distressed te…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-20/argentina-hit-hard-by-global-turmoil-as-bonds-slip-into-distress",
-     "t": "sec"
-    }
-   ],
-   "heat": 27.8
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-21 02:55",
-   "title": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled ",
-   "summary": "Unhappy workers are staying put at their jobs as anxiety around the job market looms. If conditions improve, these workers could be the first to quit, according to experts.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.9
+   "heat": 94.9
   },
   {
    "cat": "global",
@@ -671,7 +615,7 @@
      "t": "agg"
     }
    ],
-   "heat": 21.8
+   "heat": 16.7
   },
   {
    "cat": "global",
@@ -685,7 +629,7 @@
      "t": "agg"
     }
    ],
-   "heat": 21.2
+   "heat": 16.1
   },
   {
    "cat": "global",
@@ -699,49 +643,49 @@
      "t": "agg"
     }
    ],
-   "heat": 20.7
+   "heat": 15.7
   },
   {
    "cat": "global",
-   "time": "2026-11-20 07:05",
-   "title": "Latest Oil Market News and Analysis for Nov. 20",
-   "summary": "Oil headed for a third weekly decline as traders weighed the risk of renewed US strikes on Iran against ample crude supplies.",
+   "time": "2026-11-21 05:52",
+   "title": "AI Euphoria Gives Way to Fear And ‘Face-Ripping Volatility’",
+   "summary": "All year, investors have gorged themselves on whatever the AI trade served up. Hundreds of billions of dollars of stock sold to build out infrastructure. Near-daily bond offerings …",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-nears-breaking-point-as-fear-grips-global-markets",
      "t": "sec"
     }
    ],
-   "heat": 20.6
+   "heat": 15.3
   },
   {
    "cat": "global",
-   "time": "2026-11-20 17:57",
-   "title": "Oil Prices Rebound as Houthi Attacks Reignite Middle East Supply Fears",
-   "summary": "",
+   "time": "2026-11-21 02:55",
+   "title": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled ",
+   "summary": "Unhappy workers are staying put at their jobs as anxiety around the job market looms. If conditions improve, these workers could be the first to quit, according to experts.",
    "srcs": [
     {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/oil-prices-rebound-as-houthi-attacks-reignite-middle-east-supply-fears-200691991",
-     "t": "agg"
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
+     "t": "sec"
     }
    ],
-   "heat": 20.4
+   "heat": 14.8
   },
   {
    "cat": "global",
-   "time": "2026-11-19 16:16",
-   "title": "Gold Continues to Hit New Yearly Lows: When Will It End?",
+   "time": "2026-11-21 01:28",
+   "title": "UBS flags resilient commodity investment case despite easing oil supply premium",
    "summary": "",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/gold-continues-to-hit-new-yearly-lows-when-will-it-end-200691898",
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/stock-market-news/ubs-flags-resilient-commodity-investment-case-despite-easing-oil-supply-premium-5043001",
      "t": "agg"
     }
    ],
-   "heat": 16.1
+   "heat": 12.6
   },
   {
    "cat": "global",
@@ -787,20 +731,6 @@
   },
   {
    "cat": "global",
-   "time": "2026-11-20 16:12",
-   "title": "GBP/USD Under Pressure as Pound Tests Yearly Lows",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/gbpusd-under-pressure-as-pound-tests-yearly-lows-200691985",
-     "t": "agg"
-    }
-   ],
-   "heat": 8.1
-  },
-  {
-   "cat": "global",
    "time": "2026-11-18 15:54",
    "title": "Yuan Bond Financing Demand Rises in Central Asia, Southeast Asia",
    "summary": "Yuan Bond Financing Demand Rises in Central Asia, Southeast Asia &nbsp;&nbsp; Caixin Global",
@@ -812,6 +742,20 @@
     }
    ],
    "heat": 8.0
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-20 16:12",
+   "title": "GBP/USD Under Pressure as Pound Tests Yearly Lows",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(外汇)",
+     "u": "https://www.investing.com/analysis/gbpusd-under-pressure-as-pound-tests-yearly-lows-200691985",
+     "t": "agg"
+    }
+   ],
+   "heat": 7.1
   },
   {
    "cat": "global",
@@ -829,20 +773,6 @@
   },
   {
    "cat": "crypto",
-   "time": "2026-11-20 22:34",
-   "title": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?",
-   "summary": "With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 99.2
-  },
-  {
-   "cat": "crypto",
    "time": "2026-11-20 21:29",
    "title": "Here’s what happened in crypto today",
    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -853,7 +783,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.0
+   "heat": 85.9
   },
   {
    "cat": "crypto",
@@ -867,21 +797,49 @@
      "t": "sec"
     }
    ],
-   "heat": 92.0
+   "heat": 78.9
   },
   {
    "cat": "crypto",
-   "time": "2026-11-21 02:07",
-   "title": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
-   "summary": "Crypto investors are looking beyond Congress for the next catalyst after the Senate failed to advance the Clarity Act in September.",
+   "time": "2026-11-21 06:10",
+   "title": "Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom",
+   "summary": "&#9654; Bitcoin Magazine Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom Tracy Shuchart says Bitcoin's biggest long-term argument is its monetary scarcity, b…",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom",
      "t": "sec"
     }
    ],
-   "heat": 91.8
+   "heat": 75.4
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-21 05:08",
+   "title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
+   "summary": "Bitcoin Magazine Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5% The bitcoin price slipped to near $58,300 on Friday afternoon, briefly dipping under its summer …",
+   "srcs": [
+    {
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.2
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-21 03:24",
+   "title": "MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance",
+   "summary": "&#9654; Bitcoin Magazine MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance Chaitanya \"CJ\" Jain, Head of Investor Relations at Strategy, joins Bitcoin M…",
+   "srcs": [
+    {
+     "n": "BitcoinMagazine(加密货币)",
+     "u": "https://bitcoinmagazine.com/videos/mstr-head-of-investor-relations-addresses-bitcoin-pullback-equity-performance",
+     "t": "sec"
+    }
+   ],
+   "heat": 74.9
   },
   {
    "cat": "crypto",
@@ -895,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.8
+   "heat": 74.7
   },
   {
    "cat": "crypto",
@@ -909,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.6
+   "heat": 74.5
   },
   {
    "cat": "crypto",
@@ -923,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.6
+   "heat": 74.5
   },
   {
    "cat": "crypto",
@@ -937,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.5
+   "heat": 74.4
   },
   {
    "cat": "crypto",
@@ -951,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.4
+   "heat": 74.3
   },
   {
    "cat": "crypto",
@@ -965,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.4
+   "heat": 74.3
   },
   {
    "cat": "crypto",
@@ -979,40 +937,12 @@
      "t": "sec"
     }
    ],
-   "heat": 83.2
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-20 22:25",
-   "title": "Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping",
-   "summary": "Bitcoin Magazine Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping Bitcoin is trading barely above its realized price, the average cost of every coin, an…",
-   "srcs": [
-    {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/markets/bitcoin-hovers-above-realized-price",
-     "t": "sec"
-    }
-   ],
-   "heat": 83.2
-  },
-  {
-   "cat": "crypto",
-   "time": "2026-11-20 22:00",
-   "title": "Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia",
-   "summary": "Bitcoin Magazine Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia The bitcoin price slipped to near $61,500 on Friday morning, its lowest level since July, as the t…",
-   "srcs": [
-    {
-     "n": "BitcoinMagazine(加密货币)",
-     "u": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-61500-asia",
-     "t": "sec"
-    }
-   ],
-   "heat": 83.1
+   "heat": 74.1
   },
   {
    "cat": "crypto",
    "time": "2026-11-20 21:35",
-   "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+   "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
    "summary": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%.",
    "srcs": [
     {
@@ -1021,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 83.0
+   "heat": 73.9
   },
   {
    "cat": "crypto",
@@ -1035,7 +965,49 @@
      "t": "sec"
     }
    ],
-   "heat": 83.0
+   "heat": 73.9
+  },
+  {
+   "cat": "crypto",
+   "time": "2026-11-20 20:15",
+   "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
+   "summary": "Your day-ahead look for Nov. 20, 2026",
+   "srcs": [
+    {
+     "n": "CoinDesk(加密货币)",
+     "u": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
+     "t": "sec"
+    }
+   ],
+   "heat": 73.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-16 21:15",
+   "title": "Why The S&P 500 Could Fall 63% – And Still Only Be Fairly Valued - FXEmpire",
+   "summary": "Why The S&P 500 Could Fall 63% – And Still Only Be Fairly Valued &nbsp;&nbsp; FXEmpire",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzljcGZpbFcyLVhIbTRKTjI4aGZ4aWt2RUhuY0J6NjJyT1lnbDZNVHhfaTFnX0ZPbEJ6YzljR1hibUZWeWowUXZBZENqbW1paXI0dnNjTGpHOXV3S3ljSGxLeDZYbDlTckxWX3pEenRPaFVrcDE1N3FUVnNtazk0bzJpdnZCb2dhVGtlcDVIYmFva3d4Z0JaVm5pNzNZQlVUNjJXQWEyQmU4M040dXlKdA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 256.0
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-21 01:31",
+   "title": "Cloudflare president Michelle Zatlyn sells $27.8M in stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/cloudflare-president-michelle-zatlyn-sells-278m-in-stock-93CH-5043011",
+     "t": "agg"
+    }
+   ],
+   "heat": 92.6
   }
  ]
 }
