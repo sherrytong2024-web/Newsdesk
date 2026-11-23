@@ -1,61 +1,75 @@
 {
- "updated": "2026-11-23 02:53",
+ "updated": "2026-11-23 09:16",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-11-21 03:42",
-   "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
-   "summary": "Former Nvidia CEO Jensen Huang has faced a flurry of criticism on Capitol Hill in the wake of his involvement with a suspected Chinese spy.",
+   "time": "2026-11-23 06:00",
+   "title": "Trump's AI Chip Crackdown on China After Nvidia Crisis Squeezes Southeast Asia",
+   "summary": "Washington’s new rulebook spells trouble for a multibillion dollar cloud business helping to power the region’s data center boom.",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-23 07:00",
+   "title": "Ant Group Bets on Simplexity to Thrive in China’s Humanoid Race",
+   "summary": "Chinese physical AI startup Simplexity Robotics received $100 million in a funding round led by Jack Ma-backed Ant Group Co., betting that the startup can take on more established …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-23 05:56",
+   "title": "Merryn Talks Money: The Bull Case for Britain (Podcast)",
+   "summary": "Source: Bloomberg, 36:14",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-22/merryn-talks-money-the-bull-case-for-britain-podcast",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-23 03:40",
+   "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
+   "summary": "OpenAI’s chief scientist proposed that artificial intelligence companies agree to limits on developing increasingly powerful models until researchers have better ways to understand…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
+     "t": "sec"
+    }
+   ],
+   "heat": 255.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-23 02:55",
+   "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+   "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+     "u": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
      "t": "sec"
     }
    ],
-   "heat": 268.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-20 13:24",
-   "title": "Blog: Jensen Huang’s Possible Return to Nvidia Won’t Solve China’s Computing Crunch",
-   "summary": "Blog: Jensen Huang’s Possible Return to Nvidia Won’t Solve China’s Computing Crunch &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNkVTbFVTQ0RBTlZuM1JZZW53WW9zUHlJNXpLNnVSNkJsR3BUMmNHRDlZckFrM1FRREQtbXJmTXJXbHFlNmVwTk5wdnZjV1pFTFRQQ0p6SjlidlZ3R1liTnBmX1pCUVk0dU5jemlEcGV1UGZrZU4xYk1WaTlubW5sOWdGVzdVN3Zocm1XbW92WjdvWWJDUGx5U0FzakJjRlVLNzZsM0RYVEU1Z3VnalBneGJRLWs3TlFIR3hvUmgyaEJ1Q05fb1dTV1JyRXcxMVU?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 268.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-19 18:39",
-   "title": "Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling",
-   "summary": "Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ21HUjN1QmE2U2ZZZWplYWRjYlhlLS1aWm04MGJ5NFdvZGlja3dldTQzb1NBRjJHdmpadW9XTUtDdWtBRGE4bW4ydzBpMmk0azNWV192YnQyN1hZS2FFcFpicXF0MWxOYk9IcXpjdkJYbk9tTGg5Umk5SEU5R3RudUVjVzYyaHJKNUNrNm0tV3FoejR3bXdaOFZ3bXVUSkxUdWlOeUZaZTNZcU5YUWRxSXZlRTF4ekZEdUZFelFnQzRVV2o0LUE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 268.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-18 19:16",
-   "title": "Nvidia to Stop Selling Advanced AI Chips to China",
-   "summary": "Nvidia to Stop Selling Advanced AI Chips to China &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVHhYTFgzTHYyTkUyc3Buay03cm1YWVpHUWRTZFczS3hiSk1WOEl4VEc2V3JRekJLY2xNcUJGekg3NHdiREQ4cVBYQldGZW56UnNkeTJKVFFXeU1DT1l4bFJZQ1lsS0tZM2ktdU50R0xNcHZuSy1QZ3NoZ3IxSWw0NUJNMXpHZGtGSTR6a3RsaUxNbmZPMldXN09ucDY0S3RUbEVwZC0ySQ?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 268.0
+   "heat": 254.9
   },
   {
    "cat": "sector",
@@ -69,21 +83,21 @@
      "t": "sec"
     }
    ],
-   "heat": 267.9
+   "heat": 254.9
   },
   {
    "cat": "sector",
-   "time": "2026-11-23 01:27",
-   "title": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
-   "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from…",
+   "time": "2026-11-23 01:08",
+   "title": "Compass Plans to Move Main Listing to New York From London",
+   "summary": "The UK’s Compass Group Plc plans to move its primary listing from London to New York, according to a person familiar with the matter, marking yet another disappointment for the UK …",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
      "t": "sec"
     }
    ],
-   "heat": 267.8
+   "heat": 254.6
   },
   {
    "cat": "sector",
@@ -97,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 267.7
+   "heat": 254.6
   },
   {
    "cat": "sector",
@@ -111,21 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 267.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-23 00:41",
-   "title": "Bookmarked: News Stories On Our Reading List",
-   "summary": "Bigfoot leaves a paper-trail, the gas prices in GTA VI, splitting the Bloomin Onion bill on a date, the board games people cheat at the most, and evidence of cheating on our very s…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-22/bookmarked-news-stories-on-our-reading-list-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 267.6
+   "heat": 254.6
   },
   {
    "cat": "sector",
@@ -139,7 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 267.5
+   "heat": 254.4
   }
  ]
 }
