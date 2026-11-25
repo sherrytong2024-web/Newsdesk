@@ -1,9 +1,51 @@
 {
- "updated": "2026-11-25 03:49",
+ "updated": "2026-11-25 11:53",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-11-25 03:44",
+   "time": "2026-11-25 10:09",
+   "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
+   "summary": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 295.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-25 09:13",
+   "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+   "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 295.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-25 08:12",
+   "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+   "summary": "The S&P 500 and the Nasdaq Composite slid on Tuesday as Nvidia unwound some of its gains from the previous session.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/24/wednesday-big-stock-stories-whats-likely-to-move-the-market.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 295.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-25 07:13",
    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
    "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
    "srcs": [
@@ -13,25 +55,25 @@
      "t": "sec"
     }
    ],
-   "heat": 284.0
+   "heat": 295.2
   },
   {
    "cat": "sector",
-   "time": "2026-11-25 03:39",
-   "title": "Trump's Nvidia Push is 'Crony Capitalism,' Says Rep.-Elect Killin",
-   "summary": "Trump's Nvidia Push is 'Crony Capitalism,' Says Rep.-Elect Killin Democrat Representative-Elect from Colorado Jessica Killin said that Trump's involvement in reinstating Nvidia CEO…",
+   "time": "2026-11-25 06:34",
+   "title": "Bloomberg Businessweek Daily: Nvidia Euphoria Fades (Podcast)",
+   "summary": "Source: Bloomberg, 0:00",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-24/trump-s-nvidia-push-is-crony-capitalism-says-killin-video",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-24/bloomberg-businessweek-daily-nvidia-euphoria-fades-podcast",
      "t": "sec"
     }
    ],
-   "heat": 284.0
+   "heat": 295.1
   },
   {
    "cat": "sector",
-   "time": "2026-11-25 03:26",
+   "time": "2026-11-25 05:13",
    "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
    "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
    "srcs": [
@@ -41,35 +83,21 @@
      "t": "sec"
     }
    ],
-   "heat": 283.9
+   "heat": 294.9
   },
   {
    "cat": "sector",
-   "time": "2026-11-25 02:55",
-   "title": "CoreWeave Bonds Hit All-Time Lows, Erasing Nvidia-Fueled Gains",
-   "summary": "Bonds backing cloud computing provider CoreWeave Inc. fell to record lows Tuesday, among the day’s biggest corporate bond losses, amid renewed concerns about the durability of the …",
+   "time": "2026-11-25 04:39",
+   "title": "Nvidia Rally Lifts S&P 500 Before Market Gains Fade - Peradaban.id",
+   "summary": "Nvidia Rally Lifts S&P 500 Before Market Gains Fade &nbsp;&nbsp; Peradaban.id",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-24/coreweave-bonds-hit-all-time-lows-erasing-nvidia-fueled-gains",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9od25hMGVBMnhQMFB0M1RNLTVrd3FVZ250R05zVzZsbU9lbEdxVWJ3cDV4enM0Zm1Ja1Vzd1pVYnl0aHVqc3dNNWJROThjcUs0LXBxTE44SjZBTUYweFdndzBfMmk4SWQw?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 283.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-25 02:22",
-   "title": "Tech Slides as Nvidia, AI Risks Take Center Stage",
-   "summary": "Bloomberg’s Ed Ludlow takes a look at the tech selloff dragging down US stocks over AI safety fears and concerns from fresh US tariffs. Plus, what Jensen Huang's comeback as CEO of…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-24/bloomberg-tech-11-24-2026-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 283.8
+   "heat": 294.8
   },
   {
    "cat": "sector",
@@ -83,7 +111,7 @@
      "t": "sec"
     }
    ],
-   "heat": 282.9
+   "heat": 293.6
   },
   {
    "cat": "sector",
@@ -97,7 +125,7 @@
      "t": "sec"
     }
    ],
-   "heat": 281.5
+   "heat": 292.1
   },
   {
    "cat": "sector",
@@ -111,35 +139,7 @@
      "t": "sec"
     }
    ],
-   "heat": 280.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-24 04:22",
-   "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
-   "summary": "Congress members of both parties are sharply questioning President Donald Trump's conclusion that Jensen Huang poses no national security risk leading Nvidia.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 280.1
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-23 07:33",
-   "title": "Cover Story: Jensen Huang’s Exit Tests Nvidia — and the AI Boom",
-   "summary": "Cover Story: Jensen Huang’s Exit Tests Nvidia — and the AI Boom &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUnlCYUNtVUJWTTBNOHlZcFNvY1ItS1hHLTlqdmk0N2hYY3gySVVMMVRMcDdjVDRHS0lmM3JTVXItZjZFczBIenp5ZGR5UmVGX3JvblplVHVFY3M5aGdCVzdMczI1ZnpzMGs5enlyYnZmU0JfY1RFYjAtbUV2Y2tmajR6MnlBMGlMbk1JQ0Z4Z2xqOFJONjE3SXFCRFpzS0tIQXNLYjAwUmpObUN6STV3dTVNdFU?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 276.6
+   "heat": 291.5
   }
  ]
 }
