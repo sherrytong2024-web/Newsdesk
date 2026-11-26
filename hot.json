@@ -1,89 +1,47 @@
 {
- "updated": "2026-11-26 00:33",
+ "updated": "2026-11-26 09:22",
  "items": [
   {
    "cat": "sector",
-   "time": "2026-11-26 00:19",
-   "title": "Dow tumbles 700 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates",
-   "summary": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
+   "time": "2026-11-26 01:28",
+   "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
+   "summary": "Nvidia GPU sellers are seeking new buyers after new U.S. rules tightened remote access to advanced AI chips for China-linked customers",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+     "u": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
      "t": "sec"
     }
    ],
-   "heat": 256.0
+   "heat": 258.7
   },
   {
    "cat": "sector",
-   "time": "2026-11-25 22:29",
-   "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-   "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+   "time": "2026-11-19 18:39",
+   "title": "Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling",
+   "summary": "Analysis: Nvidia CEO’s Exit, U.S. Chip Rules Leave China’s Tech Giants Reeling &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ21HUjN1QmE2U2ZZZWplYWRjYlhlLS1aWm04MGJ5NFdvZGlja3dldTQzb1NBRjJHdmpadW9XTUtDdWtBRGE4bW4ydzBpMmk0azNWV192YnQyN1hZS2FFcFpicXF0MWxOYk9IcXpjdkJYbk9tTGg5Umk5SEU5R3RudUVjVzYyaHJKNUNrNm0tV3FoejR3bXdaOFZ3bXVUSkxUdWlOeUZaZTNZcU5YUWRxSXZlRTF4ekZEdUZFelFnQzRVV2o0LUE?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 255.7
+   "heat": 252.0
   },
   {
    "cat": "sector",
-   "time": "2026-11-25 21:06",
-   "title": "Huang Is Worth Up to $10 Trillion to the Market, Ives Says",
-   "summary": "Dan Ives, senior managing director at Yorkville Ives & Co., discusses Jensen Huang's return as Nvidia Corp. Chief Executive Officer and his value to the AI growth cycle and overall…",
+   "time": "2026-11-26 06:06",
+   "title": "Pension Funds Use Total Portfolio Approach to Manage AI Stock Exposure",
+   "summary": "Plus: Potential Nvidia downgrade",
    "srcs": [
     {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-25/huang-is-worth-up-to-10-trillion-to-the-market-ives-video",
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-11-25/pension-funds-use-total-portfolio-approach-to-manage-ai-stock-exposure",
      "t": "sec"
     }
    ],
-   "heat": 255.4
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-25 20:26",
-   "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-   "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 255.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-25 14:29",
-   "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-   "summary": "Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 254.3
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-25 05:13",
-   "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-   "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 252.8
+   "heat": 251.5
   },
   {
    "cat": "sector",
@@ -97,21 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 250.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-24 09:00",
-   "title": "CX Daily: Jensen Huang’s Exit Tests Nvidia — and the AI Boom",
-   "summary": "CX Daily: Jensen Huang’s Exit Tests Nvidia — and the AI Boom &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjY3emRjb1FlNUFOWDM2Y1lGSHk5dkFiSzV5MGRGQ1ktUWZpZm9Tb3FEdVhxdjJLal9lbVBHVElZT1FXUDdGcEVSRk8zMkR2eEZ3M2MxQmg4ZWFRQklIU1lJMUg3RXU3bXpnU3pYY0trTmxPajBsZW5fdlY0YTJoaklvWHhtcGhFZktYZjItMEFycm5VNEdXVmd0NFpuR2N2ZWdib0VTMk5EdjU5ZGlZdg?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 249.4
+   "heat": 244.5
   },
   {
    "cat": "sector",
@@ -125,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 248.0
+   "heat": 244.0
   },
   {
    "cat": "sector",
@@ -139,7 +83,63 @@
      "t": "sec"
     }
    ],
-   "heat": 248.0
+   "heat": 244.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-25 15:21",
+   "title": "“互联网泡沫+次贷危机”！AI若暴雷 美国经济真伤不起？",
+   "summary": "“互联网泡沫+次贷危机”！AI若暴雷 美国经济真伤不起？ &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Qb3NoSk5hamJZSUZRaTAzUEh5X2FrRm5wczV4ZTBGNzZaVmtfMEx0cGdsWGppNVZWMTMtTkUxc09PZWlvMXV0OA?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 229.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-26 09:10",
+   "title": "Hedge funds are no longer just for the rich. They’re coming for everyday investors",
+   "summary": "Hedge funds are increasingly courting retail investors as the industry seeks new avenues for growth.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 228.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-26 09:07",
+   "title": "Lula Sounds Out Bradesco’s Luiz Trabuco to Join His Government",
+   "summary": "President Luiz Inácio Lula da Silva has sounded out Bradesco Chairman Luiz Carlos Trabuco Cappi about joining his fourth-term government, according to people familiar with the matt…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-26/lula-sounds-out-bradesco-s-luiz-trabuco-to-join-his-government",
+     "t": "sec"
+    }
+   ],
+   "heat": 228.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-21 02:26",
+   "title": "U.S. Cleared Nearly 880,000 AI Chips for Chinese Buyers",
+   "summary": "U.S. Cleared Nearly 880,000 AI Chips for Chinese Buyers &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMTZrNG5pSmpHalZ0SWVMYTY3R2RWS25LeHA2ZWV3RGhIamY0dG9iRkR0MG1tam1ubWp1YnJFaGh5bUl6ZDUtM0lQSjFNVkkzVDBUR0NOb1BxeEV5WFVSUWJKQXRJNk1qSkdvSnJ2RnBHRHlqT2hmbkdZeUJuOGlNUW5PZzdBWmFTM1BCanByVDJFVzdjai1nX0ZlOE9ITUEtclRDcTdJYWROSTQ?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 228.0
   }
  ]
 }
