@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26 19:44",
+ "updated": "2026-11-27 04:45",
  "items": [
   {
    "cat": "sector",
@@ -13,7 +13,7 @@
      "t": "sec"
     }
    ],
-   "heat": 250.6
+   "heat": 241.1
   },
   {
    "cat": "sector",
@@ -27,7 +27,7 @@
      "t": "sec"
     }
    ],
-   "heat": 250.6
+   "heat": 241.1
   },
   {
    "cat": "sector",
@@ -41,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 249.0
+   "heat": 239.5
   },
   {
    "cat": "sector",
@@ -55,7 +55,7 @@
      "t": "sec"
     }
    ],
-   "heat": 244.0
+   "heat": 236.0
   },
   {
    "cat": "sector",
@@ -69,7 +69,7 @@
      "t": "sec"
     }
    ],
-   "heat": 244.0
+   "heat": 236.0
   },
   {
    "cat": "sector",
@@ -83,63 +83,63 @@
      "t": "sec"
     }
    ],
-   "heat": 244.0
+   "heat": 236.0
   },
   {
    "cat": "sector",
-   "time": "2026-11-26 19:28",
-   "title": "AlexForbes Sees More Growth After Assets Hit $45 Billion",
-   "summary": "South Africa’s biggest commercial retirement-fund administrator boosted assets under management 13% in the first half and expects to maintain that pace for the rest of the year.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-26/alexforbes-sees-more-growth-after-assets-hit-45-billion",
-     "t": "sec"
-    }
-   ],
-   "heat": 240.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-26 19:22",
-   "title": "Malaysia Says May Intervene If AirAsia’s Financial Woes Worsen",
-   "summary": "Malaysia may consider stepping in to support AirAsia Group Bhd. if the airline’s financial difficulties worsen, Second Finance Minister Amir Hamzah Azizan said, as the government s…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-26/malaysia-says-may-intervene-if-airasia-s-financial-woes-worsen",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-26 19:12",
-   "title": "UniCredit Clears Final Hurdle to Take Over Commerzbank",
-   "summary": "UniCredit proposed CEO Andrea Orcel as Commerzbank chairman, as the Italian lender moves to take control of its German rival in one of Europe’s largest banking deals in decades. Bl…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video-mwxge90q",
-     "t": "sec"
-    }
-   ],
-   "heat": 239.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-26 19:01",
-   "title": "The Nobel-winning science turning ‘water harvesting’ into a commercial race",
-   "summary": "Startups Atoco and Ahbstra are moving water-from-air machines toward commercial use, including for data centers and drought-hit communities.",
+   "time": "2026-11-27 02:27",
+   "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+   "summary": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra/",
+     "u": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
      "t": "sec"
     }
    ],
-   "heat": 239.9
+   "heat": 231.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-27 01:52",
+   "title": "Semiconductor chips are the new oil. Here's why",
+   "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-27 00:39",
+   "title": "Trans-Oil Warns of Going-Concern Risk Pending Debt Waiver",
+   "summary": "Trans-Oil Group has yet to secure a waiver after breaching financial covenants on a key export facility, adding to liquidity pressure at the agricultural commodities firm.",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-26/trans-oil-warns-of-going-concern-risk-pending-debt-waiver",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.3
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-27 00:15",
+   "title": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
+   "summary": "SAP SE is preparing a plan to eliminate at least 10,000 positions to transform its software business for the artificial intelligence era, according to people familiar with the matt…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
+     "t": "sec"
+    }
+   ],
+   "heat": 231.2
   }
  ]
 }
