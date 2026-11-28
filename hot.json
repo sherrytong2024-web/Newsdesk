@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-27 23:54",
+ "updated": "2026-11-28 08:54",
  "items": [
+  {
+   "cat": "sector",
+   "time": "2026-11-28 05:55",
+   "title": "Nvidia Chip Used in China, OpenAI Countersues Apple, More",
+   "summary": "Source: Bloomberg, 0:00",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-27/nvidia-chip-used-in-china-openai-countersues-apple-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 251.5
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-28 07:10",
+   "title": "Nvidia Chip Used in China, Reuters: US Air Force Hacked, More",
+   "summary": "Source: Bloomberg, 5:01",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-27/nvidia-chip-used-in-china-reuters-us-air-force-hacked-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 247.7
+  },
   {
    "cat": "sector",
    "time": "2026-11-27 20:43",
@@ -13,7 +41,7 @@
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 246.0
   },
   {
    "cat": "sector",
@@ -27,119 +55,91 @@
      "t": "sec"
     }
    ],
-   "heat": 239.4
+   "heat": 245.9
   },
   {
    "cat": "sector",
-   "time": "2026-11-27 17:53",
-   "title": "FX Daily: From Petrodollars to Chip US Dollars, Wall Street’s Currency Shift",
-   "summary": "",
+   "time": "2026-11-27 19:45",
+   "title": "Nvidia Blackwell Tech Used at China Site Tied to Alice Huang",
+   "summary": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surround…",
    "srcs": [
     {
-     "n": "Investing.com(外汇)",
-     "u": "https://www.investing.com/analysis/fx-daily-from-petrodollars-to-chip-us-dollars-wall-streets-currency-shift-200692419",
-     "t": "agg"
-    }
-   ],
-   "heat": 237.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-27 23:49",
-   "title": "'The Traitors' ended with a $246,300 prize—here's who won and what they told us about spending it",
-   "summary": "Winning prize money can come with some big financial decisions, including how much to set aside for taxes.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/make-it/2026/11/27/the-traitors-ends-with-246300-prize-heres-how-much-goes-to-taxes.html",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
      "t": "sec"
     }
    ],
-   "heat": 236.0
+   "heat": 245.8
   },
   {
    "cat": "sector",
-   "time": "2026-11-27 23:48",
-   "title": "Huawei Highlights Patent Licensing and Open Innovation at Seventh IP Forum",
-   "summary": "Huawei Highlights Patent Licensing and Open Innovation at Seventh IP Forum &nbsp;&nbsp; Caixin Global",
+   "time": "2026-11-27 12:20",
+   "title": "Weekly Must-Read: Jensen Huang’s Exit Tests Nvidia — and the AI Boom",
+   "summary": "Weekly Must-Read: Jensen Huang’s Exit Tests Nvidia — and the AI Boom &nbsp;&nbsp; Caixin Global",
    "srcs": [
     {
      "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSHEteTBJVl90Zm1NQTdjOS0teTZ3VEFPOW14ZTMxdW16VkVwRS1vZFdtMk5BTl9IMGoyaWlVYWhtWURIck04X2lhc2dhckFZY2JjdF9ORGMtQnNfbHZrMGVQTjJ2WHh5Qm54di1vWkNVNUYwNTVWT2pNdkktQ0hnb3RDSlZXUTFBamVKcjhCSlF0RDhWQXNpRXNjODZScUh0bWdFUldHanZpbnQwbEl0N2hwYS1ZOU1Ld18zWHZTaFd5SFlNckZmMA?oc=5",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSEJCcWFhejR0eXBpbVAtRERoaTVLb3l4RnNxNmctTHdhTFFLcTZFWk5xSTk2UEtqNk9naVhsRTc2RmFZWW9aQmVVdXhTbXNQMUlLQVRkWnRqZ29wUUgzaGd2SzlPX3FYMmRNWkhZeVZrNVl5WGRkc2ZBSzVtaXJ1UGZRSDlWN1l4TEhIZEtvVG1rYVNIQV80MHFwcXNDLVVScFZ0STZEWjFaOUhTQnRVNzN1NlZLUGR0X1pv?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 236.0
+   "heat": 244.6
   },
   {
    "cat": "sector",
-   "time": "2026-11-27 23:42",
-   "title": "Rains Ease El Niño Crop Fears in Brazil’s Top Soybean Region",
-   "summary": "A sea of vigorous, leafy green plants deep inside Brazil’s top soybean region is easing fears that El Niño would bring crop losses to the world’s top producer.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-27/rains-ease-el-nino-crop-fears-in-brazil-s-top-soybean-region",
-     "t": "sec"
-    }
-   ],
-   "heat": 236.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-27 23:07",
-   "title": "AI Can Level Playing Field for Travelers, Kelly Says",
-   "summary": "Brian Kelly, \"The Points Guy,\" says AI can help level the playing field for airline travelers, and he says use those airline miles as fast as you can. He speaks on \"Bloomberg Surve…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-27/ai-can-level-playing-field-for-travelers-kelly-says-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.9
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-27 22:54",
-   "title": "Can Russia Ever Change From Within",
-   "summary": "Vladimir Putin’s system is bound to fail, Marina Litvinenko says. She tells Mishal Husain why — and explains what might come next. (Source: Bloomberg)",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-27/can-russia-ever-change-from-within-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 235.8
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-27 22:52",
-   "title": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
-   "summary": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
+   "time": "2026-11-28 07:07",
+   "title": "OpenAI countersues Apple for stealing trade secrets",
+   "summary": "Apple in July sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner's foray into consumer hardware.",
    "srcs": [
     {
      "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+     "u": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
      "t": "sec"
     }
    ],
-   "heat": 235.8
+   "heat": 243.7
   },
   {
    "cat": "sector",
-   "time": "2026-11-27 22:47",
-   "title": "US Storm Triggers East Coast Power Outages",
-   "summary": "More than 500,000 homes and businesses along the East Coast are without power after an explosive storm uprooted trees in parts of New York City and inundated commuter rail lines in…",
+   "time": "2026-11-28 06:29",
+   "title": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
+   "summary": "A Brazilian beach soccer star has become an unlikely bargaining chip in a dispute over an alleged Russian spy who has been sought by both Moscow and Washington.",
    "srcs": [
     {
      "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-27/us-storm-triggers-east-coast-power-outages-video",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
      "t": "sec"
     }
    ],
-   "heat": 235.8
+   "heat": 243.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-28 03:02",
+   "title": "OpenAI Says Apple Pressured Suppliers to Shun Its Devices",
+   "summary": "The trade-secrets fight between OpenAI and Apple Inc. is widening, with the artificial intelligence company accusing the iPhone maker of undermining its supplier relationships and …",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices",
+     "t": "sec"
+    }
+   ],
+   "heat": 243.0
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-27 18:27",
+   "title": "Apple Pulls MiniMax’s Chatbot From App Store Over Child Safety Concerns",
+   "summary": "Apple Pulls MiniMax’s Chatbot From App Store Over Child Safety Concerns &nbsp;&nbsp; Caixin Global",
+   "srcs": [
+    {
+     "n": "财新(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFFqQzIxVXotOEhJVUdieFk4a1pxV2E3STRyNmZOcEZYVkNMNEl5Qm1COGdQUXBEVTVzSk8ta3Y5VHdIdi1kZ0V0VmNkQjAzNy02b0E3T2Z1WkczMFZmcHljR1htTFFkckd2QUNuR0ZMQnVKMkVLR0FFQU92TEtSbl9ha21falZINGNQblFOTlI3Z1BkTGNZWXNGcTdvOXhIcnZQRThUTGNwS2pFWXJNNGowbVEwbmlfbDVXYkE2YlMxdnc?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 241.6
   }
  ]
 }
