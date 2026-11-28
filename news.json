@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28 08:54",
+ "updated": "2026-11-28 19:12",
  "items": [
   {
    "cat": "macro",
@@ -13,7 +13,7 @@
      "t": "agg"
     }
    ],
-   "heat": 41.3
+   "heat": 35.6
   },
   {
    "cat": "macro",
@@ -27,21 +27,7 @@
      "t": "agg"
     }
    ],
-   "heat": 40.3
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-27 15:49",
-   "title": "Strategist sees S&P 500 rally to 10,000 - InvestorDaily",
-   "summary": "Strategist sees S&P 500 rally to 10,000 &nbsp;&nbsp; InvestorDaily",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FSzlJNXhiYzRfdkJoMEZXOGRMMWNRQnFDXzlId1VoUUg5VjFsMGd2RlBPOVJwVVE4ektEMHZvYjFCUmRSVGpHNFc0M0JsUlFiS3J6a1AxYzdYUi1MeDZlMGtFalB1ejRfUFExQ1FrZmV2Q0tEeUxmOFdMNA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 37.2
+   "heat": 34.6
   },
   {
    "cat": "macro",
@@ -55,7 +41,7 @@
      "t": "agg"
     }
    ],
-   "heat": 37.0
+   "heat": 27.3
   },
   {
    "cat": "macro",
@@ -69,21 +55,7 @@
      "t": "agg"
     }
    ],
-   "heat": 36.8
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-28 00:12",
-   "title": "Volatile stock market confronts jobs data, rate view as next tests",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/economy-news/sliding-stock-market-confronts-jobs-data-rate-view-as-next-tests-5053316",
-     "t": "agg"
-    }
-   ],
-   "heat": 36.5
+   "heat": 27.1
   },
   {
    "cat": "macro",
@@ -97,7 +69,7 @@
      "t": "agg"
     }
    ],
-   "heat": 35.1
+   "heat": 25.4
   },
   {
    "cat": "macro",
@@ -111,63 +83,21 @@
      "t": "sec"
     }
    ],
-   "heat": 32.0
+   "heat": 24.0
   },
   {
    "cat": "macro",
-   "time": "2026-11-28 06:11",
-   "title": "Black Friday Shoppers Trim Budgets While Thanksgiving Spending Hits $7.1 Billion",
-   "summary": "Plus: FDI rises to its highest level in over two years",
+   "time": "2026-11-28 14:24",
+   "title": "United Fidelity Shut in Biggest US Bank Failure in Two Years",
+   "summary": "US federal regulators closed down Indiana-based United Fidelity Bank on Friday after finding the lender was likely unable to pay its obligations, the country’s largest bank failure…",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-11-27/black-friday-shoppers-trim-budgets-while-thanksgiving-spending-hits-7-1-billion",
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-28/united-fidelity-is-shut-in-biggest-us-bank-collapse-in-two-years",
      "t": "sec"
     }
    ],
-   "heat": 23.5
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-28 05:19",
-   "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
-   "summary": "S&amp;P Global Ratings lifted the outlook on Hungary’s sovereign debt to stable from negative, citing planned steps by Prime Minister Peter Magyar’s cabinet to cut the budget defic…",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
-     "t": "sec"
-    }
-   ],
-   "heat": 23.4
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-28 02:20",
-   "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-   "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 22.9
-  },
-  {
-   "cat": "macro",
-   "time": "2026-11-27 22:12",
-   "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
-   "summary": "EU leaders failed to break a deadlock over the bloc’s budget, with talks set to resume in December as a key deadline looms.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 22.2
+   "heat": 23.2
   },
   {
    "cat": "macro",
@@ -181,7 +111,49 @@
      "t": "sec"
     }
    ],
-   "heat": 18.3
+   "heat": 20.6
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-28 06:11",
+   "title": "Black Friday Shoppers Trim Budgets While Thanksgiving Spending Hits $7.1 Billion",
+   "summary": "Plus: FDI rises to its highest level in over two years",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/newsletters/2026-11-27/black-friday-shoppers-trim-budgets-while-thanksgiving-spending-hits-7-1-billion",
+     "t": "sec"
+    }
+   ],
+   "heat": 17.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-28 02:20",
+   "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+   "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 17.2
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-27 22:12",
+   "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+   "summary": "EU leaders failed to break a deadlock over the bloc’s budget, with talks set to resume in December as a key deadline looms.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 16.5
   },
   {
    "cat": "macro",
@@ -195,7 +167,7 @@
      "t": "sec"
     }
    ],
-   "heat": 15.5
+   "heat": 13.8
   },
   {
    "cat": "macro",
@@ -209,7 +181,77 @@
      "t": "sec"
     }
    ],
-   "heat": 10.5
+   "heat": 8.8
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-27 20:04",
+   "title": "黄金多头终于喘口气！金价从一年多低点强势反弹3% 但加息阴影仍未消散",
+   "summary": "黄金多头终于喘口气！金价从一年多低点强势反弹3% 但加息阴影仍未消散 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NaWczZVBhSTduTjE1R1hvQjhlSUxTb0M2Nk9odVhRYm8zMWZKRFRUTUstb2hhRTc2TmFIcXg5RlhiY1RJMXlGag?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 8.1
+  },
+  {
+   "cat": "macro",
+   "time": "2026-11-27 19:48",
+   "title": "央行：不再对贷款罚息利率区间进行具体规定，由金融机构跟借款人协商确定具体的罚息利率",
+   "summary": "央行：不再对贷款罚息利率区间进行具体规定，由金融机构跟借款人协商确定具体的罚息利率 &nbsp;&nbsp; 财联社",
+   "srcs": [
+    {
+     "n": "财联社电报(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VRlBVSmZjUW5KajI4a05OQTkzTENfZHo4cklnLWJleWVQbGYyQTllVnczNHBnbUFGUnNoczlYdy1XUEQyMHVuVw?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 8.1
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-28 11:47",
+   "title": "American Airlines Jets Clip Wings, Nvidia Chip Used in China",
+   "summary": "Source: Bloomberg, 5:26",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-28/american-airlines-jets-clip-wings-nvidia-chip-used-in-china",
+     "t": "sec"
+    }
+   ],
+   "heat": 270.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-28 11:06",
+   "title": "American Airlines Jets Clip Wings,Nvidia Chip Used in China,More",
+   "summary": "Source: Bloomberg, 5:13",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-28/american-airlines-jets-clip-wings-nvidia-chip-used-in-china-more-mwztwk2v",
+     "t": "sec"
+    }
+   ],
+   "heat": 270.6
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-28 09:04",
+   "title": "Nvidia Chip Used in China, Reuters: US Air Force Hacked, More",
+   "summary": "Source: Bloomberg, 5:30",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/audio/2026-11-28/nvidia-chip-used-in-china-reuters-us-air-force-hacked-more",
+     "t": "sec"
+    }
+   ],
+   "heat": 270.3
   },
   {
    "cat": "sector",
@@ -223,21 +265,7 @@
      "t": "sec"
     }
    ],
-   "heat": 251.5
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-28 07:10",
-   "title": "Nvidia Chip Used in China, Reuters: US Air Force Hacked, More",
-   "summary": "Source: Bloomberg, 5:01",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-27/nvidia-chip-used-in-china-reuters-us-air-force-hacked-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 247.7
+   "heat": 269.8
   },
   {
    "cat": "sector",
@@ -251,21 +279,7 @@
      "t": "sec"
     }
    ],
-   "heat": 246.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-27 20:06",
-   "title": "Blackwell Chips Found at Alice Huang-Linked China Site",
-   "summary": "A Bloomberg investigation found Chinese firms installed an Nvidia GB300 Blackwell rack at a Shanghai data center linked to Alice Huang, despite US restrictions on the hardware. (So…",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/videos/2026-11-27/blackwell-chips-found-at-alice-huang-linked-china-site-video",
-     "t": "sec"
-    }
-   ],
-   "heat": 245.9
+   "heat": 268.3
   },
   {
    "cat": "sector",
@@ -279,7 +293,7 @@
      "t": "sec"
     }
    ],
-   "heat": 245.8
+   "heat": 268.1
   },
   {
    "cat": "sector",
@@ -293,77 +307,7 @@
      "t": "sec"
     }
    ],
-   "heat": 244.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-28 07:07",
-   "title": "OpenAI countersues Apple for stealing trade secrets",
-   "summary": "Apple in July sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner's foray into consumer hardware.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-28 06:29",
-   "title": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
-   "summary": "A Brazilian beach soccer star has become an unlikely bargaining chip in a dispute over an alleged Russian spy who has been sought by both Moscow and Washington.",
-   "srcs": [
-    {
-     "n": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-28 03:02",
-   "title": "OpenAI Says Apple Pressured Suppliers to Shun Its Devices",
-   "summary": "The trade-secrets fight between OpenAI and Apple Inc. is widening, with the artificial intelligence company accusing the iPhone maker of undermining its supplier relationships and …",
-   "srcs": [
-    {
-     "n": "Bloomberg Tech",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices",
-     "t": "sec"
-    }
-   ],
-   "heat": 243.0
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-27 18:27",
-   "title": "Apple Pulls MiniMax’s Chatbot From App Store Over Child Safety Concerns",
-   "summary": "Apple Pulls MiniMax’s Chatbot From App Store Over Child Safety Concerns &nbsp;&nbsp; Caixin Global",
-   "srcs": [
-    {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFFqQzIxVXotOEhJVUdieFk4a1pxV2E3STRyNmZOcEZYVkNMNEl5Qm1COGdQUXBEVTVzSk8ta3Y5VHdIdi1kZ0V0VmNkQjAzNy02b0E3T2Z1WkczMFZmcHljR1htTFFkckd2QUNuR0ZMQnVKMkVLR0FFQU92TEtSbl9ha21falZINGNQblFOTlI3Z1BkTGNZWXNGcTdvOXhIcnZQRThUTGNwS2pFWXJNNGowbVEwbmlfbDVXYkE2YlMxdnc?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 241.6
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-27 18:13",
-   "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
-   "summary": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
-   "srcs": [
-    {
-     "n": "CNBC",
-     "u": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
-     "t": "sec"
-    }
-   ],
-   "heat": 241.6
+   "heat": 266.9
   },
   {
    "cat": "sector",
@@ -377,35 +321,133 @@
      "t": "sec"
     }
    ],
-   "heat": 240.0
+   "heat": 264.0
   },
   {
    "cat": "sector",
-   "time": "2026-11-28 06:08",
-   "title": "Tech, policy and investment leaders from 120-plus countries converge on Dubai to drive clarity on AI’s shifting prioriti",
-   "summary": "Tech, policy and investment leaders from 120-plus countries converge on Dubai to drive clarity on AI’s shifting priorities &nbsp;&nbsp; Caixin Global",
+   "time": "2026-11-28 18:50",
+   "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
+   "summary": "Demand for computing infrastructure has surged since generative AI services were introduced, prompting technology companies to invest heavily in data centers.",
    "srcs": [
     {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMzRGQTBabE0wdGowYVAwNDNXVFdjdXJaTS1YdjVFNDFSSkJ6VUwzbllzZGh0U3RuWGFpTGd2RFhFTnYtRThjVlU2YWtoZFBsT3VoMEN5WEI0RHdJSzlRVW5uNW1tSWRUQkZiN3R0cmp0VG1WVFR5MmoyV0FHcnN5OW1pRE5PVzZZek1CVUR5VnZLYXh5eHg3UEI0SXdaalNhTDIzaGlsREhsWFJHMDdTRkdIWXZOWHh5TjBrbUcydVRWc2xLeU1kaXdoM2N6WjZLTHNyaDdNQWZvSmIxXzNTd1hwbjl0YVlmdWpGNEwxQV9sU0dXYjdQWjFHeklrMEdUalFPdGdR?oc=5",
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/28/musk-says-google-wants-to-rent-more-computing-capacity-from-spacex.html",
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 259.9
   },
   {
    "cat": "sector",
-   "time": "2026-11-28 05:48",
-   "title": "Huawei Highlights Patent Licensing and Open Innovation at Seventh IP Forum",
-   "summary": "Huawei Highlights Patent Licensing and Open Innovation at Seventh IP Forum &nbsp;&nbsp; Caixin Global",
+   "time": "2026-11-28 18:15",
+   "title": "Norway’s Wealth Fund Again Votes No to Musk’s Tesla Pay Package",
+   "summary": "Norway’s $2.2 trillion sovereign wealth fund said it is voting against Elon Musk’s 2025 pay package at Tesla Inc.’s annual meeting next week.",
    "srcs": [
     {
-     "n": "财新(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSHEteTBJVl90Zm1NQTdjOS0teTZ3VEFPOW14ZTMxdW16VkVwRS1vZFdtMk5BTl9IMGoyaWlVYWhtWURIck04X2lhc2dhckFZY2JjdF9ORGMtQnNfbHZrMGVQTjJ2WHh5Qm54di1vWkNVNUYwNTVWT2pNdkktQ0hnb3RDSlZXUTFBamVKcjhCSlF0RDhWQXNpRXNjODZScUh0bWdFUldHanZpbnQwbEl0N2hwYS1ZOU1Ld18zWHZTaFd5SFlNckZmMA?oc=5",
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-28/norway-s-wealth-fund-again-votes-no-to-musk-s-tesla-pay-package",
      "t": "sec"
     }
    ],
-   "heat": 239.5
+   "heat": 259.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-27 18:13",
+   "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+   "summary": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.8
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-28 17:38",
+   "title": "Thailand to Ban Export of Chemicals to Myanmar Rare-Earth Mines",
+   "summary": "Thailand is set to issue a ban on Monday on exports of chemicals used in rare-earth mining in Myanmar, after elevated arsenic levels in rivers in the north raised a public health a…",
+   "srcs": [
+    {
+     "n": "Bloomberg Tech",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-28/thailand-to-ban-export-of-chemicals-to-myanmar-rare-earth-mines",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.7
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-28 15:40",
+   "title": "U.S. military repelled drones at UK airbase this month, FT reports",
+   "summary": "The newspaper, citing people familiar with the matter, said the U.S. deployed counter-drone technology to repel the unmanned aerial systems.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/28/us-military-repelled-drones-at-uk-airbase-this-month-ft-reports.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.4
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-28 14:39",
+   "title": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
+   "summary": "India’s banking regulator is stepping up scrutiny of the nation’s $247 billion gold-loan sector as a sharp drop in bullion prices erodes the collateral that lenders demand from bor…",
+   "srcs": [
+    {
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-28/rbi-steps-up-gold-loan-scrutiny-as-bullion-rout-signals-strain",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.2
+  },
+  {
+   "cat": "sector",
+   "time": "2026-11-28 14:00",
+   "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+   "summary": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 259.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-28 14:00",
+   "title": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
+   "summary": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 87.1
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-28 14:15",
+   "title": "Defense company Chemring protects NATO fleets. Here's why an activist investor wants it to break up",
+   "summary": "A hedge fund activist says a Chemring overhaul could unlock up to 80% share upside in the defense stock.",
+   "srcs": [
+    {
+     "n": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/28/defense-nato-activist-investor.html",
+     "t": "sec"
+    }
+   ],
+   "heat": 75.2
   },
   {
    "cat": "stock",
@@ -419,63 +461,21 @@
      "t": "sec"
     }
    ],
-   "heat": 104.4
+   "heat": 74.7
   },
   {
    "cat": "stock",
-   "time": "2026-11-28 04:00",
-   "title": "Chinese Firms Install Nvidia Blackwell, Stocks Rally, More",
-   "summary": "Source: Bloomberg, 0:00",
+   "time": "2026-11-28 01:50",
+   "title": "Walmart Stock Outperforms SpaceX, but Elon Musk's Company Now Looks Cheaper - Coinpaper",
+   "summary": "Walmart Stock Outperforms SpaceX, but Elon Musk's Company Now Looks Cheaper &nbsp;&nbsp; Coinpaper",
    "srcs": [
     {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-27/chinese-firms-install-nvidia-blackwell-stocks-rally-more",
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzNQR3FLcU1jSXhfclJqbTNva0p2aEV5NGVBNi1RUXpTNkhocndUMlJkOXlfTmstTTBqTHY4TkRiODB5RS00aC1Qc2plTG9yRVM4c2pCazNmUHFDanFEcElRSWwyOUhXcThUUzVrUVpsNHE3Wi10d1BsZUZpcHhSMzVuV1JIcXJiWVJyLVByYVhUZEtIREZlT1VYdDlUTndVaFZZV0FB?oc=5",
      "t": "sec"
     }
    ],
-   "heat": 99.2
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-28 03:41",
-   "title": "Stock Movers: AI Stocks, Alvotech, Vertex (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-27/stock-movers-ai-stocks-alvotech-vertex-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 99.1
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-28 03:02",
-   "title": "Nvidia Blackwell Tech Used in China, Stocks Climb, More",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-27/nvidia-blackwell-tech-used-in-china-stocks-climb-more",
-     "t": "sec"
-    }
-   ],
-   "heat": 99.0
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-28 02:50",
-   "title": "Stock Movers: Nvidia, Dollar Tree, Verizon (Podcast)",
-   "summary": "Source: Bloomberg, 0:00",
-   "srcs": [
-    {
-     "n": "Bloomberg Business",
-     "u": "https://www.bloomberg.com/news/audio/2026-11-27/stock-movers-nvidia-dollar-tree-verizon-podcast",
-     "t": "sec"
-    }
-   ],
-   "heat": 99.0
+   "heat": 73.1
   },
   {
    "cat": "stock",
@@ -489,7 +489,7 @@
      "t": "sec"
     }
    ],
-   "heat": 98.7
+   "heat": 73.0
   },
   {
    "cat": "stock",
@@ -503,7 +503,49 @@
      "t": "sec"
     }
    ],
-   "heat": 98.7
+   "heat": 72.9
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-28 10:31",
+   "title": "Major shareholder buys $395,576 of LENZ Therapeutics stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/major-shareholder-buys-395576-of-lenz-therapeutics-stock-93CH-5054271",
+     "t": "agg"
+    }
+   ],
+   "heat": 72.6
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-27 21:29",
+   "title": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Wall Street Returns to Wrap Up Holiday-Short - Benzinga",
+   "summary": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Wall Street Returns to Wrap Up Holiday-Short &nbsp;&nbsp; Benzinga",
+   "srcs": [
+    {
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOVl92T3dva1RSSV9rc0JZWXA0ODh2Z2xUZXpnRkNpenpQN1F5UGQ2Y3J5MlZxNUY5Nk84c2l6YXN0NzctYWFxNUdfaHBQaHFSZnBYSWhiWTVEN3pmSm9Ud21LOFA4dEIwRUVzeVg3cF9YdDJiUjNlYW9CajVjOG12aTkyNnRRX0g0RUZTWHBxYzlHcTMyVjZPUmgtM3VGMXVScUVsVVJiZ0RyVlZITTUwclREX3BJckZMZFZ5aVZMV2ltaV8tWjZzcjB6cUlrR25FcEU1bktfUmExUmFfREdGM1A0MG1YYVJOMVgwS2NvMENJcG9IUnlxWEp5Tzhwb1VGVFRKaGVOY3Z0Qi1jRzNhZENudk1FcFJ1SkE?oc=5",
+     "t": "sec"
+    }
+   ],
+   "heat": 72.4
+  },
+  {
+   "cat": "stock",
+   "time": "2026-11-28 09:01",
+   "title": "O’Reilly Automotive SVP sells $2.87M in common stock",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(综合)",
+     "u": "https://www.investing.com/news/insider-trading-news/oreilly-automotive-svp-sells-287m-in-common-stock-93CH-5054230",
+     "t": "agg"
+    }
+   ],
+   "heat": 72.3
   },
   {
    "cat": "stock",
@@ -517,35 +559,7 @@
      "t": "sec"
     }
    ],
-   "heat": 97.8
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-27 18:43",
-   "title": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Wall Street Returns to Wrap Up Holiday-Short - Benzinga",
-   "summary": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Wall Street Returns to Wrap Up Holiday-Short &nbsp;&nbsp; Benzinga",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOVl92T3dva1RSSV9rc0JZWXA0ODh2Z2xUZXpnRkNpenpQN1F5UGQ2Y3J5MlZxNUY5Nk84c2l6YXN0NzctYWFxNUdfaHBQaHFSZnBYSWhiWTVEN3pmSm9Ud21LOFA4dEIwRUVzeVg3cF9YdDJiUjNlYW9CajVjOG12aTkyNnRRX0g0RUZTWHBxYzlHcTMyVjZPUmgtM3VGMXVScUVsVVJiZ0RyVlZITTUwclREX3BJckZMZFZ5aVZMV2ltaV8tWjZzcjB6cUlrR25FcEU1bktfUmExUmFfREdGM1A0MG1YYVJOMVgwS2NvMENJcG9IUnlxWEp5Tzhwb1VGVFRKaGVOY3Z0Qi1jRzNhZENudk1FcFJ1SkE?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 97.6
-  },
-  {
-   "cat": "stock",
-   "time": "2026-11-27 17:11",
-   "title": "Stock market today: Dow, S&P 500, Nasdaq gain on Black Friday as AI jitters steady - AOL.com",
-   "summary": "Stock market today: Dow, S&P 500, Nasdaq gain on Black Friday as AI jitters steady &nbsp;&nbsp; AOL.com",
-   "srcs": [
-    {
-     "n": "S&P Global(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iSU5HMHF0eHBRSkdvZng2N0xGcldHSnd4ZEFmZVlnZFpjMzd1d2JkU1lORGVlUEJWNl8wUjFlTmhGdWhmN1hMdzFqMEZpWVJlcWRoSlZySFVNMjRMb3VodWJPQ0lPTzNaRVhXc2VWeExjWXlQRnlV?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 97.4
+   "heat": 72.1
   },
   {
    "cat": "stock",
@@ -559,7 +573,7 @@
      "t": "sec"
     }
    ],
-   "heat": 97.2
+   "heat": 71.5
   },
   {
    "cat": "stock",
@@ -573,49 +587,49 @@
      "t": "sec"
     }
    ],
-   "heat": 96.7
+   "heat": 71.0
   },
   {
    "cat": "stock",
-   "time": "2026-11-28 00:31",
-   "title": "Rocket Lab general counsel sells $281,318 in stock",
-   "summary": "",
+   "time": "2026-11-27 07:53",
+   "title": "Gold Rises as Rebound in Tech Stocks Helps Revive Risk Appetite",
+   "summary": "Gold rose as a rally in stocks helped the precious metal recover from a rout that sent bullion prices to a 15-month low.",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/rocket-lab-general-counsel-sells-281318-in-stock-93CH-5054050",
-     "t": "agg"
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
+     "t": "sec"
     }
    ],
-   "heat": 96.6
+   "heat": 70.1
   },
   {
    "cat": "stock",
-   "time": "2026-11-28 00:00",
-   "title": "Opportunity Bancorp director sells $25,000 in common stock",
-   "summary": "",
+   "time": "2026-11-27 05:59",
+   "title": "S&P 500 Has Best Week Since April 2025 on AI Rally: Markets Wrap",
+   "summary": "Wall Street wrapped up a chaotic week with stocks climbing as a rebound in the artificial-intelligence trade gathered pace, reducing demand for Treasuries and haven currencies.",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/opportunity-bancorp-director-sells-25000-in-common-stock-93CH-5054027",
-     "t": "agg"
+     "n": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
+     "t": "sec"
     }
    ],
-   "heat": 96.5
+   "heat": 69.8
   },
   {
    "cat": "stock",
-   "time": "2026-11-27 23:31",
-   "title": "Kymera Therapeutics director sells $132.4M in common stock",
-   "summary": "",
+   "time": "2026-11-26 23:15",
+   "title": "Stock Market Today: Dow Jones Reclaims 50,000 as S&P 500 and Nasdaq Struggle - Coinpaper",
+   "summary": "Stock Market Today: Dow Jones Reclaims 50,000 as S&P 500 and Nasdaq Struggle &nbsp;&nbsp; Coinpaper",
    "srcs": [
     {
-     "n": "Investing.com(综合)",
-     "u": "https://www.investing.com/news/insider-trading-news/kymera-therapeutics-director-sells-1324m-in-common-stock-93CH-5054008",
-     "t": "agg"
+     "n": "S&P Global(Google聚合)",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWng1VmxGbXBfNUkyWHdETnhnQXYwY3N3RTQ3enVMZ3FJRUpJQ2NwZGVpVHdxUlA2R2hpYnZMTzNUYXEzdWpqeGUxWVJHeUZrU0dScXhfTGkzS29QUGZLZk9hUTRaZHJiT0hhaHRSME5FVGZ2QkdvcVdpb0ZuZlhaQ2ljMWgyakpEQ2pXcVVqTEs3dGRTcjg5dVVmWXRSWVo1eWtEVkZia2NPRFU?oc=5",
+     "t": "sec"
     }
    ],
-   "heat": 96.4
+   "heat": 68.7
   },
   {
    "cat": "global",
@@ -629,7 +643,7 @@
      "t": "agg"
     }
    ],
-   "heat": 24.0
+   "heat": 22.3
   },
   {
    "cat": "global",
@@ -643,7 +657,7 @@
      "t": "agg"
     }
    ],
-   "heat": 21.3
+   "heat": 19.6
   },
   {
    "cat": "global",
@@ -657,7 +671,7 @@
      "t": "agg"
     }
    ],
-   "heat": 20.6
+   "heat": 18.9
   },
   {
    "cat": "global",
@@ -671,7 +685,7 @@
      "t": "sec"
     }
    ],
-   "heat": 19.7
+   "heat": 18.0
   },
   {
    "cat": "global",
@@ -685,7 +699,21 @@
      "t": "sec"
     }
    ],
-   "heat": 14.8
+   "heat": 13.1
+  },
+  {
+   "cat": "global",
+   "time": "2026-11-28 16:00",
+   "title": "China Demand Slump Hits Kering, Mercedes, LVMH Across Multiple Sectors",
+   "summary": "The drag from China on European companies is spreading beyond carmakers and luxury houses, as weak demand and fiercer competition from local rivals hit a broader range of industrie…",
+   "srcs": [
+    {
+     "n": "Bloomberg Business",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-28/china-demand-slump-hits-kering-mercedes-lvmh-across-multiple-sectors",
+     "t": "sec"
+    }
+   ],
+   "heat": 11.5
   },
   {
    "cat": "global",
@@ -699,7 +727,7 @@
      "t": "agg"
     }
    ],
-   "heat": 11.0
+   "heat": 9.3
   },
   {
    "cat": "global",
@@ -713,21 +741,7 @@
      "t": "sec"
     }
    ],
-   "heat": 10.7
-  },
-  {
-   "cat": "global",
-   "time": "2026-11-28 01:59",
-   "title": "Gold and Palladium: The Comeback Meets Its First Test",
-   "summary": "",
-   "srcs": [
-    {
-     "n": "Investing.com(商品)",
-     "u": "https://www.investing.com/analysis/gold-and-palladium-the-comeback-meets-its-first-test-200692460",
-     "t": "agg"
-    }
-   ],
-   "heat": 8.8
+   "heat": 8.9
   },
   {
    "cat": "global",
@@ -759,6 +773,20 @@
   },
   {
    "cat": "global",
+   "time": "2026-11-28 01:59",
+   "title": "Gold and Palladium: The Comeback Meets Its First Test",
+   "summary": "",
+   "srcs": [
+    {
+     "n": "Investing.com(商品)",
+     "u": "https://www.investing.com/analysis/gold-and-palladium-the-comeback-meets-its-first-test-200692460",
+     "t": "agg"
+    }
+   ],
+   "heat": 7.1
+  },
+  {
+   "cat": "global",
    "time": "2026-11-27 16:52",
    "title": "FX Outlook: Green Friday",
    "summary": "",
@@ -769,7 +797,7 @@
      "t": "agg"
     }
    ],
-   "heat": 7.3
+   "heat": 5.6
   },
   {
    "cat": "crypto",
@@ -783,7 +811,7 @@
      "t": "sec"
     }
    ],
-   "heat": 103.5
+   "heat": 109.8
   },
   {
    "cat": "crypto",
@@ -797,7 +825,7 @@
      "t": "sec"
     }
    ],
-   "heat": 95.1
+   "heat": 101.4
   },
   {
    "cat": "crypto",
@@ -811,7 +839,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.7
+   "heat": 101.0
   },
   {
    "cat": "crypto",
@@ -825,7 +853,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.6
+   "heat": 100.8
   },
   {
    "cat": "crypto",
@@ -839,7 +867,7 @@
      "t": "sec"
     }
    ],
-   "heat": 94.3
+   "heat": 100.6
   },
   {
    "cat": "crypto",
@@ -853,7 +881,7 @@
      "t": "sec"
     }
    ],
-   "heat": 93.7
+   "heat": 96.0
   },
   {
    "cat": "crypto",
@@ -867,7 +895,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.8
+   "heat": 73.1
   },
   {
    "cat": "crypto",
@@ -881,7 +909,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.6
+   "heat": 72.9
   },
   {
    "cat": "crypto",
@@ -895,7 +923,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.3
+   "heat": 72.6
   },
   {
    "cat": "crypto",
@@ -909,7 +937,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.2
+   "heat": 72.5
   },
   {
    "cat": "crypto",
@@ -923,7 +951,7 @@
      "t": "sec"
     }
    ],
-   "heat": 74.1
+   "heat": 72.4
   },
   {
    "cat": "crypto",
@@ -937,7 +965,7 @@
      "t": "sec"
     }
    ],
-   "heat": 73.9
+   "heat": 72.2
   },
   {
    "cat": "crypto",
@@ -951,7 +979,7 @@
      "t": "sec"
     }
    ],
-   "heat": 73.8
+   "heat": 72.1
   },
   {
    "cat": "crypto",
@@ -965,7 +993,7 @@
      "t": "sec"
     }
    ],
-   "heat": 73.8
+   "heat": 72.1
   },
   {
    "cat": "crypto",
@@ -979,21 +1007,7 @@
      "t": "sec"
     }
    ],
-   "heat": 73.7
-  },
-  {
-   "cat": "sector",
-   "time": "2026-11-27 23:11",
-   "title": "欧洲AI数据中心开发商LIAN选定伦敦上市 拟募资约5亿美元",
-   "summary": "欧洲AI数据中心开发商LIAN选定伦敦上市 拟募资约5亿美元 &nbsp;&nbsp; 财联社",
-   "srcs": [
-    {
-     "n": "财联社电报(Google聚合)",
-     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNRVRiZHZ0cFFqcTFQYmhrcUZQUFFENm1fQnlpSkdPQ3dkU01EV2ctdUtia0dfdVdNN0hKbTFUSTBUSlpidTlJNA?oc=5",
-     "t": "sec"
-    }
-   ],
-   "heat": 238.4
+   "heat": 72.0
   }
  ]
 }
